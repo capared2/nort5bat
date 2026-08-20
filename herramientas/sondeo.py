@@ -39,7 +39,43 @@ MARCADORES = {
 }
 
 
-def sondear(fetcher: Fetcher, url: str) -> dict:
+BLOQUES_JSON = re.compile(
+    r'<script[^>]*id=["\']([^"\']+)["\'][^>]*type=["\']application/json["\'][^>]*>(.*?)</script>',
+    re.I | re.S,
+)
+JSONLD = re.compile(r'<script[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', re.I | re.S)
+
+
+def volcar(cuerpo: str, limite: int) -> None:
+    """Enseña de que bloques de datos se puede sacar una ficha, y como son.
+
+    Escribir un parser suponiendo la forma del HTML es lo que costo el ultimo
+    intento; esto la enseña antes de escribir una linea.
+    """
+    for numero, crudo in enumerate(JSONLD.findall(cuerpo), start=1):
+        print(f"\n--- JSON-LD #{numero} ({len(crudo)} b) ---")
+        try:
+            datos = json.loads(crudo.strip())
+        except ValueError as exc:
+            print(f"  ilegible: {exc}")
+            continue
+        print(json.dumps(datos, ensure_ascii=False, indent=2)[:limite])
+
+    bloques = BLOQUES_JSON.findall(cuerpo)
+    if bloques:
+        print(f"\n--- otros bloques JSON incrustados: {len(bloques)} ---")
+    for identificador, crudo in bloques:
+        print(f"\n  [{identificador}] {len(crudo)} b")
+        try:
+            datos = json.loads(crudo.strip())
+        except ValueError:
+            continue
+        if isinstance(datos, dict):
+            print("    claves:", ", ".join(list(datos)[:20]))
+        print("   ", json.dumps(datos, ensure_ascii=False)[:limite].replace("\n", " "))
+
+
+def sondear(fetcher: Fetcher, url: str, mostrar: int = 0) -> dict:
     permitida = fetcher.allowed(url)
     informe = {"url": url, "robots_permite": permitida}
 
@@ -58,6 +94,8 @@ def sondear(fetcher: Fetcher, url: str) -> dict:
         return informe
 
     cuerpo = respuesta.text
+    if mostrar:
+        volcar(cuerpo, mostrar)
     informe.update(
         {
             "estado": 200,
@@ -74,6 +112,8 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="sondeo", description="Comprueba si un origen se deja recoger.")
     parser.add_argument("urls", nargs="*", default=[], help="URLs a sondear (por defecto, las candidatas)")
     parser.add_argument("--delay", type=float, default=1.0)
+    parser.add_argument("--volcar", type=int, default=0, metavar="N",
+                        help="enseña los bloques de datos de cada pagina, N caracteres de cada uno")
     args = parser.parse_args(argv)
 
     urls = args.urls or CANDIDATAS
@@ -81,7 +121,7 @@ def main(argv: list[str] | None = None) -> int:
 
     informes = []
     for url in urls:
-        informe = sondear(fetcher, url)
+        informe = sondear(fetcher, url, mostrar=args.volcar)
         informes.append(informe)
         origen = urlsplit(url).netloc
         estado = informe.get("estado")

@@ -9,6 +9,10 @@ on:
         description: "URLs separadas por espacios (vacio = las candidatas del script)"
         type: string
         default: ""
+      volcar:
+        description: "Enseñar los bloques de datos de cada pagina, N caracteres de cada uno (0 = no)"
+        type: string
+        default: "0"
 
 permissions:
   contents: read
@@ -30,12 +34,13 @@ jobs:
       - name: Sondear
         env:
           URLS: ${{ inputs.urls }}
+          VOLCAR: ${{ inputs.volcar || '0' }}
         run: |
           set -euo pipefail
           {
             echo "## Sondeo de origenes"
             echo
             echo '```'
-            python -m herramientas.sondeo $URLS 2>&1 | tee /dev/stderr
+            python -m herramientas.sondeo --volcar "$VOLCAR" $URLS 2>&1 | tee /dev/stderr
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"
