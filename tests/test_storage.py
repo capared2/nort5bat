@@ -98,8 +98,30 @@ def test_el_indice_de_busqueda_se_trocea_por_inicial(tmp_path):
     con_t = json.loads((tmp_path / "buscar" / "t.json").read_text())
     con_m = json.loads((tmp_path / "buscar" / "m.json").read_text())
     assert con_t["titles"] == [["tt0133093", "sci-fi", "The Matrix", 2000, 7.0]]
-    assert con_m["titles"] == [["tt0133093", "sci-fi", "Matrix", 2000, 7.0]]
+    # "The Matrix" tambien vive bajo la eme, que es por donde se busca.
+    assert sorted(fila[2] for fila in con_m["titles"]) == ["Matrix", "The Matrix"]
     assert json.loads((tmp_path / "buscar" / "index.json").read_text())["letters"] == ["m", "t"]
+
+
+def test_una_pelicula_se_encuentra_por_cualquiera_de_sus_palabras(tmp_path):
+    """Nadie busca «el padrino»: busca «padrino»."""
+    almacen = TitleStore(tmp_path, shard_size=10)
+    padrino = ficha("tt0068646", "crime", ("Crime",))
+    padrino["title"] = "El padrino"
+    padrino["original_title"] = "The Godfather"
+    almacen.add(padrino)
+    almacen.flush()
+    almacen.rebuild_index()
+
+    def titulos(letra):
+        ruta = tmp_path / "buscar" / f"{letra}.json"
+        return [fila[2] for fila in json.loads(ruta.read_text())["titles"]] if ruta.exists() else []
+
+    assert "El padrino" in titulos("p")      # por la palabra que se teclea
+    assert "El padrino" in titulos("e")      # y por la inicial del titulo
+    assert "The Godfather" in titulos("g")   # el original, por su palabra fuerte
+    # Los articulos no generan cubo propio si no encabezan el titulo.
+    assert titulos("d") == []
 
 
 def test_no_se_reescribe_lo_que_no_ha_cambiado(tmp_path):

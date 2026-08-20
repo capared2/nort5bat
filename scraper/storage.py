@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 import threading
 import unicodedata
 from datetime import datetime, timezone
@@ -22,7 +23,10 @@ ROUTES_DIR = "rutas"          # id -> (genero, parte), troceado por final del id
 
 RAIL_LIMIT = 40               # fichas por carrusel de la portada
 GENRE_TOP_LIMIT = 200         # destacadas por genero
-SEARCH_BUCKET_LIMIT = 3000    # titulos por inicial en el indice de busqueda
+# Titulos por inicial. Ahora cada pelicula entra en varias letras, asi que el
+# tope sube; las entradas llegan ordenadas por votos, de modo que si un cubo se
+# llena lo que se cae es lo que nadie busca.
+SEARCH_BUCKET_LIMIT = 4000
 PLOT_PREVIEW = 200            # caracteres de sinopsis que viajan en una tarjeta
 
 # Lo que necesita el frontend para pintar una tarjeta sin bajarse la ficha.
@@ -83,14 +87,30 @@ def tarjeta(ficha: dict) -> dict:
     return resumen
 
 
-def _inicial(titulo: str) -> str:
-    """Letra bajo la que se indexa un titulo para la busqueda."""
+# Palabras que no sirven para buscar: nadie teclea "el" esperando encontrar algo.
+VACIAS = {
+    "el", "la", "los", "las", "un", "una", "unos", "unas", "lo", "de", "del",
+    "y", "en", "al", "a", "the", "of", "and", "an", "to", "in", "on", "for",
+}
+
+
+def _iniciales(titulo: str) -> set[str]:
+    """Letras bajo las que se indexa un titulo para la busqueda.
+
+    No basta con la primera: en castellano casi todo empieza por "El" o "La",
+    y quien busca "padrino" no escribe "el padrino". Se indexa por la inicial
+    de cada palabra que signifique algo, asi que "El padrino" se encuentra
+    tanto por la "e" como por la "p".
+    """
     limpio = unicodedata.normalize("NFKD", titulo or "")
-    limpio = limpio.encode("ascii", "ignore").decode("ascii").lower().strip()
-    primera = next((c for c in limpio if c.isalnum()), "")
-    if not primera:
-        return "otros"
-    return primera if primera.isalpha() else "0"
+    limpio = limpio.encode("ascii", "ignore").decode("ascii").lower()
+
+    letras: set[str] = set()
+    for palabra in re.split(r"[^a-z0-9]+", limpio):
+        if not palabra or (palabra in VACIAS and len(letras) > 0):
+            continue
+        letras.add(palabra[0] if palabra[0].isalpha() else "0")
+    return letras or {"otros"}
 
 
 def _orden(ficha: dict) -> tuple:
@@ -396,9 +416,11 @@ class TitleStore:
             for titulo in {carta.get("title"), carta.get("original_title")}:
                 if not titulo:
                     continue
-                cubos.setdefault(_inicial(titulo), []).append(
-                    [carta["id"], carta["category"], titulo, carta.get("year"), carta.get("rating")]
-                )
+                entrada = [
+                    carta["id"], carta["category"], titulo, carta.get("year"), carta.get("rating")
+                ]
+                for letra in _iniciales(titulo):
+                    cubos.setdefault(letra, []).append(entrada)
 
         destino = self.data_dir / SEARCH_DIR
         for letra, entradas in cubos.items():
