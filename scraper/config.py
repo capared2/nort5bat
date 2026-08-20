@@ -29,6 +29,10 @@ ALLOWED_HOSTS = {
 DATASET_BASE_URL = _entorno("IMDB_DATASET_URL", "https://datasets.imdbws.com")
 DATASET_BASICS = "title.basics.tsv.gz"
 DATASET_RATINGS = "title.ratings.tsv.gz"
+DATASET_AKAS = "title.akas.tsv.gz"
+DATASET_CREW = "title.crew.tsv.gz"
+DATASET_PRINCIPALS = "title.principals.tsv.gz"
+DATASET_NAMES = "name.basics.tsv.gz"
 
 DEFAULT_USER_AGENT = _entorno(
     "IMDB_USER_AGENT",

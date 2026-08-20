@@ -2,16 +2,16 @@ name: Scrape IMDb
 
 on:
   schedule:
-    # Cada seis horas: una pelicula no cambia como un titular, pero las notas y
-    # los votos si se mueven a diario.
-    - cron: "20 */6 * * *"
+    # Una vez al dia: los datasets de IMDb se publican con esa cadencia, y son
+    # ficheros grandes que no tiene sentido volver a recorrer cada pocas horas.
+    - cron: "20 5 * * *"
   workflow_dispatch:
     inputs:
       mode:
-        description: "incremental (listas + cola) o full (catalogo completo)"
+        description: "catalogo (datasets publicos, el unico que IMDb permite hoy), incremental o full"
         type: choice
-        options: [incremental, full]
-        default: incremental
+        options: [catalogo, incremental, full]
+        default: catalogo
       sources:
         description: "Fuentes separadas por coma: charts,datasets,sitemap (vacio = segun modo)"
         type: string
@@ -28,6 +28,10 @@ on:
         description: "Votos minimos para que un titulo entre en el catalogo"
         type: string
         default: "1000"
+      no_cast:
+        description: "No bajar reparto ni equipo (se salta los dos ficheros mas grandes)"
+        type: boolean
+        default: false
       catalog_limit:
         description: "Tope de titulos que se sacan del catalogo (0 = todos)"
         type: string
@@ -82,7 +86,7 @@ jobs:
 
       - name: Ejecutar scraper
         env:
-          MODE: ${{ inputs.mode || 'incremental' }}
+          MODE: ${{ inputs.mode || 'catalogo' }}
           SOURCES: ${{ inputs.sources || '' }}
           MAX_TITLES: ${{ inputs.max_titles || '0' }}
           TIME_BUDGET: ${{ inputs.time_budget || '3300' }}
@@ -97,6 +101,7 @@ jobs:
           # en las expresiones de GitHub un booleano falso se cuela por la rama
           # equivocada; la decision se toma abajo, en el shell.
           IGNORE_ROBOTS: ${{ inputs.ignore_robots }}
+          NO_CAST: ${{ inputs.no_cast }}
           SITE_URL: ${{ vars.SITE_URL }}
         run: |
           set -euo pipefail
@@ -114,6 +119,7 @@ jobs:
           if [ -n "$SOURCES" ]; then args+=(--sources "$SOURCES"); fi
           if [ "$SKIP_DISCOVERY" = "true" ]; then args+=(--skip-discovery); fi
           if [ "$IGNORE_ROBOTS" != "false" ]; then args+=(--ignore-robots); fi
+          if [ "$NO_CAST" = "true" ]; then args+=(--no-cast); fi
           python -m scraper "${args[@]}"
 
       # Una ejecucion que no guarda nada porque el origen nos cierra la puerta

@@ -19,9 +19,13 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         "--mode",
-        choices=("incremental", "full"),
-        default="incremental",
-        help="incremental: listas publicas y cola pendiente. full: catalogo completo.",
+        choices=("catalogo", "incremental", "full"),
+        default="catalogo",
+        help=(
+            "catalogo: fichas desde los datasets publicos, sin pedir paginas "
+            "(el unico modo que IMDb permite hoy). incremental y full recogen "
+            "el HTML de las fichas, que IMDb responde con un 202."
+        ),
     )
     parser.add_argument(
         "--sources",
@@ -48,6 +52,8 @@ def build_parser() -> argparse.ArgumentParser:
                         help="tope de titulos que se sacan del catalogo (0 = todos)")
     parser.add_argument("--include-adult", action="store_true",
                         help="incluye los titulos marcados como adultos")
+    parser.add_argument("--no-cast", action="store_true",
+                        help="en modo catalogo, no bajar reparto ni equipo (dos ficheros menos)")
     parser.add_argument("--no-similar", action="store_true",
                         help="no encolar los titulos parecidos de cada ficha")
     parser.add_argument("--refresh", type=int, default=0,
@@ -110,6 +116,7 @@ def main(argv: list[str] | None = None) -> int:
         min_year=args.min_year,
         catalog_limit=args.catalog_limit,
         include_adult=args.include_adult,
+        with_cast=not args.no_cast,
         follow_similar=not args.no_similar,
         refresh=args.refresh,
         max_failures=args.max_failures,

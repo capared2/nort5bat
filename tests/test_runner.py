@@ -87,3 +87,25 @@ def test_una_ficha_que_no_baja_cuenta_como_fallo(tmp_path, monkeypatch):
     assert resumen["saved"] == 1
     fallidas = json.loads((tmp_path / "state" / "failed.json").read_text())
     assert fallidas == {"https://www.imdb.com/title/tt0068646/": 1}
+
+
+def test_el_modo_catalogo_llena_el_archivo_sin_pedir_una_sola_ficha(tmp_path, falso):
+    resumen = runner.run(opciones(tmp_path, mode="catalogo", min_votes=1000))
+
+    assert resumen["saved"] == 2
+    assert resumen["total_titles"] == 2
+    # Ni una peticion a una pagina de IMDb: solo los ficheros de datos.
+    assert not any("/title/" in url for url in falso.pedidas)
+    assert not any("/chart/" in url for url in falso.pedidas)
+
+    indice = json.loads((tmp_path / "data" / "index.json").read_text())
+    assert indice["total_titles"] == 2
+    portada = json.loads((tmp_path / "data" / "portada.json").read_text())
+    assert portada["populares"][0]["title"] == "Cadena perpetua"
+    assert (tmp_path / "data" / "seo" / "sitemap-peliculas-0001.xml").exists()
+
+
+def test_el_catalogo_se_puede_repasar_sin_duplicar_nada(tmp_path, falso):
+    runner.run(opciones(tmp_path, mode="catalogo", min_votes=1000))
+    segundo = runner.run(opciones(tmp_path, mode="catalogo", min_votes=1000))
+    assert segundo["total_titles"] == 2

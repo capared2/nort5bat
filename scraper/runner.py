@@ -6,7 +6,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 
-from . import config, discovery, seo
+from . import catalogo, config, discovery, seo
 from . import urls as urlutil
 from .fetcher import Fetcher
 from .parser import parse_title
@@ -37,6 +37,7 @@ class Options:
     min_year: int = config.DEFAULT_MIN_YEAR
     catalog_limit: int = 0             # tope de titulos que se sacan del catalogo
     include_adult: bool = False
+    with_cast: bool = True             # el reparto sale del dataset mas grande
     follow_similar: bool = True        # encolar los "titulos parecidos" de cada ficha
     refresh: int = 0                   # vuelve a pasar por las N fichas ya guardadas
     max_failures: int = 3
@@ -107,6 +108,29 @@ def run(options: Options) -> dict:
             if options.time_budget
             else None
         )
+
+        # Modo catalogo: las fichas se construyen con los datasets publicos y no
+        # se pide una sola pagina de IMDb. Es el unico camino que queda abierto,
+        # porque IMDb responde 202 a cualquier cliente automatico.
+        if options.mode == "catalogo":
+            fichas = catalogo.construir(
+                fetcher,
+                tipos=options.types,
+                min_votos=options.min_votes,
+                min_anio=options.min_year,
+                limite=options.catalog_limit,
+                incluir_adulto=options.include_adult,
+                con_reparto=options.with_cast,
+            )
+            resumen["discovered"] = len(fichas)
+            for ficha in fichas:
+                store.add(ficha)
+                state.mark_seen(ficha["url"])
+            resumen["fetched"] = len(fichas)
+            resumen["saved"] = len(fichas)
+            # Salir por aqui no se salta nada: el bloque finally es el que
+            # vuelca, reindexa y escribe los sitemaps, y corre igualmente.
+            return resumen
 
         resumen["refreshed"] = _refrescar(state, options.refresh)
 

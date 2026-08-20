@@ -7,16 +7,46 @@ pasada, los índices y los sitemaps que consume el frontend.
 El sitio que lo usa vive en **[capared2/nort5](https://github.com/capared2/nort5)**.
 Aquí no hay web: solo el proceso que recoge los datos y el archivo resultante.
 
+## IMDb no deja recoger sus fichas
+
+Comprobado contra el sitio real, no en teoría:
+
+- Su `robots.txt` prohíbe `/title/` y `/chart/` a todo agente que no sea un
+  buscador conocido.
+- Y aunque se ignore, **IMDb responde `HTTP 202` a todas las peticiones**: el
+  muro anti-bot de Amazon acepta la conexión y devuelve un interstitial en vez
+  de la página. Detecta al cliente por su huella TLS y sus cabeceras, así que
+  cambiar el User-Agent no arregla nada.
+
+Por eso el modo por defecto es **`catalogo`**, que no pide ni una sola página:
+construye las fichas con los [datasets que publica la propia
+IMDb](https://developer.imdb.com/non-commercial-datasets/), que sí están
+abiertos. Los modos `incremental` y `full`, que recogen el HTML, siguen en el
+código y funcionan contra cualquier origen que los permita, pero hoy contra
+IMDb devuelven 202 y nada más.
+
+Lo que los datasets **sí** traen: título original y traducido al castellano,
+año, duración, géneros, nota, votos, dirección, guion y reparto con sus
+personajes. Lo que **no**: carátula, sinopsis, tráiler, clasificación,
+presupuesto y recaudación. Esos campos quedan vacíos y el sitio los da por
+ausentes.
+
 ## Cómo funciona
 
 ```
-descubrir URLs ──▶ cola reanudable ──▶ descargar ficha ──▶ parsear ──▶ data/
-   charts            state/pending      Fetcher educado    JSON-LD +     índices
-   datasets                             (robots.txt)       __NEXT_DATA__  sitemaps
-   sitemap
+modo catalogo (el que corre a diario)
+  datasets IMDb ──▶ cruce en streaming ──▶ fichas ──▶ data/ (índices y sitemaps)
+
+modo incremental / full (recogida de HTML, hoy bloqueada por IMDb)
+  descubrir URLs ──▶ cola reanudable ──▶ descargar ──▶ parsear ──▶ data/
 ```
 
-Tres fuentes para encontrar títulos:
+En modo `catalogo` se recorren seis ficheros en streaming —ninguno cabe en
+memoria— y se cruzan contra el conjunto de títulos seleccionado: valoraciones,
+fichas básicas, alias por idioma, equipo, reparto y nombres de persona. Con
+`--no-cast` se saltan los dos más grandes.
+
+Para la recogida de HTML hay tres fuentes para encontrar títulos:
 
 - **charts** — las listas públicas (Top 250, lo más popular, taquilla). Cuatro
   peticiones y traen justo lo que la gente está viendo ahora.
@@ -36,10 +66,13 @@ y deja el resto en `state/pending.txt`, así que la siguiente sigue donde lo dej
 ```bash
 pip install -r requirements.txt
 
-# Lo más visto ahora mismo, sin límite de fichas
+# El catálogo entero desde los datasets (lo que corre a diario)
 python -m scraper
 
-# Catálogo completo: películas con 5.000 votos o más desde 1970
+# Solo lo más votado, y sin bajar los ficheros de reparto
+python -m scraper --min-votes 50000 --no-cast
+
+# Recogida de HTML: sigue en el código, hoy IMDb la corta con un 202
 python -m scraper --mode full --min-votes 5000 --min-year 1970
 
 # Solo vaciar la cola pendiente de la ejecución anterior
@@ -53,7 +86,8 @@ Opciones que más se tocan:
 
 | Opción | Para qué |
 | --- | --- |
-| `--mode incremental\|full` | `full` baja el catálogo entero; `incremental` solo mira las listas |
+| `--mode catalogo\|incremental\|full` | `catalogo` construye las fichas desde los datasets; los otros dos recogen HTML |
+| `--no-cast` | en `catalogo`, no bajar reparto ni equipo: dos ficheros grandes menos |
 | `--min-votes` | umbral de votos para entrar en el catálogo (por defecto 1000) |
 | `--types` | `movie,tvMovie` por defecto; admite `tvSeries`, `short`… |
 | `--catalog-limit` | tope de títulos que se sacan del catálogo |
@@ -112,8 +146,10 @@ no cabe ahí. Con este reparto, pintar una ficha son dos lecturas pequeñas
 
 ## Automatización
 
-`.github/workflows/scrape.yml` corre cada seis horas, guarda lo nuevo y hace
-commit de `data/` y `state/`. Se puede lanzar a mano desde la pestaña Actions
+`.github/workflows/scrape.yml` corre una vez al día —que es cada cuánto se
+publican los datasets—, guarda lo nuevo y hace commit de `data/` y `state/`.
+Si una ejecución no guarda nada porque el origen la rechaza, el workflow falla
+en vez de publicar un commit vacío con tick verde. Se puede lanzar a mano desde la pestaña Actions
 con todos los parámetros de arriba. La variable de repositorio `SITE_URL` marca
 el dominio que se escribe en los sitemaps.
 

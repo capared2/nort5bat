@@ -32,6 +32,36 @@ RATINGS_TSV = [
     "tt9999999\t7.1\t12",          # no llega al minimo de votos
 ]
 
+AKAS_TSV = [
+    "titleId\tordering\ttitle\tregion\tlanguage\ttypes\tattributes\tisOriginalTitle",
+    "tt0111161\t1\tCadena perpetua\tES\t\\N\timdbDisplay\t\\N\t0",
+    "tt0111161\t2\tSuenos de fuga\tMX\t\\N\timdbDisplay\t\\N\t0",
+    "tt0068646\t1\tEl padrino\t\\N\tes\timdbDisplay\t\\N\t0",
+]
+
+CREW_TSV = [
+    "tconst\tdirectors\twriters",
+    "tt0111161\tnm0001104\tnm0000175,nm0001104",
+    "tt0068646\tnm0000338\tnm0000338",
+]
+
+PRINCIPALS_TSV = [
+    "tconst\tordering\tnconst\tcategory\tjob\tcharacters",
+    'tt0111161\t1\tnm0000209\tactor\t\\N\t["Andy Dufresne"]',
+    'tt0111161\t2\tnm0000151\tactor\t\\N\t["Ellis Boyd \'Red\' Redding"]',
+    "tt0111161\t3\tnm0001104\tdirector\t\\N\t\\N",
+    'tt0068646\t1\tnm0000008\tactor\t\\N\t["Don Vito Corleone"]',
+]
+
+NAMES_TSV = [
+    "nconst\tprimaryName\tbirthYear\tdeathYear\tprimaryProfession\tknownForTitles",
+    "nm0000209\tTim Robbins\t1958\t\\N\tactor\ttt0111161",
+    "nm0000151\tMorgan Freeman\t1937\t\\N\tactor\ttt0111161",
+    "nm0001104\tFrank Darabont\t1959\t\\N\twriter\ttt0111161",
+    "nm0000175\tStephen King\t1947\t\\N\twriter\ttt0111161",
+    "nm0000338\tFrancis Ford Coppola\t1939\t\\N\tdirector\ttt0068646",
+]
+
 BASICS_TSV = [
     "tconst\ttitleType\tprimaryTitle\toriginalTitle\tisAdult\tstartYear\tendYear\truntimeMinutes\tgenres",
     "tt0111161\tmovie\tThe Shawshank Redemption\tThe Shawshank Redemption\t0\t1994\t\\N\t142\tDrama",
@@ -83,8 +113,17 @@ class FakeFetcher:
     def stream_lines(self, url: str):
         self.pedidas.append(url)
         self.stats["requests"] += 1
-        lineas = RATINGS_TSV if "ratings" in url else BASICS_TSV
-        yield from lineas
+        for marca, lineas in (
+            ("ratings", RATINGS_TSV),
+            ("akas", AKAS_TSV),
+            ("crew", CREW_TSV),
+            ("principals", PRINCIPALS_TSV),
+            ("name.basics", NAMES_TSV),
+            ("basics", BASICS_TSV),
+        ):
+            if marca in url:
+                yield from lineas
+                return
 
     def close(self) -> None:
         pass
