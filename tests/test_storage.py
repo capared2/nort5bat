@@ -209,3 +209,12 @@ def test_una_variable_de_entorno_vacia_no_borra_el_valor_por_defecto(monkeypatch
 
     monkeypatch.delenv("SITE_URL")
     importlib.reload(config)
+
+
+def test_la_tarjeta_lleva_los_porcentajes_que_enseña_la_parrilla():
+    """Sin ellos, cada tarjeta pintaba un porcentaje vacio."""
+    completa = ficha("una-cualquiera")
+    completa.update({"tomatometer": 94, "audience_score": 93})
+    resumida = tarjeta(completa)
+    assert resumida["tomatometer"] == 94
+    assert resumida["audience_score"] == 93

@@ -32,7 +32,8 @@ PLOT_PREVIEW = 200            # caracteres de sinopsis que viajan en una tarjeta
 # Lo que necesita el frontend para pintar una tarjeta sin bajarse la ficha.
 CARD_FIELDS = (
     "id", "category", "type", "title", "original_title", "year", "genres",
-    "rating", "votes", "runtime_minutes", "certificate", "poster",
+    "rating", "votes", "tomatometer", "audience_score", "runtime_minutes",
+    "certificate", "poster",
 )
 
 
