@@ -145,6 +145,11 @@ El índice de búsqueda se trocea por la inicial de **cada palabra** que
 signifique algo, no sólo la primera: quien busca «padrino» no escribe «el
 padrino».
 
+Cuando un género desaparece de la tabla, su carpeta y su lista se borran solas
+al rehacer los índices. Así un cambio de géneros se hace en una sola ejecución,
+sin tener que vaciar el archivo a mano y dejar el sitio sin nada mientras se
+reconstruye.
+
 Los ficheros sólo se reescriben cuando su contenido cambia de verdad. Sin eso,
 cada ejecución dejaría en git un diff de miles de ficheros idénticos salvo por
 la marca de tiempo.

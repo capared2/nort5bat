@@ -252,3 +252,25 @@ def test_el_cursor_del_refresco_sobrevive_a_la_ejecucion(tmp_path):
         "https://www.rottentomatoes.com/m/p05",
     ]
 
+
+
+def test_los_generos_retirados_se_borran_solos(tmp_path):
+    """Cambiar la tabla de generos no deberia obligar a vaciar el archivo."""
+    almacen = TitleStore(tmp_path, shard_size=10)
+    almacen.add(ficha("alien", "horror", ("Horror",)))
+    almacen.flush()
+    almacen.rebuild_index()
+
+    # Un genero de una version anterior, con su carpeta y su lista.
+    viejo = tmp_path / "titulos" / "ciencia-ficcion"
+    viejo.mkdir(parents=True)
+    (viejo / "part-0001.json").write_text('{"genre": "ciencia-ficcion", "part": 1, "count": 0, "titles": []}')
+    (tmp_path / "generos" / "ciencia-ficcion.json").write_text('{"genre": "ciencia-ficcion"}')
+
+    indice = almacen.rebuild_index()
+
+    assert not viejo.exists()
+    assert not (tmp_path / "generos" / "ciencia-ficcion.json").exists()
+    assert [g["genre"] for g in indice["genres"]] == ["horror"]
+    # Lo que si es un genero de verdad no se toca.
+    assert (tmp_path / "titulos" / "horror").is_dir()

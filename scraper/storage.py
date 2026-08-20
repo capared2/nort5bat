@@ -6,6 +6,7 @@ import logging
 import os
 import re
 import re
+import shutil
 import threading
 import unicodedata
 from datetime import datetime, timezone
@@ -239,6 +240,10 @@ class TitleStore:
     # -- indices ---------------------------------------------------------
     def rebuild_index(self) -> dict:
         """Rehace indices, carruseles de portada, listas por genero y busqueda."""
+        # Primero se limpia y despues se indexa lo que queda: al reves, un
+        # genero retirado seguiria colandose en el indice de esta pasada.
+        self._limpiar_restos()
+
         generos: list[dict] = []
         lookups: dict[str, dict[str, int]] = {}
         tarjetas: list[dict] = []
@@ -320,6 +325,28 @@ class TitleStore:
         }
         _write_json(self.data_dir / "index.json", indice, volatiles=("generated_at",))
         return indice
+
+    def _limpiar_restos(self) -> None:
+        """Borra las carpetas de generos que ya no existen.
+
+        Cuando cambia la tabla de generos, las carpetas viejas se quedan ahi y
+        el indice las sigue anunciando. Limpiarlas aqui permite hacer el cambio
+        en una sola ejecucion, sin tener que vaciar el archivo a mano y dejar
+        el sitio sin nada mientras se rehace.
+        """
+        vivos = set(config.GENRES)
+
+        raiz = self.data_dir / TITLES_DIR
+        for carpeta in sorted(raiz.iterdir()) if raiz.is_dir() else []:
+            if carpeta.is_dir() and carpeta.name not in vivos:
+                log.info("genero retirado: se borra %s", carpeta)
+                shutil.rmtree(carpeta)
+
+        listas = self.data_dir / GENRES_DIR
+        for fichero in sorted(listas.glob("*.json")) if listas.is_dir() else []:
+            if fichero.stem not in vivos:
+                log.info("genero retirado: se borra %s", fichero)
+                fichero.unlink()
 
     def _escribir_rutas(self, lookups: dict[str, dict[str, int]]) -> None:
         """Resuelve un identificador a su fichero sin leer el archivo entero.
