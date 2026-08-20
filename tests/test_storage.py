@@ -156,3 +156,16 @@ def test_el_estado_sobrevive_a_la_ejecucion(tmp_path):
     recargado = RunState(tmp_path)
     assert recargado.seen == {"a"}
     assert recargado.pending == ["b"]
+
+
+def test_las_rutas_resuelven_un_id_sin_saber_su_genero(tmp_path):
+    almacen = TitleStore(tmp_path, shard_size=10)
+    almacen.add(ficha("tt0111161", "crime", ("Crime", "Drama")))
+    almacen.add(ficha("tt0133093", "sci-fi", ("Sci-Fi",)))
+    almacen.flush()
+    almacen.rebuild_index()
+
+    cubo = json.loads((tmp_path / "rutas" / "61.json").read_text())
+    assert cubo["titles"] == {"tt0111161": ["crime", 1]}
+    otro = json.loads((tmp_path / "rutas" / "93.json").read_text())
+    assert otro["titles"] == {"tt0133093": ["sci-fi", 1]}

@@ -74,6 +74,7 @@ data/
     part-0001.json           las fichas completas, de 60 en 60
     lookup.json              id → número de parte, para resolver una ficha con una sola lectura
   generos/<género>.json      lo mejor de cada género, incluidos los secundarios
+  rutas/<xx>.json            id → (género, parte), troceado por el final del id
   buscar/<inicial>.json      índice de búsqueda troceado por letra
   seo/                       sitemaps listos para servir
 ```
@@ -84,6 +85,11 @@ no en aventura. Como una película tiene hasta tres géneros, `generos/<género>
 guarda además las mejores de cada uno contando también los secundarios, que es
 lo que hace que «Alien» salga en terror **y** en ciencia ficción.
 
+La dirección pública de una película es solo su identificador (`/pelicula/tt0111161`),
+no su género: una película puede cambiar de género principal entre ejecuciones y
+las direcciones ya publicadas no pueden romperse por eso. `rutas/` es lo que
+permite resolver un identificador a su fichero con una sola lectura pequeña.
+
 Los ficheros solo se reescriben cuando su contenido cambia de verdad. Sin eso,
 cada ejecución dejaría en git un diff de miles de ficheros idénticos salvo por
 la marca de tiempo.
@@ -93,7 +99,7 @@ la marca de tiempo.
 El frontend corre sobre Cloudflare Workers, que en el plan gratuito corta a los
 10 ms de CPU por petición. Descargar un JSON de cientos de megas y buscar dentro
 no cabe ahí. Con este reparto, pintar una ficha son dos lecturas pequeñas
-(`lookup.json` y su `part-NNNN.json`) y una búsqueda es una sola.
+(`rutas/<xx>.json` y su `part-NNNN.json`) y una búsqueda es una sola.
 
 ## Estado entre ejecuciones
 

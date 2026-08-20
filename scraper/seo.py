@@ -91,7 +91,7 @@ def construir(
                 )
             urls.append(
                 _entrada(
-                    f"{base}/pelicula/{ficha['category']}/{ficha['id']}",
+                    f"{base}/pelicula/{ficha['id']}",
                     ficha.get("updated_at"),
                     prioridad="0.7",
                     frecuencia="weekly",

@@ -18,6 +18,7 @@ PART_TEMPLATE = "part-{:04d}.json"
 TITLES_DIR = "titulos"        # ficha completa, en la carpeta de su genero principal
 GENRES_DIR = "generos"        # lo mejor de cada genero, incluidos los secundarios
 SEARCH_DIR = "buscar"         # indice de busqueda troceado por inicial
+ROUTES_DIR = "rutas"          # id -> (genero, parte), troceado por final del id
 
 RAIL_LIMIT = 40               # fichas por carrusel de la portada
 GENRE_TOP_LIMIT = 200         # destacadas por genero
@@ -268,6 +269,7 @@ class TitleStore:
                 volatiles=(),
             )
 
+        self._escribir_rutas(lookups)
         self._escribir_portada(tarjetas)
         destacadas = self._escribir_generos(tarjetas)
         self._escribir_busqueda(tarjetas)
@@ -296,6 +298,26 @@ class TitleStore:
         }
         _write_json(self.data_dir / "index.json", indice, volatiles=("generated_at",))
         return indice
+
+    def _escribir_rutas(self, lookups: dict[str, dict[str, int]]) -> None:
+        """Resuelve un identificador a su fichero sin leer el archivo entero.
+
+        La direccion publica de una pelicula es solo su id, para que no se rompa
+        el dia que cambie de genero principal. A cambio hace falta esto: cien
+        cubos por las dos ultimas cifras del id, de modo que dar con una ficha
+        cueste siempre una lectura pequeña.
+        """
+        cubos: dict[str, dict[str, list]] = {}
+        for genero, lookup in lookups.items():
+            for identificador, parte in lookup.items():
+                cubos.setdefault(identificador[-2:], {})[identificador] = [genero, parte]
+
+        for sufijo, entradas in cubos.items():
+            _write_json(
+                self.data_dir / ROUTES_DIR / f"{sufijo}.json",
+                {"bucket": sufijo, "count": len(entradas), "titles": dict(sorted(entradas.items()))},
+                volatiles=(),
+            )
 
     def _escribir_portada(self, tarjetas: list[dict]) -> None:
         """Los carruseles de la portada, en un solo fichero.

@@ -23,8 +23,8 @@ def test_construye_indice_sitemap_de_generos_y_de_peliculas(tmp_path):
     assert manifiesto["sitemaps"] == ["sitemap-generos.xml", "sitemap-peliculas-0001.xml"]
 
     peliculas = (tmp_path / "seo" / "sitemap-peliculas-0001.xml").read_text()
-    assert "https://cinera.app/pelicula/drama/tt0000001" in peliculas
-    assert "https://cinera.app/pelicula/horror/tt0000002" in peliculas
+    assert "https://cinera.app/pelicula/tt0000001" in peliculas
+    assert "https://cinera.app/pelicula/tt0000002" in peliculas
     # La caratula viaja en el sitemap para entrar en Google Imagenes.
     assert "<image:loc>https://m.media-amazon.com/tt0000001.jpg</image:loc>" in peliculas
 
