@@ -40,3 +40,38 @@ def test_discover_junta_fuentes_conservando_la_prioridad():
     todas = discovery.discover(falso, ["charts", "datasets", "sitemap"])
     assert todas[0] == "https://www.imdb.com/title/tt0111161/"
     assert len(todas) == len(set(todas))
+
+
+def test_el_fetcher_lleva_la_cuenta_de_los_codigos_que_devuelve_el_origen(monkeypatch):
+    """Un 'fallaron todas' sin codigos no es un diagnostico, es un misterio."""
+    import requests
+
+    from scraper.fetcher import Fetcher
+
+    class RespuestaFalsa:
+        def __init__(self, codigo):
+            self.status_code = codigo
+            self.headers = {}
+            self.url = "https://www.imdb.com/title/tt0111161/"
+            self.encoding = "utf-8"
+            self.text = ""
+
+        def close(self):
+            pass
+
+    fetcher = Fetcher(delay=0, retries=1, respect_robots=False)
+    codigos = iter([403, 404, requests.ConnectionError("sin ruta")])
+
+    def falsa(url, **kwargs):
+        siguiente = next(codigos)
+        if isinstance(siguiente, Exception):
+            raise siguiente
+        return RespuestaFalsa(siguiente)
+
+    monkeypatch.setattr(fetcher.session, "get", falsa)
+
+    for _ in range(3):
+        assert fetcher.get("https://www.imdb.com/title/tt0111161/") is None
+
+    assert fetcher.stats["statuses"] == {"403": 1, "404": 1, "ConnectionError": 1}
+    assert fetcher.stats["errors"] == 3

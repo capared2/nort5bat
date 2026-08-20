@@ -81,7 +81,10 @@ class Fetcher:
         )
         self._robots: dict[str, RobotFileParser | None] = {}
         self._robots_lock = threading.Lock()
-        self.stats = {"requests": 0, "errors": 0, "blocked": 0}
+        # El recuento por codigo es lo que convierte un "fallaron todas" en un
+        # diagnostico: sin esto habia que releer el log en modo verboso para
+        # saber si el origen contestaba 403, 404 o nada.
+        self.stats: dict = {"requests": 0, "errors": 0, "blocked": 0, "statuses": {}}
 
     # -- robots -----------------------------------------------------------
     def _robots_for(self, url: str) -> RobotFileParser | None:
@@ -121,6 +124,10 @@ class Fetcher:
             return []
         return list(getattr(parser, "sitemaps", None) or [])
 
+    def _anotar(self, clave) -> None:
+        conteo = self.stats["statuses"]
+        conteo[str(clave)] = conteo.get(str(clave), 0) + 1
+
     # -- descargas --------------------------------------------------------
     def _request(self, url: str, stream: bool = False):
         """Peticion con reintentos. Devuelve la respuesta cruda de requests."""
@@ -139,7 +146,9 @@ class Fetcher:
                 )
             except requests.RequestException as exc:
                 last_error = str(exc)
+                self._anotar(type(exc).__name__)
             else:
+                self._anotar(resp.status_code)
                 if resp.status_code == 200:
                     return resp
                 resp.close()
