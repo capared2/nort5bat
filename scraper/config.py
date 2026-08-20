@@ -5,8 +5,18 @@ import os
 
 BASE_URL = "https://www.imdb.com"
 
+def _entorno(clave: str, defecto: str) -> str:
+    """Valor del entorno, tratando la cadena vacia como "no definido".
+
+    GitHub Actions pasa una variable de repositorio inexistente como cadena
+    vacia, no como ausente: con os.environ.get a secas, no declarar SITE_URL
+    dejaba los sitemaps sin dominio.
+    """
+    return os.environ.get(clave) or defecto
+
+
 # Dominio publico del sitio que consume este dataset (para los sitemaps).
-SITE_URL = os.environ.get("SITE_URL", "https://nort5.com")
+SITE_URL = _entorno("SITE_URL", "https://nort5.com")
 
 # Hosts de los que aceptamos descargar fichas.
 ALLOWED_HOSTS = {
@@ -16,11 +26,11 @@ ALLOWED_HOSTS = {
 }
 
 # Los datasets oficiales viven en su propio host y no son HTML.
-DATASET_BASE_URL = os.environ.get("IMDB_DATASET_URL", "https://datasets.imdbws.com")
+DATASET_BASE_URL = _entorno("IMDB_DATASET_URL", "https://datasets.imdbws.com")
 DATASET_BASICS = "title.basics.tsv.gz"
 DATASET_RATINGS = "title.ratings.tsv.gz"
 
-DEFAULT_USER_AGENT = os.environ.get(
+DEFAULT_USER_AGENT = _entorno(
     "IMDB_USER_AGENT",
     "nort5bat-scraper/1.0 (+https://github.com/capared2/nort5bat)",
 )

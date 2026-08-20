@@ -169,3 +169,21 @@ def test_las_rutas_resuelven_un_id_sin_saber_su_genero(tmp_path):
     assert cubo["titles"] == {"tt0111161": ["crime", 1]}
     otro = json.loads((tmp_path / "rutas" / "93.json").read_text())
     assert otro["titles"] == {"tt0133093": ["sci-fi", 1]}
+
+
+def test_una_variable_de_entorno_vacia_no_borra_el_valor_por_defecto(monkeypatch):
+    """Actions pasa una variable de repositorio inexistente como cadena vacia."""
+    import importlib
+
+    from scraper import config
+
+    monkeypatch.setenv("SITE_URL", "")
+    recargado = importlib.reload(config)
+    assert recargado.SITE_URL == "https://nort5.com"
+
+    monkeypatch.setenv("SITE_URL", "https://otro.example")
+    recargado = importlib.reload(config)
+    assert recargado.SITE_URL == "https://otro.example"
+
+    monkeypatch.delenv("SITE_URL")
+    importlib.reload(config)
