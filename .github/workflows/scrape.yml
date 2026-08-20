@@ -1,0 +1,160 @@
+name: Scrape IMDb
+
+on:
+  schedule:
+    # Cada seis horas: una pelicula no cambia como un titular, pero las notas y
+    # los votos si se mueven a diario.
+    - cron: "20 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "incremental (listas + cola) o full (catalogo completo)"
+        type: choice
+        options: [incremental, full]
+        default: incremental
+      sources:
+        description: "Fuentes separadas por coma: charts,datasets,sitemap (vacio = segun modo)"
+        type: string
+        default: ""
+      max_titles:
+        description: "Maximo de fichas en esta ejecucion (0 = sin limite)"
+        type: string
+        default: "0"
+      time_budget:
+        description: "Segundos maximos de scraping antes de guardar y salir"
+        type: string
+        default: "3300"
+      min_votes:
+        description: "Votos minimos para que un titulo entre en el catalogo"
+        type: string
+        default: "1000"
+      catalog_limit:
+        description: "Tope de titulos que se sacan del catalogo (0 = todos)"
+        type: string
+        default: "0"
+      refresh:
+        description: "Vuelve a pasar por N fichas ya guardadas para actualizar notas"
+        type: string
+        default: "0"
+      workers:
+        description: "Peticiones en paralelo"
+        type: string
+        default: "4"
+      delay:
+        description: "Segundos entre peticiones"
+        type: string
+        default: "1.0"
+      skip_discovery:
+        description: "Solo procesar la cola pendiente, sin buscar URLs nuevas"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Nunca dos ejecuciones a la vez: comparten el estado versionado en el repo.
+concurrency:
+  group: scrape-imdb
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar scraper
+        env:
+          MODE: ${{ inputs.mode || 'incremental' }}
+          SOURCES: ${{ inputs.sources || '' }}
+          MAX_TITLES: ${{ inputs.max_titles || '0' }}
+          TIME_BUDGET: ${{ inputs.time_budget || '3300' }}
+          MIN_VOTES: ${{ inputs.min_votes || '1000' }}
+          CATALOG_LIMIT: ${{ inputs.catalog_limit || '0' }}
+          REFRESH: ${{ inputs.refresh || '0' }}
+          WORKERS: ${{ inputs.workers || '4' }}
+          DELAY: ${{ inputs.delay || '1.0' }}
+          SKIP_DISCOVERY: ${{ inputs.skip_discovery || 'false' }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          set -euo pipefail
+          args=(
+            --mode "$MODE"
+            --max-titles "$MAX_TITLES"
+            --time-budget "$TIME_BUDGET"
+            --min-votes "$MIN_VOTES"
+            --catalog-limit "$CATALOG_LIMIT"
+            --refresh "$REFRESH"
+            --workers "$WORKERS"
+            --delay "$DELAY"
+            --summary-file run-summary.json
+          )
+          if [ -n "$SOURCES" ]; then args+=(--sources "$SOURCES"); fi
+          if [ "$SKIP_DISCOVERY" = "true" ]; then args+=(--skip-discovery); fi
+          python -m scraper "${args[@]}"
+
+      - name: Resumen de la ejecucion
+        if: always()
+        run: |
+          {
+            echo "## Scraping de imdb.com"
+            echo
+            if [ -f run-summary.json ]; then
+              echo '```json'
+              cat run-summary.json
+              echo '```'
+            else
+              echo "La ejecucion no llego a producir un resumen."
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Publicar resultados en el repositorio
+        if: always()
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data state
+
+          if git diff --cached --quiet; then
+            echo "Sin cambios que publicar."
+            exit 0
+          fi
+
+          total=$(python -c "import json;print(json.load(open('data/index.json'))['total_titles'])" 2>/dev/null || echo "?")
+          nuevas=$(python -c "import json;print(json.load(open('run-summary.json'))['saved'])" 2>/dev/null || echo "?")
+          git commit -m "data: +${nuevas} fichas de imdb.com (total ${total})"
+
+          for intento in 1 2 3 4 5; do
+            if git push origin HEAD:${GITHUB_REF_NAME}; then
+              echo "Publicado en el intento ${intento}."
+              exit 0
+            fi
+            echo "Push fallido (intento ${intento}); reintegrando remoto y reintentando."
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            sleep $((2 ** intento))
+          done
+
+          echo "No se pudo publicar tras 5 intentos." >&2
+          exit 1
+
+      - name: Guardar resumen como artefacto
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: run-summary
+          path: run-summary.json
+          if-no-files-found: ignore
