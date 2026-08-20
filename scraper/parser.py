@@ -13,6 +13,7 @@ from datetime import datetime, timezone
 
 from bs4 import BeautifulSoup
 
+from . import config
 from . import urls as urlutil
 
 log = logging.getLogger(__name__)
@@ -120,6 +121,33 @@ def _personas(entradas, limite: int) -> list[dict]:
     return salida
 
 
+def _trailer(video) -> dict | None:
+    """Lo que hace falta para reproducir el trailer en nuestra propia pagina.
+
+    El identificador publico del video ya viene en la ficha, y la URL del medio
+    se arma con el: no hace falta pedir la pagina de trailers, que seria una
+    peticion mas por pelicula.
+    """
+    if not isinstance(video, dict):
+        return None
+    publico = video.get("publicId")
+    if not publico:
+        return None
+    miniatura = (video.get("thumbnail") or {}).get("url") if isinstance(video.get("thumbnail"), dict) else None
+    try:
+        segundos = int(float(video.get("durationInSeconds") or 0)) or None
+    except (TypeError, ValueError):
+        segundos = None
+    return {
+        "id": str(publico),
+        "title": (video.get("title") or "").strip(),
+        "thumbnail": miniatura,
+        "seconds": segundos,
+        # Se pide el corte en MP4, que es el que reproduce un <video> a secas.
+        "src": f"{config.VIDEO_BASE_URL}/{publico}?mbr=true&format=redirect&formats=MPEG4",
+    }
+
+
 def parse_movie(html: str, url: str) -> dict | None:
     """Construye el registro de la pelicula. ``None`` si la pagina no es una ficha."""
     soup = BeautifulSoup(html, "lxml")
@@ -158,7 +186,7 @@ def parse_movie(html: str, url: str) -> dict | None:
 
     generos = [
         nombre
-        for nombre in (urlutil.genero_en_castellano(g) for g in contenido.get("metadataGenres") or [])
+        for nombre in (urlutil.nombre_genero(g) for g in contenido.get("metadataGenres") or [])
         if nombre
     ]
 
@@ -226,7 +254,7 @@ def parse_movie(html: str, url: str) -> dict | None:
         "tagline": "",
         "poster": caratula,
         "images": imagenes,
-        "trailer": f"{urlutil.movie_url(slug)}/trailers" if video else None,
+        "trailer": _trailer(video),
         "directors": [{"id": d["id"], "name": d["name"]} for d in directores],
         "writers": [],
         "cast": [

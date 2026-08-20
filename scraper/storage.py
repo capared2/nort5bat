@@ -112,7 +112,7 @@ def _iniciales(titulo: str) -> set[str]:
         if not palabra or (palabra in VACIAS and len(letras) > 0):
             continue
         letras.add(palabra[0] if palabra[0].isalpha() else "0")
-    return letras or {"otros"}
+    return letras or {"other"}
 
 
 def _orden(ficha: dict) -> tuple:

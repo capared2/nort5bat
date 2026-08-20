@@ -50,7 +50,7 @@ def test_una_ficha_ya_guardada_se_actualiza_en_su_sitio(tmp_path):
 
 def test_los_indices_cubren_generos_principales_y_secundarios(tmp_path):
     almacen = TitleStore(tmp_path, shard_size=10)
-    almacen.add(ficha("alien", "terror", ("Terror", "Ciencia ficción"), votos=500_000, nota=8.5))
+    almacen.add(ficha("alien", "horror", ("Horror", "Sci-Fi"), votos=500_000, nota=8.5))
     almacen.add(ficha("network", "drama", ("Drama",), votos=30_000, nota=9.1, anio=1975))
     almacen.flush()
 
@@ -58,15 +58,15 @@ def test_los_indices_cubren_generos_principales_y_secundarios(tmp_path):
     assert indice["total_titles"] == 2
 
     generos = {g["genre"]: g for g in indice["genres"]}
-    assert generos["terror"]["titles"] == 1
+    assert generos["horror"]["titles"] == 1
     # Ciencia ficcion no gana como principal, pero tiene lista y sale en el menu.
-    assert generos["ciencia-ficcion"]["titles"] == 0
-    assert generos["ciencia-ficcion"]["tagged"] == 1
+    assert generos["sci-fi"]["titles"] == 0
+    assert generos["sci-fi"]["tagged"] == 1
 
-    sci = json.loads((tmp_path / "generos" / "ciencia-ficcion.json").read_text())
+    sci = json.loads((tmp_path / "generos" / "sci-fi.json").read_text())
     assert [t["id"] for t in sci["titles"]] == ["alien"]
 
-    lookup = json.loads((tmp_path / "titulos" / "terror" / "lookup.json").read_text())
+    lookup = json.loads((tmp_path / "titulos" / "horror" / "lookup.json").read_text())
     assert lookup["parts"] == {"alien": 1}
 
 
@@ -88,7 +88,7 @@ def test_la_portada_reune_los_carruseles(tmp_path):
 
 def test_el_indice_de_busqueda_se_trocea_por_inicial(tmp_path):
     almacen = TitleStore(tmp_path, shard_size=10)
-    matrix = ficha("the_matrix", "ciencia-ficcion", ("Ciencia ficción",))
+    matrix = ficha("the_matrix", "sci-fi", ("Sci-Fi",))
     matrix["title"] = "The Matrix"
     matrix["original_title"] = "Matrix"
     almacen.add(matrix)
@@ -97,7 +97,7 @@ def test_el_indice_de_busqueda_se_trocea_por_inicial(tmp_path):
 
     con_t = json.loads((tmp_path / "buscar" / "t.json").read_text())
     con_m = json.loads((tmp_path / "buscar" / "m.json").read_text())
-    assert con_t["titles"] == [["the_matrix", "ciencia-ficcion", "The Matrix", 2000, 7.0]]
+    assert con_t["titles"] == [["the_matrix", "sci-fi", "The Matrix", 2000, 7.0]]
     # "The Matrix" tambien vive bajo la eme, que es por donde se busca.
     assert sorted(fila[2] for fila in con_m["titles"]) == ["Matrix", "The Matrix"]
     assert json.loads((tmp_path / "buscar" / "index.json").read_text())["letters"] == ["m", "t"]
@@ -106,7 +106,7 @@ def test_el_indice_de_busqueda_se_trocea_por_inicial(tmp_path):
 def test_una_pelicula_se_encuentra_por_cualquiera_de_sus_palabras(tmp_path):
     """Nadie busca «el padrino»: busca «padrino»."""
     almacen = TitleStore(tmp_path, shard_size=10)
-    padrino = ficha("the_godfather", "crimen", ("Crimen",))
+    padrino = ficha("the_godfather", "crime", ("Crime",))
     padrino["title"] = "El padrino"
     padrino["original_title"] = "The Godfather"
     almacen.add(padrino)
@@ -182,15 +182,15 @@ def test_el_estado_sobrevive_a_la_ejecucion(tmp_path):
 
 def test_las_rutas_resuelven_un_id_sin_saber_su_genero(tmp_path):
     almacen = TitleStore(tmp_path, shard_size=10)
-    almacen.add(ficha("the_godfather", "crimen", ("Crimen", "Drama")))
-    almacen.add(ficha("the_matrix", "ciencia-ficcion", ("Ciencia ficción",)))
+    almacen.add(ficha("the_godfather", "crime", ("Crime", "Drama")))
+    almacen.add(ficha("the_matrix", "sci-fi", ("Sci-Fi",)))
     almacen.flush()
     almacen.rebuild_index()
 
     cubo = json.loads((tmp_path / "rutas" / "er.json").read_text())
-    assert cubo["titles"] == {"the_godfather": ["crimen", 1]}
+    assert cubo["titles"] == {"the_godfather": ["crime", 1]}
     otro = json.loads((tmp_path / "rutas" / "ix.json").read_text())
-    assert otro["titles"] == {"the_matrix": ["ciencia-ficcion", 1]}
+    assert otro["titles"] == {"the_matrix": ["sci-fi", 1]}
 
 
 def test_una_variable_de_entorno_vacia_no_borra_el_valor_por_defecto(monkeypatch):

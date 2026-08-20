@@ -40,10 +40,10 @@ def test_las_dos_notas_de_la_casa_y_la_de_diez():
     assert datos["votes"] == 166247 + 3849
 
 
-def test_generos_traducidos_y_carpeta_de_destino():
+def test_generos_normalizados_y_carpeta_de_destino():
     datos = ficha()
-    assert datos["genres"] == ["Crimen", "Drama"]
-    assert datos["category"] == "crimen"
+    assert datos["genres"] == ["Crime", "Drama"]
+    assert datos["category"] == "crime"
 
 
 def test_equipo_y_reparto_con_sus_fotos():
@@ -63,7 +63,6 @@ def test_imagenes_sinopsis_y_donde_verla():
     assert len(datos["images"]) == 4          # caratula, fondo y dos fotos
     assert datos["images"][0]["url"] == datos["poster"]
     assert [s["name"] for s in datos["streaming"]] == ["Stream", "Paramount+"]
-    assert datos["trailer"].endswith("/the_godfather/trailers")
 
 
 def test_sin_los_bloques_json_se_apaña_con_el_resto():
@@ -87,3 +86,21 @@ def test_duraciones():
     assert duracion_minutos("95m") == 95
     assert duracion_minutos("") is None
     assert duracion_minutos("cualquier cosa") is None
+
+
+def test_el_trailer_trae_con_que_reproducirlo_sin_salir_del_sitio():
+    """El identificador del video ya viene en la ficha: no hace falta otra peticion."""
+    datos = ficha()
+    trailer = datos["trailer"]
+    assert trailer["id"] == "HBkn4j1fqMph"
+    assert trailer["title"] == "The Godfather: Trailer 1"
+    assert trailer["src"].endswith("/HBkn4j1fqMph?mbr=true&format=redirect&formats=MPEG4")
+    assert trailer["seconds"] is None      # el fixture no trae duracion en segundos
+
+
+def test_una_pelicula_sin_video_no_inventa_un_trailer():
+    from scraper.parser import _trailer
+
+    assert _trailer(None) is None
+    assert _trailer({}) is None
+    assert _trailer({"title": "sin identificador"}) is None

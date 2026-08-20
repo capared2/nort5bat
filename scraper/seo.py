@@ -91,14 +91,14 @@ def construir(
                 )
             urls.append(
                 _entrada(
-                    f"{base}/pelicula/{ficha['id']}",
+                    f"{base}/movie/{ficha['id']}",
                     ficha.get("updated_at"),
                     prioridad="0.7",
                     frecuencia="weekly",
                     extra=imagen,
                 )
             )
-        nombre = f"sitemap-peliculas-{numero:04d}.xml"
+        nombre = f"sitemap-movies-{numero:04d}.xml"
         _escribir(
             destino / nombre,
             _urlset(urls, ' xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"'),
@@ -107,16 +107,16 @@ def construir(
 
     fijas = [
         _entrada(f"{base}/", _ahora(), "1.0", "daily"),
-        _entrada(f"{base}/generos", _ahora(), "0.6", "weekly"),
+        _entrada(f"{base}/genres", _ahora(), "0.6", "weekly"),
         _entrada(f"{base}/top", _ahora(), "0.8", "daily"),
     ]
     for genero in sorted(generos, key=lambda g: g.get("genre", "")):
         clave = genero.get("genre")
         if clave:
-            fijas.append(_entrada(f"{base}/genero/{clave}", _ahora(), "0.7", "daily"))
-    _escribir(destino / "sitemap-generos.xml", _urlset(fijas))
+            fijas.append(_entrada(f"{base}/genre/{clave}", _ahora(), "0.7", "daily"))
+    _escribir(destino / "sitemap-genres.xml", _urlset(fijas))
 
-    hijos = ["sitemap-generos.xml", *trozos]
+    hijos = ["sitemap-genres.xml", *trozos]
     lineas = [
         '<?xml version="1.0" encoding="UTF-8"?>',
         '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',

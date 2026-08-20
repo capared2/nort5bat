@@ -32,20 +32,23 @@ def test_identificadores():
     assert urls.movie_id("https://www.rottentomatoes.com/browse/movies_at_home/") is None
 
 
-def test_los_generos_llegan_traducidos():
-    assert urls.genero_en_castellano("Mystery & Thriller") == "Misterio y suspense"
-    assert urls.genero_en_castellano("Sci-Fi") == "Ciencia ficción"
-    assert urls.genero_en_castellano("Kids & Family") == "Infantil y familiar"
-    # Ya traducido, de una ficha que se vuelve a leer.
-    assert urls.genero_en_castellano("Comedia") == "Comedia"
-    assert urls.genero_en_castellano("Loquesea") == ""
+def test_los_generos_se_normalizan_a_su_nombre_canonico():
+    assert urls.nombre_genero("Mystery & Thriller") == "Mystery & Thriller"
+    assert urls.nombre_genero("mystery & thriller") == "Mystery & Thriller"
+    assert urls.genre_slug("Mystery & Thriller") == "mystery-thriller"
+    assert urls.genre_slug("Sci-Fi") == "sci-fi"
+    # Los cajones de sastre del origen caen todos en el mismo sitio.
+    assert urls.nombre_genero("Special Interest") == "Other"
+    assert urls.nombre_genero("Health & Wellness") == "Other"
+    assert urls.nombre_genero("Loquesea") == ""
 
 
 def test_el_genero_principal_es_el_que_mas_dice_de_la_pelicula():
-    assert urls.category_key(["Ciencia ficción", "Terror"]) == "terror"
-    assert urls.category_key(["Drama", "Crimen"]) == "crimen"
-    assert urls.category_key(["Aventura", "Acción"]) == "accion"
-    assert urls.category_key([]) == "otros"
+    assert urls.category_key(["Sci-Fi", "Horror"]) == "horror"
+    assert urls.category_key(["Drama", "Crime"]) == "crime"
+    assert urls.category_key(["Adventure", "Action"]) == "action"
+    assert urls.category_key(["Mystery & Thriller", "Drama"]) == "mystery-thriller"
+    assert urls.category_key([]) == "other"
 
 
 def test_la_caratula_se_pide_al_tamaño_que_haga_falta():

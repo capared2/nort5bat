@@ -85,19 +85,18 @@ def slugify(value: str) -> str:
 
 
 def genre_slug(nombre: str) -> str:
-    """"Crimen" -> "crimen". Cadena vacia si no es un genero que manejemos."""
+    """"Mystery & Thriller" -> "mystery-thriller". Vacio si no lo manejamos."""
     slug = slugify(nombre)
     return slug if slug in config.GENRES else ""
 
 
-def genero_en_castellano(nombre: str) -> str:
-    """"Mystery & Thriller" -> "Misterio y suspense"."""
+def nombre_genero(nombre: str) -> str:
+    """Nombre canonico de un genero: "Sci-Fi", "Kids & Family"..."""
     clave = config.GENRE_ALIASES.get(nombre.strip().lower())
     if clave:
         return config.GENRES[clave]
-    # Puede venir ya traducido, de una ficha que se vuelve a leer.
-    slug = slugify(nombre)
-    return config.GENRES.get(slug, "")
+    # Puede venir ya canonico, de una ficha que se vuelve a leer.
+    return config.GENRES.get(slugify(nombre), "")
 
 
 def category_key(generos: list[str] | None) -> str:
@@ -108,7 +107,7 @@ def category_key(generos: list[str] | None) -> str:
     """
     slugs = [s for s in (genre_slug(g) for g in (generos or [])) if s]
     if not slugs:
-        return "otros"
+        return "other"
     orden = {clave: indice for indice, clave in enumerate(config.GENRE_PRIORITY)}
     return min(slugs, key=lambda s: orden.get(s, len(orden)))
 

@@ -43,7 +43,7 @@ def test_de_punta_a_punta_descubre_guarda_e_indexa(tmp_path, falso):
     assert indice["source"] == "rottentomatoes.com"
     assert (tmp_path / "data" / "portada.json").exists()
     assert (tmp_path / "data" / "seo" / "sitemap.xml").exists()
-    assert (tmp_path / "data" / "titulos" / "crimen" / "part-0001.json").exists()
+    assert (tmp_path / "data" / "titulos" / "crime" / "part-0001.json").exists()
 
 
 def test_el_tope_de_titulos_deja_lo_demas_en_la_cola(tmp_path, falso):

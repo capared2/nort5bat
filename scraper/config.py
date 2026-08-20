@@ -39,6 +39,11 @@ DEFAULT_TIME_BUDGET = 3300   # segundos de descarga de fichas por ejecucion
 # Una pelicula sin publico no le interesa a nadie y llena el archivo de ruido.
 DEFAULT_MIN_VOTES = 0
 
+# La cuenta de la plataforma de video desde la que se sirven los trailers. El
+# identificador publico de cada video ya viene en la ficha, asi que con esto se
+# arma la URL del medio sin pedir la pagina de trailers.
+VIDEO_BASE_URL = _entorno("VIDEO_BASE_URL", "https://link.theplatform.com/s/NGweTC/media")
+
 SITEMAP_CANDIDATES = [
     "/sitemap.xml",
     "/sitemaps/sitemap.xml",
@@ -81,98 +86,98 @@ MOVIE_SUBPAGES = (
     "clips", "quotes", "similar", "awards",
 )
 
-# Los generos de Rotten Tomatoes, con su nombre en castellano.
+# The genres Rotten Tomatoes uses. The site speaks English because the source
+# does: translating titles we do not have would be worse than not translating.
 GENRES = {
-    "accion": "Acción",
-    "aventura": "Aventura",
-    "animacion": "Animación",
+    "action": "Action",
+    "adventure": "Adventure",
+    "animation": "Animation",
     "anime": "Anime",
-    "biografia": "Biografía",
-    "comedia": "Comedia",
-    "crimen": "Crimen",
-    "documental": "Documental",
+    "biography": "Biography",
+    "comedy": "Comedy",
+    "crime": "Crime",
+    "documentary": "Documentary",
     "drama": "Drama",
-    "entretenimiento": "Entretenimiento",
-    "fantasia": "Fantasía",
-    "concurso": "Concurso",
-    "historia": "Historia",
-    "navidad": "Navidad",
-    "terror": "Terror",
-    "infantil-y-familiar": "Infantil y familiar",
+    "entertainment": "Entertainment",
+    "fantasy": "Fantasy",
+    "game-show": "Game Show",
+    "history": "History",
+    "holiday": "Holiday",
+    "horror": "Horror",
+    "kids-family": "Kids & Family",
     "lgbtq": "LGBTQ+",
-    "musica": "Música",
+    "music": "Music",
     "musical": "Musical",
-    "misterio-y-suspense": "Misterio y suspense",
-    "naturaleza": "Naturaleza",
-    "actualidad": "Actualidad",
-    "telerrealidad": "Telerrealidad",
+    "mystery-thriller": "Mystery & Thriller",
+    "nature": "Nature",
+    "news": "News",
+    "reality": "Reality",
     "romance": "Romance",
-    "ciencia-ficcion": "Ciencia ficción",
-    "cortometraje": "Cortometraje",
-    "deporte": "Deporte",
-    "monologos": "Monólogos",
-    "late-night": "Late night",
-    "viajes": "Viajes",
-    "belico": "Bélico",
+    "sci-fi": "Sci-Fi",
+    "short": "Short",
+    "sports": "Sports",
+    "stand-up": "Stand-Up",
+    "talk-show": "Talk Show",
+    "travel": "Travel",
+    "war": "War",
     "western": "Western",
-    "otros": "Otros",
+    "other": "Other",
 }
 
-# Como llama Rotten Tomatoes a cada genero en sus paginas, y en que clave
-# nuestra cae. Se compara en minusculas y sin signos.
+# How the source names each genre, and which key of ours it falls into. The
+# comparison is done lowercased.
 GENRE_ALIASES = {
-    "action": "accion",
-    "adventure": "aventura",
-    "action & adventure": "accion",
-    "animation": "animacion",
+    "action": "action",
+    "action & adventure": "action",
+    "adventure": "adventure",
+    "animation": "animation",
     "anime": "anime",
-    "biography": "biografia",
-    "comedy": "comedia",
-    "crime": "crimen",
-    "documentary": "documental",
+    "biography": "biography",
+    "comedy": "comedy",
+    "crime": "crime",
+    "documentary": "documentary",
     "drama": "drama",
-    "entertainment": "entretenimiento",
-    "faith & spirituality": "otros",
-    "fantasy": "fantasia",
-    "game show": "concurso",
-    "health & wellness": "otros",
-    "history": "historia",
-    "holiday": "navidad",
-    "horror": "terror",
-    "house & garden": "otros",
-    "kids & family": "infantil-y-familiar",
+    "entertainment": "entertainment",
+    "faith & spirituality": "other",
+    "fantasy": "fantasy",
+    "game show": "game-show",
+    "health & wellness": "other",
+    "history": "history",
+    "holiday": "holiday",
+    "horror": "horror",
+    "house & garden": "other",
+    "kids & family": "kids-family",
     "lgbtq+": "lgbtq",
-    "music": "musica",
+    "music": "music",
     "musical": "musical",
-    "mystery & thriller": "misterio-y-suspense",
-    "nature": "naturaleza",
-    "news": "actualidad",
-    "reality": "telerrealidad",
+    "mystery & thriller": "mystery-thriller",
+    "nature": "nature",
+    "news": "news",
+    "reality": "reality",
     "romance": "romance",
-    "sci-fi": "ciencia-ficcion",
-    "short": "cortometraje",
-    "soap": "otros",
-    "special interest": "otros",
-    "sports": "deporte",
-    "stand-up": "monologos",
-    "talk show": "late-night",
-    "travel": "viajes",
-    "variety": "entretenimiento",
-    "war": "belico",
+    "sci-fi": "sci-fi",
+    "short": "short",
+    "soap": "other",
+    "special interest": "other",
+    "sports": "sports",
+    "stand-up": "stand-up",
+    "talk show": "talk-show",
+    "travel": "travel",
+    "variety": "entertainment",
+    "war": "war",
     "western": "western",
 }
 
-# Cuando una pelicula tiene varios generos, el primero de esta lista manda: es
-# el que decide en que carpeta vive su ficha. Los generos "de forma"
-# (documental, cortometraje) describen el envase, no el tema, asi que van al
-# final.
+# When a film carries several genres, the first one on this list wins: it is
+# the one that decides which folder its record lives in. The "shape" genres
+# (documentary, short) describe the container, not the subject, so they go last.
 GENRE_PRIORITY = (
-    "western", "musical", "terror", "ciencia-ficcion", "fantasia", "anime",
-    "animacion", "belico", "crimen", "misterio-y-suspense", "romance",
-    "comedia", "accion", "aventura", "historia", "biografia", "deporte",
-    "musica", "infantil-y-familiar", "navidad", "lgbtq", "drama", "naturaleza",
-    "viajes", "monologos", "late-night", "concurso", "telerrealidad",
-    "actualidad", "entretenimiento", "documental", "cortometraje", "otros",
+    "western", "musical", "horror", "sci-fi", "fantasy", "anime", "animation",
+    "war", "crime", "mystery-thriller", "romance", "comedy", "action",
+    "adventure", "history", "biography", "sports", "music", "kids-family",
+    "holiday", "lgbtq", "drama", "nature", "travel", "stand-up", "talk-show",
+    "game-show", "reality", "news", "entertainment", "documentary", "short",
+    "other",
 )
 
 GENRE_PAGE_SIZE = 60
