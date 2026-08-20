@@ -34,6 +34,10 @@ DATASET_CREW = "title.crew.tsv.gz"
 DATASET_PRINCIPALS = "title.principals.tsv.gz"
 DATASET_NAMES = "name.basics.tsv.gz"
 
+# TMDB pone las caratulas que los datasets de IMDb no traen. Sin clave, el
+# scraper sigue funcionando: las fichas salen sin imagen.
+TMDB_API_KEY = _entorno("TMDB_API_KEY", "")
+
 DEFAULT_USER_AGENT = _entorno(
     "IMDB_USER_AGENT",
     "nort5bat-scraper/1.0 (+https://github.com/capared2/nort5bat)",

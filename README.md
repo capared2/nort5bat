@@ -27,9 +27,24 @@ IMDb devuelven 202 y nada más.
 
 Lo que los datasets **sí** traen: título original y traducido al castellano,
 año, duración, géneros, nota, votos, dirección, guion y reparto con sus
-personajes. Lo que **no**: carátula, sinopsis, tráiler, clasificación,
-presupuesto y recaudación. Esos campos quedan vacíos y el sitio los da por
-ausentes.
+personajes. Lo que **no**: ninguna imagen, ni sinopsis, ni tráiler.
+
+## Las carátulas vienen de TMDB
+
+Los datasets de IMDb no incluyen un solo campo de imagen, y sin carátulas esto
+no es un sitio de cine. Las pone [TMDB](https://www.themoviedb.org/), cuya API
+es gratuita y permite expresamente este uso: dado un identificador de IMDb
+devuelve la carátula, el fondo y la sinopsis en castellano.
+
+Hace falta una clave, en el secreto de repositorio `TMDB_API_KEY` (o en la
+variable de entorno del mismo nombre). Sin ella el scraper sigue corriendo y
+guarda el catálogo, pero sin imágenes, y avisa de ello en el log.
+
+Lo que TMDB responde se guarda en `state/tmdb.json`, incluido lo que no conoce.
+El modo `catalogo` rehace todas las fichas en cada ejecución, así que sin esa
+memoria cada run empezaría de cero y el sitio no se llenaría nunca. Con ella,
+cada ejecución sólo pregunta por lo que aún no tiene carátula —las más votadas
+primero— hasta el tope de `--tmdb-limit`.
 
 ## Cómo funciona
 
@@ -88,6 +103,7 @@ Opciones que más se tocan:
 | --- | --- |
 | `--mode catalogo\|incremental\|full` | `catalogo` construye las fichas desde los datasets; los otros dos recogen HTML |
 | `--no-cast` | en `catalogo`, no bajar reparto ni equipo: dos ficheros grandes menos |
+| `--tmdb-key` / `--tmdb-limit` | clave de TMDB y tope de consultas nuevas por ejecución |
 | `--min-votes` | umbral de votos para entrar en el catálogo (por defecto 1000) |
 | `--types` | `movie,tvMovie` por defecto; admite `tvSeries`, `short`… |
 | `--catalog-limit` | tope de títulos que se sacan del catálogo |

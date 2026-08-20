@@ -3,10 +3,11 @@ from __future__ import annotations
 
 import logging
 import time
+from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 
-from . import catalogo, config, discovery, seo
+from . import catalogo, config, discovery, seo, tmdb
 from . import urls as urlutil
 from .fetcher import Fetcher
 from .parser import parse_title
@@ -38,6 +39,8 @@ class Options:
     catalog_limit: int = 0             # tope de titulos que se sacan del catalogo
     include_adult: bool = False
     with_cast: bool = True             # el reparto sale del dataset mas grande
+    tmdb_key: str = config.TMDB_API_KEY
+    tmdb_limit: int = 4000             # consultas nuevas a TMDB por ejecucion
     follow_similar: bool = True        # encolar los "titulos parecidos" de cada ficha
     refresh: int = 0                   # vuelve a pasar por las N fichas ya guardadas
     max_failures: int = 3
@@ -123,6 +126,22 @@ def run(options: Options) -> dict:
                 con_reparto=options.with_cast,
             )
             resumen["discovered"] = len(fichas)
+
+            # Las caratulas y la sinopsis vienen de TMDB: los datasets de IMDb
+            # no traen imagenes y sin ellas esto no es un sitio de cine.
+            if options.tmdb_key:
+                resumen["tmdb"] = tmdb.enriquecer(
+                    fichas,
+                    options.tmdb_key,
+                    Path(options.state_dir) / "tmdb.json",
+                    limite=options.tmdb_limit,
+                    deadline=limite_tiempo,
+                )
+            else:
+                log.warning(
+                    "sin TMDB_API_KEY: las fichas se guardan sin caratula ni sinopsis"
+                )
+
             for ficha in fichas:
                 store.add(ficha)
                 state.mark_seen(ficha["url"])

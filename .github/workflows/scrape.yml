@@ -28,6 +28,10 @@ on:
         description: "Votos minimos para que un titulo entre en el catalogo"
         type: string
         default: "1000"
+      tmdb_limit:
+        description: "Consultas nuevas a TMDB por ejecucion (0 = sin tope)"
+        type: string
+        default: "4000"
       no_cast:
         description: "No bajar reparto ni equipo (se salta los dos ficheros mas grandes)"
         type: boolean
@@ -102,7 +106,11 @@ jobs:
           # equivocada; la decision se toma abajo, en el shell.
           IGNORE_ROBOTS: ${{ inputs.ignore_robots }}
           NO_CAST: ${{ inputs.no_cast }}
+          TMDB_LIMIT: ${{ inputs.tmdb_limit || '4000' }}
           SITE_URL: ${{ vars.SITE_URL }}
+          # De aqui salen las caratulas. Sin este secreto el catalogo se guarda
+          # sin imagenes, que para un sitio de cine es como no guardarlo.
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           set -euo pipefail
           args=(
@@ -112,6 +120,7 @@ jobs:
             --min-votes "$MIN_VOTES"
             --catalog-limit "$CATALOG_LIMIT"
             --refresh "$REFRESH"
+            --tmdb-limit "$TMDB_LIMIT"
             --workers "$WORKERS"
             --delay "$DELAY"
             --summary-file run-summary.json

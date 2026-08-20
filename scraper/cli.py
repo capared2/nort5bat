@@ -52,6 +52,10 @@ def build_parser() -> argparse.ArgumentParser:
                         help="tope de titulos que se sacan del catalogo (0 = todos)")
     parser.add_argument("--include-adult", action="store_true",
                         help="incluye los titulos marcados como adultos")
+    parser.add_argument("--tmdb-key", default=config.TMDB_API_KEY,
+                        help="clave de TMDB, de donde salen las caratulas (o variable TMDB_API_KEY)")
+    parser.add_argument("--tmdb-limit", type=int, default=4000,
+                        help="consultas nuevas a TMDB por ejecucion (0 = sin tope)")
     parser.add_argument("--no-cast", action="store_true",
                         help="en modo catalogo, no bajar reparto ni equipo (dos ficheros menos)")
     parser.add_argument("--no-similar", action="store_true",
@@ -117,6 +121,8 @@ def main(argv: list[str] | None = None) -> int:
         catalog_limit=args.catalog_limit,
         include_adult=args.include_adult,
         with_cast=not args.no_cast,
+        tmdb_key=args.tmdb_key,
+        tmdb_limit=args.tmdb_limit,
         follow_similar=not args.no_similar,
         refresh=args.refresh,
         max_failures=args.max_failures,
