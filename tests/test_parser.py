@@ -94,7 +94,7 @@ def test_el_trailer_trae_con_que_reproducirlo_sin_salir_del_sitio():
     trailer = datos["trailer"]
     assert trailer["id"] == "HBkn4j1fqMph"
     assert trailer["title"] == "The Godfather: Trailer 1"
-    assert trailer["src"].endswith("/HBkn4j1fqMph?mbr=true&format=redirect&formats=MPEG4")
+    assert trailer["src"].endswith("/HBkn4j1fqMph?formats=M3U+none")
     assert trailer["seconds"] is None      # el fixture no trae duracion en segundos
 
 

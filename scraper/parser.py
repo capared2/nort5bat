@@ -143,8 +143,10 @@ def _trailer(video) -> dict | None:
         "title": (video.get("title") or "").strip(),
         "thumbnail": miniatura,
         "seconds": segundos,
-        # Se pide el corte en MP4, que es el que reproduce un <video> a secas.
-        "src": f"{config.VIDEO_BASE_URL}/{publico}?mbr=true&format=redirect&formats=MPEG4",
+        # Se pide en HLS y no en MP4: el MP4 que sirve la plataforma es el
+        # master, casi un giga por trailer. El HLS son dos kilobytes de lista
+        # y el reproductor va pidiendo solo los trozos que se ven.
+        "src": f"{config.VIDEO_BASE_URL}/{publico}?formats=M3U+none",
     }
 
 
