@@ -1,19 +1,19 @@
-name: Scrape IMDb
+name: Scrape Rotten Tomatoes
 
 on:
   schedule:
-    # Una vez al dia: los datasets de IMDb se publican con esa cadencia, y son
-    # ficheros grandes que no tiene sentido volver a recorrer cada pocas horas.
-    - cron: "20 5 * * *"
+    # Cada seis horas: los porcentajes y las notas se mueven a diario, y la
+    # cola pendiente se va vaciando en cada pasada.
+    - cron: "20 */6 * * *"
   workflow_dispatch:
     inputs:
       mode:
-        description: "catalogo (datasets publicos, el unico que IMDb permite hoy), incremental o full"
+        description: "incremental (listados + cola) o full (ademas recorre los sitemaps)"
         type: choice
-        options: [catalogo, incremental, full]
-        default: catalogo
+        options: [incremental, full]
+        default: incremental
       sources:
-        description: "Fuentes separadas por coma: charts,datasets,sitemap (vacio = segun modo)"
+        description: "Fuentes separadas por coma: browse,sitemap (vacio = segun modo)"
         type: string
         default: ""
       max_titles:
@@ -25,19 +25,7 @@ on:
         type: string
         default: "3300"
       min_votes:
-        description: "Votos minimos para que un titulo entre en el catalogo"
-        type: string
-        default: "1000"
-      tmdb_limit:
-        description: "Consultas nuevas a TMDB por ejecucion (0 = sin tope)"
-        type: string
-        default: "4000"
-      no_cast:
-        description: "No bajar reparto ni equipo (se salta los dos ficheros mas grandes)"
-        type: boolean
-        default: false
-      catalog_limit:
-        description: "Tope de titulos que se sacan del catalogo (0 = todos)"
+        description: "Votos del publico minimos para guardar una pelicula (0 = todas)"
         type: string
         default: "0"
       refresh:
@@ -56,17 +44,13 @@ on:
         description: "Solo procesar la cola pendiente, sin buscar URLs nuevas"
         type: boolean
         default: false
-      ignore_robots:
-        description: "Ignorar robots.txt (IMDb prohibe /title/ y /chart/ a agentes genericos)"
-        type: boolean
-        default: true
 
 permissions:
   contents: write
 
 # Nunca dos ejecuciones a la vez: comparten el estado versionado en el repo.
 concurrency:
-  group: scrape-imdb
+  group: scrape-rt
   cancel-in-progress: false
 
 jobs:
@@ -90,27 +74,16 @@ jobs:
 
       - name: Ejecutar scraper
         env:
-          MODE: ${{ inputs.mode || 'catalogo' }}
+          MODE: ${{ inputs.mode || 'incremental' }}
           SOURCES: ${{ inputs.sources || '' }}
           MAX_TITLES: ${{ inputs.max_titles || '0' }}
           TIME_BUDGET: ${{ inputs.time_budget || '3300' }}
-          MIN_VOTES: ${{ inputs.min_votes || '1000' }}
-          CATALOG_LIMIT: ${{ inputs.catalog_limit || '0' }}
+          MIN_VOTES: ${{ inputs.min_votes || '0' }}
           REFRESH: ${{ inputs.refresh || '0' }}
           WORKERS: ${{ inputs.workers || '4' }}
           DELAY: ${{ inputs.delay || '1.0' }}
           SKIP_DISCOVERY: ${{ inputs.skip_discovery || 'false' }}
-          # Vacio en las ejecuciones programadas: ahi tambien se ignora, que es
-          # lo unico que hace que traigan algo. Un ternario aqui no vale, porque
-          # en las expresiones de GitHub un booleano falso se cuela por la rama
-          # equivocada; la decision se toma abajo, en el shell.
-          IGNORE_ROBOTS: ${{ inputs.ignore_robots }}
-          NO_CAST: ${{ inputs.no_cast }}
-          TMDB_LIMIT: ${{ inputs.tmdb_limit || '4000' }}
           SITE_URL: ${{ vars.SITE_URL }}
-          # De aqui salen las caratulas. Sin este secreto el catalogo se guarda
-          # sin imagenes, que para un sitio de cine es como no guardarlo.
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: |
           set -euo pipefail
           args=(
@@ -118,17 +91,13 @@ jobs:
             --max-titles "$MAX_TITLES"
             --time-budget "$TIME_BUDGET"
             --min-votes "$MIN_VOTES"
-            --catalog-limit "$CATALOG_LIMIT"
             --refresh "$REFRESH"
-            --tmdb-limit "$TMDB_LIMIT"
             --workers "$WORKERS"
             --delay "$DELAY"
             --summary-file run-summary.json
           )
           if [ -n "$SOURCES" ]; then args+=(--sources "$SOURCES"); fi
           if [ "$SKIP_DISCOVERY" = "true" ]; then args+=(--skip-discovery); fi
-          if [ "$IGNORE_ROBOTS" != "false" ]; then args+=(--ignore-robots); fi
-          if [ "$NO_CAST" = "true" ]; then args+=(--no-cast); fi
           python -m scraper "${args[@]}"
 
       # Una ejecucion que no guarda nada porque el origen nos cierra la puerta
@@ -167,7 +136,7 @@ jobs:
         if: always()
         run: |
           {
-            echo "## Scraping de imdb.com"
+            echo "## Scraping de rottentomatoes.com"
             echo
             if [ -f run-summary.json ]; then
               echo '```json'
@@ -193,7 +162,7 @@ jobs:
 
           total=$(python -c "import json;print(json.load(open('data/index.json'))['total_titles'])" 2>/dev/null || echo "?")
           nuevas=$(python -c "import json;print(json.load(open('run-summary.json'))['saved'])" 2>/dev/null || echo "?")
-          git commit -m "data: +${nuevas} fichas de imdb.com (total ${total})"
+          git commit -m "data: +${nuevas} fichas de rottentomatoes.com (total ${total})"
 
           for intento in 1 2 3 4 5; do
             if git push origin HEAD:${GITHUB_REF_NAME}; then

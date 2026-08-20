@@ -310,7 +310,7 @@ class TitleStore:
         generos.sort(key=lambda g: (-g["tagged"], -g["titles"], g["genre"]))
 
         indice = {
-            "source": "imdb.com",
+            "source": "rottentomatoes.com",
             "generated_at": _now(),
             "total_titles": total,
             "total_genres": len(generos),

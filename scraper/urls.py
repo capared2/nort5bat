@@ -1,4 +1,4 @@
-"""Normalizacion de URLs de IMDb, deteccion de fichas y claves de genero."""
+"""Normalizacion de URLs de Rotten Tomatoes, deteccion de fichas y generos."""
 from __future__ import annotations
 
 import re
@@ -7,33 +7,31 @@ from urllib.parse import urlsplit, urlunsplit
 
 from . import config
 
-# https://www.imdb.com/title/tt0111161/  ->  tt0111161
-TITLE_RE = re.compile(r"^/(?:[a-z]{2}/)?title/(?P<id>tt\d{7,10})(?:/(?P<sub>[^/?#]*))?/?$")
-# https://www.imdb.com/name/nm0000209/
-NAME_RE = re.compile(r"^/(?:[a-z]{2}/)?name/(?P<id>nm\d{7,10})(?:/[^/?#]*)?/?$")
+# https://www.rottentomatoes.com/m/the_godfather
+PELICULA_RE = re.compile(r"^/m/(?P<slug>[a-z0-9][a-z0-9_\-]*)(?:/(?P<sub>[^/?#]*))?/?$", re.I)
+PERSONA_RE = re.compile(r"^/celebrity/(?P<slug>[a-z0-9][a-z0-9_\-]*)/?$", re.I)
 
-# IMDb cuelga un ?ref_= de casi todos sus enlaces internos.
-TRACKING_PREFIXES = ("ref_", "utm_", "pf_rd_", "src", "ref", "gclid", "fbclid")
+# Rotten Tomatoes cuelga estos parametros de sus enlaces internos.
+TRACKING_PREFIXES = ("cmp", "utm_", "wtwref", "ref_", "src", "intcmp")
+
+# Tamaño al que se piden las caratulas. El redimensionador de Flixster acepta
+# cualquier medida en la ruta, y la que trae la pagina son 68x102: un sello.
+ANCHO_CARATULA = "300x450"
+TAMANO_RE = re.compile(r"/(\d{2,4})x(\d{2,4})/")
 
 
 def normalize(url: str, drop_fragment: bool = True) -> str:
-    """Forma canonica: sin fragmento, sin parametros de seguimiento, sin barra final.
-
-    Las fichas se reducen ademas a ``/title/ttXXXXXXX/``: IMDb sirve la misma
-    pagina bajo decenas de variantes (``/es/title/...``, ``?ref_=...``,
-    ``/title/tt.../?pf_rd_m=...``) y sin esto la misma pelicula entraria en la
-    cola una vez por variante.
-    """
+    """Forma canonica: sin fragmento, sin parametros de seguimiento, sin barra final."""
     parts = urlsplit(url.strip())
     scheme = "https" if parts.scheme in ("", "http", "https") else parts.scheme
     netloc = parts.netloc.lower()
-    if netloc in ("imdb.com", "m.imdb.com"):
-        netloc = "www.imdb.com"
+    if netloc == "rottentomatoes.com":
+        netloc = "www.rottentomatoes.com"
 
     path = parts.path or "/"
-    match = TITLE_RE.match(path)
+    match = PELICULA_RE.match(path)
     if match and not match["sub"]:
-        return urlunsplit((scheme, netloc, f"/title/{match['id']}/", "", ""))
+        return urlunsplit((scheme, netloc, f"/m/{match['slug'].lower()}", "", ""))
 
     query = "&".join(
         piece
@@ -51,39 +49,32 @@ def host_allowed(url: str) -> bool:
 
 
 def is_excluded(url: str) -> bool:
-    path = urlsplit(url).path.lower()
-    # Las ediciones por idioma repiten todo el sitio bajo /es/, /de/...
-    path = re.sub(r"^/[a-z]{2}(?=/)", "", path)
-    return path.startswith(config.EXCLUDED_PATH_PREFIXES)
+    return urlsplit(url).path.lower().startswith(config.EXCLUDED_PATH_PREFIXES)
 
 
-def is_title_url(url: str) -> bool:
-    """True solo para la ficha de un titulo, no para sus subpaginas."""
+def is_movie_url(url: str) -> bool:
+    """True solo para la ficha de una pelicula, no para sus subpaginas."""
     if not host_allowed(url) or is_excluded(url):
         return False
-    match = TITLE_RE.match(urlsplit(url).path)
+    match = PELICULA_RE.match(urlsplit(url).path)
     if not match:
         return False
     return not match["sub"]
 
 
-def title_id(url: str) -> str | None:
-    """El ``tconst`` de una URL de IMDb (``tt0111161``)."""
-    match = TITLE_RE.match(urlsplit(url).path)
-    return match["id"] if match else None
+def movie_id(url: str) -> str | None:
+    """El identificador de una pelicula, que en Rotten Tomatoes es su slug."""
+    match = PELICULA_RE.match(urlsplit(url).path)
+    return match["slug"].lower() if match else None
 
 
-def name_id(url: str) -> str | None:
-    match = NAME_RE.match(urlsplit(url).path)
-    return match["id"] if match else None
+def person_id(url: str) -> str | None:
+    match = PERSONA_RE.match(urlsplit(url).path)
+    return match["slug"].lower() if match else None
 
 
-def title_url(tconst: str) -> str:
-    return f"{config.BASE_URL}/title/{tconst}/"
-
-
-def is_tconst(value: str) -> bool:
-    return bool(re.fullmatch(r"tt\d{7,10}", value or ""))
+def movie_url(slug: str) -> str:
+    return f"{config.BASE_URL}/m/{slug}"
 
 
 def slugify(value: str) -> str:
@@ -93,21 +84,42 @@ def slugify(value: str) -> str:
     return value
 
 
-def genre_slug(genre: str) -> str:
-    """"Sci-Fi" -> "sci-fi". Devuelve cadena vacia si no es un genero de IMDb."""
-    slug = slugify(genre)
+def genre_slug(nombre: str) -> str:
+    """"Crimen" -> "crimen". Cadena vacia si no es un genero que manejemos."""
+    slug = slugify(nombre)
     return slug if slug in config.GENRES else ""
 
 
-def category_key(genres: list[str] | None) -> str:
+def genero_en_castellano(nombre: str) -> str:
+    """"Mystery & Thriller" -> "Misterio y suspense"."""
+    clave = config.GENRE_ALIASES.get(nombre.strip().lower())
+    if clave:
+        return config.GENRES[clave]
+    # Puede venir ya traducido, de una ficha que se vuelve a leer.
+    slug = slugify(nombre)
+    return config.GENRES.get(slug, "")
+
+
+def category_key(generos: list[str] | None) -> str:
     """Carpeta donde vive la ficha: su genero principal.
 
-    Un titulo suele traer hasta tres generos. Se queda con el que mas dice de
-    la pelicula (ver ``GENRE_PRIORITY``), para que "Alien" caiga en terror y no
-    en aventura solo por el orden en que IMDb los devuelve.
+    Manda el genero que mas dice de la pelicula (ver ``GENRE_PRIORITY``), no el
+    orden en que Rotten Tomatoes los devuelve.
     """
-    slugs = [s for s in (genre_slug(g) for g in (genres or [])) if s]
+    slugs = [s for s in (genre_slug(g) for g in (generos or [])) if s]
     if not slugs:
-        return "sin-genero"
+        return "otros"
     orden = {clave: indice for indice, clave in enumerate(config.GENRE_PRIORITY)}
     return min(slugs, key=lambda s: orden.get(s, len(orden)))
+
+
+def caratula(url: str | None, tamano: str = ANCHO_CARATULA) -> str | None:
+    """Pide la imagen al tamaño que hace falta.
+
+    Las paginas traen las caratulas a 68x102 pixeles. El redimensionador de
+    Flixster lleva la medida en la propia ruta y acepta cambiarla, asi que se
+    piden a un tamaño que sirva para una parrilla.
+    """
+    if not url:
+        return None
+    return TAMANO_RE.sub(f"/{tamano}/", url, count=1)

@@ -1,31 +1,30 @@
-"""Tuberia: descubrir titulos, descargar fichas y guardarlas por genero."""
+"""Tuberia: descubrir peliculas, descargar fichas y guardarlas por genero."""
 from __future__ import annotations
 
 import logging
 import time
-from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 
-from . import catalogo, config, discovery, seo, tmdb
+from . import config, discovery, seo
 from . import urls as urlutil
 from .fetcher import Fetcher
-from .parser import parse_title
+from .parser import parse_movie
 from .storage import RunState, TitleStore
 
 log = logging.getLogger(__name__)
 
 FLUSH_EVERY = 120
-BATCH_SIZE = 60
+BATCH_SIZE = 40
 # Descubrir es el medio, no el fin: no puede comerse la ejecucion entera o el
 # run acabaria sin guardar una sola ficha.
-DISCOVERY_SHARE = 0.35
+DISCOVERY_SHARE = 0.3
 
 
 @dataclass
 class Options:
     mode: str = "incremental"
-    sources: list[str] = field(default_factory=lambda: ["charts"])
+    sources: list[str] = field(default_factory=lambda: ["browse"])
     max_titles: int = 0                # 0 = sin limite
     workers: int = config.DEFAULT_WORKERS
     delay: float = config.DEFAULT_DELAY
@@ -33,16 +32,9 @@ class Options:
     retries: int = config.DEFAULT_RETRIES
     shard_size: int = config.DEFAULT_SHARD_SIZE
     time_budget: int = config.DEFAULT_TIME_BUDGET
-    types: tuple[str, ...] = config.DEFAULT_TYPES
     min_votes: int = config.DEFAULT_MIN_VOTES
-    min_year: int = config.DEFAULT_MIN_YEAR
-    catalog_limit: int = 0             # tope de titulos que se sacan del catalogo
-    include_adult: bool = False
-    with_cast: bool = True             # el reparto sale del dataset mas grande
-    tmdb_key: str = config.TMDB_API_KEY
-    tmdb_limit: int = 4000             # consultas nuevas a TMDB por ejecucion
-    follow_similar: bool = True        # encolar los "titulos parecidos" de cada ficha
-    refresh: int = 0                   # vuelve a pasar por las N fichas ya guardadas
+    follow_related: bool = True        # encolar las peliculas que enlaza cada ficha
+    refresh: int = 0                   # vuelve a pasar por las N fichas mas antiguas
     max_failures: int = 3
     site_url: str = config.SITE_URL
     discovery_share: float = DISCOVERY_SHARE
@@ -53,24 +45,31 @@ class Options:
     skip_discovery: bool = False
 
 
-def _fetch_one(fetcher: Fetcher, url: str) -> tuple[str, dict | None]:
+def _fetch_one(fetcher: Fetcher, url: str) -> tuple[str, dict | None, list[str]]:
+    """Descarga y parsea una ficha, y de paso recoge a que peliculas enlaza.
+
+    Los vecinos salen de la misma pagina que ya se ha pedido, asi que crecer
+    por vecindad no cuesta ni una peticion mas.
+    """
     resp = fetcher.get(url)
     if resp is None:
-        return url, None
+        return url, None, []
     if "html" not in resp.content_type.lower() and "<html" not in resp.text[:2000].lower():
-        return url, None
+        return url, None, []
     try:
-        return url, parse_title(resp.text, resp.url)
+        ficha = parse_movie(resp.text, resp.url)
     except Exception:  # una ficha rota no puede tumbar la ejecucion entera
         log.exception("fallo al parsear %s", url)
-        return url, None
+        return url, None, []
+    vecinos = discovery._slugs_en(resp.text) if ficha else []
+    return url, ficha, vecinos
 
 
 def _refrescar(state: RunState, cuantas: int) -> int:
-    """Devuelve a la cola las fichas mas antiguas ya guardadas.
+    """Devuelve a la cola las fichas ya guardadas mas antiguas.
 
-    Las notas y los votos de IMDb se mueven todos los dias; sin esto el dataset
-    envejeceria aunque el scraper siguiera corriendo.
+    Las notas y los porcentajes se mueven; sin esto el archivo envejeceria
+    aunque el scraper siguiera corriendo.
     """
     if cuantas <= 0 or not state.seen:
         return 0
@@ -100,6 +99,7 @@ def run(options: Options) -> dict:
         "refreshed": 0,
         "fetched": 0,
         "saved": 0,
+        "skipped_thin": 0,
         "failed": 0,
         "genres": {},
     }
@@ -112,58 +112,10 @@ def run(options: Options) -> dict:
             else None
         )
 
-        # Modo catalogo: las fichas se construyen con los datasets publicos y no
-        # se pide una sola pagina de IMDb. Es el unico camino que queda abierto,
-        # porque IMDb responde 202 a cualquier cliente automatico.
-        if options.mode == "catalogo":
-            fichas = catalogo.construir(
-                fetcher,
-                tipos=options.types,
-                min_votos=options.min_votes,
-                min_anio=options.min_year,
-                limite=options.catalog_limit,
-                incluir_adulto=options.include_adult,
-                con_reparto=options.with_cast,
-            )
-            resumen["discovered"] = len(fichas)
-
-            # Las caratulas y la sinopsis vienen de TMDB: los datasets de IMDb
-            # no traen imagenes y sin ellas esto no es un sitio de cine.
-            if options.tmdb_key:
-                resumen["tmdb"] = tmdb.enriquecer(
-                    fichas,
-                    options.tmdb_key,
-                    Path(options.state_dir) / "tmdb.json",
-                    limite=options.tmdb_limit,
-                    deadline=limite_tiempo,
-                )
-            else:
-                log.warning(
-                    "sin TMDB_API_KEY: las fichas se guardan sin caratula ni sinopsis"
-                )
-
-            for ficha in fichas:
-                store.add(ficha)
-                state.mark_seen(ficha["url"])
-            resumen["fetched"] = len(fichas)
-            resumen["saved"] = len(fichas)
-            # Salir por aqui no se salta nada: el bloque finally es el que
-            # vuelca, reindexa y escribe los sitemaps, y corre igualmente.
-            return resumen
-
         resumen["refreshed"] = _refrescar(state, options.refresh)
 
         if not options.skip_discovery:
-            encontradas = discovery.discover(
-                fetcher,
-                options.sources,
-                types=options.types,
-                min_votes=options.min_votes,
-                min_year=options.min_year,
-                limit=options.catalog_limit,
-                include_adult=options.include_adult,
-                deadline=limite_descubrir,
-            )
+            encontradas = discovery.discover(fetcher, options.sources, deadline=limite_descubrir)
             resumen["discovered"] = len(encontradas)
             resumen["queued"] = state.enqueue(encontradas)
             log.info(
@@ -187,28 +139,34 @@ def run(options: Options) -> dict:
             if not lote:
                 break
 
-            parecidos: list[str] = []
+            vecinos: list[str] = []
             with ThreadPoolExecutor(max_workers=options.workers) as pool:
                 futuros = {pool.submit(_fetch_one, fetcher, url): url for url in lote}
                 for futuro in as_completed(futuros):
-                    url, ficha = futuro.result()
+                    url, ficha, cercanas = futuro.result()
                     resumen["fetched"] += 1
                     if ficha is None:
                         resumen["failed"] += 1
                         state.mark_failed(url)
+                        continue
+                    # Una pelicula sin publico ni nota no aporta nada a un
+                    # agregador: se da por vista para no volver a pedirla.
+                    if options.min_votes and (ficha.get("votes") or 0) < options.min_votes:
+                        resumen["skipped_thin"] += 1
+                        state.mark_seen(url)
                         continue
                     store.add(ficha)
                     state.mark_seen(url)
                     state.mark_seen(ficha["url"])
                     resumen["saved"] += 1
                     desde_volcado += 1
-                    if options.follow_similar:
-                        parecidos.extend(urlutil.title_url(t) for t in ficha.get("similar", []))
+                    if options.follow_related:
+                        vecinos.extend(cercanas)
 
-            # Los "titulos parecidos" van al final de la cola: primero lo que se
-            # pidio expresamente, y de propina el vecindario de cada pelicula.
-            if parecidos:
-                state.enqueue(parecidos)
+            # Los vecinos van al final de la cola: primero lo que se pidio
+            # expresamente, y de propina el barrio de cada pelicula.
+            if vecinos:
+                state.enqueue(urlutil.movie_url(slug) for slug in dict.fromkeys(vecinos))
 
             if desde_volcado >= FLUSH_EVERY:
                 for genero, cuantas in store.flush().items():

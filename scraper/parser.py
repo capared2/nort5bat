@@ -1,11 +1,15 @@
-"""Convierte la ficha HTML de un titulo de IMDb en un registro estructurado."""
+"""Convierte la ficha HTML de Rotten Tomatoes en un registro estructurado.
+
+La pagina reparte sus datos en varios bloques JSON incrustados, cada uno con
+una parte de la ficha; se leen todos y se juntan. El JSON-LD aporta el reparto
+y la direccion, con foto de cada uno.
+"""
 from __future__ import annotations
 
 import json
 import logging
 import re
 from datetime import datetime, timezone
-from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
@@ -13,172 +17,36 @@ from . import urls as urlutil
 
 log = logging.getLogger(__name__)
 
-# Tipos de schema.org con los que IMDb marca una ficha.
-TITLE_TYPES = {
-    "movie", "tvseries", "tvminiseries", "tvepisode", "tvspecial",
-    "videogame", "creativework", "video", "episode",
-}
+MAX_REPARTO = 20
+MAX_IMAGENES = 8
 
-MAX_CAST = 20          # el reparto completo de un blockbuster son cientos de nombres
-MAX_SIMILAR = 12
-MAX_KEYWORDS = 20
-DURACION_RE = re.compile(r"^P(?:(\d+)D)?T?(?:(\d+)H)?(?:(\d+)M)?", re.I)
+# "2h 57m" / "1h" / "95m"
+DURACION_RE = re.compile(r"^(?:(\d+)\s*h)?\s*(?:(\d+)\s*m)?$", re.I)
+ANIO_RE = re.compile(r"^(19|20)\d{2}$")
 
 
-def _texto(nodo) -> str:
-    return re.sub(r"\s+", " ", nodo.get_text(" ", strip=True)).strip() if nodo else ""
+def _bloque(soup: BeautifulSoup, identificador: str) -> dict:
+    """Uno de los bloques ``<script id=... type="application/json">``."""
+    tag = soup.find("script", id=identificador)
+    if not tag:
+        return {}
+    try:
+        datos = json.loads(tag.string or tag.get_text() or "{}")
+    except ValueError:
+        log.debug("bloque %s ilegible", identificador)
+        return {}
+    return datos if isinstance(datos, dict) else {}
 
 
-def _meta(soup: BeautifulSoup, *nombres: str) -> str | None:
-    for nombre in nombres:
-        for atributo in ("property", "name", "itemprop"):
-            tag = soup.find("meta", attrs={atributo: nombre})
-            if tag and tag.get("content"):
-                return tag["content"].strip()
-    return None
-
-
-# --- utilidades sobre JSON ---------------------------------------------
-
-def _ruta(datos, camino: str):
-    """``_ruta(d, "ratingsSummary.aggregateRating")`` sin reventar por el camino."""
-    actual = datos
-    for tramo in camino.split("."):
-        if isinstance(actual, dict):
-            actual = actual.get(tramo)
-        else:
-            return None
-        if actual is None:
-            return None
-    return actual
-
-
-def _primero(datos, *caminos: str):
-    for camino in caminos:
-        valor = _ruta(datos, camino)
-        if valor not in (None, "", [], {}):
-            return valor
-    return None
-
-
-def _buscar_clave(datos, clave: str, limite: int = 4000):
-    """Primer valor asociado a ``clave`` en cualquier nivel del arbol.
-
-    El JSON de la ficha cambia de forma cada pocos meses; buscar por nombre de
-    campo aguanta esos cambios mucho mejor que fijar la ruta completa.
-    """
-    pila = [datos]
-    visitados = 0
-    while pila and visitados < limite:
-        actual = pila.pop(0)
-        visitados += 1
-        if isinstance(actual, dict):
-            if clave in actual and actual[clave] not in (None, "", [], {}):
-                return actual[clave]
-            pila.extend(actual.values())
-        elif isinstance(actual, list):
-            pila.extend(actual)
-    return None
-
-
-def _texto_de(nodo, claves: tuple[str, ...], profundidad: int = 0) -> str | None:
-    """Primer texto legible de un nodo, buscando por las claves dadas.
-
-    IMDb anida sus etiquetas de formas distintas segun el campo
-    (``{"text": ...}``, ``{"company": {"companyText": {"text": ...}}}``), asi
-    que se baja por el arbol hasta dar con una de las claves pedidas.
-    """
-    if isinstance(nodo, str):
-        return nodo.strip() or None
-    if not isinstance(nodo, dict) or profundidad > 4:
-        return None
-    for clave in claves:
-        if clave in nodo:
-            hallado = _texto_de(nodo[clave], claves, profundidad + 1)
-            if hallado:
-                return hallado
-    for valor in nodo.values():
-        if isinstance(valor, dict):
-            hallado = _texto_de(valor, claves, profundidad + 1)
-            if hallado:
-                return hallado
-    return None
-
-
-def _textos(valor, *claves: str) -> list[str]:
-    """Lista de cadenas a partir de las formas en que IMDb devuelve etiquetas."""
-    buscadas = claves or ("text", "name", "id")
-    items = valor if isinstance(valor, list) else [valor]
-    salida: list[str] = []
-    for item in items:
-        # Las conexiones estilo GraphQL vienen como {"node": {...}}.
-        if isinstance(item, dict) and "node" in item:
-            item = item["node"]
-        hallado = _texto_de(item, buscadas)
-        if hallado:
-            salida.append(hallado)
-    vistos: set[str] = set()
-    return [t for t in salida if not (t.lower() in vistos or vistos.add(t.lower()))]
-
-
-def duracion_minutos(valor) -> int | None:
-    """Acepta ``PT2H22M``, segundos o los minutos ya calculados."""
-    if valor is None:
-        return None
-    if isinstance(valor, (int, float)):
-        # IMDb da segundos en su JSON y minutos en algunos campos sueltos.
-        return int(valor // 60) if valor > 600 else int(valor)
-    match = DURACION_RE.match(str(valor).strip())
-    if not match:
-        return None
-    dias, horas, minutos = (int(g or 0) for g in match.groups())
-    total = dias * 1440 + horas * 60 + minutos
-    return total or None
-
-
-def fecha_iso(valor) -> str | None:
-    """Normaliza a ``YYYY-MM-DD`` lo que IMDb entregue como fecha de estreno."""
-    if not valor:
-        return None
-    if isinstance(valor, dict):
-        anio, mes, dia = valor.get("year"), valor.get("month"), valor.get("day")
-        if not anio:
-            return None
-        return f"{int(anio):04d}-{int(mes or 1):02d}-{int(dia or 1):02d}"
-    crudo = str(valor).strip()
-    match = re.search(r"(\d{4})-(\d{2})-(\d{2})", crudo)
-    if match:
-        return match.group(0)
-    if re.fullmatch(r"\d{4}", crudo):
-        return f"{crudo}-01-01"
-    return None
-
-
-def _dinero(valor) -> dict | None:
-    """``{"amount": 25000000, "currency": "USD"}`` venga como venga."""
-    if not isinstance(valor, dict):
-        return None
-    cantidad = valor.get("amount")
-    if cantidad is None:
-        dentro = valor.get("total") or valor.get("budget")
-        if isinstance(dentro, dict):
-            cantidad = dentro.get("amount")
-            valor = dentro
-    if not isinstance(cantidad, (int, float)):
-        return None
-    return {"amount": int(cantidad), "currency": valor.get("currency") or "USD"}
-
-
-# --- extraccion de los dos bloques de datos ----------------------------
-
-def _iter_jsonld(soup: BeautifulSoup):
+def _jsonld(soup: BeautifulSoup) -> dict:
+    mejor: dict = {}
     for tag in soup.find_all("script", attrs={"type": re.compile(r"ld\+json", re.I)}):
         crudo = (tag.string or tag.get_text() or "").strip()
         if not crudo:
             continue
         try:
             datos = json.loads(crudo)
-        except json.JSONDecodeError:
+        except ValueError:
             continue
         pila = [datos]
         while pila:
@@ -188,261 +56,191 @@ def _iter_jsonld(soup: BeautifulSoup):
             elif isinstance(item, dict):
                 if "@graph" in item:
                     pila.append(item["@graph"])
-                yield item
-
-
-def _ficha_jsonld(soup: BeautifulSoup) -> dict:
-    mejor: dict = {}
-    for item in _iter_jsonld(soup):
-        tipos = item.get("@type") or item.get("type") or ""
-        if isinstance(tipos, str):
-            tipos = [tipos]
-        if {str(t).lower() for t in tipos} & TITLE_TYPES:
-            if len(json.dumps(item, default=str)) > len(json.dumps(mejor, default=str)):
-                mejor = item
+                    continue
+                tipo = str(item.get("@type", "")).lower()
+                if tipo in ("movie", "tvseries", "creativework"):
+                    if len(json.dumps(item, default=str)) > len(json.dumps(mejor, default=str)):
+                        mejor = item
     return mejor
 
 
-def _next_data(soup: BeautifulSoup) -> dict:
-    """El JSON que IMDb incrusta para pintar la pagina en el navegador.
+def duracion_minutos(texto: str) -> int | None:
+    """"2h 57m" -> 177."""
+    match = DURACION_RE.match((texto or "").strip())
+    if not match or not any(match.groups()):
+        return None
+    horas, minutos = (int(g or 0) for g in match.groups())
+    return horas * 60 + minutos or None
 
-    Trae mucho mas que el JSON-LD (sinopsis larga, reparto, presupuesto,
-    recaudacion, titulos parecidos). Si un dia deja de estar, el resto del
-    parseo sigue funcionando con el JSON-LD.
+
+def _propiedades(props: list) -> dict:
+    """Reparte ``["R", "1972", "2h 57m"]`` en clasificacion, año y duracion.
+
+    Vienen en una lista sin etiquetar y no siempre estan las tres, asi que cada
+    valor se reconoce por su forma.
     """
-    tag = soup.find("script", id="__NEXT_DATA__")
-    if not tag:
-        return {}
-    try:
-        datos = json.loads(tag.string or tag.get_text() or "{}")
-    except json.JSONDecodeError:
-        log.debug("__NEXT_DATA__ ilegible")
-        return {}
-
-    props = _ruta(datos, "props.pageProps") or {}
-    arriba = props.get("aboveTheFoldData") or {}
-    principal = props.get("mainColumnData") or {}
-    if not arriba and not principal:
-        return props if isinstance(props, dict) else {}
-    # Un solo diccionario con los dos bloques: los campos no se pisan entre si.
-    return {**principal, **arriba, "_main": principal, "_above": arriba}
-
-
-def _reparto(next_data: dict, jsonld: dict) -> list[dict]:
-    bordes = _primero(next_data, "cast.edges", "_main.cast.edges") or []
-    reparto: list[dict] = []
-    for borde in bordes[:MAX_CAST]:
-        nodo = borde.get("node") if isinstance(borde, dict) else None
-        if not isinstance(nodo, dict):
+    salida: dict = {"certificate": None, "year": None, "runtime_minutes": None}
+    for prop in props or []:
+        texto = str(prop).strip()
+        if not texto:
             continue
-        nombre = _ruta(nodo, "name.nameText.text")
-        if not nombre:
-            continue
-        personajes = _textos(nodo.get("characters"), "name")
-        reparto.append(
-            {
-                "id": _ruta(nodo, "name.id"),
-                "name": nombre,
-                "character": personajes[0] if personajes else "",
-                "image": _ruta(nodo, "name.primaryImage.url"),
-            }
-        )
-    if reparto:
-        return reparto
-
-    for actor in (jsonld.get("actor") or [])[:MAX_CAST]:
-        if isinstance(actor, dict) and actor.get("name"):
-            reparto.append(
-                {
-                    "id": urlutil.name_id(actor.get("url", "") or ""),
-                    "name": actor["name"].strip(),
-                    "character": "",
-                    "image": None,
-                }
-            )
-    return reparto
-
-
-def _equipo(next_data: dict, jsonld: dict, papel: str) -> list[dict]:
-    """Direccion y guion, del bloque de creditos principales o del JSON-LD."""
-    creditos = _primero(next_data, "principalCredits", "_main.principalCredits") or []
-    for bloque in creditos:
-        if not isinstance(bloque, dict):
-            continue
-        etiqueta = (_ruta(bloque, "category.text") or _ruta(bloque, "category.id") or "").lower()
-        if papel not in etiqueta:
-            continue
-        gente = []
-        for credito in bloque.get("credits") or []:
-            nombre = _ruta(credito, "name.nameText.text")
-            if nombre:
-                gente.append({"id": _ruta(credito, "name.id"), "name": nombre})
-        if gente:
-            return gente
-
-    clave = {"director": "director", "writer": "creator"}.get(papel, papel)
-    salida = []
-    for persona in (jsonld.get(clave) or []):
-        if isinstance(persona, dict) and persona.get("name"):
-            salida.append(
-                {"id": urlutil.name_id(persona.get("url", "") or ""), "name": persona["name"].strip()}
-            )
+        if ANIO_RE.match(texto):
+            salida["year"] = int(texto)
+        elif duracion_minutos(texto):
+            salida["runtime_minutes"] = duracion_minutos(texto)
+        elif salida["certificate"] is None:
+            salida["certificate"] = texto
     return salida
 
 
-def _imagenes(soup: BeautifulSoup, next_data: dict, jsonld: dict, base_url: str) -> list[dict]:
-    encontradas: list[dict] = []
-    vistas: set[str] = set()
-
-    def anadir(url, pie: str = "") -> None:
-        if not isinstance(url, str) or not url.strip():
-            return
-        absoluta = urljoin(base_url, url.strip())
-        if absoluta.startswith("data:") or absoluta in vistas:
-            return
-        vistas.add(absoluta)
-        encontradas.append({"url": absoluta, "caption": pie})
-
-    anadir(_primero(next_data, "primaryImage.url", "_above.primaryImage.url"),
-           _primero(next_data, "primaryImage.caption.plainText") or "")
-    imagen = jsonld.get("image")
-    anadir(imagen if isinstance(imagen, str) else _ruta(imagen or {}, "url"))
-    anadir(_meta(soup, "og:image", "twitter:image"))
-
-    for borde in (_primero(next_data, "titleMainImages.edges", "_main.titleMainImages.edges") or [])[:8]:
-        nodo = borde.get("node") if isinstance(borde, dict) else None
-        if isinstance(nodo, dict):
-            anadir(nodo.get("url"), _ruta(nodo, "caption.plainText") or "")
-
-    return encontradas
-
-
-def parse_title(html: str, url: str) -> dict | None:
-    """Construye el registro del titulo. ``None`` si la pagina no es una ficha."""
-    soup = BeautifulSoup(html, "lxml")
-    jsonld = _ficha_jsonld(soup)
-    siguiente = _next_data(soup)
-
-    tconst = urlutil.title_id(url) or urlutil.title_id(jsonld.get("url", "") or "")
-    if not tconst:
-        canonico = soup.find("link", rel=lambda v: v and "canonical" in v)
-        if canonico and canonico.get("href"):
-            tconst = urlutil.title_id(urljoin(url, canonico["href"]))
-    if not tconst:
-        log.debug("sin tconst en %s", url)
+def _numero(valor) -> float | None:
+    try:
+        return float(str(valor).strip().rstrip("%"))
+    except (TypeError, ValueError):
         return None
 
+
+def _entero(valor) -> int | None:
+    numero = _numero(valor)
+    return int(numero) if numero is not None else None
+
+
+def _personas(entradas, limite: int) -> list[dict]:
+    salida = []
+    for persona in (entradas or [])[:limite]:
+        if not isinstance(persona, dict) or not persona.get("name"):
+            continue
+        salida.append(
+            {
+                "id": urlutil.person_id(persona.get("sameAs", "") or ""),
+                "name": persona["name"].strip(),
+                "image": urlutil.caratula(persona.get("image"), "120x150"),
+            }
+        )
+    return salida
+
+
+def parse_movie(html: str, url: str) -> dict | None:
+    """Construye el registro de la pelicula. ``None`` si la pagina no es una ficha."""
+    soup = BeautifulSoup(html, "lxml")
+
+    slug = urlutil.movie_id(url)
+    if not slug:
+        canonico = soup.find("link", rel=lambda v: v and "canonical" in v)
+        if canonico and canonico.get("href"):
+            slug = urlutil.movie_id(canonico["href"])
+    if not slug:
+        log.debug("sin identificador en %s", url)
+        return None
+
+    hero = _bloque(soup, "media-hero-json")
+    marcador = _bloque(soup, "media-scorecard-json")
+    donde_ver = _bloque(soup, "where-to-watch-json")
+    fotos = _bloque(soup, "photosCarousel")
+    curacion = _bloque(soup, "curation-json")
+    ld = _jsonld(soup)
+
+    contenido = hero.get("content") or {}
     titulo = (
-        _primero(siguiente, "titleText.text", "_above.titleText.text")
-        or (jsonld.get("name") if isinstance(jsonld.get("name"), str) else None)
-        or _meta(soup, "og:title")
-        or _texto(soup.select_one("h1[data-testid=hero__pageTitle], h1"))
+        contenido.get("title")
+        or donde_ver.get("title")
+        or (ld.get("name") if isinstance(ld.get("name"), str) else None)
     )
     if not titulo:
         log.debug("sin titulo en %s", url)
         return None
-    # og:title llega como "El padrino (1972) - IMDb".
-    titulo = re.sub(r"\s*[-|]\s*IMDb\s*$", "", titulo).strip()
 
-    original = (
-        _primero(siguiente, "originalTitleText.text", "_above.originalTitleText.text")
-        or (jsonld.get("alternateName") if isinstance(jsonld.get("alternateName"), str) else None)
-        or titulo
-    )
+    propiedades = _propiedades(contenido.get("metadataProps"))
+    if propiedades["year"] is None and donde_ver.get("releaseYear"):
+        propiedades["year"] = _entero(donde_ver["releaseYear"])
+    if propiedades["certificate"] is None and ld.get("contentRating"):
+        propiedades["certificate"] = str(ld["contentRating"])
 
-    generos = _textos(
-        _primero(siguiente, "genres.genres", "titleGenres.genres", "_above.genres.genres")
-        or jsonld.get("genre")
-    )
-    # Se descarta lo que no sea un genero reconocido: por ese campo tambien
-    # asoman identificadores internos que no pintan nada en el sitio.
-    generos = [g for g in generos if urlutil.genre_slug(g)]
+    generos = [
+        nombre
+        for nombre in (urlutil.genero_en_castellano(g) for g in contenido.get("metadataGenres") or [])
+        if nombre
+    ]
 
-    anio = _primero(siguiente, "releaseYear.year", "_above.releaseYear.year")
-    if not isinstance(anio, int):
-        anio = None
-    estreno = fecha_iso(
-        _primero(siguiente, "releaseDate", "_above.releaseDate") or jsonld.get("datePublished")
-    )
-    if anio is None and estreno:
-        anio = int(estreno[:4])
+    criticos = marcador.get("criticsScore") or {}
+    publico = marcador.get("audienceScore") or {}
 
-    nota = _primero(siguiente, "ratingsSummary.aggregateRating", "_above.ratingsSummary.aggregateRating")
-    votos = _primero(siguiente, "ratingsSummary.voteCount", "_above.ratingsSummary.voteCount")
-    if nota is None:
-        nota = _ruta(jsonld, "aggregateRating.ratingValue")
-    if votos is None:
-        votos = _ruta(jsonld, "aggregateRating.ratingCount")
+    # La nota sobre diez que dan los criticos es la que entiende el sitio; el
+    # Tomatometer y el Popcornmeter viajan aparte, que son la marca de la casa.
+    nota = _numero(criticos.get("averageRating"))
+    tomatometer = _entero(criticos.get("score"))
+    publico_score = _entero(publico.get("score"))
 
-    sinopsis = (
-        _primero(siguiente, "plot.plotText.plainText", "_above.plot.plotText.plainText")
-        or (jsonld.get("description") if isinstance(jsonld.get("description"), str) else None)
-        or _texto(soup.select_one("[data-testid=plot-xl], [data-testid=plot]"))
-        or ""
-    )
+    # Un porcentaje no dice a cuanta gente le gusto: para ordenar por popular
+    # sirve el numero de personas que han votado.
+    votos = (_entero(publico.get("likedCount")) or 0) + (_entero(publico.get("notLikedCount")) or 0)
 
-    etiquetas = _textos(_primero(siguiente, "keywords.edges", "_main.keywords.edges"))[:MAX_KEYWORDS]
-    if not etiquetas:
-        claves = jsonld.get("keywords")
-        if isinstance(claves, str):
-            etiquetas = [k.strip() for k in claves.split(",") if k.strip()][:MAX_KEYWORDS]
+    caratula = urlutil.caratula(contenido.get("posterSrc"))
+    fondo = (hero.get("iconic") or {}).get("srcDesktop")
 
-    parecidos = [
-        identificador
-        for identificador in _textos(
-            _primero(siguiente, "moreLikeThisTitles.edges", "_main.moreLikeThisTitles.edges"),
-            "id",
-        )
-        if urlutil.is_tconst(identificador)
-    ][:MAX_SIMILAR]
+    imagenes: list[dict] = []
+    vistas: set[str] = set()
+    for enlace, pie in [(caratula, ""), (fondo, "")]:
+        if enlace and enlace not in vistas:
+            vistas.add(enlace)
+            imagenes.append({"url": enlace, "caption": pie})
+    for imagen in (fotos.get("images") or [])[:MAX_IMAGENES]:
+        enlace = imagen.get("imageUrl")
+        if enlace and enlace not in vistas:
+            vistas.add(enlace)
+            imagenes.append({"url": enlace, "caption": (imagen.get("caption") or "").strip()})
 
-    imagenes = _imagenes(soup, siguiente, jsonld, url)
-    trailer = _primero(siguiente, "primaryVideos.edges") or jsonld.get("trailer")
+    video = contenido.get("primaryVideo") or {}
+    directores = _personas(ld.get("director"), 4)
+    if not directores and donde_ver.get("director"):
+        directores = [{"id": None, "name": donde_ver["director"], "image": None}]
 
-    tipo = (
-        _primero(siguiente, "titleType.id", "_above.titleType.id")
-        or (jsonld.get("@type") if isinstance(jsonld.get("@type"), str) else None)
-        or "movie"
-    )
+    donde = [
+        {"name": (sitio.get("text") or sitio.get("icon") or "").strip(), "url": sitio.get("url")}
+        for sitio in (donde_ver.get("affiliates") or [])
+        if sitio.get("url")
+    ]
 
     return {
-        "id": tconst,
-        "url": urlutil.title_url(tconst),
+        "id": slug,
+        "url": urlutil.movie_url(slug),
         "category": urlutil.category_key(generos),
-        "type": str(tipo),
-        "title": titulo,
-        "original_title": original.strip(),
+        "type": curacion.get("type") or "movie",
+        "title": titulo.strip(),
+        "original_title": titulo.strip(),
         "genres": generos,
-        "year": anio,
-        "end_year": _primero(siguiente, "releaseYear.endYear", "_above.releaseYear.endYear"),
-        "release_date": estreno,
-        "runtime_minutes": duracion_minutos(
-            _primero(siguiente, "runtime.seconds", "_above.runtime.seconds") or jsonld.get("duration")
-        ),
-        "certificate": _primero(siguiente, "certificate.rating", "_above.certificate.rating")
-        or jsonld.get("contentRating"),
-        "rating": round(float(nota), 1) if isinstance(nota, (int, float)) else None,
-        "votes": int(votos) if isinstance(votos, (int, float)) else None,
-        "metascore": _primero(siguiente, "metacritic.metascore.score", "_main.metacritic.metascore.score"),
-        "plot": sinopsis.strip(),
-        "tagline": (_textos(_primero(siguiente, "taglines.edges", "_main.taglines.edges")) or [""])[0],
-        "poster": imagenes[0]["url"] if imagenes else None,
-        "images": imagenes[:8],
-        "trailer": _buscar_clave(trailer, "embedUrl") or _buscar_clave(trailer, "url"),
-        "directors": _equipo(siguiente, jsonld, "director"),
-        "writers": _equipo(siguiente, jsonld, "writer"),
-        "cast": _reparto(siguiente, jsonld),
-        "keywords": etiquetas,
-        "countries": _textos(_primero(siguiente, "countriesOfOrigin.countries", "_main.countriesOfOrigin.countries")),
-        "languages": _textos(_primero(siguiente, "spokenLanguages.spokenLanguages", "_main.spokenLanguages.spokenLanguages")),
-        "companies": _textos(
-            _primero(siguiente, "production.edges", "_main.production.edges", "productionCompanies"),
-            "companyText",
-            "text",
-        )[:6],
-        "budget": _dinero(_primero(siguiente, "productionBudget", "_main.productionBudget")),
-        "gross_worldwide": _dinero(_primero(siguiente, "worldwideGross", "_main.worldwideGross")),
-        "similar": parecidos,
-        "source": "imdb.com",
+        "year": propiedades["year"],
+        "end_year": None,
+        "release_date": None,
+        "runtime_minutes": propiedades["runtime_minutes"],
+        "certificate": propiedades["certificate"],
+        "rating": round(nota, 1) if nota is not None else None,
+        "votes": votos or None,
+        "tomatometer": tomatometer,
+        "tomatometer_count": _entero(criticos.get("reviewCount")),
+        "tomatometer_certified": bool(criticos.get("certified")),
+        "audience_score": publico_score,
+        "audience_count": _entero(publico.get("reviewCount")),
+        "metascore": None,
+        "plot": (marcador.get("description") or "").strip(),
+        "tagline": "",
+        "poster": caratula,
+        "images": imagenes,
+        "trailer": f"{urlutil.movie_url(slug)}/trailers" if video else None,
+        "directors": [{"id": d["id"], "name": d["name"]} for d in directores],
+        "writers": [],
+        "cast": [
+            {"id": p["id"], "name": p["name"], "character": "", "image": p["image"]}
+            for p in _personas(ld.get("actor"), MAX_REPARTO)
+        ],
+        "keywords": [],
+        "countries": [],
+        "languages": [],
+        "companies": [],
+        "budget": None,
+        "gross_worldwide": None,
+        "streaming": donde,
+        "similar": [],
+        "source": "rottentomatoes.com",
         "scraped_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
     }

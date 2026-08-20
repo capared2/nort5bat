@@ -1,111 +1,89 @@
 import re
 
-from scraper.parser import duracion_minutos, fecha_iso, parse_title
-from tests.fake_site import TITLE_HTML
+from scraper.parser import duracion_minutos, parse_movie
+from tests.fake_site import PELICULA_HTML
 
-URL = "https://www.imdb.com/title/tt0111161/"
+URL = "https://www.rottentomatoes.com/m/the_godfather"
 
 
 def ficha():
-    return parse_title(TITLE_HTML, URL)
+    return parse_movie(PELICULA_HTML, URL)
 
 
 def test_campos_basicos():
     datos = ficha()
-    assert datos["id"] == "tt0111161"
+    assert datos["id"] == "the_godfather"
     assert datos["url"] == URL
-    assert datos["title"] == "The Shawshank Redemption"
-    assert datos["year"] == 1994
-    assert datos["release_date"] == "1994-10-14"
-    assert datos["runtime_minutes"] == 142
-    assert datos["certificate"] == "R"
+    assert datos["title"] == "The Godfather"
     assert datos["type"] == "movie"
+    assert datos["source"] == "rottentomatoes.com"
 
 
-def test_nota_y_votos_salen_del_bloque_de_la_pagina():
+def test_las_propiedades_sueltas_se_reconocen_por_su_forma():
+    """Llegan como ["R", "1972", "2h 57m"], sin etiquetar."""
     datos = ficha()
-    assert datos["rating"] == 9.3
-    assert datos["votes"] == 2934567       # el de __NEXT_DATA__, mas fino que el JSON-LD
-    assert datos["metascore"] == 82
+    assert datos["certificate"] == "R"
+    assert datos["year"] == 1972
+    assert datos["runtime_minutes"] == 177
 
 
-def test_generos_y_carpeta_de_destino():
+def test_las_dos_notas_de_la_casa_y_la_de_diez():
     datos = ficha()
-    assert datos["genres"] == ["Drama", "Crime"]
-    assert datos["category"] == "crime"     # crimen manda sobre drama
+    assert datos["tomatometer"] == 97
+    assert datos["tomatometer_count"] == 155
+    assert datos["tomatometer_certified"] is True
+    assert datos["audience_score"] == 98
+    # La nota sobre diez es la media de los criticos, que es lo que entiende
+    # el sitio; el porcentaje no sirve para pintar estrellas.
+    assert datos["rating"] == 9.8
+    # Un porcentaje no dice a cuanta gente le gusto: los votos, si.
+    assert datos["votes"] == 166247 + 3849
 
 
-def test_equipo_y_reparto():
+def test_generos_traducidos_y_carpeta_de_destino():
     datos = ficha()
-    assert [d["name"] for d in datos["directors"]] == ["Frank Darabont"]
-    assert [g["name"] for g in datos["writers"]] == ["Stephen King", "Frank Darabont"]
-    assert datos["cast"][0] == {
-        "id": "nm0000209",
-        "name": "Tim Robbins",
-        "character": "Andy Dufresne",
-        "image": "https://m.media-amazon.com/images/M/robbins.jpg",
-    }
-    assert len(datos["cast"]) == 3
+    assert datos["genres"] == ["Crimen", "Drama"]
+    assert datos["category"] == "crimen"
 
 
-def test_datos_de_produccion():
+def test_equipo_y_reparto_con_sus_fotos():
     datos = ficha()
-    assert datos["countries"] == ["United States"]
-    assert datos["languages"] == ["English"]
-    assert datos["companies"] == ["Castle Rock Entertainment"]
-    assert datos["budget"] == {"amount": 25000000, "currency": "USD"}
-    assert datos["gross_worldwide"] == {"amount": 28884504, "currency": "USD"}
+    assert [d["name"] for d in datos["directors"]] == ["Francis Ford Coppola"]
+    assert [c["name"] for c in datos["cast"]] == ["Marlon Brando", "Al Pacino", "James Caan"]
+    assert datos["cast"][0]["id"] == "marlon_brando"
+    assert "/120x150/" in datos["cast"][0]["image"]
+    # Quien llega sin nombre no entra.
+    assert all(c["name"] for c in datos["cast"])
 
 
-def test_sinopsis_etiquetas_y_parecidas():
+def test_imagenes_sinopsis_y_donde_verla():
     datos = ficha()
-    assert datos["plot"].startswith("Over the course")
-    assert datos["tagline"].startswith("Fear can hold you prisoner")
-    assert "prison" in datos["keywords"]
-    # El identificador que no es un tconst se descarta.
-    assert datos["similar"] == ["tt0068646", "tt0071562"]
+    assert "/300x450/" in datos["poster"]
+    assert datos["plot"].startswith("Mob drama")
+    assert len(datos["images"]) == 4          # caratula, fondo y dos fotos
+    assert datos["images"][0]["url"] == datos["poster"]
+    assert [s["name"] for s in datos["streaming"]] == ["Stream", "Paramount+"]
+    assert datos["trailer"].endswith("/the_godfather/trailers")
 
 
-def test_imagenes_y_trailer():
-    datos = ficha()
-    assert datos["poster"].endswith("MV5Bposter._V1_.jpg")
-    assert any("still1.jpg" in i["url"] for i in datos["images"])
-    assert datos["trailer"] == "https://www.imdb.com/video/vi3877612057/"
+def test_sin_los_bloques_json_se_apaña_con_el_resto():
+    recortado = re.sub(r'<script id="media-hero-json".*?</script>', "", PELICULA_HTML, flags=re.S)
+    datos = parse_movie(recortado, URL)
+    # El titulo y el año salen del bloque de "donde verla".
+    assert datos["title"] == "The Godfather"
+    assert datos["year"] == 1972
+    # Y la clasificacion, del JSON-LD.
+    assert datos["certificate"] == "R"
+    assert datos["poster"] is None
 
 
-def test_sin_next_data_se_apana_con_el_json_ld():
-    recortado = re.sub(
-        r'<script id="__NEXT_DATA__".*?</script>', "", TITLE_HTML, flags=re.S
-    )
-    datos = parse_title(recortado, URL)
-    assert datos["title"] == "The Shawshank Redemption"
-    assert datos["rating"] == 9.3
-    assert datos["votes"] == 2900000
-    assert datos["runtime_minutes"] == 142
-    assert datos["genres"] == ["Drama"]
-    assert [d["name"] for d in datos["directors"]] == ["Frank Darabont"]
-    assert [a["name"] for a in datos["cast"]] == ["Tim Robbins", "Morgan Freeman"]
-    # El JSON-LD mete a la productora entre los "creator": se queda sin nombre y
-    # no debe colarse en el guion.
-    assert [g["name"] for g in datos["writers"]] == ["Stephen King"]
-
-
-def test_pagina_que_no_es_una_ficha():
-    assert parse_title("<html><body><p>nada</p></body></html>", "https://www.imdb.com/chart/top/") is None
+def test_una_pagina_que_no_es_una_ficha():
+    assert parse_movie("<html><body><p>nada</p></body></html>", "https://www.rottentomatoes.com/") is None
 
 
 def test_duraciones():
-    assert duracion_minutos("PT2H22M") == 142
-    assert duracion_minutos("PT45M") == 45
-    assert duracion_minutos(8520) == 142        # segundos
-    assert duracion_minutos(142) == 142         # ya venia en minutos
-    assert duracion_minutos(None) is None
+    assert duracion_minutos("2h 57m") == 177
+    assert duracion_minutos("1h") == 60
+    assert duracion_minutos("95m") == 95
+    assert duracion_minutos("") is None
     assert duracion_minutos("cualquier cosa") is None
-
-
-def test_fechas():
-    assert fecha_iso({"year": 1994, "month": 10, "day": 14}) == "1994-10-14"
-    assert fecha_iso({"year": 1994}) == "1994-01-01"
-    assert fecha_iso("1994-10-14T00:00:00Z") == "1994-10-14"
-    assert fecha_iso("1994") == "1994-01-01"
-    assert fecha_iso(None) is None

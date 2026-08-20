@@ -1,9 +1,8 @@
-"""Constantes y ajustes del scraper de IMDb."""
+"""Constantes y ajustes del scraper de Rotten Tomatoes."""
 from __future__ import annotations
 
 import os
 
-BASE_URL = "https://www.imdb.com"
 
 def _entorno(clave: str, defecto: str) -> str:
     """Valor del entorno, tratando la cadena vacia como "no definido".
@@ -15,144 +14,165 @@ def _entorno(clave: str, defecto: str) -> str:
     return os.environ.get(clave) or defecto
 
 
+BASE_URL = "https://www.rottentomatoes.com"
+
 # Dominio publico del sitio que consume este dataset (para los sitemaps).
 SITE_URL = _entorno("SITE_URL", "https://nort5.com")
 
-# Hosts de los que aceptamos descargar fichas.
 ALLOWED_HOSTS = {
-    "www.imdb.com",
-    "imdb.com",
-    "m.imdb.com",
+    "www.rottentomatoes.com",
+    "rottentomatoes.com",
 }
 
-# Los datasets oficiales viven en su propio host y no son HTML.
-DATASET_BASE_URL = _entorno("IMDB_DATASET_URL", "https://datasets.imdbws.com")
-DATASET_BASICS = "title.basics.tsv.gz"
-DATASET_RATINGS = "title.ratings.tsv.gz"
-DATASET_AKAS = "title.akas.tsv.gz"
-DATASET_CREW = "title.crew.tsv.gz"
-DATASET_PRINCIPALS = "title.principals.tsv.gz"
-DATASET_NAMES = "name.basics.tsv.gz"
-
-# TMDB pone las caratulas que los datasets de IMDb no traen. Sin clave, el
-# scraper sigue funcionando: las fichas salen sin imagen.
-TMDB_API_KEY = _entorno("TMDB_API_KEY", "")
-
 DEFAULT_USER_AGENT = _entorno(
-    "IMDB_USER_AGENT",
+    "RT_USER_AGENT",
     "nort5bat-scraper/1.0 (+https://github.com/capared2/nort5bat)",
 )
 
-# IMDb sirve paginas grandes y corta el grifo antes que un diario: se va mas
-# despacio que en markap y con menos hilos.
 DEFAULT_DELAY = 1.0          # segundos entre peticiones (global, no por hilo)
 DEFAULT_WORKERS = 4
 DEFAULT_TIMEOUT = 30
 DEFAULT_RETRIES = 3
-DEFAULT_SHARD_SIZE = 60      # fichas por fichero JSON: pesan mas que una noticia
+DEFAULT_SHARD_SIZE = 60      # fichas por fichero JSON
 DEFAULT_TIME_BUDGET = 3300   # segundos de descarga de fichas por ejecucion
 
-# Filtros del catalogo. Sin ellos entrarian los 11 millones de registros de
-# IMDb, casi todos episodios sueltos sin una sola valoracion.
-DEFAULT_TYPES = ("movie", "tvMovie")
-DEFAULT_MIN_VOTES = 1000
-DEFAULT_MIN_YEAR = 1920
+# Una pelicula sin publico no le interesa a nadie y llena el archivo de ruido.
+DEFAULT_MIN_VOTES = 0
 
-# Tipos que IMDb reconoce, por si se quieren pedir desde la linea de ordenes.
-KNOWN_TYPES = (
-    "movie", "tvMovie", "tvSeries", "tvMiniSeries", "tvSpecial",
-    "short", "tvShort", "video", "videoGame", "tvEpisode",
-)
-
-# Sitemaps que IMDb publica. Si robots.txt anuncia otros, se usan tambien.
 SITEMAP_CANDIDATES = [
-    "/sitemap/index.xml.gz",
-    "/sitemap/index.xml",
     "/sitemap.xml",
+    "/sitemaps/sitemap.xml",
 ]
 
-# Listas publicas de IMDb: la via mas barata de encontrar lo que la gente ve
-# ahora mismo, sin bajarse el catalogo entero.
-CHART_SEEDS = [
-    "/chart/top/",
-    "/chart/moviemeter/",
-    "/chart/boxoffice/",
-    "/chart/top-english-movies/",
-    "/chart/toptv/",
-    "/chart/tvmeter/",
+# Las paginas de listado de las que salen las peliculas. Rotten Tomatoes las
+# ordena y filtra por la propia ruta, asi que cada variante trae un surtido
+# distinto sin necesidad de paginar a mano.
+BROWSE_SEEDS = [
+    "/browse/movies_at_home/sort:popular",
+    "/browse/movies_at_home/sort:top_box_office",
+    "/browse/movies_at_home/critics:certified_fresh~sort:popular",
+    "/browse/movies_at_home/audience:upright~sort:popular",
+    "/browse/movies_in_theaters/sort:popular",
+    "/browse/movies_in_theaters/sort:top_box_office",
+    "/browse/movies_coming_soon/",
 ]
 
-# Rutas que nunca contienen la ficha de un titulo.
+# Rutas que nunca son la ficha de una pelicula.
 EXCLUDED_PATH_PREFIXES = (
-    "/search/",
-    "/find",
-    "/register",
-    "/registration/",
-    "/ap/",
-    "/r/",
-    "/offsite/",
-    "/whitelist",
-    "/_json/",
-    "/tr/",
-    "/list/",
-    "/user/",
-    "/poll/",
-    "/showtimes/",
-    "/calendar/",
-    "/pro/",
+    "/critics",
+    "/celebrity",
+    "/napi",
+    "/search",
+    "/user",
+    "/franchise",
+    "/showtimes",
+    "/account",
+    "/privacy",
+    "/help",
+    "/about",
+    "/policies",
+    "/browse",
+    "/tv",
 )
 
-# Subrutas de /title/ que cuelgan de la ficha pero no son la ficha.
-TITLE_SUBPAGES = (
-    "fullcredits", "reviews", "ratings", "trivia", "quotes", "goofs",
-    "releaseinfo", "companycredits", "technical", "locations", "awards",
-    "mediaindex", "mediaviewer", "videogallery", "soundtrack", "parentalguide",
-    "externalsites", "keywords", "plotsummary", "taglines", "criticreviews",
-    "episodes", "faq", "crazycredits", "alternateversions", "movieconnections",
-    "news", "boxoffice", "bio", "video",
+# Subrutas que cuelgan de la ficha pero no son la ficha.
+MOVIE_SUBPAGES = (
+    "reviews", "pictures", "trailers", "cast-and-crew", "news", "videos",
+    "clips", "quotes", "similar", "awards",
 )
 
-# Los generos de IMDb, con su nombre en castellano para el frontend.
+# Los generos de Rotten Tomatoes, con su nombre en castellano.
 GENRES = {
-    "action": "Acción",
-    "adventure": "Aventura",
-    "animation": "Animación",
-    "biography": "Biografía",
-    "comedy": "Comedia",
-    "crime": "Crimen",
-    "documentary": "Documental",
+    "accion": "Acción",
+    "aventura": "Aventura",
+    "animacion": "Animación",
+    "anime": "Anime",
+    "biografia": "Biografía",
+    "comedia": "Comedia",
+    "crimen": "Crimen",
+    "documental": "Documental",
     "drama": "Drama",
-    "family": "Familiar",
-    "fantasy": "Fantasía",
-    "film-noir": "Cine negro",
-    "game-show": "Concurso",
-    "history": "Historia",
-    "horror": "Terror",
-    "music": "Música",
+    "entretenimiento": "Entretenimiento",
+    "fantasia": "Fantasía",
+    "concurso": "Concurso",
+    "historia": "Historia",
+    "navidad": "Navidad",
+    "terror": "Terror",
+    "infantil-y-familiar": "Infantil y familiar",
+    "lgbtq": "LGBTQ+",
+    "musica": "Música",
     "musical": "Musical",
-    "mystery": "Misterio",
-    "news": "Actualidad",
-    "reality-tv": "Telerrealidad",
+    "misterio-y-suspense": "Misterio y suspense",
+    "naturaleza": "Naturaleza",
+    "actualidad": "Actualidad",
+    "telerrealidad": "Telerrealidad",
     "romance": "Romance",
-    "sci-fi": "Ciencia ficción",
-    "short": "Cortometraje",
-    "sport": "Deporte",
-    "talk-show": "Late night",
-    "thriller": "Suspense",
-    "war": "Bélico",
+    "ciencia-ficcion": "Ciencia ficción",
+    "cortometraje": "Cortometraje",
+    "deporte": "Deporte",
+    "monologos": "Monólogos",
+    "late-night": "Late night",
+    "viajes": "Viajes",
+    "belico": "Bélico",
     "western": "Western",
+    "otros": "Otros",
 }
 
-# Cuando un titulo tiene varios generos, el primero de esta lista manda: es el
-# que decide en que carpeta vive su ficha. Los generos "de forma" (corto,
-# documental) describen el envase, no el tema, asi que van al final.
+# Como llama Rotten Tomatoes a cada genero en sus paginas, y en que clave
+# nuestra cae. Se compara en minusculas y sin signos.
+GENRE_ALIASES = {
+    "action": "accion",
+    "adventure": "aventura",
+    "action & adventure": "accion",
+    "animation": "animacion",
+    "anime": "anime",
+    "biography": "biografia",
+    "comedy": "comedia",
+    "crime": "crimen",
+    "documentary": "documental",
+    "drama": "drama",
+    "entertainment": "entretenimiento",
+    "faith & spirituality": "otros",
+    "fantasy": "fantasia",
+    "game show": "concurso",
+    "health & wellness": "otros",
+    "history": "historia",
+    "holiday": "navidad",
+    "horror": "terror",
+    "house & garden": "otros",
+    "kids & family": "infantil-y-familiar",
+    "lgbtq+": "lgbtq",
+    "music": "musica",
+    "musical": "musical",
+    "mystery & thriller": "misterio-y-suspense",
+    "nature": "naturaleza",
+    "news": "actualidad",
+    "reality": "telerrealidad",
+    "romance": "romance",
+    "sci-fi": "ciencia-ficcion",
+    "short": "cortometraje",
+    "soap": "otros",
+    "special interest": "otros",
+    "sports": "deporte",
+    "stand-up": "monologos",
+    "talk show": "late-night",
+    "travel": "viajes",
+    "variety": "entretenimiento",
+    "war": "belico",
+    "western": "western",
+}
+
+# Cuando una pelicula tiene varios generos, el primero de esta lista manda: es
+# el que decide en que carpeta vive su ficha. Los generos "de forma"
+# (documental, cortometraje) describen el envase, no el tema, asi que van al
+# final.
 GENRE_PRIORITY = (
-    "film-noir", "western", "musical", "horror", "sci-fi", "fantasy",
-    "animation", "war", "crime", "mystery", "thriller", "romance", "comedy",
-    "action", "adventure", "history", "biography", "sport", "music", "family",
-    "drama", "documentary", "short", "news", "reality-tv", "game-show",
-    "talk-show",
+    "western", "musical", "terror", "ciencia-ficcion", "fantasia", "anime",
+    "animacion", "belico", "crimen", "misterio-y-suspense", "romance",
+    "comedia", "accion", "aventura", "historia", "biografia", "deporte",
+    "musica", "infantil-y-familiar", "navidad", "lgbtq", "drama", "naturaleza",
+    "viajes", "monologos", "late-night", "concurso", "telerrealidad",
+    "actualidad", "entretenimiento", "documental", "cortometraje", "otros",
 )
 
-# Cuantas fichas caben en cada pagina de genero que consume el frontend.
 GENRE_PAGE_SIZE = 60
