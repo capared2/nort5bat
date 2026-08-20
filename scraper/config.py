@@ -6,7 +6,7 @@ import os
 BASE_URL = "https://www.imdb.com"
 
 # Dominio publico del sitio que consume este dataset (para los sitemaps).
-SITE_URL = os.environ.get("SITE_URL", "https://cinera.app")
+SITE_URL = os.environ.get("SITE_URL", "https://nort5.com")
 
 # Hosts de los que aceptamos descargar fichas.
 ALLOWED_HOSTS = {
