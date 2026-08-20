@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-08-20T18:22:32.443860Z",
+  "updated_at": "2026-08-20T18:30:15.767576Z",
   "seen": 0,
   "pending": 0,
   "failed": 1500,
   "abandoned": 0,
   "last_run": {
-    "mode": "full",
-    "discovered": 1500,
-    "queued": 1500,
+    "mode": "incremental",
+    "discovered": 0,
+    "queued": 0,
     "refreshed": 0,
-    "fetched": 1500,
+    "fetched": 0,
     "saved": 0,
-    "failed": 1500,
+    "failed": 0,
     "genres": {},
     "seo": {
-      "generated_at": "2026-08-20T18:22:32.442047Z",
+      "generated_at": "2026-08-20T18:30:15.765509Z",
       "site_url": "https://nort5.com",
       "total_urls": 3,
       "sitemaps": [
@@ -23,11 +23,11 @@
     },
     "total_titles": 0,
     "total_genres": 0,
-    "duration_seconds": 14.1,
+    "duration_seconds": 0.0,
     "http": {
-      "requests": 4,
+      "requests": 0,
       "errors": 0,
-      "blocked": 1506
+      "blocked": 0
     }
   }
 }
