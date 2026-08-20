@@ -251,3 +251,4 @@ def test_el_cursor_del_refresco_sobrevive_a_la_ejecucion(tmp_path):
         "https://www.rottentomatoes.com/m/p04",
         "https://www.rottentomatoes.com/m/p05",
     ]
+
