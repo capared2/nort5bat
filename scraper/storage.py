@@ -457,6 +457,10 @@ class RunState:
         ]
         fallidas = _read_json(self.failed_path, {})
         self.failed: dict[str, int] = fallidas if isinstance(fallidas, dict) else {}
+        # Por donde iba el refresco: sin esto se repasarian siempre las mismas
+        # fichas y el resto del archivo envejeceria sin que nadie lo mirase.
+        meta = _read_json(self.meta_path, {})
+        self.refresh_cursor: int = meta.get("refresh_cursor", 0) if isinstance(meta, dict) else 0
         self._lock = threading.Lock()
 
     def _agotadas(self) -> set[str]:
@@ -503,6 +507,23 @@ class RunState:
         with self._lock:
             self.failed[url] = self.failed.get(url, 0) + 1
 
+    def rotar(self, cuantas: int) -> list[str]:
+        """Las siguientes ``cuantas`` fichas del archivo, dando la vuelta al final.
+
+        El cursor se guarda con el estado, de modo que cada ejecucion repasa un
+        tramo distinto y en unas cuantas pasadas se recorre el archivo entero.
+        """
+        with self._lock:
+            if cuantas <= 0 or not self.seen:
+                return []
+            todas = sorted(self.seen)
+            arranque = self.refresh_cursor % len(todas)
+            tramo = todas[arranque : arranque + cuantas]
+            if len(tramo) < cuantas:
+                tramo += todas[: cuantas - len(tramo)]      # da la vuelta
+            self.refresh_cursor = (arranque + len(tramo)) % len(todas)
+            return tramo
+
     def forget(self, urls) -> int:
         """Saca URLs de lo ya visto para volver a pasar por ellas.
 
@@ -529,6 +550,7 @@ class RunState:
                 "pending": len(self.pending),
                 "failed": len(self.failed),
                 "abandoned": len(self._agotadas()),
+                "refresh_cursor": self.refresh_cursor,
             }
             payload.update(meta or {})
             _write_json(self.meta_path, payload, volatiles=("updated_at",))

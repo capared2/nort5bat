@@ -164,8 +164,21 @@ pequeñas y una búsqueda es una sola.
 
 ## Automatización
 
-`.github/workflows/scrape.yml` corre cada seis horas, guarda lo nuevo y hace
-commit de `data/` y `state/`. Si una ejecución no guarda nada porque el origen
+`.github/workflows/scrape.yml` corre **cada seis horas** (a las 00:20, 06:20,
+12:20 y 18:20 UTC), guarda lo nuevo y hace commit de `data/` y `state/`.
+
+Cada pasada hace dos cosas:
+
+1. **Añade** lo que encuentre: los siete listados traen los estrenos y lo que
+   está en cartelera, y de cada ficha descargada salen enlaces a otras
+   películas que vuelven a la cola. Ese es el motor que llena el archivo.
+2. **Repasa** 500 fichas ya guardadas, para que las notas y los porcentajes no
+   envejezcan. El tramo va rotando entre ejecuciones —el cursor se guarda en
+   `state/run.json`—, de modo que en unas cuantas pasadas se recorre el archivo
+   entero en vez de repasar siempre las mismas.
+
+Con el ritmo por defecto, una ejecución descarga del orden de 3.000 fichas en
+sus 55 minutos de presupuesto. Si una ejecución no guarda nada porque el origen
 la rechaza, el workflow **falla** en vez de publicar un commit vacío con tick
 verde. El resumen incluye el recuento de códigos HTTP devueltos, que es lo que
 convierte un «fallaron todas» en un diagnóstico.

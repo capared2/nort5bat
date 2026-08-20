@@ -66,14 +66,15 @@ def _fetch_one(fetcher: Fetcher, url: str) -> tuple[str, dict | None, list[str]]
 
 
 def _refrescar(state: RunState, cuantas: int) -> int:
-    """Devuelve a la cola las fichas ya guardadas mas antiguas.
+    """Devuelve a la cola el siguiente tramo del archivo, para releerlo.
 
-    Las notas y los porcentajes se mueven; sin esto el archivo envejeceria
-    aunque el scraper siguiera corriendo.
+    Las notas y los porcentajes de Rotten Tomatoes se mueven a diario. El tramo
+    va rotando entre ejecuciones: repasar siempre el mismo dejaria el resto del
+    archivo envejeciendo sin que nadie lo mirase.
     """
-    if cuantas <= 0 or not state.seen:
+    candidatas = state.rotar(cuantas)
+    if not candidatas:
         return 0
-    candidatas = sorted(state.seen)[:cuantas]
     state.forget(candidatas)
     state.requeue(candidatas)
     log.info("refresco: %s fichas vuelven a la cola", len(candidatas))

@@ -218,3 +218,36 @@ def test_la_tarjeta_lleva_los_porcentajes_que_enseña_la_parrilla():
     resumida = tarjeta(completa)
     assert resumida["tomatometer"] == 94
     assert resumida["audience_score"] == 93
+
+
+def test_el_refresco_recorre_el_archivo_entero_y_no_el_mismo_tramo(tmp_path):
+    """Sin cursor se repasaban siempre las mismas fichas, alfabeticamente."""
+    estado = RunState(tmp_path)
+    todas = [f"https://www.rottentomatoes.com/m/p{n:02d}" for n in range(10)]
+    for url in todas:
+        estado.mark_seen(url)
+
+    primero = estado.rotar(4)
+    segundo = estado.rotar(4)
+    tercero = estado.rotar(4)
+
+    assert primero == todas[:4]
+    assert segundo == todas[4:8]
+    # Al llegar al final se da la vuelta.
+    assert tercero == todas[8:10] + todas[:2]
+    assert len(set(primero + segundo)) == 8
+
+
+def test_el_cursor_del_refresco_sobrevive_a_la_ejecucion(tmp_path):
+    estado = RunState(tmp_path)
+    for n in range(10):
+        estado.mark_seen(f"https://www.rottentomatoes.com/m/p{n:02d}")
+    estado.rotar(4)
+    estado.save()
+
+    recargado = RunState(tmp_path)
+    assert recargado.refresh_cursor == 4
+    assert recargado.rotar(2) == [
+        "https://www.rottentomatoes.com/m/p04",
+        "https://www.rottentomatoes.com/m/p05",
+    ]

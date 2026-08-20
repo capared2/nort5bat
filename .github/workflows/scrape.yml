@@ -29,9 +29,9 @@ on:
         type: string
         default: "0"
       refresh:
-        description: "Vuelve a pasar por N fichas ya guardadas para actualizar notas"
+        description: "Vuelve a pasar por N fichas ya guardadas para actualizar notas (vacio = 500)"
         type: string
-        default: "0"
+        default: ""
       workers:
         description: "Peticiones en paralelo"
         type: string
@@ -79,19 +79,26 @@ jobs:
           MAX_TITLES: ${{ inputs.max_titles || '0' }}
           TIME_BUDGET: ${{ inputs.time_budget || '3300' }}
           MIN_VOTES: ${{ inputs.min_votes || '0' }}
-          REFRESH: ${{ inputs.refresh || '0' }}
+          # Vacio en las ejecuciones programadas. El valor por defecto se pone
+          # abajo y no aqui: en las expresiones de GitHub un "0" cuenta como
+          # falso y se colaria por la rama equivocada.
+          REFRESH: ${{ inputs.refresh }}
           WORKERS: ${{ inputs.workers || '4' }}
           DELAY: ${{ inputs.delay || '1.0' }}
           SKIP_DISCOVERY: ${{ inputs.skip_discovery || 'false' }}
           SITE_URL: ${{ vars.SITE_URL }}
         run: |
           set -euo pipefail
+          # Cada pasada repasa un tramo del archivo ya guardado: las notas y los
+          # porcentajes se mueven a diario, y el cursor va rotando para que en
+          # unas cuantas ejecuciones se recorra entero.
+          refresco="${REFRESH:-500}"
           args=(
             --mode "$MODE"
             --max-titles "$MAX_TITLES"
             --time-budget "$TIME_BUDGET"
             --min-votes "$MIN_VOTES"
-            --refresh "$REFRESH"
+            --refresh "$refresco"
             --workers "$WORKERS"
             --delay "$DELAY"
             --summary-file run-summary.json
