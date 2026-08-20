@@ -1,8 +1,105 @@
 {
   "genre": "musica",
   "name": "Música",
-  "count": 2,
+  "count": 86,
   "titles": [
+    {
+      "id": "8_mile",
+      "category": "musica",
+      "type": "movie",
+      "title": "8 Mile",
+      "original_title": "8 Mile",
+      "year": 2002,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.0,
+      "votes": 115728,
+      "tomatometer": 76,
+      "audience_score": 54,
+      "runtime_minutes": 110,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/wDZLeK83-hAKIh7s9Jqu0iV5Wgs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29400_p_v8_ax.jpg",
+      "plot": "The people of Detroit know 8 Mile as the city limit, a border, a boundary. It is also a psychological dividing line that separates Jimmy Smith Jr. (Eminem) from where and who he wants to be. A…",
+      "directors": [
+        "Curtis Hanson"
+      ]
+    },
+    {
+      "id": "walk_the_line",
+      "category": "romance",
+      "type": "movie",
+      "title": "Walk the Line",
+      "original_title": "Walk the Line",
+      "year": 2005,
+      "genres": [
+        "Biografía",
+        "Historia",
+        "Drama",
+        "Música",
+        "Romance"
+      ],
+      "rating": 7.5,
+      "votes": 58922,
+      "tomatometer": 83,
+      "audience_score": 90,
+      "runtime_minutes": 136,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ZdOpRP5DtvhGKtDCN5egUhs-G3E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90361_p_v11_av.jpg",
+      "plot": "The rise of country music legend Johnny Cash (Joaquin Phoenix) begins with his days as a boy growing up on the family farm, where he struggles under the scorn of his father (Robert Patrick). As the…",
+      "directors": [
+        "James Mangold"
+      ]
+    },
+    {
+      "id": "almost_famous",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Almost Famous",
+      "original_title": "Almost Famous",
+      "year": 2000,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 8.4,
+      "votes": 51904,
+      "tomatometer": 91,
+      "audience_score": 92,
+      "runtime_minutes": 122,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/LFbXK6lNKBrSwI1pdQ7qQqsonN4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26172_p_v8_ak.jpg",
+      "plot": "Set in 1973, it chronicles the funny and often poignant coming of age of 15-year-old William, an unabashed music fan who is inspired by the seminal bands of the time. When his love of music lands him…",
+      "directors": [
+        "Cameron Crowe"
+      ]
+    },
+    {
+      "id": "whiplash_2014",
+      "category": "misterio-y-suspense",
+      "type": "movie",
+      "title": "Whiplash",
+      "original_title": "Whiplash",
+      "year": 2014,
+      "genres": [
+        "Drama",
+        "Música",
+        "Misterio y suspense"
+      ],
+      "rating": 8.6,
+      "votes": 42603,
+      "tomatometer": 94,
+      "audience_score": 94,
+      "runtime_minutes": 106,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/mh6qGhiogrRe04B9Gf11Lf7yMc0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10488558_p_v12_ai.jpg",
+      "plot": "Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his…",
+      "directors": [
+        "Damien Chazelle"
+      ]
+    },
     {
       "id": "michael",
       "category": "biografia",
@@ -17,12 +114,617 @@
       ],
       "rating": 4.9,
       "votes": 29465,
+      "tomatometer": 38,
+      "audience_score": 97,
       "runtime_minutes": 127,
       "certificate": "PG-13",
       "poster": "https://resizing.flixster.com/MbqWuwCa3avPa0uESDGbDlGDn2c=/300x450/v2/https://resizing.flixster.com/hcHFyHYxNIIgMilY0mC2JoIhggk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYTIxNGM2LTkyZmEtNDJlMC05ODA4LWQ3YTBjYzE2MzQzNi5qcGc=",
       "plot": "MICHAEL is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known. The film tells the story of Michael Jackson's life beyond the music, tracing…",
       "directors": [
         "Antoine Fuqua"
+      ]
+    },
+    {
+      "id": "ray",
+      "category": "historia",
+      "type": "movie",
+      "title": "Ray",
+      "original_title": "Ray",
+      "year": 2004,
+      "genres": [
+        "Biografía",
+        "Historia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.5,
+      "votes": 22384,
+      "tomatometer": 80,
+      "audience_score": 87,
+      "runtime_minutes": 155,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/cd095SWnY1NwqvGPaNxyGk96L0Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35003_p_v8_ae.jpg",
+      "plot": "Legendary soul musician Ray Charles is portrayed by Jamie Foxx in this Oscar-winning biopic. Young Ray watches his 7-year-old brother drown at age seven. When he loses his sight at the age of 9, his…",
+      "directors": [
+        "Taylor Hackford"
+      ]
+    },
+    {
+      "id": "bohemian_rhapsody",
+      "category": "historia",
+      "type": "movie",
+      "title": "Bohemian Rhapsody",
+      "original_title": "Bohemian Rhapsody",
+      "year": 2018,
+      "genres": [
+        "Biografía",
+        "Historia",
+        "Drama",
+        "Música",
+        "LGBTQ+"
+      ],
+      "rating": 6.1,
+      "votes": 19794,
+      "tomatometer": 60,
+      "audience_score": 85,
+      "runtime_minutes": 135,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/oOojttF10KxflpjU67u9d5jyOuY=/300x450/v2/https://resizing.flixster.com/O_8EbgorSfj8YGWHPvQ2TQeVY0U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I4MTk1NWE1LTQ2YjctNDMxMC1hYWRjLTU3NjYzOGE2YWM0ZC53ZWJw",
+      "plot": "Freddie Mercury -- the lead singer of Queen -- defies stereotypes and convention to become a beloved entertainer; the band's popular songs lead to Queen's rise in the 1970s; after leaving the group…",
+      "directors": [
+        "Bryan Singer"
+      ]
+    },
+    {
+      "id": "drumline",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Drumline",
+      "original_title": "Drumline",
+      "year": 2002,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.6,
+      "votes": 19359,
+      "tomatometer": 81,
+      "audience_score": 70,
+      "runtime_minutes": 118,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/fVFQq1-ZfNMSp_EUbKosp_OLCTU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29320_p_v8_ba.jpg",
+      "plot": "Set against the high-energy, high-stakes world of show-style marching bands, \"Drumline\" is a fish-out-of-water comedy about a talented street drummer from Harlem who enrolls in a Southern university,…",
+      "directors": [
+        "Charles Stone III"
+      ]
+    },
+    {
+      "id": "coco_2017",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Coco",
+      "original_title": "Coco",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Música",
+        "Animación"
+      ],
+      "rating": 8.3,
+      "votes": 17353,
+      "tomatometer": 97,
+      "audience_score": 94,
+      "runtime_minutes": 109,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/D7eevtxVT5GzWLzTwodZjsFXqzw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13930352_p_v8_ac.jpg",
+      "plot": "Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in…",
+      "directors": [
+        "Lee Unkrich"
+      ]
+    },
+    {
+      "id": "a_star_is_born_2018",
+      "category": "romance",
+      "type": "movie",
+      "title": "A Star Is Born",
+      "original_title": "A Star Is Born",
+      "year": 2018,
+      "genres": [
+        "Romance",
+        "Drama",
+        "Música"
+      ],
+      "rating": 8.1,
+      "votes": 15624,
+      "tomatometer": 90,
+      "audience_score": 80,
+      "runtime_minutes": 136,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Ivs7wRCseWiwVd8XR_FWyIp-56o=/300x450/v2/https://resizing.flixster.com/jmpKZR-GAGYWjZpXu25ndlHpD7w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQyNWM2MmY3LTkyMTctNDU1YS1hNDk1LTBjNDBlNmE1NmQzZi53ZWJw",
+      "plot": "Seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jackson coaxes her into the…",
+      "directors": [
+        "Bradley Cooper"
+      ]
+    },
+    {
+      "id": "begin_again_2013",
+      "category": "romance",
+      "type": "movie",
+      "title": "Begin Again",
+      "original_title": "Begin Again",
+      "year": 2014,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Romance",
+        "Música"
+      ],
+      "rating": 6.9,
+      "votes": 15158,
+      "tomatometer": 83,
+      "audience_score": 81,
+      "runtime_minutes": 104,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/TXqrFSP3nzUiA12Zitm5alvQpDw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10542968_p_v13_ay.jpg",
+      "plot": "Gretta and her songwriting partner/lover Dave head for New York when he lands a record deal with a major label. However, Gretta is suddenly left on her own when Dave gives in to the temptations that…",
+      "directors": [
+        "John Carney"
+      ]
+    },
+    {
+      "id": "yesterday_2019",
+      "category": "romance",
+      "type": "movie",
+      "title": "Yesterday",
+      "original_title": "Yesterday",
+      "year": 2019,
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Música"
+      ],
+      "rating": 6.4,
+      "votes": 14673,
+      "tomatometer": 64,
+      "audience_score": 89,
+      "runtime_minutes": 116,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/65ueoP7XZ5UPRJzGzMPRH6jGCDU=/300x450/v2/https://resizing.flixster.com/Xz5YUUdQcujMHxZ_Cfk4l_rNNl8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3MGM4NmU3LWIzMzAtNDFkMi1iNjdmLWRhMDkzYjZmZDQ4MC53ZWJw",
+      "plot": "After a worldwide power outage, struggling musician Jack Malik wakes up to discover that no one has ever heard of the Beatles. When he starts to play the band's songs, he soon becomes a pop sensation…",
+      "directors": [
+        "Danny Boyle"
+      ]
+    },
+    {
+      "id": "elvis",
+      "category": "biografia",
+      "type": "movie",
+      "title": "Elvis",
+      "original_title": "Elvis",
+      "year": 2022,
+      "genres": [
+        "Biografía",
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.8,
+      "votes": 13133,
+      "tomatometer": 77,
+      "audience_score": 94,
+      "runtime_minutes": 159,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/SG8dEB-flyv_TTyJbS0ApBiXNGA=/300x450/v2/https://resizing.flixster.com/mYfU74jKBCV9KA_O7ktmk5exwu4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczNjAwNTk0LTRlZWEtNDY5Ni1iYWM1LWRhZjI1OWUzODNhNy5qcGc=",
+      "plot": "The film explores the life and music of Elvis Presley (Austin Butler), seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker (Tom Hanks). The story…",
+      "directors": [
+        "Baz Luhrmann"
+      ]
+    },
+    {
+      "id": "shall_we_dance",
+      "category": "romance",
+      "type": "movie",
+      "title": "Shall We Dance?",
+      "original_title": "Shall We Dance?",
+      "year": 2004,
+      "genres": [
+        "Romance",
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 5.8,
+      "votes": 8735,
+      "tomatometer": 46,
+      "audience_score": 57,
+      "runtime_minutes": 106,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/g0Um5cVhQiuC0AzSW9eDlMBsv8g=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34937_p_v8_az.jpg",
+      "plot": "Despite having a great career and a loving family, lawyer John Clark (Richard Gere) is missing something in his life as he meanders listlessly from day to day. On his commute back home one night,…",
+      "directors": [
+        "Peter Chelsom"
+      ]
+    },
+    {
+      "id": "hustle_and_flow",
+      "category": "crimen",
+      "type": "movie",
+      "title": "Hustle & Flow",
+      "original_title": "Hustle & Flow",
+      "year": 2005,
+      "genres": [
+        "Crimen",
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.5,
+      "votes": 8574,
+      "tomatometer": 83,
+      "audience_score": 83,
+      "runtime_minutes": 115,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/-XVgm1NAMOeGzcPCNIgaSQbRTB8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p88695_p_v11_aj.jpg",
+      "plot": "DJay is a pimp living day to day on the tough streets of Memphis, Tennessee. Pushing 40, he's tired of the life he's living and dreams of something greater. When he meets up with an old friend who is…",
+      "directors": [
+        "Craig Brewer"
+      ]
+    },
+    {
+      "id": "judy_2019",
+      "category": "historia",
+      "type": "movie",
+      "title": "Judy",
+      "original_title": "Judy",
+      "year": 2019,
+      "genres": [
+        "Biografía",
+        "Historia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.0,
+      "votes": 5778,
+      "tomatometer": 82,
+      "audience_score": 86,
+      "runtime_minutes": 118,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/RiMH1UHim8XhDjrwTZm2bluQHvI=/300x450/v2/https://resizing.flixster.com/ntsRh9MEaCLfXO9WkcLVnmig_qk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyOTcxOGUwLTQwNTEtNGVkNC05ZWYzLWVhYTJhYzE1MTFkOC53ZWJw",
+      "plot": "Thirty years after starring in \"The Wizard of Oz,\" beloved actress and singer Judy Garland arrives in London to perform sold-out shows at the Talk of the Town nightclub. While there, she reminisces…",
+      "directors": [
+        "Rupert Goold"
+      ]
+    },
+    {
+      "id": "rock_star",
+      "category": "musica",
+      "type": "movie",
+      "title": "Rock Star",
+      "original_title": "Rock Star",
+      "year": 2001,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.0,
+      "votes": 5309,
+      "tomatometer": 53,
+      "audience_score": 59,
+      "runtime_minutes": 106,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/nSaTjCLJkaw9BGoen9p0kGBNIcM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28308_p_v11_ae.jpg",
+      "plot": "A comedy set in the world of '80s rock 'n' roll, Rock Star is the story of an office supplies salesman who moonlights as a musician in a tribute band and whose life is changed forever when he is…",
+      "directors": [
+        "Stephen Herek"
+      ]
+    },
+    {
+      "id": "song_sung_blue_2025",
+      "category": "musica",
+      "type": "movie",
+      "title": "Song Sung Blue",
+      "original_title": "Song Sung Blue",
+      "year": 2025,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.8,
+      "votes": 4027,
+      "tomatometer": 77,
+      "audience_score": 97,
+      "runtime_minutes": 132,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/DbOyKbh9CLyRgwWmG0CfIo_ID9s=/300x450/v2/https://resizing.flixster.com/q35fmE6JW4sTFAO0sbhJdpfzj9c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwNWE0M2ZkLTBiMGEtNDNmNC1iMGY1LTU1ZmNlNjdjYzNiZC5qcGc=",
+      "plot": "Based on a true story, two down-on-their-luck musicians (Hugh Jackman and Kate Hudson) form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
+      "directors": [
+        "Craig Brewer"
+      ]
+    },
+    {
+      "id": "bob_marley_one_love",
+      "category": "biografia",
+      "type": "movie",
+      "title": "Bob Marley: One Love",
+      "original_title": "Bob Marley: One Love",
+      "year": 2024,
+      "genres": [
+        "Biografía",
+        "Drama",
+        "Música"
+      ],
+      "rating": 5.4,
+      "votes": 3682,
+      "tomatometer": 43,
+      "audience_score": 90,
+      "runtime_minutes": 107,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/cypuF8AugZ3h7Nkkg-HwvBOHNRQ=/300x450/v2/https://resizing.flixster.com/PcYbZio4-LZuZJ_XghAxT1GbscY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhYThlNmUwLTRlMjMtNDA3Ny04ZGY5LTY4MzA5YTcyNjcwMC5qcGc=",
+      "plot": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob's powerful story of…",
+      "directors": [
+        "Reinaldo Marcus Green"
+      ]
+    },
+    {
+      "id": "respect_2021",
+      "category": "biografia",
+      "type": "movie",
+      "title": "Respect",
+      "original_title": "Respect",
+      "year": 2021,
+      "genres": [
+        "Biografía",
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.3,
+      "votes": 3559,
+      "tomatometer": 68,
+      "audience_score": 95,
+      "runtime_minutes": 145,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/h1YTx0_sBZKjAiYfrHXBPg3f0I4=/300x450/v2/https://resizing.flixster.com/CIDnLy8xMPImlgUlNaibPBcUB2Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc2OTM1YmFhLTBmMGYtNGEzOC1iNTc3LTczMDRhZTUxNzlmNi5qcGc=",
+      "plot": "Following the rise of Aretha Franklin's career from a child singing in her father's church's choir to her international superstardom, RESPECT is the remarkable true story of the music icon's journey…",
+      "directors": [
+        "Liesl Tommy"
+      ]
+    },
+    {
+      "id": "blinded_by_the_light",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Blinded by the Light",
+      "original_title": "Blinded by the Light",
+      "year": 2019,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.3,
+      "votes": 2637,
+      "tomatometer": 89,
+      "audience_score": 91,
+      "runtime_minutes": 114,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/jD26MmHQeGOhUIPAzFpa5GH_org=/300x450/v2/https://resizing.flixster.com/5alIIqAAb_7wGWEBxBxNtPBkfTE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4Zjc0ZWFlLWFhZTMtNGU1Yi04NmUwLTUzNDUyOWE4NmZlZi53ZWJw",
+      "plot": "Javed is a Pakistani teenager who experiences racial and economic turmoil while living in Luton, England, in 1987. He writes poetry as a way to escape the intolerance of his hometown and the stubborn…",
+      "directors": [
+        "Gurinder Chadha"
+      ]
+    },
+    {
+      "id": "springsteen_deliver_me_from_nowhere",
+      "category": "biografia",
+      "type": "movie",
+      "title": "Springsteen: Deliver Me from Nowhere",
+      "original_title": "Springsteen: Deliver Me from Nowhere",
+      "year": 2025,
+      "genres": [
+        "Biografía",
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.3,
+      "votes": 2139,
+      "tomatometer": 61,
+      "audience_score": 82,
+      "runtime_minutes": 119,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Qk3ngxlYxSbIyWaqg3QyQ_v4WMk=/300x450/v2/https://resizing.flixster.com/UZlqjjk7VgChCAPbTO2zlhqT848=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1NWQyNDU5LTdhNzctNDRhMi1iNGQ5LWIyYzY4MjQyOTlhZS5qcGc=",
+      "plot": "From 20th Century Studios, \"Deliver Me from Nowhere\" chronicles the making of Bruce Springsteen's 1982 \"Nebraska\" album. Recorded on a 4-track recorder in Springsteen's New Jersey bedroom, the album…",
+      "directors": [
+        "Scott Cooper"
+      ]
+    },
+    {
+      "id": "feel_the_noise",
+      "category": "musica",
+      "type": "movie",
+      "title": "Feel the Noise",
+      "original_title": "Feel the Noise",
+      "year": 2007,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 3.9,
+      "votes": 1852,
+      "tomatometer": 12,
+      "audience_score": 42,
+      "runtime_minutes": 87,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/TcDh84CZwSyjiyjSDlmfT4aQN50=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p171626_p_v8_ab.jpg",
+      "plot": "After an encounter with local thugs, Harlem rapper Rob (Omarion Grandberry) goes to Puerto Rico to live with his father (Giancarlo Esposito), a man he never knew. Rob discovers Reggaeton, a musical…",
+      "directors": [
+        "Alejandro Chomski"
+      ]
+    },
+    {
+      "id": "unsung_hero",
+      "category": "musica",
+      "type": "movie",
+      "title": "Unsung Hero",
+      "original_title": "Unsung Hero",
+      "year": 2024,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.2,
+      "votes": 1495,
+      "tomatometer": 61,
+      "audience_score": 99,
+      "runtime_minutes": 112,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/3yeg9B-kmnybqbkjaHjM-baJZyY=/300x450/v2/https://resizing.flixster.com/etrRLqtxdhIUXe4ZY-XMdBlFBGE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkNzM2MzYwLTFkMzAtNGI2ZS04NDczLWUyMDFjZWQ5OTE3My5qcGc=",
+      "plot": "Based on a remarkable true story, Unsung Hero follows David Smallbone as he moves his family from Down Under to the States, searching for a brighter future after his successful music company…",
+      "directors": [
+        "Richard Ramsey",
+        "Joel David Smallbone"
+      ]
+    },
+    {
+      "id": "whitney_houston_i_wanna_dance_with_somebody",
+      "category": "biografia",
+      "type": "movie",
+      "title": "Whitney Houston: I Wanna Dance with Somebody",
+      "original_title": "Whitney Houston: I Wanna Dance with Somebody",
+      "year": 2022,
+      "genres": [
+        "Biografía",
+        "Drama",
+        "Música"
+      ],
+      "rating": 5.3,
+      "votes": 1368,
+      "tomatometer": 43,
+      "audience_score": 92,
+      "runtime_minutes": 146,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/nuskGHVs_1rfYQhfAOXehH6Ht5s=/300x450/v2/https://resizing.flixster.com/6xmuDLr8iHznjPJyfW_FVxZbTl4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE2MmNhOWExLWI2ZmYtNDE4OC04YjM3LWMyYjIyMmI0OWYxZC5qcGc=",
+      "plot": "Discovered by record executive Clive Davis, Whitney Houston rises to fame in the 1980s to become one of the greatest singers of her generation.",
+      "directors": [
+        "Kasi Lemmons"
+      ]
+    },
+    {
+      "id": "song_to_song",
+      "category": "romance",
+      "type": "movie",
+      "title": "Song to Song",
+      "original_title": "Song to Song",
+      "year": 2017,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Música"
+      ],
+      "rating": 5.5,
+      "votes": 928,
+      "tomatometer": 43,
+      "audience_score": 36,
+      "runtime_minutes": 129,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/dlRcofcRZkbNRd0M0qIUMsnlEsY=/300x450/v2/https://resizing.flixster.com/rJkl1fRwr1WUOvk81DFJbdy4D6E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FmNWY0MjAxLWFiNTEtNGU1OS1iYTlmLTYzYjQyZmFiMTljNi53ZWJw",
+      "plot": "Set against the Austin, Texas, music scene, two entangled couples -- struggling songwriters Faye (Rooney Mara) and BV (Ryan Gosling), and music mogul Cook (Michael Fassbender) and the waitress…",
+      "directors": [
+        "Terrence Malick"
+      ]
+    },
+    {
+      "id": "1204891-center_stage_turn_it_up",
+      "category": "romance",
+      "type": "movie",
+      "title": "Center Stage: Turn It Up",
+      "original_title": "Center Stage: Turn It Up",
+      "year": 2008,
+      "genres": [
+        "Drama",
+        "Música",
+        "Romance"
+      ],
+      "rating": 6.0,
+      "votes": 909,
+      "tomatometer": 60,
+      "audience_score": 58,
+      "runtime_minutes": 95,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/25eo60w5rvkt9bONvmchd4EQBoc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p189264_v_v11_ab.jpg",
+      "plot": "A talented ballerina (Rachele Brooke Smith) and a former hockey player (Kenny Wormald) work together to achieve their dancing dreams.",
+      "directors": [
+        "Steven Jacobson"
+      ]
+    },
+    {
+      "id": "hearts_beat_loud",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Hearts Beat Loud",
+      "original_title": "Hearts Beat Loud",
+      "year": 2018,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.3,
+      "votes": 768,
+      "tomatometer": 92,
+      "audience_score": 74,
+      "runtime_minutes": 97,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ohiQ1-UE0dJmYP21Zj49W34V2Fs=/300x450/v2/https://resizing.flixster.com/V8svIRYUhfc0hlgpgQ0NBC8v6Jc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyYjFiZTIyLTViNmItNDE5OS04NmViLTJkMDYyMGQ1ZTdhMi53ZWJw",
+      "plot": "In the hip Brooklyn neighborhood of Red Hook, single dad and record store owner Frank is preparing to send his hard-working daughter Sam off to college while being forced to close his vintage shop.…",
+      "directors": [
+        "Brett Haley"
+      ]
+    },
+    {
+      "id": "vox_lux",
+      "category": "musica",
+      "type": "movie",
+      "title": "Vox Lux",
+      "original_title": "Vox Lux",
+      "year": 2018,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.5,
+      "votes": 672,
+      "tomatometer": 62,
+      "audience_score": 36,
+      "runtime_minutes": 110,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/H60JfBVlk9-5ktU_mgvd6xpr_Pw=/300x450/v2/https://resizing.flixster.com/wEpPpbzLAhG5mBszKpNF45cabUk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0M2U1NDQ3LTIwNDYtNGM2OS1iOWVjLTVhOWU0ODljZDQyMC53ZWJw",
+      "plot": "Celeste is a 13-year-old music prodigy who survives a horrific school shooting in Staten Island, N.Y., in 1999. Her talent shines through during the memorial service when she sings a song that…",
+      "directors": [
+        "Brady Corbet"
+      ]
+    },
+    {
+      "id": "patti_cakes",
+      "category": "musica",
+      "type": "movie",
+      "title": "Patti Cake$",
+      "original_title": "Patti Cake$",
+      "year": 2017,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.3,
+      "votes": 619,
+      "tomatometer": 86,
+      "audience_score": 78,
+      "runtime_minutes": 108,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/rshj38FE7SsQ5M450BPsE3g5gJ8=/300x450/v2/https://resizing.flixster.com/UO1_HTLo9wJLL07ONX7kwR5V3wk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U5YzFlZWQ4LTdjZmMtNDM3Ny05M2RkLTVjYThmMmQ0ZDNlNS53ZWJw",
+      "plot": "Fed up with life in her New Jersey hometown, Patricia Dombrowski, aka Patti Cake$, hopes to follow in the footsteps of her idol and hit the road to achieve stardom as a rapper. With help from her…",
+      "directors": [
+        "Geremy Jasper"
       ]
     },
     {
@@ -41,12 +743,1309 @@
       ],
       "rating": 7.6,
       "votes": 609,
+      "tomatometer": 94,
+      "audience_score": 93,
       "runtime_minutes": 109,
       "certificate": "R",
       "poster": "https://resizing.flixster.com/6aUlnaXVjaOg6aSlAA8f9TTbT5s=/300x450/v2/https://resizing.flixster.com/7mPFw4SO_mACh2NNCsBnpel-7sE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAxNWJjZDY1LTA1M2EtNGEyNi1hYzA4LWM5MzEyNmZhNjk5MS5qcGc=",
       "plot": "In Tuner, Academy Award-winning director Daniel Roher's first narrative feature, Leo Woodall stars as a gifted young piano tuner whose heightened sense of hearing draws the attention of criminals,…",
       "directors": [
         "Daniel Roher"
+      ]
+    },
+    {
+      "id": "liberty_heights",
+      "category": "crimen",
+      "type": "movie",
+      "title": "Liberty Heights",
+      "original_title": "Liberty Heights",
+      "year": 1999,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música",
+        "Romance",
+        "Crimen"
+      ],
+      "rating": 7.4,
+      "votes": 576,
+      "tomatometer": 86,
+      "audience_score": 76,
+      "runtime_minutes": 127,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ZjZQnpHJVxTLtEliqVESi02Lpyw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24369_p_v10_aa.jpg",
+      "plot": "This semi-autobiographical film by Barry Levinson follows various members of the Kurtzman clan, a Jewish family living in suburban Baltimore during the 1950s. As teenaged Ben (Ben Foster) completes…",
+      "directors": [
+        "Barry Levinson"
+      ]
+    },
+    {
+      "id": "the_high_note",
+      "category": "comedia",
+      "type": "movie",
+      "title": "The High Note",
+      "original_title": "The High Note",
+      "year": 2020,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.1,
+      "votes": 525,
+      "tomatometer": 70,
+      "audience_score": 74,
+      "runtime_minutes": 113,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/OSkyfTJBlnCsGZj8d7QPgYEfR8M=/300x450/v2/https://resizing.flixster.com/Az1pRF3RqohLiCzzBelaILI-UnU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlNjdjMTMxLTI3NzItNGIwYS1hN2Q1LWU0MzNhN2E1MTVlOC53ZWJw",
+      "plot": "Maggie is the overworked personal assistant to Grace Davis, a superstar singer whose talent and ego have reached unbelievable heights. Stuck running errands, Maggie still wants to fulfill her…",
+      "directors": [
+        "Nisha Ganatra"
+      ]
+    },
+    {
+      "id": "chevalier_2022",
+      "category": "historia",
+      "type": "movie",
+      "title": "Chevalier",
+      "original_title": "Chevalier",
+      "year": 2023,
+      "genres": [
+        "Biografía",
+        "Historia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.5,
+      "votes": 468,
+      "tomatometer": 76,
+      "audience_score": 96,
+      "runtime_minutes": 107,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/6qRSwWgK5tXXRIqOIxCgr2_YZgg=/300x450/v2/https://resizing.flixster.com/3gMSTQI6WwHFoBQdKg2fYM_71oE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0YjdhNWI2LTRiM2MtNDBkOS1iN2MwLWQ1MjE1MzZkNTllYy5qcGc=",
+      "plot": "Inspired by the incredible true story of composer Joseph Bologne, Chevalier de Saint-Georges. The illegitimate son of an African slave and a French plantation owner, Bologne (Kelvin Harrison Jr. in a…",
+      "directors": [
+        "Stephen Williams"
+      ]
+    },
+    {
+      "id": "tar_2022",
+      "category": "musica",
+      "type": "movie",
+      "title": "Tár",
+      "original_title": "Tár",
+      "year": 2022,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 8.4,
+      "votes": 466,
+      "tomatometer": 91,
+      "audience_score": 74,
+      "runtime_minutes": 158,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/pYVuZqKmE1MMUPGuSGtfQlVDslo=/300x450/v2/https://resizing.flixster.com/wFUHH4yTM6tmK4R-0f6pCrCPpB0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZGZjZWM1LTVkNmMtNDYzZC1iNjc0LTYwNDY0YTkzYTExYy5qcGc=",
+      "plot": "From writer-producer-director Todd Field comes TÁR, starring Cate Blanchett as Lydia Tár, the groundbreaking conductor of a major German Orchestra. We meet Tár at the height of her career, as she's…",
+      "directors": [
+        "Todd Field"
+      ]
+    },
+    {
+      "id": "her_smell",
+      "category": "musica",
+      "type": "movie",
+      "title": "Her Smell",
+      "original_title": "Her Smell",
+      "year": 2019,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.3,
+      "votes": 347,
+      "tomatometer": 83,
+      "audience_score": 43,
+      "runtime_minutes": 135,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/_Ds8p6iYli6EXm8qb-3Pj_mu1xQ=/300x450/v2/https://resizing.flixster.com/FeWf3wiFrrLwj-RSj6V9eokshzg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmN2RiMzk5LTZkMTEtNDI3OC05NWU0LWMwNWFlM2Q5OTk3OC53ZWJw",
+      "plot": "Becky Something is a talented but self-destructive musician who seems determined to alienate everyone around her -- even at the cost of her own band's success.",
+      "directors": [
+        "Alex Ross Perry"
+      ]
+    },
+    {
+      "id": "echo_in_the_canyon",
+      "category": "musica",
+      "type": "movie",
+      "title": "Echo in the Canyon",
+      "original_title": "Echo in the Canyon",
+      "year": 2019,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.0,
+      "votes": 336,
+      "tomatometer": 89,
+      "audience_score": 92,
+      "runtime_minutes": 82,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/CXlKhjEH5419oD--qtbGmVRxHSg=/300x450/v2/https://resizing.flixster.com/a-kAdrBhfcW10OnxwbSL_IjX-2Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxZDI3ODdkLTIxOGYtNDY4MS05NzY4LTE1ZmJjYTE1MmZkZi53ZWJw",
+      "plot": "A look at how musical groups such as The Byrds, The Beach Boys, Buffalo Springfield, and The Mamas & the Papas birthed the beginnings of the Laurel Canyon music scene and how the echo of these…",
+      "directors": [
+        "Andrew Slater"
+      ]
+    },
+    {
+      "id": "clouds_2020",
+      "category": "biografia",
+      "type": "movie",
+      "title": "Clouds",
+      "original_title": "Clouds",
+      "year": 2020,
+      "genres": [
+        "Biografía",
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.8,
+      "votes": 331,
+      "tomatometer": 83,
+      "audience_score": 88,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/MBQWEIADCPl-evOhiD_ptVuwVcc=/300x450/v2/https://resizing.flixster.com/sZuyIqTYRtOsqMEDf1hGeyyj60A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZjYzc5ZmFlLWMxMTMtNDcxOC1hZDQyLWE5ZWMzYTk0MDRmMC53ZWJw",
+      "plot": "Teenager Zach Sobiech forms the music group A Firm Handshake and records the inspirational hit single \"Clouds.\"",
+      "directors": [
+        "Justin Baldoni"
+      ]
+    },
+    {
+      "id": "teen_spirit_2019",
+      "category": "musica",
+      "type": "movie",
+      "title": "Teen Spirit",
+      "original_title": "Teen Spirit",
+      "year": 2019,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.3,
+      "votes": 327,
+      "tomatometer": 73,
+      "audience_score": 55,
+      "runtime_minutes": 92,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/SPkOAeU3jeCpPrZ5HuFe2z4UsfQ=/300x450/v2/https://resizing.flixster.com/QjBa4Nvi_Kycd6Z-USwi2rgqzEE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlMGVkZThiLTQ4NmItNDljOS04YjU5LTNmODFhMGMzODY1NC53ZWJw",
+      "plot": "A shy teenager dreams of escaping her small town and pursuing her passion to sing. With the help of an unlikely mentor, she enters a local singing competition that will test her integrity, talent and…",
+      "directors": [
+        "Max Minghella"
+      ]
+    },
+    {
+      "id": "fishermans_friends",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Fisherman's Friends",
+      "original_title": "Fisherman's Friends",
+      "year": 2019,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.1,
+      "votes": 243,
+      "tomatometer": 69,
+      "audience_score": 74,
+      "runtime_minutes": 112,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/VMdkPXPboQpyMXBCzFJGxm39x3E=/300x450/v2/https://resizing.flixster.com/hWCr-za8hECefiy8IT2WeJNKB1I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U3OGI4NmUxLTgzMDMtNDNiZi05ODNlLTRkMWNiNWUyMDEyMS53ZWJw",
+      "plot": "A cynical London music executive attempts to convince a group of singing Cornish fishermen to sign a record deal.",
+      "directors": [
+        "Chris Foggin"
+      ]
+    },
+    {
+      "id": "yellow_rose",
+      "category": "musica",
+      "type": "movie",
+      "title": "Yellow Rose",
+      "original_title": "Yellow Rose",
+      "year": 2020,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.2,
+      "votes": 230,
+      "tomatometer": 87,
+      "audience_score": 53,
+      "runtime_minutes": 95,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/is6M6ZA3FY4G4UKFVeHaEhfp1F0=/300x450/v2/https://resizing.flixster.com/jN4dEOFBvqlL5WhnSXkeacNcBsQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4ZWVlNzkxLWJkNDItNDVjZC04ZjNiLWIwNzQyYjMyNWNjMS53ZWJw",
+      "plot": "A Filipina teen must decide whether to stay with her family or leave her small Texas town to become a country music singer.",
+      "directors": [
+        "Diane Paragas"
+      ]
+    },
+    {
+      "id": "the_ballad_of_wallis_island",
+      "category": "comedia",
+      "type": "movie",
+      "title": "The Ballad of Wallis Island",
+      "original_title": "The Ballad of Wallis Island",
+      "year": 2025,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 8.0,
+      "votes": 155,
+      "tomatometer": 97,
+      "audience_score": 93,
+      "runtime_minutes": 100,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/FpVM2dbe2jMLMcj2jdhKnhpYBr4=/300x450/v2/https://resizing.flixster.com/Sn776WprZZqlugDYsC1DVPdb4GI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliNjBlN2QzLTAxZTQtNDk1NS1hMmU4LWEzNWMyZWNjMDY3NC5qcGc=",
+      "plot": "THE BALLAD OF WALLIS ISLAND follows Charles (Tim Key), an eccentric lottery winner who lives alone on a remote island and dreams of getting his favorite musicians, McGwyer Mortimer (Tom Basden &…",
+      "directors": [
+        "James Griffiths"
+      ]
+    },
+    {
+      "id": "the_colors_within",
+      "category": "anime",
+      "type": "movie",
+      "title": "The Colors Within",
+      "original_title": "The Colors Within",
+      "year": 2025,
+      "genres": [
+        "Drama",
+        "Anime",
+        "Música"
+      ],
+      "rating": 7.6,
+      "votes": 138,
+      "tomatometer": 92,
+      "audience_score": 91,
+      "runtime_minutes": 110,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/6QUHWLixsd5mNs9Th_LvvoP2CsI=/300x450/v2/https://resizing.flixster.com/CnQ6Z-MgOl_RHEWut150YmH-XVs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0NDJhNjc1LTViZjUtNDdlOS04OWJkLThiMmY0OTU0YzZlYi5qcGc=",
+      "plot": "Totsuko is a high school student with the ability to see the 'colors' of others. Colors of bliss, excitement, and serenity, plus a color she treasures as her favorite. Kimi, a classmate at her…",
+      "directors": [
+        "Naoko Yamada"
+      ]
+    },
+    {
+      "id": "blue_giant",
+      "category": "anime",
+      "type": "movie",
+      "title": "Blue Giant",
+      "original_title": "Blue Giant",
+      "year": 2023,
+      "genres": [
+        "Drama",
+        "Música",
+        "Anime"
+      ],
+      "rating": 8.0,
+      "votes": 126,
+      "tomatometer": 100,
+      "audience_score": 96,
+      "runtime_minutes": 120,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/VJXkvICBQNBq4C94LSXxFJwVNew=/300x450/v2/https://resizing.flixster.com/pj24oQxr4VHWhWii63pFOntwmJ8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhMzUyNjY4LWE5OTgtNDA3OC1iY2UwLTBlNGZlYzJiMmJjZC5qcGc=",
+      "plot": "Dai Miyamoto's life is turned upside down the day he discovers jazz. A former high school basketball player, Dai picks up a saxophone and begins practicing day and night, determined to become one of…",
+      "directors": [
+        "Yuzuru Tachikawa"
+      ]
+    },
+    {
+      "id": "on_the_come_up",
+      "category": "musica",
+      "type": "movie",
+      "title": "On the Come Up",
+      "original_title": "On the Come Up",
+      "year": 2022,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 6.2,
+      "votes": 90,
+      "tomatometer": 76,
+      "audience_score": 73,
+      "runtime_minutes": 116,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/2Uh3A_eIX3UQs6oPj5imiXeJAA0=/300x450/v2/https://resizing.flixster.com/oLWdFMXXsr8VWbREkdvSb2k1z3k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA5NjA4M2NmLTkxMzAtNDY0Yi04NjU4LWQyZTI4YzNiNTEwZS5qcGc=",
+      "plot": "Starring newcomer Jamila C. Gray, ON THE COME UP is the story of Bri, a gifted 16-year-old rapper, who attempts to take the battle rap scene by storm in order to lift up her family and do right by…",
+      "directors": [
+        "Sanaa Lathan"
+      ]
+    },
+    {
+      "id": "mighty_oak",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Mighty Oak",
+      "original_title": "Mighty Oak",
+      "year": 2020,
+      "genres": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "rating": 5.7,
+      "votes": 87,
+      "tomatometer": 52,
+      "audience_score": 78,
+      "runtime_minutes": 102,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/5vd-WiIOoJrmCyXweTaA7wMFeLQ=/300x450/v2/https://resizing.flixster.com/JjWCSksIzHktQUzWaLTq-pLlWA4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFmMDZkMjRiLTVkY2UtNGNkNy1iMDM2LTdmOGZkNjJjNmZkZS53ZWJw",
+      "plot": "Gina's life is given new purpose when she meets a young guitar prodigy. Convinced the boy is her reincarnated brother, frontman for Army of Love, she sets out to get the band back together.",
+      "directors": [
+        "Sean McNamara"
+      ]
+    },
+    {
+      "id": "nimrods",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Nimrods",
+      "original_title": "Nimrods",
+      "year": 2025,
+      "genres": [
+        "Navidad",
+        "Comedia",
+        "Música"
+      ],
+      "rating": 6.2,
+      "votes": 86,
+      "tomatometer": 73,
+      "audience_score": 87,
+      "runtime_minutes": 103,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Y2VeEpjCofCWyHOFkEBk6Ul5LQ4=/300x450/v2/https://resizing.flixster.com/31sn8JwvD1QIyaX4Y7zak_8-vxE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU1Yzk2NjY2LTNkYWEtNDcxMy05MTMxLTdiOGQzMTIwZmYyNC5qcGc=",
+      "plot": "When Tommy receives a phone call inviting his band to open for Green Day on New Years Eve, he doesn't realize it's an elaborate prank by his older brother, Wayne. Desperate to believe his life is…",
+      "directors": [
+        "Lee Kirk"
+      ]
+    },
+    {
+      "id": "turn_it_up",
+      "category": "crimen",
+      "type": "movie",
+      "title": "Turn It Up",
+      "original_title": "Turn It Up",
+      "year": 2000,
+      "genres": [
+        "Drama",
+        "Música",
+        "Acción",
+        "Crimen"
+      ],
+      "rating": 4.0,
+      "votes": 85,
+      "tomatometer": 10,
+      "audience_score": 25,
+      "runtime_minutes": 86,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/RxOIYQY30lMJfB4n9vV5ki5Uz0Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26160_p_v10_aa.jpg",
+      "plot": "In the ghetto, the only thing more dangerous than a gun is a dream. And gifted Brooklyn hip-hop artist Diamond has a big dream to rise from the streets of New York to superstardom in the music…",
+      "directors": [
+        "Robert Adetuyi"
+      ]
+    },
+    {
+      "id": "junun_2015",
+      "category": "musica",
+      "type": "movie",
+      "title": "Junun",
+      "original_title": "Junun",
+      "year": 2015,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.9,
+      "votes": 83,
+      "tomatometer": 100,
+      "audience_score": 79,
+      "runtime_minutes": 54,
+      "certificate": null,
+      "poster": null,
+      "plot": "Jonny Greenwood travels to Rajasthan to perform with a multitude of Indian musicians.",
+      "directors": [
+        "Paul Thomas Anderson"
+      ]
+    },
+    {
+      "id": "sing_a_bit_of_harmony",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Sing a Bit of Harmony",
+      "original_title": "Sing a Bit of Harmony",
+      "year": 2022,
+      "genres": [
+        "Drama",
+        "Comedia",
+        "Ciencia ficción",
+        "Música",
+        "Anime"
+      ],
+      "rating": 7.8,
+      "votes": 68,
+      "tomatometer": 100,
+      "audience_score": 97,
+      "runtime_minutes": 109,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/j0AeD8vt8EANLnek1e6aELlli9o=/300x450/v2/https://resizing.flixster.com/fzT7IlQR8T2HIeurf2FbJ1xUiQ8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjZWZkYmRhLWQwYjYtNGU3OC1iZmFlLTIzM2VhYzZmYzkxZi5qcGc=",
+      "plot": "Sing a Bit of Harmony tells the story of the beautiful and mysterious Shion (Tao Tsuchiya) who transfers to Keibu High School where she quickly becomes popular for her open-hearted personality and…",
+      "directors": [
+        "Yasuhiro Yoshiura"
+      ]
+    },
+    {
+      "id": "the_go_gos",
+      "category": "musica",
+      "type": "movie",
+      "title": "The Go-Go's",
+      "original_title": "The Go-Go's",
+      "year": 2020,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.9,
+      "votes": 66,
+      "tomatometer": 98,
+      "audience_score": 94,
+      "runtime_minutes": 98,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/UocdmUDQionB291S9d5mA-6kCww=/300x450/v2/https://resizing.flixster.com/XfIbmm1bEjkrfUHaLlxUx9K2hF0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhYWMyOWVmLThiOGYtNDIzZS1hZTE2LTc4YzEyZjgwNjczNi53ZWJw",
+      "plot": "The Go-Go's become the first successful, all-girl band to write their own songs and play their own instruments while making it to No. 1 on the charts.",
+      "directors": [
+        "Alison Ellwood"
+      ]
+    },
+    {
+      "id": "love_beats_rhymes",
+      "category": "musica",
+      "type": "movie",
+      "title": "Love Beats Rhymes",
+      "original_title": "Love Beats Rhymes",
+      "year": 2017,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 5.1,
+      "votes": 52,
+      "tomatometer": 44,
+      "audience_score": 63,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/JVWu_3PQV4IR_C_7uuDwky3JnTw=/300x450/v2/https://resizing.flixster.com/U7mQfwW4nrmRaMyVQTeIsgByu_Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RhYzBjYjgwLWZkZmMtNGNhNi05OTliLTdmZmFiNzcwODQ1MS53ZWJw",
+      "plot": "A young woman dream of making it big in the world of hip hop, but her parents demand that she finish college. She dutifully agrees to complete her education, however her spoken word proves to have a…",
+      "directors": [
+        "RZA"
+      ]
+    },
+    {
+      "id": "southern_gospel",
+      "category": "musica",
+      "type": "movie",
+      "title": "Southern Gospel",
+      "original_title": "Southern Gospel",
+      "year": 2023,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.8,
+      "votes": 51,
+      "tomatometer": 100,
+      "audience_score": 98,
+      "runtime_minutes": 109,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/vHv5Vpnc1NhSGj74MOnOJigc9-U=/300x450/v2/https://resizing.flixster.com/wxb_u2E_4tz5ZJpPGmVatfiLcsE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhZDY0NGU2LTcxY2QtNDczMi1hZjRjLWRlNmNlZjkyMWE0OC5qcGc=",
+      "plot": "Given a second chance, a rebellious rock star follows in his father's footsteps and becomes a preacher. However, his desire to share a message of forgiveness gets tested at every turn.",
+      "directors": [
+        "Jeffrey A. Smith"
+      ]
+    },
+    {
+      "id": "jazz_fest_a_new_orleans_story",
+      "category": "musica",
+      "type": "movie",
+      "title": "Jazz Fest: A New Orleans Story",
+      "original_title": "Jazz Fest: A New Orleans Story",
+      "year": 2022,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.6,
+      "votes": 36,
+      "tomatometer": 93,
+      "audience_score": 97,
+      "runtime_minutes": 94,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/NToja7DQRN8IAObOhIPBgQ9MEos=/300x450/v2/https://resizing.flixster.com/dv_ckWxaoGr0tHahkpzSRxudYWc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjNzVlMDQyLWU2YjEtNGIxOS04YWI3LWViMjNlMWM4NTA4OC5qcGc=",
+      "plot": "JAZZ FEST: A NEW ORLEANS STORY weaves together live performances and interviews from the 50th anniversary of The New Orleans Jazz & Heritage Festival, the signature annual music and cultural event of…",
+      "directors": [
+        "Frank Marshall",
+        "Ryan Suffern"
+      ]
+    },
+    {
+      "id": "of_mind_and_music",
+      "category": "musica",
+      "type": "movie",
+      "title": "Of Mind and Music",
+      "original_title": "Of Mind and Music",
+      "year": 2016,
+      "genres": [
+        "Drama",
+        "Música"
+      ],
+      "rating": 7.1,
+      "votes": 33,
+      "tomatometer": 71,
+      "audience_score": 85,
+      "runtime_minutes": 98,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/H6c2uQJuxk6_85VycKhAvwFoVyw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10751541_p_v10_aa.jpg",
+      "plot": "A renowned neuroscientist (Joaquim de Almeida) tries to find the long-lost son (Marcus Lyle Brown) of a talented singer (Aunjanue Ellis) who has Alzheimer's disease.",
+      "directors": [
+        "Richie Adams"
+      ]
+    },
+    {
+      "id": "the_day_the_music_died_the_story_of_don_mcleans_american_pie",
+      "category": "musica",
+      "type": "movie",
+      "title": "The Day the Music Died: The Story of Don McLean's American Pie",
+      "original_title": "The Day the Music Died: The Story of Don McLean's American Pie",
+      "year": 2022,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.1,
+      "votes": 32,
+      "tomatometer": 70,
+      "audience_score": 69,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/o5ANIi2ePGkK6Ab-BiL39_i5I9U=/300x450/v2/https://resizing.flixster.com/5CiKSJekycyCthk-nWNfkXNzh8Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q3MDEyM2ZkLTE1ZjQtNDVjNi1hM2U3LTRhMmEyODA2NzRlOC5qcGc=",
+      "plot": "The story of America -- our past and our future. More than just a song or a man, this film is about a cultural moment in America's history that has followed us from the 1970s. Featuring a new…",
+      "directors": [
+        "Mark Moormann"
+      ]
+    },
+    {
+      "id": "bluebird_2019",
+      "category": "musica",
+      "type": "movie",
+      "title": "Bluebird",
+      "original_title": "Bluebird",
+      "year": 2019,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": null,
+      "votes": 30,
+      "tomatometer": null,
+      "audience_score": 77,
+      "runtime_minutes": 83,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/raDzTPGKsn5FUfsNi5S8fB2ADlA=/300x450/v2/https://resizing.flixster.com/jkDWEVwAiWAkUkXRXLYykzFEyDs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M2YzA0MGE0LTE1MDYtNGVkMi1iYjJkLTY2ZjZjYzJlYzRkNS53ZWJw",
+      "plot": "Some of today's biggest singers/songwriters -- including Garth Brooks, Vince Gill and Taylor Swift -- discuss their memories of performing at the Bluebird Cafe in Nashville, Tenn.",
+      "directors": [
+        "Brian A. Loschiavo"
+      ]
+    },
+    {
+      "id": "suzi_q",
+      "category": "musica",
+      "type": "movie",
+      "title": "Suzi Q",
+      "original_title": "Suzi Q",
+      "year": 2020,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.4,
+      "votes": 23,
+      "tomatometer": 100,
+      "audience_score": 96,
+      "runtime_minutes": 98,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/yUUWERfWimY0UqTFYZBZnIThcbc=/300x450/v2/https://resizing.flixster.com/llIUykQ3DwL1Fg-FTUU1mQh1OEg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwYmNhY2M2LWQ2ZWYtNGUyNy04NTQ5LWY0OTYzOTUyMTdjNC53ZWJw",
+      "plot": "Trailblazing musician Suzi Quatro becomes the first woman to write songs, play an instrument and sing for a rock 'n' roll band.",
+      "directors": [
+        "Liam Firmager"
+      ]
+    },
+    {
+      "id": "rock_camp_the_movie",
+      "category": "musica",
+      "type": "movie",
+      "title": "Rock Camp: The Movie",
+      "original_title": "Rock Camp: The Movie",
+      "year": 2021,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 6.8,
+      "votes": 23,
+      "tomatometer": 94,
+      "audience_score": 91,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/w6lNJaBVmWycpNGCgJsq-BeiTsM=/300x450/v2/https://resizing.flixster.com/UoXgNCc0KALeJIANIG5jdzQEVrY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIwYTFlYzRlLTY1NTMtNDY3ZS1iM2M5LWM1YmMxZDg4MmMzYi5qcGc=",
+      "plot": "Enthusiasts from across America attend Rock 'n' Roll Fantasy Camp, where they gather to shred with their rock star \"counselors\" -- and learn to rock like the legends.",
+      "directors": [
+        "Douglas Blush"
+      ]
+    },
+    {
+      "id": "viena_and_the_fantomes",
+      "category": "romance",
+      "type": "movie",
+      "title": "Viena and the Fantomes",
+      "original_title": "Viena and the Fantomes",
+      "year": 2020,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Música"
+      ],
+      "rating": 4.0,
+      "votes": 23,
+      "tomatometer": 20,
+      "audience_score": 26,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/36eLM-Suk52tCUxzXYqKDr-K85I=/300x450/v2/https://resizing.flixster.com/0TXKDWgRYChzcz6HVH3W5c5HvTc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkYTEyZjA5LTgzMjItNDZmZS05NmQwLWM2OWQ2YjQ1MzFhYy53ZWJw",
+      "plot": "A roadie finds herself caught up in a love triangle while traveling with a punk band during the 1980s.",
+      "directors": [
+        "Gerardo Naranjo"
+      ]
+    },
+    {
+      "id": "under_the_volcano_2021",
+      "category": "musica",
+      "type": "movie",
+      "title": "Under the Volcano",
+      "original_title": "Under the Volcano",
+      "year": 2021,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.5,
+      "votes": 20,
+      "tomatometer": 94,
+      "audience_score": 95,
+      "runtime_minutes": 97,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/mzUdm-MVbMk_vWM6E-xLxR_GbB0=/300x450/v2/https://resizing.flixster.com/f8n_K6XqsOsMQRNIsYBOrtt299E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VkNmVlMzc5LTg2YTYtNGJjYi05YjhmLTIxY2QyNjAwMTRlNS5qcGc=",
+      "plot": "Under the Volcano charts the rise and fall of AIR Studios Montserrat, the recording studio at the center of the pop universe in the 1980s. Built by Beatles' producer Sir George Martin in 1979, AIR…",
+      "directors": [
+        "Gracie Otto"
+      ]
+    },
+    {
+      "id": "oasis_knebworth_1996",
+      "category": "musica",
+      "type": "movie",
+      "title": "Oasis Knebworth 1996",
+      "original_title": "Oasis Knebworth 1996",
+      "year": 2021,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.2,
+      "votes": 16,
+      "tomatometer": 79,
+      "audience_score": 100,
+      "runtime_minutes": 110,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/foJLesjOCaa3yE8dLbhETlAW8r4=/300x450/v2/https://resizing.flixster.com/n8_bjmu7Yiqt0PhX6sWDaznbXw0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E2NDM2N2NhLWE3MDYtNGJjOS1hYmIwLWU4ZGRiYWQ3MWU2ZS5qcGc=",
+      "plot": "On 10th & 11th August 1996, 250,000 young music fans converged on Knebworth Park to see Oasis play two record breaking, era defining shows. The landmark concerts sold out in under a day with over 2%…",
+      "directors": [
+        "Jake Scott"
+      ]
+    },
+    {
+      "id": "pianoforte",
+      "category": "musica",
+      "type": "movie",
+      "title": "Pianoforte",
+      "original_title": "Pianoforte",
+      "year": 2023,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.6,
+      "votes": 12,
+      "tomatometer": 81,
+      "audience_score": 100,
+      "runtime_minutes": 91,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/FqgpcWOb1UM5GrjjS5PnfsBLaAg=/300x450/v2/https://resizing.flixster.com/-rW1fw8cy8_6l0cJG6SyGMUMOFM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM4YTkzZjYzLWMyZTYtNGEwNS1hYzY4LWEzMGE0Y2Y3MGJiOS5qcGc=",
+      "plot": "The world's most talented young pianists compete in the International Chopin Piano Competition, held every five years in Warsaw, Poland. A rare behind the scenes look at the triumphant highs and…",
+      "directors": [
+        "Jakub Piątek"
+      ]
+    },
+    {
+      "id": "viva_maestro",
+      "category": "biografia",
+      "type": "movie",
+      "title": "¡Viva Maestro!",
+      "original_title": "¡Viva Maestro!",
+      "year": 2022,
+      "genres": [
+        "Documental",
+        "Música",
+        "Biografía"
+      ],
+      "rating": 7.4,
+      "votes": 12,
+      "tomatometer": 100,
+      "audience_score": 58,
+      "runtime_minutes": 99,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/z2n017AAJReyyOk0SGFALG_JJq8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21832310_v_v8_ab.jpg",
+      "plot": "When conductor Gustavo Dudamel's international tours are disrupted by deadly protests across his native Venezuela, one of the world's finest and most beloved musicians faces a daunting set of…",
+      "directors": [
+        "Ted Braun"
+      ]
+    },
+    {
+      "id": "sisters_with_transistors",
+      "category": "musica",
+      "type": "movie",
+      "title": "Sisters with Transistors",
+      "original_title": "Sisters with Transistors",
+      "year": 2020,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.6,
+      "votes": 11,
+      "tomatometer": 97,
+      "audience_score": 73,
+      "runtime_minutes": 86,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/0lV2RCd-D5fNFSjpXrj4-blFu-M=/300x450/v2/https://resizing.flixster.com/q0lMAm8CeKaCiArIdV9v2yxFEeE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxODBmNzUyLTBjM2ItNGZiNy05MTA4LTk4N2ExNDUxODE4YS5qcGc=",
+      "plot": "SISTERS WITH TRANSISTORS is the remarkable untold story of electronic music's female pioneers, composers who embraced machines and their liberating technologies to utterly revolutionize how we…",
+      "directors": [
+        "Lisa Rovner"
+      ]
+    },
+    {
+      "id": "take_me_to_the_river_new_orleans",
+      "category": "musica",
+      "type": "movie",
+      "title": "Take Me to the River: New Orleans",
+      "original_title": "Take Me to the River: New Orleans",
+      "year": 2022,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 8.0,
+      "votes": 9,
+      "tomatometer": 90,
+      "audience_score": 89,
+      "runtime_minutes": 110,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/avOTzkv6Nv02RWSk6jE1znzFMqs=/300x450/v2/https://resizing.flixster.com/3qYayrqQE0Qi3Kr-F6sgvyF_D4U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RhZGU4N2IzLTAzMWYtNDA3Ny05NTBlLTJlNzBmYzczMzUxOC5qcGc=",
+      "plot": "The second in the franchise of the award-winning TAKE ME TO THE RIVER. \"Take Me to the River: New Orleans\" celebrates the rich musical history, the heritage, legacy, and influence of New Orleans and…",
+      "directors": [
+        "Martin Shore"
+      ]
+    },
+    {
+      "id": "anthem_2023",
+      "category": "historia",
+      "type": "movie",
+      "title": "Anthem",
+      "original_title": "Anthem",
+      "year": 2023,
+      "genres": [
+        "Documental",
+        "Música",
+        "Historia"
+      ],
+      "rating": 6.9,
+      "votes": 8,
+      "tomatometer": 63,
+      "audience_score": 12,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/KOQlyMdXeM6mm5WfL_bp6tgKAGw=/300x450/v2/https://resizing.flixster.com/j5DnVc7dBi37t0yzy2hOAP8Exm4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M5NzlkNGI2LWEzOWQtNDgwYy05Mjg5LTkyMDEyYzNkMjNlOS5qcGc=",
+      "plot": "Reflecting upon \"The Star-Spangled Banner,\" Anthem follows acclaimed composer Kris Bowers (\"Bridgerton,\" \"When They See Us,\" \"King Richard\") and GRAMMY®-winning music producer Dahi (Travis Scott,…",
+      "directors": [
+        "Peter Nicks"
+      ]
+    },
+    {
+      "id": "love_without_walls",
+      "category": "romance",
+      "type": "movie",
+      "title": "Love Without Walls",
+      "original_title": "Love Without Walls",
+      "year": 2023,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Música"
+      ],
+      "rating": 4.0,
+      "votes": 8,
+      "tomatometer": 0,
+      "audience_score": 100,
+      "runtime_minutes": 112,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/G4AQJPZcbxUlI6AN1XEeUuiKTyM=/300x450/v2/https://resizing.flixster.com/0HmYyM4nskl-3ViipWnXaB2elwY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlhYmE1YjYxLTMwMTMtNDFmMi04Y2I3LTc2ZjRmZDJmYzI2YS5qcGc=",
+      "plot": "Sophie and Paul (an aspiring musician) can't pay their London rent and turn to friends and family for support. Over the course of a summer, things go from bad to worse: The couple lose everything and…",
+      "directors": [
+        "Jane Gull"
+      ]
+    },
+    {
+      "id": "linda_perry_let_it_die_here",
+      "category": "biografia",
+      "type": "movie",
+      "title": "Linda Perry: Let It Die Here",
+      "original_title": "Linda Perry: Let It Die Here",
+      "year": 2024,
+      "genres": [
+        "Documental",
+        "Biografía",
+        "Música"
+      ],
+      "rating": 8.2,
+      "votes": 7,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 93,
+      "certificate": "May 2026",
+      "poster": "https://resizing.flixster.com/lsfEsNhDKCvn31iTCNkGqK7CDl8=/300x450/v2/https://resizing.flixster.com/0VQ5BZuQ7j_quiNQ1bRXkO5QhIk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZhYTE5OGU2LTc2OTEtNGY5ZS1iNDUwLTBjZDJjYTdhNGEzNy5qcGc=",
+      "plot": "Linda Perry is one of the most outspoken and recognizable artists of the past 30 years. The hat, tattoos, and massive hit single \"What's Up\" with her band 4 Non-Blondes made her an icon. But in the…",
+      "directors": [
+        "Don Hardy"
+      ]
+    },
+    {
+      "id": "the_conductor_2022",
+      "category": "musica",
+      "type": "movie",
+      "title": "The Conductor",
+      "original_title": "The Conductor",
+      "year": 2022,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.9,
+      "votes": 6,
+      "tomatometer": 100,
+      "audience_score": 100,
+      "runtime_minutes": 90,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/2r4qzdKsSAKxf3kDt9pvMMLeB3I=/300x450/v2/https://resizing.flixster.com/dfthFpb6ONFJ1XM2-Ygjw_NL7jk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RjMjM4NWVkLTRmNmQtNDAyOC04ZmEwLTkyZmMyOGZkMDUxOS5qcGc=",
+      "plot": "The Conductor takes the audience into the heart of classical music, and into the soul of one of its top artists, the internationally renowned conductor Marin Alsop -- the first woman to serve as…",
+      "directors": [
+        "Bernadette Wegenstein"
+      ]
+    },
+    {
+      "id": "keyboard_fantasies",
+      "category": "musica",
+      "type": "movie",
+      "title": "Keyboard Fantasies",
+      "original_title": "Keyboard Fantasies",
+      "year": 2021,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.8,
+      "votes": 6,
+      "tomatometer": 100,
+      "audience_score": 83,
+      "runtime_minutes": 71,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/q6ODBp4MF3ZLi_vcs8rVFxpQW68=/300x450/v2/https://resizing.flixster.com/J_27w6Sn7H3ei0N4i5wrYRSkCb4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJkNGZjYmQzLWM4NjUtNGMzMi04MDBiLWRlMTllY2U3OGU4Ny5qcGc=",
+      "plot": "Keyboard Fantasies tells the story of Beverly Glenn-Copeland, a black transgender septuagenarian (and musical genius) who finally finds his place in the world. When Glenn receives an unexpected email…",
+      "directors": [
+        "Posy Dixon"
+      ]
+    },
+    {
+      "id": "maestra",
+      "category": "musica",
+      "type": "movie",
+      "title": "Maestra",
+      "original_title": "Maestra",
+      "year": 2024,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 8.1,
+      "votes": 4,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 88,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/gY03g6FqJJOlmEWhb7mmQGNWJgE=/300x450/v2/https://resizing.flixster.com/KawUV83NNAkUt1meraeoHrajxps=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiNGYxMmFlLTdjYTYtNDI0ZC04ZDk1LTRiOTMzZmY3ZGU4YS5wbmc=",
+      "plot": "Five incredible women from around the world who are boldly breaking glass ceilings in the male-dominated world of orchestral conducting take center stage in MAESTRA, filmmaker Maggie Contreras'…",
+      "directors": [
+        "Maggie Contreras"
+      ]
+    },
+    {
+      "id": "betty_they_say_im_different",
+      "category": "musica",
+      "type": "movie",
+      "title": "Betty: They Say I'm Different",
+      "original_title": "Betty: They Say I'm Different",
+      "year": 2018,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 6.5,
+      "votes": 4,
+      "tomatometer": 67,
+      "audience_score": null,
+      "runtime_minutes": 54,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Y6LpAcF2tTyyFIlEuBKUA3KvNIA=/300x450/v2/https://resizing.flixster.com/niKmyjbhRyKncKcJzzbeX0iL4fM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI0ZjlmNjg0LTBkMzItNDM0NS04ZGRmLTA0MzNmYWEyMmZmNi53ZWJw",
+      "plot": "Betty Davis arrives on the '70s scene to break boundaries for women with her daring personality and outrageous funk music. She then, despite being banned and boycotted, goes on to become the first…",
+      "directors": [
+        "Philip Cox"
+      ]
+    },
+    {
+      "id": "going_varsity_in_mariachi",
+      "category": "musica",
+      "type": "movie",
+      "title": "Going Varsity in Mariachi",
+      "original_title": "Going Varsity in Mariachi",
+      "year": 2023,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.9,
+      "votes": 3,
+      "tomatometer": 94,
+      "audience_score": null,
+      "runtime_minutes": 105,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/mbELdurFsdTVD8cpWx-yrYTgneI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25227883_v_v11_aa.jpg",
+      "plot": "In the competitive world of high school mariachi, the musicians from the South Texas borderlands reign supreme. Under the guidance of Coach Abel Acuña, the teenage captains of Edinburg North High…",
+      "directors": [
+        "Sam Osborn",
+        "Alejandra Vasquez"
+      ]
+    },
+    {
+      "id": "lisa_another_great_day",
+      "category": "biografia",
+      "type": "movie",
+      "title": "LiSA Another Great Day",
+      "original_title": "LiSA Another Great Day",
+      "year": 2022,
+      "genres": [
+        "Biografía",
+        "Documental",
+        "Música"
+      ],
+      "rating": null,
+      "votes": 3,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": null,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/AjwpySBxfChsDXeOUREenk9qYjU=/300x450/v2/https://resizing.flixster.com/ytj1a9xm9zyFMfWiahjGO9SS990=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IzZDdjYTUxLTBhNmMtNGU3OC1iYjUyLTJhOTUyMjA3ZDZhMy5qcGc=",
+      "plot": "Because LiSA has always been very humble but also unbending, she has been confronted with various realities and made many mistakes in life. Later on, the little girl who started a band because of her…",
+      "directors": [
+        "Taketoshi Sado"
+      ]
+    },
+    {
+      "id": "we_are_the_thousand",
+      "category": "musica",
+      "type": "movie",
+      "title": "We Are The Thousand",
+      "original_title": "We Are The Thousand",
+      "year": 2022,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.9,
+      "votes": 2,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 80,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/tIbPqgI8x2Tz0DoABy7SczmNPGE=/300x450/v2/https://resizing.flixster.com/H_yXdG-wqNU61fGKWxQnFUgWd_U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiOWVhNDU0LTc2OTEtNDRhNy1hMjBmLTY0NThhM2M0NTQyMC5qcGc=",
+      "plot": "In 2015, Fabio, a marine biologist with a huge passion for rock music, convinced 1,000 musicians from all over Italy to gather in the small town of Cesena to play \"Learn to Fly\", the famous Foo…",
+      "directors": [
+        "Anita Rivaroli"
+      ]
+    },
+    {
+      "id": "finding_her_beat",
+      "category": "musica",
+      "type": "movie",
+      "title": "Finding Her Beat",
+      "original_title": "Finding Her Beat",
+      "year": 2023,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 9.3,
+      "votes": 1,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 89,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/-eYO95R2k5ZYSTgR-inCpLL5o9A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23181274_p_v13_aa.jpg",
+      "plot": "A master of Japanese drumming and a Korean adoptee from Minnesota boldly convene an all-female troupe to perform Taiko, the Japanese drumming art that has been off-limits to women for centuries. As…",
+      "directors": [
+        "Dawn Mikkelson",
+        "Keri Pickett"
+      ]
+    },
+    {
+      "id": "bernsteins_wall",
+      "category": "biografia",
+      "type": "movie",
+      "title": "Bernstein's Wall",
+      "original_title": "Bernstein's Wall",
+      "year": null,
+      "genres": [
+        "Documental",
+        "Biografía",
+        "Música"
+      ],
+      "rating": 8.2,
+      "votes": null,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 100,
+      "certificate": "Apr 2026",
+      "poster": "https://resizing.flixster.com/nDYYbGkMWt-kYm7HSV4x2BLyOeI=/300x450/v2/https://resizing.flixster.com/tpKgCwlNB7AXnnIGFZ2zUOtfFL8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I2NDJkOTkyLTE2MzktNGRhYS1hZTdiLTZkZTQ1MDRjMjBlMS5qcGc=",
+      "plot": "Douglas Tirola's thrilling documentary portrait of famed composer and conductor Leonard Bernstein uses the maestro's own voice with an incredible visual language that has the rhythms of a symphony to…",
+      "directors": [
+        "Douglas Tirola"
+      ]
+    },
+    {
+      "id": "rockfield_the_studio_on_the_farm",
+      "category": "musica",
+      "type": "movie",
+      "title": "Rockfield: The Studio on the Farm",
+      "original_title": "Rockfield: The Studio on the Farm",
+      "year": 2020,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": 7.0,
+      "votes": null,
+      "tomatometer": 88,
+      "audience_score": null,
+      "runtime_minutes": 90,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/lJ0JaseOk5M2OfknpM8QcXrJxWk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18543873_p_v8_ab.jpg",
+      "plot": "The unlikely tale of how two Welsh brothers turned their dairy farm into one of the most successful recording studios of all time, producing four decades of legendary rock music from Black Sabbath,…",
+      "directors": [
+        "Hannah Berryman"
+      ]
+    },
+    {
+      "id": "beyond_belief_2026",
+      "category": "musica",
+      "type": "movie",
+      "title": "Beyond Belief",
+      "original_title": "Beyond Belief",
+      "year": null,
+      "genres": [
+        "Drama",
+        "Música",
+        "Otros"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 116,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/LEBdrEKNOGWAqwC6Uobt5_Om4eI=/300x450/v2/https://resizing.flixster.com/CYanRFR8uBeM6p9KRX1XLWdrJTI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdiYmMyNDM0LTQwODQtNGVmOC1iYzc3LWE3MDZkYTVmYzU5MC5qcGc=",
+      "plot": "Set in the 1980s, Beyond Belief follows Andy, a teenage rocker chasing his dream of making it big while struggling to cope with the loss of his father. When a mysterious voice urges him to \"run,\"…",
+      "directors": [
+        "Johnny Meier"
+      ]
+    },
+    {
+      "id": "butthole_surfers_the_hole_truth_and_nothing_butt",
+      "category": "musica",
+      "type": "movie",
+      "title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+      "original_title": "Butthole Surfers: The Hole Truth and Nothing Butt",
+      "year": null,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 106,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/iOPgEy3bwrNEjH5iZyfnLLZ3enY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30988701_p_v8_aa.jpg",
+      "plot": "Rare archival footage, interviews, cutting-edge animation and surreal reenactments tell the story of the groundbreaking and influential American rock band Butthole Surfers.",
+      "directors": [
+        "Tom Stern"
+      ]
+    },
+    {
+      "id": "camp_ricstar",
+      "category": "musica",
+      "type": "movie",
+      "title": "Camp RicStar",
+      "original_title": "Camp RicStar",
+      "year": 2024,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/kAywJiIR9JYZbna1B1dJCaZesUk=/300x450/v2/https://resizing.flixster.com/x4NMcc-VVyAwGCm6NPjHv89TLOI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1NGZlNTU5LWZmY2ItNGFlOC05YzFhLTliODlhZDcxMTU2Yy53ZWJw",
+      "plot": "CAMP RICSTAR tells the story of the Eric 'RicStar' Winter Music Therapy Summer Camp, created to honor Eric Richard Winter, a child with cerebral palsy who had a remarkable gift for music. For over 20…",
+      "directors": [
+        "Sam McConnell"
+      ]
+    },
+    {
+      "id": "fanny_the_other_mendelssohn_2023",
+      "category": "musica",
+      "type": "movie",
+      "title": "Fanny: The Other Mendelssohn",
+      "original_title": "Fanny: The Other Mendelssohn",
+      "year": 2023,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 96,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/hDQ5HXx-hGXbdqtBVEYrPJ2hHDY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27385412_p_v10_aa.jpg",
+      "plot": "Every wedding appreciates the remarkable musical talent of Felix Mendelssohn; his Wedding March stands as the most widely recognized classical composition in history; Felix was not the sole prodigy…",
+      "directors": [
+        "Sheila Hayman"
+      ]
+    },
+    {
+      "id": "fantasymphony_one_concert_to_rule_them_all",
+      "category": "musica",
+      "type": "movie",
+      "title": "Fantasymphony: One Concert to Rule them all",
+      "original_title": "Fantasymphony: One Concert to Rule them all",
+      "year": 2020,
+      "genres": [
+        "Música"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 99,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/p0KJBJsco8AhVD6zAg463vKNWrU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18179211_p_v13_aa.jpg",
+      "plot": "Featuring film music hits from Oscar-winning movies such as \"The Lord of the Rings,\" \"Game of Thrones,\" \"The Chronicles of Narnia\" and \"Harry Potter.\" Concert orchestration based on the original…",
+      "directors": [
+        "Mathias Hammer"
+      ]
+    },
+    {
+      "id": "ghost_2_big_to_rig",
+      "category": "musica",
+      "type": "movie",
+      "title": "GHOST: 2 Big To Rig",
+      "original_title": "GHOST: 2 Big To Rig",
+      "year": null,
+      "genres": [
+        "Drama",
+        "Música",
+        "Documental"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 115,
+      "certificate": "In Theaters Aug 26",
+      "poster": "https://resizing.flixster.com/w-RcWMKY1HgM5B-FC_p2ajXq-d8=/300x450/v2/https://resizing.flixster.com/CcMpUis8Wc0HJtsuyvSiP1qmfjU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZmMzI5ZmJkLWZjZTMtNDg0NC04ZDM2LTU2ODcwMDg1NDVlMS5qcGc=",
+      "plot": "Captured live over the course of GHOST's two sold-out shows in Mexico City last year, 2 BIG TO RIG is the definitive document of the band's unforgettable SKELETOUR WORLD TOUR, presented in IMAX® in…",
+      "directors": [
+        "Amir Chamdin",
+        "Jim Parsons"
+      ]
+    },
+    {
+      "id": "katy_perry_the_lifetimes_tour_live_from_paris",
+      "category": "musica",
+      "type": "movie",
+      "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "original_title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "year": null,
+      "genres": [
+        "Documental",
+        "Música"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 132,
+      "certificate": "In Theaters Sep 2",
+      "poster": "https://resizing.flixster.com/Kx2jdFUXUPk7vUrAzW_C8nD95Ew=/300x450/v2/https://resizing.flixster.com/3eCBN3y3edCJdhSYnS-3P_lULyM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIzZWJhNDVmLWQ4NmYtNDhmOC04MWMwLTMyMjU3MWViZjI5Ny5qcGc=",
+      "plot": "The Lifetimes Tour: Live from Paris explodes onto the screen in a blaze of color, sound, and pure spectacle, capturing Katy Perry in an immersive and interactive show, bringing viewers along for an…",
+      "directors": [
+        "Paul Dugdale"
       ]
     }
   ]

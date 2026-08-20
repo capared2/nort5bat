@@ -1,8 +1,2502 @@
 {
   "genre": "infantil-y-familiar",
   "name": "Infantil y familiar",
-  "count": 3,
+  "count": 185,
   "titles": [
+    {
+      "id": "indiana_jones_and_the_kingdom_of_the_crystal_skull",
+      "category": "accion",
+      "type": "movie",
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "original_title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "year": 2008,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Acción"
+      ],
+      "rating": 7.0,
+      "votes": 163406,
+      "tomatometer": 77,
+      "audience_score": 53,
+      "runtime_minutes": 122,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/WBc-wgrI9A22E_uq-ua1X91JJeg=/300x450/v2/https://resizing.flixster.com/lkA3ilGCHnivGzqmoYG7R7zu8xM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU1NGIzZDk3LTA3NzYtNGVkNS1iMzZmLWU0MjBiOWE1ZWUxNi5qcGc=",
+      "plot": "It's the height of the Cold War, and famous archaeologist Indiana Jones (Harrison Ford), returning from his latest adventure, finds out his job at Marshall College is in jeopardy. He meets Mutt (Shia…",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "the_incredibles",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Incredibles",
+      "original_title": "The Incredibles",
+      "year": 2004,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 8.7,
+      "votes": 147835,
+      "tomatometer": 97,
+      "audience_score": 75,
+      "runtime_minutes": 115,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/cqLrrwqY3lyqTqtdDMQKpD9f9ow=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/36057/36057_ad.jpg",
+      "plot": "In this lauded Pixar animated film, married superheroes Mr. Incredible (Craig T. Nelson) and Elastigirl (Holly Hunter) are forced to assume mundane lives as Bob and Helen Parr after all super-powered…",
+      "directors": [
+        "Brad Bird"
+      ]
+    },
+    {
+      "id": "megamind",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Megamind",
+      "original_title": "Megamind",
+      "year": 2010,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.7,
+      "votes": 132654,
+      "tomatometer": 73,
+      "audience_score": 72,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/OnERrv8bQyX_JSZ4S1S-d5lqN1E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8129753_p_v10_aq.jpg",
+      "plot": "Though he is the most brilliant supervillain the world has known, Megamind is the least successful. Thwarted time and again by heroic Metro Man, Megamind is more surprised than anyone when he…",
+      "directors": [
+        "Tom McGrath"
+      ]
+    },
+    {
+      "id": "up",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Up",
+      "original_title": "Up",
+      "year": 2009,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 9.1,
+      "votes": 126586,
+      "tomatometer": 98,
+      "audience_score": 90,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/6El8j4LKdqDw5ht3V7N6LgOxQCI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p190662_p_v12_ay.jpg",
+      "plot": "Carl Fredricksen, a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness. But curmudgeonly…",
+      "directors": [
+        "Pete Docter",
+        "Bob Peterson"
+      ]
+    },
+    {
+      "id": "frozen_2013",
+      "category": "musical",
+      "type": "movie",
+      "title": "Frozen",
+      "original_title": "Frozen",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Musical",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 7.8,
+      "votes": 113855,
+      "tomatometer": 89,
+      "audience_score": 85,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/sf4GKfS0OkQJ1ijfMru5uHPjJgE=/300x450/v2/https://resizing.flixster.com/R9OtbE5Q8iDL2KoqaQphdhFL-To=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4MTE4NDczLTYwZjktNDA0Mi04NDA4LTYyNDBjZTRlMDhkYi5qcGc=",
+      "plot": "When their kingdom becomes trapped in perpetual winter, fearless Anna (Kristen Bell) joins forces with mountaineer Kristoff (Jonathan Groff) and his reindeer sidekick to find Anna's sister, Snow…",
+      "directors": [
+        "Chris Buck",
+        "Jennifer Lee"
+      ]
+    },
+    {
+      "id": "the_lego_movie",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "The Lego Movie",
+      "original_title": "The Lego Movie",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 8.2,
+      "votes": 103996,
+      "tomatometer": 96,
+      "audience_score": 87,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/kgXHE-x5v4rXz0LnbM6GWYHPNyQ=/300x450/v2/https://resizing.flixster.com/2096IGqTl1MdFr5xOkiAdjyywos=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkN2RkZmFhLTEzYjktNGQ3Yy04NDY3LWI1MWQ1MjQyMzU4OC5qcGc=",
+      "plot": "An ordinary LEGO figurine Emmet who always follows the rules, is mistakenly identified as an extraordinary being and the key to saving the world. He finds himself drafted into a fellowship of…",
+      "directors": [
+        "Phil Lord",
+        "Christopher Miller"
+      ]
+    },
+    {
+      "id": "despicable_me_2",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Despicable Me 2",
+      "original_title": "Despicable Me 2",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.6,
+      "votes": 103521,
+      "tomatometer": 75,
+      "audience_score": 85,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-P_e46B_PYh_0WJqxl5j-lqHzqw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9680893_p_v8_ak.jpg",
+      "plot": "Now that Gru has forsaken a life of crime to raise Margo, Agnes and Edith, he's trying to figure out how to provide for his new family. As he struggles with his responsibilities as a father, the…",
+      "directors": [
+        "Chris Renaud",
+        "Pierre Coffin"
+      ]
+    },
+    {
+      "id": "kung_fu_panda",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Kung Fu Panda",
+      "original_title": "Kung Fu Panda",
+      "year": 2008,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.2,
+      "votes": 93374,
+      "tomatometer": 87,
+      "audience_score": 83,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Ea2b8Nmztp3gMNedJ7-bjxZKG9c=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/64718/64718_aa.jpg",
+      "plot": "Po the panda works in his family's noodle shop and dreams of becoming a kung-fu master. His dream becomes a reality when, unexpectedly, he must fulfill an ancient prophecy and study the skills with…",
+      "directors": [
+        "John Stevenson",
+        "Mark Osborne"
+      ]
+    },
+    {
+      "id": "how_to_train_your_dragon",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "How to Train Your Dragon",
+      "original_title": "How to Train Your Dragon",
+      "year": 2010,
+      "genres": [
+        "Infantil y familiar",
+        "Fantasía",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 8.0,
+      "votes": 89167,
+      "tomatometer": 99,
+      "audience_score": 91,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/r9fysfMBv0bS15v5sL9v45Y2nK8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3625299_p_v12_av.jpg",
+      "plot": "A misfit Viking teenager sees a chance to change the course of his clan's future when he befriends an injured dragon.",
+      "directors": [
+        "Christopher Sanders",
+        "Dean DeBlois"
+      ]
+    },
+    {
+      "id": "wreck_it_ralph",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Wreck-It Ralph",
+      "original_title": "Wreck-It Ralph",
+      "year": 2012,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.4,
+      "votes": 84853,
+      "tomatometer": 87,
+      "audience_score": 86,
+      "runtime_minutes": 101,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/M35E9FxJurIRAIeFlTEQUZvlRjQ=/300x450/v2/https://resizing.flixster.com/_6RKE_tXOzBTNySPRJ7n_Fhyo1U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3MjY4YWZmLWVlZjktNDFmYS04ZDQ1LTZlZGJmYmM0ZmU0Zi5qcGc=",
+      "plot": "Arcade-game character Wreck-It Ralph is tired of always being the bad guy and losing to his good guy opponent, Fix-It Felix. Finally, after decades of seeing all the glory go to Felix, Ralph decides…",
+      "directors": [
+        "Rich Moore"
+      ]
+    },
+    {
+      "id": "despicable_me",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Despicable Me",
+      "original_title": "Despicable Me",
+      "year": 2010,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.8,
+      "votes": 79161,
+      "tomatometer": 80,
+      "audience_score": 83,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/w7jpCFYkcJErMZmNukBUMAyzxkY=/300x450/v2/https://resizing.flixster.com/uA07pd_5W7ciZbBiDF0GzQDq1EU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y0NzM2Y2YxLTc5NmItNDA2OS04YjIzLTBhNDUxOTQ3NGU4Yi53ZWJw",
+      "plot": "Supervillain Gru, a man who delights in all things wicked, hatches a plan to steal the moon. Surrounded by an army of little yellow minions and his impenetrable arsenal of weapons and war machines,…",
+      "directors": [
+        "Chris Renaud",
+        "Pierre Coffin"
+      ]
+    },
+    {
+      "id": "brave",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Brave",
+      "original_title": "Brave",
+      "year": 2012,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Comedia",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 7.0,
+      "votes": 79159,
+      "tomatometer": 78,
+      "audience_score": 75,
+      "runtime_minutes": 93,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/uFKzELELVYh8KshaOPR1BuxkPjA=/300x450/v2/https://resizing.flixster.com/U3_9uM1tWKfE-WsSSNvGyUrdb7k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyYjJhN2QxLTQzNjAtNDA4OS1hYjJlLTRmNTVkMzY3YWM1Mi53ZWJw",
+      "plot": "Merida (Kelly Macdonald), the impetuous but courageous daughter of Scottish King Fergus (Billy Connolly) and Queen Elinor (Emma Thompson), is a skilled archer who wants to carve out her own path in…",
+      "directors": [
+        "Mark Andrews",
+        "Brenda Chapman"
+      ]
+    },
+    {
+      "id": "kung_fu_panda_the_kaboom_of_doom",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Kung Fu Panda 2",
+      "original_title": "Kung Fu Panda 2",
+      "year": 2011,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.9,
+      "votes": 78844,
+      "tomatometer": 82,
+      "audience_score": 74,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/6Nxd0mSWk9zMhVkB0o4zWeGQS5w=/300x450/v2/https://resizing.flixster.com/UuPhHpbpSF7Dor6jM9XEXacfV_I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxOWZkN2NjLWI3YTUtNDkzZi1iMDhmLTc5OGU3OWIyMTY1MC5qcGc=",
+      "plot": "Now known as the Dragon Warrior, Po protects the Valley of Peace alongside his friends and fellow kung fu masters, the Furious Five. However, a dangerous villain threatens Po's awesome new life with…",
+      "directors": [
+        "Jennifer Yuh Nelson"
+      ]
+    },
+    {
+      "id": "ice_age",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Ice Age",
+      "original_title": "Ice Age",
+      "year": 2002,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.0,
+      "votes": 78693,
+      "tomatometer": 76,
+      "audience_score": 82,
+      "runtime_minutes": 81,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ZFOGmCNEhcFghG23CvBO51JBSKw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29626_p_v13_bi.jpg",
+      "plot": "Twenty-thousand years ago, Earth was a wondrous, prehistoric world filled with great danger, not the least of which is the beginning of the Ice Age. To avoid a terrible frostbite, the planet's…",
+      "directors": [
+        "Chris Wedge"
+      ]
+    },
+    {
+      "id": "inside_out_2015",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Inside Out",
+      "original_title": "Inside Out",
+      "year": 2015,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 8.9,
+      "votes": 70585,
+      "tomatometer": 98,
+      "audience_score": 89,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/hpr_VrnnjKPxDOXOkxMFTSUKWZs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10840532_p_v13_al.jpg",
+      "plot": "Riley (Kaitlyn Dias) is a happy, hockey-loving 11-year-old Midwestern girl, but her world turns upside-down when she and her parents move to San Francisco. Riley's emotions -- led by Joy (Amy…",
+      "directors": [
+        "Pete Docter"
+      ]
+    },
+    {
+      "id": "eagle_eye",
+      "category": "misterio-y-suspense",
+      "type": "movie",
+      "title": "Eagle Eye",
+      "original_title": "Eagle Eye",
+      "year": 2008,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Misterio y suspense"
+      ],
+      "rating": 4.8,
+      "votes": 64457,
+      "tomatometer": 27,
+      "audience_score": 62,
+      "runtime_minutes": 118,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/v6T4ngxwhwhU98cMlI1cg88Zis0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p172187_p_v8_ag.jpg",
+      "plot": "Jerry Shaw (Shia LaBeouf) and Rachel Holloman (Michelle Monaghan) are two strangers whose lives are suddenly thrown into turmoil by a mysterious woman they have never met. Threatening their lives and…",
+      "directors": [
+        "D.J. Caruso"
+      ]
+    },
+    {
+      "id": "big_hero_6",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Big Hero 6",
+      "original_title": "Big Hero 6",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 7.4,
+      "votes": 63711,
+      "tomatometer": 90,
+      "audience_score": 91,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/tbP20LILPHiyjgyoEzZ06eU4xGs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10569216_p_v12_ap.jpg",
+      "plot": "Robotics prodigy Hiro lives in the city of San Fransokyo. Next to his older brother, Tadashi, Hiro's closest companion is Baymax, a robot whose sole purpose is to take care of people. When a…",
+      "directors": [
+        "Don Hall",
+        "Chris Williams"
+      ]
+    },
+    {
+      "id": "tangled",
+      "category": "musical",
+      "type": "movie",
+      "title": "Tangled",
+      "original_title": "Tangled",
+      "year": 2010,
+      "genres": [
+        "Infantil y familiar",
+        "Musical",
+        "Comedia",
+        "Fantasía",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.5,
+      "votes": 61435,
+      "tomatometer": 89,
+      "audience_score": 87,
+      "runtime_minutes": 101,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/UPNPrHCWrAyua7xHCnFqeIV2KYg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8033989_p_v11_ae.jpg",
+      "plot": "When the kingdom's most-wanted bandit, Flynn Rider (Zachary Levi), hides in a convenient tower, he immediately becomes a captive of Rapunzel (Mandy Moore), the spire's longtime resident. Crowned with…",
+      "directors": [
+        "Nathan Greno",
+        "Byron Howard"
+      ]
+    },
+    {
+      "id": "zootopia",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Zootopia",
+      "original_title": "Zootopia",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 8.1,
+      "votes": 58327,
+      "tomatometer": 98,
+      "audience_score": 92,
+      "runtime_minutes": 108,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/QIx2zOuXIqkNVu-r0qYRBYxdJPE=/300x450/v2/https://resizing.flixster.com/LYAAt4Fs9RsMJXLCVfLv7LQsN4U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QwNmQ2MjE2LTBmYjUtNDk0NC1hZjc0LTc2NmU5ZWQ0MDc0Yi5qcGc=",
+      "plot": "From the largest elephant to the smallest shrew, the city of Zootopia is a mammal metropolis where various animals live and thrive. When Judy Hopps (Ginnifer Goodwin) becomes the first rabbit to join…",
+      "directors": [
+        "Byron Howard",
+        "Rich Moore"
+      ]
+    },
+    {
+      "id": "how_to_train_your_dragon_2",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "How to Train Your Dragon 2",
+      "original_title": "How to Train Your Dragon 2",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Fantasía",
+        "Aventura",
+        "Comedia",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 7.8,
+      "votes": 57864,
+      "tomatometer": 92,
+      "audience_score": 90,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/9r1maEihcAHV4EHmYN0aFRv5jgw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10099311_p_v13_ax.jpg",
+      "plot": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting the island's unmapped territories. During one of their adventures, the…",
+      "directors": [
+        "Dean DeBlois",
+        "Tom Owens"
+      ]
+    },
+    {
+      "id": "ice_age_the_meltdown",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Ice Age: The Meltdown",
+      "original_title": "Ice Age: The Meltdown",
+      "year": 2006,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.1,
+      "votes": 50218,
+      "tomatometer": 56,
+      "audience_score": 71,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/b_BkvMmRQCinnqrTOkhyI-kjZmY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159726_p_v13_be.jpg",
+      "plot": "With global warming threatening their once-icy domain with widespread flooding, Manny (Ray Romano), Sid (John Leguizamo) and Diego (Denis Leary) set out to find a safe haven. Along the way, another…",
+      "directors": [
+        "Carlos Saldanha"
+      ]
+    },
+    {
+      "id": "the-croods",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Croods",
+      "original_title": "The Croods",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.6,
+      "votes": 49923,
+      "tomatometer": 71,
+      "audience_score": 77,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ndGH_sWTX2X39xeBbbmCxz0zZeg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9418164_p_v10_aw.jpg",
+      "plot": "Prehistoric family the Croods live in a particularly dangerous moment in time. Patriarch Grug (Nicolas Cage), his mate, Ugga (Catherine Keener), teenage daughter Eep (Emma Stone), son Thunk (Clark…",
+      "directors": [
+        "Christopher Sanders",
+        "Kirk DeMicco"
+      ]
+    },
+    {
+      "id": "frozen_ii",
+      "category": "musical",
+      "type": "movie",
+      "title": "Frozen II",
+      "original_title": "Frozen II",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Musical",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.8,
+      "votes": 48932,
+      "tomatometer": 77,
+      "audience_score": 92,
+      "runtime_minutes": 103,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/urlUkMGA9XgsnX2Tn6yVD1E4A5Q=/300x450/v2/https://resizing.flixster.com/R10FsECn4L0xGZWqktgVG583ErU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiYmIwOTg4LThhZGMtNGJlYy05YjQ4LTJkYmVkMmU3YjJkZC53ZWJw",
+      "plot": "Elsa the Snow Queen has an extraordinary gift -- the power to create ice and snow. But no matter how happy she is to be surrounded by the people of Arendelle, Elsa finds herself strangely unsettled.…",
+      "directors": [
+        "Chris Buck",
+        "Jennifer Lee"
+      ]
+    },
+    {
+      "id": "rango",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Rango",
+      "original_title": "Rango",
+      "year": 2011,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.6,
+      "votes": 46432,
+      "tomatometer": 88,
+      "audience_score": 70,
+      "runtime_minutes": 105,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/wJaDcHKvSfuA3UxLX9Xxug_MD_s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8157012_p_v10_as.jpg",
+      "plot": "A chameleon who has lived as a sheltered family pet finds himself in the grip of an identity crisis. Rango wonders how to stand out when it is his nature to blend in. When he accidentally winds up in…",
+      "directors": [
+        "Gore Verbinski"
+      ]
+    },
+    {
+      "id": "finding_dory",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Finding Dory",
+      "original_title": "Finding Dory",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.7,
+      "votes": 44993,
+      "tomatometer": 94,
+      "audience_score": 84,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/uV2l4TuRB346my4gu0Tdx8OvysI=/300x450/v2/https://resizing.flixster.com/oKaqhAGTZ40vfE3a2h-R6dQ4PR8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ2MjliZTk1LWZlNTEtNDM2ZC1hMWY5LTYzMDk4YjM2ZGFmNS53ZWJw",
+      "plot": "Dory (Ellen DeGeneres) is a wide-eyed, blue tang fish who suffers from memory loss every 10 seconds or so. The one thing she can remember is that she somehow became separated from her parents as a…",
+      "directors": [
+        "Andrew Stanton"
+      ]
+    },
+    {
+      "id": "shrek_forever_after",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Shrek Forever After",
+      "original_title": "Shrek Forever After",
+      "year": 2010,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 6.1,
+      "votes": 42552,
+      "tomatometer": 58,
+      "audience_score": 54,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/yU3EmBOGKJLzzEBLrUkRmqGXBl0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3546149_p_v8_aq.jpg",
+      "plot": "Long-settled into married life and fully domesticated, Shrek begins to long for the days when he felt like a real ogre. Duped into signing a contract with devious Rumpelstiltskin, he finds himself in…",
+      "directors": [
+        "Mike Mitchell"
+      ]
+    },
+    {
+      "id": "rise_of_the_guardians",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Rise of the Guardians",
+      "original_title": "Rise of the Guardians",
+      "year": 2012,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 6.7,
+      "votes": 42168,
+      "tomatometer": 75,
+      "audience_score": 80,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/D6U3TvgKQQfzSpdICwy4ZEDGKzk=/300x450/v2/https://resizing.flixster.com/Al2e0O5hJ_pBVLxB7hRKuYfOaTA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk1MzFjYzY1LWFjMjctNGQ4Yi1hNmQzLTZhZDIzYTdmOWE0YS5qcGc=",
+      "plot": "Generation after generation, immortal Guardians like Santa Claus (Alec Baldwin), the Easter Bunny (Hugh Jackman) and the Tooth Fairy (Isla Fisher) protect the world's children from darkness and…",
+      "directors": [
+        "Peter Ramsey"
+      ]
+    },
+    {
+      "id": "monsters_vs_aliens",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Monsters vs. Aliens",
+      "original_title": "Monsters vs. Aliens",
+      "year": 2009,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 6.5,
+      "votes": 36408,
+      "tomatometer": 73,
+      "audience_score": 59,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/TKtr1IgIkH8zWkAYz-B4LSHo-zA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p189227_p_v13_ap.jpg",
+      "plot": "When a meteor full of space gunk transforms Susan Murphy (Reese Witherspoon) into a giant, the government renames her Ginormica and confines her to a secret compound with other monsters, like…",
+      "directors": [
+        "Rob Letterman",
+        "Conrad Vernon"
+      ]
+    },
+    {
+      "id": "minions",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Minions",
+      "original_title": "Minions",
+      "year": 2015,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.7,
+      "votes": 35521,
+      "tomatometer": 55,
+      "audience_score": 49,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/zne67xby-AFjsnHfbgC9uLlcBbg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11376954_p_v13_bc.jpg",
+      "plot": "Evolving from single-celled yellow organisms at the dawn of time, Minions live to serve, but find themselves working for a continual series of unsuccessful masters, from T. Rex to Napoleon. Without a…",
+      "directors": [
+        "Pierre Coffin",
+        "Kyle Balda"
+      ]
+    },
+    {
+      "id": "moana_2016",
+      "category": "musical",
+      "type": "movie",
+      "title": "Moana",
+      "original_title": "Moana",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Musical",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.9,
+      "votes": 34504,
+      "tomatometer": 96,
+      "audience_score": 89,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/H5TfguI8llA_nSu-qDvHtZKAsOg=/300x450/v2/https://resizing.flixster.com/F_sBk5tMHgElDAE7FymhDvYNAOI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3ZTJjMGE4LTQwZTYtNDllOC05OTdlLTBjYTg0MGIzMzIwNy53ZWJw",
+      "plot": "An adventurous teenager sails out on a daring mission to save her people. During her journey, Moana meets the once-mighty demigod Maui, who guides her in her quest to become a master way-finder.…",
+      "directors": [
+        "John Musker",
+        "Ron Clements"
+      ]
+    },
+    {
+      "id": "ice_age_dawn_of_the_dinosaurs",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "original_title": "Ice Age: Dawn of the Dinosaurs",
+      "year": 2009,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.6,
+      "votes": 34039,
+      "tomatometer": 46,
+      "audience_score": 63,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Cyl_yFB-reFzSeb8Y1YNLAKKviY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p170803_p_v12_ax.jpg",
+      "plot": "After Sid (John Leguizamo) pilfers some dinosaur eggs, Manny (Ray Romano), Diego (Denis Leary) and the rest of their prehistoric pals enter a mysterious, underground world to rescue the hapless…",
+      "directors": [
+        "Carlos Saldanha"
+      ]
+    },
+    {
+      "id": "puss_in_boots",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Puss in Boots",
+      "original_title": "Puss in Boots",
+      "year": 2011,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.8,
+      "votes": 32977,
+      "tomatometer": 85,
+      "audience_score": 68,
+      "runtime_minutes": 90,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/x0Yf1UdRE4kx6fVC6DoDppl9nC8=/300x450/v2/https://resizing.flixster.com/A0GOAj9G1_APXUffthVv5sJbQZY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UyN2E0NzgxLTEyNzEtNGNiZS1hZjc1LTE3NjVmZDY5YmYyYi5qcGc=",
+      "plot": "Long before meeting Shrek, Puss in Boots, just named a hero for saving a woman from a charging bull, is run out of town on suspicion of bank robbery, even though the real villain is Puss' friend,…",
+      "directors": [
+        "Chris Miller"
+      ]
+    },
+    {
+      "id": "ice_age_continental_drift",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Ice Age: Continental Drift",
+      "original_title": "Ice Age: Continental Drift",
+      "year": 2012,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.1,
+      "votes": 31997,
+      "tomatometer": 37,
+      "audience_score": 61,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/rjarw2ke7ej4lTIaIB1O2JYv7A0=/300x450/v2/https://resizing.flixster.com/CmeYxRMtsuTB4dPkRlLOBpEUPsA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA5NjFmODUzLTdmMDMtNGQyNy1iYzQ5LTA3YTQ5NGEzNDQ4Zi53ZWJw",
+      "plot": "Scrat's continuous pursuit of an infernal acorn has world-changing consequences for Manny (Ray Romano), Sid (John Leguizamo) and Diego (Denis Leary) when the continents split apart. The continental…",
+      "directors": [
+        "Steve Martino",
+        "Mike Thurmeier"
+      ]
+    },
+    {
+      "id": "1197696-fantastic_mr_fox",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Fantastic Mr. Fox",
+      "original_title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 8.1,
+      "votes": 31726,
+      "tomatometer": 93,
+      "audience_score": 85,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/jBeE3xa2rv9NdAxjauhHCwBUKaE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3531300_p_v8_bd.jpg",
+      "plot": "After 12 years of bucolic bliss, Mr. Fox breaks a promise to his wife and raids the farms of their human neighbors, Boggis, Bunce, and Bean. Giving in to his animal instincts endangers not only his…",
+      "directors": [
+        "Wes Anderson"
+      ]
+    },
+    {
+      "id": "the_secret_life_of_pets",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Secret Life of Pets",
+      "original_title": "The Secret Life of Pets",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.2,
+      "votes": 30748,
+      "tomatometer": 70,
+      "audience_score": 62,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/niG0o-abWBv2WIdKyMLcuKLU920=/300x450/v2/https://resizing.flixster.com/8VbxqyAdvVhR6AjtR8kIqbYf-Iw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg1NjE3YmNlLTYxYjktNDU2Mi04YjNjLWI3MzcyMjU3ZmY3NC53ZWJw",
+      "plot": "Max (Louis C.K.) is a spoiled terrier who enjoys a comfortable life in a New York building until his owner adopts Duke, a giant and unruly canine. During their walk outside, they encounter a group of…",
+      "directors": [
+        "Chris Renaud"
+      ]
+    },
+    {
+      "id": "cloudy_with_a_chance_of_meatballs_2_2013",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Cloudy With a Chance of Meatballs 2",
+      "original_title": "Cloudy With a Chance of Meatballs 2",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 6.4,
+      "votes": 30712,
+      "tomatometer": 71,
+      "audience_score": 66,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/hVph9qkCmRI7LQ-BxV_SNSRmK-4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9872696_p_v10_ay.jpg",
+      "plot": "His genius finally recognized by his idol Chester V, inventor Flint Lockwood gets to join Chester's company, where he can work full-time on technologies to help mankind. However, Flint soon discovers…",
+      "directors": [
+        "Cody Cameron",
+        "Kris Pearn"
+      ]
+    },
+    {
+      "id": "madagascar_escape_2_africa",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Madagascar: Escape 2 Africa",
+      "original_title": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.9,
+      "votes": 30648,
+      "tomatometer": 64,
+      "audience_score": 66,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/hmwD_6z00w42MIbGjvT1d6QnOQA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176527_p_v8_as.jpg",
+      "plot": "Alex (Ben Stiller), Morty (Chris Rock) and other zoo animals find a way to escape from Madagascar when the penguins reassemble a wrecked airplane. The precariously repaired craft stays airborne just…",
+      "directors": [
+        "Eric Darnell",
+        "Tom McGrath"
+      ]
+    },
+    {
+      "id": "bolt",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Bolt",
+      "original_title": "Bolt",
+      "year": 2008,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.3,
+      "votes": 30322,
+      "tomatometer": 90,
+      "audience_score": 74,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/SsTmaS07RfcjzCWjwaOS2E3fweE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p171577_p_v10_ad.jpg",
+      "plot": "The days of canine superstar Bolt (John Travolta) are filled with danger and intrigue ... until the cameras stop rolling. But Bolt doesn't know that he's on a TV show; he thinks his amazing powers…",
+      "directors": [
+        "Chris Williams",
+        "Byron Howard"
+      ]
+    },
+    {
+      "id": "paranorman",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "ParaNorman",
+      "original_title": "ParaNorman",
+      "year": 2012,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Fantasía",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.4,
+      "votes": 29543,
+      "tomatometer": 89,
+      "audience_score": 73,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/AAmO0Y1BN1mtvbJjvG1_XgtGbTQ=/300x450/v2/https://resizing.flixster.com/AbQgHjFtTAIc8N0tEMLQuDUgHjs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1YWQ5MTRiLWJmMzktNDE4Yi1hMDM4LTI3NWJhMGFiMWQxZS5qcGc=",
+      "plot": "Young Norman Babcock (Kodi Smit-McPhee) has the ability to speak with the dead -- and he often prefers their company to that of the living. Norman receives word from his strange Uncle Prenderghast…",
+      "directors": [
+        "Chris Butler",
+        "Sam Fell"
+      ]
+    },
+    {
+      "id": "epic_2013",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Epic",
+      "original_title": "Epic",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Acción",
+        "Comedia",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 5.9,
+      "votes": 29223,
+      "tomatometer": 65,
+      "audience_score": 65,
+      "runtime_minutes": 103,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/bsbum5tL-5TfnUJTkE62tYQnTRw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9330057_p_v11_ar.jpg",
+      "plot": "Mary Katherine (Amanda Seyfried), or M.K., is a headstrong, spirited teenager who has a strained relationship with her father (Jason Sudeikis). She loses patience with her dad's tales of unseen…",
+      "directors": [
+        "Chris Wedge"
+      ]
+    },
+    {
+      "id": "turbo_2013",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Turbo",
+      "original_title": "Turbo",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.1,
+      "votes": 25365,
+      "tomatometer": 68,
+      "audience_score": 65,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/xZGEs4aN4ZaGFHtvJBB9u752OUc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9672390_p_v8_at.jpg",
+      "plot": "Turbo is a speed-obsessed snail with an unusual dream: to become the world's greatest racer. This odd snail gets a chance to leave his slow-paced life behind when a freak accident gives him the power…",
+      "directors": [
+        "David Soren"
+      ]
+    },
+    {
+      "id": "spider_man_into_the_spider_verse",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "original_title": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 8.8,
+      "votes": 24556,
+      "tomatometer": 97,
+      "audience_score": 93,
+      "runtime_minutes": 117,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/RWLUuRKt1r8gXTFx83J1lONbgz4=/300x450/v2/https://resizing.flixster.com/_l50Ahm00b-RO9Ao2s3AyMjUWiU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExYTZmMWFkLWViZWItNDNhMS1iZTEwLTcxODk1YTk3NWFhMy53ZWJw",
+      "plot": "Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets Peter Parker, he…",
+      "directors": [
+        "Bob Persichetti",
+        "Peter Ramsey"
+      ]
+    },
+    {
+      "id": "open_season",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Open Season",
+      "original_title": "Open Season",
+      "year": 2006,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.4,
+      "votes": 23579,
+      "tomatometer": 48,
+      "audience_score": 57,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/JxgW76hvpjDAMbkPEUoMr53VY1o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159517_p_v8_an.jpg",
+      "plot": "Boog (Martin Lawrence), a 900-pound grizzly bear, is content entertaining tourists and living in park ranger Beth's (Debra Messing) barn. His life takes a drastic turn when he rescues a one-horned…",
+      "directors": [
+        "Jill Culton",
+        "Anthony Stacchi"
+      ]
+    },
+    {
+      "id": "the_lego_batman_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The LEGO Batman Movie",
+      "original_title": "The LEGO Batman Movie",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 7.5,
+      "votes": 22554,
+      "tomatometer": 89,
+      "audience_score": 81,
+      "runtime_minutes": 106,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/g_4UmibYcjzc0Tkvjg2TqBcJIa0=/300x450/v2/https://resizing.flixster.com/bDG3nZ5107gOz5w7Mn8sMWl0T2s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAyZWRjMTFkLTM2NjUtNDA5YS1iY2Q1LTEyZjZiYTE3MTBmZi53ZWJw",
+      "plot": "There are big changes brewing in Gotham, but if Batman (Will Arnett) wants to save the city from the Joker's (Zach Galifianakis) hostile takeover, he may have to drop the lone vigilante thing, try to…",
+      "directors": [
+        "Chris McKay"
+      ]
+    },
+    {
+      "id": "the_secret_life_of_pets_2",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Secret Life of Pets 2",
+      "original_title": "The Secret Life of Pets 2",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.8,
+      "votes": 21964,
+      "tomatometer": 60,
+      "audience_score": 90,
+      "runtime_minutes": 90,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/FurY65EXP5QWBwI5G8NPWOQDF38=/300x450/v2/https://resizing.flixster.com/n72Vmpqne2y75YgSzBHZrFyomc8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1ZWZkNzhlLTVkYTAtNDQ5OC1iNTFkLTdlZDNkNzZlNzI3Ni53ZWJw",
+      "plot": "Explore the emotional lives of pets and the deep bond between them and the families that love them as Max, Gidget, Snowball and the rest of the gang take on new adventures and push themselves to find…",
+      "directors": [
+        "Chris Renaud"
+      ]
+    },
+    {
+      "id": "the_good_dinosaur",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Good Dinosaur",
+      "original_title": "The Good Dinosaur",
+      "year": 2015,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.6,
+      "votes": 21636,
+      "tomatometer": 76,
+      "audience_score": 64,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/BB-xTJjQx-DACuvfTdEOkc7V0N8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11822260_p_v8_aa.jpg",
+      "plot": "Luckily for young Arlo, his parents (Jeffrey Wright, Frances McDormand) and his two siblings, the mighty dinosaurs were not wiped out 65 million years ago. When a rainstorm washes poor Arlo (Raymond…",
+      "directors": [
+        "Peter Sohn"
+      ]
+    },
+    {
+      "id": "mr_peabody_and_sherman",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Mr. Peabody & Sherman",
+      "original_title": "Mr. Peabody & Sherman",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 6.7,
+      "votes": 21596,
+      "tomatometer": 81,
+      "audience_score": 73,
+      "runtime_minutes": 93,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/hcNBQcivE81reYEd-P_bs_L3QJU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10173144_p_v10_al.jpg",
+      "plot": "Mr. Peabody (Ty Burrell), the most accomplished canine in the world, and his boy, Sherman (Max Charles), use a time machine called the Wabac to embark on outrageous adventures. However, when Sherman…",
+      "directors": [
+        "Rob Minkoff"
+      ]
+    },
+    {
+      "id": "the_super_mario_bros_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Super Mario Bros. Movie",
+      "original_title": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.7,
+      "votes": 20651,
+      "tomatometer": 59,
+      "audience_score": 95,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/nSFRM9ir7QzcM7Ob5gR9i7mi2iw=/300x450/v2/https://resizing.flixster.com/nQN8KYVFA4fD23Li3TCLwKYz8GA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYWVjZDdiLTMyYjMtNDgzNy1iN2M0LTgzYWZkODIzMmZmOS5qcGc=",
+      "plot": "Mario and Luigi go on a whirlwind adventure through Mushroom Kingdom, uniting with a cast of familiar characters to defeat Bowser.",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ]
+    },
+    {
+      "id": "sonic_the_hedgehog_2020",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Sonic the Hedgehog",
+      "original_title": "Sonic the Hedgehog",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 5.9,
+      "votes": 19581,
+      "tomatometer": 64,
+      "audience_score": 93,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/wH54Ka2TEbOiFmZJobxYWcDpN8w=/300x450/v2/https://resizing.flixster.com/1o0OGshoMM7T9dDHdGgRu36P_Bg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY2NGIyNDY3LTM5N2ItNGVjMy05MWE4LWI5YzNhZGUxYmJhMi53ZWJw",
+      "plot": "The world needed a hero and it got a hedgehog. Powered with incredible speed, Sonic races across the globe to stop uncool evil genius Dr. Robotnik from achieving world domination.",
+      "directors": [
+        "Jeff Fowler"
+      ]
+    },
+    {
+      "id": "home_2015",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Home",
+      "original_title": "Home",
+      "year": 2015,
+      "genres": [
+        "Infantil y familiar",
+        "Ciencia ficción",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 5.5,
+      "votes": 19297,
+      "tomatometer": 52,
+      "audience_score": 64,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/6E-SqEwRsdymb_1Hi59lTiazXRw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10654478_p_v13_aj.jpg",
+      "plot": "After a hive-minded alien race called the Boov conquer the Earth, they relocate the planet's human population -- all except for a little girl named Tip (Rihanna), who's managed to hide from the…",
+      "directors": [
+        "Tim Johnson"
+      ]
+    },
+    {
+      "id": "kung_fu_panda_3",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Kung Fu Panda 3",
+      "original_title": "Kung Fu Panda 3",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 6.9,
+      "votes": 19250,
+      "tomatometer": 87,
+      "audience_score": 79,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ZfdZbZso0uHaAstv1VhQ1p4qTts=/300x450/v2/https://resizing.flixster.com/bUHfz6f5Jl-STdX8vdyauuFMIfY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwMzUyZGMxLTViMjAtNDM5MS04YjhmLTRlNzU1YWNlMzViZS53ZWJw",
+      "plot": "Living large and loving life, Po realizes that he has a lot to learn if he's going to fulfill the next challenge from his beloved instructor. After reuniting with his long-lost father, Po must…",
+      "directors": [
+        "Jennifer Yuh Nelson",
+        "Alessandro Carloni"
+      ]
+    },
+    {
+      "id": "paddington",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Paddington",
+      "original_title": "Paddington",
+      "year": 2015,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 7.8,
+      "votes": 18188,
+      "tomatometer": 96,
+      "audience_score": 81,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/07up4As_dPYG8qae3HNZFyrb8jI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10569889_p_v11_aa.jpg",
+      "plot": "After a deadly earthquake destroys his home in Peruvian rainforest, a young bear makes his way to England in search of a new home. The bear, dubbed \"Paddington\" for the London train station, finds…",
+      "directors": [
+        "Paul King"
+      ]
+    },
+    {
+      "id": "coco_2017",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Coco",
+      "original_title": "Coco",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Música",
+        "Animación"
+      ],
+      "rating": 8.3,
+      "votes": 17353,
+      "tomatometer": 97,
+      "audience_score": 94,
+      "runtime_minutes": 109,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/D7eevtxVT5GzWLzTwodZjsFXqzw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13930352_p_v8_ac.jpg",
+      "plot": "Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in…",
+      "directors": [
+        "Lee Unkrich"
+      ]
+    },
+    {
+      "id": "lilo_and_stitch_2025",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Lilo & Stitch",
+      "original_title": "Lilo & Stitch",
+      "year": 2025,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Ciencia ficción",
+        "Acción",
+        "Aventura"
+      ],
+      "rating": 6.2,
+      "votes": 16589,
+      "tomatometer": 72,
+      "audience_score": 91,
+      "runtime_minutes": 108,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/DGfGoCp8XXc2KLcNRujquMaLWfw=/300x450/v2/https://resizing.flixster.com/lhIKIMKOYf_zGspHuq6UkGinzRQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UzZDdjZmQ5LTgzMWQtNGU0My04NjFmLTJiYWQ3YTQ3NGU3MC5qcGc=",
+      "plot": "Stitch, an extraterrestrial entity, comes to Earth after escaping prison, where he tries to impersonate a dog. Things take a turn when a lonely Hawaiian girl, Lilo, adopts him from an animal shelter…",
+      "directors": [
+        "Dean Fleischer-Camp"
+      ]
+    },
+    {
+      "id": "the_man_with_the_iron_fists",
+      "category": "accion",
+      "type": "movie",
+      "title": "The Man With the Iron Fists",
+      "original_title": "The Man With the Iron Fists",
+      "year": 2012,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Aventura"
+      ],
+      "rating": 5.1,
+      "votes": 15694,
+      "tomatometer": 52,
+      "audience_score": 40,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/qbzXaDFkNtgHKedlF9vA3amQs8w=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9371058_p_v8_am.jpg",
+      "plot": "In 19th-century China, a stranger (RZA) settles in a jungle village and becomes its blacksmith. Radical tribal factions force him to fashion elaborate tools of destruction, and the clans' conflict…",
+      "directors": [
+        "RZA"
+      ]
+    },
+    {
+      "id": "spider_man_across_the_spider_verse",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "original_title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 8.6,
+      "votes": 15580,
+      "tomatometer": 95,
+      "audience_score": 95,
+      "runtime_minutes": 140,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/csKM2hamazkmHe5Nxzr1ZWSyww8=/300x450/v2/https://resizing.flixster.com/abVYM20-_8hBgvl4VJTC_28L0Tw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzNTQxM2E4LTUzYmYtNGI3MS1iM2FmLWJjYTFmOWZjMDYzNS5qcGc=",
+      "plot": "Miles Morales returns for the next chapter of the Oscar®-winning Spider-Verse saga, an epic adventure that will transport Brooklyn's full-time, friendly neighborhood Spider-Man across the Multiverse…",
+      "directors": [
+        "Joaquim Dos Santos",
+        "Kemp Powers"
+      ]
+    },
+    {
+      "id": "penguins_of_madagascar",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Penguins of Madagascar",
+      "original_title": "Penguins of Madagascar",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.2,
+      "votes": 15328,
+      "tomatometer": 74,
+      "audience_score": 63,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/YfBh8bKav8Dc3Uy1uGcFiFyEWVM=/300x450/v2/https://resizing.flixster.com/EC8WI4Es7ddMsnhvZdhTBXRc3_Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzYzEwNWE2LTQ5MGEtNDc1Yi04NjI4LTBhOGNhNGZmYjg5Ni5qcGc=",
+      "plot": "Plucky penguins Skipper (Tom McGrath), Kowalski (Chris Miller), Rico (Conrad Vernon) and Private (Christopher Knights) -- the most elite spies ever hatched -- join forces with a chic undercover…",
+      "directors": [
+        "Eric Darnell",
+        "Simon J. Smith"
+      ]
+    },
+    {
+      "id": "planes",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Planes",
+      "original_title": "Planes",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 4.6,
+      "votes": 15294,
+      "tomatometer": 26,
+      "audience_score": 49,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/5uTSH2t4Ct3JOvxBOL-fGdwiVo0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9742322_p_v12_ao.jpg",
+      "plot": "Dusty is a small-town plane who dreams of one day competing as a high-flying air racer. However, poor Dusty has two strikes against him: He's not built for racing, and he's terribly afraid of…",
+      "directors": [
+        "Klay Hall"
+      ]
+    },
+    {
+      "id": "muppets_most_wanted",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Muppets Most Wanted",
+      "original_title": "Muppets Most Wanted",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 6.7,
+      "votes": 15286,
+      "tomatometer": 80,
+      "audience_score": 59,
+      "runtime_minutes": 106,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/S08RkdlmFbdX_ZXbMs6_owT5a0Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10173452_p_v12_bf.jpg",
+      "plot": "Dominic Badguy (Ricky Gervais), The Muppets' new manager, convinces the gang to embark on a world tour. Kermit the Frog doubts that it's a good idea -- a feeling that's proven right when look-alike…",
+      "directors": [
+        "James Bobin"
+      ]
+    },
+    {
+      "id": "the_book_of_life_2014",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "The Book of Life",
+      "original_title": "The Book of Life",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 6.9,
+      "votes": 14636,
+      "tomatometer": 82,
+      "audience_score": 77,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/2QgRNAp3RymjNvv9s2jDFvauTIs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10569669_p_v10_aa.jpg",
+      "plot": "In the Mexican town of San Angel, Manolo (Diego Luna), Maria (Zoë Saldana) and Joaquin (Channing Tatum) have been friends ever since childhood. Although their lives have taken different paths --…",
+      "directors": [
+        "Jorge R. Gutierrez"
+      ]
+    },
+    {
+      "id": "the_spongebob_movie_sponge_out_of_water",
+      "category": "comedia",
+      "type": "movie",
+      "title": "The SpongeBob Movie: Sponge Out of Water",
+      "original_title": "The SpongeBob Movie: Sponge Out of Water",
+      "year": 2015,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 6.5,
+      "votes": 14504,
+      "tomatometer": 80,
+      "audience_score": 54,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/gB-jVlmIFthdjw53OKED0HQ9xzA=/300x450/v2/https://resizing.flixster.com/lMbZI-83EOzq1ER1BQYYkwzwUMk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2MGUyZGQyLTA1YmUtNDM2Mi04YTc3LTUxMjM1NTAxYjdiMy5qcGc=",
+      "plot": "Perpetual adversaries SpongeBob and Plankton join forces and come ashore to battle a pirate who has plans for the stolen Krabby Patties recipe.",
+      "directors": [
+        "Paul Tibbitt",
+        "Mike Mitchell"
+      ]
+    },
+    {
+      "id": "planet_51",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Planet 51",
+      "original_title": "Planet 51",
+      "year": 2009,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 4.4,
+      "votes": 14231,
+      "tomatometer": 23,
+      "audience_score": 40,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/bSCfQ3hh_wmiZuvZsfp_AoS8rEA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p177954_p_v13_ao.jpg",
+      "plot": "When astronaut Capt. Charles \"Chuck\" Baker lands on Planet 51, he thinks he is the first life form to set foot there. He gets the surprise of his life when he learns that it is inhabited by little…",
+      "directors": [
+        "Jorge Blanco"
+      ]
+    },
+    {
+      "id": "10009462-g_force",
+      "category": "comedia",
+      "type": "movie",
+      "title": "G-Force",
+      "original_title": "G-Force",
+      "year": 2009,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Aventura",
+        "Comedia"
+      ],
+      "rating": 4.5,
+      "votes": 13783,
+      "tomatometer": 22,
+      "audience_score": 40,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/bOFGPwEkVwbv6WMUarx_UAevnfM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p193508_p_v10_aa.jpg",
+      "plot": "Armed with the latest high-tech spy gear, a guinea pig named Darwin (Sam Rockwell) and his team of specially trained rodents are often the last line of defense against chaos and destruction. But when…",
+      "directors": [
+        "Hoyt H. Yeatman Jr."
+      ]
+    },
+    {
+      "id": "how_to_train_your_dragon_2025",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "How to Train Your Dragon",
+      "original_title": "How to Train Your Dragon",
+      "year": 2025,
+      "genres": [
+        "Infantil y familiar",
+        "Fantasía",
+        "Aventura",
+        "Acción",
+        "Comedia"
+      ],
+      "rating": 6.8,
+      "votes": 13688,
+      "tomatometer": 78,
+      "audience_score": 97,
+      "runtime_minutes": 125,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/LKQFpdJU2vCDYNB4NE15bYW5KQo=/300x450/v2/https://resizing.flixster.com/idSqXXW1SHplGNnq6W67KnkK-_s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQyMWQ0OTJhLThkYjYtNDY0MS1hMDNhLTU4NDk3YWExMDllMy5qcGc=",
+      "plot": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup (Mason Thames; The Black Phone, For All Mankind) stands apart. The inventive yet overlooked son…",
+      "directors": [
+        "Dean DeBlois"
+      ]
+    },
+    {
+      "id": "the_boxtrolls",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "The Boxtrolls",
+      "original_title": "The Boxtrolls",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Comedia",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 7.1,
+      "votes": 13640,
+      "tomatometer": 78,
+      "audience_score": 63,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/it-QW4jHtWs-EdiTfe3bsVGff7U=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10550833_p_v10_ab.jpg",
+      "plot": "Eggs (Isaac Hempstead-Wright), an orphan, lives with the Boxtrolls -- a community of quirky, mischievous creatures who inhabit a cavern beneath the city of Cheesebridge. When villainous Archibald…",
+      "directors": [
+        "Anthony Stacchi",
+        "Graham Annable"
+      ]
+    },
+    {
+      "id": "the_spongebob_squarepants_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The SpongeBob SquarePants Movie",
+      "original_title": "The SpongeBob SquarePants Movie",
+      "year": 2004,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.3,
+      "votes": 13549,
+      "tomatometer": 68,
+      "audience_score": 79,
+      "runtime_minutes": 83,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/6r6QUTq4Oqa7psD4GqiAeB0sDRU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35120_p_v13_am.jpg",
+      "plot": "In this lively animated adventure, undersea oddball SpongeBob SquarePants and his starfish friend, Patrick, embark on a quest to clear the name of Mr. Krabs, the owner of the Krusty Krab restaurant,…",
+      "directors": [
+        "Stephen Hillenburg",
+        "Mark Osborne"
+      ]
+    },
+    {
+      "id": "moana_2",
+      "category": "musical",
+      "type": "movie",
+      "title": "Moana 2",
+      "original_title": "Moana 2",
+      "year": 2024,
+      "genres": [
+        "Infantil y familiar",
+        "Musical",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.0,
+      "votes": 13415,
+      "tomatometer": 61,
+      "audience_score": 85,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-rUYRdy2knniYYNyC8J_Im9zCIY=/300x450/v2/https://resizing.flixster.com/9GyaH806aRlZp6GPpz2Nq9ESqTs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxNzAxZmU3LWVlZmYtNDlmYS05YjcyLTQ5M2FmYjRlZDc5Ny5qcGc=",
+      "plot": "Walt Disney Animation Studios' epic animated musical \"Moana 2\" takes audiences on an expansive new voyage with Moana, Maui and a brand-new crew of unlikely seafarers. After receiving an unexpected…",
+      "directors": [
+        "David G. Derrick Jr.",
+        "Jason Hand"
+      ]
+    },
+    {
+      "id": "the_pirates_band_of_misfits",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Pirates! Band of Misfits",
+      "original_title": "The Pirates! Band of Misfits",
+      "year": 2012,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 7.3,
+      "votes": 13147,
+      "tomatometer": 87,
+      "audience_score": 60,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/kqWCpACRNwdAzwUz1GXSydTijYo=/300x450/v2/https://resizing.flixster.com/zvjCxinq8xGm7YjqSZML_gpynkY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJhMGViYWYzLTkxZDYtNGVjOC05YzVhLTJjZDZmNTI1M2M0Yi5qcGc=",
+      "plot": "Accompanied by his ragtag crew, an enthusiastic pirate captain (Hugh Grant) sails the high seas and dreams of besting his bitter rivals, Black Bellamy (Jeremy Piven) and Cutlass Liz (Salma Hayek), in…",
+      "directors": [
+        "Peter Lord"
+      ]
+    },
+    {
+      "id": "despicable_me_3",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Despicable Me 3",
+      "original_title": "Despicable Me 3",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.7,
+      "votes": 12901,
+      "tomatometer": 58,
+      "audience_score": 53,
+      "runtime_minutes": 90,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/HRBlQAgRjSl6gg76YZn-9sC3JtM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12009522_p_v8_ag.jpg",
+      "plot": "The mischievous Minions hope that Gru will return to a life of crime after the new boss of the Anti-Villain League fires him. Instead, Gru decides to remain retired and travel to Freedonia to meet…",
+      "directors": [
+        "Pierre Coffin",
+        "Kyle Balda"
+      ]
+    },
+    {
+      "id": "trolls",
+      "category": "musical",
+      "type": "movie",
+      "title": "Trolls",
+      "original_title": "Trolls",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Musical",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 6.3,
+      "votes": 12151,
+      "tomatometer": 76,
+      "audience_score": 67,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/XVB9nnduILSQ4hxiowVgnuSJFN4=/300x450/v2/https://resizing.flixster.com/1XyrClGc4ZgJEmI99Pphq2uz0x8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0YTI0NTc5LTQwYjMtNDQ0OC1hMDJlLThhYWRjZWFkMTExZC53ZWJw",
+      "plot": "After the Bergens invade Troll Village, Poppy (Anna Kendrick), the happiest Troll ever born, and the overly-cautious, curmudgeonly Branch (Justin Timberlake) set off on a journey to rescue her…",
+      "directors": [
+        "Mike Mitchell",
+        "Walt Dohrn"
+      ]
+    },
+    {
+      "id": "incredibles_2",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Incredibles 2",
+      "original_title": "Incredibles 2",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 7.9,
+      "votes": 12056,
+      "tomatometer": 93,
+      "audience_score": 84,
+      "runtime_minutes": 118,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/xH8lgw9YSd3p2AgufaSLhjj6Cqg=/300x450/v2/https://resizing.flixster.com/JM_pdN4TAfPp5l6KlDDC15hfaMQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdiZDJmN2M0LWNjYTQtNDIxMy1iNTQ3LTBjMTJkMjhlZWYwOS53ZWJw",
+      "plot": "Telecommunications guru Winston Deavor enlists Elastigirl to fight crime and make the public fall in love with superheroes once again. That leaves Mr. Incredible with one of his greatest challenges…",
+      "directors": [
+        "Brad Bird"
+      ]
+    },
+    {
+      "id": "the_emoji_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Emoji Movie",
+      "original_title": "The Emoji Movie",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 2.9,
+      "votes": 11659,
+      "tomatometer": 6,
+      "audience_score": 36,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/C7btkATlBnfxl1XRXqz-WXPK2oQ=/300x450/v2/https://resizing.flixster.com/87XVd0kcLN931duRsc9uQEJAW8Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlNzI3MTU2LTkwMmEtNGZmOS1iMWE1LWI4OThlMmRjYzBkZS53ZWJw",
+      "plot": "Hidden inside a smartphone, the bustling city of Textopolis is home to all emojis. Each emoji has only one facial expression, except for Gene, an exuberant emoji with multiple expressions. Determined…",
+      "directors": [
+        "Anthony Leondis"
+      ]
+    },
+    {
+      "id": "the_angry_birds_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Angry Birds Movie",
+      "original_title": "The Angry Birds Movie",
+      "year": null,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 5.0,
+      "votes": 11645,
+      "tomatometer": 44,
+      "audience_score": 47,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/CRY7XMyXiXbULAI9-DywRi5-ZOA=/300x450/v2/https://resizing.flixster.com/ek1oHv4JVEzXl13a2OOW19IVA4o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3NTkxOWRmLTQ1NjUtNDU3Yy1hZWFkLTMyOTUzYzNjYTRmZi5qcGc=",
+      "plot": "Flightless birds lead a mostly happy existence, except for Red (Jason Sudeikis), who just can't get past the daily annoyances of life. His temperament leads him to anger management class, where he…",
+      "directors": [
+        "Clay Kaytis",
+        "Fergal Reilly"
+      ]
+    },
+    {
+      "id": "dolittle",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Dolittle",
+      "original_title": "Dolittle",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Fantasía",
+        "Aventura",
+        "Comedia"
+      ],
+      "rating": 4.0,
+      "votes": 11547,
+      "tomatometer": 15,
+      "audience_score": 76,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/tYU4O0NAmqT1poXwQAzjQIP06tU=/300x450/v2/https://resizing.flixster.com/WF-POsMl8mGe_DPZGlZg5ehexh0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwMjk4MmZkLTljNzktNGU4Yi1hNjRjLTQ2NTRmMGUwMzVkMS53ZWJw",
+      "plot": "Dr. John Dolittle lives in solitude behind the high walls of his lush manor in 19th-century England. His only companionship comes from an array of exotic animals that he speaks to on a daily basis.…",
+      "directors": [
+        "Stephen Gaghan"
+      ]
+    },
+    {
+      "id": "the_boss_baby",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Boss Baby",
+      "original_title": "The Boss Baby",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.5,
+      "votes": 11189,
+      "tomatometer": 53,
+      "audience_score": 51,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/zxlPV5bDR_JiosLvJ1YSljF7CnE=/300x450/v2/https://resizing.flixster.com/zXDukKJ3xDGnzZ3JVoyr-u9uyYk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E3NGI4Yzk1LTZjZjYtNGE4NS04YjkxLWI0MTAyMzQxOTBlNS53ZWJw",
+      "plot": "A new baby's arrival impacts a family, told from the point of view of a delightfully unreliable narrator -- a wildly imaginative 7-year-old named Tim. The most unusual Boss Baby (Alec Baldwin)…",
+      "directors": [
+        "Tom McGrath"
+      ]
+    },
+    {
+      "id": "inside_out_2",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Inside Out 2",
+      "original_title": "Inside Out 2",
+      "year": 2024,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.6,
+      "votes": 10990,
+      "tomatometer": 91,
+      "audience_score": 94,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/7tXtmyDMRajqZ99CmN8Q40-wqMs=/300x450/v2/https://resizing.flixster.com/8yCWg9MRcT7LnnuHtqe1ACAyDHQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmZDY4MmFmLTE2ZGYtNDY1NS1iZmY5LWZmYjVjZjBkNTk3OC5qcGc=",
+      "plot": "The little voices inside Riley's head know her inside and out--but next summer, everything changes when Disney and Pixar's Inside Out 2 introduces a new Emotion: Anxiety.",
+      "directors": [
+        "Kelsey Mann"
+      ]
+    },
+    {
+      "id": "zootopia_2",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Zootopia 2",
+      "original_title": "Zootopia 2",
+      "year": 2025,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.5,
+      "votes": 10881,
+      "tomatometer": 92,
+      "audience_score": 95,
+      "runtime_minutes": 108,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/e06FW12u7uDGOyjiPnHiwPIGLhs=/300x450/v2/https://resizing.flixster.com/ejP1QFqjg856sCXVY901822t-Ag=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzZGQ0MDZjLWI3Y2QtNDA2MS1hNTdhLTUxZTgwZjM3ODRjMy5qcGc=",
+      "plot": "In Walt Disney Animation Studios' \"Zootopia 2,\" detectives Judy Hopps (voiced by Ginnifer Goodwin) and Nick Wilde (voiced by Jason Bateman) find themselves on the twisting trail of a mysterious…",
+      "directors": [
+        "Jared Bush",
+        "Byron Howard"
+      ]
+    },
+    {
+      "id": "escape_from_planet_earth_2013",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Escape From Planet Earth",
+      "original_title": "Escape From Planet Earth",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Ciencia ficción",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 4.7,
+      "votes": 10709,
+      "tomatometer": 35,
+      "audience_score": 54,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Bu08ZCQnKI2O6xOfIRc0PjBH5U0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9416734_p_v10_af.jpg",
+      "plot": "On the planet Baab, dashing astronaut Scorch Supernova is a national hero and master of daring rescues. However, Scorch does not work alone; his nerdy brother, Gary, head of mission control at BASA,…",
+      "directors": [
+        "Cal Brunker"
+      ]
+    },
+    {
+      "id": "minions_the_rise_of_gru",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Minions: The Rise of Gru",
+      "original_title": "Minions: The Rise of Gru",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.1,
+      "votes": 10585,
+      "tomatometer": 70,
+      "audience_score": 89,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-DTEJeEB3JLNPYAs4DzELK1rx8E=/300x450/v2/https://resizing.flixster.com/s2eQM6eCyFOAYE_jOckLuj7op84=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBkOGQzNDU5LWQ0YjgtNDczNi1hNmE1LWI1ZWFjY2QxZTNlYS5qcGc=",
+      "plot": "In the heart of the 1970s, amid a flurry of feathered hair and flared jeans, Gru (Oscar® nominee Steve Carell) is growing up in the suburbs. A fanboy of a supervillain supergroup known as the Vicious…",
+      "directors": [
+        "Kyle Balda"
+      ]
+    },
+    {
+      "id": "the_addams_family_2019",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Addams Family",
+      "original_title": "The Addams Family",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 5.4,
+      "votes": 10364,
+      "tomatometer": 46,
+      "audience_score": 70,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/vgRphsW_pwd0hLGc5p-wjNrZmjg=/300x450/v2/https://resizing.flixster.com/hMNlLcfqWEDehzLIXCboq6DlOuw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmNTcyYWM3LWEzOGUtNGYxMi04YmY1LWQ1YjExMmRmYzVmMS53ZWJw",
+      "plot": "Members of the mysterious and spooky Addams Family -- Gomez, Morticia, Pugsley, Wednesday, Uncle Fester and Grandma -- are readily preparing for a visit from their even creepier relatives. But…",
+      "directors": [
+        "Conrad Vernon",
+        "Greg Tiernan"
+      ]
+    },
+    {
+      "id": "toy_story_5",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Toy Story 5",
+      "original_title": "Toy Story 5",
+      "year": 2026,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.8,
+      "votes": 10271,
+      "tomatometer": 93,
+      "audience_score": 94,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/8uVGzlN53RqIZNmID1fPOucMvyw=/300x450/v2/https://resizing.flixster.com/mA3D_vy893aAyLJ9qFLLW4U6LIU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxNjlmZDVkLWU1YjEtNGU5Mi1hMDQwLWE0ZjNhYmNiMGFkZS5qcGc=",
+      "plot": "The toys are back in Disney and Pixar's \"Toy Story 5,\" and this time it's Toy meets Tech. Woody (voice of Tom Hanks), Buzz Lightyear (voice of Tim Allen), Jessie (voice of Joan Cusack) and the rest…",
+      "directors": [
+        "Andrew Stanton"
+      ]
+    },
+    {
+      "id": "diary_of_a_wimpy_kid_dog_days",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Diary of a Wimpy Kid: Dog Days",
+      "original_title": "Diary of a Wimpy Kid: Dog Days",
+      "year": 2012,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia"
+      ],
+      "rating": 5.5,
+      "votes": 9808,
+      "tomatometer": 52,
+      "audience_score": 63,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/fmB_LU1YQ04jvUUGwogc6m9gR0U=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9047877_p_v10_ao.jpg",
+      "plot": "It's summer, and Greg Heffley (Zachary Gordon) is looking forward to playing video games and spending time with his friends. However, Greg's dad (Steve Zahn) has other plans: He's decided that some…",
+      "directors": [
+        "David Bowers"
+      ]
+    },
+    {
+      "id": "the_nut_job",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Nut Job",
+      "original_title": "The Nut Job",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 4.0,
+      "votes": 9643,
+      "tomatometer": 12,
+      "audience_score": 43,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/3sNwfQXPpQJH0VbdoUgmnBgB4e0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10092840_p_v8_as.jpg",
+      "plot": "After he accidentally destroys the winter food supply of his fellow Liberty Park residents, Surly (Will Arnett), a squirrel, is banished to the streets of Oakton. Luckily, Surly finds the town's nut…",
+      "directors": [
+        "Peter Lepeniotis"
+      ]
+    },
+    {
+      "id": "free_birds_2013",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Free Birds",
+      "original_title": "Free Birds",
+      "year": 2013,
+      "genres": [
+        "Infantil y familiar",
+        "Navidad",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 4.3,
+      "votes": 9442,
+      "tomatometer": 20,
+      "audience_score": 45,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Di8XWHRVlHe6KyVMKvd-wa3Xt80=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9991381_p_v10_as.jpg",
+      "plot": "Pardoned by the president, a lucky turkey (Owen Wilson) named Reggie gets to live a carefree lifestyle, until fellow fowl Jake (Woody Harrelson) recruits him for a history-changing mission. Jake and…",
+      "directors": [
+        "Jimmy Hayward"
+      ]
+    },
+    {
+      "id": "soul",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Soul",
+      "original_title": "Soul",
+      "year": 2024,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 8.3,
+      "votes": 9070,
+      "tomatometer": 95,
+      "audience_score": 88,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/KKYmYCF3058p-pBDQWahDNAHnIo=/300x450/v2/https://resizing.flixster.com/SBTbRQqKOkfq6OhWzaelZYRDxAM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIwNGIzNWFjLTdlZTEtNGM1Yy05YzY5LTUyZDI2NjRlZWZjNy5qcGc=",
+      "plot": "Joe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz -- and he's good. But when he travels to another realm to help someone find their…",
+      "directors": [
+        "Pete Docter"
+      ]
+    },
+    {
+      "id": "sonic_the_hedgehog_2",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Sonic the Hedgehog 2",
+      "original_title": "Sonic the Hedgehog 2",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.0,
+      "votes": 8837,
+      "tomatometer": 69,
+      "audience_score": 96,
+      "runtime_minutes": 122,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/XSc8tvBXTLbQveaiQv1DK1sN-PE=/300x450/v2/https://resizing.flixster.com/dq7hFLpnFjRYdWgFdiroNlHHNEE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzYTU4ZWM3LTg0ZWEtNGRjZC04MjEzLWI3NGRlZjkxZGU2OC5qcGc=",
+      "plot": "The world's favorite blue hedgehog is back for a next-level adventure in SONIC THE HEDGEHOG 2. After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test…",
+      "directors": [
+        "Jeff Fowler"
+      ]
+    },
+    {
+      "id": "onward",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Onward",
+      "original_title": "Onward",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 7.2,
+      "votes": 8639,
+      "tomatometer": 88,
+      "audience_score": 95,
+      "runtime_minutes": 103,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/EizUOstU4msDk_9uOqi9xlpDYfY=/300x450/v2/https://resizing.flixster.com/XYad4MRV9lp0xIZA7-cA8iqbcxg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4NjlkOTJjLTZlM2EtNDdhMi1hNDIzLTEwYmU2NDY1MjEyOC53ZWJw",
+      "plot": "Teenage elf brothers Ian and Barley embark on a magical quest to spend one more day with their late father. Like any good adventure, their journey is filled with cryptic maps, impossible obstacles…",
+      "directors": [
+        "Dan Scanlon"
+      ]
+    },
+    {
+      "id": "how_to_train_your_dragon_the_hidden_world",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "original_title": "How to Train Your Dragon: The Hidden World",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Fantasía",
+        "Aventura",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 7.3,
+      "votes": 8447,
+      "tomatometer": 90,
+      "audience_score": 87,
+      "runtime_minutes": 104,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Dc_BUsNvBFsUsnU76egYYBXAcpg=/300x450/v2/https://resizing.flixster.com/vs4NrXMCUz5F1XVLsisv9N5u1Hc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U3YmIxNWJiLTc0YjEtNGU5ZS04YzQ0LWFiZmY3MDk1OTU3My53ZWJw",
+      "plot": "When the sudden appearance of a female Light Fury coincides with the darkest threat their village has ever faced, Hiccup and Toothless must journey to a hidden world thought only to exist in myth.…",
+      "directors": [
+        "Dean DeBlois"
+      ]
+    },
+    {
+      "id": "spies_in_disguise",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Spies in Disguise",
+      "original_title": "Spies in Disguise",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 6.5,
+      "votes": 8331,
+      "tomatometer": 76,
+      "audience_score": 92,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/A2qUt9aq_dWZmIspnkYKSDlACj8=/300x450/v2/https://resizing.flixster.com/1VW0qOF1n44Vz3YlYKcTSD2wnAg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VmNjhhNzU3LTNiNzAtNDQ2MS04Zjc2LWYyNTI0NDhlODUxOC53ZWJw",
+      "plot": "Super spy Lance Sterling and scientist Walter Beckett are almost exact opposites. Lance is smooth, suave and debonair. Walter is not. But what Walter lacks in social skills he makes up for in smarts…",
+      "directors": [
+        "Troy Quane",
+        "Nick Bruno"
+      ]
+    },
+    {
+      "id": "abominable",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Abominable",
+      "original_title": "Abominable",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.8,
+      "votes": 7953,
+      "tomatometer": 83,
+      "audience_score": 95,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/qM9N4b3i2IGjzTN04tbppPlmO7c=/300x450/v2/https://resizing.flixster.com/g7KcQhkaVVORs0lnixa-bzsEKDU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M2NzQzNTEwLWU3ZjItNDU3Mi1iMzgxLWRmOGFiYzlkZTdkYS53ZWJw",
+      "plot": "After discovering a Yeti on the roof of her apartment building, teenage Yi and her two friends embark on an epic quest to reunite the magical creature with his family. But to do so, they must stay…",
+      "directors": [
+        "Jill Culton"
+      ]
+    },
+    {
+      "id": "10008587-beverly_hills_chihuahua",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Beverly Hills Chihuahua",
+      "original_title": "Beverly Hills Chihuahua",
+      "year": 2008,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 5.0,
+      "votes": 7710,
+      "tomatometer": 41,
+      "audience_score": 51,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/wsGQcvYBAXkbnRnN7wguhm9iS2w=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176347_p_v8_af.jpg",
+      "plot": "Chloe, a pampered Chihuahua from Beverly Hills, gets an unwelcome taste of the real world when she gets lost in a tough part of Mexico. With no Rodeo Drive boutiques in sight, she is out of her…",
+      "directors": [
+        "Raja Gosnell"
+      ]
+    },
+    {
+      "id": "cruella",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Cruella",
+      "original_title": "Cruella",
+      "year": 2021,
+      "genres": [
+        "Comedia",
+        "Infantil y familiar"
+      ],
+      "rating": 6.8,
+      "votes": 7615,
+      "tomatometer": 75,
+      "audience_score": 97,
+      "runtime_minutes": 134,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/_aU2o_Agzn9OqfdeeBaVcaDqufM=/300x450/v2/https://resizing.flixster.com/L5tjs0bVtGpKdk2A-J1ChXWKLRQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViZTM1ZTM1LWZhODAtNDFhMS05MjM4LTQ2MWM1NWRmMzU4Ny5qcGc=",
+      "plot": "Academy Award (R) winner Emma Stone (\"La La Land\") stars in Disney's \"Cruella,\" an all-new live-action feature film about the rebellious early days of one of cinemas most notorious - and notoriously…",
+      "directors": [
+        "Craig Gillespie"
+      ]
+    },
+    {
+      "id": "storks",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Storks",
+      "original_title": "Storks",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.1,
+      "votes": 7331,
+      "tomatometer": 65,
+      "audience_score": 62,
+      "runtime_minutes": 83,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/H40mcn8--KbA5JRWSaHe3lfDpaA=/300x450/v2/https://resizing.flixster.com/SPy_oxe22cDrigJb975bPpEkl7Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA4ZjU4NTY3LTRhYTUtNDUyYi04NTlhLTQ0MjRiZWQyNzAxMy53ZWJw",
+      "plot": "Storks deliver babies -- or at least they used to. Now, they deliver packages for a global internet retail giant. Junior (Andy Samberg), the company's top delivery stork, lands in hot water when the…",
+      "directors": [
+        "Nicholas Stoller",
+        "Doug Sweetland"
+      ]
+    },
+    {
+      "id": "diary_of_a_wimpy_kid_2_rodrick_rules",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Diary of a Wimpy Kid: Rodrick Rules",
+      "original_title": "Diary of a Wimpy Kid: Rodrick Rules",
+      "year": 2011,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia"
+      ],
+      "rating": 5.5,
+      "votes": 7069,
+      "tomatometer": 48,
+      "audience_score": 62,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/z5hStDZY-MXZo9P2Uk4blAXKRHM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8395384_p_v10_ah.jpg",
+      "plot": "Wimpy Greg Heffley (Zachary Gordon), now in seventh grade, thinks he has it all together. He has mastered middle school and gotten rid of the Cheese Touch. However, Greg's older brother, Rodrick…",
+      "directors": [
+        "David Bowers"
+      ]
+    },
+    {
+      "id": "shaun_the_sheep_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Shaun the Sheep Movie",
+      "original_title": "Shaun the Sheep Movie",
+      "year": 2015,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 8.0,
+      "votes": 7023,
+      "tomatometer": 99,
+      "audience_score": 81,
+      "runtime_minutes": 85,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/XhARQv5gcXRSaimw-7GL9A2esWY=/300x450/v2/https://resizing.flixster.com/1BfO5DK-8HcCTDtQKf_KY9XkErk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1Njg2YmRmLTg2NDMtNDU3Ni05ZDQwLTU4YTZlZWE1NTAyNC53ZWJw",
+      "plot": "All is well at Mossy Bottom Farm, except for the fact that the animals will do anything to get out of work. So, Shaun the sheep and his scheming friends devise a plan to put their master to sleep.…",
+      "directors": [
+        "Mark Burton",
+        "Richard Starzak"
+      ]
+    },
+    {
+      "id": "ralph_breaks_the_internet",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Ralph Breaks the Internet",
+      "original_title": "Ralph Breaks the Internet",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.3,
+      "votes": 6804,
+      "tomatometer": 88,
+      "audience_score": 64,
+      "runtime_minutes": 112,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-epPiusY2RBJz7NY28yq-SovFp4=/300x450/v2/https://resizing.flixster.com/7qMcr3aH_5B7qGFRHSs1W6GsZNM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRmMWQ0OTA1LTYzZjUtNGU2My1hM2ZjLTFkNzg4NzY0OGI1Zi53ZWJw",
+      "plot": "Video game bad guy Ralph and fellow misfit Vanellope von Schweetz must risk it all by traveling to the World Wide Web in search of a replacement part to save Vanellope's video game, \"Sugar Rush.\" In…",
+      "directors": [
+        "Phil Johnston",
+        "Rich Moore"
+      ]
+    },
+    {
+      "id": "dora_and_the_lost_city_of_gold",
+      "category": "misterio-y-suspense",
+      "type": "movie",
+      "title": "Dora and the Lost City of Gold",
+      "original_title": "Dora and the Lost City of Gold",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Misterio y suspense",
+        "Comedia"
+      ],
+      "rating": 6.6,
+      "votes": 6728,
+      "tomatometer": 85,
+      "audience_score": 88,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Y5loxwaOUmKUBeyT6CX2Gy3RYy0=/300x450/v2/https://resizing.flixster.com/G4zwBIW6pUch6-BY8rsM6T_PHGs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZkNThmODA4LWVmMWQtNDY3Yi04YWNlLTEwYzY3YTA4MTJhZi53ZWJw",
+      "plot": "Having spent most of her life exploring the jungle, nothing could prepare Dora for her most dangerous adventure yet -- high school. Accompanied by a ragtag group of teens and Boots the monkey, Dora…",
+      "directors": [
+        "James Bobin"
+      ]
+    },
     {
       "id": "hoppers",
       "category": "animacion",
@@ -18,12 +2512,343 @@
       ],
       "rating": 7.7,
       "votes": 6471,
+      "tomatometer": 94,
+      "audience_score": 93,
       "runtime_minutes": 104,
       "certificate": "PG",
       "poster": "https://resizing.flixster.com/6xp-koaZAI6Gf59vM6Cz3Sza_xs=/300x450/v2/https://resizing.flixster.com/bwWq8XLRwb_i2OuzPIq0JwPPyw8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzNjM1M2U4LWVmODYtNGM4Mi1iYzJmLTNkZWU0MjkxZTU0Yi5qcGc=",
       "plot": "What if you could talk to animals and understand what they're saying? In Disney and Pixar's all-new feature film \"Hoppers,\" scientists have discovered how to \"hop\" human consciousness into lifelike…",
       "directors": [
         "Daniel Chong"
+      ]
+    },
+    {
+      "id": "despicable_me_4",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Despicable Me 4",
+      "original_title": "Despicable Me 4",
+      "year": 2024,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.6,
+      "votes": 5911,
+      "tomatometer": 56,
+      "audience_score": 86,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/huZe9JijtqgLpWaWrm_eYLc37pg=/300x450/v2/https://resizing.flixster.com/vH3pXN9NjNObggCELzxEkFZfmM8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyNmZhYmFmLWFkN2EtNDViMC1iM2U4LWM4YjUzMjcyMDNiNC5qcGc=",
+      "plot": "In the first Despicable Me movie in seven years, Gru, the world's favorite supervillain-turned-Anti-Villain League-agent, returns for an exciting, bold new era of Minions mayhem in Illumination's…",
+      "directors": [
+        "Chris Renaud"
+      ]
+    },
+    {
+      "id": "paddington_2",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Paddington 2",
+      "original_title": "Paddington 2",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 8.7,
+      "votes": 5899,
+      "tomatometer": 99,
+      "audience_score": 89,
+      "runtime_minutes": 103,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/8oStH9FkUyDCYdPTYMJkMWMLR2I=/300x450/v2/https://resizing.flixster.com/1l_rXfHyLUksq7XKG6MzNT7RXcg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJjOTcwNzBhLTZhOGMtNGQ2Yy05MWY1LTM1MDFhMDk3YzNlMy53ZWJw",
+      "plot": "Settled in with the Brown family, Paddington the bear is a popular member of the community who spreads joy and marmalade wherever he goes. One fine day, he spots a pop-up book in an antique shop, the…",
+      "directors": [
+        "Paul King"
+      ]
+    },
+    {
+      "id": "planes_fire_and_rescue",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Planes: Fire & Rescue",
+      "original_title": "Planes: Fire & Rescue",
+      "year": 2014,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.2,
+      "votes": 5602,
+      "tomatometer": 44,
+      "audience_score": 56,
+      "runtime_minutes": 83,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-urluTGQRPzQrR5Tx7DlQBou9gY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10454445_p_v10_ay.jpg",
+      "plot": "Dusty, the famous racing airplane, learns that his engine is damaged, so he must shift gears and find a new career. He joins an elite corps of firefighting aircraft devoted to protecting historic…",
+      "directors": [
+        "Bobs Gannaway"
+      ]
+    },
+    {
+      "id": "lightyear",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Lightyear",
+      "original_title": "Lightyear",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Ciencia ficción",
+        "Animación",
+        "Acción"
+      ],
+      "rating": 6.7,
+      "votes": 5408,
+      "tomatometer": 74,
+      "audience_score": 84,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/AlR3Fg6D2piUz9OMNsGCu8JddTU=/300x450/v2/https://resizing.flixster.com/237vh0it1m-T5ZYWLOWtwM5x02E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRkODY5ODJkLTIxY2QtNGI3Yy1iYmVhLTdmNmZiZmI1OTVjNC5qcGc=",
+      "plot": "Legendary space ranger Buzz Lightyear embarks on an intergalactic adventure alongside ambitious recruits Izzy, Mo, Darby, and his robot companion, Sox. As this motley crew tackles their toughest…",
+      "directors": [
+        "Angus MacLane"
+      ]
+    },
+    {
+      "id": "ice_age_collision_course",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Ice Age: Collision Course",
+      "original_title": "Ice Age: Collision Course",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 4.1,
+      "votes": 5391,
+      "tomatometer": 18,
+      "audience_score": 38,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/w7jNdjmt8jtrQq0-R3UiTjZS7L8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12009493_p_v10_aw.jpg",
+      "plot": "Manny the mammoth starts to worry when his daughter Peaches announces her engagement. Still unlucky in love, Sid the sloth volunteers to plan the couple's wedding. To Manny's dismay, nothing can stop…",
+      "directors": [
+        "Mike Thurmeier"
+      ]
+    },
+    {
+      "id": "captain_underpants_the_first_epic_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Captain Underpants: The First Epic Movie",
+      "original_title": "Captain Underpants: The First Epic Movie",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.0,
+      "votes": 5354,
+      "tomatometer": 87,
+      "audience_score": 63,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/OMdWJ8Ibt8n1lhDKKogMoF5dnn4=/300x450/v2/https://resizing.flixster.com/hJC1uENhPVCmKhs7GpHwjcYXBG0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NiZWNhYWZhLTEzNzMtNGEyNS04ZWE2LWYxYWJlNjVlN2QyZS53ZWJw",
+      "plot": "George Beard and Harold Hutchins are two overly imaginative pranksters who spend hours in a treehouse creating comic books. When their mean principal threatens to separate them into different…",
+      "directors": [
+        "David Soren"
+      ]
+    },
+    {
+      "id": "the_lego_movie_2_the_second_part",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The LEGO Movie 2: The Second Part",
+      "original_title": "The LEGO Movie 2: The Second Part",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 7.0,
+      "votes": 5322,
+      "tomatometer": 84,
+      "audience_score": 67,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/h_SxYPztI1ScaY8Q1nYXx0S6IQU=/300x450/v2/https://resizing.flixster.com/aohXuFjN1nIN1WWuFDI6NKE20IY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmOTE3MzA1LThkOTItNDQ4NC1iODJiLWNkOTg3NWNlY2NlMy53ZWJw",
+      "plot": "The citizens of Bricksburg face a dangerous new threat when LEGO DUPLO invaders from outer space start to wreck everything in their path. The battle to defeat the enemy and restore harmony to the…",
+      "directors": [
+        "Mike Mitchell"
+      ]
+    },
+    {
+      "id": "puss_in_boots_the_last_wish",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Puss in Boots: The Last Wish",
+      "original_title": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.6,
+      "votes": 5234,
+      "tomatometer": 95,
+      "audience_score": 94,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/1xFalCCRDI0K8zKnQbnEo9V9waM=/300x450/v2/https://resizing.flixster.com/vtIcjOYiM-QBXQyXhTFFgQoRkDw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmNjM3ZTc2LTk5ZmMtNGJhNy04MDAzLWI3M2IxNmExNDNkYi5qcGc=",
+      "plot": "This fall, everyone's favorite leche-loving, swashbuckling, fear-defying feline returns. For the first time in more than a decade, DreamWorks Animation presents a new adventure in the Shrek universe…",
+      "directors": [
+        "Joel Crawford"
+      ]
+    },
+    {
+      "id": "mars_needs_moms",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Mars Needs Moms",
+      "original_title": "Mars Needs Moms",
+      "year": 2011,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Ciencia ficción",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 4.9,
+      "votes": 4852,
+      "tomatometer": 34,
+      "audience_score": 40,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/YQ2f5GF-PHpyXVpY8uhw5c2zPbw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8329439_p_v8_ae.jpg",
+      "plot": "Milo is a 9-year-old boy who has a lot on his mind; he has monster movies to watch, comic books to read and all other kinds of fun stuff to accomplish. He definitely does not have time to do homework…",
+      "directors": [
+        "Simon Wells"
+      ]
+    },
+    {
+      "id": "the_grinch",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Dr. Seuss' The Grinch",
+      "original_title": "Dr. Seuss' The Grinch",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Navidad",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.0,
+      "votes": 4501,
+      "tomatometer": 60,
+      "audience_score": 54,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/aAUcCVrENRJSjdEdB5W0JQsWzU0=/300x450/v2/https://resizing.flixster.com/d2rkbjgvV9kUwMALTR9SdH5Y3Dk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhY2I4Mjg3LWQ3NGUtNDk1NC1hNjNjLTg2ZDFmYTExOGM0Yy53ZWJw",
+      "plot": "The Grinch and his loyal dog, Max, live a solitary existence inside a cave on Mount Crumpet. His main source of aggravation comes during Christmastime when his neighbors in Whoville celebrate the…",
+      "directors": [
+        "Scott Mosier",
+        "Yarrow Cheney"
+      ]
+    },
+    {
+      "id": "alvin_and_the_chipmunks_the_road_chip",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Alvin and the Chipmunks: The Road Chip",
+      "original_title": "Alvin and the Chipmunks: The Road Chip",
+      "year": 2015,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 3.7,
+      "votes": 4498,
+      "tomatometer": 16,
+      "audience_score": 51,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Zg-o1wAeKneBiHzgoDL43otlADM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11823578_p_v10_ac.jpg",
+      "plot": "Music manager Dave is not only enjoying a burgeoning career, but a blossoming romance with Samantha, a beautiful doctor who works in the emergency room. Through a series of misunderstandings, the…",
+      "directors": [
+        "Walt Becker"
+      ]
+    },
+    {
+      "id": "christopher_robin",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Christopher Robin",
+      "original_title": "Christopher Robin",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía"
+      ],
+      "rating": 6.2,
+      "votes": 4148,
+      "tomatometer": 73,
+      "audience_score": 83,
+      "runtime_minutes": 104,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/paxLYDC_W-b0KD8gzAwQeYZYx88=/300x450/v2/https://resizing.flixster.com/odHzkgYFwveLNf6rPxEmuvUx4lU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzZWMwMTVkLTI1YzUtNDllYy1iY2QxLWNmMWUzZTE1Y2I4Zi53ZWJw",
+      "plot": "Christopher Robin -- now a family man living in London -- receives a surprise visit from his old childhood pal, Winnie-the-Pooh. With Christopher's help, Pooh embarks on a journey to find his friends…",
+      "directors": [
+        "Marc Forster"
+      ]
+    },
+    {
+      "id": "the_angry_birds_movie_2",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Angry Birds Movie 2",
+      "original_title": "The Angry Birds Movie 2",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.7,
+      "votes": 4031,
+      "tomatometer": 72,
+      "audience_score": 84,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/3nmzduSgJJ9HJ0XJUiUuUnJ-P-g=/300x450/v2/https://resizing.flixster.com/l7C9Zq82bQMtkKU3luUeGFHcGKI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiMmM1YTlmLThkZDctNDliYS05YWM1LWQ4MDE5Mjk0ZWU2Yy53ZWJw",
+      "plot": "Red, Chuck, Bomb and the rest of their feathered friends are surprised when a green pig suggests that they put aside their differences and unite to fight a common threat. Aggressive birds from an…",
+      "directors": [
+        "Thurop Van Orman"
       ]
     },
     {
@@ -41,12 +2866,253 @@
       ],
       "rating": 7.5,
       "votes": 3835,
+      "tomatometer": 95,
+      "audience_score": 96,
       "runtime_minutes": 109,
       "certificate": "PG",
       "poster": "https://resizing.flixster.com/VAohFKJpXUe6S22j9sWCrN8Li8s=/300x450/v2/https://resizing.flixster.com/LviGdc9-5BykrMyhX1oGyU-HhXE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzNjA4ZWQ1LTE1M2UtNGI2Mi05NTJlLWM0ZTg2NWM5ODJhNC5qcGc=",
       "plot": "In this witty, new breed of mystery, George (Hugh Jackman) is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious…",
       "directors": [
         "Kyle Balda"
+      ]
+    },
+    {
+      "id": "elio",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Elio",
+      "original_title": "Elio",
+      "year": 2025,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 6.9,
+      "votes": 3588,
+      "tomatometer": 83,
+      "audience_score": 89,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/KjcL8T7ub7YU3q887Rrpl7QxaJE=/300x450/v2/https://resizing.flixster.com/SptwUY0qE9WQGmhLyCVw0gGXvI0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlMTc3ZGEwLTJiNDAtNDljYy1hMTA5LWVmZWU5MWQ5YmY2Ni5qcGc=",
+      "plot": "For centuries, people have called out to the universe looking for answers--in Disney and Pixar's all-new feature film \"Elio,\" the universe calls back! The cosmic misadventure introduces Elio, a space…",
+      "directors": [
+        "Madeline Sharafian",
+        "Domee Shi"
+      ]
+    },
+    {
+      "id": "the_lego_ninjago_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The LEGO NINJAGO Movie",
+      "original_title": "The LEGO NINJAGO Movie",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 5.8,
+      "votes": 3563,
+      "tomatometer": 56,
+      "audience_score": 47,
+      "runtime_minutes": 101,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Vj161Ens10Q7JsjAkz9NYLPXbyY=/300x450/v2/https://resizing.flixster.com/C0HFseInJcsEZ5fXbejCJd-zghQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2OTNhMWEzLTdiZDQtNDNhMi04MWY1LTI2M2RlNmMxNzUwMS53ZWJw",
+      "plot": "The battle for NINJAGO City calls to action young Master Builder Lloyd, aka the Green Ninja, along with his friends, also secret ninja warriors. Led by Master Wu, as wise-cracking as he is wise, they…",
+      "directors": [
+        "Charlie Bean",
+        "Paul Fisher"
+      ]
+    },
+    {
+      "id": "the_bad_guys_2022",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Bad Guys",
+      "original_title": "The Bad Guys",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 6.9,
+      "votes": 3376,
+      "tomatometer": 87,
+      "audience_score": 93,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/k4obR-3B-hhvucMu-vkFqj2rj_s=/300x450/v2/https://resizing.flixster.com/Dw7hfsGQ7u_MtAZ0Vl2OlB1W6iU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwNTg1NTQ0LWQ2NzMtNDI5NS1hNDIwLWVhNTMyYjRkNTczMS5qcGc=",
+      "plot": "In the new action comedy from DreamWorks Animation, based on the New York Times best-selling book series, a crackerjack criminal crew of animal outlaws are about to attempt their most challenging con…",
+      "directors": [
+        "Pierre Perifel"
+      ]
+    },
+    {
+      "id": "teenage_mutant_ninja_turtles_mutant_mayhem",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "original_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.6,
+      "votes": 3262,
+      "tomatometer": 95,
+      "audience_score": 90,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/blYK28GNqgN8Id6Mj9ViYqM4sE8=/300x450/v2/https://resizing.flixster.com/IXDTZRqseLxH9CVg8wuApMgEJpc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzljYWQwYmM5LWVlMjgtNDQ5OC1iM2ViLTg4Y2MxM2U0YWFmZS5qcGc=",
+      "plot": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers. Their new friend, April O'Neil, helps them take…",
+      "directors": [
+        "Jeff Rowe"
+      ]
+    },
+    {
+      "id": "the_mitchells_vs_the_machines",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "The Mitchells vs. the Machines",
+      "original_title": "The Mitchells vs. the Machines",
+      "year": 2021,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación",
+        "Acción",
+        "Ciencia ficción"
+      ],
+      "rating": 8.2,
+      "votes": 3226,
+      "tomatometer": 97,
+      "audience_score": 90,
+      "runtime_minutes": 114,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/0MvaZqKoeW7cT03mERRwnDt_o_c=/300x450/v2/https://resizing.flixster.com/YrGGJbIAOZb8LPZTf-68G6_BDlA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA0NGQ5MTg2LTc0ODgtNDEwNC1hNjI5LTY1N2ZlMWQ4ZTUyOS5qcGc=",
+      "plot": "Young Katie Mitchell embarks on a road trip with her proud parents, younger brother and beloved dog to start her first year at film school. But their plans to bond as a family soon get interrupted…",
+      "directors": [
+        "Michael Rianda"
+      ]
+    },
+    {
+      "id": "dc_league_of_super_pets",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "DC League of Super-Pets",
+      "original_title": "DC League of Super-Pets",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Crimen",
+        "Drama",
+        "Fantasía",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 6.3,
+      "votes": 3214,
+      "tomatometer": 72,
+      "audience_score": 87,
+      "runtime_minutes": 106,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/_DyPK5C6jWdrxnT1khoOfhYr6cI=/300x450/v2/https://resizing.flixster.com/QVLNsMuiMjENvBgmsfoV0rTV-Wk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3NzMyMDU0LWNlZWUtNDJkYy1iMmNmLTMzNjY1MTEyY2E2ZS5qcGc=",
+      "plot": "In \"DC League of Super-Pets,\" Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime in Metropolis side by side. When Superman and the rest of…",
+      "directors": [
+        "Jared Stern"
+      ]
+    },
+    {
+      "id": "smurfs_the_lost_village",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Smurfs: The Lost Village",
+      "original_title": "Smurfs: The Lost Village",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 4.8,
+      "votes": 3195,
+      "tomatometer": 41,
+      "audience_score": 54,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/J2V5lmy1xY10teW2-1hEW7b12A8=/300x450/v2/https://resizing.flixster.com/C_TGekjjtZyB92D0Phupcvcf218=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxNzdmZTNiLTYxMDktNDBjZi1iNzM5LTMyMjJmYzNiMWIyZS53ZWJw",
+      "plot": "Best friends Smurfette (Demi Lovato), Brainy (Danny Pudi), Clumsy (Jack McBrayer) and Hefty (Joe Manganiello) use a special map that guides them through the Forbidden Forest, an enchanted wonderland…",
+      "directors": [
+        "Kelly Asbury"
+      ]
+    },
+    {
+      "id": "dog_man",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Dog Man",
+      "original_title": "Dog Man",
+      "year": 2025,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.7,
+      "votes": 2932,
+      "tomatometer": 82,
+      "audience_score": 81,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/m9uTvHhEmsloiKCOh_8H362soAI=/300x450/v2/https://resizing.flixster.com/HPdK25sm6ORpv8lKoGQhenwqpNI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwMjdlMTNkLTkzYzEtNDFjYy05NzU1LTEyZWRlYzExMDBjYy5qcGc=",
+      "plot": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is…",
+      "directors": [
+        "Peter Hastings"
+      ]
+    },
+    {
+      "id": "the_bad_guys_2",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Bad Guys 2",
+      "original_title": "The Bad Guys 2",
+      "year": 2025,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.8,
+      "votes": 2847,
+      "tomatometer": 88,
+      "audience_score": 94,
+      "runtime_minutes": 104,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/_NPEp8g6s4ge1nKm8C0vRnLSdvU=/300x450/v2/https://resizing.flixster.com/VDxti2yXL-Hf_PeMNNV0lFgSOHU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1YmI2YWE5LTI3NTMtNGUyZC04MjJhLWI4ZjQ0NzE4N2E1OC5qcGc=",
+      "plot": "Everyone's favorite felons are back, and this time, they've got company. In the new action-packed chapter from DreamWorks Animation's acclaimed comedy smash about a crackerjack crew of animal…",
+      "directors": [
+        "Pierre Perifel",
+        "JP Sans"
       ]
     },
     {
@@ -64,12 +3130,1618 @@
       ],
       "rating": 6.9,
       "votes": 2813,
+      "tomatometer": 89,
+      "audience_score": 75,
       "runtime_minutes": 90,
       "certificate": "PG",
       "poster": "https://resizing.flixster.com/lvVMYt3wsmYZpIrkZkGDGlBlApo=/300x450/v2/https://resizing.flixster.com/1gyu0k41JOFVHiGEh8aA1Pw7X14=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0ZTNhMGQwLWEwN2QtNDIxNS05ZTNmLTEzMGM1YmM0ZmYyNC5qcGc=",
       "plot": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to…",
       "directors": [
         "Pierre Coffin"
+      ]
+    },
+    {
+      "id": "migration_2023",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Migration",
+      "original_title": "Migration",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.3,
+      "votes": 2661,
+      "tomatometer": 73,
+      "audience_score": 87,
+      "runtime_minutes": 83,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Z_k3-VZCCpTgt2vprsBFQ1QAE2I=/300x450/v2/https://resizing.flixster.com/4zVIr5NBi4eFPiXCc-fh1vi6tcM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EwN2M1YTY2LTRhYTMtNGMwYS1hODZmLTdlZjY2ZDkxMjczYS5qcGc=",
+      "plot": "This holiday season, Illumination, creators of the blockbuster Minions, Despicable Me, Sing and The Secret Life of Pets comedies, invites you to take flight into the thrill of the unknown with a…",
+      "directors": [
+        "Benjamin Renner"
+      ]
+    },
+    {
+      "id": "kung_fu_panda_4",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Kung Fu Panda 4",
+      "original_title": "Kung Fu Panda 4",
+      "year": 2024,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación",
+        "Acción"
+      ],
+      "rating": 6.1,
+      "votes": 2585,
+      "tomatometer": 71,
+      "audience_score": 84,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/K_W2eDFhrj1IRkVZrmtPImBMKFo=/300x450/v2/https://resizing.flixster.com/gbUUcDTtnjLFPRoTQtyPB5nW4OE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3ZDdmYjllLTNkZDItNDJiOC1hMGZkLWVkMTdmMDg1YzViYy5qcGc=",
+      "plot": "After three death-defying adventures defeating world-class villains with his unmatched courage and mad martial arts skills, Po, the Dragon Warrior (Golden Globe nominee Jack Black), is called upon by…",
+      "directors": [
+        "Mike Mitchell"
+      ]
+    },
+    {
+      "id": "teen_titans_go_to_the_movies",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Teen Titans GO! to the Movies",
+      "original_title": "Teen Titans GO! to the Movies",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 7.3,
+      "votes": 2298,
+      "tomatometer": 92,
+      "audience_score": 72,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Hzh8DlJQlxM5CxDJndD-pP8r3eA=/300x450/v2/https://resizing.flixster.com/h1nSJCTHqDY-im5mbJnHSHcpECM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg1ZTY5MjA1LWFiNmMtNGE1ZC1iYWRmLTE0ODVlNGYzODg3NC53ZWJw",
+      "plot": "It seems that all the major superheroes out there are starring in their own movies -- all but the Teen Titans. Robin is bound and determined to remedy that situation by becoming a star instead of a…",
+      "directors": [
+        "Peter Rida Michail",
+        "Aaron Horvath"
+      ]
+    },
+    {
+      "id": "hoot",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Hoot",
+      "original_title": "Hoot",
+      "year": 2006,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 5.0,
+      "votes": 2278,
+      "tomatometer": 26,
+      "audience_score": 54,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/NV9wGTYYnpD6pOmgyQuEA2npDPs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159772_p_v10_ad.jpg",
+      "plot": "Roy Eberhardt (Logan Lerman) has moved so often he has lost track of how many times he has changed schools. After moving from Montana to Florida's Gulf Coast, he befriends Beatrice (Brie Larson) and…",
+      "directors": [
+        "Wil Shriner"
+      ]
+    },
+    {
+      "id": "ratchet_and_clank",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Ratchet & Clank",
+      "original_title": "Ratchet & Clank",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 4.3,
+      "votes": 2228,
+      "tomatometer": 22,
+      "audience_score": 42,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/f5lKOx9SfXlN76RzN_BYI0Jkckg=/300x450/v2/https://resizing.flixster.com/FsfGUy8ARB9k8Ag9eoj1wWCe8f4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzY2JhYzIzLWNkMzYtNGU5NC1hNTE5LTQwN2I2MmFmYzcwYi53ZWJw",
+      "plot": "Ratchet is the last of his kind, a foolhardy lombax who grew up without a family. Clank is a pint-sized robot with more brains than brawn. After stumbling upon a weapon that can destroy entire…",
+      "directors": [
+        "Kevin Munroe"
+      ]
+    },
+    {
+      "id": "the_croods_a_new_age",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Croods: A New Age",
+      "original_title": "The Croods: A New Age",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.4,
+      "votes": 2204,
+      "tomatometer": 76,
+      "audience_score": 94,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/D0QP6z35HALztqVWJV7tdSw4jno=/300x450/v2/https://resizing.flixster.com/t-PhNjELHaKGQLan-5K8e07mwM8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxOTA1YWZlLWYwZjktNGU5OC1hNzczLTZmMDc1Nzg4Y2IyYy5qcGc=",
+      "plot": "Searching for a safer habitat, the prehistoric Crood family discovers an idyllic, walled-in paradise that meets all of its needs. Unfortunately, they must also learn to live with the Bettermans -- a…",
+      "directors": [
+        "Joel Crawford"
+      ]
+    },
+    {
+      "id": "ferdinand",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Ferdinand",
+      "original_title": "Ferdinand",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.2,
+      "votes": 2188,
+      "tomatometer": 71,
+      "audience_score": 53,
+      "runtime_minutes": 108,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/5FMUERe-7IxvhsevhRMtZqHwVWU=/300x450/v2/https://resizing.flixster.com/z322xKsGwANwr9gMUGg-GnaDm08=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M2YWM5OGYyLTIxMzUtNDgwYi1iY2IyLWNjMDgwYWM2OGI5YS53ZWJw",
+      "plot": "Ferdinand is a young bull who escapes from a training camp in rural Spain after his father never returns from a showdown with a matador. Adopted by a girl who lives on a farm, Ferdinand's peaceful…",
+      "directors": [
+        "Carlos Saldanha"
+      ]
+    },
+    {
+      "id": "scoob",
+      "category": "animacion",
+      "type": "movie",
+      "title": "SCOOB!",
+      "original_title": "SCOOB!",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.3,
+      "votes": 2156,
+      "tomatometer": 48,
+      "audience_score": 52,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/2zlYQCcmF4sFLi7wp2k2mgxc67w=/300x450/v2/https://resizing.flixster.com/4f46QtwFbAhb2AvaflTCic8WG-8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0MjAxY2QwLTM1YjMtNDM5MC04YzcxLWQ3MzA1YWRhMzU2ZS53ZWJw",
+      "plot": "With hundreds of cases solved and adventures shared, Scooby and the gang face their biggest, most challenging mystery ever -- a plot to unleash the ghost dog Cerberus upon the world. As they race to…",
+      "directors": [
+        "Tony Cervone"
+      ]
+    },
+    {
+      "id": "peter_rabbit",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Peter Rabbit",
+      "original_title": "Peter Rabbit",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Fantasía",
+        "Aventura"
+      ],
+      "rating": 5.8,
+      "votes": 2000,
+      "tomatometer": 63,
+      "audience_score": 56,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ttBWSWB1kN_pbfXeKJHKlJnCbzQ=/300x450/v2/https://resizing.flixster.com/TKLoK-5rERDBavMQkHXhn8p_qQ4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0YmY4NTExLTA2MzktNDBkNS1iZDFkLWM5Y2JmYWM3NjdhNi53ZWJw",
+      "plot": "Peter Rabbit and his three sisters -- Flopsy, Mopsy and Cotton-Tail -- enjoy spending their days in Mr. McGregor's vegetable garden. When one of McGregor's relatives suddenly moves in, he's less than…",
+      "directors": [
+        "Will Gluck"
+      ]
+    },
+    {
+      "id": "norm_of_the_north",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Norm of the North",
+      "original_title": "Norm of the North",
+      "year": 2016,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 3.0,
+      "votes": 1854,
+      "tomatometer": 6,
+      "audience_score": 22,
+      "runtime_minutes": 90,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/q6FhQRl-QT_nAhe7MwPtEbzRgDc=/300x450/v2/https://resizing.flixster.com/jJHy9cyeuIcM-8OGA2rEVTZtIew=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U3NmUxMTRmLTc3NWEtNDE3NC1hMTM5LThiMzA2ODAyZjcxZC53ZWJw",
+      "plot": "Norm (Rob Schneider) the polar bear doesn't know how to hunt, but he does possess the unique ability to talk to humans. When the wealthy Mr. Greene (Ken Jeong) unveils his idea to build luxury condos…",
+      "directors": [
+        "Trevor Wall"
+      ]
+    },
+    {
+      "id": "clifford_the_big_red_dog",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Clifford the Big Red Dog",
+      "original_title": "Clifford the Big Red Dog",
+      "year": 2021,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 5.3,
+      "votes": 1797,
+      "tomatometer": 58,
+      "audience_score": 94,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Jj_qJPQlUOZH91_jdsc4TejUnJo=/300x450/v2/https://resizing.flixster.com/sYywJKkwAOtigJKqVxM5SkgJDMQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlkNjZmZDg4LWJkYTgtNDg4Mi04ODdmLWQ2ZTYxZGIwZDczZi5qcGc=",
+      "plot": "When middle-schooler Emily Elizabeth (Darby Camp) meets a magical animal rescuer (John Cleese) who gifts her a little, red puppy, she never anticipated waking up to find a giant ten-foot hound in her…",
+      "directors": [
+        "Walt Becker"
+      ]
+    },
+    {
+      "id": "trolls_world_tour",
+      "category": "musical",
+      "type": "movie",
+      "title": "Trolls World Tour",
+      "original_title": "Trolls World Tour",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Musical",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 6.2,
+      "votes": 1716,
+      "tomatometer": 72,
+      "audience_score": 57,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/8QlbbgYgABZSiRxMGeL1fE7CMaw=/300x450/v2/https://resizing.flixster.com/1lknEFNULzwy70ac1mEoGT0dIMo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5MTVjZWMzLTMyYzEtNDI3MS1iMTc2LTg1MzI4YmU3NTNjNi53ZWJw",
+      "plot": "Poppy and Branch discover that there are six different troll tribes scattered over six different lands. Each tribe is also devoted to six different kinds of music -- funk, country, techno, classical,…",
+      "directors": [
+        "Walt Dohrn"
+      ]
+    },
+    {
+      "id": "space_jam_a_new_legacy",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Space Jam: A New Legacy",
+      "original_title": "Space Jam: A New Legacy",
+      "year": 2021,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía"
+      ],
+      "rating": 4.4,
+      "votes": 1702,
+      "tomatometer": 25,
+      "audience_score": 79,
+      "runtime_minutes": 115,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/5eTvGqanp6a1tM39yKgE3s757Bw=/300x450/v2/https://resizing.flixster.com/0y2H-YoyJv43ZWXg5TW6Zb2phxQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q3MGJhNDU2LTkxYjEtNGE3Ny1iOTIxLTM1M2UxYTdjMzNkMi5qcGc=",
+      "plot": "When LeBron James and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined…",
+      "directors": [
+        "Malcolm D. Lee"
+      ]
+    },
+    {
+      "id": "smallfoot",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Smallfoot",
+      "original_title": "Smallfoot",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.3,
+      "votes": 1677,
+      "tomatometer": 76,
+      "audience_score": 62,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/WsFLu4pGW_K4d9ZZfvBIaSrYzXw=/300x450/v2/https://resizing.flixster.com/sBFhl5ahUrMyZ3Zi0O4btSY3CfQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhlNTUyY2NiLTkwN2EtNDZhOS1hOWIwLTBiYjE5YTc0Zjc4Ni53ZWJw",
+      "plot": "Migo is a friendly Yeti whose world gets turned upside down when he discovers something that he didn't know existed -- a human. He soon faces banishment from his snowy home when the rest of the…",
+      "directors": [
+        "Karey Kirkpatrick"
+      ]
+    },
+    {
+      "id": "diary_of_a_wimpy_kid_the_long_haul",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Diary of a Wimpy Kid: The Long Haul",
+      "original_title": "Diary of a Wimpy Kid: The Long Haul",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 4.2,
+      "votes": 1624,
+      "tomatometer": 19,
+      "audience_score": 29,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/srGmfkLwI1yzncGyOL5eqHwuiKE=/300x450/v2/https://resizing.flixster.com/Xd1fk4o3SR7ahrHxZKipVsWF004=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk4YjZhOTM4LWE4MjItNGE2Mi04MTUzLTU5ZmMyMDEzNzgzMC53ZWJw",
+      "plot": "Young Greg Heffley is looking forward to a long summer of just hanging out, but his mother throws a monkey wrench into his plans when she forces the entire family to take a road trip for a relative's…",
+      "directors": [
+        "David Bowers"
+      ]
+    },
+    {
+      "id": "the_boss_baby_family_business",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "The Boss Baby: Family Business",
+      "original_title": "The Boss Baby: Family Business",
+      "year": 2021,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 5.3,
+      "votes": 1572,
+      "tomatometer": 47,
+      "audience_score": 89,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/dNGm6iqgxWkHySoduaSvTHbBdLc=/300x450/v2/https://resizing.flixster.com/UauXyhYmV77HTI1VU8m0OzspdqM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmMTg3ODU5LWJlNWEtNGNhNC1hMGNlLTU2YTU2MDIzODllNS5qcGc=",
+      "plot": "In the sequel to DreamWorks Animation’s Oscar®-nominated blockbuster comedy, the Templeton brothers--Tim (James Marsden, X-Men franchise) and his Boss Baby little bro Ted (Alec Baldwin)--have become…",
+      "directors": [
+        "Tom McGrath"
+      ]
+    },
+    {
+      "id": "chip_n_dale_rescue_rangers",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Chip 'n' Dale: Rescue Rangers",
+      "original_title": "Chip 'n' Dale: Rescue Rangers",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 6.9,
+      "votes": 1442,
+      "tomatometer": 81,
+      "audience_score": 79,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/AWfTaIXgMX2GypHXLIEorKze_HI=/300x450/v2/https://resizing.flixster.com/2vs9S4jSlyr477evR2e8oaF2VrY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcyYTdkNTE0LWY0YTYtNDI0Mi04YzZjLTZkYmRjNGVkZGYxNy5qcGc=",
+      "plot": "In \"Chip 'n Dale: Rescue Rangers,\" Chip and Dale are living amongst cartoons and humans in modern-day Los Angeles, but their lives are quite different now. It has been decades since their successful…",
+      "directors": [
+        "Akiva Schaffer"
+      ]
+    },
+    {
+      "id": "peter_rabbit_2_the_runaway",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Peter Rabbit 2: The Runaway",
+      "original_title": "Peter Rabbit 2: The Runaway",
+      "year": 2021,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Fantasía",
+        "Aventura"
+      ],
+      "rating": 6.1,
+      "votes": 1431,
+      "tomatometer": 68,
+      "audience_score": 89,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/AN3O5ExtZ6UzOig9q-UPxJ1jrSc=/300x450/v2/https://resizing.flixster.com/u437LPGi5hgH7sE3dfQR2E7V69M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdkMDU4ZjFiLTViYTAtNGQ2NS1hZWM1LTBjYTYzYjVkZjNlMS5qcGc=",
+      "plot": "In PETER RABBIT™ 2: THE RUNAWAY, the lovable rogue is back.  Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can’t seem to shake his mischievous…",
+      "directors": [
+        "Will Gluck"
+      ]
+    },
+    {
+      "id": "trolls_band_together",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Trolls Band Together",
+      "original_title": "Trolls Band Together",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 5.9,
+      "votes": 1431,
+      "tomatometer": 64,
+      "audience_score": 92,
+      "runtime_minutes": null,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/8kk8rxe91Nhu8iB3yopoj8RTrKU=/300x450/v2/https://resizing.flixster.com/088CR_IQfjohPPgiKAp-qOoRE7c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlYTYwNDI1LTFhYWYtNGQwNS1iMWRlLTFmZjYxMDRjM2Q5MC5qcGc=",
+      "plot": "After two films of true friendship and relentless flirting, Poppy (Anna Kendrick) and Branch (Justin Timberlake) are now officially, finally, a couple (#broppy)! As they grow closer, Poppy discovers…",
+      "directors": [
+        "Walt Dohrn"
+      ]
+    },
+    {
+      "id": "rugrats_go_wild",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Rugrats Go Wild",
+      "original_title": "Rugrats Go Wild",
+      "year": 2003,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.2,
+      "votes": 1397,
+      "tomatometer": 39,
+      "audience_score": 39,
+      "runtime_minutes": 80,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/L6ervcQy0KJ7WmUSCkJmAB5w86Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32094_p_v7_ab.jpg",
+      "plot": "Chuckie (Nancy Cartwright) and Tommy (Elizabeth Daily) find themselves stranded with their parents on a remote island. By coincidence, the adventurous Thornberrys are also exploring the island. So,…",
+      "directors": [
+        "Norton Virgien",
+        "John Eng"
+      ]
+    },
+    {
+      "id": "snake_eyes_gi_joe_origins",
+      "category": "accion",
+      "type": "movie",
+      "title": "Snake Eyes: G.I. Joe Origins",
+      "original_title": "Snake Eyes: G.I. Joe Origins",
+      "year": 2021,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Aventura"
+      ],
+      "rating": 4.9,
+      "votes": 1387,
+      "tomatometer": 35,
+      "audience_score": 74,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/6gAipAtmeRl165g1RFnpJwAQ1Oc=/300x450/v2/https://resizing.flixster.com/WpfMAqjEffWr94v18Ie_jdv1N9E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYjBkMTg4LTc5ZWYtNDE2My05NWIwLTQ2NGIwZWY1NWRhOC5qcGc=",
+      "plot": "Snake Eyes: G.I. Joe Origins stars Henry Golding as Snake Eyes, a tenacious loner who is welcomed into an ancient Japanese clan called the Arashikage after saving the life of their heir apparent.…",
+      "directors": [
+        "Robert Schwentke"
+      ]
+    },
+    {
+      "id": "wish_2023",
+      "category": "musical",
+      "type": "movie",
+      "title": "Wish",
+      "original_title": "Wish",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Fantasía",
+        "Aventura",
+        "Comedia",
+        "Animación",
+        "Musical"
+      ],
+      "rating": 5.6,
+      "votes": 1373,
+      "tomatometer": 48,
+      "audience_score": 80,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/J-QOLCFvdTg9w1XINedwHqd9ZmI=/300x450/v2/https://resizing.flixster.com/qIk5F8LNkRDAxu6Tn6XvYJ1rVMg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyODNiYmIxLTYyOWMtNDJiNi1iZmZlLTE4ZGQ2MGQwZGFiNS5qcGc=",
+      "plot": "Walt Disney Animation Studios' \"Wish\" is an all-new musical-comedy welcoming audiences to the magical kingdom of Rosas, where Asha, a sharp-witted idealist, makes a wish so powerful that it is…",
+      "directors": [
+        "Chris Buck",
+        "Fawn Veerasunthorn"
+      ]
+    },
+    {
+      "id": "missing_link_2019",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Missing Link",
+      "original_title": "Missing Link",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.2,
+      "votes": 1164,
+      "tomatometer": 88,
+      "audience_score": 67,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/_PuxrM8b9zJ_BE1j0ulUgu60hi4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15498320_p_v13_aa.jpg",
+      "plot": "Tired of living a solitary life in the Pacific Northwest, Mr. Link -- 8 feet tall and covered in fur -- recruits fearless explorer Sir Lionel Frost to guide him on a journey to find his long-lost…",
+      "directors": [
+        "Chris Butler"
+      ]
+    },
+    {
+      "id": "a_town_called_panic",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "A Town Called Panic",
+      "original_title": "A Town Called Panic",
+      "year": 2009,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Comedia",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 7.1,
+      "votes": 1155,
+      "tomatometer": 81,
+      "audience_score": 86,
+      "runtime_minutes": 75,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/JvwDxspkz6LDzjwtZzv08OibjyM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7884805_p_v8_ag.jpg",
+      "plot": "In this animated film, Cowboy (Stéphane Aubier) and Indian (Bruce Ellison) plan to construct a barbecue pit for the birthday of their friend, Horse (Vincent Patar). The delivery of an accidental…",
+      "directors": [
+        "Stéphane Aubier",
+        "Vincent Patar"
+      ]
+    },
+    {
+      "id": "the_spongebob_movie_sponge_on_the_run",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The SpongeBob Movie: Sponge on the Run",
+      "original_title": "The SpongeBob Movie: Sponge on the Run",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.0,
+      "votes": 1132,
+      "tomatometer": 66,
+      "audience_score": 48,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/sxXyjXcIWERWZ3ipQVbYCvPdkgA=/300x450/v2/https://resizing.flixster.com/AlhXRp-D37WrJHX436r0tJyZuYs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4MTMwNmQ2LWZhMWMtNDRlMy05YjBlLTEzYWU0OTczZmU4ZC5qcGc=",
+      "plot": "In the first-ever all CGI SpongeBob motion picture event, THE SPONGEBOB MOVIE: SPONGE ON THE RUN, SpongeBob SquarePants, his best friend Patrick, and the Bikini Bottom gang star in their most epic…",
+      "directors": [
+        "Tim Hill"
+      ]
+    },
+    {
+      "id": "wallace_and_gromit_vengeance_most_fowl",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Wallace & Gromit: Vengeance Most Fowl",
+      "original_title": "Wallace & Gromit: Vengeance Most Fowl",
+      "year": 2024,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 8.3,
+      "votes": 1077,
+      "tomatometer": 100,
+      "audience_score": 90,
+      "runtime_minutes": 79,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/tqoZQLASa4T2wBem12qomOCDVtQ=/300x450/v2/https://resizing.flixster.com/6K5Lxm4B4x8u6AdItBQFKXAjrvI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y2ZGM5NTlhLWE4MTktNGQ3Yi04Njc4LTFiZDQ0MGFjOTJkNy5qcGc=",
+      "plot": "Aardman's four-time Academy Award®-winning director Nick Park and Emmy Award-nominated Merlin Crossingham return with a brand new epic adventure, Wallace & Gromit: Vengeance Most Fowl. In this next…",
+      "directors": [
+        "Merlin Crossingham",
+        "Nick Park"
+      ]
+    },
+    {
+      "id": "early_man",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Early Man",
+      "original_title": "Early Man",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.6,
+      "votes": 1055,
+      "tomatometer": 80,
+      "audience_score": 49,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/DxjfPUHqJ1-AN1bSsHZ5x04sULg=/300x450/v2/https://resizing.flixster.com/TObAmf-6qNUZsc4wHT9zR_FqmTs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E3ZDc4OGE1LWY1YTQtNDAzMS05MDQ5LTViOWEwOTM5ZWE3Yy53ZWJw",
+      "plot": "A plucky cave man named Dug, his sidekick Hognob and the rest of their tribe face a grave threat to their simple existence. Lord Nooth plans to take over their land and transform it into a giant…",
+      "directors": [
+        "Nick Park"
+      ]
+    },
+    {
+      "id": "wild_thornberrys_movie",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "The Wild Thornberrys Movie",
+      "original_title": "The Wild Thornberrys Movie",
+      "year": 2002,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Acción",
+        "Animación"
+      ],
+      "rating": 6.7,
+      "votes": 1024,
+      "tomatometer": 80,
+      "audience_score": 51,
+      "runtime_minutes": 85,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/24J_AmSIQYOw5a330YMlgtAhVoM=/300x450/v2/https://resizing.flixster.com/4T_lkAPOY5CS_KOeDndYGrnJI_o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1YzE5Y2U5LTE5MmItNGY1Yi05YjhhLThjMTVlMGYwNjE3ZC53ZWJw",
+      "plot": "The Wild Thornberrys feature film finds one of America's favorite animated families going on wild adventures around the world. Now, 12-year-old Eliza is in Africa where she meets a mysterious shaman…",
+      "directors": [
+        "Cathy Malkasian",
+        "Jeff McGrath"
+      ]
+    },
+    {
+      "id": "strange_world",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Strange World",
+      "original_title": "Strange World",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación",
+        "Acción"
+      ],
+      "rating": 6.3,
+      "votes": 1018,
+      "tomatometer": 72,
+      "audience_score": 66,
+      "runtime_minutes": 105,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/4rUnsIs1nBjxZ7rCMmA86X0XU_8=/300x450/v2/https://resizing.flixster.com/2xMkNqbnCcVFU3sEAhAblUFRJa8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5ZjM1MDZlLWU4ZWEtNDRjMi05Y2ViLTk4ZmY1YmQ3NjU2MS5qcGc=",
+      "plot": "Walt Disney Animation Studios' original action-packed adventure \"Strange World\" introduces a legendary family of explorers, the Clades, as they attempt to navigate an uncharted, treacherous land…",
+      "directors": [
+        "Don Hall",
+        "Qui Nguyen"
+      ]
+    },
+    {
+      "id": "hotel_transylvania_transformania",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Hotel Transylvania: Transformania",
+      "original_title": "Hotel Transylvania: Transformania",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.1,
+      "votes": 978,
+      "tomatometer": 47,
+      "audience_score": 41,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/CSjt9ge8j7Tftn4phQ3A4c77zLY=/300x450/v2/https://resizing.flixster.com/MmTEknBwJmcyxtpacsblVOAVDzw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiNDRiYTZhLWVmZTQtNDJjYi1hMGE4LWY0ZDUyM2RmZWNkYS5qcGc=",
+      "plot": "Drac and the pack are back, like you've never seen them before in Hotel Transylvania: Transformania. Reunite with your favorite monsters for an all-new adventure that presents Drac with his most…",
+      "directors": [
+        "Derek Drymon",
+        "Jennifer Kluska"
+      ]
+    },
+    {
+      "id": "lady_and_the_tramp_2019",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Lady and the Tramp",
+      "original_title": "Lady and the Tramp",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Comedia"
+      ],
+      "rating": 5.9,
+      "votes": 974,
+      "tomatometer": 67,
+      "audience_score": 49,
+      "runtime_minutes": 103,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/dy1VzBaXpNzO1lazYffJDndXPCQ=/300x450/v2/https://resizing.flixster.com/OILQb8ys6EYeS4T4IdGJopkTJiw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzODM3MTUzLTc1NTYtNGZkYi1hMDQwLTU5ZjI2OTEyOTcyMC53ZWJw",
+      "plot": "In this heartwarming romantic adventure, a timeless re-telling of the 1955 animated classic, Lady, an overachieving, pampered American Cocker Spaniel house dog and Tramp, a tough but lovable,…",
+      "directors": [
+        "Charlie Bean"
+      ]
+    },
+    {
+      "id": "rons_gone_wrong",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Ron's Gone Wrong",
+      "original_title": "Ron's Gone Wrong",
+      "year": 2021,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 6.7,
+      "votes": 948,
+      "tomatometer": 82,
+      "audience_score": 94,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/4F-QJ4fYQlmQdON35peQh7rD1cQ=/300x450/v2/https://resizing.flixster.com/N0zF9nqtGqnmfU2neAd2O6pAxd0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5MjA2YmU1LTU1MTAtNGRiOS1iZDJiLTQ0ZDkzZmVhZDliNS5qcGc=",
+      "plot": "Twentieth Century Studios and Locksmith Animation's \"Ron's Gone Wrong\" is the story of Barney, a socially awkward middle-schooler and Ron, his new walking, talking, digitally-connected device, which…",
+      "directors": [
+        "Sarah Smith",
+        "Jean-Philippe Vine"
+      ]
+    },
+    {
+      "id": "the_day_the_earth_blew_up_a_looney_tunes_movie",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+      "original_title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+      "year": 2025,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Ciencia ficción",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.1,
+      "votes": 867,
+      "tomatometer": 86,
+      "audience_score": 88,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/RNLr_IMW45Ozey5G92yJDl-wEKc=/300x450/v2/https://resizing.flixster.com/ebQYkHQ9qdemkPlkrcAeaLqBZX4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FiNGQ0NGU3LTU0Y2QtNDYzZi1hOTQ3LTdjMzVjMzM4YmYxYS5qcGc=",
+      "plot": "That's not all folks!  Porky Pig and Daffy Duck, one of the greatest comedic duos in history, are making their hilarious return to the big screen in the sci-fi comedy adventure, THE DAY THE EARTH…",
+      "directors": [
+        "Peter Browngardt"
+      ]
+    },
+    {
+      "id": "paw_patrol_the_mighty_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "PAW Patrol: The Mighty Movie",
+      "original_title": "PAW Patrol: The Mighty Movie",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.9,
+      "votes": 860,
+      "tomatometer": 71,
+      "audience_score": 93,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/kPJbvKDGRfoPFpbH57gTRn5pRzU=/300x450/v2/https://resizing.flixster.com/yZLRkBZluopPFp8CdRcj-z6__hg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkZWQwZGVjLWFkZDUtNDY4Ni1hNzU3LWQ4ZTJjMTYzMTExZC5qcGc=",
+      "plot": "When a magical meteor crash lands in Adventure City, it gives the PAW Patrol pups superpowers, transforming them into The MIGHTY PUPS! For Skye, the smallest member of the team, her new powers are a…",
+      "directors": [
+        "Cal Brunker"
+      ]
+    },
+    {
+      "id": "the_nut_job_2_nutty_by_nature",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Nut Job 2: Nutty by Nature",
+      "original_title": "The Nut Job 2: Nutty by Nature",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 4.0,
+      "votes": 855,
+      "tomatometer": 15,
+      "audience_score": 44,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Yvao4FQhTW2yW1K4sVOVTckDRU4=/300x450/v2/https://resizing.flixster.com/bLcHJfnSg2ywu-HjB3Ob-1Q_v3U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA2NzNlZGFlLWFiZjUtNDM1MC05NzU4LTg0MzM2M2FjM2YxYS53ZWJw",
+      "plot": "Surly the squirrel and his animal friends find out that the corrupt mayor of Oakton plans to bulldoze their beloved Liberty Park to make way for an amusement park. Hoping to save the place they call…",
+      "directors": [
+        "Cal Brunker"
+      ]
+    },
+    {
+      "id": "wonder_park",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Wonder Park",
+      "original_title": "Wonder Park",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 4.8,
+      "votes": 832,
+      "tomatometer": 35,
+      "audience_score": 43,
+      "runtime_minutes": 85,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Y_YkGFhReFP2tL-ecHdlmRHsJWk=/300x450/v2/https://resizing.flixster.com/uXetQWGLOFlpmZgQr39A6s7gX2w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MzNzMwMWUzLTg2ZDctNGZjMi1iNDk5LTc2NGMwMzhjYjgyMS53ZWJw",
+      "plot": "A young girl named June with a big imagination makes a discovery, an amusement park filled with wild rides and fun-loving animals. But when trouble hits, June and her misfit furry friends begin a…",
+      "directors": [
+        "Dylan C. Brown"
+      ]
+    },
+    {
+      "id": "the_star_2017",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Star",
+      "original_title": "The Star",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Navidad",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.0,
+      "votes": 816,
+      "tomatometer": 46,
+      "audience_score": 71,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/YRAfNZalp_xCykL84n11U2CE9hw=/300x450/v2/https://resizing.flixster.com/E2sZKDisDuTJVyTK4GEP-K3xbaY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzljYTE0Nzc1LTU5MDYtNDA5OC1iZTNjLTFjYzE4YjQ0MmQ3Ny53ZWJw",
+      "plot": "A small but brave donkey named Bo yearns for a life beyond his daily grind at the village mill. One day, he finds the courage to break free, embarking on the adventure of his dreams. On his journey,…",
+      "directors": [
+        "Timothy Reckart"
+      ]
+    },
+    {
+      "id": "sherlock_gnomes",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Sherlock Gnomes",
+      "original_title": "Sherlock Gnomes",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Misterio y suspense",
+        "Animación"
+      ],
+      "rating": 4.5,
+      "votes": 740,
+      "tomatometer": 28,
+      "audience_score": 36,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/7Mm6Z4T3BU2i8NCzkJPQ5NRpI4M=/300x450/v2/https://resizing.flixster.com/u0rtzNdxa1knaX6B_D56QHF32Z8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkM2MwMGU2LTM5OGUtNDlhYS04ZDBlLTAzNWU2Mjg1N2FlOS53ZWJw",
+      "plot": "When Gnomeo and Juliet first arrive in London with their friends and family, their biggest concern is getting a new garden ready for spring. When everyone in the garden suddenly goes missing --…",
+      "directors": [
+        "John Stevenson"
+      ]
+    },
+    {
+      "id": "harold_and_the_purple_crayon",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Harold and the Purple Crayon",
+      "original_title": "Harold and the Purple Crayon",
+      "year": 2024,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía"
+      ],
+      "rating": 4.3,
+      "votes": 654,
+      "tomatometer": 28,
+      "audience_score": 89,
+      "runtime_minutes": null,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/DLOCJy_of64_TdCJnTYrQz7BqxE=/300x450/v2/https://resizing.flixster.com/LsmMi3tkTQUOWB3jLNwc6QH3YXU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFkZDAyMGNjLWM4YjYtNDRjMS1iY2Q4LTVhZTk5NmY3ZGEzNS5qcGc=",
+      "plot": "Inside of his book, adventurous Harold (Zachary Levi) can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the physical world, Harold…",
+      "directors": [
+        "Carlos Saldanha"
+      ]
+    },
+    {
+      "id": "the_re_education_of_molly_singer",
+      "category": "comedia",
+      "type": "movie",
+      "title": "The Re-Education of Molly Singer",
+      "original_title": "The Re-Education of Molly Singer",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia"
+      ],
+      "rating": 4.3,
+      "votes": 549,
+      "tomatometer": 21,
+      "audience_score": 95,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/zyamysv5r00VRNGtXwJzgrkwSPs=/300x450/v2/https://resizing.flixster.com/c0ndRrU4KMhLiFzJlcR171D4_9Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NzEwMDYxLTc5Y2YtNDVkNy04ODI4LTY3Mjc2NGUzMjZlNy5qcGc=",
+      "plot": "In college, attorney Molly Singer (Britt Robertson) was the life of every party. Now, she's about to be fired because she can't leave her partying ways behind. Molly's boss, Brenda (Jaime Pressly),…",
+      "directors": [
+        "Andy Palmer"
+      ]
+    },
+    {
+      "id": "ruby_gillman_teenage_kraken",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Ruby Gillman, Teenage Kraken",
+      "original_title": "Ruby Gillman, Teenage Kraken",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Animación"
+      ],
+      "rating": 5.8,
+      "votes": 506,
+      "tomatometer": 65,
+      "audience_score": 81,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/uXxbEfsxvRMtM_FfgQzJkdA5Uqw=/300x450/v2/https://resizing.flixster.com/Zb2d0atK4I6Ctp4ZCC0SsI7VvSQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxNzI1YTI2LWViY2UtNGM2ZS1iMjQ1LTI3Njk4MDNiNDdmMC5qcGc=",
+      "plot": "Sweet, awkward 16-year-old Ruby Gillman (Lana Condor, To All the Boys I’ve Loved Before franchise) is desperate to fit in at Oceanside High, but she mostly just feels invisible. She's math-tutoring…",
+      "directors": [
+        "Kirk DeMicco"
+      ]
+    },
+    {
+      "id": "sketch_2024",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Sketch",
+      "original_title": "Sketch",
+      "year": 2025,
+      "genres": [
+        "Comedia",
+        "Aventura",
+        "Fantasía",
+        "Infantil y familiar"
+      ],
+      "rating": 7.7,
+      "votes": 469,
+      "tomatometer": 95,
+      "audience_score": 83,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/86LUgT-eVOikTwghxkh4TlTcjFU=/300x450/v2/https://resizing.flixster.com/WisVHqIDBvNANvkOVO-pSOsksJA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlYTc1M2ZkLWU3ODUtNDUyZS04ZTdiLTIzNjMxYjIyYmMyNS5qcGc=",
+      "plot": "When a young girl's sketchbook falls into a strange pond, her drawings come to life--unpredictable, chaotic, and dangerously real. As the town unravels, she and her brother must track down the…",
+      "directors": [
+        "Seth Worley"
+      ]
+    },
+    {
+      "id": "paws_of_fury_the_legend_of_hank",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Paws of Fury: The Legend of Hank",
+      "original_title": "Paws of Fury: The Legend of Hank",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.1,
+      "votes": 456,
+      "tomatometer": 56,
+      "audience_score": 67,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Ca3GbH3kxERKX0QCSaBTtt66b5o=/300x450/v2/https://resizing.flixster.com/dyS6V9Odw7Bbrr8fE17LFfdQBlw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QzNWI0YjNjLWJiZWQtNDk3Mi05ODc2LTI2ZDg1NjRmNTYyNi5qcGc=",
+      "plot": "A down-on-his-luck hound finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wipe their village off the map. With help from a reluctant trainer,…",
+      "directors": [
+        "Mark Koetsier",
+        "Chris Bailey"
+      ]
+    },
+    {
+      "id": "show_dogs",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Show Dogs",
+      "original_title": "Show Dogs",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura"
+      ],
+      "rating": 3.4,
+      "votes": 443,
+      "tomatometer": 16,
+      "audience_score": 27,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/sWJmyRYsNsrwwJfv5TavO88EuIk=/300x450/v2/https://resizing.flixster.com/PVSo4UqKH1g7FriQKjbGvbotL_I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5ZTM1MjUxLThhOTktNDFlNy05NTY5LTgwMzZmMTc1NDk4Mi53ZWJw",
+      "plot": "After a failed attempt to recover a stolen baby panda, police dog Max reluctantly teams up with a human FBI agent named Frank. A hot tip leads Max and Frank to Las Vegas for the world's most…",
+      "directors": [
+        "Raja Gosnell"
+      ]
+    },
+    {
+      "id": "paw_patrol_the_dino_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "PAW Patrol: The Dino Movie",
+      "original_title": "PAW Patrol: The Dino Movie",
+      "year": 2026,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 6.0,
+      "votes": 413,
+      "tomatometer": 82,
+      "audience_score": 94,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/7tBJq-bR6rWL1fn4XWtKsxqBw6s=/300x450/v2/https://resizing.flixster.com/yJUONjqYreK_JOsSliiXcjNgTqI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFiZGE5MjE5LTVhZGItNDQzMS04ZjFkLTc1MWI0YjljNDU2ZC5qcGc=",
+      "plot": "After their ship gets caught in a mysterious storm, the PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs. They meet Rex, a pup who has been stranded on the island for…",
+      "directors": [
+        "Cal Brunker"
+      ]
+    },
+    {
+      "id": "diary_of_a_wimpy_kid_2021",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Diary of a Wimpy Kid",
+      "original_title": "Diary of a Wimpy Kid",
+      "year": 2021,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 5.5,
+      "votes": 309,
+      "tomatometer": 75,
+      "audience_score": 38,
+      "runtime_minutes": 56,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-9FBlOW889_ZR2r-KC4CdU0Zq6M=/300x450/v2/https://resizing.flixster.com/25sFPxyIOK-RVZsbm2sA_jM6PHY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwNjg1NTBhLWNjMDgtNDcxZS1hNWVkLTE1ZGQ0ODcyOTYzNy5qcGc=",
+      "plot": "Greg Heffley dreams of becoming famous while surviving middle school with his best friend, Rowley.",
+      "directors": [
+        "Gino Nichele",
+        "Swinton O. Scott III"
+      ]
+    },
+    {
+      "id": "kill_switch_2017",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Kill Switch",
+      "original_title": "Kill Switch",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Ciencia ficción",
+        "Acción",
+        "Misterio y suspense",
+        "Drama",
+        "Fantasía"
+      ],
+      "rating": 4.5,
+      "votes": 246,
+      "tomatometer": 9,
+      "audience_score": 21,
+      "runtime_minutes": 91,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/NMm6ir-5FaCmiZeeiahI64hNbWU=/300x450/v2/https://resizing.flixster.com/yqxYDRiPwF92LAodlh5FsDQtM88=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RiYThkYzBlLTE1ZjItNDJiYi05OTVmLWQ0YzM2ZDUyZDMwZi53ZWJw",
+      "plot": "A military experiment to harness unlimited energy goes horribly awry, leaving a pilot with no choice but to fight through an imploding world to save his family and the planet itself.",
+      "directors": [
+        "Tim Smit"
+      ]
+    },
+    {
+      "id": "secret_headquarters",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Secret Headquarters",
+      "original_title": "Secret Headquarters",
+      "year": 2022,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Aventura",
+        "Comedia",
+        "Ciencia ficción"
+      ],
+      "rating": 5.1,
+      "votes": 245,
+      "tomatometer": 44,
+      "audience_score": 43,
+      "runtime_minutes": 104,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/sl6tpkwWEo5QXytihqtWgkFDJuo=/300x450/v2/https://resizing.flixster.com/b2EfiVEwSug9yJG9m_BB_vndnU0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxYWI3MzNjLTg2NTctNGVlOC1iNmYyLTQwYzEwZjQyMzlkNS5qcGc=",
+      "plot": "While hanging out after school, Charlie and his friends discover the headquarters of the world's most powerful superhero hidden beneath his home. When villains attack, they must team up to defend the…",
+      "directors": [
+        "Henry Joost",
+        "Ariel Schulman"
+      ]
+    },
+    {
+      "id": "spy_kids_armageddon",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Spy Kids: Armageddon",
+      "original_title": "Spy Kids: Armageddon",
+      "year": 2023,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Aventura",
+        "Comedia"
+      ],
+      "rating": 5.2,
+      "votes": 217,
+      "tomatometer": 55,
+      "audience_score": 40,
+      "runtime_minutes": 108,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/XFzMmgpXiPxgdFJheug9xH999uU=/300x450/v2/https://resizing.flixster.com/prgOkKz6vhrFSECgSZrf0ctnH-o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhYTA0MWQyLTJjMjQtNDk3My1hZWNiLWE0MDhkOTExNmI4Zi5qcGc=",
+      "plot": "When the children of the world's greatest secret agents unwittingly help a powerful Game Developer unleash a computer virus that gives him control of all technology, they must become spies themselves…",
+      "directors": [
+        "Robert Rodriguez"
+      ]
+    },
+    {
+      "id": "playmobil_the_movie",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Playmobil: The Movie",
+      "original_title": "Playmobil: The Movie",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 4.1,
+      "votes": 204,
+      "tomatometer": 16,
+      "audience_score": 62,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/GDCQhuBvKJTUh_7vsbebb_O2Sgs=/300x450/v2/https://resizing.flixster.com/cH9U74GsMkoLjtW-5Cv1ySpf9wM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM1NmI0NWNhLWYzNmQtNDM5NC04ZWNiLTA4N2QzMDM3YTVjOC53ZWJw",
+      "plot": "Maria and her younger brother Charlie find themselves magically transported to the fantastical world of Playmobil. While there, they encounter robots, Vikings, knights, pirates and other colorfully…",
+      "directors": [
+        "Lino DiSalvo"
+      ]
+    },
+    {
+      "id": "the_son_of_bigfoot",
+      "category": "animacion",
+      "type": "movie",
+      "title": "The Son of Bigfoot",
+      "original_title": "The Son of Bigfoot",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.8,
+      "votes": 184,
+      "tomatometer": 74,
+      "audience_score": 42,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/E4AunJxqeuLIqvtgWbHz4bY-DHw=/300x450/v2/https://resizing.flixster.com/MIayIHAhtmhGBRiDrwmnCYkYgkQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1ZjljMGE5LTA5NzgtNGM3OC1hMDE0LWU0YjExMjUxYmZiNy53ZWJw",
+      "plot": "Teenager Adam has never known the identity of his long-lost dad. But after setting off on an adventure to solve the mystery once and for all, he discovers that his father is none other than the…",
+      "directors": [
+        "Jeremy Degruson",
+        "Ben Stassen"
+      ]
+    },
+    {
+      "id": "iron_mask_2020",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "Iron Mask",
+      "original_title": "Iron Mask",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Acción",
+        "Aventura",
+        "Fantasía"
+      ],
+      "rating": 3.6,
+      "votes": 171,
+      "tomatometer": 21,
+      "audience_score": 25,
+      "runtime_minutes": 130,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/tWlIVi-0B_M3mwIsKnT5wjrEeNs=/300x450/v2/https://resizing.flixster.com/0TSljTfQgUau2ugrzYWL-zefW_M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1ZTY0NzcyLTdkNjEtNDk2Zi05N2UxLThhZDkzYTNlMGE2NS5qcGc=",
+      "plot": "To save his homeland from certain doom, a kung fu master must escape from the maniacal James Hook in order to send his daughter a secret talisman that will allow her to control a massive and mythical…",
+      "directors": [
+        "Oleg Stepchenko"
+      ]
+    },
+    {
+      "id": "thelma_the_unicorn",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Thelma the Unicorn",
+      "original_title": "Thelma the Unicorn",
+      "year": 2024,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Animación"
+      ],
+      "rating": 6.0,
+      "votes": 116,
+      "tomatometer": 60,
+      "audience_score": 40,
+      "runtime_minutes": 93,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/nTondFBVomVefSgIR-jPR01d6iM=/300x450/v2/https://resizing.flixster.com/Vxg1US10DILxoLdOl5V1w9meAJM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwNzRmN2NhLTZiMTAtNDdkOC05YTRjLTc3NGMzNjI4ZDY0My5qcGc=",
+      "plot": "Thelma is a small-time pony who dreams of becoming a glamorous music star. In a pink and glitter-filled moment of fate, Thelma is transformed into a unicorn and instantly rises to global stardom.…",
+      "directors": [
+        "Jared Hess",
+        "Lynn Wang"
+      ]
+    },
+    {
+      "id": "spark_a_space_tail",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Spark: A Space Tail",
+      "original_title": "Spark: A Space Tail",
+      "year": 2017,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Acción",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 3.8,
+      "votes": 116,
+      "tomatometer": 13,
+      "audience_score": 34,
+      "runtime_minutes": 90,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/UXVjF3ps0Han3Q97zPsYkGgGETA=/300x450/v2/https://resizing.flixster.com/BAH323zxQyVP63pc-Nh1raS8tx8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmOTRiZjA5LWQwNWUtNGZhZi1hYjQwLWY0ZDU0YTMyMDA3ZS53ZWJw",
+      "plot": "Spark is a wisecracking teenage monkey who lives on an abandoned planet with his friends Chunk and Vix. Thirteen years ago, power-hungry Zhong seized control of their planet Beta, wiping out Spark's…",
+      "directors": [
+        "Aaron Woodley"
+      ]
+    },
+    {
+      "id": "pokemon_detective_pikachu",
+      "category": "misterio-y-suspense",
+      "type": "movie",
+      "title": "Pokémon Detective Pikachu",
+      "original_title": "Pokémon Detective Pikachu",
+      "year": 2019,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Misterio y suspense"
+      ],
+      "rating": 6.0,
+      "votes": 80,
+      "tomatometer": 68,
+      "audience_score": 82,
+      "runtime_minutes": 104,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/S6p006rI8O36q8lF_pNCw6ftRz0=/300x450/v2/https://resizing.flixster.com/b8hhpPqb9g717NcmddPVQsgnEYs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNjODBkMzQxLWEyMTMtNDEyMi05Yjc4LWQxZjIwMGVhMDIwNi53ZWJw",
+      "plot": "Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old son, Tim, to find out what happened. Aiding in the investigation is Harry's former Pokémon partner, super-sleuth…",
+      "directors": [
+        "Rob Letterman"
+      ]
+    },
+    {
+      "id": "luis_and_the_aliens",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Luis and the Aliens",
+      "original_title": "Luis and the Aliens",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 4.1,
+      "votes": 76,
+      "tomatometer": 24,
+      "audience_score": 49,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/4DRlg6jtmBrl9PfL0d47kFH4gUU=/300x450/v2/https://resizing.flixster.com/swsviygra811QbmY0dAcMnkX_Y4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyN2JjZjVhLTRjMjUtNGVhOS1iOWYxLTI2MjIwNzZmZTQ2Yy53ZWJw",
+      "plot": "A 12-year-old boy embarks on a wild quest to help three tiny extraterrestrials return to their huge mother ship.",
+      "directors": [
+        "Wolfgang Lauenstein",
+        "Christoph Lauenstein"
+      ]
+    },
+    {
+      "id": "condorito_la_pelicula",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Condorito: The Movie",
+      "original_title": "Condorito: The Movie",
+      "year": 2018,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 4.7,
+      "votes": 58,
+      "tomatometer": 20,
+      "audience_score": 48,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-7I_BKS16NJEfduvcaOp2dKtfiI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14720174_p_v10_aa.jpg",
+      "plot": "With help from his nephew, a condor embarks on an epic adventure to save his future mother-in-law and Earth from an alien king.",
+      "directors": [
+        "Alex Orrelle",
+        "Eduardo Schuldt"
+      ]
+    },
+    {
+      "id": "terra_willy",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Terra Willy",
+      "original_title": "Terra Willy",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Ciencia ficción",
+        "Animación"
+      ],
+      "rating": 6.6,
+      "votes": 47,
+      "tomatometer": 100,
+      "audience_score": 79,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-GtOeR_EZy-J3TcozVBHRHkBQJQ=/300x450/v2/https://resizing.flixster.com/X4moUbMFrhQuexY900gcHf32FSk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0YzJhYjFlLTAwMDUtNGZlOC1hZmE0LWZiOWNiZjAxM2YyOS5qcGc=",
+      "plot": "When a young boy crash lands on an unexplored planet, he must rely on a survival robot and an alien creature to help him find a way home.",
+      "directors": [
+        "Eric Tosti"
+      ]
+    },
+    {
+      "id": "stardog_and_turbocat",
+      "category": "animacion",
+      "type": "movie",
+      "title": "StarDog and TurboCat",
+      "original_title": "StarDog and TurboCat",
+      "year": 2020,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 5.2,
+      "votes": 28,
+      "tomatometer": 56,
+      "audience_score": 43,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/AHOgQm5wmwnUEh-inu9aYx3UzQc=/300x450/v2/https://resizing.flixster.com/52LIg3KjJBLmMQApkrOr6sr0CzY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhMWVkYzNlLTdjYTItNDI2Zi1iY2MzLWExMzdmYzA2Y2I4My53ZWJw",
+      "plot": "Launched into space in 1969, a loyal dog crash-lands in a small town where pets are no longer welcome. Desperate and confused, he soon recruits the help of a tech-savvy cat to help him reunite with…",
+      "directors": [
+        "Ben Smith"
+      ]
+    },
+    {
+      "id": "aliens_abducted_my_parents_and_now_i_feel_kinda_left_out",
+      "category": "ciencia-ficcion",
+      "type": "movie",
+      "title": "Aliens Abducted My Parents and Now I Feel Kinda Left Out",
+      "original_title": "Aliens Abducted My Parents and Now I Feel Kinda Left Out",
+      "year": 2023,
+      "genres": [
+        "Comedia",
+        "Infantil y familiar",
+        "Ciencia ficción"
+      ],
+      "rating": 6.5,
+      "votes": 13,
+      "tomatometer": 82,
+      "audience_score": 69,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/8Y2-M5WSVix0qxNBhduNgm85re4=/300x450/v2/https://resizing.flixster.com/ReXZ_nEcj0nSoQr_Fxy7GSA_0yU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3YmFhNDk4LWMwY2UtNDU1NS1hZWU5LTM2OTg5YzlkZmM4ZC5qcGc=",
+      "plot": "Itsy Levan is devastated by her parents' decision to leave the city and buy a fixer upper in the middle of nowhere. Her life seems over until she meets her space-obsessed neighbor Calvin Kipler.…",
+      "directors": [
+        "Jake Van Wagoner"
+      ]
+    },
+    {
+      "id": "dolphin_island",
+      "category": "infantil-y-familiar",
+      "type": "movie",
+      "title": "Dolphin Island",
+      "original_title": "Dolphin Island",
+      "year": 2021,
+      "genres": [
+        "Drama",
+        "Infantil y familiar"
+      ],
+      "rating": 5.4,
+      "votes": 13,
+      "tomatometer": 70,
+      "audience_score": 85,
+      "runtime_minutes": 79,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/go93_qNN5Db_zMtxvMrjk0rn0aA=/300x450/v2/https://resizing.flixster.com/UVc07YWRUOdmHTYNgJu0ZuAAn9g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAzYzdjOTc3LTc0ZDgtNDM0ZS1iZjVjLWM5YTdjZjkzMWY5Yi5qcGc=",
+      "plot": "After losing her parents, 14-year-old Annabel lives with her fisherman grandfather on an island paradise. She is surrounded by an extended family of loving but quirky neighbors and her best friend --…",
+      "directors": [
+        "Michael D'Isa-Hogan"
+      ]
+    },
+    {
+      "id": "coyote_vs_acme",
+      "category": "animacion",
+      "type": "movie",
+      "title": "Coyote vs. Acme",
+      "original_title": "Coyote vs. Acme",
+      "year": null,
+      "genres": [
+        "Infantil y familiar",
+        "Comedia",
+        "Aventura",
+        "Animación"
+      ],
+      "rating": 7.8,
+      "votes": null,
+      "tomatometer": 95,
+      "audience_score": null,
+      "runtime_minutes": 101,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/y2zFi574s46qdML_aSRhcRwQyCA=/300x450/v2/https://resizing.flixster.com/2tWOVnwNoN3mVPGeTtFxCACoAPM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UwMjUzNTNmLWNkZWQtNDVmNS1iZWI3LTY4MjQ4OTc5NGNlZi5qcGc=",
+      "plot": "After decades of being blown to bits by bombs, demolished by dynamite, mangled by magnets, battered by boulders, trampled by trains, tricked by tunnels, sprung by springs, steamrolled by…",
+      "directors": [
+        "Dave Green"
+      ]
+    },
+    {
+      "id": "the_magic_faraway_tree",
+      "category": "fantasia",
+      "type": "movie",
+      "title": "The Magic Faraway Tree",
+      "original_title": "The Magic Faraway Tree",
+      "year": null,
+      "genres": [
+        "Infantil y familiar",
+        "Aventura",
+        "Fantasía"
+      ],
+      "rating": 6.6,
+      "votes": null,
+      "tomatometer": 83,
+      "audience_score": null,
+      "runtime_minutes": 110,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/u0H4enLwzlRzU357NBh0_g-uDP8=/300x450/v2/https://resizing.flixster.com/EPxOMRXvbEl2nh6NdUkVQsZ4Pr4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM0OGU3NjJjLWQ0YzgtNDhlNC1iYTBhLTViOGZmZGViYzNlNS5qcGc=",
+      "plot": "Adapted from Enid Blyton's beloved classic novel The Magic Faraway Tree, the film centers on Polly (Claire Foy), Tim (Andrew Garfield), and their three children -- a modern family forced to relocate…",
+      "directors": [
+        "Ben Gregor"
       ]
     }
   ]

@@ -1,8 +1,99 @@
 {
   "genre": "monologos",
   "name": "Monólogos",
-  "count": 3,
+  "count": 44,
   "titles": [
+    {
+      "id": "ricky_gervais_supernature",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Ricky Gervais: SuperNature",
+      "original_title": "Ricky Gervais: SuperNature",
+      "year": 2022,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 5.7,
+      "votes": 1501,
+      "tomatometer": 31,
+      "audience_score": 91,
+      "runtime_minutes": 64,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/gPZjEBU0ipUlgV7fe0SoYIOfD58=/300x450/v2/https://resizing.flixster.com/ICgofV8YCN9dX6gxjyIfB7fZvmU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0MzFkOWZhLWJhNTUtNGVhYS05NDE4LWFkODZlYzk0ZTU1Yi5qcGc=",
+      "plot": "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second Netflix stand-up special.",
+      "directors": []
+    },
+    {
+      "id": "ricky_gervais_armageddon",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Ricky Gervais: Armageddon",
+      "original_title": "Ricky Gervais: Armageddon",
+      "year": 2023,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 7.3,
+      "votes": 539,
+      "tomatometer": 43,
+      "audience_score": 63,
+      "runtime_minutes": 62,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/oBW-qGxoZWrg-due5Qq3MMH9j5U=/300x450/v2/https://resizing.flixster.com/ANMQ6QaScQ8pRvXW2R-TL3caML4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY4ODFmNzc3LWNmNzUtNGIxOS1iOWE3LTNjNWIwOTY0ZDZmMi5qcGc=",
+      "plot": "Ricky Gervais riffs on the end of humanity, political correctness, family weddings, funerals and Artificial Intelligence.",
+      "directors": [
+        "John L Spencer"
+      ]
+    },
+    {
+      "id": "ellen_degeneres_relatable",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Ellen DeGeneres: Relatable",
+      "original_title": "Ellen DeGeneres: Relatable",
+      "year": 2018,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 7.1,
+      "votes": 210,
+      "tomatometer": 92,
+      "audience_score": 43,
+      "runtime_minutes": 68,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/O-sRKDm0qb51Bf_lEDFo4aJ0JPc=/300x450/v2/https://resizing.flixster.com/EP6ap4tIybBikTMuQ7cW9atZq1Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1ZWZmMDg2LTVkOWUtNDY3OC1hNjVkLWQ1ZWEwN2ZjMzg3Ny5qcGc=",
+      "plot": "Ellen DeGeneres is \"Relatable\" in her debut Netflix original comedy special premiering December 18. Filmed at Seattle's Benaroya Hall, Relatable marks Ellen's return to stand-up after a 15-year…",
+      "directors": [
+        "Joel Gallen",
+        "Tig Notaro"
+      ]
+    },
+    {
+      "id": "adam_sandler_love_you",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Adam Sandler: Love You",
+      "original_title": "Adam Sandler: Love You",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 8.3,
+      "votes": 142,
+      "tomatometer": 92,
+      "audience_score": 68,
+      "runtime_minutes": 74,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/N_06e6r616AV_m73Vlk2DCgaqPE=/300x450/v2/https://resizing.flixster.com/VHSKeiiRgWsXdEGYpP_9eUfFmFM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVjNDUyOWY0LWQyMzktNGEyOC1iZjY1LWQ4N2U5NmE0OWYwNC5qcGc=",
+      "plot": "Adam Sandler hits the stage for a thrillingly unpredictable comedy special featuring songs, jokes, party-crashing dogs and plenty of love.",
+      "directors": [
+        "Josh Safdie"
+      ]
+    },
     {
       "id": "trevor_noah_i_wish_you_would",
       "category": "comedia",
@@ -16,12 +107,520 @@
       ],
       "rating": null,
       "votes": 106,
+      "tomatometer": null,
+      "audience_score": 44,
       "runtime_minutes": 68,
       "certificate": "TV-14",
       "poster": "https://resizing.flixster.com/scGDe0lyLM-N16bVxXh-ZF_1IuU=/300x450/v2/https://resizing.flixster.com/SqiYAbJjZVfQ2dgz6PZg2wMCcRU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBjYWZiMGUzLWJlMDMtNGFlOS05ZDg0LWE0NWE2ZjdjNjRmMy5qcGc=",
       "plot": "Emmy-winning comedian Trevor Noah talks learning German, speaking ill of the dead, judging people in horror movies and ordering Indian food in Scotland.",
       "directors": [
         "David Paul Meyer"
+      ]
+    },
+    {
+      "id": "neal_brennan_blocks",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Neal Brennan: Blocks",
+      "original_title": "Neal Brennan: Blocks",
+      "year": 2022,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 74,
+      "tomatometer": null,
+      "audience_score": 91,
+      "runtime_minutes": 62,
+      "certificate": "TV-MA",
+      "poster": "https://resizing.flixster.com/VT-lUT9lPoKLw9hj2kVjQL3CgK4=/300x450/v2/https://resizing.flixster.com/-W7DM1Bw3vV-tmYacgQlBRaFDkI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlkMWVkYjcyLTgxNDItNDI2NS1iMjBlLTdhMTE5ODdjNDExOS5qcGc=",
+      "plot": "From the weird relationship humans have with dogs to how dating a model is like owning a dune buggy, Neal Brennan muses on his life in this stand-up special.",
+      "directors": [
+        "Derek DelGaudio"
+      ]
+    },
+    {
+      "id": "aziz_ansari_nightclub_comedian",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Aziz Ansari: Nightclub Comedian",
+      "original_title": "Aziz Ansari: Nightclub Comedian",
+      "year": 2022,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 5.0,
+      "votes": 69,
+      "tomatometer": 80,
+      "audience_score": 46,
+      "runtime_minutes": 29,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/b_Hp9qPG5K3804cpewHRlNzzrXs=/300x450/v2/https://resizing.flixster.com/upKrvJBpak7pnId73iq5r2cV7JY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlMjRkNzY4LWY5NWItNDAwYS04OGRhLWZjOWU4NWI2NzRlMi5qcGc=",
+      "plot": "After another year of lockdowns, Aziz takes the stage to skewer pandemic life, quarantines, vaccine cards, celebrity side-gigs, smartphones and more.",
+      "directors": [
+        "Aziz Ansari"
+      ]
+    },
+    {
+      "id": "yearly_departed",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Yearly Departed",
+      "original_title": "Yearly Departed",
+      "year": 2020,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 7.5,
+      "votes": 59,
+      "tomatometer": 86,
+      "audience_score": 56,
+      "runtime_minutes": null,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/0xs4kbpB0e88omWXdtJBBUHGzaI=/300x450/v2/https://resizing.flixster.com/v0P9BLF4imiN0sacJYvp7HaY_1o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiZWU4YjBiLTQ5YjYtNDY5NC1iOTdjLTdkYmQ4OTlmYTk2MS5qcGc=",
+      "plot": "Goodbye and good riddance, 2020. Yearly Departed is a hilarious, absurd, life-affirming comedy special, where seven outspoken female comedians lay to rest the year that never seemed to end. Hosted by…",
+      "directors": [
+        "Linda Mendoza"
+      ]
+    },
+    {
+      "id": "gabriel_iglesias_stadium_fluffy",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Gabriel Iglesias: Stadium Fluffy",
+      "original_title": "Gabriel Iglesias: Stadium Fluffy",
+      "year": 2022,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 57,
+      "tomatometer": null,
+      "audience_score": 67,
+      "runtime_minutes": 115,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/vZtLC-5TqjFR-b_wqmmF9vNynMA=/300x450/v2/https://resizing.flixster.com/uCREmEqcz0t2c3T5ye0E6Wtd1xA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxNjc3NjZlLTA5ZmMtNDFlNi05MDc3LTJkZDVkNmRlMzBmNi5qcGc=",
+      "plot": "Getting blackmailed. Offending a professional boxer. Trick-or-treating with his son. Gabriel shares his highs and lows in this landmark stand-up special filmed at Dodger Stadium.",
+      "directors": [
+        "Manny Rodriguez"
+      ]
+    },
+    {
+      "id": "nate_bargatze_the_greatest_average_american",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Nate Bargatze: The Greatest Average American",
+      "original_title": "Nate Bargatze: The Greatest Average American",
+      "year": 2021,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 7.5,
+      "votes": 56,
+      "tomatometer": 100,
+      "audience_score": 80,
+      "runtime_minutes": 60,
+      "certificate": "TV-G",
+      "poster": "https://resizing.flixster.com/yzrDCoOlCWu7wWr4Vpnw13mr68M=/300x450/v2/https://resizing.flixster.com/hQeSEqD8pWBBWYIJHLWwJvSt_Jg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI4OTRmMTM4LTI0ZDUtNDlkNi04MGQ3LTJjMjU0ZTkwZmUwNS5qcGc=",
+      "plot": "Tennessee-born comedian, actor, and podcast host Nate Bargatze is back with his second hour-long Netflix original comedy special, Nate Bargatze: The Greatest Average American.  Nate reflects on being…",
+      "directors": [
+        "Troy Miller"
+      ]
+    },
+    {
+      "id": "mike_birbiglia_the_old_man_and_the_pool",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Mike Birbiglia: The Old Man and The Pool",
+      "original_title": "Mike Birbiglia: The Old Man and The Pool",
+      "year": 2023,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 8.3,
+      "votes": 54,
+      "tomatometer": 100,
+      "audience_score": 91,
+      "runtime_minutes": 77,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/mycBxfQ2UzcdBF-TBAOl6rH7mQg=/300x450/v2/https://resizing.flixster.com/MfHPb7vc-ufdl_ZTt6DnGOtOLmo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMxZDk4YTk1LTE5YzktNGNlOS04OGI0LTYwZGRkNDI3ZmU3Yi5qcGc=",
+      "plot": "Comedian Mike Birbiglia dives headlong into mortality, medical tests, nature's pillows and an overchlorinated YMCA pool in this candid one-man show.",
+      "directors": [
+        "Seth Barrish"
+      ]
+    },
+    {
+      "id": "jo_koy_live_from_brooklyn",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Jo Koy: Live from Brooklyn",
+      "original_title": "Jo Koy: Live from Brooklyn",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 54,
+      "tomatometer": null,
+      "audience_score": 78,
+      "runtime_minutes": 59,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/bWCOtKz-F9K2odVdhfSLcIL7p48=/300x450/v2/https://resizing.flixster.com/f7VP_mdWVnXGpSSKPJD0uShTPfU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjYjNkMmYwLTcyZTQtNDkzNi04N2Y1LWJlYjgxZjdkMzIzNS5qcGc=",
+      "plot": "Brooklyn are you ready?! Jo Koy returns to Netflix in typical style, sharing his unfiltered opinions on social media, aging and moving into a new phase of his life; his zaddy phase. Filmed at the…",
+      "directors": [
+        "Shannon Hartman"
+      ]
+    },
+    {
+      "id": "amy_schumers_parental_advisory",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Amy Schumer's Parental Advisory",
+      "original_title": "Amy Schumer's Parental Advisory",
+      "year": 2022,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 50,
+      "tomatometer": null,
+      "audience_score": 8,
+      "runtime_minutes": null,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/kTEvgNGba84pGog_iLXiNA90reg=/300x450/v2/https://resizing.flixster.com/To5RliOydC0HANYCVgETY7_uGo4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkMjI1ZThmLWUyMTktNDIwOC1iMTkyLWFmMDcwN2FhMDljOS5qcGc=",
+      "plot": "Amy Schumer welcomes her favorite comedians to the stage in this special about family life, from the pressures of parenting to the joys of remarriage.",
+      "directors": [
+        "Ryan Polito"
+      ]
+    },
+    {
+      "id": "jacqueline_novak_get_on_your_knees",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Jacqueline Novak: Get on Your Knees",
+      "original_title": "Jacqueline Novak: Get on Your Knees",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 8.5,
+      "votes": 44,
+      "tomatometer": 100,
+      "audience_score": 77,
+      "runtime_minutes": 94,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/iKtRCE9Nu-ir5urvrkY9yjtLvh8=/300x450/v2/https://resizing.flixster.com/2--qa-Mb9chNRxh5k4TL16dFx38=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmZDA5YTc5LWUxYjAtNGNlMC1iNWNmLWVjNjZkZThmNTI0ZS5qcGc=",
+      "plot": "Comedian Jacqueline Novak delivers a funny and philosophical meditation on sex, coming-of-age and a certain body part in this intimate stand-up special.",
+      "directors": [
+        "Natasha Lyonne"
+      ]
+    },
+    {
+      "id": "hasan_minhaj_off_with_his_head",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Hasan Minhaj: Off With His Head",
+      "original_title": "Hasan Minhaj: Off With His Head",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 44,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 61,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/GHQLnfybDSIxzAJtCWmRIbsvHiI=/300x450/v2/https://resizing.flixster.com/q-qkLG7Ps29UoBY2lmX8bpVMG84=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q2MWYzZjMxLTA2ZTktNDU2Yi1hNjgwLTU2YTAzYjg5MjcyNy5qcGc=",
+      "plot": "Hasan Minhaj delivers an unapologetic stand-up set about midlife identity struggles, race relations, political divides — and that fact-checking scandal.",
+      "directors": [
+        "Tyler Babin"
+      ]
+    },
+    {
+      "id": "kevin_james_irregardless",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Kevin James: Irregardless",
+      "original_title": "Kevin James: Irregardless",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 44,
+      "tomatometer": null,
+      "audience_score": 50,
+      "runtime_minutes": 61,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/yAqG_FbKLD7aa6_yIxYP1IDwXbk=/300x450/v2/https://resizing.flixster.com/Sq_wysaFWWqrJeCYxcllTFNfjTs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0YTA3OTkzLWEwMjItNGE4MC1hNGVhLWY4MWQ4MzdkYmNiYS5qcGc=",
+      "plot": "Kevin James delivers an unfiltered take on parenting, marriage, and getting older. He covers a range of topics, from motivating children to put down their video games, to why he doesn’t trust…",
+      "directors": [
+        "Kevin James"
+      ]
+    },
+    {
+      "id": "dave_attell_hot_cross_buns",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Dave Attell: Hot Cross Buns",
+      "original_title": "Dave Attell: Hot Cross Buns",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 40,
+      "tomatometer": null,
+      "audience_score": 88,
+      "runtime_minutes": 37,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/NIVyThD0y8jAex3e0frXg_KKWOc=/300x450/v2/https://resizing.flixster.com/8CLyN8FzWo86MQQu_mZsv8Z1AHU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE0NDVmZTVjLWI4NTMtNGQ1NS04OWRhLTZiOTI0ZDdmYTVmNS5qcGc=",
+      "plot": "The old man’s back -- out of the clubs, onto the screen, comedian Dave Attell brings it hard in this rapid-fire, no-holds-barred performance.",
+      "directors": [
+        "Scott Gawlik"
+      ]
+    },
+    {
+      "id": "jimmy_carr_natural_born_killer",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Jimmy Carr: Natural Born Killer",
+      "original_title": "Jimmy Carr: Natural Born Killer",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 40,
+      "tomatometer": null,
+      "audience_score": 42,
+      "runtime_minutes": 59,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/RBFESxyWbMCau3mSB-zr54rGVB8=/300x450/v2/https://resizing.flixster.com/qwtcBA_woVUkkRzmzCxjrQfVOWw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyYTQwYzljLTA4ZmMtNGMzZi1hNzU3LTNkZDE0ZjAxYjYyYy5qcGc=",
+      "plot": "Jimmy Carr refutes the idea that you can't joke about anything these days with his edgy takes on gun control, religion, cancel culture and consent.",
+      "directors": [
+        "Jimmy Carr",
+        "Brian Klein"
+      ]
+    },
+    {
+      "id": "dusty_slay_workin_man",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Dusty Slay: Workin' Man",
+      "original_title": "Dusty Slay: Workin' Man",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 34,
+      "tomatometer": null,
+      "audience_score": 76,
+      "runtime_minutes": 69,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/p_buwZo_khU4SNgynNa44Osmx3E=/300x450/v2/https://resizing.flixster.com/Wvllo6Bn3I-uV4WN8FtchBjEzSs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y3NTcwMjM5LTJjNDAtNGFkZC04ZTY3LTE3MTY2ZjFkMTUxMy5qcGc=",
+      "plot": "Comedian Dusty Slay serves up his distinctive homespun humor on shirt-tucking, hipster coffee shops and country music mysteries in this stand-up special.",
+      "directors": []
+    },
+    {
+      "id": "seth_meyers_dad_man_walking",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Seth Meyers: Dad Man Walking",
+      "original_title": "Seth Meyers: Dad Man Walking",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 8.4,
+      "votes": 32,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 61,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/e5yhbwBH1k99wJxBifJZgDcXry4=/300x450/v2/https://resizing.flixster.com/FzjPMZuWCixG3CULKFYtouWZ2bU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzMzY0MDBmLTE1YWQtNDNjYi1hODI1LTVmNDRmYmVmZDI2Ny5qcGc=",
+      "plot": "Known for his dry wit and sharp topical commentary as host of “Late Night with Seth Meyers,” the veteran comedian shifts his focus to his personal life – from the chaos of raising three young kids,…",
+      "directors": [
+        "Neal Brennan"
+      ]
+    },
+    {
+      "id": "john_early_now_more_than_ever",
+      "category": "comedia",
+      "type": "movie",
+      "title": "John Early: Now More Than Ever",
+      "original_title": "John Early: Now More Than Ever",
+      "year": 2023,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 8.2,
+      "votes": 32,
+      "tomatometer": 100,
+      "audience_score": 66,
+      "runtime_minutes": 64,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Fcita2KDR69xOPVPSTImEt8asAs=/300x450/v2/https://resizing.flixster.com/zTKHwCffDBSR7Bo91MKAcUBHNOA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhNzhlNmJkLTcxYWMtNGE3Yy05MjU3LTNkMjJjN2JlNGRjMi5qcGc=",
+      "plot": "In his first HBO comedy special, John Early brings his unique blend of cutting commentary, pop star swagger, and all-around loveable hilarity to Roulette Intermedium in Brooklyn, New York. In the…",
+      "directors": [
+        "Emily Allan",
+        "Leah Hennessey"
+      ]
+    },
+    {
+      "id": "neal_brennan_crazy_good",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Neal Brennan: Crazy Good",
+      "original_title": "Neal Brennan: Crazy Good",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 31,
+      "tomatometer": null,
+      "audience_score": 97,
+      "runtime_minutes": 53,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/WCiCcauCBfBYwxx_XN3apN902NU=/300x450/v2/https://resizing.flixster.com/phR-Krcab-j2oPMXDsPgPNXstN8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiOGU0Y2VkLTVhNzMtNDQ1ZS1hMDBmLTI4ZjAwZTIzMjM4YS5qcGc=",
+      "plot": "In his third Netflix original comedy special, Neal Brennan is feeling pretty great and he’s ready to let you know why. True to form, Neal brings his fresh point of view to hilarious topics ranging…",
+      "directors": [
+        "Neal Brennan"
+      ]
+    },
+    {
+      "id": "tig_notaro_happy_to_be_here",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Tig Notaro: Happy to Be Here",
+      "original_title": "Tig Notaro: Happy to Be Here",
+      "year": 2018,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 7.5,
+      "votes": 29,
+      "tomatometer": 100,
+      "audience_score": 76,
+      "runtime_minutes": null,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/dZ_rjdxed_1DIv7IAvoOmTqn_Gs=/300x450/v2/https://resizing.flixster.com/ruRpRnfUxVJteLsagVDMGvOcjS0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0YmFiYjM4LTRjNzItNGEyNS04MmRkLTZhYmYzOThjNWNiNS5qcGc=",
+      "plot": "Comedian Tig Notaro brings her signature deadpan silliness in Tig Notaro Happy To Be Here, available only on Netflix starting May 22, 2018. Filmed at the historic Heights Theater in Houston, Tig…",
+      "directors": [
+        "Tig Notaro"
+      ]
+    },
+    {
+      "id": "rory_scovel_religion_sex_and_a_few_things_in_between",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Rory Scovel: Religion, Sex, and a Few Things In Between",
+      "original_title": "Rory Scovel: Religion, Sex, and a Few Things In Between",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 20,
+      "tomatometer": null,
+      "audience_score": 75,
+      "runtime_minutes": 73,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/EDLQwSVbhUWk_1BPMHDPMpQPvD8=/300x450/v2/https://resizing.flixster.com/Vy_0boJMgBY83rM5_YLcWYNoMZ4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiNmY1OTljLTMyNDMtNGNjMy1hMWFlLWU3YjA0NTE2MjA0MC5qcGc=",
+      "plot": "Scovel takes the stage at Minneapolis’ Goodale Theater to offer his observations on such disparate subjects as religion, sex, mushrooms, vaccines, parenting an eight-year-old, and much more in this…",
+      "directors": [
+        "Jeff Tomsic"
+      ]
+    },
+    {
+      "id": "deon_cole_ok_mister",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Deon Cole: OK, Mister",
+      "original_title": "Deon Cole: OK, Mister",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 19,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 65,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/FcIivdVF9-NJzpylpHOwK-yz2EA=/300x450/v2/https://resizing.flixster.com/nF51xx1y07LJ7ubY36YItTO_gbU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NmMDUwZmJmLTA4OGItNDA0NS04NzA4LTRkYTQyMGMyODQ0ZC5qcGc=",
+      "plot": "From the telltale signs of aging to bedroom mishaps and dating deal-breakers, Deon Cole spins comedy gold in this playfully candid special.",
+      "directors": [
+        "Ryan Polito"
+      ]
+    },
+    {
+      "id": "tom_papa_home_free",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Tom Papa: Home Free",
+      "original_title": "Tom Papa: Home Free",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 18,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 62,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/QMOiXxsWdoS0X-SjOya76d2EyrE=/300x450/v2/https://resizing.flixster.com/6DNKr5ZD1Fzf5LPL13nB-on3HU4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyYmJkNDZmLWFlZTctNGZjYy04MWMzLTFjMDI3ZTUxNDRhMi5qcGc=",
+      "plot": "From the sheer bliss of a hot shower to the saucy joys of an empty nest, Tom Papa tackles aging, parenthood and more in this witty comedy special.",
+      "directors": [
+        "Troy Miller"
+      ]
+    },
+    {
+      "id": "brian_simpson_live_from_the_mothership",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Brian Simpson: Live from the Mothership",
+      "original_title": "Brian Simpson: Live from the Mothership",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 17,
+      "tomatometer": null,
+      "audience_score": 71,
+      "runtime_minutes": 71,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/T-sxBGRckWE3pCbgSZD0oBPadUw=/300x450/v2/https://resizing.flixster.com/KMPXN5sWQd2y1OZhTJyc99nkG4w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM3ZjA3NDlhLTgwNmItNDJkMy1iY2Q1LWIwYTgwMDM5MDgxYi5qcGc=",
+      "plot": "From embracing his inner hater to the rigid rules of masculinity, comedian Brian Simpson goes full throttle in this unfiltered stand-up special.",
+      "directors": [
+        "Baron Vaughn"
       ]
     },
     {
@@ -37,12 +636,244 @@
       ],
       "rating": null,
       "votes": 16,
+      "tomatometer": null,
+      "audience_score": 69,
       "runtime_minutes": null,
       "certificate": "TV-MA",
       "poster": "https://resizing.flixster.com/i2TlYAkrIQeBAmh0tH3gKWAH0fY=/300x450/v2/https://resizing.flixster.com/I6gZY7eYfRQJAnJIuh59WwG2NdQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRjOTg1ZGYxLWMwNmItNGUxYy04MTczLTE4MDc0YWQzYzkxYS5qcGc=",
       "plot": "Getting old may be the goal, but the road there is comically difficult. In his second Netflix original comedy special, which is dedicated to his late mother, Deon Cole hilariously shares his advice…",
       "directors": [
         "Ryan Polito"
+      ]
+    },
+    {
+      "id": "colin_jost_and_michael_che_present_new_york_after_dark",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Colin Jost & Michael Che Present: New York After Dark",
+      "original_title": "Colin Jost & Michael Che Present: New York After Dark",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 14,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 57,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/cXePhZhmr4mHLLRV-9roAsTqGus=/300x450/v2/https://resizing.flixster.com/F8NSF00Rj5LPY35RAp04CrkRvaA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NiOTkxMTZjLTczZjYtNGMwMS1iYmE3LTFmOTJhODM5MTMyMi5qcGc=",
+      "plot": "Peacock’s first-ever LIVE comedy event. Hosted by the beloved SNL Weekend Update duo, the showcase special will stream live from The Bell House in Brooklyn, featuring special guest drop-ins from…",
+      "directors": [
+        "Michael Mancini"
+      ]
+    },
+    {
+      "id": "mike_epps_ready_to_sell_out",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Mike Epps: Ready to Sell Out",
+      "original_title": "Mike Epps: Ready to Sell Out",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 14,
+      "tomatometer": null,
+      "audience_score": 36,
+      "runtime_minutes": 61,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Z9x0aTM4VSoqr4rheC2a9zNv_Vg=/300x450/v2/https://resizing.flixster.com/sSOottxRSbbNMJuzOIgIth4owjs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q1NDhmZTlhLWMyMDQtNGRkMi04ZmZhLWQ0Yzk3MjU1ZTdmMy5qcGc=",
+      "plot": "Comedian Mike Epps keeps it real as he riffs on poor personal hygiene, failing at infidelity and waging war on work husbands in his latest stand-up special.",
+      "directors": [
+        "Royale Watkins"
+      ]
+    },
+    {
+      "id": "chappelles_home_team_donnell_rawlings_a_new_day",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Chappelle's Home Team - Donnell Rawlings: A New Day",
+      "original_title": "Chappelle's Home Team - Donnell Rawlings: A New Day",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 12,
+      "tomatometer": null,
+      "audience_score": 58,
+      "runtime_minutes": 40,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/42x1Q8W79EsmYO5olDyJHMaDPhI=/300x450/v2/https://resizing.flixster.com/DrqIvFUTUt7qrNQ3yzdKEssrjgU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwMTk2NjlmLTA3NmItNDBlMS05YWU0LTFkOWY0MmY0YmE0MC5qcGc=",
+      "plot": "Donnell Rawlings riffs on toxic relationships, getting older, visiting New Zealand and his secret to co-parenting a young son in this stand-up special.",
+      "directors": [
+        "Stan Lathan"
+      ]
+    },
+    {
+      "id": "rachel_feinstein_big_guy",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Rachel Feinstein: Big Guy",
+      "original_title": "Rachel Feinstein: Big Guy",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 12,
+      "tomatometer": null,
+      "audience_score": 67,
+      "runtime_minutes": 54,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/JDf0XH5tw36TVtu6t2nqHjjeD-U=/300x450/v2/https://resizing.flixster.com/11A3YWpAPoVGSkTO3GFfi_rwtFo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU1OTg0ODhlLTA4ZjEtNDc4MS05OTY2LWRhYmY4Njc1ZDJhMC5wbmc=",
+      "plot": "From her firefighter husband's unflattering pet name to her mom's aggressive accessorizing, Rachel Feinstein lets loose in this stand-up comedy special.",
+      "directors": [
+        "Gillian Laub"
+      ]
+    },
+    {
+      "id": "jim_gaffigan_quality_time",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Jim Gaffigan: Quality Time",
+      "original_title": "Jim Gaffigan: Quality Time",
+      "year": 2019,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 7.5,
+      "votes": 11,
+      "tomatometer": 100,
+      "audience_score": 91,
+      "runtime_minutes": 75,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/se1ME_il7yKT5ZUHmrL2KqVdgxs=/300x450/v2/https://resizing.flixster.com/ZX7tqwaWkQy36h_9mIoj78xgomQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcxZTJkOTM3LTAxMWQtNGM2OC1hMTljLTAyZTA4MWM4ODFiMS5qcGc=",
+      "plot": "Jim Gaffigan is in top form for his 7th comedy special. The 4-time Grammy nominated comedian, doesn’t understand why we aren’t more honest about the reasons we don’t want to attend events, while at…",
+      "directors": [
+        "Jeannie Gaffigan"
+      ]
+    },
+    {
+      "id": "langston_kerman_bad_poetry",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Langston Kerman: Bad Poetry",
+      "original_title": "Langston Kerman: Bad Poetry",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 11,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 50,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/vHrnnvWBPxB6zvgSxo3WnolOAZw=/300x450/v2/https://resizing.flixster.com/X2qrQoSWKDW3FZ3WnGarv5njvvQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVmZTA0MTQ1LTM3NjctNGM0Zi1hOWJhLTdjYzZhNGQxYzMxYy5qcGc=",
+      "plot": "Comedian Langston Kerman talks parenting a top-tier baby, teaching mean teens and managing his mother-in-law's dating apps in this hilarious special.",
+      "directors": [
+        "John Mulaney"
+      ]
+    },
+    {
+      "id": "sam_morril_youve_changed",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Sam Morril: You've Changed",
+      "original_title": "Sam Morril: You've Changed",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 10,
+      "tomatometer": null,
+      "audience_score": 90,
+      "runtime_minutes": 50,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/7irix8IML3lUFfihWXMJMiQKm9s=/300x450/v2/https://resizing.flixster.com/SGAn8AZn8dV_eFURNS6YdLg5_dQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzODlhNWEyLWE4ZTgtNDljMy04MjcwLWFiODA5ODIzNTVkOS5qcGc=",
+      "plot": "Sam Morril, in his distinct laid-back style, effortlessly riffs on the worst person he’s ever dated, the complications of getting older, and his perspective on everything from cable news to the…",
+      "directors": [
+        "James Webb"
+      ]
+    },
+    {
+      "id": "sam_jay_3_in_the_morning",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Sam Jay: 3 in the Morning",
+      "original_title": "Sam Jay: 3 in the Morning",
+      "year": 2020,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": 7.9,
+      "votes": 9,
+      "tomatometer": 86,
+      "audience_score": 67,
+      "runtime_minutes": 64,
+      "certificate": "TV-MA",
+      "poster": "https://resizing.flixster.com/pG0lxprT4YJVQBzuWSp6TKGQYBM=/300x450/v2/https://resizing.flixster.com/PhJ4qutcEYBk74gRlTG0ykvnjEg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdkOThlNzFkLTQyMGUtNGU2MC1hODdhLWI0NjcwZGY5MDhkOS5qcGc=",
+      "plot": "Following her Netflix debut on The Comedy Lineup Part 1, Emmy Award-nominated Saturday Night Live writer Sam Jay is back with her first hour-long Netflix original comedy special, 3 In The Morning.…",
+      "directors": [
+        "Kristian Mercado"
+      ]
+    },
+    {
+      "id": "chad_daniels_empty_nester",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Chad Daniels: Empty Nester",
+      "original_title": "Chad Daniels: Empty Nester",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 7,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 61,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Qj-mwRDJ_3FSw0hbH8IBNavZIhI=/300x450/v2/https://resizing.flixster.com/55Z3sEvgd0rozdbXVaAPlvDbTbs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEyYTg5NzY0LTg0OTMtNDNlYi1hNTkyLWMwYTI4ZTE0MTQwZS5qcGc=",
+      "plot": "Comedian Chad Daniels sounds off on dad-shaming, dating someone with allergies and the upside of an empty nest in this edgy stand-up special.",
+      "directors": [
+        "Eric Abrams"
+      ]
+    },
+    {
+      "id": "steve_trevino_simple_man",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Steve Treviño: Simple Man",
+      "original_title": "Steve Treviño: Simple Man",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 5,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 56,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/dUBLGuW70mgVG-UKZBUew6g-H5I=/300x450/v2/https://resizing.flixster.com/vxc40jrGzX3eX-SVCgm4_w7V1H8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcxNGQ2N2Q4LWIzN2ItNGYyOS05OGFhLWM2MjQ5MjQ0MDk5MS5qcGc=",
+      "plot": "From the secret to his successful marriage to his dad's spaghetti sandwiches, comedian Steve Treviño riffs on family life in this upbeat stand-up special.",
+      "directors": [
+        "Renae Treviño"
       ]
     },
     {
@@ -58,11 +889,129 @@
       ],
       "rating": null,
       "votes": 4,
+      "tomatometer": null,
+      "audience_score": null,
       "runtime_minutes": null,
       "certificate": "TV-MA",
       "poster": "https://resizing.flixster.com/xkWgbqyxjZ6aMV6KJWvDvfC6xIw=/300x450/v2/https://resizing.flixster.com/Wga8tcheSOiUQpucoLlTgUJSMQM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3NjVlYThhLWNkODMtNDlkOC05ODJkLTk1OWRkZDFlMjc4ZS5qcGc=",
       "plot": "The comedian and podcast host sounds off on sexual escapades, TikTok police and how she became Sweden's pandemic poster girl.",
       "directors": []
+    },
+    {
+      "id": "red_ollero_mabuhay_is_a_lie",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Red Ollero: Mabuhay Is a Lie",
+      "original_title": "Red Ollero: Mabuhay Is a Lie",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 4,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 72,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/5tZEg9-m0sObUxpK9JBXEk1Y3bc=/300x450/v2/https://resizing.flixster.com/DVJ5HPXjc6CiTJ-cIJlQ3hfPj4o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU1NWQ3Y2NiLWQxZTQtNGFmYy04ZTExLTA1MjZlNGJiNTE0OS5qcGc=",
+      "plot": "In his first major stand-up special, irreverent comedian Red Ollero takes aim at fast food, awkward sex and the trouble with being not-quite-famous.",
+      "directors": [
+        "Ryan Puno"
+      ]
+    },
+    {
+      "id": "kev_adams_the_real_me",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Kev Adams: The Real Me",
+      "original_title": "Kev Adams: The Real Me",
+      "year": 2022,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 3,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": null,
+      "certificate": "TV-MA",
+      "poster": "https://resizing.flixster.com/VK5CL-yRK6IM0CKBmDn2eVYAaMU=/300x450/v2/https://resizing.flixster.com/z0Ry5HddtAQn1I84wfQYHVupsEA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FhMWZmMzE3LWRmY2QtNDIxMy04ZmU4LTFhMTYyZjgzMDAwZC5qcGc=",
+      "plot": "At age 30, French comic Kev Adams gets up close and personal about how life has changed since his big break 12 years ago -- and not always for the best.",
+      "directors": [
+        "Jérémie Levypon"
+      ]
+    },
+    {
+      "id": "phil_wang_wang_in_there_baby",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Phil Wang: Wang in There, Baby!",
+      "original_title": "Phil Wang: Wang in There, Baby!",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 3,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 61,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/n52ltjJT-VYxdbQmidJCSfPUaAM=/300x450/v2/https://resizing.flixster.com/PmdIfoSNcGI1oOQd8E6PiZG3XLw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y5ZWFhOTlkLTk0MjUtNDlhMy1hMTdhLWNmNDE3MzRkMzE2MC5qcGc=",
+      "plot": "Phil Wang riffs on reheated rice, octopus intelligence and the importance of fact-checking in this special filmed at Shakespeare's Globe in London.",
+      "directors": [
+        "Andy Devonshire"
+      ]
+    },
+    {
+      "id": "ahir_shah_ends",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Ahir Shah: Ends",
+      "original_title": "Ahir Shah: Ends",
+      "year": 2024,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 2,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 61,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/nETxUe1j3V4bxaVzHl8eHYwEYVk=/300x450/v2/https://resizing.flixster.com/WuOpGjPLy9NoaPEQQ8FZyLnQKw4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlkNzdmM2FjLWQxMTctNDc1Ni1hYjViLTMwMmFjNzE0OTFjZS5qcGc=",
+      "plot": "From London's Royal Court Theatre, acclaimed comedian Ahir Shah dishes on class, family and multiculturalism in the UK from his grandfather's view.",
+      "directors": [
+        "Peter Orton"
+      ]
+    },
+    {
+      "id": "panayotis_pascot_almost",
+      "category": "comedia",
+      "type": "movie",
+      "title": "Panayotis Pascot: Almost",
+      "original_title": "Panayotis Pascot: Almost",
+      "year": 2022,
+      "genres": [
+        "Comedia",
+        "Monólogos"
+      ],
+      "rating": null,
+      "votes": 1,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": null,
+      "certificate": "TV-MA",
+      "poster": "https://resizing.flixster.com/TuvRIC2Jw_EtTy0X337qPQypRWU=/300x450/v2/https://resizing.flixster.com/zzeqQDXoYqIWzaqLTW48hryHnsc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE2ZWE4N2VkLTllOWMtNGE0Zi04MTJiLWExODU2NmJjZTZiNy5qcGc=",
+      "plot": "French television darling Panayotis Pascot opens up about his love life and upbringing in this hilarious and touching comedy special.",
+      "directors": [
+        "Panayotis Pascot",
+        "Adib Alkhalidey"
+      ]
     }
   ]
 }
