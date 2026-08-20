@@ -96,6 +96,9 @@ python -m scraper --refresh 500 --skip-discovery
 | `--delay` / `--workers` | ritmo de las peticiones |
 | `--no-related` | no encolar las películas que enlaza cada ficha |
 
+Los géneros, los títulos y las sinopsis se guardan tal y como vienen, en
+inglés: el sitio que los consume está en ese idioma por la misma razón.
+
 `python -m scraper --help` tiene la lista completa.
 
 ## Sondear un origen antes de escribirle un scraper
