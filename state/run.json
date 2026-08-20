@@ -1,0 +1,50 @@
+{
+  "updated_at": "2026-08-20T19:21:34.428669Z",
+  "seen": 40,
+  "pending": 229,
+  "failed": 0,
+  "abandoned": 0,
+  "last_run": {
+    "mode": "incremental",
+    "discovered": 127,
+    "queued": 127,
+    "refreshed": 0,
+    "fetched": 40,
+    "saved": 40,
+    "skipped_thin": 0,
+    "failed": 0,
+    "genres": {
+      "romance": 2,
+      "terror": 10,
+      "comedia": 6,
+      "lgbtq": 1,
+      "ciencia-ficcion": 3,
+      "crimen": 5,
+      "misterio-y-suspense": 5,
+      "animacion": 2,
+      "fantasia": 2,
+      "biografia": 2,
+      "belico": 2
+    },
+    "seo": {
+      "generated_at": "2026-08-20T19:21:34.428152Z",
+      "site_url": "https://nort5.com",
+      "total_urls": 62,
+      "sitemaps": [
+        "sitemap-generos.xml",
+        "sitemap-peliculas-0001.xml"
+      ]
+    },
+    "total_titles": 40,
+    "total_genres": 19,
+    "duration_seconds": 46.5,
+    "http": {
+      "requests": 48,
+      "errors": 0,
+      "blocked": 0,
+      "statuses": {
+        "200": 47
+      }
+    }
+  }
+}
