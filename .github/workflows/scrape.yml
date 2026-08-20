@@ -48,6 +48,10 @@ on:
         description: "Solo procesar la cola pendiente, sin buscar URLs nuevas"
         type: boolean
         default: false
+      ignore_robots:
+        description: "Ignorar robots.txt (IMDb prohibe /title/ y /chart/ a agentes genericos)"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -88,6 +92,11 @@ jobs:
           WORKERS: ${{ inputs.workers || '4' }}
           DELAY: ${{ inputs.delay || '1.0' }}
           SKIP_DISCOVERY: ${{ inputs.skip_discovery || 'false' }}
+          # Vacio en las ejecuciones programadas: ahi tambien se ignora, que es
+          # lo unico que hace que traigan algo. Un ternario aqui no vale, porque
+          # en las expresiones de GitHub un booleano falso se cuela por la rama
+          # equivocada; la decision se toma abajo, en el shell.
+          IGNORE_ROBOTS: ${{ inputs.ignore_robots }}
           SITE_URL: ${{ vars.SITE_URL }}
         run: |
           set -euo pipefail
@@ -104,6 +113,7 @@ jobs:
           )
           if [ -n "$SOURCES" ]; then args+=(--sources "$SOURCES"); fi
           if [ "$SKIP_DISCOVERY" = "true" ]; then args+=(--skip-discovery); fi
+          if [ "$IGNORE_ROBOTS" != "false" ]; then args+=(--ignore-robots); fi
           python -m scraper "${args[@]}"
 
       # Una ejecucion que no guarda nada porque el origen nos cierra la puerta

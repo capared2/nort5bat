@@ -122,9 +122,19 @@ sitio se sustituye por un doble en `tests/fake_site.py`.
 
 ## Buenos modales
 
-El scraper obedece `robots.txt` (incluido `crawl-delay`), espacia las
-peticiones, reintenta con backoff y se identifica con un User-Agent propio, que
-se puede cambiar con `IMDB_USER_AGENT`.
+El scraper espacia las peticiones —el freno es global, así que `--delay 1.0`
+es una petición por segundo en total, no por hilo—, reintenta con backoff y se
+identifica con un User-Agent propio, que se puede cambiar con `IMDB_USER_AGENT`.
+
+Por defecto obedece `robots.txt`, incluido su `crawl-delay`. **Este despliegue
+no lo hace**: el `robots.txt` de IMDb prohíbe `/title/` y `/chart/` a los
+agentes que no son buscadores conocidos, así que el workflow pasa
+`--ignore-robots` y la recolección sigue adelante. Es una decisión consciente
+del dueño del repositorio, no un descuido, y queda a la vista en la entrada
+`ignore_robots` del workflow: ponla en `false` y el scraper vuelve a obedecer
+(y a no traer nada de IMDb). Ignorar `robots.txt` va contra lo que IMDb pide y
+contra sus condiciones de uso, y pueden cortar la IP del runner en cualquier
+momento.
 
 Los datasets de IMDb se publican **para uso personal y no comercial**, y las
 condiciones del sitio son las suyas. Este repositorio es un ejercicio de
