@@ -1,7 +1,3466 @@
 {
-  "generated_at": "2026-08-20T18:22:32.441363Z",
-  "populares": [],
-  "mejor_valoradas": [],
-  "recientes": [],
-  "clasicos": []
+  "generated_at": "2026-08-20T18:46:57.474822Z",
+  "populares": [
+    {
+      "id": "tt0111161",
+      "category": "drama",
+      "type": "movie",
+      "title": "Cadena perpetua",
+      "original_title": "The Shawshank Redemption",
+      "year": 1994,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 9.3,
+      "votes": 3226252,
+      "runtime_minutes": 142,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Frank Darabont"
+      ]
+    },
+    {
+      "id": "tt0468569",
+      "category": "crime",
+      "type": "movie",
+      "title": "El caballero oscuro",
+      "original_title": "The Dark Knight",
+      "year": 2008,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 9.1,
+      "votes": 3213937,
+      "runtime_minutes": 152,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt1375666",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Origen",
+      "original_title": "Inception",
+      "year": 2010,
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 8.8,
+      "votes": 2857415,
+      "runtime_minutes": 148,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt0137523",
+      "category": "crime",
+      "type": "movie",
+      "title": "El club de la lucha",
+      "original_title": "Fight Club",
+      "year": 1999,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.8,
+      "votes": 2649968,
+      "runtime_minutes": 139,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "id": "tt0816692",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Interestelar",
+      "original_title": "Interstellar",
+      "year": 2014,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "votes": 2591233,
+      "runtime_minutes": 169,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt0109830",
+      "category": "romance",
+      "type": "movie",
+      "title": "Forrest Gump",
+      "original_title": "Forrest Gump",
+      "year": 1994,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.8,
+      "votes": 2525770,
+      "runtime_minutes": 142,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "id": "tt0110912",
+      "category": "crime",
+      "type": "movie",
+      "title": "Pulp Fiction",
+      "original_title": "Pulp Fiction",
+      "year": 1994,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.8,
+      "votes": 2459902,
+      "runtime_minutes": 154,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "id": "tt0133093",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Matrix",
+      "original_title": "The Matrix",
+      "year": 1999,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "votes": 2270509,
+      "runtime_minutes": 136,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ]
+    },
+    {
+      "id": "tt0068646",
+      "category": "crime",
+      "type": "movie",
+      "title": "El padrino",
+      "original_title": "The Godfather",
+      "year": 1972,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "votes": 2248610,
+      "runtime_minutes": 175,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "id": "tt0120737",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "El señor de los anillos: La comunidad del anillo",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.9,
+      "votes": 2229490,
+      "runtime_minutes": 178,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "id": "tt0167260",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "El señor de los anillos: El retorno del rey",
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 9.0,
+      "votes": 2186174,
+      "runtime_minutes": 201,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "id": "tt0114369",
+      "category": "crime",
+      "type": "movie",
+      "title": "Seven",
+      "original_title": "Se7en",
+      "year": 1995,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "votes": 2050128,
+      "runtime_minutes": 127,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "id": "tt1345836",
+      "category": "crime",
+      "type": "movie",
+      "title": "El caballero oscuro: La leyenda renace",
+      "original_title": "The Dark Knight Rises",
+      "year": 2012,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.4,
+      "votes": 2020692,
+      "runtime_minutes": 164,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt0167261",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "El señor de los anillos: Las dos torres",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.8,
+      "votes": 1977328,
+      "runtime_minutes": 179,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "id": "tt1853728",
+      "category": "western",
+      "type": "movie",
+      "title": "Django desencadenado",
+      "original_title": "Django Unchained",
+      "year": 2012,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.5,
+      "votes": 1906749,
+      "runtime_minutes": 165,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "id": "tt0172495",
+      "category": "action",
+      "type": "movie",
+      "title": "Gladiator",
+      "original_title": "Gladiator",
+      "year": 2000,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "votes": 1874481,
+      "runtime_minutes": 155,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
+      "id": "tt0993846",
+      "category": "crime",
+      "type": "movie",
+      "title": "El lobo de Wall Street",
+      "original_title": "The Wolf of Wall Street",
+      "year": 2013,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.2,
+      "votes": 1817710,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "id": "tt0361748",
+      "category": "war",
+      "type": "movie",
+      "title": "Malditos bastardos",
+      "original_title": "Inglourious Basterds",
+      "year": 2009,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.4,
+      "votes": 1811068,
+      "runtime_minutes": 153,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "id": "tt0102926",
+      "category": "horror",
+      "type": "movie",
+      "title": "El silenci dels anyells",
+      "original_title": "The Silence of the Lambs",
+      "year": 1991,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "rating": 8.6,
+      "votes": 1742662,
+      "runtime_minutes": 118,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Jonathan Demme"
+      ]
+    },
+    {
+      "id": "tt0372784",
+      "category": "crime",
+      "type": "movie",
+      "title": "Batman Begins",
+      "original_title": "Batman Begins",
+      "year": 2005,
+      "genres": [
+        "Crime"
+      ],
+      "rating": 8.2,
+      "votes": 1737904,
+      "runtime_minutes": 140,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt7286456",
+      "category": "drama",
+      "type": "movie",
+      "title": "Joker",
+      "original_title": "Joker",
+      "year": 2019,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 1718612,
+      "runtime_minutes": 122,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Todd Phillips"
+      ]
+    },
+    {
+      "id": "tt1130884",
+      "category": "mystery",
+      "type": "movie",
+      "title": "Shutter Island",
+      "original_title": "Shutter Island",
+      "year": 2010,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "votes": 1675500,
+      "runtime_minutes": 138,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "id": "tt0120815",
+      "category": "war",
+      "type": "movie",
+      "title": "Salvar al soldado Ryan",
+      "original_title": "Saving Private Ryan",
+      "year": 1998,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.6,
+      "votes": 1656859,
+      "runtime_minutes": 169,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "tt0482571",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "El truc final",
+      "original_title": "The Prestige",
+      "year": 2006,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "votes": 1617550,
+      "runtime_minutes": 130,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt0108052",
+      "category": "history",
+      "type": "movie",
+      "title": "La lista de Schindler",
+      "original_title": "Schindler's List",
+      "year": 1993,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 9.0,
+      "votes": 1598551,
+      "runtime_minutes": 196,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "tt0076759",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "La guerra de las galaxias",
+      "original_title": "Star Wars",
+      "year": 1977,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "votes": 1584281,
+      "runtime_minutes": 121,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "George Lucas"
+      ]
+    },
+    {
+      "id": "tt0120689",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "La milla verda",
+      "original_title": "The Green Mile",
+      "year": 1999,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "votes": 1579264,
+      "runtime_minutes": 189,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Frank Darabont"
+      ]
+    },
+    {
+      "id": "tt0848228",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Marvel Los Vengadores",
+      "original_title": "The Avengers",
+      "year": 2012,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.0,
+      "votes": 1576475,
+      "runtime_minutes": 143,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Joss Whedon"
+      ]
+    },
+    {
+      "id": "tt0407887",
+      "category": "crime",
+      "type": "movie",
+      "title": "Infiltrados",
+      "original_title": "The Departed",
+      "year": 2006,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "votes": 1572625,
+      "runtime_minutes": 151,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "id": "tt0080684",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "El imperio contraataca",
+      "original_title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "votes": 1519176,
+      "runtime_minutes": 124,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Irvin Kershner"
+      ]
+    },
+    {
+      "id": "tt0499549",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Avatar",
+      "original_title": "Avatar",
+      "year": 2009,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 7.9,
+      "votes": 1512455,
+      "runtime_minutes": 162,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "James Cameron"
+      ]
+    },
+    {
+      "id": "tt0071562",
+      "category": "crime",
+      "type": "movie",
+      "title": "El padrí II",
+      "original_title": "The Godfather Part II",
+      "year": 1974,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.0,
+      "votes": 1508316,
+      "runtime_minutes": 202,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "id": "tt4154796",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Vengadores: Endgame",
+      "original_title": "Avengers: Endgame",
+      "year": 2019,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "votes": 1477574,
+      "runtime_minutes": 181,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ]
+    },
+    {
+      "id": "tt0088763",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Regreso al futuro",
+      "original_title": "Back to the Future",
+      "year": 1985,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "votes": 1470190,
+      "runtime_minutes": 116,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "id": "tt0209144",
+      "category": "mystery",
+      "type": "movie",
+      "title": "Memento",
+      "original_title": "Memento",
+      "year": 2000,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.4,
+      "votes": 1454005,
+      "runtime_minutes": 113,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt0120338",
+      "category": "romance",
+      "type": "movie",
+      "title": "Titanic",
+      "original_title": "Titanic",
+      "year": 1997,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.0,
+      "votes": 1408133,
+      "runtime_minutes": 194,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "James Cameron"
+      ]
+    },
+    {
+      "id": "tt0099685",
+      "category": "crime",
+      "type": "movie",
+      "title": "Un dels nostres",
+      "original_title": "GoodFellas",
+      "year": 1990,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "votes": 1407782,
+      "runtime_minutes": 145,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "id": "tt4154756",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Vengadores: Infinity War",
+      "original_title": "Avengers: Infinity War",
+      "year": 2018,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "votes": 1401056,
+      "runtime_minutes": 149,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ]
+    },
+    {
+      "id": "tt0120382",
+      "category": "comedy",
+      "type": "movie",
+      "title": "El show de Truman",
+      "original_title": "The Truman Show",
+      "year": 1998,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "votes": 1398689,
+      "runtime_minutes": 103,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Peter Weir"
+      ]
+    },
+    {
+      "id": "tt2015381",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Guardianes de la Galaxia",
+      "original_title": "Guardians of the Galaxy",
+      "year": 2014,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.0,
+      "votes": 1378779,
+      "runtime_minutes": 121,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "James Gunn"
+      ]
+    }
+  ],
+  "mejor_valoradas": [
+    {
+      "id": "tt0111161",
+      "category": "drama",
+      "type": "movie",
+      "title": "Cadena perpetua",
+      "original_title": "The Shawshank Redemption",
+      "year": 1994,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 9.3,
+      "votes": 3226252,
+      "runtime_minutes": 142,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Frank Darabont"
+      ]
+    },
+    {
+      "id": "tt0068646",
+      "category": "crime",
+      "type": "movie",
+      "title": "El padrino",
+      "original_title": "The Godfather",
+      "year": 1972,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "votes": 2248610,
+      "runtime_minutes": 175,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "id": "tt0468569",
+      "category": "crime",
+      "type": "movie",
+      "title": "El caballero oscuro",
+      "original_title": "The Dark Knight",
+      "year": 2008,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 9.1,
+      "votes": 3213937,
+      "runtime_minutes": 152,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt0252487",
+      "category": "comedy",
+      "type": "movie",
+      "title": "La clase caótica",
+      "original_title": "Hababam Sinifi",
+      "year": 1975,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 9.1,
+      "votes": 46643,
+      "runtime_minutes": 85,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Ertem Egilmez"
+      ]
+    },
+    {
+      "id": "tt0167260",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "El señor de los anillos: El retorno del rey",
+      "original_title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 9.0,
+      "votes": 2186174,
+      "runtime_minutes": 201,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "id": "tt0108052",
+      "category": "history",
+      "type": "movie",
+      "title": "La lista de Schindler",
+      "original_title": "Schindler's List",
+      "year": 1993,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 9.0,
+      "votes": 1598551,
+      "runtime_minutes": 196,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "tt0071562",
+      "category": "crime",
+      "type": "movie",
+      "title": "El padrí II",
+      "original_title": "The Godfather Part II",
+      "year": 1974,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.0,
+      "votes": 1508316,
+      "runtime_minutes": 202,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "id": "tt0050083",
+      "category": "crime",
+      "type": "movie",
+      "title": "12 hombres sin piedad",
+      "original_title": "12 Angry Men",
+      "year": 1957,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.0,
+      "votes": 998557,
+      "runtime_minutes": 96,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Sidney Lumet"
+      ]
+    },
+    {
+      "id": "tt0120737",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "El señor de los anillos: La comunidad del anillo",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.9,
+      "votes": 2229490,
+      "runtime_minutes": 178,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "id": "tt28089784",
+      "category": "crime",
+      "type": "movie",
+      "title": "Punjab '95",
+      "original_title": "Satluj",
+      "year": 2026,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.9,
+      "votes": 106144,
+      "runtime_minutes": 169,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Honey Trehan"
+      ]
+    },
+    {
+      "id": "tt11989890",
+      "category": "biography",
+      "type": "movie",
+      "title": "David Attenborough: Una vida en nuestro planeta",
+      "original_title": "David Attenborough: A Life on Our Planet",
+      "year": 2020,
+      "genres": [
+        "Biography",
+        "Documentary"
+      ],
+      "rating": 8.9,
+      "votes": 36352,
+      "runtime_minutes": 83,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Alastair Fothergill",
+        "Jonathan Hughes"
+      ]
+    },
+    {
+      "id": "tt33175825",
+      "category": "animation",
+      "type": "movie",
+      "title": "Attack on Titan: The Last Attack",
+      "original_title": "Shingeki no Kyojin: The Last Attack",
+      "year": 2024,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 8.9,
+      "votes": 35225,
+      "runtime_minutes": 145,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Ryota Aikei",
+        "Yūichirō Hayashi"
+      ]
+    },
+    {
+      "id": "tt1375666",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Origen",
+      "original_title": "Inception",
+      "year": 2010,
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 8.8,
+      "votes": 2857415,
+      "runtime_minutes": 148,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt0137523",
+      "category": "crime",
+      "type": "movie",
+      "title": "El club de la lucha",
+      "original_title": "Fight Club",
+      "year": 1999,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.8,
+      "votes": 2649968,
+      "runtime_minutes": 139,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "id": "tt0109830",
+      "category": "romance",
+      "type": "movie",
+      "title": "Forrest Gump",
+      "original_title": "Forrest Gump",
+      "year": 1994,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.8,
+      "votes": 2525770,
+      "runtime_minutes": 142,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "id": "tt0110912",
+      "category": "crime",
+      "type": "movie",
+      "title": "Pulp Fiction",
+      "original_title": "Pulp Fiction",
+      "year": 1994,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.8,
+      "votes": 2459902,
+      "runtime_minutes": 154,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "id": "tt0167261",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "El señor de los anillos: Las dos torres",
+      "original_title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.8,
+      "votes": 1977328,
+      "runtime_minutes": 179,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
+      "id": "tt0060196",
+      "category": "western",
+      "type": "movie",
+      "title": "El bo, el lleig i el dolent",
+      "original_title": "Il buono, il brutto, il cattivo",
+      "year": 1966,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.8,
+      "votes": 898023,
+      "runtime_minutes": 178,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Sergio Leone"
+      ]
+    },
+    {
+      "id": "tt0816692",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Interestelar",
+      "original_title": "Interstellar",
+      "year": 2014,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "votes": 2591233,
+      "runtime_minutes": 169,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt0133093",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Matrix",
+      "original_title": "The Matrix",
+      "year": 1999,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "votes": 2270509,
+      "runtime_minutes": 136,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ]
+    },
+    {
+      "id": "tt0080684",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "El imperio contraataca",
+      "original_title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "votes": 1519176,
+      "runtime_minutes": 124,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Irvin Kershner"
+      ]
+    },
+    {
+      "id": "tt0099685",
+      "category": "crime",
+      "type": "movie",
+      "title": "Un dels nostres",
+      "original_title": "GoodFellas",
+      "year": 1990,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "votes": 1407782,
+      "runtime_minutes": 145,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "id": "tt23849204",
+      "category": "biography",
+      "type": "movie",
+      "title": "12th Fail",
+      "original_title": "12th Fail",
+      "year": 2023,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "votes": 175983,
+      "runtime_minutes": 147,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Vidhu Vinod Chopra"
+      ]
+    },
+    {
+      "id": "tt6019206",
+      "category": "crime",
+      "type": "movie",
+      "title": "Kill Bill: The Whole Bloody Affair",
+      "original_title": "Kill Bill: The Whole Bloody Affair",
+      "year": 2004,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.7,
+      "votes": 54418,
+      "runtime_minutes": 253,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "id": "tt7466810",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Charlie: Un perro especial",
+      "original_title": "777 Charlie",
+      "year": 2022,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "votes": 48293,
+      "runtime_minutes": 164,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Kiranraj K"
+      ]
+    },
+    {
+      "id": "tt0114369",
+      "category": "crime",
+      "type": "movie",
+      "title": "Seven",
+      "original_title": "Se7en",
+      "year": 1995,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "votes": 2050128,
+      "runtime_minutes": 127,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "id": "tt0102926",
+      "category": "horror",
+      "type": "movie",
+      "title": "El silenci dels anyells",
+      "original_title": "The Silence of the Lambs",
+      "year": 1991,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "rating": 8.6,
+      "votes": 1742662,
+      "runtime_minutes": 118,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Jonathan Demme"
+      ]
+    },
+    {
+      "id": "tt0120815",
+      "category": "war",
+      "type": "movie",
+      "title": "Salvar al soldado Ryan",
+      "original_title": "Saving Private Ryan",
+      "year": 1998,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.6,
+      "votes": 1656859,
+      "runtime_minutes": 169,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "tt0076759",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "La guerra de las galaxias",
+      "original_title": "Star Wars",
+      "year": 1977,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "votes": 1584281,
+      "runtime_minutes": 121,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "George Lucas"
+      ]
+    },
+    {
+      "id": "tt0120689",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "La milla verda",
+      "original_title": "The Green Mile",
+      "year": 1999,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "votes": 1579264,
+      "runtime_minutes": 189,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Frank Darabont"
+      ]
+    },
+    {
+      "id": "tt0103064",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Terminator 2: El juicio final",
+      "original_title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.6,
+      "votes": 1295989,
+      "runtime_minutes": 137,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "James Cameron"
+      ]
+    },
+    {
+      "id": "tt0073486",
+      "category": "drama",
+      "type": "movie",
+      "title": "Algú va volar sobre el niu del cucut",
+      "original_title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.6,
+      "votes": 1164273,
+      "runtime_minutes": 133,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Miloš Forman"
+      ]
+    },
+    {
+      "id": "tt0245429",
+      "category": "animation",
+      "type": "movie",
+      "title": "El viaje de Chihiro",
+      "original_title": "Sen to Chihiro no kamikakushi",
+      "year": 2001,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family"
+      ],
+      "rating": 8.6,
+      "votes": 980900,
+      "runtime_minutes": 124,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Hayao Miyazaki"
+      ]
+    },
+    {
+      "id": "tt0317248",
+      "category": "crime",
+      "type": "movie",
+      "title": "Ciudad de Dios",
+      "original_title": "Cidade de Deus",
+      "year": 2002,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "votes": 879388,
+      "runtime_minutes": 130,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Fernando Meirelles",
+        "Kátia Lund"
+      ]
+    },
+    {
+      "id": "tt0118799",
+      "category": "romance",
+      "type": "movie",
+      "title": "La vida es bella",
+      "original_title": "La vita è bella",
+      "year": 1997,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.6,
+      "votes": 820305,
+      "runtime_minutes": 116,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Roberto Benigni"
+      ]
+    },
+    {
+      "id": "tt0038650",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Qué bello es vivir",
+      "original_title": "It's a Wonderful Life",
+      "year": 1946,
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "votes": 557916,
+      "runtime_minutes": 130,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Frank Capra"
+      ]
+    },
+    {
+      "id": "tt0047478",
+      "category": "action",
+      "type": "movie",
+      "title": "Los siete samuráis",
+      "original_title": "Shichinin no samurai",
+      "year": 1954,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "votes": 404759,
+      "runtime_minutes": 207,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "id": "tt15097216",
+      "category": "crime",
+      "type": "movie",
+      "title": "Jai Bhim",
+      "original_title": "Jai Bhim",
+      "year": 2021,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "votes": 235833,
+      "runtime_minutes": 164,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "T.J. Gnanavel"
+      ]
+    },
+    {
+      "id": "tt10189514",
+      "category": "drama",
+      "type": "movie",
+      "title": "Soorarai Pottru",
+      "original_title": "Soorarai Pottru",
+      "year": 2020,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.6,
+      "votes": 132631,
+      "runtime_minutes": 153,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Sudha Kongara"
+      ]
+    },
+    {
+      "id": "tt0056058",
+      "category": "mystery",
+      "type": "movie",
+      "title": "Harakiri",
+      "original_title": "Seppuku",
+      "year": 1962,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "votes": 93455,
+      "runtime_minutes": 133,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Masaki Kobayashi"
+      ]
+    }
+  ],
+  "recientes": [
+    {
+      "id": "tt12042730",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Proyecto Salvación",
+      "original_title": "Project Hail Mary",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "votes": 510705,
+      "runtime_minutes": 156,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Phil Lord",
+        "Christopher Miller"
+      ]
+    },
+    {
+      "id": "tt33764258",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "La Odisea",
+      "original_title": "The Odyssey",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.5,
+      "votes": 423926,
+      "runtime_minutes": 172,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
+    {
+      "id": "tt22084616",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "original_title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "votes": 239081,
+      "runtime_minutes": 145,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Destin Daniel Cretton"
+      ]
+    },
+    {
+      "id": "tt26657236",
+      "category": "horror",
+      "type": "movie",
+      "title": "Backrooms",
+      "original_title": "Backrooms",
+      "year": 2026,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 6.8,
+      "votes": 177575,
+      "runtime_minutes": 110,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Kane Parsons"
+      ]
+    },
+    {
+      "id": "tt11378946",
+      "category": "history",
+      "type": "movie",
+      "title": "Michael",
+      "original_title": "Michael",
+      "year": 2026,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 7.4,
+      "votes": 174416,
+      "runtime_minutes": 127,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Antoine Fuqua"
+      ]
+    },
+    {
+      "id": "tt8036976",
+      "category": "horror",
+      "type": "movie",
+      "title": "Send Help (Enviad ayuda)",
+      "original_title": "Send Help",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 6.7,
+      "votes": 148381,
+      "runtime_minutes": 113,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Sam Raimi"
+      ]
+    },
+    {
+      "id": "tt32642706",
+      "category": "crime",
+      "type": "movie",
+      "title": "El botín",
+      "original_title": "The Rip",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 6.8,
+      "votes": 142709,
+      "runtime_minutes": 113,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Joe Carnahan"
+      ]
+    },
+    {
+      "id": "tt15047880",
+      "category": "mystery",
+      "type": "movie",
+      "title": "El día de la revelación",
+      "original_title": "Disclosure Day",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 6.4,
+      "votes": 139969,
+      "runtime_minutes": 145,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "tt32141377",
+      "category": "horror",
+      "type": "movie",
+      "title": "28 años después: El templo de los huesos",
+      "original_title": "28 Years Later: The Bone Temple",
+      "year": 2026,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 7.2,
+      "votes": 122492,
+      "runtime_minutes": 109,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Nia DaCosta"
+      ]
+    },
+    {
+      "id": "tt15940132",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Máquina de guerra",
+      "original_title": "War Machine",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 6.3,
+      "votes": 114583,
+      "runtime_minutes": 106,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Patrick Hughes"
+      ]
+    },
+    {
+      "id": "tt33071426",
+      "category": "romance",
+      "type": "movie",
+      "title": "El drama",
+      "original_title": "The Drama",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.1,
+      "votes": 112522,
+      "runtime_minutes": 105,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Kristoffer Borgli"
+      ]
+    },
+    {
+      "id": "tt0427340",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "He-Man y los Masters del Universo",
+      "original_title": "Masters of the Universe",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 6.4,
+      "votes": 109100,
+      "runtime_minutes": 140,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Travis Knight"
+      ]
+    },
+    {
+      "id": "tt28089784",
+      "category": "crime",
+      "type": "movie",
+      "title": "Punjab '95",
+      "original_title": "Satluj",
+      "year": 2026,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.9,
+      "votes": 106144,
+      "runtime_minutes": 169,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Honey Trehan"
+      ]
+    },
+    {
+      "id": "tt16431404",
+      "category": "thriller",
+      "type": "movie",
+      "title": "Depredador dominante",
+      "original_title": "Apex",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 6.1,
+      "votes": 105656,
+      "runtime_minutes": 95,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Baltasar Kormákur"
+      ]
+    },
+    {
+      "id": "tt33612209",
+      "category": "comedy",
+      "type": "movie",
+      "title": "El diablo viste de Prada 2",
+      "original_title": "The Devil Wears Prada 2",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 102935,
+      "runtime_minutes": 119,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "David Frankel"
+      ]
+    },
+    {
+      "id": "tt32565993",
+      "category": "mystery",
+      "type": "movie",
+      "title": "Las ovejas detectives",
+      "original_title": "The Sheep Detectives",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Mystery"
+      ],
+      "rating": 7.4,
+      "votes": 101354,
+      "runtime_minutes": 109,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Kyle Balda"
+      ]
+    },
+    {
+      "id": "tt32430579",
+      "category": "crime",
+      "type": "movie",
+      "title": "Ruta de escape",
+      "original_title": "Crime 101",
+      "year": 2026,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 6.8,
+      "votes": 92340,
+      "runtime_minutes": 140,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Bart Layton"
+      ]
+    },
+    {
+      "id": "tt30825738",
+      "category": "action",
+      "type": "movie",
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "original_title": "The Mandalorian and Grogu",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Family"
+      ],
+      "rating": 6.8,
+      "votes": 90416,
+      "runtime_minutes": 132,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Jon Favreau"
+      ]
+    },
+    {
+      "id": "tt32897959",
+      "category": "romance",
+      "type": "movie",
+      "title": "Cumbres borrascosas",
+      "original_title": "Wuthering Heights",
+      "year": 2026,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 6.1,
+      "votes": 89097,
+      "runtime_minutes": 136,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Emerald Fennell"
+      ]
+    },
+    {
+      "id": "tt15574124",
+      "category": "crime",
+      "type": "movie",
+      "title": "Peaky Blinders: El hombre inmortal",
+      "original_title": "Peaky Blinders: The Immortal Man",
+      "year": 2026,
+      "genres": [
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "rating": 6.5,
+      "votes": 87886,
+      "runtime_minutes": 112,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Tom Harper"
+      ]
+    },
+    {
+      "id": "tt17490712",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Mortal Kombat II",
+      "original_title": "Mortal Kombat II",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 6.3,
+      "votes": 82867,
+      "runtime_minutes": 116,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Simon McQuoid"
+      ]
+    },
+    {
+      "id": "tt8814476",
+      "category": "action",
+      "type": "movie",
+      "title": "Supergirl",
+      "original_title": "Supergirl",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 5.9,
+      "votes": 82447,
+      "runtime_minutes": 108,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Craig Gillespie"
+      ]
+    },
+    {
+      "id": "tt26443616",
+      "category": "animation",
+      "type": "movie",
+      "title": "Hoppers",
+      "original_title": "Hoppers",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7.2,
+      "votes": 81330,
+      "runtime_minutes": 104,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Daniel Chong"
+      ]
+    },
+    {
+      "id": "tt31050594",
+      "category": "crime",
+      "type": "movie",
+      "title": "Sin piedad",
+      "original_title": "Mercy",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 6.2,
+      "votes": 79435,
+      "runtime_minutes": 99,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Timur Bekmambetov"
+      ]
+    },
+    {
+      "id": "tt28650488",
+      "category": "animation",
+      "type": "movie",
+      "title": "Super Mario Galaxy: La película",
+      "original_title": "The Super Mario Galaxy Movie",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 6.3,
+      "votes": 71330,
+      "runtime_minutes": 98,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Aaron Horvath",
+        "Michael Jelenic"
+      ]
+    },
+    {
+      "id": "tt39139925",
+      "category": "crime",
+      "type": "movie",
+      "title": "Dhurandhar: The Revenge",
+      "original_title": "Dhurandhar: The Revenge",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "votes": 69891,
+      "runtime_minutes": 235,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Aditya Dhar"
+      ]
+    },
+    {
+      "id": "tt33978029",
+      "category": "horror",
+      "type": "movie",
+      "title": "Noche de bodas 2",
+      "original_title": "Ready or Not: Here I Come",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 6.5,
+      "votes": 69755,
+      "runtime_minutes": 108,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Matt Bettinelli-Olpin",
+        "Tyler Gillett"
+      ]
+    },
+    {
+      "id": "tt35291758",
+      "category": "documentary",
+      "type": "movie",
+      "title": "Melania",
+      "original_title": "Melania",
+      "year": 2026,
+      "genres": [
+        "Documentary"
+      ],
+      "rating": 1.6,
+      "votes": 69407,
+      "runtime_minutes": 104,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Brett Ratner"
+      ]
+    },
+    {
+      "id": "tt32612507",
+      "category": "horror",
+      "type": "movie",
+      "title": "La momia de Lee Cronin",
+      "original_title": "Lee Cronin's the Mummy",
+      "year": 2026,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 6.1,
+      "votes": 67463,
+      "runtime_minutes": 134,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Lee Cronin"
+      ]
+    },
+    {
+      "id": "tt29355505",
+      "category": "animation",
+      "type": "movie",
+      "title": "Toy Story 5",
+      "original_title": "Toy Story 5",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7.4,
+      "votes": 67185,
+      "runtime_minutes": 102,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Andrew Stanton",
+        "McKenna Harris"
+      ]
+    },
+    {
+      "id": "tt27047903",
+      "category": "horror",
+      "type": "movie",
+      "title": "Scream 7",
+      "original_title": "Scream 7",
+      "year": 2026,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 5.5,
+      "votes": 64489,
+      "runtime_minutes": 114,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Kevin Williamson"
+      ]
+    },
+    {
+      "id": "tt35672862",
+      "category": "horror",
+      "type": "movie",
+      "title": "Hokum",
+      "original_title": "Hokum",
+      "year": 2026,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 6.7,
+      "votes": 56574,
+      "runtime_minutes": 107,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Damian McCarthy"
+      ]
+    },
+    {
+      "id": "tt33046197",
+      "category": "crime",
+      "type": "movie",
+      "title": "Los hermanos demolición",
+      "original_title": "The Wrecking Crew",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 6.4,
+      "votes": 53484,
+      "runtime_minutes": 124,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Ángel Manuel Soto"
+      ]
+    },
+    {
+      "id": "tt22740896",
+      "category": "romance",
+      "type": "movie",
+      "title": "Gente que conocemos en vacaciones",
+      "original_title": "People We Meet on Vacation",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 6.6,
+      "votes": 51606,
+      "runtime_minutes": 117,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Brett Haley"
+      ]
+    },
+    {
+      "id": "tt32093575",
+      "category": "horror",
+      "type": "movie",
+      "title": "Scary Movie",
+      "original_title": "Scary Movie",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 4.9,
+      "votes": 50498,
+      "runtime_minutes": 100,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Michael Tiddes"
+      ]
+    },
+    {
+      "id": "tt31728330",
+      "category": "horror",
+      "type": "movie",
+      "title": "Te van a matar",
+      "original_title": "They Will Kill You",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 6.3,
+      "votes": 48757,
+      "runtime_minutes": 94,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Kirill Sokolov"
+      ]
+    },
+    {
+      "id": "tt10375624",
+      "category": "romance",
+      "type": "movie",
+      "title": "Mensajes de voz para Isabelle",
+      "original_title": "Voicemails for Isabelle",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.3,
+      "votes": 48627,
+      "runtime_minutes": 118,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Leah McKendrick"
+      ]
+    },
+    {
+      "id": "tt33100314",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Criaturas luminosas",
+      "original_title": "Remarkably Bright Creatures",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 47315,
+      "runtime_minutes": 111,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Olivia Newman"
+      ]
+    },
+    {
+      "id": "tt14850054",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Greenland 2",
+      "original_title": "Greenland 2: Migration",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 5.2,
+      "votes": 46680,
+      "runtime_minutes": 98,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Ric Roman Waugh"
+      ]
+    },
+    {
+      "id": "tt32357218",
+      "category": "thriller",
+      "type": "movie",
+      "title": "Shelter: El protector",
+      "original_title": "Shelter",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 6.1,
+      "votes": 44172,
+      "runtime_minutes": 107,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Ric Roman Waugh"
+      ]
+    }
+  ],
+  "clasicos": [
+    {
+      "id": "tt0068646",
+      "category": "crime",
+      "type": "movie",
+      "title": "El padrino",
+      "original_title": "The Godfather",
+      "year": 1972,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "votes": 2248610,
+      "runtime_minutes": 175,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "id": "tt0252487",
+      "category": "comedy",
+      "type": "movie",
+      "title": "La clase caótica",
+      "original_title": "Hababam Sinifi",
+      "year": 1975,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 9.1,
+      "votes": 46643,
+      "runtime_minutes": 85,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Ertem Egilmez"
+      ]
+    },
+    {
+      "id": "tt0071562",
+      "category": "crime",
+      "type": "movie",
+      "title": "El padrí II",
+      "original_title": "The Godfather Part II",
+      "year": 1974,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.0,
+      "votes": 1508316,
+      "runtime_minutes": 202,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "id": "tt0050083",
+      "category": "crime",
+      "type": "movie",
+      "title": "12 hombres sin piedad",
+      "original_title": "12 Angry Men",
+      "year": 1957,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.0,
+      "votes": 998557,
+      "runtime_minutes": 96,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Sidney Lumet"
+      ]
+    },
+    {
+      "id": "tt0060196",
+      "category": "western",
+      "type": "movie",
+      "title": "El bo, el lleig i el dolent",
+      "original_title": "Il buono, il brutto, il cattivo",
+      "year": 1966,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.8,
+      "votes": 898023,
+      "runtime_minutes": 178,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Sergio Leone"
+      ]
+    },
+    {
+      "id": "tt0080684",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "El imperio contraataca",
+      "original_title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "votes": 1519176,
+      "runtime_minutes": 124,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Irvin Kershner"
+      ]
+    },
+    {
+      "id": "tt0076759",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "La guerra de las galaxias",
+      "original_title": "Star Wars",
+      "year": 1977,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "votes": 1584281,
+      "runtime_minutes": 121,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "George Lucas"
+      ]
+    },
+    {
+      "id": "tt0073486",
+      "category": "drama",
+      "type": "movie",
+      "title": "Algú va volar sobre el niu del cucut",
+      "original_title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.6,
+      "votes": 1164273,
+      "runtime_minutes": 133,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Miloš Forman"
+      ]
+    },
+    {
+      "id": "tt0038650",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Qué bello es vivir",
+      "original_title": "It's a Wonderful Life",
+      "year": 1946,
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "votes": 557916,
+      "runtime_minutes": 130,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Frank Capra"
+      ]
+    },
+    {
+      "id": "tt0047478",
+      "category": "action",
+      "type": "movie",
+      "title": "Los siete samuráis",
+      "original_title": "Shichinin no samurai",
+      "year": 1954,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "votes": 404759,
+      "runtime_minutes": 207,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "id": "tt0056058",
+      "category": "mystery",
+      "type": "movie",
+      "title": "Harakiri",
+      "original_title": "Seppuku",
+      "year": 1962,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "votes": 93455,
+      "runtime_minutes": 133,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Masaki Kobayashi"
+      ]
+    },
+    {
+      "id": "tt0088763",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Regreso al futuro",
+      "original_title": "Back to the Future",
+      "year": 1985,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "votes": 1470190,
+      "runtime_minutes": 116,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "id": "tt0054215",
+      "category": "horror",
+      "type": "movie",
+      "title": "Psicosis",
+      "original_title": "Psycho",
+      "year": 1960,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "rating": 8.5,
+      "votes": 792081,
+      "runtime_minutes": 109,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "id": "tt0034583",
+      "category": "war",
+      "type": "movie",
+      "title": "Casablanca",
+      "original_title": "Casablanca",
+      "year": 1942,
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "rating": 8.5,
+      "votes": 659451,
+      "runtime_minutes": 102,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Michael Curtiz"
+      ]
+    },
+    {
+      "id": "tt0095327",
+      "category": "animation",
+      "type": "movie",
+      "title": "La tumba de las luciérnagas",
+      "original_title": "Hotaru no haka",
+      "year": 1988,
+      "genres": [
+        "Animation",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.5,
+      "votes": 393749,
+      "runtime_minutes": 88,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Isao Takahata"
+      ]
+    },
+    {
+      "id": "tt0064116",
+      "category": "western",
+      "type": "movie",
+      "title": "Hasta que llegó su hora",
+      "original_title": "C'era una volta il West",
+      "year": 1968,
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.5,
+      "votes": 386880,
+      "runtime_minutes": 145,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Sergio Leone"
+      ]
+    },
+    {
+      "id": "tt0095765",
+      "category": "romance",
+      "type": "movie",
+      "title": "Cinema Paradiso",
+      "original_title": "Nuovo Cinema Paradiso",
+      "year": 1988,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "votes": 319647,
+      "runtime_minutes": 174,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Giuseppe Tornatore"
+      ]
+    },
+    {
+      "id": "tt0027977",
+      "category": "romance",
+      "type": "movie",
+      "title": "Tiempos modernos",
+      "original_title": "Modern Times",
+      "year": 1936,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "votes": 287201,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Charles Chaplin"
+      ]
+    },
+    {
+      "id": "tt0021749",
+      "category": "romance",
+      "type": "movie",
+      "title": "Luces de la ciudad",
+      "original_title": "City Lights",
+      "year": 1931,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.5,
+      "votes": 217811,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Charles Chaplin"
+      ]
+    },
+    {
+      "id": "tt0081505",
+      "category": "horror",
+      "type": "movie",
+      "title": "El resplandor",
+      "original_title": "The Shining",
+      "year": 1980,
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "rating": 8.4,
+      "votes": 1239241,
+      "runtime_minutes": 146,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "id": "tt0082971",
+      "category": "adventure",
+      "type": "movie",
+      "title": "A la recerca de l'arca perduda",
+      "original_title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "genres": [
+        "Adventure"
+      ],
+      "rating": 8.4,
+      "votes": 1118308,
+      "runtime_minutes": 115,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "tt0078748",
+      "category": "horror",
+      "type": "movie",
+      "title": "Alien, el octavo pasajero",
+      "original_title": "Alien",
+      "year": 1979,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "votes": 1073602,
+      "runtime_minutes": 117,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
+      "id": "tt0090605",
+      "category": "horror",
+      "type": "movie",
+      "title": "Alien 2",
+      "original_title": "Aliens",
+      "year": 1986,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "rating": 8.4,
+      "votes": 846103,
+      "runtime_minutes": 137,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "James Cameron"
+      ]
+    },
+    {
+      "id": "tt0078788",
+      "category": "war",
+      "type": "movie",
+      "title": "Apocalypse Now",
+      "original_title": "Apocalypse Now",
+      "year": 1979,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "War"
+      ],
+      "rating": 8.4,
+      "votes": 776086,
+      "runtime_minutes": 147,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
+      "id": "tt0047396",
+      "category": "mystery",
+      "type": "movie",
+      "title": "La ventana indiscreta",
+      "original_title": "Rear Window",
+      "year": 1954,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.4,
+      "votes": 572542,
+      "runtime_minutes": 112,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "id": "tt0086879",
+      "category": "biography",
+      "type": "movie",
+      "title": "Amadeus",
+      "original_title": "Amadeus",
+      "year": 1984,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "rating": 8.4,
+      "votes": 472064,
+      "runtime_minutes": 160,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Miloš Forman"
+      ]
+    },
+    {
+      "id": "tt0043014",
+      "category": "film-noir",
+      "type": "movie",
+      "title": "El crepúsculo de los dioses",
+      "original_title": "Sunset Blvd.",
+      "year": 1950,
+      "genres": [
+        "Drama",
+        "Film-Noir"
+      ],
+      "rating": 8.4,
+      "votes": 263193,
+      "runtime_minutes": 110,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Billy Wilder"
+      ]
+    },
+    {
+      "id": "tt0032553",
+      "category": "war",
+      "type": "movie",
+      "title": "El gran dictador",
+      "original_title": "The Great Dictator",
+      "year": 1940,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.4,
+      "votes": 259822,
+      "runtime_minutes": 125,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Charles Chaplin"
+      ]
+    },
+    {
+      "id": "tt0050825",
+      "category": "war",
+      "type": "movie",
+      "title": "Camins de glòria",
+      "original_title": "Paths of Glory",
+      "year": 1957,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.4,
+      "votes": 241964,
+      "runtime_minutes": 88,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "id": "tt0051201",
+      "category": "crime",
+      "type": "movie",
+      "title": "Testigo de cargo",
+      "original_title": "Witness for the Prosecution",
+      "year": 1957,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.4,
+      "votes": 163769,
+      "runtime_minutes": 116,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Billy Wilder"
+      ]
+    },
+    {
+      "id": "tt0057565",
+      "category": "crime",
+      "type": "movie",
+      "title": "El infierno del odio",
+      "original_title": "Tengoku to jigoku",
+      "year": 1963,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.4,
+      "votes": 73129,
+      "runtime_minutes": 143,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Akira Kurosawa"
+      ]
+    },
+    {
+      "id": "tt0086190",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "El retorno del jedi",
+      "original_title": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.3,
+      "votes": 1220784,
+      "runtime_minutes": 131,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Richard Marquand"
+      ]
+    },
+    {
+      "id": "tt0086250",
+      "category": "crime",
+      "type": "movie",
+      "title": "El precio del poder",
+      "original_title": "Scarface",
+      "year": 1983,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 1030085,
+      "runtime_minutes": 170,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Brian De Palma"
+      ]
+    },
+    {
+      "id": "tt0062622",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "2001: Una odisea del espacio",
+      "original_title": "2001: A Space Odyssey",
+      "year": 1968,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.3,
+      "votes": 790385,
+      "runtime_minutes": 149,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "id": "tt0057012",
+      "category": "war",
+      "type": "movie",
+      "title": "Doctor Strangelove",
+      "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "rating": 8.3,
+      "votes": 553468,
+      "runtime_minutes": 95,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Stanley Kubrick"
+      ]
+    },
+    {
+      "id": "tt0087843",
+      "category": "crime",
+      "type": "movie",
+      "title": "Érase una vez en América",
+      "original_title": "C'era una volta in America",
+      "year": 1984,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 411117,
+      "runtime_minutes": 229,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Sergio Leone"
+      ]
+    },
+    {
+      "id": "tt0053125",
+      "category": "mystery",
+      "type": "movie",
+      "title": "Con la muerte en los talones",
+      "original_title": "North by Northwest",
+      "year": 1959,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.3,
+      "votes": 370918,
+      "runtime_minutes": 136,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "id": "tt0056172",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Lawrence de Arabia",
+      "original_title": "Lawrence of Arabia",
+      "year": 1962,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 344956,
+      "runtime_minutes": 227,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "David Lean"
+      ]
+    },
+    {
+      "id": "tt0082096",
+      "category": "war",
+      "type": "movie",
+      "title": "El submarí",
+      "original_title": "Das Boot",
+      "year": 1981,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 8.3,
+      "votes": 289935,
+      "runtime_minutes": 149,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Wolfgang Petersen"
+      ]
+    },
+    {
+      "id": "tt0045152",
+      "category": "musical",
+      "type": "movie",
+      "title": "Cantando bajo la lluvia",
+      "original_title": "Singin' in the Rain",
+      "year": 1952,
+      "genres": [
+        "Comedy",
+        "Musical",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "votes": 285069,
+      "runtime_minutes": 103,
+      "certificate": null,
+      "poster": null,
+      "plot": "",
+      "directors": [
+        "Stanley Donen",
+        "Gene Kelly"
+      ]
+    }
+  ]
 }

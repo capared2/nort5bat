@@ -1,7 +1,647 @@
 {
   "source": "imdb.com",
-  "generated_at": "2026-08-20T18:22:32.441749Z",
-  "total_titles": 0,
-  "total_genres": 0,
-  "genres": []
+  "generated_at": "2026-08-20T18:46:57.654275Z",
+  "total_titles": 6000,
+  "total_genres": 24,
+  "genres": [
+    {
+      "genre": "drama",
+      "name": "Drama",
+      "titles": 172,
+      "files": [
+        {
+          "file": "titulos/drama/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/drama/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/drama/part-0003.json",
+          "count": 52
+        }
+      ],
+      "tagged": 3152
+    },
+    {
+      "genre": "comedy",
+      "name": "Comedia",
+      "titles": 799,
+      "files": [
+        {
+          "file": "titulos/comedy/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0004.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0005.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0006.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0007.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0008.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0009.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0010.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0011.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0012.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0013.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/comedy/part-0014.json",
+          "count": 19
+        }
+      ],
+      "tagged": 2085
+    },
+    {
+      "genre": "action",
+      "name": "Acción",
+      "titles": 220,
+      "files": [
+        {
+          "file": "titulos/action/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/action/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/action/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/action/part-0004.json",
+          "count": 40
+        }
+      ],
+      "tagged": 1713
+    },
+    {
+      "genre": "adventure",
+      "name": "Aventura",
+      "titles": 64,
+      "files": [
+        {
+          "file": "titulos/adventure/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/adventure/part-0002.json",
+          "count": 4
+        }
+      ],
+      "tagged": 1336
+    },
+    {
+      "genre": "crime",
+      "name": "Crimen",
+      "titles": 1137,
+      "files": [
+        {
+          "file": "titulos/crime/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0004.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0005.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0006.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0007.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0008.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0009.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0010.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0011.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0012.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0013.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0014.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0015.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0016.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0017.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0018.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/crime/part-0019.json",
+          "count": 57
+        }
+      ],
+      "tagged": 1238
+    },
+    {
+      "genre": "thriller",
+      "name": "Suspense",
+      "titles": 310,
+      "files": [
+        {
+          "file": "titulos/thriller/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/thriller/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/thriller/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/thriller/part-0004.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/thriller/part-0005.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/thriller/part-0006.json",
+          "count": 10
+        }
+      ],
+      "tagged": 1051
+    },
+    {
+      "genre": "romance",
+      "name": "Romance",
+      "titles": 655,
+      "files": [
+        {
+          "file": "titulos/romance/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0004.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0005.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0006.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0007.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0008.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0009.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0010.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0011.json",
+          "count": 55
+        }
+      ],
+      "tagged": 855
+    },
+    {
+      "genre": "horror",
+      "name": "Terror",
+      "titles": 789,
+      "files": [
+        {
+          "file": "titulos/horror/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0004.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0005.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0006.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0007.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0008.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0009.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0010.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0011.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0012.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0013.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0014.json",
+          "count": 9
+        }
+      ],
+      "tagged": 793
+    },
+    {
+      "genre": "mystery",
+      "name": "Misterio",
+      "titles": 180,
+      "files": [
+        {
+          "file": "titulos/mystery/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/mystery/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/mystery/part-0003.json",
+          "count": 60
+        }
+      ],
+      "tagged": 731
+    },
+    {
+      "genre": "sci-fi",
+      "name": "Ciencia ficción",
+      "titles": 398,
+      "files": [
+        {
+          "file": "titulos/sci-fi/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/sci-fi/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/sci-fi/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/sci-fi/part-0004.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/sci-fi/part-0005.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/sci-fi/part-0006.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/sci-fi/part-0007.json",
+          "count": 38
+        }
+      ],
+      "tagged": 528
+    },
+    {
+      "genre": "fantasy",
+      "name": "Fantasía",
+      "titles": 401,
+      "files": [
+        {
+          "file": "titulos/fantasy/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/fantasy/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/fantasy/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/fantasy/part-0004.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/fantasy/part-0005.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/fantasy/part-0006.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/fantasy/part-0007.json",
+          "count": 41
+        }
+      ],
+      "tagged": 516
+    },
+    {
+      "genre": "biography",
+      "name": "Biografía",
+      "titles": 131,
+      "files": [
+        {
+          "file": "titulos/biography/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/biography/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/biography/part-0003.json",
+          "count": 11
+        }
+      ],
+      "tagged": 448
+    },
+    {
+      "genre": "animation",
+      "name": "Animación",
+      "titles": 332,
+      "files": [
+        {
+          "file": "titulos/animation/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/animation/part-0002.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/animation/part-0003.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/animation/part-0004.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/animation/part-0005.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/animation/part-0006.json",
+          "count": 32
+        }
+      ],
+      "tagged": 353
+    },
+    {
+      "genre": "family",
+      "name": "Familiar",
+      "titles": 7,
+      "files": [
+        {
+          "file": "titulos/family/part-0001.json",
+          "count": 7
+        }
+      ],
+      "tagged": 300
+    },
+    {
+      "genre": "history",
+      "name": "Historia",
+      "titles": 100,
+      "files": [
+        {
+          "file": "titulos/history/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/history/part-0002.json",
+          "count": 40
+        }
+      ],
+      "tagged": 196
+    },
+    {
+      "genre": "music",
+      "name": "Música",
+      "titles": 20,
+      "files": [
+        {
+          "file": "titulos/music/part-0001.json",
+          "count": 20
+        }
+      ],
+      "tagged": 153
+    },
+    {
+      "genre": "sport",
+      "name": "Deporte",
+      "titles": 29,
+      "files": [
+        {
+          "file": "titulos/sport/part-0001.json",
+          "count": 29
+        }
+      ],
+      "tagged": 133
+    },
+    {
+      "genre": "war",
+      "name": "Bélico",
+      "titles": 108,
+      "files": [
+        {
+          "file": "titulos/war/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/war/part-0002.json",
+          "count": 48
+        }
+      ],
+      "tagged": 112
+    },
+    {
+      "genre": "musical",
+      "name": "Musical",
+      "titles": 68,
+      "files": [
+        {
+          "file": "titulos/musical/part-0001.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/musical/part-0002.json",
+          "count": 8
+        }
+      ],
+      "tagged": 68
+    },
+    {
+      "genre": "documentary",
+      "name": "Documental",
+      "titles": 10,
+      "files": [
+        {
+          "file": "titulos/documentary/part-0001.json",
+          "count": 10
+        }
+      ],
+      "tagged": 57
+    },
+    {
+      "genre": "western",
+      "name": "Western",
+      "titles": 48,
+      "files": [
+        {
+          "file": "titulos/western/part-0001.json",
+          "count": 48
+        }
+      ],
+      "tagged": 48
+    },
+    {
+      "genre": "film-noir",
+      "name": "Cine negro",
+      "titles": 21,
+      "files": [
+        {
+          "file": "titulos/film-noir/part-0001.json",
+          "count": 21
+        }
+      ],
+      "tagged": 21
+    },
+    {
+      "genre": "news",
+      "name": "Actualidad",
+      "titles": 0,
+      "files": [],
+      "tagged": 1
+    },
+    {
+      "genre": "sin-genero",
+      "name": "Sin Genero",
+      "titles": 1,
+      "files": [
+        {
+          "file": "titulos/sin-genero/part-0001.json",
+          "count": 1
+        }
+      ],
+      "tagged": 0
+    }
+  ]
 }

@@ -1,35 +1,60 @@
 {
-  "updated_at": "2026-08-20T18:35:01.715754Z",
-  "seen": 0,
+  "updated_at": "2026-08-20T18:46:57.674018Z",
+  "seen": 6000,
   "pending": 29,
-  "failed": 1500,
+  "failed": 0,
   "abandoned": 0,
   "last_run": {
-    "mode": "incremental",
-    "discovered": 0,
+    "mode": "catalogo",
+    "discovered": 6000,
     "queued": 0,
     "refreshed": 0,
-    "fetched": 6,
-    "saved": 0,
-    "failed": 6,
-    "genres": {},
+    "fetched": 6000,
+    "saved": 6000,
+    "failed": 0,
+    "genres": {
+      "drama": 172,
+      "crime": 1137,
+      "sci-fi": 398,
+      "romance": 655,
+      "fantasy": 401,
+      "western": 48,
+      "action": 220,
+      "war": 108,
+      "horror": 789,
+      "mystery": 180,
+      "history": 100,
+      "comedy": 799,
+      "animation": 332,
+      "thriller": 310,
+      "music": 20,
+      "adventure": 64,
+      "biography": 131,
+      "sport": 29,
+      "musical": 68,
+      "film-noir": 21,
+      "family": 7,
+      "documentary": 10,
+      "sin-genero": 1
+    },
     "seo": {
-      "generated_at": "2026-08-20T18:35:01.714378Z",
+      "generated_at": "2026-08-20T18:46:57.670885Z",
       "site_url": "https://nort5.com",
-      "total_urls": 3,
+      "total_urls": 6027,
       "sitemaps": [
-        "sitemap-generos.xml"
+        "sitemap-generos.xml",
+        "sitemap-peliculas-0001.xml"
       ]
     },
-    "total_titles": 0,
-    "total_genres": 0,
-    "duration_seconds": 11.1,
+    "total_titles": 6000,
+    "total_genres": 24,
+    "duration_seconds": 212.1,
     "http": {
-      "requests": 12,
-      "errors": 12,
+      "requests": 6,
+      "errors": 0,
       "blocked": 0,
       "statuses": {
-        "202": 12
+        "200": 6
       }
     }
   }
