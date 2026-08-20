@@ -106,6 +106,38 @@ jobs:
           if [ "$SKIP_DISCOVERY" = "true" ]; then args+=(--skip-discovery); fi
           python -m scraper "${args[@]}"
 
+      # Una ejecucion que no guarda nada porque el origen nos cierra la puerta
+      # no es un exito. Sin esto se publicaba un commit vacio con tick verde y
+      # el sitio se quedaba en blanco sin que nadie se enterase.
+      - name: Comprobar que la ejecucion sirvio de algo
+        if: always()
+        run: |
+          python - <<'FIN'
+          import json
+          import sys
+
+          try:
+              resumen = json.load(open("run-summary.json"))
+          except (OSError, ValueError):
+              sys.exit("La ejecucion no llego a producir un resumen.")
+
+          bloqueadas = resumen.get("http", {}).get("blocked", 0)
+          fallidas = resumen.get("failed", 0)
+          guardadas = resumen.get("saved", 0)
+
+          if guardadas:
+              print(f"{guardadas} fichas guardadas.")
+              raise SystemExit(0)
+          if bloqueadas:
+              sys.exit(
+                  f"robots.txt del origen rechazo {bloqueadas} peticiones y no se "
+                  "guardo ninguna ficha: el origen no permite recoger estas paginas."
+              )
+          if fallidas:
+              sys.exit(f"{fallidas} fichas fallaron y no se guardo ninguna.")
+          print("Nada nuevo que guardar en esta ejecucion.")
+          FIN
+
       - name: Resumen de la ejecucion
         if: always()
         run: |
