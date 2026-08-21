@@ -1,7 +1,7 @@
 {
   "genre": "sports",
   "name": "Sports",
-  "count": 27,
+  "count": 29,
   "titles": [
     {
       "id": "white_men_cant_jump",
@@ -221,6 +221,29 @@
       ]
     },
     {
+      "id": "the_beautiful_game",
+      "category": "sports",
+      "type": "movie",
+      "title": "The Beautiful Game",
+      "original_title": "The Beautiful Game",
+      "year": 2024,
+      "genres": [
+        "Drama",
+        "Sports"
+      ],
+      "rating": 6.6,
+      "votes": 173,
+      "tomatometer": 88,
+      "audience_score": 65,
+      "runtime_minutes": 124,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/e6hAmj85koC57dg_viycw-h6ThA=/300x450/v2/https://resizing.flixster.com/hNKemzH41918K8oRVa2XphpllK0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc3NGM3ZTg3LTg4ZjAtNDY0Zi1iYzFhLTRmYjQ5NjZjZmNmMS5qcGc=",
+      "plot": "Mal (Bill Nighy, Living, About Time) is the manager of England's homeless football team, taking his players to Rome with the hope of being crowned champions of the Homeless World Cup, a global street…",
+      "directors": [
+        "Thea Sharrock"
+      ]
+    },
+    {
       "id": "rez_ball",
       "category": "sports",
       "type": "movie",
@@ -241,6 +264,33 @@
       "plot": "In the heart of Chuska, New Mexico, the Chuska Warriors, a high school basketball team rich in Native American heritage, face their greatest challenge. After the loss of their star player, the team…",
       "directors": [
         "Sydney Freeland"
+      ]
+    },
+    {
+      "id": "chang_can_dunk",
+      "category": "crime",
+      "type": "movie",
+      "title": "Chang Can Dunk",
+      "original_title": "Chang Can Dunk",
+      "year": 2023,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Drama",
+        "Crime",
+        "History",
+        "Sports"
+      ],
+      "rating": 7.0,
+      "votes": 136,
+      "tomatometer": 96,
+      "audience_score": 71,
+      "runtime_minutes": 109,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/E5MyStzBEqjOf4YAKLMlXXgdRtQ=/300x450/v2/https://resizing.flixster.com/X1Wg117OxEo1hWoQVm3wz_3Gh_c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjZjE3OTY4LTRjZTktNDY0ZC05YmY1LTUxZmQ2MzFiMjE3ZS5qcGc=",
+      "plot": "\"Chang Can Dunk\" follows Chang, a 16-year-old, Asian American high school student in the marching band, who bets the school basketball star that he can dunk by Homecoming. The bet leads the 5' 8\"…",
+      "directors": [
+        "Jingyi Shao"
       ]
     },
     {

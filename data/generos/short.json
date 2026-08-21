@@ -1,8 +1,32 @@
 {
   "genre": "short",
   "name": "Short",
-  "count": 2,
+  "count": 3,
   "titles": [
+    {
+      "id": "the_wonderful_story_of_henry_sugar",
+      "category": "comedy",
+      "type": "movie",
+      "title": "The Wonderful Story of Henry Sugar",
+      "original_title": "The Wonderful Story of Henry Sugar",
+      "year": 2023,
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Short"
+      ],
+      "rating": 8.4,
+      "votes": 1364,
+      "tomatometer": 95,
+      "audience_score": 81,
+      "runtime_minutes": 39,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/JNrn5e8Mapi1ERfBooIeK2THMsw=/300x450/v2/https://resizing.flixster.com/rM9K9anh7GUcNIfZOs4W8KSJhKk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhmNGFmMzRkLTlkNDEtNDA0ZS1hZWU4LWEyMjU0M2FlMjkyNi5qcGc=",
+      "plot": "The Wonderful Story of Henry Sugar:\nA rich man learns about a guru who can see without using his eyes. \nHe sets out to master the skill in order to cheat at gambling. \nExtremely faithfully adapted…",
+      "directors": [
+        "Wes Anderson"
+      ]
+    },
     {
       "id": "the_elephant_whisperers",
       "category": "documentary",

@@ -1,6 +1,6 @@
 {
   "letter": "v",
-  "count": 159,
+  "count": 226,
   "titles": [
     [
       "v_for_vendetta",
@@ -8,6 +8,34 @@
       "V for Vendetta",
       null,
       7.3
+    ],
+    [
+      "star_wars_episode_v_the_empire_strikes_back",
+      "sci-fi",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      1980,
+      9.1
+    ],
+    [
+      "star_wars_episode_vi_return_of_the_jedi",
+      "sci-fi",
+      "Star Wars: Episode VI - Return of the Jedi",
+      1983,
+      7.9
+    ],
+    [
+      "the_40_year_old_virgin",
+      "romance",
+      "The 40 Year-Old Virgin",
+      2005,
+      7.5
+    ],
+    [
+      "fear_and_loathing_in_las_vegas",
+      "comedy",
+      "Fear and Loathing in Las Vegas",
+      1998,
+      5.8
     ],
     [
       "guardians_of_the_galaxy_vol_2",
@@ -36,6 +64,13 @@
       "Vantage Point",
       2008,
       5.1
+    ],
+    [
+      "ace_ventura_when_nature_calls",
+      "comedy",
+      "Ace Ventura: When Nature Calls",
+      1995,
+      4.0
     ],
     [
       "van_helsing",
@@ -122,6 +157,13 @@
       7.8
     ],
     [
+      "miami_vice",
+      "crime",
+      "Miami Vice",
+      2006,
+      5.7
+    ],
+    [
       "saw_v",
       "horror",
       "Saw V",
@@ -164,6 +206,13 @@
       7.3
     ],
     [
+      "very_harold_and_kumar_christmas",
+      "comedy",
+      "A Very Harold & Kumar Christmas",
+      2011,
+      6.2
+    ],
+    [
       "spider_man_across_the_spider_verse",
       "fantasy",
       "Spider-Man: Across the Spider-Verse",
@@ -176,6 +225,13 @@
       "Vacation",
       2015,
       4.2
+    ],
+    [
+      "addams_family_values",
+      "fantasy",
+      "Addams Family Values",
+      1993,
+      6.8
     ],
     [
       "veronica_mars",
@@ -227,10 +283,24 @@
       5.4
     ],
     [
+      "sympathy_for_lady_vengeance",
+      "mystery-thriller",
+      "Lady Vengeance",
+      2005,
+      7.0
+    ],
+    [
       "national_lampoons_vacation",
       "comedy",
       "National Lampoon's Vacation",
       1983,
+      7.4
+    ],
+    [
+      "good_morning_vietnam",
+      "war",
+      "Good Morning, Vietnam",
+      1987,
       7.4
     ],
     [
@@ -241,11 +311,60 @@
       7.3
     ],
     [
+      "10008820-visitor",
+      "drama",
+      "The Visitor",
+      2008,
+      7.8
+    ],
+    [
+      "kramer_vs_kramer",
+      "drama",
+      "Kramer vs. Kramer",
+      1979,
+      8.2
+    ],
+    [
+      "eagle_vs_shark",
+      "romance",
+      "Eagle vs. Shark",
+      2007,
+      5.8
+    ],
+    [
       "venom_the_last_dance",
       "sci-fi",
       "Venom: The Last Dance",
       2024,
       4.7
+    ],
+    [
+      "velvet_goldmine",
+      "drama",
+      "Velvet Goldmine",
+      1998,
+      6.6
+    ],
+    [
+      "view_to_a_kill",
+      "action",
+      "A View to a Kill",
+      1985,
+      5.0
+    ],
+    [
+      "legend_of_bagger_vance",
+      "drama",
+      "The Legend of Bagger Vance",
+      2000,
+      6.1
+    ],
+    [
+      "van_wilder_2",
+      "comedy",
+      "National Lampoon's Van Wilder: The Rise of Taj",
+      2006,
+      2.9
     ],
     [
       "the_voices",
@@ -283,11 +402,32 @@
       3.9
     ],
     [
+      "1212891-furry_vengeance",
+      "comedy",
+      "Furry Vengeance",
+      2010,
+      2.8
+    ],
+    [
+      "barneys-version",
+      "comedy",
+      "Barney's Version",
+      2011,
+      6.6
+    ],
+    [
       "swing_vote",
       "comedy",
       "Swing Vote",
       2008,
       5.3
+    ],
+    [
+      "joe_versus_the_volcano",
+      "romance",
+      "Joe Versus the Volcano",
+      1990,
+      6.1
     ],
     [
       "the_queen_of_versailles",
@@ -430,11 +570,25 @@
       6.1
     ],
     [
+      "tims_vermeer_2014",
+      "documentary",
+      "Tim's Vermeer",
+      2014,
+      7.5
+    ],
+    [
       "the_vatican_tapes_2015",
       "horror",
       "The Vatican Tapes",
       2015,
       4.0
+    ],
+    [
+      "immortal_2004",
+      "sci-fi",
+      "Immortal (Ad Vitam)",
+      2004,
+      4.1
     ],
     [
       "vampires_kiss",
@@ -451,6 +605,27 @@
       6.6
     ],
     [
+      "1085867-virus",
+      "sci-fi",
+      "Virus",
+      1999,
+      3.5
+    ],
+    [
+      "bonfire_of_the_vanities",
+      "romance",
+      "The Bonfire of the Vanities",
+      1990,
+      3.9
+    ],
+    [
+      "johnson_family_vacation",
+      "comedy",
+      "Johnson Family Vacation",
+      2004,
+      3.6
+    ],
+    [
       "in_a_valley_of_violence",
       "western",
       "In a Valley of Violence",
@@ -463,6 +638,20 @@
       "I Vitelloni",
       1953,
       9.1
+    ],
+    [
+      "parallax_view",
+      "mystery-thriller",
+      "The Parallax View",
+      1974,
+      8.1
+    ],
+    [
+      "2_days_in_the_valley",
+      "crime",
+      "2 Days in the Valley",
+      1996,
+      6.0
     ],
     [
       "the_virginity_hit_2010",
@@ -512,6 +701,13 @@
       "The Year My Parents Went on Vacation",
       2008,
       7.1
+    ],
+    [
+      "jim_and_andy_the_great_beyond_featuring_a_very_special_contractually_obligated_mention_of_tony_clifton",
+      "documentary",
+      "Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Clifton",
+      2017,
+      7.4
     ],
     [
       "the_last_voyage_of_the_demeter",
@@ -577,6 +773,27 @@
       8.6
     ],
     [
+      "wild_west_comedy_show",
+      "comedy",
+      "Vince Vaughn's Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland",
+      2008,
+      6.2
+    ],
+    [
+      "death_wish_v_the_face_of_death",
+      "crime",
+      "Death Wish V: The Face of Death",
+      1994,
+      3.2
+    ],
+    [
+      "cavemans_valentine",
+      "drama",
+      "The Caveman's Valentine",
+      2001,
+      5.7
+    ],
+    [
       "1208926-vinyan",
       "horror",
       "Vinyan",
@@ -603,6 +820,27 @@
       "Val",
       2021,
       7.8
+    ],
+    [
+      "sweet_virginia_2017",
+      "mystery-thriller",
+      "Sweet Virginia",
+      2017,
+      6.8
+    ],
+    [
+      "the_very_thought_of_you",
+      "romance",
+      "The Very Thought of You",
+      1999,
+      5.2
+    ],
+    [
+      "voyagers_2021",
+      "sci-fi",
+      "Voyagers",
+      2021,
+      4.9
     ],
     [
       "the_valet_2022",
@@ -647,6 +885,34 @@
       4.4
     ],
     [
+      "under_the_volcano",
+      "drama",
+      "Under the Volcano",
+      1984,
+      7.1
+    ],
+    [
+      "personal_velocity_three_portraits",
+      "drama",
+      "Personal Velocity: Three Portraits",
+      2002,
+      6.8
+    ],
+    [
+      "the_forty_year_old_version",
+      "comedy",
+      "The Forty-Year-Old Version",
+      2020,
+      8.1
+    ],
+    [
+      "vanya_on_42nd_street",
+      "drama",
+      "Vanya on 42nd Street",
+      1994,
+      8.1
+    ],
+    [
       "acts_of_violence_2018",
       "mystery-thriller",
       "Acts of Violence",
@@ -682,6 +948,27 @@
       6.1
     ],
     [
+      "distant_voices_still_lives",
+      "drama",
+      "Distant Voices, Still Lives",
+      1988,
+      8.3
+    ],
+    [
+      "end_of_violence",
+      "drama",
+      "The End of Violence",
+      1997,
+      5.2
+    ],
+    [
+      "till_human_voices_wake_us",
+      "drama",
+      "Till Human Voices Wake Us",
+      2003,
+      5.0
+    ],
+    [
       "vacation_friends_2",
       "comedy",
       "Vacation Friends 2",
@@ -703,11 +990,32 @@
       null
     ],
     [
+      "1077062-van",
+      "comedy",
+      "The Van",
+      1996,
+      5.7
+    ],
+    [
       "virginia_2012",
       "drama",
       "Virginia",
       2012,
       4.2
+    ],
+    [
+      "meet_monica_velour",
+      "crime",
+      "Meet Monica Velour",
+      2011,
+      5.0
+    ],
+    [
+      "acts_of_vengeance",
+      "action",
+      "Acts of Vengeance",
+      2017,
+      6.3
     ],
     [
       "10008760-what_happens_in_vegas",
@@ -729,6 +1037,13 @@
       "The Visitor",
       2025,
       7.3
+    ],
+    [
+      "lust_for_a_vampire",
+      "horror",
+      "Lust for a Vampire",
+      1971,
+      4.5
     ],
     [
       "citizen_soldier_2016",
@@ -759,11 +1074,25 @@
       4.5
     ],
     [
+      "see_you_in_valhalla_2015",
+      "comedy",
+      "See You in Valhalla",
+      2015,
+      3.8
+    ],
+    [
       "viva_2016",
       "lgbtq",
       "Viva",
       2016,
       6.6
+    ],
+    [
+      "vicious_fun",
+      "horror",
+      "Vicious Fun",
+      2020,
+      7.0
     ],
     [
       "me_myself_and_the_void",
@@ -773,6 +1102,13 @@
       6.7
     ],
     [
+      "the_velocity_of_gary",
+      "romance",
+      "The Velocity of Gary",
+      1998,
+      3.8
+    ],
+    [
       "veselka_the_rainbow_on_the_corner_at_the_center_of_the_world",
       "documentary",
       "Veselka: The Rainbow on the Corner at the Center of the World",
@@ -780,11 +1116,32 @@
       7.3
     ],
     [
+      "the_velvet_underground_2021",
+      "music",
+      "The Velvet Underground",
+      2021,
+      8.1
+    ],
+    [
+      "the_truth_vs_alex_jones",
+      "documentary",
+      "The Truth vs. Alex Jones",
+      2024,
+      8.3
+    ],
+    [
       "the_volcano_rescue_from_whakaari",
       "documentary",
       "The Volcano: Rescue From Whakaari",
       2022,
       7.0
+    ],
+    [
+      "1091165-deja_vu",
+      "romance",
+      "Deja Vu",
+      1998,
+      6.7
     ],
     [
       "zurawski_v_texas",
@@ -822,11 +1179,25 @@
       5.4
     ],
     [
+      "csny_deja_vu",
+      "music",
+      "CSNY: Deja Vu",
+      2008,
+      6.1
+    ],
+    [
       "violet_2021",
       "drama",
       "Violet",
       2021,
       7.0
+    ],
+    [
+      "voyage_of_time_lifes_journey",
+      "documentary",
+      "Voyage of Time: Life's Journey",
+      2016,
+      5.9
     ],
     [
       "1018051-sacco_and_vanzetti",
@@ -857,6 +1228,13 @@
       8.4
     ],
     [
+      "kurt_vonnegut_unstuck_in_time",
+      "biography",
+      "Kurt Vonnegut: Unstuck in Time",
+      2021,
+      7.8
+    ],
+    [
       "a_brave_heart_the_lizzie_velasquez_story",
       "documentary",
       "A Brave Heart: The Lizzie Velasquez Story",
@@ -878,11 +1256,32 @@
       7.3
     ],
     [
+      "1045835-1045835-valentino",
+      "drama",
+      "Valentino",
+      1977,
+      6.6
+    ],
+    [
+      "valley_of_love",
+      "drama",
+      "Valley of Love",
+      2016,
+      6.3
+    ],
+    [
       "voice_of_shadows",
       "horror",
       "Voice of Shadows",
       2023,
       null
+    ],
+    [
+      "vindicta",
+      "horror",
+      "Vindicta",
+      2023,
+      3.2
     ],
     [
       "vito",
@@ -927,6 +1326,13 @@
       5.5
     ],
     [
+      "i_am_vengeance_2018",
+      "action",
+      "I Am Vengeance",
+      2018,
+      5.1
+    ],
+    [
       "the_velvet_queen",
       "documentary",
       "The Velvet Queen",
@@ -969,6 +1375,13 @@
       4.7
     ],
     [
+      "vinyl_nation",
+      "music",
+      "Vinyl Nation",
+      2020,
+      7.7
+    ],
+    [
       "ghosts_of_the_void",
       "horror",
       "Ghosts of the Void",
@@ -981,6 +1394,20 @@
       "Chapter & Verse",
       2015,
       7.5
+    ],
+    [
+      "bully_coward_victim_the_story_of_roy_cohn",
+      "documentary",
+      "Bully. Coward. Victim. The Story of Roy Cohn",
+      2019,
+      6.6
+    ],
+    [
+      "viper_club",
+      "mystery-thriller",
+      "Viper Club",
+      2018,
+      5.2
     ],
     [
       "viena_and_the_fantomes",
@@ -997,11 +1424,25 @@
       4.3
     ],
     [
+      "very_semi_serious_2015",
+      "documentary",
+      "Very Semi-Serious",
+      2015,
+      7.3
+    ],
+    [
       "under_the_volcano_2021",
       "music",
       "Under the Volcano",
       2021,
       7.5
+    ],
+    [
+      "virginia_minnesota",
+      "comedy",
+      "Virginia Minnesota",
+      2019,
+      6.9
     ],
     [
       "pencils_vs_pixels",
@@ -1016,6 +1457,13 @@
       "Buena Vista Social Club: Adiós",
       2017,
       6.7
+    ],
+    [
+      "nalla_perai_vaanga_vendum_pillaigale",
+      "comedy",
+      "Nalla Perai Vaanga Vendum Pillaigale",
+      2024,
+      null
     ],
     [
       "viva_maestro",
@@ -1060,6 +1508,13 @@
       7.9
     ],
     [
+      "vishniac",
+      "history",
+      "Vishniac",
+      2024,
+      7.5
+    ],
+    [
       "a_vanishing_fog",
       "sci-fi",
       "A Vanishing Fog",
@@ -1088,10 +1543,24 @@
       7.8
     ],
     [
+      "the_viewing_booth",
+      "documentary",
+      "The Viewing Booth",
+      2020,
+      6.8
+    ],
+    [
       "apple_cider_vinegar",
       "documentary",
       "Apple Cider Vinegar",
       2024,
+      null
+    ],
+    [
+      "forman_vs_forman",
+      "documentary",
+      "Forman vs. Forman",
+      2019,
       null
     ],
     [

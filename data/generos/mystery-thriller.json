@@ -1,7 +1,7 @@
 {
   "genre": "mystery-thriller",
   "name": "Mystery & Thriller",
-  "count": 1390,
+  "count": 1745,
   "titles": [
     {
       "id": "harry_potter_and_the_order_of_the_phoenix",
@@ -123,6 +123,30 @@
       "plot": "Peter Parker and M.J. seem to finally be on the right track in their complicated relationship, but trouble looms for the superhero and his lover. Peter's Spider-Man suit turns black and takes control…",
       "directors": [
         "Sam Raimi"
+      ]
+    },
+    {
+      "id": "law_abiding_citizen",
+      "category": "crime",
+      "type": "movie",
+      "title": "Law Abiding Citizen",
+      "original_title": "Law Abiding Citizen",
+      "year": 2009,
+      "genres": [
+        "Mystery & Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 4.6,
+      "votes": 298834,
+      "tomatometer": 26,
+      "audience_score": 75,
+      "runtime_minutes": 108,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/jScaGvkEakN4dvQAS-dPKPrXwi8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3632501_p_v8_ao.jpg",
+      "plot": "Clyde Shelton is an honorable family man, until the day his wife and daughter are murdered in a home invasion. He hopes for justice, but a rising prosecutor named Nick Rice cuts a deal with one of…",
+      "directors": [
+        "F. Gary Gray"
       ]
     },
     {
@@ -756,6 +780,81 @@
       ]
     },
     {
+      "id": "usual_suspects",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Usual Suspects",
+      "original_title": "The Usual Suspects",
+      "year": 1995,
+      "genres": [
+        "Mystery & Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "votes": 97529,
+      "tomatometer": 87,
+      "audience_score": 96,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Lrg-XThqqTM_wh7nL8mZrL2hELU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16422_p_v8_ag.jpg",
+      "plot": "\"The greatest trick the devil ever pulled was convincing the world he didn't exist,\" says con man Kint, drawing a comparison to the most enigmatic criminal of all time, Keyser Söze. Kint attempts to…",
+      "directors": [
+        "Bryan Singer"
+      ]
+    },
+    {
+      "id": "jurassic_world",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Jurassic World",
+      "original_title": "Jurassic World",
+      "year": 2015,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.7,
+      "votes": 95088,
+      "tomatometer": 72,
+      "audience_score": 78,
+      "runtime_minutes": 124,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/lnTE13N_-lmyuqV1rNMN7N4vAuY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10815284_p_v8_al.jpg",
+      "plot": "Located off the coast of Costa Rica, the Jurassic World luxury resort provides a habitat for an array of genetically engineered dinosaurs, including the vicious and intelligent Indominus rex. When…",
+      "directors": [
+        "Colin Trevorrow"
+      ]
+    },
+    {
+      "id": "boondock_saints",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Boondock Saints",
+      "original_title": "The Boondock Saints",
+      "year": 1999,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller",
+        "Action",
+        "Comedy"
+      ],
+      "rating": 4.8,
+      "votes": 94984,
+      "tomatometer": 26,
+      "audience_score": 91,
+      "runtime_minutes": 110,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/wlax1V1D5fs-NSDeuACm-cDww7I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24725_p_v8_af.jpg",
+      "plot": "Tired of the crime overrunning the streets of Boston, Irish Catholic twin brothers Conner (Sean Patrick Flanery) and Murphy (Norman Reedus) are inspired by their faith to cleanse their hometown of…",
+      "directors": [
+        "Troy Duffy"
+      ]
+    },
+    {
       "id": "28_days_later",
       "category": "horror",
       "type": "movie",
@@ -779,6 +878,52 @@
       ]
     },
     {
+      "id": "2_fast_2_furious",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "2 Fast 2 Furious",
+      "original_title": "2 Fast 2 Furious",
+      "year": 2003,
+      "genres": [
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.9,
+      "votes": 92812,
+      "tomatometer": 37,
+      "audience_score": 50,
+      "runtime_minutes": 108,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/jGunXOM1JO3XRGJx3wYgYvLkEuQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32092_p_v8_ab.jpg",
+      "plot": "This sequel focuses on ex-police officer Brian O'Conner (Paul Walker), who relocates from Los Angeles to Miami to start over. Becoming involved in the street-racing scene in his new city, Brian…",
+      "directors": [
+        "John Singleton"
+      ]
+    },
+    {
+      "id": "1198124-shutter_island",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Shutter Island",
+      "original_title": "Shutter Island",
+      "year": 2010,
+      "genres": [
+        "Mystery & Thriller",
+        "Drama"
+      ],
+      "rating": 7.0,
+      "votes": 92622,
+      "tomatometer": 69,
+      "audience_score": 77,
+      "runtime_minutes": 138,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/_Cd5fDndXvsqOpBJJwaG66WrWOw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3531967_p_v12_an.jpg",
+      "plot": "The implausible escape of a brilliant murderess brings U.S. Marshal Teddy Daniels and his new partner to Ashecliffe Hospital, a fortress-like insane asylum located on a remote, windswept island. The…",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
       "id": "1174279-wanted",
       "category": "mystery-thriller",
       "type": "movie",
@@ -799,6 +944,29 @@
       "plot": "Wesley Gibson (James McAvoy) is an office worker whose life is going nowhere. After his estranged father is murdered, he meets Fox (Angelina Jolie), who recruits him into the Fraternity, a secret…",
       "directors": [
         "Timur Bekmambetov"
+      ]
+    },
+    {
+      "id": "children_of_men",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Children of Men",
+      "original_title": "Children of Men",
+      "year": 2006,
+      "genres": [
+        "Sci-Fi",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.3,
+      "votes": 92393,
+      "tomatometer": 92,
+      "audience_score": 85,
+      "runtime_minutes": 109,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/DwQIdTXYpR1-AGKxECh81vDTSxg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159796_p_v10_be.jpg",
+      "plot": "When infertility threatens mankind with extinction and the last child born has perished, a disillusioned bureaucrat (Clive Owen) becomes the unlikely champion in the fight for the survival of Earth's…",
+      "directors": [
+        "Alfonso Cuarón"
       ]
     },
     {
@@ -900,6 +1068,29 @@
       ]
     },
     {
+      "id": "fast_and_furious_6",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Fast & Furious 6",
+      "original_title": "Fast & Furious 6",
+      "year": 2013,
+      "genres": [
+        "Mystery & Thriller",
+        "Action"
+      ],
+      "rating": 6.2,
+      "votes": 88910,
+      "tomatometer": 71,
+      "audience_score": 84,
+      "runtime_minutes": 130,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/J9hQrqP3oG-7HngrJoO1pORpf2k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9573130_p_v7_ab.jpg",
+      "plot": "Since Dom (Vin Diesel) and Brian's (Paul Walker) heist in Rio left them and their crew very rich people, they've scattered across the globe; however, they must still live as fugitives, unable to…",
+      "directors": [
+        "Justin Lin"
+      ]
+    },
+    {
       "id": "sherlock_holmes_a_game_of_shadows",
       "category": "mystery-thriller",
       "type": "movie",
@@ -921,6 +1112,29 @@
       "plot": "When Austria's crown prince is found dead, evidence seems to point to suicide. However, detective Sherlock Holmes deduces that the prince was murdered and that the crime is but a piece of a puzzle…",
       "directors": [
         "Guy Ritchie"
+      ]
+    },
+    {
+      "id": "shining",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Shining",
+      "original_title": "The Shining",
+      "year": 1980,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.8,
+      "votes": 88003,
+      "tomatometer": 84,
+      "audience_score": 93,
+      "runtime_minutes": 143,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/fBKfrE60A95jEn3Z1CJM1n_xhiE=/300x450/v2/https://resizing.flixster.com/5E5qZzbrG8KdvlmDKFjnun2HBog=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3ZGFkNTA3LTEwZjEtNDM2Yy1hYmQxLWMyMjI4ZjY1ZjBkNy5qcGc=",
+      "plot": "Jack Torrance (Jack Nicholson) becomes winter caretaker at the isolated Overlook Hotel in Colorado, hoping to cure his writer's block. He settles in along with his wife, Wendy (Shelley Duvall), and…",
+      "directors": [
+        "Stanley Kubrick"
       ]
     },
     {
@@ -1329,6 +1543,31 @@
       ]
     },
     {
+      "id": "illusionist",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Illusionist",
+      "original_title": "The Illusionist",
+      "year": 2006,
+      "genres": [
+        "Mystery & Thriller",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 7.0,
+      "votes": 66668,
+      "tomatometer": 74,
+      "audience_score": 83,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/43UZDMJLNVNP5g7bvEGKHYnhuDE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p161007_p_v8_at.jpg",
+      "plot": "A master magician named Eisenheim vies with Crown Prince Leopold of Vienna for the hand of noblewoman Sophie, the girl he once loved. He brings his considerable powers to bear on the prince, as she…",
+      "directors": [
+        "Neil Burger"
+      ]
+    },
+    {
       "id": "quantum_of_solace",
       "category": "mystery-thriller",
       "type": "movie",
@@ -1452,6 +1691,54 @@
       ]
     },
     {
+      "id": "zodiac",
+      "category": "crime",
+      "type": "movie",
+      "title": "Zodiac",
+      "original_title": "Zodiac",
+      "year": 2007,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.1,
+      "votes": 62980,
+      "tomatometer": 90,
+      "audience_score": 78,
+      "runtime_minutes": 157,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/z7OkQ1YEK1QmwPWEXNdorHslp54=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162782_p_v11_ay.jpg",
+      "plot": "In the late 1960s and 1970s, fear grips the city of San Francisco as a serial killer called Zodiac stalks its residents. Investigators (Mark Ruffalo, Anthony Edwards) and reporters (Jake Gyllenhaal,…",
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "id": "the_girl_with_the_dragon_tattoo",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Girl With the Dragon Tattoo",
+      "original_title": "The Girl With the Dragon Tattoo",
+      "year": 2011,
+      "genres": [
+        "Mystery & Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 62322,
+      "tomatometer": 86,
+      "audience_score": 86,
+      "runtime_minutes": 158,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/sZoxJZmli7CtxaB4QkRKHCWBLTk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8702416_p_v10_aa.jpg",
+      "plot": "Disgraced financial reporter Mikael Blomkvist (Daniel Craig) finds a chance to redeem his honor after being hired by wealthy Swedish industrialist Henrik Vanger (Christopher Plummer) to solve the…",
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
       "id": "30_days_of_night",
       "category": "horror",
       "type": "movie",
@@ -1521,6 +1808,30 @@
       "plot": "Dr. Lynn Denlon (Bahar Soomekh) becomes a pawn in the Jigsaw Killer's (Tobin Bell) latest gory game. Kidnapped and taken to an abandoned warehouse, she finds Jigsaw bedridden and dying. Her task is…",
       "directors": [
         "Darren Bousman"
+      ]
+    },
+    {
+      "id": "the_town",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Town",
+      "original_title": "The Town",
+      "year": 2010,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.7,
+      "votes": 59623,
+      "tomatometer": 92,
+      "audience_score": 85,
+      "runtime_minutes": 124,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/iK4v7-G4Kw4-DTeyOsYqlz0T9l8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8076702_p_v10_ai.jpg",
+      "plot": "Doug MacRay leads a band of ruthless bank robbers and has no real attachments except for James, who -- despite his dangerous temper -- is like a brother. Everything changes for Doug when James…",
+      "directors": [
+        "Ben Affleck"
       ]
     },
     {
@@ -1641,6 +1952,31 @@
       "plot": "After a heist in Venice, Steve turns on his partners in crime, killing safecracker John Bridger and keeping all the gold for himself; the rest of the team, including leader Charlie Croker, driver…",
       "directors": [
         "F. Gary Gray"
+      ]
+    },
+    {
+      "id": "battleship",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Battleship",
+      "original_title": "Battleship",
+      "year": 2012,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.7,
+      "votes": 58159,
+      "tomatometer": 33,
+      "audience_score": 54,
+      "runtime_minutes": 131,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/2sYUAZlxCXxfg_TcOfoLvCI1WjU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8777089_p_v13_aq.jpg",
+      "plot": "Lt. Alex Hopper (Taylor Kitsch) is a weapons officer aboard the destroyer USS John Paul Jones, while his older brother, Stone (Alexander Skarsgård), is the commanding officer of the USS Sampson.…",
+      "directors": [
+        "Peter Berg"
       ]
     },
     {
@@ -2005,6 +2341,29 @@
       ]
     },
     {
+      "id": "limitless",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Limitless",
+      "original_title": "Limitless",
+      "year": 2011,
+      "genres": [
+        "Mystery & Thriller",
+        "Action"
+      ],
+      "rating": 6.3,
+      "votes": 49433,
+      "tomatometer": 68,
+      "audience_score": 74,
+      "runtime_minutes": 105,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/CiYpoYUVSVd1Rx0rPBsm9cKguEg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8193447_p_v12_au.jpg",
+      "plot": "Facing unemployment and his girlfriend's rejection, writer Eddie Morra is sure that he has no future. That all changes when an old friend gives him a drug that produces enhanced mental acuity. Stoked…",
+      "directors": [
+        "Neil Burger"
+      ]
+    },
+    {
       "id": "john_wick",
       "category": "crime",
       "type": "movie",
@@ -2053,6 +2412,52 @@
       "plot": "In need of a vacation from his ordinary life, factory worker Douglas Quaid visits Rekall, a company that can turn dreams into real memories. Thinking that memories of life as a superspy are just the…",
       "directors": [
         "Len Wiseman"
+      ]
+    },
+    {
+      "id": "10007985-happening",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Happening",
+      "original_title": "The Happening",
+      "year": 2008,
+      "genres": [
+        "Sci-Fi",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.2,
+      "votes": 48768,
+      "tomatometer": 17,
+      "audience_score": 24,
+      "runtime_minutes": 91,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/JjVckenGey5zi9pScmO2KwQFvRI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175737_p_v8_am.jpg",
+      "plot": "An apocalyptic threat to humanity arrives out of the clear blue sky with a series of violent, inexplicable deaths spreading across the country. The cause of the terrifying phenomenon remains unknown,…",
+      "directors": [
+        "M. Night Shyamalan"
+      ]
+    },
+    {
+      "id": "1213717-salt",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Salt",
+      "original_title": "Salt",
+      "year": 2010,
+      "genres": [
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.0,
+      "votes": 48490,
+      "tomatometer": 61,
+      "audience_score": 59,
+      "runtime_minutes": 105,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/DZLlSnVeWpUlNm2nHh3crv0Q8Wk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7937523_p_v10_ac.jpg",
+      "plot": "When Evelyn Salt (Angelina Jolie) became a CIA officer, she swore an oath to duty, honor and country. But, when a defector accuses her of being a Russian spy, Salt's oath is put to the test. Now a…",
+      "directors": [
+        "Phillip Noyce"
       ]
     },
     {
@@ -2127,6 +2532,31 @@
       ]
     },
     {
+      "id": "10009526-public_enemies",
+      "category": "crime",
+      "type": "movie",
+      "title": "Public Enemies",
+      "original_title": "Public Enemies",
+      "year": 2009,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.6,
+      "votes": 47650,
+      "tomatometer": 68,
+      "audience_score": 59,
+      "runtime_minutes": 140,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/kfIgSOd2FhwUS-bA3LImpLHfuw4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p192848_p_v10_ac.jpg",
+      "plot": "Depression-era bank robber John Dillinger's charm and audacity endear him to much of America's downtrodden public, but he's also a thorn in the side of J. Edgar Hoover and the fledgling FBI.…",
+      "directors": [
+        "Michael Mann"
+      ]
+    },
+    {
       "id": "arrival_2016",
       "category": "sci-fi",
       "type": "movie",
@@ -2148,6 +2578,29 @@
       "plot": "Linguistics professor Louise Banks leads an elite team of investigators when gigantic spaceships touch down in 12 locations around the world. As nations teeter on the verge of global war, Banks and…",
       "directors": [
         "Denis Villeneuve"
+      ]
+    },
+    {
+      "id": "fast_and_the_furious_tokyo_drift",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "original_title": "The Fast and the Furious: Tokyo Drift",
+      "year": 2006,
+      "genres": [
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.1,
+      "votes": 47296,
+      "tomatometer": 37,
+      "audience_score": 69,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/oc5U6I5EpgUS90g4H-YselW6xiw=/300x450/v2/https://resizing.flixster.com/0V8fBSmeFgpO21Ts4FPGzI6zMZM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhlYjM4ODVkLTcyMDUtNDc4Yi1iOTZiLWQwMDE4MmViZDJhNS5qcGc=",
+      "plot": "Sean Boswell (Lucas Black) always feels like an outsider, but he defines himself through his victories as a street racer. His hobby makes him unpopular with the authorities, so he goes to live with…",
+      "directors": [
+        "Justin Lin"
       ]
     },
     {
@@ -2533,6 +2986,32 @@
       ]
     },
     {
+      "id": "adjustment_bureau",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Adjustment Bureau",
+      "original_title": "The Adjustment Bureau",
+      "year": 2011,
+      "genres": [
+        "Mystery & Thriller",
+        "Romance",
+        "Sci-Fi",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 6.6,
+      "votes": 42679,
+      "tomatometer": 71,
+      "audience_score": 67,
+      "runtime_minutes": 105,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/PhYR47K0dzQw9hlYB3CycjUsD8A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8012384_p_v10_ab.jpg",
+      "plot": "Just as he is on the brink of winning a Senate seat, politician David Norris meets a ballerina named Elise Sellas. Though David is instantly smitten, mysterious men conspire to keep him away from the…",
+      "directors": [
+        "George Nolfi"
+      ]
+    },
+    {
       "id": "whiplash_2014",
       "category": "mystery-thriller",
       "type": "movie",
@@ -2554,6 +3033,29 @@
       "plot": "Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his…",
       "directors": [
         "Damien Chazelle"
+      ]
+    },
+    {
+      "id": "nightmare_on_elm_street",
+      "category": "horror",
+      "type": "movie",
+      "title": "A Nightmare on Elm Street",
+      "original_title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.9,
+      "votes": 40505,
+      "tomatometer": 94,
+      "audience_score": 84,
+      "runtime_minutes": 91,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/g6y8RXO5_WOeUBKBtffee5RB5GA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8572_p_v8_ad.jpg",
+      "plot": "In Wes Craven's classic slasher film, several Midwestern teenagers fall prey to Freddy Krueger (Robert Englund), a disfigured midnight mangler who preys on the teenagers in their dreams -- which, in…",
+      "directors": [
+        "Wes Craven"
       ]
     },
     {
@@ -2628,6 +3130,53 @@
       ]
     },
     {
+      "id": "mama_2013",
+      "category": "horror",
+      "type": "movie",
+      "title": "Mama",
+      "original_title": "Mama",
+      "year": 2013,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.9,
+      "votes": 38507,
+      "tomatometer": 63,
+      "audience_score": 55,
+      "runtime_minutes": 100,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/bI3MCUizjxoOSyvgxJLBs6AHs1I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8900744_p_v13_az.jpg",
+      "plot": "On the day that their parents die, sisters Lilly and Victoria vanish in the woods, prompting a frantic search by their Uncle Lucas (Nikolaj Coster-Waldau) and his girlfriend, Annabel (Jessica…",
+      "directors": [
+        "Andy Muschietti"
+      ]
+    },
+    {
+      "id": "1009113-halloween",
+      "category": "horror",
+      "type": "movie",
+      "title": "Halloween",
+      "original_title": "Halloween",
+      "year": 1978,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 9.0,
+      "votes": 38123,
+      "tomatometer": 97,
+      "audience_score": 89,
+      "runtime_minutes": 91,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/EocWAsdgGEHjSJvG4YR09RhicUM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3499_p_v8_aa.jpg",
+      "plot": "On a cold Halloween night in 1963, six-year-old Michael Myers brutally murdered his 17-year-old sister, Judith. He was sentenced and locked away for 15 years. But on October 30, 1978, while being…",
+      "directors": [
+        "John Carpenter"
+      ]
+    },
+    {
       "id": "evil_dead_2013",
       "category": "horror",
       "type": "movie",
@@ -2671,6 +3220,31 @@
       "plot": "In an America ravaged by crime and overcrowded prisons, the government sanctions an annual 12-hour period during which all criminal activity -- including murder -- is legal. James Sandin and his…",
       "directors": [
         "James DeMonaco"
+      ]
+    },
+    {
+      "id": "collateral",
+      "category": "crime",
+      "type": "movie",
+      "title": "Collateral",
+      "original_title": "Collateral",
+      "year": 2004,
+      "genres": [
+        "Mystery & Thriller",
+        "Crime",
+        "Drama",
+        "Action"
+      ],
+      "rating": 7.7,
+      "votes": 37799,
+      "tomatometer": 86,
+      "audience_score": 84,
+      "runtime_minutes": 120,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/lfQLnQTAjH3cvkFWPMOMoznhHvU=/300x450/v2/https://resizing.flixster.com/evaRkGCvUrr5pGYBrxgBm6cKXrw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM4MzQ1MTk1LTcyYTAtNDA2YS05NTEwLTM1YWI0MDdhNGI0ZS5qcGc=",
+      "plot": "A cab driver realizes his current fare is a hit man that has been having him drive around from mark to mark until the last witness to a crime is dead. When the cabbie finally figures out the truth,…",
+      "directors": [
+        "Michael Mann"
       ]
     },
     {
@@ -2934,6 +3508,55 @@
       "plot": "When a massive, unmanned locomotive roars out of control, the threat is more ominous than just a derailment. The train is laden with toxic chemicals, and an accident would decimate human life and…",
       "directors": [
         "Tony Scott"
+      ]
+    },
+    {
+      "id": "mummy_returns",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Mummy Returns",
+      "original_title": "The Mummy Returns",
+      "year": 2001,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.5,
+      "votes": 35684,
+      "tomatometer": 46,
+      "audience_score": 63,
+      "runtime_minutes": 129,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/GRvBgUFkmDNhdylrNV16JcMpQpY=/300x450/v2/https://resizing.flixster.com/Ah32_NPcpvl_gsG2ZfPTvRdvQNQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlMDc5NDIyLTJiYjctNDU3ZC05M2U0LTU2ZTk0N2M3ZThjNi5qcGc=",
+      "plot": "Ten years after the events of the first film, Rick and Evelyn O'Connell are settled in 1935 London, where they are raising their son. When a chain of events finds the corpse of Imhotep resurrected,…",
+      "directors": [
+        "Stephen Sommers"
+      ]
+    },
+    {
+      "id": "speed_1994",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Speed",
+      "original_title": "Speed",
+      "year": 1994,
+      "genres": [
+        "Action",
+        "Mystery & Thriller",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "votes": 35604,
+      "tomatometer": 95,
+      "audience_score": 77,
+      "runtime_minutes": 111,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/v7BCLM1An7DTa4VpobMrZ5Kfx3U=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15726_p_v8_aj.jpg",
+      "plot": "Los Angeles police officer Jack (Keanu Reeves) angers retired bomb squad member Howard Payne (Dennis Hopper) by foiling his attempt at taking hostages. In revenge, Payne arms a bus with a bomb that…",
+      "directors": [
+        "Jan de Bont"
       ]
     },
     {
@@ -3416,6 +4039,30 @@
       ]
     },
     {
+      "id": "the_place_beyond_the_pines_2012",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Place Beyond the Pines",
+      "original_title": "The Place Beyond the Pines",
+      "year": 2013,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.3,
+      "votes": 31968,
+      "tomatometer": 79,
+      "audience_score": 75,
+      "runtime_minutes": 140,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/2Yw48QDlh-z60t-a0O3acXBxpKo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9465453_p_v8_ak.jpg",
+      "plot": "In upstate New York, two men (Ryan Gosling, Bradley Cooper), and later, their sons (Dane DeHaan, Emory Cohen) must deal with the unforeseen consequences of their actions.",
+      "directors": [
+        "Derek Cianfrance"
+      ]
+    },
+    {
       "id": "10012256-predators",
       "category": "horror",
       "type": "movie",
@@ -3488,6 +4135,29 @@
       "plot": "Col. Claus von Stauffenberg serves Germany with loyalty and pride but fears that Hitler will destroy his country if allowed to run unchecked. With time running out for Germany and the rest of Europe,…",
       "directors": [
         "Bryan Singer"
+      ]
+    },
+    {
+      "id": "side_effects_2013",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Side Effects",
+      "original_title": "Side Effects",
+      "year": 2013,
+      "genres": [
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.4,
+      "votes": 30485,
+      "tomatometer": 82,
+      "audience_score": 70,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/zUnMVzHMA7rHA0psBgxh0H-PS6E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9416724_p_v8_ak.jpg",
+      "plot": "For four years, Emily Taylor (Rooney Mara) has awaited the release of her husband, Martin (Channing Tatum), from being imprisoned for insider trading. Finally, Martin comes home, but Emily feels just…",
+      "directors": [
+        "Steven Soderbergh"
       ]
     },
     {
@@ -3709,6 +4379,31 @@
       ]
     },
     {
+      "id": "1207149-taking_of_pelham_1_2_3",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Taking of Pelham 123",
+      "original_title": "The Taking of Pelham 123",
+      "year": 2009,
+      "genres": [
+        "Action",
+        "Mystery & Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 5.7,
+      "votes": 27787,
+      "tomatometer": 51,
+      "audience_score": 52,
+      "runtime_minutes": 106,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/RJbMMp1WFLiLPHrTv8GYzS--rjQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175714_p_v8_ah.jpg",
+      "plot": "Chaos reigns in the New York City subway system when heavily armed criminals, led by a mastermind named Ryder (John Travolta), hijack a subway train and threaten to kill everyone on board unless a…",
+      "directors": [
+        "Tony Scott"
+      ]
+    },
+    {
       "id": "lincoln_lawyer",
       "category": "crime",
       "type": "movie",
@@ -3781,6 +4476,32 @@
       ]
     },
     {
+      "id": "passengers_2016",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Passengers",
+      "original_title": "Passengers",
+      "year": 2016,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Mystery & Thriller",
+        "Romance",
+        "Drama"
+      ],
+      "rating": 5.0,
+      "votes": 27209,
+      "tomatometer": 30,
+      "audience_score": 63,
+      "runtime_minutes": 116,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/1m1A_JZE8RFiaNyNNscyOSmS1A4=/300x450/v2/https://resizing.flixster.com/g6iUHiwVNUQRGubpHmT2F79vPHI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyNzZiZjdmLWU0ZDYtNDA0OC1iZjUzLTdkMGVkZWEyOTEyNi53ZWJw",
+      "plot": "On a routine journey through space to a new home, two passengers, sleeping in suspended animation, are awakened 90 years too early when their ship malfunctions. As Jim and Aurora face living the rest…",
+      "directors": [
+        "Morten Tyldum"
+      ]
+    },
+    {
       "id": "lethal_weapon",
       "category": "mystery-thriller",
       "type": "movie",
@@ -3825,6 +4546,30 @@
       "plot": "When flight attendant Jackie Brown (Pam Grier) is busted smuggling money for her arms dealer boss, Ordell Robbie (Samuel L. Jackson), agent Ray Nicolette (Michael Keaton) and detective Mark Dargus…",
       "directors": [
         "Quentin Tarantino"
+      ]
+    },
+    {
+      "id": "pi",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Pi",
+      "original_title": "Pi",
+      "year": 1998,
+      "genres": [
+        "Mystery & Thriller",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 26677,
+      "tomatometer": 88,
+      "audience_score": 85,
+      "runtime_minutes": 85,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/73efKYZVbkUVvmbmmMvrdAL17Z4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20483_p_v8_ai.jpg",
+      "plot": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature. Pushed to his limits, he spirals between brilliance and obsession.",
+      "directors": [
+        "Darren Aronofsky"
       ]
     },
     {
@@ -4062,746 +4807,6 @@
       "plot": "Tom Cruise returns to his role as Ethan Hunt in the second installment of \"Mission: Impossible.\" This time Ethan Hunt leads his IMF team on a mission to capture a deadly German virus before it is…",
       "directors": [
         "John Woo"
-      ]
-    },
-    {
-      "id": "final_destination_3",
-      "category": "horror",
-      "type": "movie",
-      "title": "Final Destination 3",
-      "original_title": "Final Destination 3",
-      "year": 2006,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.4,
-      "votes": 25878,
-      "tomatometer": 44,
-      "audience_score": 57,
-      "runtime_minutes": 92,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/YQhcv4jOpOX8f4MeDcXOT4EoN48=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159765_p_v8_ba.jpg",
-      "plot": "Six years after a group of high-school students first cheated death, another teen (Mary Elizabeth Winstead) has a premonition that she and her friends will be involved in a horrifying roller-coaster…",
-      "directors": [
-        "James Wong"
-      ]
-    },
-    {
-      "id": "the_nice_guys",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "The Nice Guys",
-      "original_title": "The Nice Guys",
-      "year": 2016,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.7,
-      "votes": 25836,
-      "tomatometer": 91,
-      "audience_score": 79,
-      "runtime_minutes": 116,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/OwGdRz3gcaEe_k1ZvEFSUOrW9zY=/300x450/v2/https://resizing.flixster.com/-OgP6gBCAAZD5WtJFcShN6zRFbg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q2M2M3YjdkLTYyY2YtNDY4Ni04NDUzLWIwNjA3ZTJiMmYxOC53ZWJw",
-      "plot": "Holland March (Ryan Gosling) is a down-on-his-luck private eye in 1977 Los Angeles. Jackson Healy (Russell Crowe) is a hired enforcer who hurts people for a living. Fate turns them into unlikely…",
-      "directors": [
-        "Shane Black"
-      ]
-    },
-    {
-      "id": "1205380-crazies",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Crazies",
-      "original_title": "The Crazies",
-      "year": 2010,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.3,
-      "votes": 25832,
-      "tomatometer": 72,
-      "audience_score": 57,
-      "runtime_minutes": 101,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/vuaYO2qOw4l9tucMAZh6-7BlvnU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p197901_p_v8_al.jpg",
-      "plot": "Anarchy reigns when an unknown toxin turns the peaceful citizens of Ogden Marsh into bloodthirsty lunatics. In an effort to contain the spread of the infection, authorities blockade the town and use…",
-      "directors": [
-        "Breck Eisner"
-      ]
-    },
-    {
-      "id": "contraband_2012",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Contraband",
-      "original_title": "Contraband",
-      "year": 2012,
-      "genres": [
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.4,
-      "votes": 25750,
-      "tomatometer": 50,
-      "audience_score": 57,
-      "runtime_minutes": 110,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/H96w3cd-ZXr7loWH_a8CTV0AW1s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8780575_p_v8_aq.jpg",
-      "plot": "Ex-smuggler Chris Farraday gave up his criminal ways long ago. But, he's forced back into the game after his brother-in-law, Andy, botches a drug deal for a crime lord, leaving Chris to settle the…",
-      "directors": [
-        "Baltasar Kormákur"
-      ]
-    },
-    {
-      "id": "alien_covenant",
-      "category": "horror",
-      "type": "movie",
-      "title": "Alien: Covenant",
-      "original_title": "Alien: Covenant",
-      "year": 2017,
-      "genres": [
-        "Sci-Fi",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.3,
-      "votes": 25649,
-      "tomatometer": 65,
-      "audience_score": 55,
-      "runtime_minutes": 122,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/B3-zMNIRT6hBbpNGQ4bVOSDjLHI=/300x450/v2/https://resizing.flixster.com/v7kKyi8CdrLtNDAtsW_MErYm-sk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA2MmY2NzJhLWQ1MmUtNDUyOS05OGZiLWU4ZDBmYTE3YjQ5Yy53ZWJw",
-      "plot": "Bound for a remote planet on the far side of the galaxy, members (Katherine Waterston, Billy Crudup) of the colony ship Covenant discover what they think to be an uncharted paradise. While there,…",
-      "directors": [
-        "Ridley Scott"
-      ]
-    },
-    {
-      "id": "the_strangers",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Strangers",
-      "original_title": "The Strangers",
-      "year": 2008,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.1,
-      "votes": 25426,
-      "tomatometer": 50,
-      "audience_score": 48,
-      "runtime_minutes": 86,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/8Th8dZSXceCuLdZp3K2e4B3-vC4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166552_p_v8_af.jpg",
-      "plot": "Kristen (Liv Tyler) and James (Scott Speedman) are expecting a relaxing weekend at a family vacation home, but their stay turns out to be anything but peaceful. First, a mysterious and dangerous…",
-      "directors": [
-        "Bryan Bertino"
-      ]
-    },
-    {
-      "id": "jack_ryan_shadow_recruit",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Jack Ryan: Shadow Recruit",
-      "original_title": "Jack Ryan: Shadow Recruit",
-      "year": 2014,
-      "genres": [
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.6,
-      "votes": 25281,
-      "tomatometer": 55,
-      "audience_score": 52,
-      "runtime_minutes": 105,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/rnNTCOoZInjFjwT8zKW0Iz_1uEo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9957386_p_v8_ar.jpg",
-      "plot": "CIA recruit Jack Ryan is caught in a dangerous web of intrigue and espionage spun between a shadowy government agent, his unsuspecting fiancée and a fearless Russian power broker. To stop a…",
-      "directors": [
-        "Kenneth Branagh"
-      ]
-    },
-    {
-      "id": "from_dusk_till_dawn",
-      "category": "horror",
-      "type": "movie",
-      "title": "From Dusk Till Dawn",
-      "original_title": "From Dusk Till Dawn",
-      "year": 1996,
-      "genres": [
-        "Horror",
-        "Action",
-        "Comedy",
-        "Mystery & Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 6.4,
-      "votes": 25165,
-      "tomatometer": 65,
-      "audience_score": 76,
-      "runtime_minutes": 107,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ZLiU6_1MzPVXoh79XJ9v-KGx9no=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17605_p_v8_aj.jpg",
-      "plot": "On the run from a bank robbery that left several police officers dead, Seth Gecko (George Clooney) and his paranoid, loose-cannon brother, Richard (Quentin Tarantino), hightail it to the Mexican…",
-      "directors": [
-        "Robert Rodriguez"
-      ]
-    },
-    {
-      "id": "paranormal_activity_3",
-      "category": "horror",
-      "type": "movie",
-      "title": "Paranormal Activity 3",
-      "original_title": "Paranormal Activity 3",
-      "year": 2011,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.0,
-      "votes": 24847,
-      "tomatometer": 68,
-      "audience_score": 51,
-      "runtime_minutes": 81,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/bekqDcK824Dypf_JKpCy8gh1mcc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8640397_p_v11_al.jpg",
-      "plot": "A videographer becomes obsessed with finding the source of disturbing late-night noises in his home and discovers its terrifying origin.",
-      "directors": [
-        "Henry Joost",
-        "Ariel Schulman"
-      ]
-    },
-    {
-      "id": "the_grudge",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Grudge",
-      "original_title": "The Grudge",
-      "year": 2004,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.3,
-      "votes": 24695,
-      "tomatometer": 41,
-      "audience_score": 46,
-      "runtime_minutes": 90,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/UUJKxhvrUsBnter5HiRMzCp9Zwg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35157_p_v10_aj.jpg",
-      "plot": "Matthew Williams (William Mapother), his wife, Jennifer (Clea DuVall), and mother, Emma (Grace Zabriskie), are Americans making a new life in Tokyo. Together they move into a house that has been the…",
-      "directors": [
-        "Takashi Shimizu"
-      ]
-    },
-    {
-      "id": "the_accountant",
-      "category": "crime",
-      "type": "movie",
-      "title": "The Accountant",
-      "original_title": "The Accountant",
-      "year": 2016,
-      "genres": [
-        "Mystery & Thriller",
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 5.7,
-      "votes": 24323,
-      "tomatometer": 53,
-      "audience_score": 77,
-      "runtime_minutes": 127,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/aC2-KvfCwTvtElzh020TnMwo-yY=/300x450/v2/https://resizing.flixster.com/o3meG5R9rAmsxU98hrc41Nav4dM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiYmI0OWZkLTdkYjktNDE4Yi04MDQ5LWE5MmFmNjkwNTRjYi53ZWJw",
-      "plot": "Christian Wolff (Ben Affleck) is a mathematics savant with more affinity for numbers than people. Using a small-town CPA office as a cover, he makes his living as a freelance accountant for dangerous…",
-      "directors": [
-        "Gavin O'Connor"
-      ]
-    },
-    {
-      "id": "jason_bourne",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Jason Bourne",
-      "original_title": "Jason Bourne",
-      "year": 2016,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Adventure"
-      ],
-      "rating": 5.9,
-      "votes": 23603,
-      "tomatometer": 55,
-      "audience_score": 55,
-      "runtime_minutes": 123,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/VOmg-bWsH2z3ZF5EDu5DnEA6N44=/300x450/v2/https://resizing.flixster.com/qMkpyms2HcillWZnsiL_uuMHIzk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MwOTQwNDRlLTY4Y2UtNGExNC1iYjhlLTRiOGJlYzY0MGNiZi53ZWJw",
-      "plot": "It's been 10 years since Jason Bourne (Matt Damon) walked away from the agency that trained him to become a deadly weapon. Hoping to draw him out of the shadows, CIA director Robert Dewey assigns…",
-      "directors": [
-        "Paul Greengrass"
-      ]
-    },
-    {
-      "id": "war",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "War",
-      "original_title": "War",
-      "year": 2007,
-      "genres": [
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.1,
-      "votes": 23577,
-      "tomatometer": 14,
-      "audience_score": 51,
-      "runtime_minutes": 103,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/xVd_qdJ_dEhQx8QynHwRCz6zS9U=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p163058_p_v8_an.jpg",
-      "plot": "After his partner and family are killed, FBI agent Jack Crawford (Jason Statham) becomes obsessed with revenge on an assassin named Rogue (Jet Li). Rogue's return sparks a violent war between rival…",
-      "directors": [
-        "Philip G. Atwell"
-      ]
-    },
-    {
-      "id": "room_2015",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Room",
-      "original_title": "Room",
-      "year": 2016,
-      "genres": [
-        "Drama",
-        "Mystery & Thriller"
-      ],
-      "rating": 8.5,
-      "votes": 23491,
-      "tomatometer": 93,
-      "audience_score": 93,
-      "runtime_minutes": 118,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/MH4u42E41DgnZQpGlz8Acd7vSEg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12008673_p_v8_ad.jpg",
-      "plot": "Held captive for years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
-      "directors": [
-        "Lenny Abrahamson"
-      ]
-    },
-    {
-      "id": "gamer",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Gamer",
-      "original_title": "Gamer",
-      "year": 2009,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Sci-Fi"
-      ],
-      "rating": 4.4,
-      "votes": 23401,
-      "tomatometer": 29,
-      "audience_score": 39,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/r7w3JZS1OrC1BXUiEFBBEbCP7cU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p181759_p_v13_as.jpg",
-      "plot": "Each week Kable, a death-row inmate, battles his fellow prisoners in a violent online game called \"Slayers,\" his every move controlled by a young gamer's remote device. To the players, Kable and the…",
-      "directors": [
-        "Mark Neveldine",
-        "Brian Taylor"
-      ]
-    },
-    {
-      "id": "1046129-fugitive",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "The Fugitive",
-      "original_title": "The Fugitive",
-      "year": 1993,
-      "genres": [
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 8.2,
-      "votes": 23185,
-      "tomatometer": 96,
-      "audience_score": 89,
-      "runtime_minutes": 130,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/hzlhlz5mR7i4TXvntGjBDEP8vZA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14930_p_v10_ae.jpg",
-      "plot": "Wrongfully accused of murdering his wife, Richard Kimble escapes from the law in an attempt to find her killer and clear his name. Pursuing him is a team of U.S. marshals led by Deputy Samuel Gerard,…",
-      "directors": [
-        "Andrew Davis"
-      ]
-    },
-    {
-      "id": "1149496-1149496-red_eye",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Red Eye",
-      "original_title": "Red Eye",
-      "year": 2005,
-      "genres": [
-        "Mystery & Thriller",
-        "Action",
-        "Drama"
-      ],
-      "rating": 6.8,
-      "votes": 22993,
-      "tomatometer": 80,
-      "audience_score": 64,
-      "runtime_minutes": 85,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/2Ie7JwscTE3Ej14qZbSkeYknq2Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36277_p_v13_af.jpg",
-      "plot": "In the wake of her grandmother's funeral, hotel manager Lisa Reisert is waiting to fly back home when she meets charming Jackson Rippner at check-in. She thinks it luck that they're seated together…",
-      "directors": [
-        "Wes Craven"
-      ]
-    },
-    {
-      "id": "final_destination_2",
-      "category": "horror",
-      "type": "movie",
-      "title": "Final Destination 2",
-      "original_title": "Final Destination 2",
-      "year": 2003,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.0,
-      "votes": 22312,
-      "tomatometer": 52,
-      "audience_score": 58,
-      "runtime_minutes": 90,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Owb17AUp8Jxse2bKQw2LBnR83r0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31359_p_v10_ad.jpg",
-      "plot": "Kimberly (A.J. Cook) has a premonition of a horrible highway accident killing multiple people -- including her and her friends. She blocks the cars behind her on the ramp from joining traffic -- and…",
-      "directors": [
-        "David R. Ellis"
-      ]
-    },
-    {
-      "id": "paranormal_activity_4_2012",
-      "category": "horror",
-      "type": "movie",
-      "title": "Paranormal Activity 4",
-      "original_title": "Paranormal Activity 4",
-      "year": 2012,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.2,
-      "votes": 22289,
-      "tomatometer": 23,
-      "audience_score": 34,
-      "runtime_minutes": 87,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/GCPKZldeYj_UFlqD1W6wxb8KM1I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9024369_p_v8_ba.jpg",
-      "plot": "It has been five years since Katie (Katie Featherston) murdered her sister and disappeared with her infant nephew, Hunter, in tow. Now, a new family is about to fall prey to nighttime terrors. A…",
-      "directors": [
-        "Henry Joost",
-        "Ariel Schulman"
-      ]
-    },
-    {
-      "id": "let_me_in",
-      "category": "horror",
-      "type": "movie",
-      "title": "Let Me In",
-      "original_title": "Let Me In",
-      "year": 2010,
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Drama",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.5,
-      "votes": 22112,
-      "tomatometer": 88,
-      "audience_score": 76,
-      "runtime_minutes": 115,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/_WgzmloXwN_hllU19HEuaszUH_I=/300x450/v2/https://resizing.flixster.com/egJySQTucdGYvINZVql8fq8BMZg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NTNiMGE2LTc2YmItNGNjYi05ZTlhLWQ5ZTQyZGJlZWZkMS5qcGc=",
-      "plot": "Bullied at school, neglected at home and incredibly lonely, 12-year-old Owen (Kodi Smit-McPhee) spends his days plotting revenge on his tormentors and spends his nights spying on other residents of…",
-      "directors": [
-        "Matt Reeves"
-      ]
-    },
-    {
-      "id": "the_purge_anarchy_2014",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Purge: Anarchy",
-      "original_title": "The Purge: Anarchy",
-      "year": 2014,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Horror",
-        "Adventure"
-      ],
-      "rating": 5.5,
-      "votes": 22046,
-      "tomatometer": 58,
-      "audience_score": 56,
-      "runtime_minutes": 103,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/vioaGZz_fmvUghGJ0yzqhmS-x3s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10558648_p_v8_ak.jpg",
-      "plot": "One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who…",
-      "directors": [
-        "James DeMonaco"
-      ]
-    },
-    {
-      "id": "breach",
-      "category": "crime",
-      "type": "movie",
-      "title": "Breach",
-      "original_title": "Breach",
-      "year": 2007,
-      "genres": [
-        "Biography",
-        "Crime",
-        "Drama",
-        "Mystery & Thriller",
-        "Action"
-      ],
-      "rating": 7.1,
-      "votes": 22021,
-      "tomatometer": 83,
-      "audience_score": 67,
-      "runtime_minutes": 110,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/aZGnsigjkMbs7qCxs1V29x0a4OQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162271_p_v13_ak.jpg",
-      "plot": "Eric O'Neill (Ryan Phillippe), a low-level surveillance expert with the FBI, believes he is accomplishing his dream of becoming a full-fledged agent, with his unexpected promotion and assignment to…",
-      "directors": [
-        "Billy Ray"
-      ]
-    },
-    {
-      "id": "escape_plan",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Escape Plan",
-      "original_title": "Escape Plan",
-      "year": 2013,
-      "genres": [
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.4,
-      "votes": 21998,
-      "tomatometer": 50,
-      "audience_score": 55,
-      "runtime_minutes": 115,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/rCXDXDL6LBjUIXYScqIFkA2r8z0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9911264_p_v8_ad.jpg",
-      "plot": "Tough and chiseled Ray Breslin (Sylvester Stallone) knows how to infiltrate a prison -- and bust out of one. His latest job leads to a double-cross, leaving him stuck in a high-tech facility with the…",
-      "directors": [
-        "Mikael Håfström"
-      ]
-    },
-    {
-      "id": "central_intelligence",
-      "category": "crime",
-      "type": "movie",
-      "title": "Central Intelligence",
-      "original_title": "Central Intelligence",
-      "year": 2016,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Mystery & Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 5.7,
-      "votes": 21860,
-      "tomatometer": 71,
-      "audience_score": 62,
-      "runtime_minutes": 107,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/PIMhUOiBds4yMx4CI2QktiKslTM=/300x450/v2/https://resizing.flixster.com/IfCz3dBard4GlC1fb0jwsh4ZI84=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1N2I4NmQzLWU4MDEtNDViYi04ODUyLTBiYTgwODYwNGEwMC53ZWJw",
-      "plot": "Bullied as a teen for being overweight, Bob Stone shows up to his high school reunion looking fit and muscular. While there, he finds Calvin Joyner, a fast-talking accountant who misses his glory…",
-      "directors": []
-    },
-    {
-      "id": "the_expendables_3",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "The Expendables 3",
-      "original_title": "The Expendables 3",
-      "year": 2014,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Adventure"
-      ],
-      "rating": 4.9,
-      "votes": 21719,
-      "tomatometer": 32,
-      "audience_score": 48,
-      "runtime_minutes": 127,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/02YnysiIP8r6Dy3KpOxJmA95vIg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10431188_p_v12_ax.jpg",
-      "plot": "Years ago, Barney Ross co-founded the Expendables with Conrad Stonebanks. After Stonebanks became an arms dealer, Ross was forced to kill him -- or so he thought. Now, Stonebanks is back, and he's on…",
-      "directors": [
-        "Patrick Hughes"
-      ]
-    },
-    {
-      "id": "brothers_grimm",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Brothers Grimm",
-      "original_title": "The Brothers Grimm",
-      "year": 2005,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.4,
-      "votes": 21594,
-      "tomatometer": 38,
-      "audience_score": 39,
-      "runtime_minutes": 114,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/ILCv4DoLsP87sfU5AiuGq_rGUpU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89991_p_v8_ax.jpg",
-      "plot": "The Brothers Grimm, Wilhelm and Jacob, are dysfunctional schemers who go from town to town putting on shows that convince inhabitants they are getting rid of demons. After one such scam, a mysterious…",
-      "directors": [
-        "Terry Gilliam"
-      ]
-    },
-    {
-      "id": "chappie",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Chappie",
-      "original_title": "Chappie",
-      "year": 2015,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.9,
-      "votes": 21590,
-      "tomatometer": 32,
-      "audience_score": 56,
-      "runtime_minutes": 120,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/wBvELcA-bIhipzLuSRATclzBfAY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11003085_p_v8_ay.jpg",
-      "plot": "In the near future, a mechanized police force patrols the streets and deals with lawbreakers -- but now, the people are fighting back. When one police droid is stolen and given new programming, he…",
-      "directors": [
-        "Neill Blomkamp"
-      ]
-    },
-    {
-      "id": "the_conjuring_2",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Conjuring 2",
-      "original_title": "The Conjuring 2",
-      "year": 2016,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.8,
-      "votes": 21575,
-      "tomatometer": 80,
-      "audience_score": 82,
-      "runtime_minutes": 133,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/a8Jc3V6NDqwNqZ2p7TnQ_V7JaGc=/300x450/v2/https://resizing.flixster.com/d0rGbr5GoO0VuLDyG4WdCL2LZbs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmOGI0NDk3LTA4NDYtNGYzNi04ZGZlLWRkMzczM2ExMWZjOC53ZWJw",
-      "plot": "In 1977, paranormal investigators Ed (Patrick Wilson) and Lorraine Warren come out of a self-imposed sabbatical to travel to Enfield, a borough in north London. There, they meet Peggy Hodgson, an…",
-      "directors": [
-        "James Wan"
-      ]
-    },
-    {
-      "id": "the_messengers",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Messengers",
-      "original_title": "The Messengers",
-      "year": 2007,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.1,
-      "votes": 21534,
-      "tomatometer": 11,
-      "audience_score": 44,
-      "runtime_minutes": 85,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/hpWAGXpULQBzN6RZXbPTwiYGOUo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162830_p_v8_ag.jpg",
-      "plot": "When the Solomons trade in the craziness of big-city life for the quiet of a North Dakota farm, little do they expect the nightmare that follows. Soon after arriving, teenage Jess (Kristen Stewart)…",
-      "directors": [
-        "Danny Pang",
-        "Oxide Chun Pang"
-      ]
-    },
-    {
-      "id": "death_race",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Death Race",
-      "original_title": "Death Race",
-      "year": 2008,
-      "genres": [
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.2,
-      "votes": 21505,
-      "tomatometer": 41,
-      "audience_score": 60,
-      "runtime_minutes": 105,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/dybV1foyjQ7m1ekK8i8e7yjvBcE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176368_p_v8_aa.jpg",
-      "plot": "Framed for a murder he did not commit, three-time speedway champ Jensen Ames (Jason Statham) finds himself at Terminal Island, the country's toughest prison, but he gets an unexpected chance at…",
-      "directors": [
-        "Paul W.S. Anderson"
-      ]
-    },
-    {
-      "id": "sound_of_freedom",
-      "category": "crime",
-      "type": "movie",
-      "title": "Sound of Freedom",
-      "original_title": "Sound of Freedom",
-      "year": 2023,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.8,
-      "votes": 21191,
-      "tomatometer": 57,
-      "audience_score": 99,
-      "runtime_minutes": 131,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/coBiCeT0vqE4vwWex3eucMVxuAI=/300x450/v2/https://resizing.flixster.com/5daqWNXuHIMr2z_mRSaT0ewHNrA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJhM2ZlOWM4LTM0YmQtNDQ0OC1iZDYzLWU3OTIxZWFmN2FkNS5qcGc=",
-      "plot": "Sound of Freedom, based on the incredible true story, shines a light on even the darkest of places. After rescuing a young boy from ruthless child traffickers, a federal agent learns the boy’s sister…",
-      "directors": [
-        "Alejandro Monteverde"
       ]
     }
   ]

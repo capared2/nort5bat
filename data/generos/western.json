@@ -1,7 +1,7 @@
 {
   "genre": "western",
   "name": "Western",
-  "count": 27,
+  "count": 42,
   "titles": [
     {
       "id": "no_country_for_old_men",
@@ -27,6 +27,30 @@
       "directors": [
         "Joel Coen",
         "Ethan Coen"
+      ]
+    },
+    {
+      "id": "django_unchained_2012",
+      "category": "western",
+      "type": "movie",
+      "title": "Django Unchained",
+      "original_title": "Django Unchained",
+      "year": 2012,
+      "genres": [
+        "Western",
+        "Drama",
+        "Action"
+      ],
+      "rating": 8.1,
+      "votes": 136512,
+      "tomatometer": 87,
+      "audience_score": 92,
+      "runtime_minutes": 165,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/3o1AwSYeC_Fhdyjsiwu9UVVKwdo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9287010_p_v12_at.jpg",
+      "plot": "Two years before the Civil War, Django (Jamie Foxx), a slave, finds himself accompanying an unorthodox German bounty hunter named Dr. King Schultz (Christoph Waltz) on a mission to capture the…",
+      "directors": [
+        "Quentin Tarantino"
       ]
     },
     {
@@ -99,6 +123,29 @@
       "plot": "While racing toward the town of Red Rock in post-Civil War Wyoming, bounty hunter John \"The Hangman\" Ruth (Kurt Russell) and his fugitive prisoner (Jennifer Jason Leigh) encounter another bounty…",
       "directors": [
         "Quentin Tarantino"
+      ]
+    },
+    {
+      "id": "tombstone",
+      "category": "western",
+      "type": "movie",
+      "title": "Tombstone",
+      "original_title": "Tombstone",
+      "year": 1993,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 6.5,
+      "votes": 28642,
+      "tomatometer": 76,
+      "audience_score": 93,
+      "runtime_minutes": 127,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/4in6x96y5sT0YvJqjMrF0n4uros=/300x450/v2/https://resizing.flixster.com/MQu17X8R0Tpnt1uSJUeMups6PcU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE2YjU0MmFkLTMzZjgtNDVjOC1hYjlkLTExYTcyMmQ4YmE2OC5qcGc=",
+      "plot": "Wyatt Earp and his brothers, Morgan and Virgil, have left their gunslinger ways behind them to settle down and start a business in the town of Tombstone, Ariz. While they aren't looking to find…",
+      "directors": [
+        "George P. Cosmatos"
       ]
     },
     {
@@ -177,6 +224,54 @@
       ]
     },
     {
+      "id": "the_good_the_bad_the_weird",
+      "category": "western",
+      "type": "movie",
+      "title": "The Good, the Bad, the Weird",
+      "original_title": "The Good, the Bad, the Weird",
+      "year": 2010,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 7.2,
+      "votes": 4261,
+      "tomatometer": 81,
+      "audience_score": 83,
+      "runtime_minutes": 130,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/CeyzxWfCr1ZEz7l0-EJ4sByqob0=/300x450/v2/https://resizing.flixster.com/jH9emiDPEXrqRbg1zBeydVo8vrE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FiZGZiNWYyLTIyOTQtNDI5Yy04ZjEwLTFhMTU2NDdlOWE3Yi53ZWJw",
+      "plot": "In the 1930s Manchuria, an encounter on a train triggers an epic crusade for a treasure map, prompting a marathon chase in hot pursuit of the loot. Do-won, \"The Good\", is a bounty hunter, out to…",
+      "directors": [
+        "Kim Jee-woon"
+      ]
+    },
+    {
+      "id": "bandidas",
+      "category": "western",
+      "type": "movie",
+      "title": "Bandidas",
+      "original_title": "Bandidas",
+      "year": 2006,
+      "genres": [
+        "Western",
+        "Action",
+        "Comedy"
+      ],
+      "rating": 5.0,
+      "votes": 3166,
+      "tomatometer": 56,
+      "audience_score": 43,
+      "runtime_minutes": 93,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/qHsPaJGlt36bntXlvDt-ghSczp0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159541_p_v10_aa.jpg",
+      "plot": "In 19th-century Mexico two women (Penélope Cruz, Salma Hayek) from vastly different backgrounds join forces against a ruthless U.S. bank magnate (Dwight Yoakam) who is stealing land from defenseless…",
+      "directors": [
+        "Joachim Rønning",
+        "Espen Sandberg"
+      ]
+    },
+    {
       "id": "aint_them_bodies_saints_2013",
       "category": "western",
       "type": "movie",
@@ -227,6 +322,29 @@
       ]
     },
     {
+      "id": "american_outlaws",
+      "category": "western",
+      "type": "movie",
+      "title": "American Outlaws",
+      "original_title": "American Outlaws",
+      "year": 2001,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 4.3,
+      "votes": 2189,
+      "tomatometer": 13,
+      "audience_score": 67,
+      "runtime_minutes": 93,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/T9IP764udy68A3eqpyAQN3ptofw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28142_p_v8_aa.jpg",
+      "plot": "After the Civil War ends, Confederate soldiers Frank (Gabriel Macht) and Jesse James (Colin Farrell) return home with the three Younger brothers to learn that railroad baron Thaddeus Rains (Harris…",
+      "directors": [
+        "Les Mayfield"
+      ]
+    },
+    {
       "id": "jane_got_a_gun",
       "category": "western",
       "type": "movie",
@@ -271,6 +389,30 @@
       "plot": "When gunslinger Hogan (Clint Eastwood) discovers a group of men attempting to rape a young nun, Sara (Shirley MacLaine), he shoots them dead and rescues the woman. The two escape to a nearby camp of…",
       "directors": [
         "Don Siegel"
+      ]
+    },
+    {
+      "id": "all_the_pretty_horses",
+      "category": "western",
+      "type": "movie",
+      "title": "All the Pretty Horses",
+      "original_title": "All the Pretty Horses",
+      "year": 2000,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Western"
+      ],
+      "rating": 5.7,
+      "votes": 1277,
+      "tomatometer": 32,
+      "audience_score": 42,
+      "runtime_minutes": 117,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/sQMv4afnSUyDwLab-qJ-fpUTjwA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26688_p_v10_aa.jpg",
+      "plot": "The year is 1949. A young Texan named John Grady finds himself without a home after his mother sells the ranch where he has spent his entire life. Lured south of the border by the romance of cowboy…",
+      "directors": [
+        "Billy Bob Thornton"
       ]
     },
     {
@@ -367,6 +509,52 @@
       ]
     },
     {
+      "id": "wagons_east",
+      "category": "western",
+      "type": "movie",
+      "title": "Wagons East!",
+      "original_title": "Wagons East!",
+      "year": 1994,
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "rating": 2.9,
+      "votes": 490,
+      "tomatometer": 0,
+      "audience_score": 34,
+      "runtime_minutes": 106,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ylE9lCEW-3q4LNhRAB4sp3AZDok=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15946_p_v8_aa.jpg",
+      "plot": "When a group of dissatisfied settlers decides they've had enough of the Wild West, they hire James Harlow, an alcoholic wagon master, to take them back East. The eclectic but happy bunch includes Dr.…",
+      "directors": [
+        "Peter Markle"
+      ]
+    },
+    {
+      "id": "1111103-texas_rangers",
+      "category": "western",
+      "type": "movie",
+      "title": "Texas Rangers",
+      "original_title": "Texas Rangers",
+      "year": 2001,
+      "genres": [
+        "Western",
+        "Adventure"
+      ],
+      "rating": 3.7,
+      "votes": 441,
+      "tomatometer": 2,
+      "audience_score": 29,
+      "runtime_minutes": 90,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/XW8fgN36Jj_SRRNm06Q1CREBp-0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24689_p_v10_ab.jpg",
+      "plot": "Texas, 1875. In a land without justice, where chaos reigns, one legendary man, Leander McNelly (Dylan McDermott), is chosen to lead a group of unlikely heroes. These young men, out-manned and…",
+      "directors": [
+        "Steve Miner"
+      ]
+    },
+    {
       "id": "the_wind_2019",
       "category": "western",
       "type": "movie",
@@ -413,6 +601,54 @@
       ]
     },
     {
+      "id": "the_thicket",
+      "category": "western",
+      "type": "movie",
+      "title": "The Thicket",
+      "original_title": "The Thicket",
+      "year": 2024,
+      "genres": [
+        "Western",
+        "Crime",
+        "Drama",
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.7,
+      "votes": 298,
+      "tomatometer": 80,
+      "audience_score": 78,
+      "runtime_minutes": 108,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/RDP9HU9yBpx9C4xTywZGUa4hI5Y=/300x450/v2/https://resizing.flixster.com/NCXJn6bQEk9ROpGYqwBPYmjR4Qc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM1ZWZjNDNjLWJmMDQtNDE1NS04MWU5LWZiNGYzNDU5MzIxZS5qcGc=",
+      "plot": "When fierce bounty hunter Reginald Jones (Peter Dinklage) is recruited by a desperate man to track down a ruthless killer known only as Cutthroat Bill (Juliette Lewis), he rallies a band of unlikely…",
+      "directors": [
+        "Elliott Lester"
+      ]
+    },
+    {
+      "id": "sweet_vengeance",
+      "category": "western",
+      "type": "movie",
+      "title": "Sweetwater",
+      "original_title": "Sweetwater",
+      "year": 2013,
+      "genres": [
+        "Western"
+      ],
+      "rating": 4.2,
+      "votes": 275,
+      "tomatometer": 25,
+      "audience_score": 37,
+      "runtime_minutes": 94,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/jbwuoUEIVnUIL53h-B7BCF0Jdd8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9723645_p_v8_aa.jpg",
+      "plot": "A frontier widow (January Jones) seeks revenge on the religious fanatic (Jason Isaacs) who murdered her husband.",
+      "directors": [
+        "Logan Miller"
+      ]
+    },
+    {
       "id": "the_last_manhunt",
       "category": "western",
       "type": "movie",
@@ -436,6 +672,28 @@
       ]
     },
     {
+      "id": "hannie_caulder",
+      "category": "western",
+      "type": "movie",
+      "title": "Hannie Caulder",
+      "original_title": "Hannie Caulder",
+      "year": 1971,
+      "genres": [
+        "Western"
+      ],
+      "rating": 6.0,
+      "votes": 144,
+      "tomatometer": 60,
+      "audience_score": 56,
+      "runtime_minutes": 85,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/unokQs7hkys82xvrhYGKFmV9NwY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p38821_p_v8_aa.jpg",
+      "plot": "In the Wild West, vicious but bumbling bandit brothers Emmett (Ernest Borgnine), Frank (Jack Elam) and Rufus Clemens (Strother Martin) botch a heist, and in anger they rape local woman Hannie Caulder…",
+      "directors": [
+        "Burt Kennedy"
+      ]
+    },
+    {
       "id": "surrounded_2021",
       "category": "western",
       "type": "movie",
@@ -456,6 +714,31 @@
       "plot": "Five years after the Civil War, freedwoman and former Buffalo Soldier Moses \"Mo\" Washington travels west to lay claim on a gold mine- the summation of years of toil for Mo and her community. It is a…",
       "directors": [
         "Anthony Mandler"
+      ]
+    },
+    {
+      "id": "national_anthem",
+      "category": "western",
+      "type": "movie",
+      "title": "National Anthem",
+      "original_title": "National Anthem",
+      "year": 2024,
+      "genres": [
+        "Drama",
+        "LGBTQ+",
+        "Romance",
+        "Western"
+      ],
+      "rating": 7.4,
+      "votes": 126,
+      "tomatometer": 91,
+      "audience_score": 78,
+      "runtime_minutes": 99,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/XtUYZ5Auwim2xDj8s9x-mkv1Ty0=/300x450/v2/https://resizing.flixster.com/FM7ix7STg742QUT7HsE0T9TA-qs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0ZmU3ZTNkLWU3MDQtNDVhZi05NmRlLWM5ZWYyM2YwNDY0Ny5qcGc=",
+      "plot": "Dylan (Charlie Plummer), a soft-spoken 21-year-old construction worker, is the de facto father figure to his little brother and works odd jobs to help the family get by. After he finds himself with…",
+      "directors": [
+        "Luke Gilford"
       ]
     },
     {
@@ -532,6 +815,51 @@
       ]
     },
     {
+      "id": "the_last_son",
+      "category": "western",
+      "type": "movie",
+      "title": "The Last Son",
+      "original_title": "The Last Son",
+      "year": 2021,
+      "genres": [
+        "Western"
+      ],
+      "rating": 5.2,
+      "votes": 80,
+      "tomatometer": 17,
+      "audience_score": 45,
+      "runtime_minutes": 98,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/yOrkGQ08oXW6TJufBPx_pzwqx58=/300x450/v2/https://resizing.flixster.com/DpAqHLuhnHhP2o7UGGuBJ-9HpB0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA2YzM5NzNkLTJhNzAtNDUzZC05NmQyLTc0NDZhZGFkMDc0ZS5qcGc=",
+      "plot": "Sam Worthington stars as Isaac LeMay, a murderous outlaw who learns he is cursed by a prophecy: one of his children will kill him. To prevent this, he hunts down each of his estranged children…",
+      "directors": [
+        "Tim Sutton"
+      ]
+    },
+    {
+      "id": "the_harder_they_fall",
+      "category": "western",
+      "type": "movie",
+      "title": "The Harder They Fall",
+      "original_title": "The Harder They Fall",
+      "year": 2021,
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 76,
+      "tomatometer": 88,
+      "audience_score": 93,
+      "runtime_minutes": 137,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/fR9ztxpccVd980nQRpuwlswXZqM=/300x450/v2/https://resizing.flixster.com/O-JkRIKIk7nd9zSP2G-2uDpgi0A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0MTcyZTUyLWU0YmUtNDYyNi04MDllLTg1N2RhNGMxMDU0ZC5qcGc=",
+      "plot": "When outlaw Nat Love (Jonathan Majors) discovers that his enemy Rufus Buck (Idris Elba) is being released from prison he rounds up his gang to track Rufus down and seek revenge. Those riding with him…",
+      "directors": [
+        "Jeymes Samuel"
+      ]
+    },
+    {
       "id": "outlaw_posse",
       "category": "western",
       "type": "movie",
@@ -575,6 +903,28 @@
       "plot": "Academy Award® winner Nicolas Cage stars in his first-ever Western as Colton Briggs, a cold-blooded gunslinger turned respectable family man. When an outlaw and his gang put Colton and his family in…",
       "directors": [
         "Brett Donowho"
+      ]
+    },
+    {
+      "id": "dead_mans_hand_2023",
+      "category": "western",
+      "type": "movie",
+      "title": "Dead Man's Hand",
+      "original_title": "Dead Man's Hand",
+      "year": 2023,
+      "genres": [
+        "Western"
+      ],
+      "rating": null,
+      "votes": 38,
+      "tomatometer": null,
+      "audience_score": 24,
+      "runtime_minutes": 96,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/JIJd7nbPvVB1alchuGJnIvnmBOM=/300x450/v2/https://resizing.flixster.com/nChkvKn_IQJ0wReCJBkjZo2guYU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1ZDhlZDk0LTQyZWMtNDE3ZS1iMGZlLWFmMWMyM2I1MzU2Yy5qcGc=",
+      "plot": "Gunslinger Reno (Jack Kilmer, \"The Nice Guys\") is headed west for a quiet life with his new bride. But when their stagecoach is ambushed, he kills an outlaw in self-defense. In a nearby town, Reno…",
+      "directors": [
+        "Brian Skiba"
       ]
     },
     {
