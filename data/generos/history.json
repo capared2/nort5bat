@@ -1,8 +1,60 @@
 {
   "genre": "history",
   "name": "History",
-  "count": 189,
+  "count": 278,
   "titles": [
+    {
+      "id": "gladiator",
+      "category": "action",
+      "type": "movie",
+      "title": "Gladiator",
+      "original_title": "Gladiator",
+      "year": 2000,
+      "genres": [
+        "History",
+        "Drama",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 7.7,
+      "votes": 194939,
+      "tomatometer": 80,
+      "audience_score": 87,
+      "runtime_minutes": 154,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/nA11flGQNbrUvPuiK3waI20Qilg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24674_p_v12_bc.jpg",
+      "plot": "Commodus (Joaquin Phoenix) takes power and strips rank from Maximus (Russell Crowe), one of the favored generals of his predecessor and father, Emperor Marcus Aurelius, the great stoical philosopher.…",
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
+      "id": "forrest_gump",
+      "category": "war",
+      "type": "movie",
+      "title": "Forrest Gump",
+      "original_title": "Forrest Gump",
+      "year": 1994,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Adventure",
+        "War",
+        "History"
+      ],
+      "rating": 8.0,
+      "votes": 179588,
+      "tomatometer": 75,
+      "audience_score": 95,
+      "runtime_minutes": 142,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/9LS8LRBqEeN2f0TvhJZzTSWtKVs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15829_p_v12_ba.jpg",
+      "plot": "Slow-witted Forrest Gump (Tom Hanks) has never thought of himself as disadvantaged, and thanks to his supportive mother (Sally Field), he leads anything but a restricted life. Whether dominating on…",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
     {
       "id": "saving_private_ryan",
       "category": "war",
@@ -25,6 +77,32 @@
       "plot": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching…",
       "directors": [
         "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "troy",
+      "category": "war",
+      "type": "movie",
+      "title": "Troy",
+      "original_title": "Troy",
+      "year": 2004,
+      "genres": [
+        "Adventure",
+        "War",
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 92335,
+      "tomatometer": 53,
+      "audience_score": 74,
+      "runtime_minutes": 162,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/BW6G1sUgPSwhadFQMUUn5b-CEFA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34313_p_v12_bc.jpg",
+      "plot": "While visiting Spartan King Menelaus, Trojan prince Paris falls for Menelaus' wife, Helen and takes her back to Troy. Menelaus' brother, King Agamemnon, having already defeated every army in Greece,…",
+      "directors": [
+        "Wolfgang Petersen"
       ]
     },
     {
@@ -73,6 +151,54 @@
       "plot": "Midwest native Nick Carraway (Tobey Maguire) arrives in 1922 New York in search of the American dream. Nick, a would-be writer, moves in next-door to millionaire Jay Gatsby (Leonardo DiCaprio) and…",
       "directors": [
         "Baz Luhrmann"
+      ]
+    },
+    {
+      "id": "the_kings_speech",
+      "category": "history",
+      "type": "movie",
+      "title": "The King's Speech",
+      "original_title": "The King's Speech",
+      "year": 2011,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 8.6,
+      "votes": 66297,
+      "tomatometer": 94,
+      "audience_score": 92,
+      "runtime_minutes": 118,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/uW5kjXT-kRvWfLpqB6wrd-cyrMs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8073374_p_v10_ad.jpg",
+      "plot": "England's Prince Albert must ascend the throne as King George VI, but he has a speech impediment. Knowing that the country needs her husband to be able to communicate effectively, Elizabeth hires…",
+      "directors": [
+        "Tom Hooper"
+      ]
+    },
+    {
+      "id": "lincoln_2011",
+      "category": "history",
+      "type": "movie",
+      "title": "Lincoln",
+      "original_title": "Lincoln",
+      "year": 2012,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 8.1,
+      "votes": 60520,
+      "tomatometer": 90,
+      "audience_score": 80,
+      "runtime_minutes": 149,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/MS33Kx7_XEU7YLdh0B6JGKGhPXc=/300x450/v2/https://resizing.flixster.com/l3Wo9iTyQ0Z4F9TJBRZSBRe7ZEU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMwMDkyOGZjLTE2ZDAtNGM4My05YjQwLTI1NDc3NmFjOGRlMC5qcGc=",
+      "plot": "With the nation embroiled in still another year with the high death count of Civil War, President Abraham Lincoln brings the full measure of his passion, humanity and political skill to what would…",
+      "directors": [
+        "Steven Spielberg"
       ]
     },
     {
@@ -177,6 +303,31 @@
       ]
     },
     {
+      "id": "noah_2014",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Noah",
+      "original_title": "Noah",
+      "year": 2014,
+      "genres": [
+        "History",
+        "Drama",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 6.6,
+      "votes": 43390,
+      "tomatometer": 75,
+      "audience_score": 41,
+      "runtime_minutes": 137,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/LNLOY-FKwQEq7NG37JL-69sg__4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9957455_p_v11_ai.jpg",
+      "plot": "When God decides that mankind has become too sinful and must be wiped off the Earth, he chooses Noah (Russell Crowe), a pious man, for a great task. Noah must build an ark large enough to hold his…",
+      "directors": [
+        "Darren Aronofsky"
+      ]
+    },
+    {
       "id": "hotel_rwanda",
       "category": "history",
       "type": "movie",
@@ -273,6 +424,30 @@
       ]
     },
     {
+      "id": "valkyrie",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Valkyrie",
+      "original_title": "Valkyrie",
+      "year": 2008,
+      "genres": [
+        "History",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.2,
+      "votes": 30775,
+      "tomatometer": 62,
+      "audience_score": 65,
+      "runtime_minutes": 120,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/vrpebkK33lusPoAsU2B0TkTl7wQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176340_p_v8_ba.jpg",
+      "plot": "Col. Claus von Stauffenberg serves Germany with loyalty and pride but fears that Hitler will destroy his country if allowed to run unchecked. With time running out for Germany and the rest of Europe,…",
+      "directors": [
+        "Bryan Singer"
+      ]
+    },
+    {
       "id": "1917_2019",
       "category": "war",
       "type": "movie",
@@ -294,6 +469,29 @@
       "plot": "During World War I, two British soldiers -- Lance Cpl. Schofield and Lance Cpl. Blake -- receive seemingly impossible orders. In a race against time, they must cross over into enemy territory to…",
       "directors": [
         "Sam Mendes"
+      ]
+    },
+    {
+      "id": "1158195-marie_antoinette",
+      "category": "history",
+      "type": "movie",
+      "title": "Marie Antoinette",
+      "original_title": "Marie Antoinette",
+      "year": 2006,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 30005,
+      "tomatometer": 58,
+      "audience_score": 56,
+      "runtime_minutes": 123,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/v29cKfOSv9ltZCnBuE3yIwM1ZwU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159506_p_v10_aa.jpg",
+      "plot": "An Austrian teenager (Kirsten Dunst) marries the Dauphin (Jason Schwartzman) of France and becomes that country's queen following the death of King Louis XV (Judy Davis) in 1774. Years later, after a…",
+      "directors": [
+        "Sofia Coppola"
       ]
     },
     {
@@ -342,6 +540,31 @@
       "plot": "During the Cold War, the Soviet Union captures U.S. pilot Francis Gary Powers after shooting down his U-2 spy plane. Sentenced to 10 years in prison, Powers' only hope is New York lawyer James…",
       "directors": [
         "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "1152567-jarhead",
+      "category": "war",
+      "type": "movie",
+      "title": "Jarhead",
+      "original_title": "Jarhead",
+      "year": 2005,
+      "genres": [
+        "War",
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.9,
+      "votes": 27559,
+      "tomatometer": 60,
+      "audience_score": 68,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/t1CImFBWInQ-1B9xoW_a_pZaI_0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90513_p_v10_ac.jpg",
+      "plot": "In the late 1980s, Anthony Swofford (Jake Gyllenhaal) enlists as a Marine, training in boot camp under a sadistic drill instructor. Swofford undertakes a sniper course headed by Staff Sgt. Sykes…",
+      "directors": [
+        "Sam Mendes"
       ]
     },
     {
@@ -682,6 +905,32 @@
       ]
     },
     {
+      "id": "enemy_at_the_gates",
+      "category": "war",
+      "type": "movie",
+      "title": "Enemy at the Gates",
+      "original_title": "Enemy at the Gates",
+      "year": 2001,
+      "genres": [
+        "War",
+        "Drama",
+        "Action",
+        "History",
+        "Romance"
+      ],
+      "rating": 6.2,
+      "votes": 19601,
+      "tomatometer": 53,
+      "audience_score": 82,
+      "runtime_minutes": 131,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/YUbH7wrcDWGZNaRgKF_vyJTrV8I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26100_p_v11_ar.jpg",
+      "plot": "Vassili is a young Russian sharpshooter who becomes a legend when a savvy political officer makes him the hero of his propaganda campaign. Their friendship is threatened when both men fall in love…",
+      "directors": [
+        "Jean-Jacques Annaud"
+      ]
+    },
+    {
       "id": "defiance_2008",
       "category": "war",
       "type": "movie",
@@ -754,6 +1003,30 @@
       ]
     },
     {
+      "id": "downfall",
+      "category": "war",
+      "type": "movie",
+      "title": "Downfall",
+      "original_title": "Downfall",
+      "year": 2004,
+      "genres": [
+        "History",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.2,
+      "votes": 17291,
+      "tomatometer": 90,
+      "audience_score": 94,
+      "runtime_minutes": 148,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/unEucWpCgAst3I-DhpjakjDmg6g=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35549_p_v10_af.jpg",
+      "plot": "In 1942, young Traudl Junge (Alexandra Maria Lara) lands her dream job -- secretary to Adolf Hitler (Bruno Ganz) at the peak of his power. Three years later, Hitler's empire is now his underground…",
+      "directors": [
+        "Oliver Hirschbiegel"
+      ]
+    },
+    {
       "id": "boy_in_the_striped_pajamas",
       "category": "history",
       "type": "movie",
@@ -774,6 +1047,54 @@
       "plot": "During World War II, 8-year-old Bruno (Asa Butterfield) and his family leave Berlin to take up residence near the concentration camp where his father (David Thewlis) has just become commandant.…",
       "directors": [
         "Mark Herman"
+      ]
+    },
+    {
+      "id": "painted_veil",
+      "category": "romance",
+      "type": "movie",
+      "title": "The Painted Veil",
+      "original_title": "The Painted Veil",
+      "year": 2006,
+      "genres": [
+        "Romance",
+        "History",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "votes": 15917,
+      "tomatometer": 74,
+      "audience_score": 85,
+      "runtime_minutes": 125,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Eoiqati0ZJts95TAnkkIN1iTwWQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p161862_p_v8_as.jpg",
+      "plot": "Caught in an affair with another man (Liev Schreiber), a scientist's callow wife (Naomi Watts) accompanies her husband (Edward Norton) to mainland China in the 1920s to fight a cholera epidemic.…",
+      "directors": [
+        "John Curran"
+      ]
+    },
+    {
+      "id": "oppenheimer_2023",
+      "category": "history",
+      "type": "movie",
+      "title": "Oppenheimer",
+      "original_title": "Oppenheimer",
+      "year": 2023,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "votes": 15588,
+      "tomatometer": 93,
+      "audience_score": 91,
+      "runtime_minutes": 180,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/P3bfYuZfGN5xPOSfmVChVH4en-w=/300x450/v2/https://resizing.flixster.com/dV1vfa4w_dB4wzk7A_VzThWUWw8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEyZDMyYjZmLThmNzAtNDliNC1hMjFmLTA2ZWY4M2UyMjJhMi5qcGc=",
+      "plot": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and…",
+      "directors": [
+        "Christopher Nolan"
       ]
     },
     {
@@ -949,6 +1270,30 @@
       ]
     },
     {
+      "id": "benhur",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Ben-Hur",
+      "original_title": "Ben-Hur",
+      "year": 1959,
+      "genres": [
+        "History",
+        "Drama",
+        "Adventure"
+      ],
+      "rating": 8.4,
+      "votes": 12539,
+      "tomatometer": 87,
+      "audience_score": 90,
+      "runtime_minutes": 203,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/HZOyZXa1vaTC2zkuyg_DxxAhGJY=/300x450/v2/https://resizing.flixster.com/xRCSnw6z4mAMlIIP2pU1D19a6Uw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QxOWUxZmRlLTdkODMtNDIyYS05M2Q0LWZhNTY1MjUwMTU5Zi5qcGc=",
+      "plot": "An enslaved Judean prince (Charlton Heston) meets his Roman betrayer (Stephen Boyd), a former friend, in a chariot race.",
+      "directors": [
+        "William Wyler"
+      ]
+    },
+    {
       "id": "harriet",
       "category": "history",
       "type": "movie",
@@ -973,6 +1318,30 @@
       ]
     },
     {
+      "id": "hitchcock",
+      "category": "history",
+      "type": "movie",
+      "title": "Hitchcock",
+      "original_title": "Hitchcock",
+      "year": 2012,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.1,
+      "votes": 12075,
+      "tomatometer": 59,
+      "audience_score": 60,
+      "runtime_minutes": 98,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Bt35_VoFhDoylpbKz25xmQKOghI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9488191_p_v12_ap.jpg",
+      "plot": "Following his great success with \"North by Northwest,\" director Alfred Hitchcock makes a daring choice for his next project: an adaptation of Robert Bloch's novel \"Psycho.\" When the studio refuses to…",
+      "directors": [
+        "Sacha Gervasi"
+      ]
+    },
+    {
       "id": "midway_2019",
       "category": "war",
       "type": "movie",
@@ -994,6 +1363,29 @@
       "plot": "On Dec. 7, 1941, Japanese forces launch a devastating attack on Pearl Harbor, the U.S. naval base in Hawaii. Six months later, the Battle of Midway commences on June 4, 1942, as the Japanese navy…",
       "directors": [
         "Roland Emmerich"
+      ]
+    },
+    {
+      "id": "1037756-jfk",
+      "category": "history",
+      "type": "movie",
+      "title": "JFK",
+      "original_title": "JFK",
+      "year": 1991,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 11690,
+      "tomatometer": 85,
+      "audience_score": 88,
+      "runtime_minutes": 189,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/2-SUatJEkiz-KZmAEPHtuKDnw-A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13623_p_v12_ag.jpg",
+      "plot": "This acclaimed Oliver Stone drama presents the investigation into the assassination of President John F. Kennedy led by New Orleans district attorney Jim Garrison (Kevin Costner). When Garrison…",
+      "directors": [
+        "Oliver Stone"
       ]
     },
     {
@@ -1071,6 +1463,32 @@
       ]
     },
     {
+      "id": "10009493-duchess",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "The Duchess",
+      "original_title": "The Duchess",
+      "year": 2008,
+      "genres": [
+        "History",
+        "Drama",
+        "Romance",
+        "Mystery & Thriller",
+        "Biography"
+      ],
+      "rating": 6.4,
+      "votes": 11251,
+      "tomatometer": 62,
+      "audience_score": 67,
+      "runtime_minutes": 109,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/tUCNikIlS5LdV7q9dmVpOJcCBCc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p178496_p_v12_ab.jpg",
+      "plot": "Though adored by the people, the Duchess of Devonshire (Keira Knightley) is not content to sit as a pretty figurehead. Determined to be a major player in affairs of state, she rises to the forefront…",
+      "directors": [
+        "Saul Dibb"
+      ]
+    },
+    {
       "id": "10007415-amazing_grace",
       "category": "history",
       "type": "movie",
@@ -1091,6 +1509,31 @@
       "plot": "In 18th-century England, House of Commons member William Wilberforce (Ioan Gruffudd) and his close friend and a future prime minister, William Pitt (Benedict Cumberbatch), begin a lengthy battle to…",
       "directors": [
         "Michael Apted"
+      ]
+    },
+    {
+      "id": "13_assassins_2011",
+      "category": "action",
+      "type": "movie",
+      "title": "13 Assassins",
+      "original_title": "13 Assassins",
+      "year": 2011,
+      "genres": [
+        "Action",
+        "Adventure",
+        "History",
+        "Drama"
+      ],
+      "rating": 7.9,
+      "votes": 8432,
+      "tomatometer": 95,
+      "audience_score": 88,
+      "runtime_minutes": 126,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/K5ruQRDNuAgD7H7d7Vh5eJTTnnM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8458319_p_v12_ar.jpg",
+      "plot": "In this remake of a 1963 film based on historical events, Shinzaemon Shimada leads a team of assassins in 19th-century Japan to eliminate the ruthless Lord Naritsugu Matsudaira, who is wreaking havoc…",
+      "directors": [
+        "Takashi Miike"
       ]
     },
     {
@@ -1142,6 +1585,55 @@
       ]
     },
     {
+      "id": "centurion",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Centurion",
+      "original_title": "Centurion",
+      "year": 2010,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery & Thriller",
+        "History",
+        "Drama"
+      ],
+      "rating": 5.5,
+      "votes": 7176,
+      "tomatometer": 59,
+      "audience_score": 43,
+      "runtime_minutes": 97,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/tJCvuIhaR0cBpMiG81U8BDYbvx8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8070286_p_v10_ad.jpg",
+      "plot": "In ancient Scotland, the Ninth Legion liberates a Roman officer named Quintus Dias (Michael Fassbender) from his Pict captors. The soldiers are in pursuit of the Pict leader, and Quintus joins their…",
+      "directors": [
+        "Neil Marshall"
+      ]
+    },
+    {
+      "id": "silence_2017",
+      "category": "history",
+      "type": "movie",
+      "title": "Silence",
+      "original_title": "Silence",
+      "year": 2017,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 6835,
+      "tomatometer": 83,
+      "audience_score": 70,
+      "runtime_minutes": 161,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/BMRhQN9uVr8KVJ0N7Jt8ttG2A_s=/300x450/v2/https://resizing.flixster.com/_t6zn_6Pm6FdIfvqsCG1T8Fu1Uc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FmN2FiMTMxLWIxYTgtNDBlMy1hNjMxLWY0NzAwMzBhNThhYi53ZWJw",
+      "plot": "Two 17th-century Portuguese missionaries, Father Sebastian Rodrigues (Andrew Garfield) and Father Francisco Garupe (Adam Driver), embark on a perilous journey to Japan to find their missing mentor…",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
       "id": "1021015-ten_commandments",
       "category": "history",
       "type": "movie",
@@ -1162,6 +1654,29 @@
       "plot": "Enjoying a life of ease in the court of Egypt's pharaoh, Moses (Charlton Heston) discovers his Hebrew heritage and, later, God's expectations of him. He dedicates himself to liberating his people…",
       "directors": [
         "Cecil B. DeMille"
+      ]
+    },
+    {
+      "id": "amistad",
+      "category": "history",
+      "type": "movie",
+      "title": "Amistad",
+      "original_title": "Amistad",
+      "year": 1997,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 7.0,
+      "votes": 6523,
+      "tomatometer": 78,
+      "audience_score": 79,
+      "runtime_minutes": 152,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/_cjE_tX7_zRVSSkV2gyjSNMdk58=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20339_p_v13_ai.jpg",
+      "plot": "In 1839, the slave ship Amistad set sail from Cuba to America. During the long trip, Cinque (Djimon Hounsou) leads the slaves in an unprecedented uprising. They are then held prisoner in Connecticut,…",
+      "directors": [
+        "Steven Spielberg"
       ]
     },
     {
@@ -1186,6 +1701,32 @@
       "directors": [
         "Jon Erwin",
         "Brent McCorkle"
+      ]
+    },
+    {
+      "id": "red_cliff",
+      "category": "war",
+      "type": "movie",
+      "title": "Red Cliff",
+      "original_title": "Red Cliff",
+      "year": 2009,
+      "genres": [
+        "History",
+        "Drama",
+        "Action",
+        "Adventure",
+        "War"
+      ],
+      "rating": 7.2,
+      "votes": 6343,
+      "tomatometer": 89,
+      "audience_score": 78,
+      "runtime_minutes": 148,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/DsK5_0PB-u0Ip3CbxsAnUBikICM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3576770_p_v10_ag.jpg",
+      "plot": "In ancient China, the emperor of the Han Dynasty allows General Cao Cao (Fengyi Zhang) to declare war against the rebellious southern provinces, with the intention of unifying the entire country.…",
+      "directors": [
+        "John Woo"
       ]
     },
     {
@@ -1309,6 +1850,53 @@
       ]
     },
     {
+      "id": "anonymous_2011",
+      "category": "history",
+      "type": "movie",
+      "title": "Anonymous",
+      "original_title": "Anonymous",
+      "year": 2011,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 5.6,
+      "votes": 5619,
+      "tomatometer": 47,
+      "audience_score": 53,
+      "runtime_minutes": 130,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/AAoa6L3WHS5ef4R9ajXnQC4xJA4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8270077_p_v10_ac.jpg",
+      "plot": "As royal troops set fire to the Globe Theatre, Elizabethan-era playwright Ben Jonson (Sebastian Armesto) is tortured by Robert Cecil (Edward Hogg), who demands to know if Edward de Vere, the Earl of…",
+      "directors": [
+        "Roland Emmerich"
+      ]
+    },
+    {
+      "id": "the_conspirator",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "The Conspirator",
+      "original_title": "The Conspirator",
+      "year": 2011,
+      "genres": [
+        "History",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.1,
+      "votes": 5158,
+      "tomatometer": 56,
+      "audience_score": 62,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/DhJfCvZDT6SppgAV52LvuBZMKHk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8379976_p_v8_aa.jpg",
+      "plot": "Following the assassination of President Lincoln, seven men and one woman are arrested and charged with conspiring to kill Lincoln, the vice president and the Secretary of State. Lawyer Frederick…",
+      "directors": [
+        "Robert Redford"
+      ]
+    },
+    {
       "id": "risen_2016",
       "category": "history",
       "type": "movie",
@@ -1329,6 +1917,29 @@
       "plot": "Roman military tribune Clavius (Joseph Fiennes) remains set in his ways after serving 25 years in the army. He arrives at a crossroad when he's tasked to investigate the mystery of what happened to…",
       "directors": [
         "Kevin Reynolds"
+      ]
+    },
+    {
+      "id": "anna_and_the_king",
+      "category": "history",
+      "type": "movie",
+      "title": "Anna and the King",
+      "original_title": "Anna and the King",
+      "year": 1999,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 4707,
+      "tomatometer": 52,
+      "audience_score": 64,
+      "runtime_minutes": 147,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/HQ3XcXFyENGnx1VzMTrzLUGsJz4=/300x450/v2/https://resizing.flixster.com/RrtAkxCsLacvOOvhuqdipX9FSOA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RiMTM5NDViLTRmZWQtNDc1OC1iOWViLTg1YjQwZDJlNjVmNi5qcGc=",
+      "plot": "Anna has been employed to educate the king's 58 children. She knows very little of King Mongkut, apart from the fact that his people revere him as a god. She brings with her an East vs. West…",
+      "directors": [
+        "Andy Tennant"
       ]
     },
     {
@@ -1601,6 +2212,31 @@
       ]
     },
     {
+      "id": "baader_meinhof_complex",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Baader Meinhof Complex",
+      "original_title": "The Baader Meinhof Complex",
+      "year": 2008,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "rating": 7.0,
+      "votes": 2993,
+      "tomatometer": 85,
+      "audience_score": 80,
+      "runtime_minutes": 150,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/P3smVnfvKxvjEqk-2XuU2qB-63o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p189479_p_v10_ad.jpg",
+      "plot": "When German police viciously quell a protest against the shah of Iran, popular journalist Ulrike Meinhof (Martina Gedeck) rebels against her dishonest marriage, walks away from her children and joins…",
+      "directors": [
+        "Uli Edel"
+      ]
+    },
+    {
       "id": "the_zookeepers_wife_2017",
       "category": "history",
       "type": "movie",
@@ -1721,6 +2357,29 @@
       ]
     },
     {
+      "id": "1004330-cleopatra",
+      "category": "history",
+      "type": "movie",
+      "title": "Cleopatra",
+      "original_title": "Cleopatra",
+      "year": 1963,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 2407,
+      "tomatometer": 61,
+      "audience_score": 67,
+      "runtime_minutes": 243,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/39M-MvBGBwPXT8_cn6HwXVVIpTI=/300x450/v2/https://resizing.flixster.com/gZBJW7wi9lIIiTzd3myMcLWDB3A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4YWZkOTQyLTAxNzYtNGMxMC1hNGM5LTliOTUzNWMyYmM0Mi5qcGc=",
+      "plot": "\"Cleopatra\" is a lengthy, sprawling, spectacular love story, helmed by Joseph L. Mankiewicz, depicting Cleopatra's manipulation of Julius Caesar and Marc Antony in her ill-fated attempt to save the…",
+      "directors": [
+        "Joseph L. Mankiewicz"
+      ]
+    },
+    {
       "id": "1012386-lion_in_winter",
       "category": "history",
       "type": "movie",
@@ -1741,6 +2400,30 @@
       "plot": "It's Christmas 1183, and King Henry II (Peter O'Toole) is planning to announce his successor to the throne. The jockeying for the crown, though, is complex. Henry has three sons and wants his boy…",
       "directors": [
         "Anthony Harvey"
+      ]
+    },
+    {
+      "id": "the_man_who_knew_infinity",
+      "category": "history",
+      "type": "movie",
+      "title": "The Man Who Knew Infinity",
+      "original_title": "The Man Who Knew Infinity",
+      "year": 2016,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.1,
+      "votes": 2376,
+      "tomatometer": 62,
+      "audience_score": 71,
+      "runtime_minutes": 114,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/rlzx1wXGvVjcDL4GeeqEbNQRvYg=/300x450/v2/https://resizing.flixster.com/5EEkcEj_Rc10T2g2myrOJ_YnWUA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlM2ZjYzRhLWQ2N2YtNGFjZC05MDgyLWE1ZmRkZjYxODg3ZC53ZWJw",
+      "plot": "In 1913, brilliant East Indian mathematician Srinivasa Ramanujan (Dev Patel) travels to Trinity College in England to work with professor G.H. Hardy (Jeremy Irons).",
+      "directors": [
+        "Matthew Brown"
       ]
     },
     {
@@ -1836,6 +2519,29 @@
       "plot": "Abdul Karim arrives from India to participate in Queen Victoria's golden jubilee. The young clerk is surprised to find favor with the queen herself. As Victoria questions the constrictions of her…",
       "directors": [
         "Stephen Frears"
+      ]
+    },
+    {
+      "id": "emperor_2012",
+      "category": "history",
+      "type": "movie",
+      "title": "Emperor",
+      "original_title": "Emperor",
+      "year": 2013,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 5.2,
+      "votes": 2120,
+      "tomatometer": 31,
+      "audience_score": 46,
+      "runtime_minutes": 106,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/8cYRNTN4CeHzFmNBtbM_icdHacw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9693547_p_v10_an.jpg",
+      "plot": "Following the Japanese surrender at the end of World War II, Gen. Bonner Fellers must determine whether Emperor Hirohito should be hanged as a war criminal.",
+      "directors": [
+        "Peter Webber"
       ]
     },
     {
@@ -1936,6 +2642,31 @@
       ]
     },
     {
+      "id": "reds",
+      "category": "romance",
+      "type": "movie",
+      "title": "Reds",
+      "original_title": "Reds",
+      "year": 1981,
+      "genres": [
+        "History",
+        "Drama",
+        "Romance",
+        "Biography"
+      ],
+      "rating": 8.1,
+      "votes": 2045,
+      "tomatometer": 90,
+      "audience_score": 82,
+      "runtime_minutes": 195,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/_pFH0EsGptwuiUdelC_BYVDszq8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5293_p_v10_ab.jpg",
+      "plot": "American journalist John Reed (Warren Beatty) journeys to Russia to document the Bolshevik Revolution and returns a revolutionary. His fervor for left-wing politics leads him to Louise Bryant (Diane…",
+      "directors": [
+        "Warren Beatty"
+      ]
+    },
+    {
       "id": "pressure_2026",
       "category": "war",
       "type": "movie",
@@ -1957,6 +2688,78 @@
       "plot": "In the tense 72 hours before D-Day, and with the fate of the free world hanging in the balance, PRESSURE follows General Dwight D. Eisenhower and Captain James Stagg as they face an impossible…",
       "directors": [
         "Anthony Maras"
+      ]
+    },
+    {
+      "id": "mudbound",
+      "category": "history",
+      "type": "movie",
+      "title": "Mudbound",
+      "original_title": "Mudbound",
+      "year": 2017,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 2026,
+      "tomatometer": 97,
+      "audience_score": 85,
+      "runtime_minutes": 134,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/HwKi_CyKnCs7bohHZSlwFXanGYo=/300x450/v2/https://resizing.flixster.com/vdH3l2bg3QNYzOnoLt23ltZlevU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZhMGU3MDk1LWIyN2YtNDI1Yy1iNTlkLTNkMjNlN2I4YzI5OS53ZWJw",
+      "plot": "Set in the rural American South during World War II, Dee Rees' Mudbound is an epic story of two families pitted against one another by a ruthless social hierarchy, yet bound together by the shared…",
+      "directors": [
+        "Dee Rees"
+      ]
+    },
+    {
+      "id": "eight_men_out",
+      "category": "history",
+      "type": "movie",
+      "title": "Eight Men Out",
+      "original_title": "Eight Men Out",
+      "year": 1988,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 1981,
+      "tomatometer": 87,
+      "audience_score": 80,
+      "runtime_minutes": 119,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-P-UB4_TG2ku_yraMQaQLECQD_k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11015_p_v13_ae.jpg",
+      "plot": "The Chicago White Sox, who are set to play the Cincinnati Reds in the World Series of 1919, are at odds with their team's owner, Charles Comiskey, who pays his players unsatisfactory wages despite…",
+      "directors": [
+        "John Sayles"
+      ]
+    },
+    {
+      "id": "1118347-quiet_american",
+      "category": "war",
+      "type": "movie",
+      "title": "The Quiet American",
+      "original_title": "The Quiet American",
+      "year": 2002,
+      "genres": [
+        "Romance",
+        "War",
+        "History",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.0,
+      "votes": 1969,
+      "tomatometer": 87,
+      "audience_score": 72,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/pm1irNXw1s0j-Yx1niphihtU7q8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30736_p_v10_ab.jpg",
+      "plot": "From the classic novel by Graham Greene comes a murder mystery centered on a love triangle set against the French Indochina War in Vietnam, circa 1952. It's the story of a veteran English journalist…",
+      "directors": [
+        "Phillip Noyce"
       ]
     },
     {
@@ -2012,6 +2815,29 @@
       ]
     },
     {
+      "id": "nuremberg_2025",
+      "category": "history",
+      "type": "movie",
+      "title": "Nuremberg",
+      "original_title": "Nuremberg",
+      "year": 2025,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 6.7,
+      "votes": 1818,
+      "tomatometer": 72,
+      "audience_score": 95,
+      "runtime_minutes": 148,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/-y3fr8URyIxNn2UMJej5aoZp0uA=/300x450/v2/https://resizing.flixster.com/lkT8ldOE2YlMTwfkGMGV4mhFDrI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FhYzFhOGFhLWNmM2UtNGU3NS05Yjk2LWMzMmEyZTA5YTg4Ny5qcGc=",
+      "plot": "As the Nuremberg trials are set to begin, a U.S. Army psychiatrist gets locked in a dramatic psychological showdown with accused Nazi war criminal Hermann Göring.",
+      "directors": [
+        "James Vanderbilt"
+      ]
+    },
+    {
       "id": "the_leopard_1963",
       "category": "history",
       "type": "movie",
@@ -2032,6 +2858,30 @@
       "plot": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life. Proud but pragmatic…",
       "directors": [
         "Luchino Visconti"
+      ]
+    },
+    {
+      "id": "beyond_the_gates",
+      "category": "war",
+      "type": "movie",
+      "title": "Shooting Dogs",
+      "original_title": "Shooting Dogs",
+      "year": 2007,
+      "genres": [
+        "History",
+        "Drama",
+        "War"
+      ],
+      "rating": 7.5,
+      "votes": 1709,
+      "tomatometer": 85,
+      "audience_score": 85,
+      "runtime_minutes": 115,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/4G7_YHsF050YlEt0Xdkpd5Duenc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159499_p_v8_ad.jpg",
+      "plot": "In 1994 Rwanda, simmering tensions between Hutus and Tutsis boil over into full-scale genocide. Two men, a priest named Father Christopher (John Hurt) and British schoolteacher Joe Connor (Hugh…",
+      "directors": [
+        "Michael Caton-Jones"
       ]
     },
     {
@@ -2080,6 +2930,53 @@
       "plot": "Young Thurgood Marshall faces one of his greatest challenges while working as a lawyer for the NAACP. Marshall travels to conservative Connecticut when wealthy socialite Eleanor Strubing accuses…",
       "directors": [
         "Reginald Hudlin"
+      ]
+    },
+    {
+      "id": "in_darkness_2011",
+      "category": "history",
+      "type": "movie",
+      "title": "In Darkness",
+      "original_title": "In Darkness",
+      "year": 2012,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 1601,
+      "tomatometer": 88,
+      "audience_score": 80,
+      "runtime_minutes": 145,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/UXv2PQ0CzNOYudDa1p4aEO7RRE4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8936920_p_v8_ab.jpg",
+      "plot": "Leopold Socha (Robert Wieckiewicz) is a sewer worker in Nazi-occupied Lvov, Poland. When he finds a group of Jews hiding in the sewers, Leopold agrees to protect them from the Nazis in exchange for…",
+      "directors": [
+        "Agnieszka Holland"
+      ]
+    },
+    {
+      "id": "we_2011",
+      "category": "romance",
+      "type": "movie",
+      "title": "W.E.",
+      "original_title": "W.E.",
+      "year": 2011,
+      "genres": [
+        "Drama",
+        "History",
+        "Romance"
+      ],
+      "rating": 4.2,
+      "votes": 1570,
+      "tomatometer": 12,
+      "audience_score": 48,
+      "runtime_minutes": 119,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/14tLfV45hWPAJRkQVqgyAAmMcOA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8744333_p_v8_ah.jpg",
+      "plot": "Dissatisfied with the way her own life is playing out, New York-based Wally Winthrop (Abbie Cornish) becomes obsessed with the romance between American divorcee Wallis Simpson (Andrea Riseborough)…",
+      "directors": [
+        "Madonna"
       ]
     },
     {
@@ -2250,6 +3147,29 @@
       ]
     },
     {
+      "id": "madness_of_king_george",
+      "category": "history",
+      "type": "movie",
+      "title": "The Madness of King George",
+      "original_title": "The Madness of King George",
+      "year": 1994,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 7.7,
+      "votes": 1278,
+      "tomatometer": 91,
+      "audience_score": 81,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/AnTXJlLLwc_QC2_HhlIR30iDgec=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16297_p_v8_ak.jpg",
+      "plot": "Aging King George III (Nigel Hawthorne) of England is exhibiting signs of madness, a problem little understood in 1788. As the monarch alternates between bouts of confusion and near-violent outbursts…",
+      "directors": [
+        "Nicholas Hytner"
+      ]
+    },
+    {
       "id": "mrs_brown",
       "category": "history",
       "type": "movie",
@@ -2294,6 +3214,29 @@
       "plot": "Thomas Edison and George Westinghouse -- the greatest inventors of the industrial age -- engage in a battle of technology and ideas that will determine whose electrical system will power the new…",
       "directors": [
         "Alfonso Gomez-Rejon"
+      ]
+    },
+    {
+      "id": "1057370-beloved",
+      "category": "history",
+      "type": "movie",
+      "title": "Beloved",
+      "original_title": "Beloved",
+      "year": 1998,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "votes": 1192,
+      "tomatometer": 72,
+      "audience_score": 71,
+      "runtime_minutes": 172,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/TDiDJXRTmhr4WSvwYLFa2EDzVzI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21990_p_v10_aa.jpg",
+      "plot": "In 1873 Ohio, Sethe is a mother of three haunted by her horrific slavery past and her desperate actions for freedom. As a result, Sethe's home is haunted by a furious poltergeist, which drives away…",
+      "directors": [
+        "Jonathan Demme"
       ]
     },
     {
@@ -2392,6 +3335,29 @@
       ]
     },
     {
+      "id": "the_last_duel_2021",
+      "category": "history",
+      "type": "movie",
+      "title": "The Last Duel",
+      "original_title": "The Last Duel",
+      "year": 2021,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 7.4,
+      "votes": 1085,
+      "tomatometer": 85,
+      "audience_score": 81,
+      "runtime_minutes": 153,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/FFzv3vF44IaSg8wxNhQf5uf2T6U=/300x450/v2/https://resizing.flixster.com/IwJ732Q-tkVl4LVIzgNzjUj9G3k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNhMmMwNmNhLWJiYjUtNDIxMS04OTNkLWRhZWY3NTk4YTM0YS5qcGc=",
+      "plot": "The Last Duel is a cinematic and thought-provoking drama set in the midst of the Hundred Years War that explores the ubiquitous power of men, the frailty of justice and the strength and courage of…",
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
       "id": "goodbye_christopher_robin",
       "category": "history",
       "type": "movie",
@@ -2413,6 +3379,29 @@
       "plot": "After leaving London for the English countryside, writer A.A. Milne starts to spin fanciful yarns about his son's growing collection of stuffed animals. These stories form the basis for…",
       "directors": [
         "Simon Curtis"
+      ]
+    },
+    {
+      "id": "ride_with_the_devil_1999",
+      "category": "history",
+      "type": "movie",
+      "title": "Ride With the Devil",
+      "original_title": "Ride With the Devil",
+      "year": 1999,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 6.5,
+      "votes": 1038,
+      "tomatometer": 65,
+      "audience_score": 66,
+      "runtime_minutes": 138,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Fi_8qJx--AxslX7TiOUvOJSaInA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23959_p_v8_aa.jpg",
+      "plot": "On the fringes of the Civil War, Missouri Bushwhackers engage in guerrilla warfare with Union Jayhawkers. Bushwhackers Jake Roedel (Tobey Maguire) and Jack Chiles (Skeet Ulrich), out to avenge the…",
+      "directors": [
+        "Ang Lee"
       ]
     },
     {
@@ -2485,6 +3474,31 @@
       "plot": "Sarah's Oil is inspired by the remarkable true story of Sarah Rector, an African American girl born in Oklahoma Indian Territory in the early 1900s, who believes there is oil beneath the barren land…",
       "directors": [
         "Cyrus Nowrasteh"
+      ]
+    },
+    {
+      "id": "the_man_who_invented_christmas",
+      "category": "history",
+      "type": "movie",
+      "title": "The Man Who Invented Christmas",
+      "original_title": "The Man Who Invented Christmas",
+      "year": 2017,
+      "genres": [
+        "Holiday",
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.4,
+      "votes": 959,
+      "tomatometer": 79,
+      "audience_score": 78,
+      "runtime_minutes": 104,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/udiCSdtEAFl_5aT6-bYsMvfmPe8=/300x450/v2/https://resizing.flixster.com/R_3N1qEdBCM7DFa-au_HWA3J85k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA1NzQ4YjMwLTE2M2UtNDE3Mi05ZDcwLTRmYWZjNTc1ZDI3ZS53ZWJw",
+      "plot": "In 1843 London, author Charles Dickens finds himself in financial trouble after writing three unsuccessful novels in a row. Desperate for a hit, Dickens relies on real-life inspiration and his vivid…",
+      "directors": [
+        "Bharat Nalluri"
       ]
     },
     {
@@ -2605,6 +3619,30 @@
       ]
     },
     {
+      "id": "churchill_2017",
+      "category": "history",
+      "type": "movie",
+      "title": "Churchill",
+      "original_title": "Churchill",
+      "year": 2017,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 5.2,
+      "votes": 750,
+      "tomatometer": 50,
+      "audience_score": 54,
+      "runtime_minutes": 105,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/4GqJb4Je6neDpO3QXHMMu5y6y7c=/300x450/v2/https://resizing.flixster.com/HFU0LOa861-cXFR-cp1wa6icoag=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliZTllOWY2LTlmNWQtNGQ2Zi05MTE5LTgwMjA0MzcxMmZhYi53ZWJw",
+      "plot": "Tensions mount for beleaguered British Prime Minister Winston Churchill as D-Day nears in June 1944. Fearful of repeating past mistakes, Churchill is reluctant to embark on the large-scale campaign…",
+      "directors": [
+        "Jonathan Teplitzky"
+      ]
+    },
+    {
       "id": "im_still_here_2024",
       "category": "history",
       "type": "movie",
@@ -2626,6 +3664,29 @@
       "plot": "As Brazil faces the tightening grip of a military dictatorship, Eunice Paiva, a mother of five, must reinvent herself and her family when authorities abduct her husband.",
       "directors": [
         "Walter Salles"
+      ]
+    },
+    {
+      "id": "lady_jane",
+      "category": "history",
+      "type": "movie",
+      "title": "Lady Jane",
+      "original_title": "Lady Jane",
+      "year": 1986,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 5.0,
+      "votes": 727,
+      "tomatometer": 56,
+      "audience_score": 76,
+      "runtime_minutes": 142,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/9SpJfRpwoCRXB0MP3PMTBvrPGsw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9009_p_v8_ab.jpg",
+      "plot": "King Henry VIII has died, and his only heir, a young Edward VI (Warren Saire), is dying too. Minister John Dudley (John Wood) doesn't want the Roman Catholic Princess Mary (Jane Lapotaire) to become…",
+      "directors": [
+        "Trevor Nunn"
       ]
     },
     {
@@ -2676,6 +3737,29 @@
       ]
     },
     {
+      "id": "my_family",
+      "category": "history",
+      "type": "movie",
+      "title": "My Family/Mi Familia",
+      "original_title": "My Family/Mi Familia",
+      "year": 1995,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "votes": 676,
+      "tomatometer": 79,
+      "audience_score": 87,
+      "runtime_minutes": 128,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/exYxxsD-HrlRwj8u341rohY-fso=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16455_p_v8_ac.jpg",
+      "plot": "A second-generation Mexican immigrant narrates his family history, beginning with the journey of his father, Jose (Jacob Vargas), across Mexico to Los Angeles where he meets Maria (Jennifer Lopez)…",
+      "directors": [
+        "Gregory Nava"
+      ]
+    },
+    {
       "id": "house_of_mirth",
       "category": "history",
       "type": "movie",
@@ -2696,6 +3780,30 @@
       "plot": "Lily (Gillian Anderson) is a ravishing socialite who quickly discovers the precariousness of her position when her beauty and charm start attracting unwelcome interest and jealousy. She seeks a…",
       "directors": [
         "Terence Davies"
+      ]
+    },
+    {
+      "id": "tulip_fever",
+      "category": "romance",
+      "type": "movie",
+      "title": "Tulip Fever",
+      "original_title": "Tulip Fever",
+      "year": 2017,
+      "genres": [
+        "Romance",
+        "History",
+        "Drama"
+      ],
+      "rating": 4.4,
+      "votes": 631,
+      "tomatometer": 10,
+      "audience_score": 42,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/xRK953LSjoNj-ILFM4aaw5IitME=/300x450/v2/https://resizing.flixster.com/i8ovzpBRECCEUosYA3zYR4ckNL0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NjYWZiY2IxLWRlNDAtNDQwYi1iZGUxLTA3NGRlOTIxOTAyYS53ZWJw",
+      "plot": "Set against the backdrop of the 17th-century Tulip Wars, a married noblewoman (Alicia Vikander) has an affair with an artist (Dane DeHaan) and switches identities with her maid to escape the wealthy…",
+      "directors": [
+        "Justin Chadwick"
       ]
     },
     {
@@ -2720,6 +3828,78 @@
       "plot": "The architect of 1963's momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he…",
       "directors": [
         "George C. Wolfe"
+      ]
+    },
+    {
+      "id": "matewan_a_luta_final",
+      "category": "history",
+      "type": "movie",
+      "title": "Matewan",
+      "original_title": "Matewan",
+      "year": 1987,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 607,
+      "tomatometer": 94,
+      "audience_score": 93,
+      "runtime_minutes": 132,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/UraXnYt9HhADRjyakWQscTE9N6o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10005_p_v8_aa.jpg",
+      "plot": "Filmed in the coal country of West Virginia, \"Matewan\" celebrates labor organizing in the context of a 1920s work stoppage. Union organizer, Joe Kenehan (Chris Cooper), a scab named \"Few Clothes\"…",
+      "directors": [
+        "John Sayles"
+      ]
+    },
+    {
+      "id": "pele_birth_of_a_legend_2016",
+      "category": "history",
+      "type": "movie",
+      "title": "Pelé",
+      "original_title": "Pelé",
+      "year": 2016,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 5.3,
+      "votes": 607,
+      "tomatometer": 33,
+      "audience_score": 69,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/hRIsnP8QVl4p_1DQ-5TpNDjPQoE=/300x450/v2/https://resizing.flixster.com/j7anr5m2WpStFJiTJzdBLz3JOzw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyMWY2NmMzLThlMWItNDA3ZC04NzhiLWU0OTBhN2UxZTExYS53ZWJw",
+      "plot": "Under guidance from manager Vicente Feola (Vincent D'Onofrio), young Pelé (Kevin de Paula) utilizes his street soccer skills to lead Brazil to the World Cup in 1958.",
+      "directors": [
+        "Jeff Zimbalist",
+        "Michael Zimbalist"
+      ]
+    },
+    {
+      "id": "geronimo_an_american_legend",
+      "category": "western",
+      "type": "movie",
+      "title": "Geronimo: An American Legend",
+      "original_title": "Geronimo: An American Legend",
+      "year": 1993,
+      "genres": [
+        "Drama",
+        "History",
+        "Western"
+      ],
+      "rating": 6.2,
+      "votes": 582,
+      "tomatometer": 52,
+      "audience_score": 52,
+      "runtime_minutes": 115,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/TZi2Ye4WXoofxTZpNhHRY6R6K8s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15228_p_v8_ac.jpg",
+      "plot": "Following the expansion of the United States into the Southwest, the Apache Indians are forced onto a reservation to live out their lives as lowly corn farmers. While many resign themselves to this…",
+      "directors": [
+        "Walter Hill"
       ]
     },
     {
@@ -2819,6 +3999,29 @@
       ]
     },
     {
+      "id": "the_promised_land_2023",
+      "category": "history",
+      "type": "movie",
+      "title": "The Promised Land",
+      "original_title": "The Promised Land",
+      "year": 2024,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "rating": 8.0,
+      "votes": 520,
+      "tomatometer": 97,
+      "audience_score": 95,
+      "runtime_minutes": 127,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/6SL00zwgHTWaWLknN9w05bnfqEI=/300x450/v2/https://resizing.flixster.com/JDgsO5O8hd0B6vNkS9LILWwoT0o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc3NzY1NmM4LWRkNGYtNDBkNy05NDI1LWFiMTZkMjAwNjZlMi5qcGc=",
+      "plot": "In 18th century Denmark, Captain Ludvig Kahlen (Mads Mikkelsen) -- a proud, ambitious, but impoverished war hero -- sets out to tame a vast, uninhabitable land on which seemingly nothing can grow. He…",
+      "directors": [
+        "Nikolaj Arcel"
+      ]
+    },
+    {
       "id": "anne_of_the_thousand_days",
       "category": "history",
       "type": "movie",
@@ -2862,6 +4065,30 @@
       "plot": "Anna is a bereft young German woman whose fiancé, Frantz, was killed in the trenches of World War I. Adrien, a French veteran of the war, makes a mysterious appearance in her town, placing flowers on…",
       "directors": [
         "François Ozon"
+      ]
+    },
+    {
+      "id": "judas_and_the_black_messiah",
+      "category": "history",
+      "type": "movie",
+      "title": "Judas and the Black Messiah",
+      "original_title": "Judas and the Black Messiah",
+      "year": 2021,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 8.3,
+      "votes": 513,
+      "tomatometer": 96,
+      "audience_score": 95,
+      "runtime_minutes": 126,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Q0H2VKVQ--79SAtW8IisZltrv14=/300x450/v2/https://resizing.flixster.com/fkrnnYL6c2XpoT2bYabLpeIkB0U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzllOWJlOTk0LTExMjktNDU0MC04MmNlLTg1ZTlkNjc0N2ViZC5qcGc=",
+      "plot": "FBI informant William O'Neal infiltrates the Illinois Black Panther Party and is tasked with keeping tabs on their charismatic leader, Chairman Fred Hampton. A career thief, O'Neal revels in the…",
+      "directors": [
+        "Shaka King"
       ]
     },
     {
@@ -2937,6 +4164,54 @@
       ]
     },
     {
+      "id": "the_aftermath_2019",
+      "category": "romance",
+      "type": "movie",
+      "title": "The Aftermath",
+      "original_title": "The Aftermath",
+      "year": 2019,
+      "genres": [
+        "History",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 5.0,
+      "votes": 448,
+      "tomatometer": 26,
+      "audience_score": 51,
+      "runtime_minutes": 109,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Jc6xxNUFnKqyVnH6-QZdZf5GGew=/300x450/v2/https://resizing.flixster.com/-HXIV4TbhAvg1fT02Uiay6Ui4yw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUyYTY1OGIwLTM5MTMtNDlhZi1iNWY4LWQ3ZTIwZGE5N2FkMS53ZWJw",
+      "plot": "In 1946 Rachael Morgan arrives in the ruins of Hamburg to be reunited with her husband, Lewis, who is a British colonel charged with rebuilding the shattered city. As they set off for their new home,…",
+      "directors": [
+        "James Kent"
+      ]
+    },
+    {
+      "id": "one_life",
+      "category": "history",
+      "type": "movie",
+      "title": "One Life",
+      "original_title": "One Life",
+      "year": 2024,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 7.3,
+      "votes": 427,
+      "tomatometer": 91,
+      "audience_score": 98,
+      "runtime_minutes": 109,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/hZEWQdEhqBGJYCf105KeJ3EgDCI=/300x450/v2/https://resizing.flixster.com/ZkJ-bw3JSue8oe88y-W0wE0nCOg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5ZWM4ODE5LTMwNTMtNDU1NC1iZTdmLWQ0MGNjZTRlNGUyYi5qcGc=",
+      "plot": "Based on the book If It's Not Impossible...: The Life of Sir Nicholas Winton by Barbara Winton, ONE LIFE tells the incredible, emotional true story of Nicholas 'Nicky' Winton (Johnny Flynn), a young…",
+      "directors": [
+        "James Hawes"
+      ]
+    },
+    {
       "id": "the_zone_of_interest",
       "category": "war",
       "type": "movie",
@@ -2981,6 +4256,31 @@
       "plot": "Assigned to oversee the development of the atomic bomb, Gen. Leslie Groves (Paul Newman) is a stern military man determined to have the project go according to plan. Groves selects J. Robert…",
       "directors": [
         "Roland Joffé"
+      ]
+    },
+    {
+      "id": "warriors_of_heaven_and_earth",
+      "category": "action",
+      "type": "movie",
+      "title": "Warriors of Heaven and Earth",
+      "original_title": "Warriors of Heaven and Earth",
+      "year": 2003,
+      "genres": [
+        "Action",
+        "Adventure",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 400,
+      "tomatometer": 68,
+      "audience_score": 56,
+      "runtime_minutes": 119,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/PZQfOPNmgKnlbxBPrSovjfdphH0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34762_v_v8_aj.jpg",
+      "plot": "In 8th-century China, a Japanese emissary (Kiichi Nakai) and the mutinous soldier (Wen Jiang) he was sent to execute join forces to protect a caravan.",
+      "directors": [
+        "Ping He"
       ]
     },
     {
@@ -3090,7 +4390,7 @@
         "Drama"
       ],
       "rating": 6.6,
-      "votes": 361,
+      "votes": 363,
       "tomatometer": 88,
       "audience_score": 84,
       "runtime_minutes": 97,
@@ -3099,6 +4399,54 @@
       "plot": "Odessa Cotter needs to get to work as a nanny in the home of the affluent Miriam Thompson, but she refuses to take the bus. Odessa is participating in the Montgomery bus boycott, protesting against…",
       "directors": [
         "Richard Pearce"
+      ]
+    },
+    {
+      "id": "the_letters_2015",
+      "category": "history",
+      "type": "movie",
+      "title": "The Letters",
+      "original_title": "The Letters",
+      "year": 2015,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 4.4,
+      "votes": 355,
+      "tomatometer": 29,
+      "audience_score": 66,
+      "runtime_minutes": 119,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/YEtS0OOQLRn2YQ4NsX6Frd7cEMk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10878116_p_v13_ad.jpg",
+      "plot": "On Sept. 10, 1946, Mother Teresa (Juliet Stevenson) receives a message from God that tells her to help the poor, the sick and the downtrodden. Her new purpose initially causes conflict with the Roman…",
+      "directors": [
+        "William Riead"
+      ]
+    },
+    {
+      "id": "cromwell",
+      "category": "history",
+      "type": "movie",
+      "title": "Cromwell",
+      "original_title": "Cromwell",
+      "year": 1970,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 5.3,
+      "votes": 337,
+      "tomatometer": 33,
+      "audience_score": 70,
+      "runtime_minutes": 145,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/g3i9AKYvkqgz_yHho6lwRvPr0Og=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3126_p_v13_aa.jpg",
+      "plot": "In the 1640s England, King Charles I is engaged in a power struggle with Parliament, and civil war seems imminent to House of Commons member Oliver Cromwell, who's preparing to depart for the…",
+      "directors": [
+        "Ken Hughes"
       ]
     },
     {
@@ -3151,6 +4499,54 @@
       ]
     },
     {
+      "id": "the_greatest_night_in_pop",
+      "category": "history",
+      "type": "movie",
+      "title": "The Greatest Night in Pop",
+      "original_title": "The Greatest Night in Pop",
+      "year": 2024,
+      "genres": [
+        "Documentary",
+        "Music",
+        "History"
+      ],
+      "rating": 7.7,
+      "votes": 302,
+      "tomatometer": 98,
+      "audience_score": 89,
+      "runtime_minutes": 96,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/XWs1OSJ5DE6_5wjVW4bZTH42NKk=/300x450/v2/https://resizing.flixster.com/w1Fwp0xHnKw9IYWtRlRoTSDyVIA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwNjI4YmU1LWUzNzEtNDA2YS05MGJmLWRkOTk4YTkzNWM3NS5qcGc=",
+      "plot": "On January 25, 1985, dozens of the biggest names in music convened at a studio in Los Angeles, checked their egos at the door and recorded a song to benefit African famine relief that would alter…",
+      "directors": [
+        "Bao Nguyen"
+      ]
+    },
+    {
+      "id": "princess-kaiulani",
+      "category": "history",
+      "type": "movie",
+      "title": "Princess Kaiulani",
+      "original_title": "Princess Kaiulani",
+      "year": 2010,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 4.6,
+      "votes": 302,
+      "tomatometer": 21,
+      "audience_score": 46,
+      "runtime_minutes": 130,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/UE7LlYBqSoS2HETYl9JNgAGkjq0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8039916_p_v10_aa.jpg",
+      "plot": "A Hawaiian princess (Q'orianka Kilcher) attempts to maintain the independence of the islands against the threat of American colonization.",
+      "directors": [
+        "Marc Forby"
+      ]
+    },
+    {
       "id": "1014986-nicholas_and_alexandra",
       "category": "history",
       "type": "movie",
@@ -3171,6 +4567,31 @@
       "plot": "When Tsar Nicholas weds the German princess Alexandra, the marriage proves unpopular with the Russian people, a situation not improved when she has four daughters. When she finally bears a son, the…",
       "directors": [
         "Franklin J. Schaffner"
+      ]
+    },
+    {
+      "id": "desert_warrior_2025",
+      "category": "action",
+      "type": "movie",
+      "title": "Desert Warrior",
+      "original_title": "Desert Warrior",
+      "year": 2025,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "rating": 4.7,
+      "votes": 278,
+      "tomatometer": 26,
+      "audience_score": 60,
+      "runtime_minutes": 126,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/C7bKaIC2hFMbpgFgH9Xw1ir4Vto=/300x450/v2/https://resizing.flixster.com/X0HtFo1AekXz9AvwjSjqNcLOdlM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJhYWFjMzc2LTNmNDUtNDIzOC05MzMyLTAwNjViMDAyNzJmNi5qcGc=",
+      "plot": "Defying a ruthless emperor, a princess flees into the Arabian desert, hunted by mercenaries. Forged into a warrior and aided by a legendary bandit, she unites warring tribes for a last stand that…",
+      "directors": [
+        "Rupert Wyatt"
       ]
     },
     {
@@ -3340,6 +4761,30 @@
       ]
     },
     {
+      "id": "a_tale_of_love_and_darkness",
+      "category": "history",
+      "type": "movie",
+      "title": "A Tale of Love and Darkness",
+      "original_title": "A Tale of Love and Darkness",
+      "year": 2016,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.1,
+      "votes": 198,
+      "tomatometer": 72,
+      "audience_score": 49,
+      "runtime_minutes": 98,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/bNUANnPKJzDcO9pU-3OJlCH9GKI=/300x450/v2/https://resizing.flixster.com/GCC6bft3RSL3Z57Xqk46fleevLA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwNzA1NzhjLWNmYzUtNDlmMy05ZGVmLWQ4OTc2Mzg3NGNjNC53ZWJw",
+      "plot": "Influenced by his mother's stories and poetry readings, young Amos Oz grows up in the 1940s Jerusalem and becomes a famous writer.",
+      "directors": [
+        "Natalie Portman"
+      ]
+    },
+    {
       "id": "rebel_in_the_rye",
       "category": "history",
       "type": "movie",
@@ -3361,1167 +4806,6 @@
       "plot": "Author J.D. Salinger leads a reclusive lifestyle after the success of his popular and controversial novel The Catcher in the Rye.",
       "directors": [
         "Danny Strong"
-      ]
-    },
-    {
-      "id": "dead_to_rights_2025",
-      "category": "war",
-      "type": "movie",
-      "title": "Dead to Rights",
-      "original_title": "Dead to Rights",
-      "year": 2025,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 7.6,
-      "votes": 174,
-      "tomatometer": 100,
-      "audience_score": 97,
-      "runtime_minutes": 137,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/qICFZWrPSzvCwWpT0B4RlZPayw8=/300x450/v2/https://resizing.flixster.com/aa0aoHeXh5fNwY2MTd0S5hTgI90=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc2NTM3YjIyLTE1MDMtNDRjYS04OWQyLTllMGZmMGE5NTIxMy5qcGc=",
-      "plot": "In 1937, a postman turns a photo studio into a refugee center for Chinese soldiers and citizens amidst the Nanjing Massacre.",
-      "directors": [
-        "Ao Shen"
-      ]
-    },
-    {
-      "id": "the_long_game",
-      "category": "history",
-      "type": "movie",
-      "title": "The Long Game",
-      "original_title": "The Long Game",
-      "year": 2024,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 6.5,
-      "votes": 174,
-      "tomatometer": 82,
-      "audience_score": 97,
-      "runtime_minutes": 112,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/dlIwWY8KgDqJkhu2ocltxzWEh_Q=/300x450/v2/https://resizing.flixster.com/2FdYFy3jKYfqtBkytJCVc_JdrYU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyYzdkMTRkLTg5NTUtNDU5NS05YTE4LTY0OTkzMzc1YTg1OC5qcGc=",
-      "plot": "In 1956, JB Peña and his wife moved to the small town of Del Rio, TX, partly for a job as a school superintendent, but mostly to fulfill JB's dream of joining the prestigious, all-white Del Rio…",
-      "directors": [
-        "Julio Quintana"
-      ]
-    },
-    {
-      "id": "field_of_lost_shoes",
-      "category": "war",
-      "type": "movie",
-      "title": "Field of Lost Shoes",
-      "original_title": "Field of Lost Shoes",
-      "year": 2014,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": null,
-      "votes": 169,
-      "tomatometer": null,
-      "audience_score": 51,
-      "runtime_minutes": 96,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/foPuae9gs0JPN993koNR8Xzi8Z8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11031105_p_v8_aa.jpg",
-      "plot": "In 1864, a group of sheltered, teenage Confederate cadets are ordered into battle to prevent Union forces from taking the Shenandoah Valley.",
-      "directors": [
-        "Sean McNamara"
-      ]
-    },
-    {
-      "id": "molly_maguires",
-      "category": "history",
-      "type": "movie",
-      "title": "The Molly Maguires",
-      "original_title": "The Molly Maguires",
-      "year": 1970,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 5.9,
-      "votes": 151,
-      "tomatometer": 90,
-      "audience_score": 62,
-      "runtime_minutes": 124,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/cBYL8GNIAWyNJXoWMKXkZpoP6q0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2688_p_v13_ac.jpg",
-      "plot": "A Pennsylvania company plants a spy (Richard Harris) among an Irish coal miner's (Sean Connery) secret society of saboteurs.",
-      "directors": [
-        "Martin Ritt"
-      ]
-    },
-    {
-      "id": "air_strike_2018",
-      "category": "war",
-      "type": "movie",
-      "title": "Air Strike",
-      "original_title": "Air Strike",
-      "year": 2018,
-      "genres": [
-        "War",
-        "History",
-        "Drama"
-      ],
-      "rating": 4.3,
-      "votes": 150,
-      "tomatometer": 0,
-      "audience_score": 12,
-      "runtime_minutes": 97,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/-uHsnWCkt2MveF1QZ7TEc0bpSdc=/300x450/v2/https://resizing.flixster.com/B-Mulbphd_3TAqgoLjHP3TrPRyY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3ZmU4MTliLTg5OWQtNDZlZS04YTE0LWY4NDc0NTI3MWRiYi53ZWJw",
-      "plot": "During World War II, five Chinese people fight their way through Japanese air attacks to protect a military machine.",
-      "directors": [
-        "Xiao Feng"
-      ]
-    },
-    {
-      "id": "king_david",
-      "category": "history",
-      "type": "movie",
-      "title": "King David",
-      "original_title": "King David",
-      "year": 1985,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 4.0,
-      "votes": 148,
-      "tomatometer": 8,
-      "audience_score": 43,
-      "runtime_minutes": 114,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/7jpl-iPRekG9s0c5forw6z-B3HY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8657_p_v12_ad.jpg",
-      "plot": "The prophet Samuel condemns Saul (Edward Woodward) and secretly anoints David (Richard Gere) king of Israel, according to the Old Testament.",
-      "directors": [
-        "Bruce Beresford"
-      ]
-    },
-    {
-      "id": "six_minutes_to_midnight",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Six Minutes to Midnight",
-      "original_title": "Six Minutes to Midnight",
-      "year": 2021,
-      "genres": [
-        "History",
-        "Drama",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.6,
-      "votes": 145,
-      "tomatometer": 36,
-      "audience_score": 46,
-      "runtime_minutes": 102,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/zZWTxjdGKycS33jDYiULwOoMxZ4=/300x450/v2/https://resizing.flixster.com/WfOwmbbuSAYLalTQu0wjny_ulR8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2NDBlYzYzLTg0ZDctNDI3Ni1hNDU1LTQ4ZGUzNWFjYzQyNC5qcGc=",
-      "plot": "In the summer of 1939, influential families in Nazi Germany have sent their daughters to a finishing school in an English seaside town to learn the language and be ambassadors for a future looking…",
-      "directors": [
-        "Andy Goddard"
-      ]
-    },
-    {
-      "id": "copperhead_2013",
-      "category": "history",
-      "type": "movie",
-      "title": "Copperhead",
-      "original_title": "Copperhead",
-      "year": 2013,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 4.7,
-      "votes": 139,
-      "tomatometer": 21,
-      "audience_score": 45,
-      "runtime_minutes": 118,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/nW-G1tNdL7EtJ7xCu8vubEIWyZA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9913916_p_v8_aa.jpg",
-      "plot": "Abner Beech (Billy Campbell), a righteous farmer from upstate New York, exercises his right to free speech in a time when families are divided by the Civil War.",
-      "directors": [
-        "Ronald F. Maxwell"
-      ]
-    },
-    {
-      "id": "bigger",
-      "category": "history",
-      "type": "movie",
-      "title": "Bigger",
-      "original_title": "Bigger",
-      "year": 2018,
-      "genres": [
-        "History",
-        "Drama",
-        "Biography"
-      ],
-      "rating": 4.3,
-      "votes": 136,
-      "tomatometer": 11,
-      "audience_score": 78,
-      "runtime_minutes": 107,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/2IY-ljiAdkhgI3p777NlnvtldcQ=/300x450/v2/https://resizing.flixster.com/SAgigRLTixDUMPrtGeuHrORCRFQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzYzZiMmY1LTAxZjgtNGMzYi05YzMyLTY3MmM4ODUzOGY4OS53ZWJw",
-      "plot": "Siblings Joe and Ben Weider overcome anti-Semitism, conventional wisdom and poverty to become fitness entrepreneurs. Against all odds, the brothers launch the gym movement, create an empire and…",
-      "directors": [
-        "George Gallo"
-      ]
-    },
-    {
-      "id": "young_woman_and_the_sea",
-      "category": "history",
-      "type": "movie",
-      "title": "Young Woman and the Sea",
-      "original_title": "Young Woman and the Sea",
-      "year": 2024,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 6.9,
-      "votes": 135,
-      "tomatometer": 88,
-      "audience_score": 96,
-      "runtime_minutes": 129,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/Hn9zJxh-BsOsiwlweo6cU21v_yQ=/300x450/v2/https://resizing.flixster.com/A11K_47yFYLzcg3blGK3BM1uQeY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlMDA4YWNlLTgwMDUtNGVmYy1hYWM5LWY3ODZhYmM2ZTc0MS5qcGc=",
-      "plot": "Daisy Ridley stars as the accomplished swimmer who was born to immigrant parents in New York City in 1905. Through the steadfast support of her older sister and supportive trainers, she overcame…",
-      "directors": [
-        "Joachim Rønning"
-      ]
-    },
-    {
-      "id": "the_brink_of_war",
-      "category": "war",
-      "type": "movie",
-      "title": "The Brink of War",
-      "original_title": "The Brink of War",
-      "year": 2026,
-      "genres": [
-        "Drama",
-        "History",
-        "Mystery & Thriller",
-        "War"
-      ],
-      "rating": 6.6,
-      "votes": 135,
-      "tomatometer": 74,
-      "audience_score": 87,
-      "runtime_minutes": 117,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/NOtsAbV_YRg5zQJHeLeAqAzQ4HQ=/300x450/v2/https://resizing.flixster.com/wHrheRAXH4xXgUbC_qT52kD6bY4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q3YWU5N2RmLTc2ZGYtNGYzNy05NGYxLTg3ZGJlZmRjMGFmZi5qcGc=",
-      "plot": "President Reagan races against time to salvage a deal with Soviet leader Mikhail Gorbachev that could dismantle nuclear arsenals--or ignite disaster. With pressure mounting from advisors,…",
-      "directors": [
-        "Michael Russell Gunn"
-      ]
-    },
-    {
-      "id": "battle_for_saipan",
-      "category": "war",
-      "type": "movie",
-      "title": "Battle for Saipan",
-      "original_title": "Battle for Saipan",
-      "year": 2022,
-      "genres": [
-        "War",
-        "History",
-        "Drama",
-        "Action"
-      ],
-      "rating": 5.7,
-      "votes": 135,
-      "tomatometer": 40,
-      "audience_score": 81,
-      "runtime_minutes": 94,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/PVSf-eyeRvgB9QTgUg8mTGgRa7M=/300x450/v2/https://resizing.flixster.com/MMJhQLj0RnDI3HDpuZUpIF6-cng=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzljMjU0NWQ3LTA0ZWItNDJkNi04NmM3LThjYjc4MGM4YjIwNi5qcGc=",
-      "plot": "Casper Van Dien (Alita: Battle Angel) and Louis Mandylor (Rambo: Last Blood) star in this edge-of-your-seat WWII epic. On July 7th, 1944, a US Army hospital on the remote island of Saipan is overrun…",
-      "directors": [
-        "Brandon Slagle"
-      ]
-    },
-    {
-      "id": "1011329-julius_caesar",
-      "category": "history",
-      "type": "movie",
-      "title": "Julius Caesar",
-      "original_title": "Julius Caesar",
-      "year": 1970,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 4.7,
-      "votes": 114,
-      "tomatometer": 40,
-      "audience_score": 36,
-      "runtime_minutes": 117,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/jnGDxiv7ABTuVD8ZtmLymKi2-II=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4210_p_v8_ag.jpg",
-      "plot": "Julius Caesar (John Gielgud) is bestowed with laurels after his rousing victory over Pompey, which ended a civil war -- but danger still lurks among his closest comrades. Fearful that Caesar will…",
-      "directors": [
-        "Stuart Burge"
-      ]
-    },
-    {
-      "id": "hickok_2017",
-      "category": "western",
-      "type": "movie",
-      "title": "Hickok",
-      "original_title": "Hickok",
-      "year": 2017,
-      "genres": [
-        "Western",
-        "Action",
-        "Biography",
-        "History",
-        "Drama",
-        "Adventure"
-      ],
-      "rating": 5.5,
-      "votes": 101,
-      "tomatometer": 50,
-      "audience_score": 18,
-      "runtime_minutes": 88,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/rkH87q17GS4wgRRTcV0SH2LFJsY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14191350_p_v8_aa.jpg",
-      "plot": "Legendary gunslinger Wild Bill Hickok looks to leave the past behind him by settling in the small town of Abilene, Kan., and becoming the marshal. His unparalleled skills are soon put to the test…",
-      "directors": [
-        "Timothy Woodward Jr."
-      ]
-    },
-    {
-      "id": "lucky_strike_2026",
-      "category": "war",
-      "type": "movie",
-      "title": "Lucky Strike",
-      "original_title": "Lucky Strike",
-      "year": 2026,
-      "genres": [
-        "War",
-        "History",
-        "Drama"
-      ],
-      "rating": 6.0,
-      "votes": 96,
-      "tomatometer": 60,
-      "audience_score": 69,
-      "runtime_minutes": 102,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/BpkjuSEIHr0JNhOc4By9r_cbyHc=/300x450/v2/https://resizing.flixster.com/LJO23CeT5EOKVDsQ-DI2hTv2VUM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I2ZmU5YWNjLWJkOGUtNDBhOS1iNGE4LWVkZDFiZmI4ODY2Zi5qcGc=",
-      "plot": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge.…",
-      "directors": [
-        "Rod Lurie"
-      ]
-    },
-    {
-      "id": "unbroken_2023",
-      "category": "history",
-      "type": "movie",
-      "title": "UnBroken",
-      "original_title": "UnBroken",
-      "year": 2025,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": null,
-      "votes": 96,
-      "tomatometer": null,
-      "audience_score": 99,
-      "runtime_minutes": 97,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/lpXiO2RKWYikMvFlbpKbkU_hKiE=/300x450/v2/https://resizing.flixster.com/VU9YYajjlHuQ6_BMFEF6-oxDce8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjNmI1MDAyLWRlNzgtNDBkYy04Nzc1LTk3NDRmYjkyNTE5NS5qcGc=",
-      "plot": "The daughter of a Holocaust survivor embarks on an international quest to uncover answers about the plight of her mother and her six siblings who, as mere children, escaped Nazi Germany relying…",
-      "directors": [
-        "Beth Lane"
-      ]
-    },
-    {
-      "id": "the_banker_2020",
-      "category": "history",
-      "type": "movie",
-      "title": "The Banker",
-      "original_title": "The Banker",
-      "year": 2020,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 6.8,
-      "votes": 90,
-      "tomatometer": 78,
-      "audience_score": 100,
-      "runtime_minutes": 120,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/yrsvN7V3QFV5iIIwF7OwTWWj2ko=/300x450/v2/https://resizing.flixster.com/yoKg3Szy7QgqA5yV2uzjbBQFTag=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MzM2ZlNmQzLTljNWYtNDE3NC04MTFiLWNjZmFhNzkzNWI2Zi53ZWJw",
-      "plot": "In the 1960s, two entrepreneurs hatch an ingenious business plan to fight for housing integration and equal access to the American Dream.",
-      "directors": [
-        "George Nolfi"
-      ]
-    },
-    {
-      "id": "canopy",
-      "category": "war",
-      "type": "movie",
-      "title": "Canopy",
-      "original_title": "Canopy",
-      "year": 2014,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 6.6,
-      "votes": 86,
-      "tomatometer": 75,
-      "audience_score": 34,
-      "runtime_minutes": 84,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/SkeZ48pXGNfup2Ws_paCMMN339c=/300x450/v2/https://resizing.flixster.com/UwJ_LMT0iyZXbjRLqKn5HAalcGE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgzNTIzMTRmLTg4MjctNGRmNy05YTZlLTMzOGZkZTNkZmVjMi53ZWJw",
-      "plot": "In 1942 Singapore, a downed Australian pilot (Khan Chittenden) joins forces with a resistance fighter (Morning Tzu-Yi Mo) to escape the Japanese troops who are hunting them.",
-      "directors": [
-        "Aaron Wilson"
-      ]
-    },
-    {
-      "id": "boudica_queen_of_war",
-      "category": "war",
-      "type": "movie",
-      "title": "Boudica: Queen of War",
-      "original_title": "Boudica: Queen of War",
-      "year": 2023,
-      "genres": [
-        "History",
-        "Drama",
-        "War",
-        "Action"
-      ],
-      "rating": 5.6,
-      "votes": 86,
-      "tomatometer": 43,
-      "audience_score": 15,
-      "runtime_minutes": 100,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/s_ha5HrLg8ATQOG3p55ZKX-Fe44=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25269940_p_v13_ab.jpg",
-      "plot": "In an action film inspired by true events, Boudica's husband, the noble King Prasutagus, is slain, and her children are brutally taken from her by ruthless Roman conquerors. Stripped of her land and…",
-      "directors": [
-        "Jesse V. Johnson"
-      ]
-    },
-    {
-      "id": "attica_2021",
-      "category": "history",
-      "type": "movie",
-      "title": "Attica",
-      "original_title": "Attica",
-      "year": 2021,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 8.4,
-      "votes": 81,
-      "tomatometer": 100,
-      "audience_score": 86,
-      "runtime_minutes": 116,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/7cisS5xmaKlqpp627xpXcjwkllA=/300x450/v2/https://resizing.flixster.com/V4FfswvfnLd-DY0kwLCATPjd510=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1Zjg2ZDY3LWMwZjEtNDQ5MS05MDY3LWRkYThmOTIyZjk2NC5qcGc=",
-      "plot": "During the summer of 1971, tensions between inmates and guards at the Attica Correctional Facility are at an all-time high. On the morning of Sept. 9, it all comes to a head as Attica becomes the…",
-      "directors": [
-        "Stanley Nelson",
-        "Traci Curry"
-      ]
-    },
-    {
-      "id": "freedoms_path",
-      "category": "war",
-      "type": "movie",
-      "title": "Freedom's Path",
-      "original_title": "Freedom's Path",
-      "year": 2023,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 6.7,
-      "votes": 80,
-      "tomatometer": 90,
-      "audience_score": 98,
-      "runtime_minutes": 131,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/bWCkK5CvcepPVfmURW3FcRzzrfg=/300x450/v2/https://resizing.flixster.com/1yn9QLdf4fCc7PoX0p45cEPwrvc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RjN2Y5MzdlLWJmMDAtNDcwZi05NGQyLTg2YzdkZjhjYmU4My5qcGc=",
-      "plot": "After a Union soldier flees from battle, rescue comes unexpectedly from a free black man operating a section of the Underground Railroad. But when a ruthless and desperate slave catcher discovers the…",
-      "directors": [
-        "Brett Smith"
-      ]
-    },
-    {
-      "id": "1018051-sacco_and_vanzetti",
-      "category": "history",
-      "type": "movie",
-      "title": "Sacco and Vanzetti",
-      "original_title": "Sacco and Vanzetti",
-      "year": 1971,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 6.4,
-      "votes": 76,
-      "tomatometer": 70,
-      "audience_score": 87,
-      "runtime_minutes": 120,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/k0gitqYIE3UZRpVciwLo3xXUtfo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4869_p_v8_aa.jpg",
-      "plot": "Italian immigrant shoemaker Nicola Sacco (Riccardo Cucciolla) and fish peddler Bartolomeo Vanzetti (Gian Maria Volonte) live and work in the 1920s Boston, and are known to have anarchist beliefs.…",
-      "directors": [
-        "Giuliano Montaldo"
-      ]
-    },
-    {
-      "id": "six_days_in_august",
-      "category": "history",
-      "type": "movie",
-      "title": "Six Days in August",
-      "original_title": "Six Days in August",
-      "year": 2024,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": null,
-      "votes": 68,
-      "tomatometer": null,
-      "audience_score": 72,
-      "runtime_minutes": 125,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/CX9ADvUoSIXCL9yMr3HMCTznkwg=/300x450/v2/https://resizing.flixster.com/2mdLDsUhJwvZMAL4nVnFj6pz-vw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlMDIzYjMyLTk0NWQtNGQyOS04ZWRjLTg5M2EwMjUyMmNlYi5qcGc=",
-      "plot": "The Prophet Joseph Smith is dead, killed by a mob. Enemies of the young LDS Church think it will die with Joseph. In fact that danger is a real possibility. The crisis is undeniable, and the saints…",
-      "directors": [
-        "Mark Goodman"
-      ]
-    },
-    {
-      "id": "blitz",
-      "category": "war",
-      "type": "movie",
-      "title": "Blitz",
-      "original_title": "Blitz",
-      "year": 2024,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 7.0,
-      "votes": 67,
-      "tomatometer": 81,
-      "audience_score": 81,
-      "runtime_minutes": 120,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/TGl9xErHokevGuSgGi14Duxweuw=/300x450/v2/https://resizing.flixster.com/6CNy4nip8WNI5TWCnTDoFEUoSEI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiZjAzYTMxLWExNDItNGQzMy04YjMzLWU4ZWYwODVhOTU5Yy5qcGc=",
-      "plot": "Sir Steve McQueen's \"Blitz\" follows the epic journey of George (Elliott Heffernan), a 9-year-old boy in World War II London whose mother Rita (Saoirse Ronan) sends him to safety in the English…",
-      "directors": [
-        "Steve McQueen"
-      ]
-    },
-    {
-      "id": "te_ata",
-      "category": "history",
-      "type": "movie",
-      "title": "Te Ata",
-      "original_title": "Te Ata",
-      "year": 2017,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 6.5,
-      "votes": 64,
-      "tomatometer": 65,
-      "audience_score": 94,
-      "runtime_minutes": 105,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/T8Tj3L9xxRDJ-lXrQy2A2WZvHh8=/300x450/v2/https://resizing.flixster.com/lJ3Cbctr1BPDeP8SA66WQbB1ABk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I5N2YzN2NiLTliZDEtNGZiMC1hZWM3LTY2ZmEzOTIzMjlmZC53ZWJw",
-      "plot": "Based on the true story of Mary Thompson Fisher (Q'orianka Kilcher), widely known as Te Ata, who traverses cultural barriers to achieve fame as an actress and a Native American storyteller.",
-      "directors": [
-        "Nathan Frankowski"
-      ]
-    },
-    {
-      "id": "emperor_2020",
-      "category": "history",
-      "type": "movie",
-      "title": "Emperor",
-      "original_title": "Emperor",
-      "year": 2020,
-      "genres": [
-        "History",
-        "Drama",
-        "Biography"
-      ],
-      "rating": 5.5,
-      "votes": 64,
-      "tomatometer": 67,
-      "audience_score": 64,
-      "runtime_minutes": 99,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/CXCV5s3vb2iPxXrQlPq3MqYra0Y=/300x450/v2/https://resizing.flixster.com/QiJcofGVZW8QDmdA9gLSNKxp0ro=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdjOTdhNmY4LTQ5ZWItNDhjNi1iNTI1LTkxZGIxOTViNzhkYS53ZWJw",
-      "plot": "Fighting his way north to free himself and his family, outlaw slave Shields \"Emperor\" Green joins forces with abolitionist John Brown for a daring raid in Harpers Ferry, W.Va., in 1859.",
-      "directors": [
-        "Mark Amin"
-      ]
-    },
-    {
-      "id": "shadow_magic",
-      "category": "history",
-      "type": "movie",
-      "title": "Shadow Magic",
-      "original_title": "Shadow Magic",
-      "year": 2001,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 6.5,
-      "votes": 52,
-      "tomatometer": 73,
-      "audience_score": 67,
-      "runtime_minutes": 115,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/OkECcWdMQih33bS6eh4o44MIxDg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p72429_v_v8_aa.jpg",
-      "plot": "Peking, 1902. The Feng Tai Photo Shop is in a frenzy of preparation for the arrival of Peking's most important opera star, Lord Tan. Liu Jinglun (Yu Xia), the chief photographer, is oblivious to the…",
-      "directors": [
-        "Ann Hu"
-      ]
-    },
-    {
-      "id": "deaf_president_now",
-      "category": "history",
-      "type": "movie",
-      "title": "Deaf President Now!",
-      "original_title": "Deaf President Now!",
-      "year": 2025,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 8.6,
-      "votes": 50,
-      "tomatometer": 100,
-      "audience_score": 92,
-      "runtime_minutes": 99,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/U69HO7ndanS6Y-A-0__XvJadSx0=/300x450/v2/https://resizing.flixster.com/1OJlb-oJ1O3-DqlpFL-MmFkjq8Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFhZGE2YmFmLWQwNmQtNDgxYS1hZTZlLTg2NGZkNDM0MmQxYS5wbmc=",
-      "plot": "\"Deaf President Now!\" recounts the eight days of historic protests held at Gallaudet University in 1988 after the school's board of trustees appointed a hearing president over several very qualified…",
-      "directors": [
-        "Nyle DiMarco",
-        "Davis Guggenheim"
-      ]
-    },
-    {
-      "id": "grandfather",
-      "category": "history",
-      "type": "movie",
-      "title": "The Grandfather",
-      "original_title": "The Grandfather",
-      "year": 1999,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 6.7,
-      "votes": 50,
-      "tomatometer": 57,
-      "audience_score": 88,
-      "runtime_minutes": 151,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/KV1EPX9ZCaFrY7f76NUG6HGqhf8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p68115_v_v8_aa.jpg",
-      "plot": "Having lost his fortune abroad, Don Rodrigo (Fernando Fernán Gómez) returns to his native Spanish village to determine which of his granddaughters is his late son's child, and which is the result of…",
-      "directors": [
-        "José Luis Garci"
-      ]
-    },
-    {
-      "id": "the_lennon_report",
-      "category": "history",
-      "type": "movie",
-      "title": "The Lennon Report",
-      "original_title": "The Lennon Report",
-      "year": 2016,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 6.2,
-      "votes": 44,
-      "tomatometer": 57,
-      "audience_score": 70,
-      "runtime_minutes": 87,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/Nr0T3om9nx-LpWbfkKn4cNdtoB0=/300x450/v2/https://resizing.flixster.com/sHYo0bMx-noTPPY4MKYh_Re7OCc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0OTc3MjYwLWRlMzQtNDQ1Mi1hNjZjLTA2M2I2NzNiYjYyYi53ZWJw",
-      "plot": "On Dec. 8, 1980, John Lennon is shot outside the Dakota apartment building in New York City, and emergency personnel have no idea that their John Doe shooting victim will turn out to be the world's…",
-      "directors": [
-        "Jeremy Profe"
-      ]
-    },
-    {
-      "id": "the_ballad_of_gregorio_cortez",
-      "category": "history",
-      "type": "movie",
-      "title": "The Ballad of Gregorio Cortez",
-      "original_title": "The Ballad of Gregorio Cortez",
-      "year": 1983,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 7.7,
-      "votes": 39,
-      "tomatometer": 100,
-      "audience_score": 72,
-      "runtime_minutes": 104,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/rOb30u7V2k_0vySVe49lzTtd4Rw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7245_p_v10_aa.jpg",
-      "plot": "After Gregorio Cortez (Edward James Olmos), who speaks no English, is falsely accused of stealing a horse by Texas Rangers, a scuffle breaks out in which Gregorio kills a sheriff and his own brother…",
-      "directors": [
-        "Robert M. Young"
-      ]
-    },
-    {
-      "id": "betrayed_2021",
-      "category": "war",
-      "type": "movie",
-      "title": "Betrayed",
-      "original_title": "Betrayed",
-      "year": 2021,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 7.0,
-      "votes": 27,
-      "tomatometer": 100,
-      "audience_score": 93,
-      "runtime_minutes": 126,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/zjyda3sE4BbIjwiOJiqcRDk2yrI=/300x450/v2/https://resizing.flixster.com/M43XbkNrbtC0zYj76fZWc3_8w1g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA2OWNiZmVlLTA1OWQtNDJhNC1iYjc3LTRkNjg2MDY2NDRiMS5qcGc=",
-      "plot": "The Nazi agenda knew no borders. As the war spread into Europe, Hitler's control became ever more clear. In November of 1942 hundreds of Jewish citizens in Norway were taken from their homes. Men,…",
-      "directors": [
-        "Eirik Svensson"
-      ]
-    },
-    {
-      "id": "come_what_may_2016",
-      "category": "war",
-      "type": "movie",
-      "title": "Come What May",
-      "original_title": "Come What May",
-      "year": 2015,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 5.9,
-      "votes": 25,
-      "tomatometer": 41,
-      "audience_score": 56,
-      "runtime_minutes": 114,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/_SgZuA5dmsgi5S0WJ3ZW75FNrJw=/300x450/v2/https://resizing.flixster.com/h486NjoKyr2VTVKl80sNj5xtBD8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlY2EwMDMyLThiZmEtNDZiOS05MzFiLTIwMjMwNTE3ODY1MS53ZWJw",
-      "plot": "A German resistant (August Diehl) searches for his son on the roads of France, even as the Wehrmacht spills over the border. A Scottish captain (Matthew Rhys) who is desperately trying to rejoin the…",
-      "directors": [
-        "Christian Carion"
-      ]
-    },
-    {
-      "id": "fioretta",
-      "category": "history",
-      "type": "movie",
-      "title": "Fioretta",
-      "original_title": "Fioretta",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 8.2,
-      "votes": 24,
-      "tomatometer": 100,
-      "audience_score": 100,
-      "runtime_minutes": 127,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/wIgf_2ldVSnEX1Jh89VxnAmqbo0=/300x450/v2/https://resizing.flixster.com/MgVrN1PPJDVaIJbxNiy9ZLx0JHw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlmNGYwNGM0LTA0NGMtNDZlNS1hN2E2LTExODE1MGM1YzQ4Yi5qcGc=",
-      "plot": "History-obsessed Randy Schoenberg brings his reluctant teenage son on the journey of a lifetime, through Europe and the centuries, to reclaim 500 years of their family story.",
-      "directors": [
-        "Matthew Mishory"
-      ]
-    },
-    {
-      "id": "royal_hunt_of_the_sun",
-      "category": "history",
-      "type": "movie",
-      "title": "The Royal Hunt of the Sun",
-      "original_title": "The Royal Hunt of the Sun",
-      "year": 1969,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 8.0,
-      "votes": 22,
-      "tomatometer": 50,
-      "audience_score": 55,
-      "runtime_minutes": 118,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/2vMcvZD08tijR9-sgzfX8CJLyv4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1607_p_v10_ab.jpg",
-      "plot": "Famed Spanish conquistador Francisco Pizarro (Robert Shaw) returns to Peru for one final mission -- to conquer the Inca Empire, convert its people to Christianity and capture a supposedly massive…",
-      "directors": [
-        "Irving Lerner"
-      ]
-    },
-    {
-      "id": "free_chol_soo_lee",
-      "category": "history",
-      "type": "movie",
-      "title": "Free Chol Soo Lee",
-      "original_title": "Free Chol Soo Lee",
-      "year": 2022,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 7.7,
-      "votes": 17,
-      "tomatometer": 100,
-      "audience_score": 88,
-      "runtime_minutes": 83,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/k6c28v3iBEQojzvnj-Cw7z0kYLM=/300x450/v2/https://resizing.flixster.com/9AW4Eaq4FJBXKKuct13kg6Vty70=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4MmE5ZmYzLWU4NzMtNGI2Yi1hYWNjLWI1MjNlYjU3NzU4MS5wbmc=",
-      "plot": "In 1970s San Francisco, 20-year-old Korean immigrant Chol Soo Lee is racially profiled and convicted of a Chinatown gang murder. After spending years fighting to survive, investigative journalist…",
-      "directors": [
-        "Julie Ha",
-        "Eugene Yi"
-      ]
-    },
-    {
-      "id": "lady_caroline_lamb",
-      "category": "history",
-      "type": "movie",
-      "title": "Lady Caroline Lamb",
-      "original_title": "Lady Caroline Lamb",
-      "year": 1972,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": null,
-      "votes": 17,
-      "tomatometer": 17,
-      "audience_score": 12,
-      "runtime_minutes": 123,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/BZKqnGs9sBMjcgXASn5qVAI8mp0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p40866_p_v10_aa.jpg",
-      "plot": "Lord Melbourne's (Jon Finch) wife (Sarah Miles) has a scandalous affair with Lord Byron (Richard Chamberlain) in early 1800s London.",
-      "directors": [
-        "Robert Bolt"
-      ]
-    },
-    {
-      "id": "the_conqueror_hollywood_fallout",
-      "category": "history",
-      "type": "movie",
-      "title": "The Conqueror: Hollywood Fallout",
-      "original_title": "The Conqueror: Hollywood Fallout",
-      "year": 2024,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 8.1,
-      "votes": 16,
-      "tomatometer": 92,
-      "audience_score": 94,
-      "runtime_minutes": 116,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/GO-SxVBOYGE0uow97nlVwRlSQGQ=/300x450/v2/https://resizing.flixster.com/dcfBxTiPb_9vZCgGUb0wRg7lqps=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzZjU3YzU2LTY3MTQtNDM1OC05M2NmLWUzNzU5YWQ4OGQ1ZC5qcGc=",
-      "plot": "Hollywood's infamous flop, \"The Conqueror,\" stars John Wayne as Genghis Khan, embodying a slew of racist and sexist problems. Its enduring notoriety stems from the tragic fact that nearly half its…",
-      "directors": [
-        "William Nunez"
-      ]
-    },
-    {
-      "id": "to_the_ends_of_the_world",
-      "category": "war",
-      "type": "movie",
-      "title": "To the Ends of the World",
-      "original_title": "To the Ends of the World",
-      "year": 2018,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 6.0,
-      "votes": 16,
-      "tomatometer": 75,
-      "audience_score": 56,
-      "runtime_minutes": 103,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/HDCq92kmA_OqcD8xAIFyXdC7lsY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17043318_p_v8_ab.jpg",
-      "plot": "After a young French soldier serving in Indochina survives a massacre that kills everyone in his unit, he sets out on a mission of vengeance. However, a chance meeting with a young Indochinese man…",
-      "directors": [
-        "Guillaume Nicloux"
-      ]
-    },
-    {
-      "id": "tesla",
-      "category": "history",
-      "type": "movie",
-      "title": "Tesla",
-      "original_title": "Tesla",
-      "year": 2020,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 6.0,
-      "votes": 14,
-      "tomatometer": 58,
-      "audience_score": 43,
-      "runtime_minutes": 102,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/7qTqLfORkPQqP-tJDZpuwbybE1s=/300x450/v2/https://resizing.flixster.com/tq3xcbRaGol7avkIMGMHbevLK4k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNlMjI2MTdkLTBjNzYtNDBhMS1iOTg1LWUxODMwMWY3M2E4ZS53ZWJw",
-      "plot": "Visionary inventor Nikola Tesla fights an uphill battle to bring his revolutionary electrical system to fruition, then faces thornier challenges with his new system for worldwide wireless energy.",
-      "directors": [
-        "Michael Almereyda"
-      ]
-    },
-    {
-      "id": "hollywoodgate",
-      "category": "history",
-      "type": "movie",
-      "title": "Hollywoodgate",
-      "original_title": "Hollywoodgate",
-      "year": 2024,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 7.5,
-      "votes": 12,
-      "tomatometer": 92,
-      "audience_score": null,
-      "runtime_minutes": 92,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/EEJ_TR5N0PU6CSOjbQ5IffykcYo=/300x450/v2/https://resizing.flixster.com/reuMY-AkTCpXArEOWLS8RcoYaEQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdlYTAyOGVhLTZiZDUtNDJiZS1hOGVjLWIxYzI4M2IwNDI4Yi5qcGc=",
-      "plot": "Immediately after the US withdraws from Afghanistan, the Taliban occupied the \"Hollywood Gate\" complex, claimed to be a former CIA base in Kabul. The Taliban finds countless aircrafts, weapons and…",
-      "directors": [
-        "Ibrahim Nash'at"
-      ]
-    },
-    {
-      "id": "resistance_they_fought_back",
-      "category": "history",
-      "type": "movie",
-      "title": "Resistance: They Fought Back",
-      "original_title": "Resistance: They Fought Back",
-      "year": 2024,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 7.5,
-      "votes": 9,
-      "tomatometer": 100,
-      "audience_score": 100,
-      "runtime_minutes": 97,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/S8AG-dtUX8u9g019R65pIIqJnQs=/300x450/v2/https://resizing.flixster.com/Nut1yn17uAsPh7qSceszzaZl0Pg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxZmIyNWI4LWJkZTItNDU3YS1iMGNlLTQwMzZkNDhlZDM4OC5qcGc=",
-      "plot": "We've all heard of the Warsaw Ghetto Uprising, but most people have no idea how widespread and prevalent Jewish resistance to Nazi barbarism was. Instead, it's widely believed \"Jews went to their…",
-      "directors": [
-        "Paula Apsell",
-        "Kirk Wolfinger"
-      ]
-    },
-    {
-      "id": "anthem_2023",
-      "category": "history",
-      "type": "movie",
-      "title": "Anthem",
-      "original_title": "Anthem",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "Music",
-        "History"
-      ],
-      "rating": 6.9,
-      "votes": 8,
-      "tomatometer": 63,
-      "audience_score": 12,
-      "runtime_minutes": 98,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/KOQlyMdXeM6mm5WfL_bp6tgKAGw=/300x450/v2/https://resizing.flixster.com/j5DnVc7dBi37t0yzy2hOAP8Exm4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M5NzlkNGI2LWEzOWQtNDgwYy05Mjg5LTkyMDEyYzNkMjNlOS5qcGc=",
-      "plot": "Reflecting upon \"The Star-Spangled Banner,\" Anthem follows acclaimed composer Kris Bowers (\"Bridgerton,\" \"When They See Us,\" \"King Richard\") and GRAMMY®-winning music producer Dahi (Travis Scott,…",
-      "directors": [
-        "Peter Nicks"
-      ]
-    },
-    {
-      "id": "bardejov",
-      "category": "war",
-      "type": "movie",
-      "title": "Bardejov",
-      "original_title": "Bardejov",
-      "year": 2024,
-      "genres": [
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 7.8,
-      "votes": 4,
-      "tomatometer": 100,
-      "audience_score": null,
-      "runtime_minutes": 85,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/6Ayq_P0vPk3QwGz8fj3nJUh-5YA=/300x450/v2/https://resizing.flixster.com/7kZpcXjyLuy75kFJmbR9M45LnG0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE5MzE5ZTZkLWNmMTgtNDFjMC04MzkxLTA2NWQ1MDdkMDJlZC5qcGc=",
-      "plot": "Young Hilnka Guards disrupt a peaceful morning in Bardejov, plastering posters demanding that every Jew in town registers for work. Rafuel Lowy, a rabbi and wine maker meets with the Jewish council…",
-      "directors": [
-        "Danny A. Abeckaser"
-      ]
-    },
-    {
-      "id": "television_event",
-      "category": "history",
-      "type": "movie",
-      "title": "Television Event",
-      "original_title": "Television Event",
-      "year": 2025,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 7.8,
-      "votes": 3,
-      "tomatometer": 88,
-      "audience_score": null,
-      "runtime_minutes": 90,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/7B1eLN-jm3QwUbqGACk2PQgvwA8=/300x450/v2/https://resizing.flixster.com/TUOKxDRddC1rMPNDlC8595QI0cA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M5MmU0ZTY5LTA3NjYtNDc5Ni1iNzljLTkyZTI3ZmY3ZjkzMy5qcGc=",
-      "plot": "TELEVISION EVENT is an archive-based feature documentary that views the dramatic climax of the Cold War through the lens of a commercial television network, as it narrowly succeeds in producing the…",
-      "directors": [
-        "Jeff Daniels"
-      ]
-    },
-    {
-      "id": "disposable_humanity",
-      "category": "history",
-      "type": "movie",
-      "title": "Disposable Humanity",
-      "original_title": "Disposable Humanity",
-      "year": null,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 8.5,
-      "votes": 2,
-      "tomatometer": 100,
-      "audience_score": null,
-      "runtime_minutes": 94,
-      "certificate": "In Theaters Aug 28",
-      "poster": "https://resizing.flixster.com/ANNK2jU3kMb5YOy0v_xJ0fJLJBY=/300x450/v2/https://resizing.flixster.com/8DFiqNlkcHWGvsVdVffsZBB40_o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwYTZlNDQ5LTUxNGMtNGM2NC04YjUzLTYzYTNiODUxNDQxNS5qcGc=",
-      "plot": "Through in-depth interviews and archival materials, the Mitchell family unveils the Nazi Aktion T4 program, which targeted disabled people and helped pave the way for the Holocaust. This…",
-      "directors": [
-        "Cameron S. Mitchell"
-      ]
-    },
-    {
-      "id": "the_last_twins",
-      "category": "history",
-      "type": "movie",
-      "title": "The Last Twins",
-      "original_title": "The Last Twins",
-      "year": 2025,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": null,
-      "votes": 2,
-      "tomatometer": null,
-      "audience_score": null,
-      "runtime_minutes": 80,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/x0ynT7gK-J3GpU0JBAbihLw9CmQ=/300x450/v2/https://resizing.flixster.com/fA4eKrhtLJ9cFk2KiMG6AqpiiPs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M0MWQzNTc3LWE3ZDUtNDJkMi04NmQ2LTVlMTZjYTQ2MjFiMi5qcGc=",
-      "plot": "The Last Twins is the never-before-told story of an unsung hero of the Holocaust, Erno \"Zvi\" Spiegel, who risked everything to save dozens of young twins from almost certain death at Auschwitz. Under…",
-      "directors": [
-        "Perri Peltz",
-        "Matthew O'Neill"
-      ]
-    },
-    {
-      "id": "blue_box_2021",
-      "category": "history",
-      "type": "movie",
-      "title": "Blue Box",
-      "original_title": "Blue Box",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 8.0,
-      "votes": 1,
-      "tomatometer": 100,
-      "audience_score": null,
-      "runtime_minutes": 82,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/C_azrwyeNhqVLjK2YKN1xmXVN8c=/300x450/v2/https://resizing.flixster.com/TZlTu68U9A8I9GnMevbRTO3NK1M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYxMDE2ZTdjLTMzZGQtNDIyMS04NzFjLTZlM2NmNjljYmNhYS5qcGc=",
-      "plot": "The Jewish National Fund's (JNF) beloved Blue Box campaign was internationally successful in raising support for the purchase and forestation of land in Palestine. The trees have since spread their…",
-      "directors": [
-        "Michal Weits"
-      ]
-    },
-    {
-      "id": "teenage_wasteland",
-      "category": "history",
-      "type": "movie",
-      "title": "Teenage Wasteland",
-      "original_title": "Teenage Wasteland",
-      "year": 2025,
-      "genres": [
-        "Documentary",
-        "History"
-      ],
-      "rating": 8.0,
-      "votes": 1,
-      "tomatometer": 100,
-      "audience_score": null,
-      "runtime_minutes": 110,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/GxuZCHnivFmiHfD2xd4yLX_FDCk=/300x450/v2/https://resizing.flixster.com/a6FcAx6t6rzffG2xstia6zJakBc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E3ZGExYjg1LWNkN2EtNGNhZi04M2E3LWY2YzRmYzE4ZDc2Mi5qcGc=",
-      "plot": "Inspired by an unconventional teacher, a group of teenagers in upstate New York in the early 1990s make a student film and uncover a vast conspiracy that is poisoning their community. Thirty years…",
-      "directors": [
-        "Jesse Moss",
-        "Amanda McBaine"
       ]
     }
   ]

@@ -1,8 +1,58 @@
 {
   "genre": "kids-family",
   "name": "Kids & Family",
-  "count": 191,
+  "count": 249,
   "titles": [
+    {
+      "id": "finding_nemo",
+      "category": "animation",
+      "type": "movie",
+      "title": "Finding Nemo",
+      "original_title": "Finding Nemo",
+      "year": 2003,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 8.9,
+      "votes": 319558,
+      "tomatometer": 99,
+      "audience_score": 86,
+      "runtime_minutes": 100,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/2Ihsf1B9o1fM19f1-YNpK5fQAbU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31890_p_v8_aa.jpg",
+      "plot": "Marlin (Albert Brooks), a clown fish, is overly cautious with his son, Nemo (Alexander Gould), who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by…",
+      "directors": [
+        "Andrew Stanton"
+      ]
+    },
+    {
+      "id": "shrek_3",
+      "category": "animation",
+      "type": "movie",
+      "title": "Shrek the Third",
+      "original_title": "Shrek the Third",
+      "year": 2007,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 5.7,
+      "votes": 208058,
+      "tomatometer": 41,
+      "audience_score": 52,
+      "runtime_minutes": 93,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/DCpe_nRiMog_UO7xUy6opA0SXPs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159731_p_v10_ag.jpg",
+      "plot": "Shrek embarks on another whirlwind adventure with Donkey and Puss in Boots to find the rightful heir to the throne. Meet the magical misguided Merlin, an awkward Arthur and a powerful posse of…",
+      "directors": [
+        "Chris Miller"
+      ]
+    },
     {
       "id": "indiana_jones_and_the_kingdom_of_the_crystal_skull",
       "category": "action",
@@ -25,6 +75,32 @@
       "plot": "It's the height of the Cold War, and famous archaeologist Indiana Jones (Harrison Ford), returning from his latest adventure, finds out his job at Marshall College is in jeopardy. He meets Mutt (Shia…",
       "directors": [
         "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "shrek_2",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Shrek 2",
+      "original_title": "Shrek 2",
+      "year": 2004,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 7.9,
+      "votes": 150254,
+      "tomatometer": 89,
+      "audience_score": 69,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/_RVioR9YPh9HCec1S_uYCJDUQOY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34447_p_v13_bc.jpg",
+      "plot": "After returning from their honeymoon and showing home movies to their friends, Shrek and Fiona learn that her parents have heard that she has married her true love and wish to invite him to their…",
+      "directors": [
+        "Andrew Adamson",
+        "Kelly Asbury"
       ]
     },
     {
@@ -682,6 +758,31 @@
       ]
     },
     {
+      "id": "hotel_transylvania",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Hotel Transylvania",
+      "original_title": "Hotel Transylvania",
+      "year": 2012,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 5.4,
+      "votes": 47502,
+      "tomatometer": 45,
+      "audience_score": 72,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/k5PX0bMA7bCSB2XZ1lIxwCPQFjY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9128632_p_v10_af.jpg",
+      "plot": "When monsters want to get away from it all, they go to Count Dracula's (Adam Sandler) Hotel Transylvania, a lavish resort where they can be themselves without humans around to bother them. On one…",
+      "directors": [
+        "Genndy Tartakovsky"
+      ]
+    },
+    {
       "id": "rango",
       "category": "animation",
       "type": "movie",
@@ -758,6 +859,32 @@
       ]
     },
     {
+      "id": "the_lorax_2012",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Dr. Seuss' the Lorax",
+      "original_title": "Dr. Seuss' the Lorax",
+      "year": 2012,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 5.8,
+      "votes": 42321,
+      "tomatometer": 53,
+      "audience_score": 63,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/eWWyBn8q6uhOwQ8MbeD89WGsYWU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8869312_p_v7_bd.jpg",
+      "plot": "Twelve-year-old Ted (Zac Efron) lives in a place virtually devoid of nature; no flowers or trees grow in the town of Thneedville. Ted would very much like to win the heart of Audrey (Taylor Swift),…",
+      "directors": [
+        "Kyle Balda",
+        "Chris Renaud"
+      ]
+    },
+    {
       "id": "rise_of_the_guardians",
       "category": "fantasy",
       "type": "movie",
@@ -806,6 +933,32 @@
       "directors": [
         "Eric Darnell",
         "Tom McGrath"
+      ]
+    },
+    {
+      "id": "surfs_up",
+      "category": "animation",
+      "type": "movie",
+      "title": "Surf's Up",
+      "original_title": "Surf's Up",
+      "year": 2007,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 6.6,
+      "votes": 37365,
+      "tomatometer": 78,
+      "audience_score": 70,
+      "runtime_minutes": 85,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/XTM7iaaw1YTuIBOkrHBbSPLrG7Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159732_p_v12_aa.jpg",
+      "plot": "Surfing means everything to teenage penguin Cody Maverick. Followed by a documentary film crew, he leaves his home in Antarctica for Pen Gu Island, site of the Big Z Memorial Surf Off. Cody wants to…",
+      "directors": [
+        "Ash Brannon",
+        "Chris Buck"
       ]
     },
     {
@@ -859,6 +1012,55 @@
       "directors": [
         "Pierre Coffin",
         "Kyle Balda"
+      ]
+    },
+    {
+      "id": "1196077-cloudy_with_a_chance_of_meatballs",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Cloudy With a Chance of Meatballs",
+      "original_title": "Cloudy With a Chance of Meatballs",
+      "year": 2009,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 7.3,
+      "votes": 35442,
+      "tomatometer": 85,
+      "audience_score": 72,
+      "runtime_minutes": 90,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/fCqF98_e70hY-qy1IG0GB5vpor0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p197825_p_v8_ae.jpg",
+      "plot": "When hard times hit Swallow Falls, its townspeople can only afford to eat sardines. Flint Lockwood, a failed inventor, thinks he has the answer to the town's crisis. He builds a machine that converts…",
+      "directors": [
+        "Christopher Miller",
+        "Phil Lord"
+      ]
+    },
+    {
+      "id": "mr_poppers_penguins_2010",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Mr. Popper's Penguins",
+      "original_title": "Mr. Popper's Penguins",
+      "year": 2011,
+      "genres": [
+        "Kids & Family",
+        "Comedy"
+      ],
+      "rating": 5.1,
+      "votes": 34844,
+      "tomatometer": 47,
+      "audience_score": 53,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/P2ylvvTxeb6HytVkFM1PDVNfzao=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8506961_p_v8_ai.jpg",
+      "plot": "Mr. Popper (Jim Carrey) is a successful real estate developer in Manhattan. He lives in a posh apartment on Park Avenue, and is on the fast track to a partnership in a prestigious company. However,…",
+      "directors": [
+        "Mark Waters"
       ]
     },
     {
@@ -936,6 +1138,31 @@
       "plot": "Long before meeting Shrek, Puss in Boots, just named a hero for saving a woman from a charging bull, is run out of town on suspicion of bank robbery, even though the real villain is Puss' friend,…",
       "directors": [
         "Chris Miller"
+      ]
+    },
+    {
+      "id": "mummy_tomb_of_the_dragon_emperor",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "original_title": "The Mummy: Tomb of the Dragon Emperor",
+      "year": 2008,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 3.9,
+      "votes": 32470,
+      "tomatometer": 13,
+      "audience_score": 30,
+      "runtime_minutes": 112,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/qLR-27iOyKvT1umNH696beFatAg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176346_p_v8_ba.jpg",
+      "plot": "Cursed by a devious sorceress, China's ruthless Dragon Emperor (Jet Li) and his vast army lie buried in clay for millennia. When young archaeologist Alex O'Connell is tricked into reviving the…",
+      "directors": [
+        "Rob Cohen"
       ]
     },
     {
@@ -1079,7 +1306,7 @@
         "Animation"
       ],
       "rating": 7.3,
-      "votes": 30322,
+      "votes": 30323,
       "tomatometer": 90,
       "audience_score": 74,
       "runtime_minutes": 96,
@@ -1327,6 +1554,31 @@
       ]
     },
     {
+      "id": "bedtime_stories",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Bedtime Stories",
+      "original_title": "Bedtime Stories",
+      "year": 2008,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 4.4,
+      "votes": 21526,
+      "tomatometer": 27,
+      "audience_score": 55,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/yINa8opigrbcoh2ugAayK25fUpI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p171576_p_v13_aj.jpg",
+      "plot": "Hotel handyman Skeeter Bronson gets an unexpected surprise when he discovers that the tall tales he has been telling his niece and nephew are somehow coming true. Hoping to make the most of the…",
+      "directors": [
+        "Adam Shankman"
+      ]
+    },
+    {
       "id": "the_super_mario_bros_movie",
       "category": "animation",
       "type": "movie",
@@ -1350,6 +1602,31 @@
       "directors": [
         "Aaron Horvath",
         "Michael Jelenic"
+      ]
+    },
+    {
+      "id": "night_at_the_museum_secret_of_the_tomb",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Night at the Museum: Secret of the Tomb",
+      "original_title": "Night at the Museum: Secret of the Tomb",
+      "year": 2014,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 5.0,
+      "votes": 19615,
+      "tomatometer": 48,
+      "audience_score": 57,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/48bx9kNiE-s29BfG60yxTt6GPSA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10569975_p_v13_bh.jpg",
+      "plot": "When the exhibits at New York's Natural History Museum start behaving strangely, Larry Daley (Ben Stiller) -- now the director of nighttime operations -- must find out the cause. He learns that the…",
+      "directors": [
+        "Shawn Levy"
       ]
     },
     {
@@ -1454,6 +1731,32 @@
       ]
     },
     {
+      "id": "flushed_away",
+      "category": "animation",
+      "type": "movie",
+      "title": "Flushed Away",
+      "original_title": "Flushed Away",
+      "year": 2006,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 6.9,
+      "votes": 17536,
+      "tomatometer": 72,
+      "audience_score": 65,
+      "runtime_minutes": 85,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/wGfXrc0UFm9B23XtfucMyYd43qU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159728_p_v10_az.jpg",
+      "plot": "After an ignoble landing in Ratropolis, a pampered rodent (Hugh Jackman) enlists the help of a sewer scavenger (Kate Winslet) in finding his way back to his posh London flat. Getting home is not the…",
+      "directors": [
+        "David Bowers",
+        "Sam Fell"
+      ]
+    },
+    {
       "id": "coco_2017",
       "category": "animation",
       "type": "movie",
@@ -1477,6 +1780,31 @@
       "plot": "Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in…",
       "directors": [
         "Lee Unkrich"
+      ]
+    },
+    {
+      "id": "hotel_transylvania_2",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Hotel Transylvania 2",
+      "original_title": "Hotel Transylvania 2",
+      "year": 2015,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 5.3,
+      "votes": 17164,
+      "tomatometer": 57,
+      "audience_score": 64,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/BkxSzDvmbe_9_QtLO8-at8tzcls=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11591956_p_v11_aj.jpg",
+      "plot": "Now that Dracula has opened the Hotel Transylvania's doors to humans, things are changing for the better; however, Drac is secretly worried that his half-human grandson, Dennis, isn't showing his…",
+      "directors": [
+        "Genndy Tartakovsky"
       ]
     },
     {
@@ -1866,6 +2194,32 @@
       ]
     },
     {
+      "id": "monster_house",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Monster House",
+      "original_title": "Monster House",
+      "year": 2006,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "rating": 7.1,
+      "votes": 13034,
+      "tomatometer": 75,
+      "audience_score": 64,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/0trWw3G3XbrVsoNftpTOqQw0z_Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159533_p_v8_sf.jpg",
+      "plot": "No adults believe three youths' (Mitchel Musso, Spencer Locke, Sam Lerner) assertion that a neighboring residence is a living creature that means them harm. With Halloween approaching, the trio must…",
+      "directors": [
+        "Gil Kenan"
+      ]
+    },
+    {
       "id": "despicable_me_3",
       "category": "animation",
       "type": "movie",
@@ -1889,6 +2243,29 @@
       "directors": [
         "Pierre Coffin",
         "Kyle Balda"
+      ]
+    },
+    {
+      "id": "diary_of_a_wimpy_kid",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Diary of a Wimpy Kid",
+      "original_title": "Diary of a Wimpy Kid",
+      "year": 2010,
+      "genres": [
+        "Kids & Family",
+        "Comedy"
+      ],
+      "rating": 5.6,
+      "votes": 12386,
+      "tomatometer": 54,
+      "audience_score": 50,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/77qyIBOj8cz4-O6KM5ipGCsebdA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7876903_p_v8_ar.jpg",
+      "plot": "Middle school is not an enjoyable experience for preteen Greg Heffley (Zachary Gordon) but a horrid ordeal of social land-mines that he must bear. To do so, he devises schemes to win him the…",
+      "directors": [
+        "Thor Freudenthal"
       ]
     },
     {
@@ -2150,6 +2527,29 @@
       ]
     },
     {
+      "id": "alexander_and_the_terrible_horrible_no_good_very_bad_day",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+      "original_title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+      "year": 2014,
+      "genres": [
+        "Kids & Family",
+        "Comedy"
+      ],
+      "rating": 5.8,
+      "votes": 10471,
+      "tomatometer": 62,
+      "audience_score": 58,
+      "runtime_minutes": 81,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/htIHmM48Ie4VydetdVtWa9oOQuQ=/300x450/v2/https://resizing.flixster.com/hiMJs31LOnTD4Jc8pA8ZWnmvB88=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhZmJjM2RmLWNiMzQtNGRkYi04NTY5LWU4MzA1NmMxNDMwYS5qcGc=",
+      "plot": "An 11-year-old boy experiences the worst day of his young life but soon learns that he's not alone when other members of his family encounter their own calamities.",
+      "directors": [
+        "Miguel Arteta"
+      ]
+    },
+    {
       "id": "the_addams_family_2019",
       "category": "animation",
       "type": "movie",
@@ -2220,6 +2620,31 @@
       "plot": "It's summer, and Greg Heffley (Zachary Gordon) is looking forward to playing video games and spending time with his friends. However, Greg's dad (Steve Zahn) has other plans: He's decided that some…",
       "directors": [
         "David Bowers"
+      ]
+    },
+    {
+      "id": "spy_kids",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Spy Kids",
+      "original_title": "Spy Kids",
+      "year": 2001,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Action",
+        "Comedy"
+      ],
+      "rating": 7.2,
+      "votes": 9663,
+      "tomatometer": 92,
+      "audience_score": 47,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/3yNkKB2E8qb5MZL0QFL686OGtxI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27401_p_v8_aa.jpg",
+      "plot": "Two young kids become spies in attempt to save their parents, who are ex-spies, from an evil mastermind. Armed with a bag of high-tech gadgets and out-of-this world transportation, Carmen and Juni…",
+      "directors": [
+        "Robert Rodriguez"
       ]
     },
     {
@@ -2404,6 +2829,30 @@
       ]
     },
     {
+      "id": "yogi_bear_2010",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Yogi Bear",
+      "original_title": "Yogi Bear",
+      "year": 2010,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 3.7,
+      "votes": 8090,
+      "tomatometer": 13,
+      "audience_score": 34,
+      "runtime_minutes": 80,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/5Wlbt6P86T8G2E-7jykJmDIot3A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8160376_p_v10_ad.jpg",
+      "plot": "Yogi and his sidekick, Boo Boo, are Jellystone Park's most-notorious troublemakers, hatching countless schemes to separate park visitors from their vittles. Standing in the way of picnic perfection…",
+      "directors": [
+        "Eric Brevig"
+      ]
+    },
+    {
       "id": "abominable",
       "category": "animation",
       "type": "movie",
@@ -2429,6 +2878,30 @@
       ]
     },
     {
+      "id": "underdog",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Underdog",
+      "original_title": "Underdog",
+      "year": 2007,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 4.3,
+      "votes": 7845,
+      "tomatometer": 15,
+      "audience_score": 42,
+      "runtime_minutes": 80,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/kRDSeqh4qKfLjZR8vti-cmSoBRQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166314_p_v8_aj.jpg",
+      "plot": "After a lab accident gives him extraordinary powers, including the ability to speak, a canine declares himself the protector of Capitol City and, especially, of a fetching spaniel named Polly…",
+      "directors": [
+        "Frederik Du Chau"
+      ]
+    },
+    {
       "id": "10008587-beverly_hills_chihuahua",
       "category": "comedy",
       "type": "movie",
@@ -2450,6 +2923,31 @@
       "plot": "Chloe, a pampered Chihuahua from Beverly Hills, gets an unwelcome taste of the real world when she gets lost in a tough part of Mexico. With no Rodeo Drive boutiques in sight, she is out of her…",
       "directors": [
         "Raja Gosnell"
+      ]
+    },
+    {
+      "id": "turning_red",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Turning Red",
+      "original_title": "Turning Red",
+      "year": 2024,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 8.1,
+      "votes": 7697,
+      "tomatometer": 95,
+      "audience_score": 67,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/yd8iML51Zs5GsAuPmPvMXXNEOjg=/300x450/v2/https://resizing.flixster.com/gT6NcfmUJNbiOz3gPUByxps_FcM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM0YWFlNzMzLWViMDAtNDAyZi1iY2RmLWMzNzkxNzUzMzA0Yi5qcGc=",
+      "plot": "In \"Turning Red\", Mei Lee is a confident, dorky thirteen-year-old torn between staying her mother's dutiful daughter and the chaos of adolescence. And as if changes to her interests, relationships,…",
+      "directors": [
+        "Domee Shi"
       ]
     },
     {
@@ -2652,6 +3150,30 @@
       ]
     },
     {
+      "id": "scooby_doo_2_monsters_unleashed",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Scooby-Doo 2: Monsters Unleashed",
+      "original_title": "Scooby-Doo 2: Monsters Unleashed",
+      "year": 2004,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 4.5,
+      "votes": 6368,
+      "tomatometer": 22,
+      "audience_score": 42,
+      "runtime_minutes": 93,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/lm1eWAybuVLGCpeH853LcIe7ASA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34184_p_v10_ad.jpg",
+      "plot": "In this live-action sequel, the lovable dog Scooby-Doo once again joins his pals Shaggy (Matthew Lillard), Velma (Linda Cardellini), Fred (Freddie Prinze Jr.) and Daphne (Sarah Michelle Gellar) as…",
+      "directors": [
+        "Raja Gosnell"
+      ]
+    },
+    {
       "id": "despicable_me_4",
       "category": "animation",
       "type": "movie",
@@ -2726,6 +3248,31 @@
       ]
     },
     {
+      "id": "mary_poppins_returns",
+      "category": "musical",
+      "type": "movie",
+      "title": "Mary Poppins Returns",
+      "original_title": "Mary Poppins Returns",
+      "year": 2018,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 7.3,
+      "votes": 5541,
+      "tomatometer": 80,
+      "audience_score": 65,
+      "runtime_minutes": 130,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/c9AEFDa5GGVGBqqG9-DNx2mNZt0=/300x450/v2/https://resizing.flixster.com/FZhyoXPA82SaYNVJappOOmStaLo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdjNmUxNjBiLThiZTQtNDg3MC1hZjU3LTAzNWM1MmZjNDg5Ni53ZWJw",
+      "plot": "Now an adult with three children, bank teller Michael Banks learns that his house will be repossessed in five days unless he can pay back a loan. His only hope is to find a missing certificate that…",
+      "directors": [
+        "Rob Marshall"
+      ]
+    },
+    {
       "id": "lightyear",
       "category": "sci-fi",
       "type": "movie",
@@ -2750,6 +3297,32 @@
       "plot": "Legendary space ranger Buzz Lightyear embarks on an intergalactic adventure alongside ambitious recruits Izzy, Mo, Darby, and his robot companion, Sox. As this motley crew tackles their toughest…",
       "directors": [
         "Angus MacLane"
+      ]
+    },
+    {
+      "id": "spy_kids_2_island_of_lost_dreams",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Spy Kids 2: The Island of Lost Dreams",
+      "original_title": "Spy Kids 2: The Island of Lost Dreams",
+      "year": 2002,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 6.8,
+      "votes": 5396,
+      "tomatometer": 75,
+      "audience_score": 40,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/IEdMqGY-urq9QGkLodOnYmSBbW8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30365_p_v8_ai.jpg",
+      "plot": "Now full-fledged Spy Kids, Carmen (Alexa Vega) and Juni (Daryl Sabara) Cortez are back for another James Bond-style adventure. Their newest mission takes them to a distant island where they take on a…",
+      "directors": [
+        "Robert Rodriguez"
       ]
     },
     {
@@ -2829,6 +3402,32 @@
       ]
     },
     {
+      "id": "walking_with_dinosaurs_3d",
+      "category": "animation",
+      "type": "movie",
+      "title": "Walking With Dinosaurs",
+      "original_title": "Walking With Dinosaurs",
+      "year": 2013,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "rating": 4.4,
+      "votes": 5238,
+      "tomatometer": 23,
+      "audience_score": 41,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/txbrcDBH2JW4SPAX2aCA-zl4S98=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10029449_p_v10_ag.jpg",
+      "plot": "During the Cretaceous Period, a dinosaur named Patchi hatches among a herd of Pachyrhinosaurus. Patchi's runt status means he must use his wits rather than strength to compete for food with his…",
+      "directors": [
+        "Barry Cook",
+        "Neil Nightingale"
+      ]
+    },
+    {
       "id": "puss_in_boots_the_last_wish",
       "category": "animation",
       "type": "movie",
@@ -2851,6 +3450,79 @@
       "plot": "This fall, everyone's favorite leche-loving, swashbuckling, fear-defying feline returns. For the first time in more than a decade, DreamWorks Animation presents a new adventure in the Shrek universe…",
       "directors": [
         "Joel Crawford"
+      ]
+    },
+    {
+      "id": "marmaduke",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Marmaduke",
+      "original_title": "Marmaduke",
+      "year": 2010,
+      "genres": [
+        "Kids & Family",
+        "Comedy"
+      ],
+      "rating": 3.4,
+      "votes": 5196,
+      "tomatometer": 9,
+      "audience_score": 42,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/mUpFnr0wQYW1QZR0NjudG9H5BTc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7938879_p_v12_ay.jpg",
+      "plot": "With the help of his best feline friend, a lovable Great Dane named Marmaduke (Owen Wilson) helps his family (Lee Pace, Judy Greer) adjust to their new lives in Orange County, California. Although he…",
+      "directors": [
+        "Tom Dey"
+      ]
+    },
+    {
+      "id": "garfield_2",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Garfield: A Tail of Two Kitties",
+      "original_title": "Garfield: A Tail of Two Kitties",
+      "year": 2006,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 3.7,
+      "votes": 5112,
+      "tomatometer": 12,
+      "audience_score": 43,
+      "runtime_minutes": 78,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/guu8qYHm06i4QeH01ikzWz96_88=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159746_p_v10_aj.jpg",
+      "plot": "Garfield (Bill Murray) follows Jon (Breckin Meyer) to England and receives the royal treatment after he is mistaken for the heir to a grand castle. However, the feline will need all nine lives to…",
+      "directors": [
+        "Tim Hill"
+      ]
+    },
+    {
+      "id": "tuxedo",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "The Tuxedo",
+      "original_title": "The Tuxedo",
+      "year": 2002,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Action",
+        "Adventure",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.6,
+      "votes": 5104,
+      "tomatometer": 22,
+      "audience_score": 30,
+      "runtime_minutes": 98,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/mfNzP1RrR62mJunKu9whDsspd04=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29966_p_v8_ae.jpg",
+      "plot": "Cabbie-turned-chauffeur Jimmy Tong (Jackie Chan) learns there is really only one rule when you work for playboy millionaire Clark Devlin (Jason Isaacs) : Never touch Devlin's prized tuxedo. But when…",
+      "directors": [
+        "Kevin Donovan"
       ]
     },
     {
@@ -2877,6 +3549,31 @@
       "plot": "Milo is a 9-year-old boy who has a lot on his mind; he has monster movies to watch, comic books to read and all other kinds of fun stuff to accomplish. He definitely does not have time to do homework…",
       "directors": [
         "Simon Wells"
+      ]
+    },
+    {
+      "id": "elemental_2023",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Elemental",
+      "original_title": "Elemental",
+      "year": 2023,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 6.5,
+      "votes": 4525,
+      "tomatometer": 73,
+      "audience_score": 93,
+      "runtime_minutes": 101,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ucvneKhE3lH5Ihi6r6cHAAHnRic=/300x450/v2/https://resizing.flixster.com/kmkTLPAkXjM-kMOWBPfyvL6fObc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhYzM1NDQ2LWM4YzItNGM3YS05NjQ1LWY3NTQwMGVmYTllNi5qcGc=",
+      "plot": "Disney and Pixar's \"Elemental,\" an all-new, original feature film set in Element City, where fire-, water-, land- and air-residents live together. The story introduces Ember, a tough, quick-witted…",
+      "directors": [
+        "Peter Sohn"
       ]
     },
     {
@@ -2919,7 +3616,7 @@
         "Adventure"
       ],
       "rating": 3.7,
-      "votes": 4498,
+      "votes": 4499,
       "tomatometer": 16,
       "audience_score": 51,
       "runtime_minutes": 86,
@@ -2928,6 +3625,81 @@
       "plot": "Music manager Dave is not only enjoying a burgeoning career, but a blossoming romance with Samantha, a beautiful doctor who works in the emergency room. Through a series of misunderstandings, the…",
       "directors": [
         "Walt Becker"
+      ]
+    },
+    {
+      "id": "alpha_and_omega",
+      "category": "animation",
+      "type": "movie",
+      "title": "Alpha and Omega",
+      "original_title": "Alpha and Omega",
+      "year": 2010,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "rating": 4.2,
+      "votes": 4425,
+      "tomatometer": 20,
+      "audience_score": 42,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Dg86JRh3ChxZadHwPlAEmshjEQg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8078146_p_v10_ai.jpg",
+      "plot": "After park rangers capture and ship them halfway across the country, omega wolf Humphrey (Justin Long) and alpha wolf Kate (Hayden Panettiere) find themselves on a rocky road trip. Humphrey is all…",
+      "directors": [
+        "Anthony Bell",
+        "Ben Gluck"
+      ]
+    },
+    {
+      "id": "luca_2021",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Luca",
+      "original_title": "Luca",
+      "year": 2024,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 7.3,
+      "votes": 4392,
+      "tomatometer": 91,
+      "audience_score": 85,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/YIbz4T9HH5M46W3dr_EGdwKB_lg=/300x450/v2/https://resizing.flixster.com/Trl9kKeYzcukyshrbYNwM9vHF74=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwYWZjYmFmLTlkN2QtNDZmZC1hOWRlLWRiYjVhYmFmOGU3ZC5qcGc=",
+      "plot": "Set in a beautiful seaside town on the Italian Riviera, Disney and Pixar's original feature film \"Luca\" is a coming-of-age story about one young boy experiencing an unforgettable summer filled with…",
+      "directors": [
+        "Enrico Casarosa"
+      ]
+    },
+    {
+      "id": "10009636-igor",
+      "category": "animation",
+      "type": "movie",
+      "title": "Igor",
+      "original_title": "Igor",
+      "year": 2008,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Animation"
+      ],
+      "rating": 5.1,
+      "votes": 4226,
+      "tomatometer": 40,
+      "audience_score": 38,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/7LuEfjbwC2x4tO6uw7-cVQXae-4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p170624_p_v13_ad.jpg",
+      "plot": "Lab assistant Igor dreams of becoming a mad scientist like his master, Dr. Glickenstein. When the doctor runs afoul of his own invention, Igor seizes the chance. With the help of his friends Scamper…",
+      "directors": [
+        "Anthony Leondis"
       ]
     },
     {
@@ -2953,6 +3725,29 @@
       "plot": "Christopher Robin -- now a family man living in London -- receives a surprise visit from his old childhood pal, Winnie-the-Pooh. With Christopher's help, Pooh embarks on a journey to find his friends…",
       "directors": [
         "Marc Forster"
+      ]
+    },
+    {
+      "id": "shaggy_dog",
+      "category": "comedy",
+      "type": "movie",
+      "title": "The Shaggy Dog",
+      "original_title": "The Shaggy Dog",
+      "year": 2006,
+      "genres": [
+        "Kids & Family",
+        "Comedy"
+      ],
+      "rating": 4.5,
+      "votes": 4109,
+      "tomatometer": 25,
+      "audience_score": 39,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/JowxH8LvJMrs2jHNWWIHIzRN6u8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159394_p_v8_ak.jpg",
+      "plot": "Deputy District Attorney Dave Douglas (Tim Allen) is a workaholic and frequently puts his job before his family. After taking on a case involving an animal laboratory, he becomes infected with a…",
+      "directors": [
+        "Brian Robbins"
       ]
     },
     {
@@ -3003,6 +3798,30 @@
       "plot": "In this witty, new breed of mystery, George (Hugh Jackman) is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious…",
       "directors": [
         "Kyle Balda"
+      ]
+    },
+    {
+      "id": "cats_and_dogs_the_revenge_of_kitty_galore",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Cats & Dogs: The Revenge of Kitty Galore",
+      "original_title": "Cats & Dogs: The Revenge of Kitty Galore",
+      "year": 2010,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 3.8,
+      "votes": 3804,
+      "tomatometer": 13,
+      "audience_score": 38,
+      "runtime_minutes": 82,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ymuQu0yxKctiqCEAzT7aY_OdmPE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7995627_p_v8_am.jpg",
+      "plot": "In the age-old battle between felines and canines, one rogue kitty is stepping up the fight. Kitty Galore, former operative for MEOWS, is executing a diabolical plan against her sworn enemies, the…",
+      "directors": [
+        "Brad Peyton"
       ]
     },
     {
@@ -3083,6 +3902,32 @@
       "plot": "In the new action comedy from DreamWorks Animation, based on the New York Times best-selling book series, a crackerjack criminal crew of animal outlaws are about to attempt their most challenging con…",
       "directors": [
         "Pierre Perifel"
+      ]
+    },
+    {
+      "id": "sinbad_legend_of_the_seven_seas",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Sinbad: Legend of the Seven Seas",
+      "original_title": "Sinbad: Legend of the Seven Seas",
+      "year": 2003,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 5.6,
+      "votes": 3330,
+      "tomatometer": 44,
+      "audience_score": 57,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/gFmlSxWjaz55uqj9Uu1g4GkIGRs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32276_p_v10_aq.jpg",
+      "plot": "The adventurous sailor (Brad Pitt) and a beautiful stowaway (Catherine Zeta-Jones) have 10 days to save a prince from execution.",
+      "directors": [
+        "Patrick Gilmore",
+        "Tim Johnson"
       ]
     },
     {
@@ -3191,6 +4036,30 @@
       "plot": "Best friends Smurfette (Demi Lovato), Brainy (Danny Pudi), Clumsy (Jack McBrayer) and Hefty (Joe Manganiello) use a special map that guides them through the Forbidden Forest, an enchanted wonderland…",
       "directors": [
         "Kelly Asbury"
+      ]
+    },
+    {
+      "id": "snow_dogs",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Snow Dogs",
+      "original_title": "Snow Dogs",
+      "year": 2002,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 4.0,
+      "votes": 3165,
+      "tomatometer": 26,
+      "audience_score": 40,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/_dhSm2WAw4XDW6WD58ZKVNAQ05s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29211_p_v10_ac.jpg",
+      "plot": "When Miami dentist Ted Brooks (Cuba Gooding Jr.) finds out that he's been named in a will, he travels to Alaska to claim his inheritance. Once he gets there, however, his dreams turn to mush: he…",
+      "directors": [
+        "Brian Levant"
       ]
     },
     {
@@ -3321,6 +4190,57 @@
       ]
     },
     {
+      "id": "zoom_2006",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Zoom",
+      "original_title": "Zoom",
+      "year": 2006,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 3.2,
+      "votes": 2529,
+      "tomatometer": 5,
+      "audience_score": 34,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/8taMmSojVSAfMZpF4IctTOWXlKU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159751_p_v8_aa.jpg",
+      "plot": "Capt. Zoom, or Jack (Tim Allen), as he is now known, has long since given up his career of fighting evil and protecting the defenseless. The former superhero gets back into the game when he takes a…",
+      "directors": [
+        "Peter Hewitt"
+      ]
+    },
+    {
+      "id": "hotel_transylvania_3_summer_vacation",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Hotel Transylvania 3: Summer Vacation",
+      "original_title": "Hotel Transylvania 3: Summer Vacation",
+      "year": 2018,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 5.5,
+      "votes": 2341,
+      "tomatometer": 63,
+      "audience_score": 49,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/IYbr49Spip9dkMatMcvFJkqOBGA=/300x450/v2/https://resizing.flixster.com/ukEY_pisnz6bif5zm8vK0y3GjfY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VmOGJlZDRiLTM0YjMtNDFjMS1iNTA5LWFmNzQ4ZTVmNzlhNy53ZWJw",
+      "plot": "While embarking on a luxury cruise with his monstrous pack, Dracula finds himself unexpectedly captivated by a mysterious and dangerous woman, leading to unforeseen complications.",
+      "directors": [
+        "Genndy Tartakovsky"
+      ]
+    },
+    {
       "id": "teen_titans_go_to_the_movies",
       "category": "animation",
       "type": "movie",
@@ -3369,6 +4289,32 @@
       "plot": "Roy Eberhardt (Logan Lerman) has moved so often he has lost track of how many times he has changed schools. After moving from Montana to Florida's Gulf Coast, he befriends Beatrice (Brie Larson) and…",
       "directors": [
         "Wil Shriner"
+      ]
+    },
+    {
+      "id": "my_little_pony_the_movie_2017",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "My Little Pony: The Movie",
+      "original_title": "My Little Pony: The Movie",
+      "year": 2017,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 5.2,
+      "votes": 2256,
+      "tomatometer": 49,
+      "audience_score": 76,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/8r3ftPNRbIfOzuucyASpNN3_Fjo=/300x450/v2/https://resizing.flixster.com/JCR2hn71vk5zYEklJ-Rk5airXVo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ2NGZhNGQyLThlOTAtNDM2OS04ZmJjLWJiZDlhZWZmODM2Ny53ZWJw",
+      "plot": "Twilight Sparkle, Applejack, Rainbow Dash, Pinkie Pie, Fluttershy and Rarity embark on an epic journey to save Ponyville from a dark force. Along the way, the Mane 6 meet new friends and face…",
+      "directors": [
+        "Jayson Thiessen"
       ]
     },
     {
@@ -3548,6 +4494,30 @@
       ]
     },
     {
+      "id": "paddington_in_peru",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Paddington in Peru",
+      "original_title": "Paddington in Peru",
+      "year": 2025,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 7.0,
+      "votes": 1718,
+      "tomatometer": 93,
+      "audience_score": 90,
+      "runtime_minutes": 106,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/gGLjbfmdz57v6RGhlGjZvbkHRDM=/300x450/v2/https://resizing.flixster.com/3TG8vI6JfSi8aKB1HFQfGAFiZIM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IzYTFmMGE4LWZmODQtNDYxOS1hYjI3LTY5MDk2MzExZmYzYS5qcGc=",
+      "plot": "When Paddington discovers his beloved aunt has gone missing from the Home for Retired Bears, he and the Brown family head to the jungles of Peru to find her. Determined to solve the mystery, they…",
+      "directors": [
+        "Dougal Wilson"
+      ]
+    },
+    {
       "id": "trolls_world_tour",
       "category": "musical",
       "type": "movie",
@@ -3622,6 +4592,58 @@
       "plot": "Migo is a friendly Yeti whose world gets turned upside down when he discovers something that he didn't know existed -- a human. He soon faces banishment from his snowy home when the rest of the…",
       "directors": [
         "Karey Kirkpatrick"
+      ]
+    },
+    {
+      "id": "leap",
+      "category": "animation",
+      "type": "movie",
+      "title": "Leap!",
+      "original_title": "Leap!",
+      "year": 2017,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 5.1,
+      "votes": 1669,
+      "tomatometer": 53,
+      "audience_score": 63,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/sGRUYYes0TkqvNlu14ZAkVpkAJs=/300x450/v2/https://resizing.flixster.com/_Pg30jKV5jli2qp77e2E3jMwh1I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0ZjU4NTdkLTEzZTgtNGI1MC1hMzdjLTUzNTdkYTE3ZGE0MS53ZWJw",
+      "plot": "Best friends Félicie and Victor hatch a plan to escape from their rural orphanage in 19th-century France. Félicie dreams of becoming a ballerina, while Victor wants to use his brainpower to invent…",
+      "directors": [
+        "Eric Summer",
+        "Éric Warin"
+      ]
+    },
+    {
+      "id": "thunderbirds",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Thunderbirds",
+      "original_title": "Thunderbirds",
+      "year": 2004,
+      "genres": [
+        "Kids & Family",
+        "Sci-Fi",
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 4.3,
+      "votes": 1659,
+      "tomatometer": 18,
+      "audience_score": 37,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/JyQ8UCF0nbPydbP1Y4215pFOhjU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34670_p_v10_aa.jpg",
+      "plot": "Former astronaut Jeff Tracy (Bill Paxton) runs International Rescue, a top-secret heroic organization, from his headquarters on Tracy Island. The island also houses the futuristic vehicles created by…",
+      "directors": [
+        "Jonathan Frakes"
       ]
     },
     {
@@ -3799,6 +4821,32 @@
       ]
     },
     {
+      "id": "the_addams_family_2",
+      "category": "animation",
+      "type": "movie",
+      "title": "The Addams Family 2",
+      "original_title": "The Addams Family 2",
+      "year": 2021,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 4.6,
+      "votes": 1384,
+      "tomatometer": 28,
+      "audience_score": 69,
+      "runtime_minutes": 93,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Rq41ZLnthW213XnefBRT86aLNEM=/300x450/v2/https://resizing.flixster.com/CLngEppqQ9fc4Koz5pzjdNAR5Fg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwYTEzY2RkLTUwZjQtNGQyYS04Y2YyLTM1N2VkOWRhNGMxZS5qcGc=",
+      "plot": "Everyone's favorite spooky family is back in the animated comedy sequel, The Addams Family 2. In this all new movie we find Morticia and Gomez distraught that their children are growing up, skipping…",
+      "directors": [
+        "Greg Tiernan",
+        "Conrad Vernon"
+      ]
+    },
+    {
       "id": "wish_2023",
       "category": "musical",
       "type": "movie",
@@ -3824,6 +4872,81 @@
       "directors": [
         "Chris Buck",
         "Fawn Veerasunthorn"
+      ]
+    },
+    {
+      "id": "judy_moody_and_the_not_bummer_summer",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Judy Moody and the NOT Bummer Summer",
+      "original_title": "Judy Moody and the NOT Bummer Summer",
+      "year": 2011,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 4.3,
+      "votes": 1311,
+      "tomatometer": 22,
+      "audience_score": 41,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/dbzU7KMO-dfCFbp3NcitoWeR73o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8531946_p_v10_an.jpg",
+      "plot": "Judy (Jordana Beatty) has planned the most awesome summer ever and can't wait to have adventures with her best friends, Rocky and Amy. Then she finds out that Rocky is off to tame lions and that Amy…",
+      "directors": [
+        "John Schultz"
+      ]
+    },
+    {
+      "id": "the_sea_beast",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Sea Beast",
+      "original_title": "The Sea Beast",
+      "year": 2022,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "rating": 7.7,
+      "votes": 1287,
+      "tomatometer": 94,
+      "audience_score": 83,
+      "runtime_minutes": 115,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/4sNl-KPRRI3ywy0sUAVcTLQH0fs=/300x450/v2/https://resizing.flixster.com/dxXYQUJUfLgPQOvKaL_-9cTw548=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EyYzIxMTgzLTQwNDMtNDE3My04ODRmLTM4OWIwNmRkNDJmOS5qcGc=",
+      "plot": "In an era when terrifying beasts roamed the seas, monster hunters were celebrated heroes -- and none were more beloved than the great Jacob Holland. But when young Maisie Brumble stows away on his…",
+      "directors": [
+        "Chris Williams"
+      ]
+    },
+    {
+      "id": "hey_arnold_the_movie",
+      "category": "animation",
+      "type": "movie",
+      "title": "Hey Arnold! The Movie",
+      "original_title": "Hey Arnold! The Movie",
+      "year": 2002,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 4.6,
+      "votes": 1261,
+      "tomatometer": 29,
+      "audience_score": 37,
+      "runtime_minutes": 77,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/wcDFNnfxRjD5LY3dgrnpNcXGO1k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30102_p_v10_ak.jpg",
+      "plot": "Arnold (Spencer Klein) and his pal, Gerald (Jamil Walker Smith), learn their beloved neighborhood is about to be torn down by a greedy developer named Scheck (Paul Sorvino) to build a mall. While the…",
+      "directors": [
+        "Tuck Tucker"
       ]
     },
     {
@@ -3980,923 +5103,6 @@
       "directors": [
         "Cathy Malkasian",
         "Jeff McGrath"
-      ]
-    },
-    {
-      "id": "strange_world",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Strange World",
-      "original_title": "Strange World",
-      "year": 2022,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation",
-        "Action"
-      ],
-      "rating": 6.3,
-      "votes": 1018,
-      "tomatometer": 72,
-      "audience_score": 66,
-      "runtime_minutes": 105,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/4rUnsIs1nBjxZ7rCMmA86X0XU_8=/300x450/v2/https://resizing.flixster.com/2xMkNqbnCcVFU3sEAhAblUFRJa8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5ZjM1MDZlLWU4ZWEtNDRjMi05Y2ViLTk4ZmY1YmQ3NjU2MS5qcGc=",
-      "plot": "Walt Disney Animation Studios' original action-packed adventure \"Strange World\" introduces a legendary family of explorers, the Clades, as they attempt to navigate an uncharted, treacherous land…",
-      "directors": [
-        "Don Hall",
-        "Qui Nguyen"
-      ]
-    },
-    {
-      "id": "hotel_transylvania_transformania",
-      "category": "animation",
-      "type": "movie",
-      "title": "Hotel Transylvania: Transformania",
-      "original_title": "Hotel Transylvania: Transformania",
-      "year": 2022,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 5.1,
-      "votes": 978,
-      "tomatometer": 47,
-      "audience_score": 41,
-      "runtime_minutes": 88,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/CSjt9ge8j7Tftn4phQ3A4c77zLY=/300x450/v2/https://resizing.flixster.com/MmTEknBwJmcyxtpacsblVOAVDzw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiNDRiYTZhLWVmZTQtNDJjYi1hMGE4LWY0ZDUyM2RmZWNkYS5qcGc=",
-      "plot": "Drac and the pack are back, like you've never seen them before in Hotel Transylvania: Transformania. Reunite with your favorite monsters for an all-new adventure that presents Drac with his most…",
-      "directors": [
-        "Derek Drymon",
-        "Jennifer Kluska"
-      ]
-    },
-    {
-      "id": "lady_and_the_tramp_2019",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Lady and the Tramp",
-      "original_title": "Lady and the Tramp",
-      "year": 2019,
-      "genres": [
-        "Kids & Family",
-        "Adventure",
-        "Comedy"
-      ],
-      "rating": 5.9,
-      "votes": 974,
-      "tomatometer": 67,
-      "audience_score": 49,
-      "runtime_minutes": 103,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/dy1VzBaXpNzO1lazYffJDndXPCQ=/300x450/v2/https://resizing.flixster.com/OILQb8ys6EYeS4T4IdGJopkTJiw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzODM3MTUzLTc1NTYtNGZkYi1hMDQwLTU5ZjI2OTEyOTcyMC53ZWJw",
-      "plot": "In this heartwarming romantic adventure, a timeless re-telling of the 1955 animated classic, Lady, an overachieving, pampered American Cocker Spaniel house dog and Tramp, a tough but lovable,…",
-      "directors": [
-        "Charlie Bean"
-      ]
-    },
-    {
-      "id": "rons_gone_wrong",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Ron's Gone Wrong",
-      "original_title": "Ron's Gone Wrong",
-      "year": 2021,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Sci-Fi",
-        "Animation"
-      ],
-      "rating": 6.7,
-      "votes": 948,
-      "tomatometer": 82,
-      "audience_score": 94,
-      "runtime_minutes": 107,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/4F-QJ4fYQlmQdON35peQh7rD1cQ=/300x450/v2/https://resizing.flixster.com/N0zF9nqtGqnmfU2neAd2O6pAxd0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5MjA2YmU1LTU1MTAtNGRiOS1iZDJiLTQ0ZDkzZmVhZDliNS5qcGc=",
-      "plot": "Twentieth Century Studios and Locksmith Animation's \"Ron's Gone Wrong\" is the story of Barney, a socially awkward middle-schooler and Ron, his new walking, talking, digitally-connected device, which…",
-      "directors": [
-        "Sarah Smith",
-        "Jean-Philippe Vine"
-      ]
-    },
-    {
-      "id": "the_day_the_earth_blew_up_a_looney_tunes_movie",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
-      "original_title": "The Day the Earth Blew Up: A Looney Tunes Movie",
-      "year": 2025,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Sci-Fi",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 7.1,
-      "votes": 867,
-      "tomatometer": 86,
-      "audience_score": 88,
-      "runtime_minutes": 91,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/RNLr_IMW45Ozey5G92yJDl-wEKc=/300x450/v2/https://resizing.flixster.com/ebQYkHQ9qdemkPlkrcAeaLqBZX4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FiNGQ0NGU3LTU0Y2QtNDYzZi1hOTQ3LTdjMzVjMzM4YmYxYS5qcGc=",
-      "plot": "That's not all folks!  Porky Pig and Daffy Duck, one of the greatest comedic duos in history, are making their hilarious return to the big screen in the sci-fi comedy adventure, THE DAY THE EARTH…",
-      "directors": [
-        "Peter Browngardt"
-      ]
-    },
-    {
-      "id": "paw_patrol_the_mighty_movie",
-      "category": "animation",
-      "type": "movie",
-      "title": "PAW Patrol: The Mighty Movie",
-      "original_title": "PAW Patrol: The Mighty Movie",
-      "year": 2023,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 5.9,
-      "votes": 860,
-      "tomatometer": 71,
-      "audience_score": 93,
-      "runtime_minutes": 88,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/kPJbvKDGRfoPFpbH57gTRn5pRzU=/300x450/v2/https://resizing.flixster.com/yZLRkBZluopPFp8CdRcj-z6__hg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkZWQwZGVjLWFkZDUtNDY4Ni1hNzU3LWQ4ZTJjMTYzMTExZC5qcGc=",
-      "plot": "When a magical meteor crash lands in Adventure City, it gives the PAW Patrol pups superpowers, transforming them into The MIGHTY PUPS! For Skye, the smallest member of the team, her new powers are a…",
-      "directors": [
-        "Cal Brunker"
-      ]
-    },
-    {
-      "id": "the_nut_job_2_nutty_by_nature",
-      "category": "animation",
-      "type": "movie",
-      "title": "The Nut Job 2: Nutty by Nature",
-      "original_title": "The Nut Job 2: Nutty by Nature",
-      "year": 2017,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 4.0,
-      "votes": 855,
-      "tomatometer": 15,
-      "audience_score": 44,
-      "runtime_minutes": 91,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/Yvao4FQhTW2yW1K4sVOVTckDRU4=/300x450/v2/https://resizing.flixster.com/bLcHJfnSg2ywu-HjB3Ob-1Q_v3U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA2NzNlZGFlLWFiZjUtNDM1MC05NzU4LTg0MzM2M2FjM2YxYS53ZWJw",
-      "plot": "Surly the squirrel and his animal friends find out that the corrupt mayor of Oakton plans to bulldoze their beloved Liberty Park to make way for an amusement park. Hoping to save the place they call…",
-      "directors": [
-        "Cal Brunker"
-      ]
-    },
-    {
-      "id": "wonder_park",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Wonder Park",
-      "original_title": "Wonder Park",
-      "year": 2019,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 4.8,
-      "votes": 832,
-      "tomatometer": 35,
-      "audience_score": 43,
-      "runtime_minutes": 85,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/Y_YkGFhReFP2tL-ecHdlmRHsJWk=/300x450/v2/https://resizing.flixster.com/uXetQWGLOFlpmZgQr39A6s7gX2w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MzNzMwMWUzLTg2ZDctNGZjMi1iNDk5LTc2NGMwMzhjYjgyMS53ZWJw",
-      "plot": "A young girl named June with a big imagination makes a discovery, an amusement park filled with wild rides and fun-loving animals. But when trouble hits, June and her misfit furry friends begin a…",
-      "directors": [
-        "Dylan C. Brown"
-      ]
-    },
-    {
-      "id": "the_star_2017",
-      "category": "animation",
-      "type": "movie",
-      "title": "The Star",
-      "original_title": "The Star",
-      "year": 2017,
-      "genres": [
-        "Kids & Family",
-        "Holiday",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 5.0,
-      "votes": 816,
-      "tomatometer": 46,
-      "audience_score": 71,
-      "runtime_minutes": 86,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/YRAfNZalp_xCykL84n11U2CE9hw=/300x450/v2/https://resizing.flixster.com/E2sZKDisDuTJVyTK4GEP-K3xbaY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzljYTE0Nzc1LTU5MDYtNDA5OC1iZTNjLTFjYzE4YjQ0MmQ3Ny53ZWJw",
-      "plot": "A small but brave donkey named Bo yearns for a life beyond his daily grind at the village mill. One day, he finds the courage to break free, embarking on the adventure of his dreams. On his journey,…",
-      "directors": [
-        "Timothy Reckart"
-      ]
-    },
-    {
-      "id": "sherlock_gnomes",
-      "category": "animation",
-      "type": "movie",
-      "title": "Sherlock Gnomes",
-      "original_title": "Sherlock Gnomes",
-      "year": 2018,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Mystery & Thriller",
-        "Animation"
-      ],
-      "rating": 4.5,
-      "votes": 740,
-      "tomatometer": 28,
-      "audience_score": 36,
-      "runtime_minutes": 86,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/7Mm6Z4T3BU2i8NCzkJPQ5NRpI4M=/300x450/v2/https://resizing.flixster.com/u0rtzNdxa1knaX6B_D56QHF32Z8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkM2MwMGU2LTM5OGUtNDlhYS04ZDBlLTAzNWU2Mjg1N2FlOS53ZWJw",
-      "plot": "When Gnomeo and Juliet first arrive in London with their friends and family, their biggest concern is getting a new garden ready for spring. When everyone in the garden suddenly goes missing --…",
-      "directors": [
-        "John Stevenson"
-      ]
-    },
-    {
-      "id": "rock_dog",
-      "category": "animation",
-      "type": "movie",
-      "title": "Rock Dog",
-      "original_title": "Rock Dog",
-      "year": 2017,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Music",
-        "Animation"
-      ],
-      "rating": 5.3,
-      "votes": 687,
-      "tomatometer": 47,
-      "audience_score": 48,
-      "runtime_minutes": 90,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/8rYtoq8JLKzQDdo0swSwVN6RBdc=/300x450/v2/https://resizing.flixster.com/DDMb2vNV6EB4-2PpPpsVR-d7nhM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RjNTA1MGU4LWYxZGQtNDJmOC04YTcyLWE0NDA3NmQ3ZjE0MC53ZWJw",
-      "plot": "For the Tibetan mastiffs on Snow Mountain, a dog's life has a simple riff -- guard a peaceful village of sheep from the thuggish wolf Linnux and his rabid pack. To avoid distractions, mastiff leader…",
-      "directors": [
-        "Ash Brannon"
-      ]
-    },
-    {
-      "id": "harold_and_the_purple_crayon",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Harold and the Purple Crayon",
-      "original_title": "Harold and the Purple Crayon",
-      "year": 2024,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 4.3,
-      "votes": 654,
-      "tomatometer": 28,
-      "audience_score": 89,
-      "runtime_minutes": null,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/DLOCJy_of64_TdCJnTYrQz7BqxE=/300x450/v2/https://resizing.flixster.com/LsmMi3tkTQUOWB3jLNwc6QH3YXU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFkZDAyMGNjLWM4YjYtNDRjMS1iY2Q4LTVhZTk5NmY3ZGEzNS5qcGc=",
-      "plot": "Inside of his book, adventurous Harold (Zachary Levi) can make anything come to life simply by drawing it. After he grows up and draws himself off the book's pages and into the physical world, Harold…",
-      "directors": [
-        "Carlos Saldanha"
-      ]
-    },
-    {
-      "id": "the_re_education_of_molly_singer",
-      "category": "comedy",
-      "type": "movie",
-      "title": "The Re-Education of Molly Singer",
-      "original_title": "The Re-Education of Molly Singer",
-      "year": 2023,
-      "genres": [
-        "Kids & Family",
-        "Comedy"
-      ],
-      "rating": 4.3,
-      "votes": 549,
-      "tomatometer": 21,
-      "audience_score": 95,
-      "runtime_minutes": 105,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/zyamysv5r00VRNGtXwJzgrkwSPs=/300x450/v2/https://resizing.flixster.com/c0ndRrU4KMhLiFzJlcR171D4_9Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NzEwMDYxLTc5Y2YtNDVkNy04ODI4LTY3Mjc2NGUzMjZlNy5qcGc=",
-      "plot": "In college, attorney Molly Singer (Britt Robertson) was the life of every party. Now, she's about to be fired because she can't leave her partying ways behind. Molly's boss, Brenda (Jaime Pressly),…",
-      "directors": [
-        "Andy Palmer"
-      ]
-    },
-    {
-      "id": "ruby_gillman_teenage_kraken",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Ruby Gillman, Teenage Kraken",
-      "original_title": "Ruby Gillman, Teenage Kraken",
-      "year": 2023,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 5.8,
-      "votes": 506,
-      "tomatometer": 65,
-      "audience_score": 81,
-      "runtime_minutes": 91,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/uXxbEfsxvRMtM_FfgQzJkdA5Uqw=/300x450/v2/https://resizing.flixster.com/Zb2d0atK4I6Ctp4ZCC0SsI7VvSQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxNzI1YTI2LWViY2UtNGM2ZS1iMjQ1LTI3Njk4MDNiNDdmMC5qcGc=",
-      "plot": "Sweet, awkward 16-year-old Ruby Gillman (Lana Condor, To All the Boys I’ve Loved Before franchise) is desperate to fit in at Oceanside High, but she mostly just feels invisible. She's math-tutoring…",
-      "directors": [
-        "Kirk DeMicco"
-      ]
-    },
-    {
-      "id": "sketch_2024",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Sketch",
-      "original_title": "Sketch",
-      "year": 2025,
-      "genres": [
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Kids & Family"
-      ],
-      "rating": 7.7,
-      "votes": 469,
-      "tomatometer": 95,
-      "audience_score": 83,
-      "runtime_minutes": 92,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/86LUgT-eVOikTwghxkh4TlTcjFU=/300x450/v2/https://resizing.flixster.com/WisVHqIDBvNANvkOVO-pSOsksJA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlYTc1M2ZkLWU3ODUtNDUyZS04ZTdiLTIzNjMxYjIyYmMyNS5qcGc=",
-      "plot": "When a young girl's sketchbook falls into a strange pond, her drawings come to life--unpredictable, chaotic, and dangerously real. As the town unravels, she and her brother must track down the…",
-      "directors": [
-        "Seth Worley"
-      ]
-    },
-    {
-      "id": "paws_of_fury_the_legend_of_hank",
-      "category": "animation",
-      "type": "movie",
-      "title": "Paws of Fury: The Legend of Hank",
-      "original_title": "Paws of Fury: The Legend of Hank",
-      "year": 2022,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 5.1,
-      "votes": 456,
-      "tomatometer": 56,
-      "audience_score": 67,
-      "runtime_minutes": 97,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/Ca3GbH3kxERKX0QCSaBTtt66b5o=/300x450/v2/https://resizing.flixster.com/dyS6V9Odw7Bbrr8fE17LFfdQBlw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QzNWI0YjNjLWJiZWQtNDk3Mi05ODc2LTI2ZDg1NjRmNTYyNi5qcGc=",
-      "plot": "A down-on-his-luck hound finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wipe their village off the map. With help from a reluctant trainer,…",
-      "directors": [
-        "Mark Koetsier",
-        "Chris Bailey"
-      ]
-    },
-    {
-      "id": "show_dogs",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Show Dogs",
-      "original_title": "Show Dogs",
-      "year": 2018,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure"
-      ],
-      "rating": 3.4,
-      "votes": 443,
-      "tomatometer": 16,
-      "audience_score": 27,
-      "runtime_minutes": 92,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/sWJmyRYsNsrwwJfv5TavO88EuIk=/300x450/v2/https://resizing.flixster.com/PVSo4UqKH1g7FriQKjbGvbotL_I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5ZTM1MjUxLThhOTktNDFlNy05NTY5LTgwMzZmMTc1NDk4Mi53ZWJw",
-      "plot": "After a failed attempt to recover a stolen baby panda, police dog Max reluctantly teams up with a human FBI agent named Frank. A hot tip leads Max and Frank to Las Vegas for the world's most…",
-      "directors": [
-        "Raja Gosnell"
-      ]
-    },
-    {
-      "id": "paw_patrol_the_dino_movie",
-      "category": "animation",
-      "type": "movie",
-      "title": "PAW Patrol: The Dino Movie",
-      "original_title": "PAW Patrol: The Dino Movie",
-      "year": 2026,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 6.0,
-      "votes": 414,
-      "tomatometer": 82,
-      "audience_score": 94,
-      "runtime_minutes": 88,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/7tBJq-bR6rWL1fn4XWtKsxqBw6s=/300x450/v2/https://resizing.flixster.com/yJUONjqYreK_JOsSliiXcjNgTqI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFiZGE5MjE5LTVhZGItNDQzMS04ZjFkLTc1MWI0YjljNDU2ZC5qcGc=",
-      "plot": "After their ship gets caught in a mysterious storm, the PAW Patrol pups crash land on an uncharted tropical island filled with dinosaurs. They meet Rex, a pup who has been stranded on the island for…",
-      "directors": [
-        "Cal Brunker"
-      ]
-    },
-    {
-      "id": "diary_of_a_wimpy_kid_2021",
-      "category": "animation",
-      "type": "movie",
-      "title": "Diary of a Wimpy Kid",
-      "original_title": "Diary of a Wimpy Kid",
-      "year": 2021,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Animation"
-      ],
-      "rating": 5.5,
-      "votes": 309,
-      "tomatometer": 75,
-      "audience_score": 38,
-      "runtime_minutes": 56,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/-9FBlOW889_ZR2r-KC4CdU0Zq6M=/300x450/v2/https://resizing.flixster.com/25sFPxyIOK-RVZsbm2sA_jM6PHY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwNjg1NTBhLWNjMDgtNDcxZS1hNWVkLTE1ZGQ0ODcyOTYzNy5qcGc=",
-      "plot": "Greg Heffley dreams of becoming famous while surviving middle school with his best friend, Rowley.",
-      "directors": [
-        "Gino Nichele",
-        "Swinton O. Scott III"
-      ]
-    },
-    {
-      "id": "kill_switch_2017",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Kill Switch",
-      "original_title": "Kill Switch",
-      "year": 2017,
-      "genres": [
-        "Kids & Family",
-        "Sci-Fi",
-        "Action",
-        "Mystery & Thriller",
-        "Drama",
-        "Fantasy"
-      ],
-      "rating": 4.5,
-      "votes": 246,
-      "tomatometer": 9,
-      "audience_score": 21,
-      "runtime_minutes": 91,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/NMm6ir-5FaCmiZeeiahI64hNbWU=/300x450/v2/https://resizing.flixster.com/yqxYDRiPwF92LAodlh5FsDQtM88=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RiYThkYzBlLTE1ZjItNDJiYi05OTVmLWQ0YzM2ZDUyZDMwZi53ZWJw",
-      "plot": "A military experiment to harness unlimited energy goes horribly awry, leaving a pilot with no choice but to fight through an imploding world to save his family and the planet itself.",
-      "directors": [
-        "Tim Smit"
-      ]
-    },
-    {
-      "id": "secret_headquarters",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Secret Headquarters",
-      "original_title": "Secret Headquarters",
-      "year": 2022,
-      "genres": [
-        "Kids & Family",
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Sci-Fi"
-      ],
-      "rating": 5.1,
-      "votes": 245,
-      "tomatometer": 44,
-      "audience_score": 43,
-      "runtime_minutes": 104,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/sl6tpkwWEo5QXytihqtWgkFDJuo=/300x450/v2/https://resizing.flixster.com/b2EfiVEwSug9yJG9m_BB_vndnU0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxYWI3MzNjLTg2NTctNGVlOC1iNmYyLTQwYzEwZjQyMzlkNS5qcGc=",
-      "plot": "While hanging out after school, Charlie and his friends discover the headquarters of the world's most powerful superhero hidden beneath his home. When villains attack, they must team up to defend the…",
-      "directors": [
-        "Henry Joost",
-        "Ariel Schulman"
-      ]
-    },
-    {
-      "id": "spy_kids_armageddon",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Spy Kids: Armageddon",
-      "original_title": "Spy Kids: Armageddon",
-      "year": 2023,
-      "genres": [
-        "Kids & Family",
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "rating": 5.2,
-      "votes": 217,
-      "tomatometer": 55,
-      "audience_score": 40,
-      "runtime_minutes": 108,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/XFzMmgpXiPxgdFJheug9xH999uU=/300x450/v2/https://resizing.flixster.com/prgOkKz6vhrFSECgSZrf0ctnH-o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhYTA0MWQyLTJjMjQtNDk3My1hZWNiLWE0MDhkOTExNmI4Zi5qcGc=",
-      "plot": "When the children of the world's greatest secret agents unwittingly help a powerful Game Developer unleash a computer virus that gives him control of all technology, they must become spies themselves…",
-      "directors": [
-        "Robert Rodriguez"
-      ]
-    },
-    {
-      "id": "playmobil_the_movie",
-      "category": "animation",
-      "type": "movie",
-      "title": "Playmobil: The Movie",
-      "original_title": "Playmobil: The Movie",
-      "year": 2019,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 4.1,
-      "votes": 204,
-      "tomatometer": 16,
-      "audience_score": 62,
-      "runtime_minutes": 99,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/GDCQhuBvKJTUh_7vsbebb_O2Sgs=/300x450/v2/https://resizing.flixster.com/cH9U74GsMkoLjtW-5Cv1ySpf9wM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM1NmI0NWNhLWYzNmQtNDM5NC04ZWNiLTA4N2QzMDM3YTVjOC53ZWJw",
-      "plot": "Maria and her younger brother Charlie find themselves magically transported to the fantastical world of Playmobil. While there, they encounter robots, Vikings, knights, pirates and other colorfully…",
-      "directors": [
-        "Lino DiSalvo"
-      ]
-    },
-    {
-      "id": "the_son_of_bigfoot",
-      "category": "animation",
-      "type": "movie",
-      "title": "The Son of Bigfoot",
-      "original_title": "The Son of Bigfoot",
-      "year": 2018,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 5.8,
-      "votes": 184,
-      "tomatometer": 74,
-      "audience_score": 42,
-      "runtime_minutes": 92,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/E4AunJxqeuLIqvtgWbHz4bY-DHw=/300x450/v2/https://resizing.flixster.com/MIayIHAhtmhGBRiDrwmnCYkYgkQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1ZjljMGE5LTA5NzgtNGM3OC1hMDE0LWU0YjExMjUxYmZiNy53ZWJw",
-      "plot": "Teenager Adam has never known the identity of his long-lost dad. But after setting off on an adventure to solve the mystery once and for all, he discovers that his father is none other than the…",
-      "directors": [
-        "Jeremy Degruson",
-        "Ben Stassen"
-      ]
-    },
-    {
-      "id": "iron_mask_2020",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Iron Mask",
-      "original_title": "Iron Mask",
-      "year": 2019,
-      "genres": [
-        "Kids & Family",
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 3.6,
-      "votes": 171,
-      "tomatometer": 21,
-      "audience_score": 25,
-      "runtime_minutes": 130,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/tWlIVi-0B_M3mwIsKnT5wjrEeNs=/300x450/v2/https://resizing.flixster.com/0TSljTfQgUau2ugrzYWL-zefW_M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1ZTY0NzcyLTdkNjEtNDk2Zi05N2UxLThhZDkzYTNlMGE2NS5qcGc=",
-      "plot": "To save his homeland from certain doom, a kung fu master must escape from the maniacal James Hook in order to send his daughter a secret talisman that will allow her to control a massive and mythical…",
-      "directors": [
-        "Oleg Stepchenko"
-      ]
-    },
-    {
-      "id": "thelma_the_unicorn",
-      "category": "animation",
-      "type": "movie",
-      "title": "Thelma the Unicorn",
-      "original_title": "Thelma the Unicorn",
-      "year": 2024,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Animation"
-      ],
-      "rating": 6.0,
-      "votes": 116,
-      "tomatometer": 60,
-      "audience_score": 40,
-      "runtime_minutes": 93,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/nTondFBVomVefSgIR-jPR01d6iM=/300x450/v2/https://resizing.flixster.com/Vxg1US10DILxoLdOl5V1w9meAJM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwNzRmN2NhLTZiMTAtNDdkOC05YTRjLTc3NGMzNjI4ZDY0My5qcGc=",
-      "plot": "Thelma is a small-time pony who dreams of becoming a glamorous music star. In a pink and glitter-filled moment of fate, Thelma is transformed into a unicorn and instantly rises to global stardom.…",
-      "directors": [
-        "Jared Hess",
-        "Lynn Wang"
-      ]
-    },
-    {
-      "id": "spark_a_space_tail",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Spark: A Space Tail",
-      "original_title": "Spark: A Space Tail",
-      "year": 2017,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Action",
-        "Sci-Fi",
-        "Animation"
-      ],
-      "rating": 3.8,
-      "votes": 116,
-      "tomatometer": 13,
-      "audience_score": 34,
-      "runtime_minutes": 90,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/UXVjF3ps0Han3Q97zPsYkGgGETA=/300x450/v2/https://resizing.flixster.com/BAH323zxQyVP63pc-Nh1raS8tx8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmOTRiZjA5LWQwNWUtNGZhZi1hYjQwLWY0ZDU0YTMyMDA3ZS53ZWJw",
-      "plot": "Spark is a wisecracking teenage monkey who lives on an abandoned planet with his friends Chunk and Vix. Thirteen years ago, power-hungry Zhong seized control of their planet Beta, wiping out Spark's…",
-      "directors": [
-        "Aaron Woodley"
-      ]
-    },
-    {
-      "id": "pokemon_detective_pikachu",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Pokémon Detective Pikachu",
-      "original_title": "Pokémon Detective Pikachu",
-      "year": 2019,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.0,
-      "votes": 80,
-      "tomatometer": 68,
-      "audience_score": 82,
-      "runtime_minutes": 104,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/S6p006rI8O36q8lF_pNCw6ftRz0=/300x450/v2/https://resizing.flixster.com/b8hhpPqb9g717NcmddPVQsgnEYs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNjODBkMzQxLWEyMTMtNDEyMi05Yjc4LWQxZjIwMGVhMDIwNi53ZWJw",
-      "plot": "Ace detective Harry Goodman goes mysteriously missing, prompting his 21-year-old son, Tim, to find out what happened. Aiding in the investigation is Harry's former Pokémon partner, super-sleuth…",
-      "directors": [
-        "Rob Letterman"
-      ]
-    },
-    {
-      "id": "luis_and_the_aliens",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Luis and the Aliens",
-      "original_title": "Luis and the Aliens",
-      "year": 2018,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Sci-Fi",
-        "Animation"
-      ],
-      "rating": 4.1,
-      "votes": 76,
-      "tomatometer": 24,
-      "audience_score": 49,
-      "runtime_minutes": 86,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/4DRlg6jtmBrl9PfL0d47kFH4gUU=/300x450/v2/https://resizing.flixster.com/swsviygra811QbmY0dAcMnkX_Y4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyN2JjZjVhLTRjMjUtNGVhOS1iOWYxLTI2MjIwNzZmZTQ2Yy53ZWJw",
-      "plot": "A 12-year-old boy embarks on a wild quest to help three tiny extraterrestrials return to their huge mother ship.",
-      "directors": [
-        "Wolfgang Lauenstein",
-        "Christoph Lauenstein"
-      ]
-    },
-    {
-      "id": "condorito_la_pelicula",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Condorito: The Movie",
-      "original_title": "Condorito: The Movie",
-      "year": 2018,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Sci-Fi",
-        "Animation"
-      ],
-      "rating": 4.7,
-      "votes": 58,
-      "tomatometer": 20,
-      "audience_score": 48,
-      "runtime_minutes": 88,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/-7I_BKS16NJEfduvcaOp2dKtfiI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14720174_p_v10_aa.jpg",
-      "plot": "With help from his nephew, a condor embarks on an epic adventure to save his future mother-in-law and Earth from an alien king.",
-      "directors": [
-        "Alex Orrelle",
-        "Eduardo Schuldt"
-      ]
-    },
-    {
-      "id": "terra_willy",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Terra Willy",
-      "original_title": "Terra Willy",
-      "year": 2020,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Sci-Fi",
-        "Animation"
-      ],
-      "rating": 6.6,
-      "votes": 47,
-      "tomatometer": 100,
-      "audience_score": 79,
-      "runtime_minutes": 89,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/-GtOeR_EZy-J3TcozVBHRHkBQJQ=/300x450/v2/https://resizing.flixster.com/X4moUbMFrhQuexY900gcHf32FSk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0YzJhYjFlLTAwMDUtNGZlOC1hZmE0LWZiOWNiZjAxM2YyOS5qcGc=",
-      "plot": "When a young boy crash lands on an unexplored planet, he must rely on a survival robot and an alien creature to help him find a way home.",
-      "directors": [
-        "Eric Tosti"
-      ]
-    },
-    {
-      "id": "stardog_and_turbocat",
-      "category": "animation",
-      "type": "movie",
-      "title": "StarDog and TurboCat",
-      "original_title": "StarDog and TurboCat",
-      "year": 2020,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 5.2,
-      "votes": 28,
-      "tomatometer": 56,
-      "audience_score": 43,
-      "runtime_minutes": 91,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/AHOgQm5wmwnUEh-inu9aYx3UzQc=/300x450/v2/https://resizing.flixster.com/52LIg3KjJBLmMQApkrOr6sr0CzY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhMWVkYzNlLTdjYTItNDI2Zi1iY2MzLWExMzdmYzA2Y2I4My53ZWJw",
-      "plot": "Launched into space in 1969, a loyal dog crash-lands in a small town where pets are no longer welcome. Desperate and confused, he soon recruits the help of a tech-savvy cat to help him reunite with…",
-      "directors": [
-        "Ben Smith"
-      ]
-    },
-    {
-      "id": "aliens_abducted_my_parents_and_now_i_feel_kinda_left_out",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Aliens Abducted My Parents and Now I Feel Kinda Left Out",
-      "original_title": "Aliens Abducted My Parents and Now I Feel Kinda Left Out",
-      "year": 2023,
-      "genres": [
-        "Comedy",
-        "Kids & Family",
-        "Sci-Fi"
-      ],
-      "rating": 6.5,
-      "votes": 13,
-      "tomatometer": 82,
-      "audience_score": 69,
-      "runtime_minutes": 87,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/8Y2-M5WSVix0qxNBhduNgm85re4=/300x450/v2/https://resizing.flixster.com/ReXZ_nEcj0nSoQr_Fxy7GSA_0yU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3YmFhNDk4LWMwY2UtNDU1NS1hZWU5LTM2OTg5YzlkZmM4ZC5qcGc=",
-      "plot": "Itsy Levan is devastated by her parents' decision to leave the city and buy a fixer upper in the middle of nowhere. Her life seems over until she meets her space-obsessed neighbor Calvin Kipler.…",
-      "directors": [
-        "Jake Van Wagoner"
-      ]
-    },
-    {
-      "id": "dolphin_island",
-      "category": "kids-family",
-      "type": "movie",
-      "title": "Dolphin Island",
-      "original_title": "Dolphin Island",
-      "year": 2021,
-      "genres": [
-        "Drama",
-        "Kids & Family"
-      ],
-      "rating": 5.4,
-      "votes": 13,
-      "tomatometer": 70,
-      "audience_score": 85,
-      "runtime_minutes": 79,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/go93_qNN5Db_zMtxvMrjk0rn0aA=/300x450/v2/https://resizing.flixster.com/UVc07YWRUOdmHTYNgJu0ZuAAn9g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAzYzdjOTc3LTc0ZDgtNDM0ZS1iZjVjLWM5YTdjZjkzMWY5Yi5qcGc=",
-      "plot": "After losing her parents, 14-year-old Annabel lives with her fisherman grandfather on an island paradise. She is surrounded by an extended family of loving but quirky neighbors and her best friend --…",
-      "directors": [
-        "Michael D'Isa-Hogan"
-      ]
-    },
-    {
-      "id": "coyote_vs_acme",
-      "category": "animation",
-      "type": "movie",
-      "title": "Coyote vs. Acme",
-      "original_title": "Coyote vs. Acme",
-      "year": null,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 7.8,
-      "votes": null,
-      "tomatometer": 95,
-      "audience_score": null,
-      "runtime_minutes": 101,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/y2zFi574s46qdML_aSRhcRwQyCA=/300x450/v2/https://resizing.flixster.com/2tWOVnwNoN3mVPGeTtFxCACoAPM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UwMjUzNTNmLWNkZWQtNDVmNS1iZWI3LTY4MjQ4OTc5NGNlZi5qcGc=",
-      "plot": "After decades of being blown to bits by bombs, demolished by dynamite, mangled by magnets, battered by boulders, trampled by trains, tricked by tunnels, sprung by springs, steamrolled by…",
-      "directors": [
-        "Dave Green"
-      ]
-    },
-    {
-      "id": "the_magic_faraway_tree",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Magic Faraway Tree",
-      "original_title": "The Magic Faraway Tree",
-      "year": null,
-      "genres": [
-        "Kids & Family",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 6.6,
-      "votes": null,
-      "tomatometer": 84,
-      "audience_score": null,
-      "runtime_minutes": 110,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/u0H4enLwzlRzU357NBh0_g-uDP8=/300x450/v2/https://resizing.flixster.com/EPxOMRXvbEl2nh6NdUkVQsZ4Pr4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM0OGU3NjJjLWQ0YzgtNDhlNC1iYTBhLTViOGZmZGViYzNlNS5qcGc=",
-      "plot": "Adapted from Enid Blyton's beloved classic novel The Magic Faraway Tree, the film centers on Polly (Claire Foy), Tim (Andrew Garfield), and their three children -- a modern family forced to relocate…",
-      "directors": [
-        "Ben Gregor"
       ]
     }
   ]

@@ -1,8 +1,60 @@
 {
   "genre": "western",
   "name": "Western",
-  "count": 9,
+  "count": 27,
   "titles": [
+    {
+      "id": "no_country_for_old_men",
+      "category": "western",
+      "type": "movie",
+      "title": "No Country for Old Men",
+      "original_title": "No Country for Old Men",
+      "year": 2007,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller",
+        "Western"
+      ],
+      "rating": 9.2,
+      "votes": 144572,
+      "tomatometer": 93,
+      "audience_score": 86,
+      "runtime_minutes": 122,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/AF3QNx9jPcCx53a0feqcm7X-Pqc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p170313_p_v10_as.jpg",
+      "plot": "While out hunting, Llewelyn Moss (Josh Brolin) finds the grisly aftermath of a drug deal. Though he knows better, he cannot resist the cash left behind and takes it with him. The hunter becomes the…",
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ]
+    },
+    {
+      "id": "the_revenant_2015",
+      "category": "western",
+      "type": "movie",
+      "title": "The Revenant",
+      "original_title": "The Revenant",
+      "year": 2016,
+      "genres": [
+        "Adventure",
+        "Western",
+        "Action",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.9,
+      "votes": 57305,
+      "tomatometer": 78,
+      "audience_score": 84,
+      "runtime_minutes": 156,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Poa4CniML2d3c3-6cmnVWtWhvyQ=/300x450/v2/https://resizing.flixster.com/_xDMT2k9Sw_7Gj8fE0WpRGaA5Bo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBmOGM3YmMxLTNkNDItNDAwMi04NGVjLWE2NTQxMDhmZjY0Zi5qcGc=",
+      "plot": "While exploring the uncharted wilderness in 1823, frontiersman Hugh Glass (Leonardo DiCaprio) sustains life-threatening injuries from a brutal bear attack. When a member (Tom Hardy) of his hunting…",
+      "directors": [
+        "Alejandro González Iñárritu"
+      ]
+    },
     {
       "id": "the_lone_ranger",
       "category": "western",
@@ -28,6 +80,28 @@
       ]
     },
     {
+      "id": "the_hateful_eight",
+      "category": "western",
+      "type": "movie",
+      "title": "The Hateful Eight",
+      "original_title": "The Hateful Eight",
+      "year": 2015,
+      "genres": [
+        "Western"
+      ],
+      "rating": 7.4,
+      "votes": 38340,
+      "tomatometer": 74,
+      "audience_score": 77,
+      "runtime_minutes": 168,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/O1IPLSwuPvyow8QjhAbe--ohM-s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11873485_p_v10_az.jpg",
+      "plot": "While racing toward the town of Red Rock in post-Civil War Wyoming, bounty hunter John \"The Hangman\" Ruth (Kurt Russell) and his fugitive prisoner (Jennifer Jason Leigh) encounter another bounty…",
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
       "id": "the_magnificent_seven_2016",
       "category": "western",
       "type": "movie",
@@ -49,6 +123,57 @@
       "plot": "Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control of the Old West town of Rose Creek. With their lives in jeopardy, Emma Cullen and other desperate residents turn to…",
       "directors": [
         "Antoine Fuqua"
+      ]
+    },
+    {
+      "id": "wild_wild_west",
+      "category": "western",
+      "type": "movie",
+      "title": "Wild Wild West",
+      "original_title": "Wild Wild West",
+      "year": 1999,
+      "genres": [
+        "Action",
+        "Western",
+        "Comedy",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 4.1,
+      "votes": 16348,
+      "tomatometer": 16,
+      "audience_score": 28,
+      "runtime_minutes": 106,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/14sqzvgrmD6wTEYzNsfGztXLREY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23293_p_v8_ap.jpg",
+      "plot": "When President Ulysses S. Grant (Kevin Kline) learns that diabolical inventor Dr. Arliss Loveless (Kenneth Branagh) is planning to assassinate him, he orders Civil War hero James West (Will Smith)…",
+      "directors": [
+        "Barry Sonnenfeld"
+      ]
+    },
+    {
+      "id": "shanghai_noon",
+      "category": "western",
+      "type": "movie",
+      "title": "Shanghai Noon",
+      "original_title": "Shanghai Noon",
+      "year": 2000,
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure",
+        "Western"
+      ],
+      "rating": 7.0,
+      "votes": 14749,
+      "tomatometer": 80,
+      "audience_score": 65,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/OLqXtHfBsiI1VONWbeRQ36B1g98=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25486_v_v11_ao.jpg",
+      "plot": "Bumbling Chon Wang (Jackie Chan) works as an Imperial guard in the Forbidden City of China. When Princess Pei Pei (Lucy Liu) is taken hostage, Wang pursues her captors to the wild frontier land of…",
+      "directors": [
+        "Tom Dey"
       ]
     },
     {
@@ -78,6 +203,53 @@
       ]
     },
     {
+      "id": "almost_heroes",
+      "category": "western",
+      "type": "movie",
+      "title": "Almost Heroes",
+      "original_title": "Almost Heroes",
+      "year": 1998,
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Western"
+      ],
+      "rating": 3.3,
+      "votes": 2794,
+      "tomatometer": 5,
+      "audience_score": 65,
+      "runtime_minutes": 90,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/QYmEkF4bCd1Xg_KshZ8JNEj-nCI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21050_p_v8_ar.jpg",
+      "plot": "Two explorers are racing Lewis and Clark to the Pacific Ocean in 1804. Edwards (Matthew Perry) is a glory-seeking fop who's out of his league, Hunt (Chris Farley) is a slovenly, clumsy tracker with a…",
+      "directors": [
+        "Christopher Guest"
+      ]
+    },
+    {
+      "id": "jane_got_a_gun",
+      "category": "western",
+      "type": "movie",
+      "title": "Jane Got a Gun",
+      "original_title": "Jane Got a Gun",
+      "year": 2016,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 5.3,
+      "votes": 2121,
+      "tomatometer": 42,
+      "audience_score": 38,
+      "runtime_minutes": 98,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/t0edki_uui-KJF812dgX0icEn4w=/300x450/v2/https://resizing.flixster.com/1tIlZtsGPlkJmWWQGDg5gAxqb6I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxZjI5ZmU1LWEyMzYtNGU5Ni1iOGIwLTI0NWRiMjdkMjA0Yi53ZWJw",
+      "plot": "Panic strikes Jane Hammond (Natalie Portman) when her outlaw husband John returns to their farm with bullet wounds. Expecting the worst, she brings her young daughter to safety and travels to the…",
+      "directors": [
+        "Gavin O'Connor"
+      ]
+    },
+    {
       "id": "two_mules_for_sister_sara",
       "category": "western",
       "type": "movie",
@@ -99,6 +271,28 @@
       "plot": "When gunslinger Hogan (Clint Eastwood) discovers a group of men attempting to rape a young nun, Sara (Shirley MacLaine), he shoots them dead and rescues the woman. The two escape to a nearby camp of…",
       "directors": [
         "Don Siegel"
+      ]
+    },
+    {
+      "id": "in_a_valley_of_violence",
+      "category": "western",
+      "type": "movie",
+      "title": "In a Valley of Violence",
+      "original_title": "In a Valley of Violence",
+      "year": 2016,
+      "genres": [
+        "Western"
+      ],
+      "rating": 6.8,
+      "votes": 1215,
+      "tomatometer": 78,
+      "audience_score": 52,
+      "runtime_minutes": 104,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/aXZESqG4Z8L6a_aifghAFROHQpc=/300x450/v2/https://resizing.flixster.com/vAUcjPC_pq2kGi-gG7qwVNScWq4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE5NmQ0ZTdjLTZiMjEtNDYzNS1iNTZiLWVmY2EzMDdhMjY1ZC53ZWJw",
+      "plot": "A mysterious drifter (Ethan Hawke) and his dog journey toward Mexico through the barren desert of the Old West. Hoping to shorten their trip, they cut through a large valley, landing in the forgotten…",
+      "directors": [
+        "Ti West"
       ]
     },
     {
@@ -126,6 +320,53 @@
       ]
     },
     {
+      "id": "geronimo_an_american_legend",
+      "category": "western",
+      "type": "movie",
+      "title": "Geronimo: An American Legend",
+      "original_title": "Geronimo: An American Legend",
+      "year": 1993,
+      "genres": [
+        "Drama",
+        "History",
+        "Western"
+      ],
+      "rating": 6.2,
+      "votes": 582,
+      "tomatometer": 52,
+      "audience_score": 52,
+      "runtime_minutes": 115,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/TZi2Ye4WXoofxTZpNhHRY6R6K8s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15228_p_v8_ac.jpg",
+      "plot": "Following the expansion of the United States into the Southwest, the Apache Indians are forced onto a reservation to live out their lives as lowly corn farmers. While many resign themselves to this…",
+      "directors": [
+        "Walter Hill"
+      ]
+    },
+    {
+      "id": "last_of_the_dogmen",
+      "category": "western",
+      "type": "movie",
+      "title": "Last of the Dogmen",
+      "original_title": "Last of the Dogmen",
+      "year": 1995,
+      "genres": [
+        "Adventure",
+        "Western"
+      ],
+      "rating": 5.7,
+      "votes": 529,
+      "tomatometer": 69,
+      "audience_score": 79,
+      "runtime_minutes": 117,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/P9xrUkEUsW3Hez0cJkBTb-vScJQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17097_p_v8_aa.jpg",
+      "plot": "Montana bounty hunter Lewis Gates finds the corpses of three escaped convicts in the wilderness, apparently shot by primitive arrows. Gates and anthropologist Lillian Sloane follow clues through the…",
+      "directors": [
+        "Tab Murphy"
+      ]
+    },
+    {
       "id": "the_wind_2019",
       "category": "western",
       "type": "movie",
@@ -147,6 +388,74 @@
       "plot": "Lizzy is a tough, resourceful frontierswoman settling a remote stretch of land on the 19th-century American frontier. Isolated from civilization in a desolate wilderness where the wind never stops…",
       "directors": [
         "Emma Tammi"
+      ]
+    },
+    {
+      "id": "the_ballad_of_lefty_brown",
+      "category": "western",
+      "type": "movie",
+      "title": "The Ballad of Lefty Brown",
+      "original_title": "The Ballad of Lefty Brown",
+      "year": 2017,
+      "genres": [
+        "Western"
+      ],
+      "rating": 6.3,
+      "votes": 316,
+      "tomatometer": 79,
+      "audience_score": 55,
+      "runtime_minutes": 111,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/w11kXdMnYDP9dKirZFbHPte4LjA=/300x450/v2/https://resizing.flixster.com/31bSInd9fLvEzy9nxEx5tp3NVZw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3Y2M2M2Q2LTI2YmEtNGMzNy1hM2I5LTYwZDg4YjJiMGJjOC53ZWJw",
+      "plot": "A merciless cowboy sets out on a dangerous journey across the frontier, determined to do whatever it takes to avenge his longtime partner's brutal murder.",
+      "directors": [
+        "Jared Moshe"
+      ]
+    },
+    {
+      "id": "the_last_manhunt",
+      "category": "western",
+      "type": "movie",
+      "title": "The Last Manhunt",
+      "original_title": "The Last Manhunt",
+      "year": 2022,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 4.6,
+      "votes": 187,
+      "tomatometer": 20,
+      "audience_score": 84,
+      "runtime_minutes": 103,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/jwvNNRmjxcECPZpPL72NO44_mhw=/300x450/v2/https://resizing.flixster.com/QlCyTaAjam47pb7BX6GfuDPezW0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRkM2E1NzViLTk4MTktNGQ2OS1hY2UwLTExZGI5NWM0OTc4NS5qcGc=",
+      "plot": "In 1909 Willie Boy and his love, Carlota, go on the run after he accidentally shoots her father in a confrontation gone terribly wrong. With President Taft coming to the area, the local sheriff leads…",
+      "directors": [
+        "Christian Camargo"
+      ]
+    },
+    {
+      "id": "surrounded_2021",
+      "category": "western",
+      "type": "movie",
+      "title": "Surrounded",
+      "original_title": "Surrounded",
+      "year": 2023,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 6.9,
+      "votes": 131,
+      "tomatometer": 88,
+      "audience_score": 79,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/SOp5n8P6ISsLB2sIWurBQgpJUIw=/300x450/v2/https://resizing.flixster.com/Thvi7x65wxFkS0AMr1uBkPGztps=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwNzgzMDg4LTcxNWEtNDVkZS05MDZkLTIzNzQyNmRiZWQxYy5wbmc=",
+      "plot": "Five years after the Civil War, freedwoman and former Buffalo Soldier Moses \"Mo\" Washington travels west to lay claim on a gold mine- the summation of years of toil for Mo and her community. It is a…",
+      "directors": [
+        "Anthony Mandler"
       ]
     },
     {
@@ -177,6 +486,29 @@
       ]
     },
     {
+      "id": "big_kill",
+      "category": "western",
+      "type": "movie",
+      "title": "Big Kill",
+      "original_title": "Big Kill",
+      "year": 2018,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 3.3,
+      "votes": 86,
+      "tomatometer": 25,
+      "audience_score": 55,
+      "runtime_minutes": 129,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/osxbXSee9avo1uiqPXiAI3ycv54=/300x450/v2/https://resizing.flixster.com/c6NxdN8pIqmsuskTrrJOGU76xHw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ2MWQzYTExLTNlODgtNDBkZS04NzMzLWNhNDgwZjZjYTAzZC53ZWJw",
+      "plot": "A tenderfoot from Philadelphia, two misfit gamblers on the run and a deadly preacher have a date with destiny in a boomtown gone bust in the Old West.",
+      "directors": [
+        "Scott Martin"
+      ]
+    },
+    {
       "id": "the_legend_of_molly_johnson",
       "category": "western",
       "type": "movie",
@@ -197,6 +529,52 @@
       "plot": "In 1893 on an isolated property, a heavily pregnant woman named Molly Johnson (Leah Purcell) and her children struggle to survive the harsh Australian landscape; her husband is gone, droving sheep in…",
       "directors": [
         "Leah Purcell"
+      ]
+    },
+    {
+      "id": "outlaw_posse",
+      "category": "western",
+      "type": "movie",
+      "title": "Outlaw Posse",
+      "original_title": "Outlaw Posse",
+      "year": 2024,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 5.1,
+      "votes": 76,
+      "tomatometer": 47,
+      "audience_score": 74,
+      "runtime_minutes": 108,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/dAlmz5SwdKddvqmvhrYO4q8bAus=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26552446_p_v13_aa.jpg",
+      "plot": "1908. CHIEF returns from years of hiding in Mexico to claim stolen gold hidden in the hills of Montana. In his quest, he reunites an ensemble of fresh & familiar faces - together they fight off…",
+      "directors": [
+        "Mario Van Peebles"
+      ]
+    },
+    {
+      "id": "the_old_way",
+      "category": "western",
+      "type": "movie",
+      "title": "The Old Way",
+      "original_title": "The Old Way",
+      "year": 2023,
+      "genres": [
+        "Western",
+        "Action"
+      ],
+      "rating": 5.2,
+      "votes": 47,
+      "tomatometer": 33,
+      "audience_score": 70,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/-G1ZuZlW1Z4FaDf_tsiTQrw3LpI=/300x450/v2/https://resizing.flixster.com/LtlkxklT_aql6vLllzIOmaWGUGI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NjYzEwMzA2LWMyZTAtNDU5OC04Zjk2LTFiYWM5NjY3NWMwOS5qcGc=",
+      "plot": "Academy Award® winner Nicolas Cage stars in his first-ever Western as Colton Briggs, a cold-blooded gunslinger turned respectable family man. When an outlaw and his gang put Colton and his family in…",
+      "directors": [
+        "Brett Donowho"
       ]
     },
     {
@@ -222,6 +600,51 @@
       "directors": [
         "Mike Wiluan"
       ]
+    },
+    {
+      "id": "butchers_crossing",
+      "category": "western",
+      "type": "movie",
+      "title": "Butcher's Crossing",
+      "original_title": "Butcher's Crossing",
+      "year": 2023,
+      "genres": [
+        "Western",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 5.9,
+      "votes": 16,
+      "tomatometer": 72,
+      "audience_score": 50,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ZbJE6WaZo7Rlges56r8MohHEph8=/300x450/v2/https://resizing.flixster.com/Ezj4S7Fd0LnxXVYVreljQBZoTLk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiNDY1OTYzLWE4NGUtNGY0OS1hYjlkLTcwYmE4OGFmNGUxOC5wbmc=",
+      "plot": "Based on the seminal novel by John Edward Williams, Gabe Polsky's epic frontier adventure, Butcher's Crossing, is a riveting commentary on human nature, ambition, masculinity, and man's relationship…",
+      "directors": [
+        "Gabe Polsky"
+      ]
+    },
+    {
+      "id": "5e251429-9c28-3a51-9328-50caa50c3afe",
+      "category": "western",
+      "type": "movie",
+      "title": "The Night They Came Home",
+      "original_title": "The Night They Came Home",
+      "year": 2024,
+      "genres": [
+        "Action",
+        "Western"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/JBPrr5SXsGh2iE8XbTJl9K21ovw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26462278_p_v13_aa.jpg",
+      "plot": "Based on the crime spree of the Rufus Buck Gang, Native American outlaws are hell-bent on revenge.",
+      "directors": []
     }
   ]
 }

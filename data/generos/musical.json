@@ -1,8 +1,32 @@
 {
   "genre": "musical",
   "name": "Musical",
-  "count": 56,
+  "count": 69,
   "titles": [
+    {
+      "id": "school_of_rock",
+      "category": "musical",
+      "type": "movie",
+      "title": "The School of Rock",
+      "original_title": "The School of Rock",
+      "year": 2003,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Musical"
+      ],
+      "rating": 7.9,
+      "votes": 114004,
+      "tomatometer": 92,
+      "audience_score": 64,
+      "runtime_minutes": 108,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/6YmP57U-leAwFRxSOY8omrWHr7A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33094_p_v10_aj.jpg",
+      "plot": "Overly enthusiastic guitarist Dewey Finn (Jack Black) gets thrown out of his bar band and finds himself in desperate need of work. Posing as a substitute music teacher at an elite private elementary…",
+      "directors": [
+        "Richard Linklater"
+      ]
+    },
     {
       "id": "frozen_2013",
       "category": "musical",
@@ -29,6 +53,30 @@
       "directors": [
         "Chris Buck",
         "Jennifer Lee"
+      ]
+    },
+    {
+      "id": "moulin_rouge_2001",
+      "category": "musical",
+      "type": "movie",
+      "title": "Moulin Rouge",
+      "original_title": "Moulin Rouge",
+      "year": 2001,
+      "genres": [
+        "Musical",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.5,
+      "votes": 87183,
+      "tomatometer": 75,
+      "audience_score": 89,
+      "runtime_minutes": 126,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/VDdOEYFVl75bANiDuOrrfQ_rizY=/300x450/v2/https://resizing.flixster.com/kzChGzGwY-apVFVczknOumDNODY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwZmM5MzE1LWIyOWQtNGNiNC1iNDg4LTE2NDRjMTM2MzA2NC53ZWJw",
+      "plot": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet (Ewan McGregor), who is plunged into…",
+      "directors": [
+        "Baz Luhrmann"
       ]
     },
     {
@@ -304,6 +352,51 @@
       ]
     },
     {
+      "id": "pitch_perfect_2",
+      "category": "musical",
+      "type": "movie",
+      "title": "Pitch Perfect 2",
+      "original_title": "Pitch Perfect 2",
+      "year": 2015,
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 6.1,
+      "votes": 30582,
+      "tomatometer": 66,
+      "audience_score": 64,
+      "runtime_minutes": 115,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/UxaqW4kFh-i5UHoCqZeIcF08IHQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11299808_p_v8_av.jpg",
+      "plot": "It's been three years since the Barden Bellas became the first all-female group to win a national title. All seems well until a botched Lincoln Center performance for the president leads to a scandal…",
+      "directors": [
+        "Elizabeth Banks"
+      ]
+    },
+    {
+      "id": "rock_of_ages_2012",
+      "category": "musical",
+      "type": "movie",
+      "title": "Rock of Ages",
+      "original_title": "Rock of Ages",
+      "year": 2012,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 5.2,
+      "votes": 29561,
+      "tomatometer": 43,
+      "audience_score": 55,
+      "runtime_minutes": 118,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/7Ybw6d5ez3LNSF5AqOzUho0zr1Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8957709_p_v8_ai.jpg",
+      "plot": "The songs of Journey, Bon Jovi, Def Leppard and other artists underscore a tale of big dreams in Hollywood. Soon after hopping off a bus from the Midwest, aspiring singer Sherrie Christian…",
+      "directors": [
+        "Adam Shankman"
+      ]
+    },
+    {
       "id": "take_the_lead",
       "category": "musical",
       "type": "movie",
@@ -501,6 +594,31 @@
       ]
     },
     {
+      "id": "mary_poppins_returns",
+      "category": "musical",
+      "type": "movie",
+      "title": "Mary Poppins Returns",
+      "original_title": "Mary Poppins Returns",
+      "year": 2018,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 7.3,
+      "votes": 5541,
+      "tomatometer": 80,
+      "audience_score": 65,
+      "runtime_minutes": 130,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/c9AEFDa5GGVGBqqG9-DNx2mNZt0=/300x450/v2/https://resizing.flixster.com/FZhyoXPA82SaYNVJappOOmStaLo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdjNmUxNjBiLThiZTQtNDg3MC1hZjU3LTAzNWM1MmZjNDg5Ni53ZWJw",
+      "plot": "Now an adult with three children, bank teller Michael Banks learns that his house will be repossessed in five days unless he can pay back a loan. His only hope is to find a missing certificate that…",
+      "directors": [
+        "Rob Marshall"
+      ]
+    },
+    {
       "id": "the_color_purple",
       "category": "musical",
       "type": "movie",
@@ -569,6 +687,30 @@
       "plot": "Love at first sight strikes when young Tony spots Maria at a high school dance in 1957 New York City. Their burgeoning romance helps to fuel the fire between the warring Jets and Sharks -- two rival…",
       "directors": [
         "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "pump_up_the_volume",
+      "category": "musical",
+      "type": "movie",
+      "title": "Pump Up the Volume",
+      "original_title": "Pump Up the Volume",
+      "year": 1990,
+      "genres": [
+        "Drama",
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 6.8,
+      "votes": 3295,
+      "tomatometer": 81,
+      "audience_score": 85,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/muT85kwvETJkmcw40utpEzJcunU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12486_p_v8_ab.jpg",
+      "plot": "In Arizona, an introverted and insightful teenager, Mark Hunter (Christian Slater), finds an outlet for his viewpoints through a shortwave radio. Broadcasting as Hard Harry, Hunter uses his pirate…",
+      "directors": [
+        "Allan Moyle"
       ]
     },
     {
@@ -714,6 +856,31 @@
       ]
     },
     {
+      "id": "delovely",
+      "category": "musical",
+      "type": "movie",
+      "title": "De-Lovely",
+      "original_title": "De-Lovely",
+      "year": 2004,
+      "genres": [
+        "Musical",
+        "Biography",
+        "Drama",
+        "LGBTQ+"
+      ],
+      "rating": 5.8,
+      "votes": 1452,
+      "tomatometer": 49,
+      "audience_score": 65,
+      "runtime_minutes": 125,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/AynV1AqRh6J_JOWlmtTUQLrUz08=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34623_p_v8_aa.jpg",
+      "plot": "At the staging of a musical production based on his life story, songwriter Cole Porter (Kevin Kline) begins to reflect on his life and career. As he trades notes with the play's director, Gabe…",
+      "directors": [
+        "Irwin Winkler"
+      ]
+    },
+    {
       "id": "wish_2023",
       "category": "musical",
       "type": "movie",
@@ -836,6 +1003,30 @@
       ]
     },
     {
+      "id": "where_do_we_go_now",
+      "category": "musical",
+      "type": "movie",
+      "title": "Where Do We Go Now?",
+      "original_title": "Where Do We Go Now?",
+      "year": 2012,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Musical"
+      ],
+      "rating": 6.1,
+      "votes": 761,
+      "tomatometer": 52,
+      "audience_score": 73,
+      "runtime_minutes": 100,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/0_MrfDqevoyPpBCpoizrWKUzC6M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8843445_p_v8_aa.jpg",
+      "plot": "Muslim and Christian women (Claude Baz Moussawbaa, Layla Hakim, Nadine Labaki) join forces to stem the tide of violence in their war-torn Middle Eastern village.",
+      "directors": [
+        "Nadine Labaki"
+      ]
+    },
+    {
       "id": "song_one",
       "category": "musical",
       "type": "movie",
@@ -882,6 +1073,29 @@
       "plot": "Spanning three decades, MERRILY WE ROLL ALONG charts the turbulent relationship between composer Franklin Shepard and his two lifelong friends -- writer Mary and lyricist and playwright Charley.…",
       "directors": [
         "Maria Friedman"
+      ]
+    },
+    {
+      "id": "under_the_cherry_moon",
+      "category": "musical",
+      "type": "movie",
+      "title": "Under the Cherry Moon",
+      "original_title": "Under the Cherry Moon",
+      "year": 1986,
+      "genres": [
+        "Musical",
+        "Romance"
+      ],
+      "rating": 4.1,
+      "votes": 549,
+      "tomatometer": 39,
+      "audience_score": 67,
+      "runtime_minutes": 100,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/_ZQytPtbHLo2wpWlR92C2Ar_mZU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9385_p_v8_aa.jpg",
+      "plot": "News of a trust-fund beauty (Kristin Scott Thomas) inspires the pianist (Prince) at a hotel in Nice on the Riviera.",
+      "directors": [
+        "Prince"
       ]
     },
     {
@@ -954,6 +1168,32 @@
       ]
     },
     {
+      "id": "flora_and_son",
+      "category": "musical",
+      "type": "movie",
+      "title": "Flora and Son",
+      "original_title": "Flora and Son",
+      "year": 2023,
+      "genres": [
+        "Musical",
+        "Comedy",
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "rating": 7.3,
+      "votes": 405,
+      "tomatometer": 93,
+      "audience_score": 83,
+      "runtime_minutes": 94,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/2bYZKWsQd5XiVRLh8_EonOV3hJA=/300x450/v2/https://resizing.flixster.com/JzcOGvgGp7jIE4wa5_WglLRFhKE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1MjRmNGRmLTkxZDEtNGRkMi1hNzc1LWViNmJiZWRkMjNlZi5wbmc=",
+      "plot": "Single mom Flora (Eve Hewson) is at a loss about what to do with her rebellious teenage son, Max (Orén Kinlan). Encouraged by the police to find Max a hobby, Flora tries to occupy him with a beat-up…",
+      "directors": [
+        "John Carney"
+      ]
+    },
+    {
       "id": "satisfaction",
       "category": "musical",
       "type": "movie",
@@ -1019,6 +1259,28 @@
       "plot": "Colin (Eddie O'Connell), an aspiring young British photographer and jazz aficionado, falls for the beautiful Crepe Suzette (Patsy Kensit), a model on the rise. When she leaves him to pursue her…",
       "directors": [
         "Julien Temple"
+      ]
+    },
+    {
+      "id": "standing_ovation_2010",
+      "category": "musical",
+      "type": "movie",
+      "title": "Standing Ovation",
+      "original_title": "Standing Ovation",
+      "year": 2010,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 2.9,
+      "votes": 239,
+      "tomatometer": 6,
+      "audience_score": 47,
+      "runtime_minutes": 108,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/0JdXrfBHT2qb3q4qolhdwscwn0o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8029984_p_v8_aa.jpg",
+      "plot": "Inspired by a music-video contest with a million-dollar prize, five young classmates form a music group called \"The 5 Ovations.\" Despite their limited resources, these street-smart teens have the…",
+      "directors": [
+        "Stewart Raffill"
       ]
     },
     {
@@ -1225,6 +1487,29 @@
       ]
     },
     {
+      "id": "jeanne_and_the_perfect_guy_1999",
+      "category": "musical",
+      "type": "movie",
+      "title": "Jeanne and the Perfect Guy",
+      "original_title": "Jeanne and the Perfect Guy",
+      "year": 1998,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 6.3,
+      "votes": 68,
+      "tomatometer": 71,
+      "audience_score": 58,
+      "runtime_minutes": 105,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/TZFr0aUQqzKhQAVgZUTVfImJlLg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22378_v_v8_aa.jpg",
+      "plot": "In this modern musical, young and uncommitted Jeanne (Virginie Ledoyen) spends her days as a single woman in France by going on a succession of dates with various men, but never really finding much…",
+      "directors": [
+        "Olivier Ducastel",
+        "Jacques Martineau"
+      ]
+    },
+    {
       "id": "stuck_2019",
       "category": "musical",
       "type": "movie",
@@ -1269,6 +1554,28 @@
       "plot": "Pulitzer Prize and Tony Award winner Lin-Manuel Miranda makes his feature directorial debut with tick, tick...BOOM!, an adaptation of the autobiographical musical by Jonathan Larson, who…",
       "directors": [
         "Lin-Manuel Miranda"
+      ]
+    },
+    {
+      "id": "war_requiem",
+      "category": "musical",
+      "type": "movie",
+      "title": "The War Requiem",
+      "original_title": "The War Requiem",
+      "year": 1988,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 8.5,
+      "votes": 41,
+      "tomatometer": 100,
+      "audience_score": 62,
+      "runtime_minutes": 85,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/TEkKSS-6slAn7-ilr0NYcORy5Vc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p50937_v_v8_aa.jpg",
+      "plot": "This experimental film synthesizes the poetry of Wilfred Owen, wordless reenactments of events from Owen's life, stock footage of 20th-century wars and music by composer Benjamin Britten. During…",
+      "directors": [
+        "Derek Jarman"
       ]
     },
     {

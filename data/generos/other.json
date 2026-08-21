@@ -1,8 +1,31 @@
 {
   "genre": "other",
   "name": "Other",
-  "count": 3,
+  "count": 5,
   "titles": [
+    {
+      "id": "the_forge",
+      "category": "drama",
+      "type": "movie",
+      "title": "The Forge",
+      "original_title": "The Forge",
+      "year": 2024,
+      "genres": [
+        "Drama",
+        "Other"
+      ],
+      "rating": 6.0,
+      "votes": 4876,
+      "tomatometer": 63,
+      "audience_score": 99,
+      "runtime_minutes": 123,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/WgMRFZ0KHgGNgP2ZmkpD9t0TN4U=/300x450/v2/https://resizing.flixster.com/2Po4gBabEI2VHG8qLHkSY-h6yGo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0MWRmZGU3LTgxYjUtNDhlNS1hMDgwLTg4ZDYyZGViMzcxYi5qcGc=",
+      "plot": "Isaiah Wright has some growing up to do. A year out of high school with no plans for his future, Isaiah is challenged by his single mom and a successful businessman to start charting a better course…",
+      "directors": [
+        "Alex Kendrick"
+      ]
+    },
     {
       "id": "ordinary_things",
       "category": "romance",
@@ -25,6 +48,30 @@
       "plot": "Dannie, an idealistic woman, fakes a wedding with her childhood best friend to fulfill her dying mother's wish; She faces a dilemma when her mother miraculously recovers.",
       "directors": [
         "Micah Caronna"
+      ]
+    },
+    {
+      "id": "to_the_moon_2020",
+      "category": "nature",
+      "type": "movie",
+      "title": "To the Moon",
+      "original_title": "To the Moon",
+      "year": 2020,
+      "genres": [
+        "Documentary",
+        "Nature",
+        "Other"
+      ],
+      "rating": 8.7,
+      "votes": 1,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 80,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/pfWn_iqA7S8TJuXcBZNtTej17SQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21121496_p_v7_aa.jpg",
+      "plot": "TO THE MOON is a beautiful and poetic cinematic ode to the moon. Made primarily from international cinematic archive in combination with literary fragments and original moonlit cinematography filmed…",
+      "directors": [
+        "Tadhg O'Sullivan"
       ]
     },
     {

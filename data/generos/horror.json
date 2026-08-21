@@ -1,7 +1,7 @@
 {
   "genre": "horror",
   "name": "Horror",
-  "count": 457,
+  "count": 770,
   "titles": [
     {
       "id": "prometheus_2012",
@@ -28,6 +28,29 @@
       ]
     },
     {
+      "id": "scary_movie",
+      "category": "horror",
+      "type": "movie",
+      "title": "Scary Movie",
+      "original_title": "Scary Movie",
+      "year": 2000,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 5.5,
+      "votes": 102165,
+      "tomatometer": 52,
+      "audience_score": 43,
+      "runtime_minutes": 88,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/U3m1F6ZmE2NzaqCdpcS2E884vkM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25765_p_v12_aj.jpg",
+      "plot": "Defying the very notion of good taste, Scary Movie out-parodies the pop culture parodies with a no-holds barred assault on the most popular images and talked-about moments from recent films,…",
+      "directors": [
+        "Keenen Ivory Wayans"
+      ]
+    },
+    {
       "id": "28_days_later",
       "category": "horror",
       "type": "movie",
@@ -39,7 +62,7 @@
         "Mystery & Thriller"
       ],
       "rating": 7.6,
-      "votes": 93355,
+      "votes": 93356,
       "tomatometer": 87,
       "audience_score": 85,
       "runtime_minutes": 113,
@@ -76,6 +99,124 @@
       ]
     },
     {
+      "id": "insidious",
+      "category": "horror",
+      "type": "movie",
+      "title": "Insidious",
+      "original_title": "Insidious",
+      "year": 2011,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.0,
+      "votes": 89690,
+      "tomatometer": 66,
+      "audience_score": 62,
+      "runtime_minutes": 103,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Mst_hRZGNe2pOIN5UFH_CCZoT_E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8494407_p_v10_ak.jpg",
+      "plot": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+      "directors": [
+        "James Wan"
+      ]
+    },
+    {
+      "id": "ring",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Ring",
+      "original_title": "The Ring",
+      "year": 2002,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.8,
+      "votes": 84638,
+      "tomatometer": 72,
+      "audience_score": 48,
+      "runtime_minutes": 115,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/hIZjLSFAVZhwfSBA3lTQlOfOkbs=/300x450/v2/https://resizing.flixster.com/dpjFWDZl4Ha3ETv97N81MCfYZqA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4MzhhMzBkLTQ1ZWYtNDk1Mi1iN2RjLTg1N2JiZWZmZDg1My53ZWJw",
+      "plot": "It sounds like just another urban legend -- a videotape filled with nightmarish images leads to a phone call foretelling the viewer's death in exactly seven days. Newspaper reporter Rachel Keller…",
+      "directors": [
+        "Gore Verbinski"
+      ]
+    },
+    {
+      "id": "zombieland",
+      "category": "horror",
+      "type": "movie",
+      "title": "Zombieland",
+      "original_title": "Zombieland",
+      "year": 2009,
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Drama",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 7.4,
+      "votes": 82838,
+      "tomatometer": 89,
+      "audience_score": 86,
+      "runtime_minutes": 87,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/lC5N3GgX-0fQa9AAb0pR5zExxr0=/300x450/v2/https://resizing.flixster.com/3mXppyuoz_G-md3zWzEWzwxD6c0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJhYjlhYTkzLTk2YjUtNDI5My1iNzQ2LWUyNjFkMGMzMmVmNy5qcGc=",
+      "plot": "Nerdy college student Columbus (Jesse Eisenberg) has survived the plague that has turned mankind into flesh-devouring zombies because he's scared of just about everything. Gun-toting, Twinkie-loving…",
+      "directors": [
+        "Ruben Fleischer"
+      ]
+    },
+    {
+      "id": "saw_ii",
+      "category": "horror",
+      "type": "movie",
+      "title": "Saw II",
+      "original_title": "Saw II",
+      "year": 2005,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.0,
+      "votes": 82506,
+      "tomatometer": 39,
+      "audience_score": 59,
+      "runtime_minutes": 93,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Qs4zRxsHqw4CdcRKVOz4U2uRPAM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90490_p_v13_ab.jpg",
+      "plot": "On the hunt for the twisted vigilante and serial killer Jigsaw, Detective Eric Matthews and his team must apprehend the elusive murderer to rescue eight people trapped in an abandoned house, before…",
+      "directors": [
+        "Darren Bousman"
+      ]
+    },
+    {
+      "id": "saw",
+      "category": "horror",
+      "type": "movie",
+      "title": "Saw",
+      "original_title": "Saw",
+      "year": 2004,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.8,
+      "votes": 81851,
+      "tomatometer": 50,
+      "audience_score": 84,
+      "runtime_minutes": 103,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/O6IcwJFyX3SzuN80kMCM2nZs1Dc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34813_v_v8_al.jpg",
+      "plot": "Photographer Adam Stanheight (Leigh Whannell) and oncologist Lawrence Gordon (Cary Elwes) regain consciousness while chained to pipes at either end of a filthy bathroom. As the two men realize…",
+      "directors": [
+        "James Wan"
+      ]
+    },
+    {
       "id": "alien",
       "category": "horror",
       "type": "movie",
@@ -96,6 +237,30 @@
       "plot": "In deep space, the crew of the commercial starship Nostromo is awakened from their cryo-sleep capsules halfway through their journey home to investigate a distress call from an alien vessel. The…",
       "directors": [
         "Ridley Scott"
+      ]
+    },
+    {
+      "id": "sixth_sense",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Sixth Sense",
+      "original_title": "The Sixth Sense",
+      "year": 1999,
+      "genres": [
+        "Mystery & Thriller",
+        "Action",
+        "Horror"
+      ],
+      "rating": 8.0,
+      "votes": 79547,
+      "tomatometer": 86,
+      "audience_score": 90,
+      "runtime_minutes": 107,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/F1_ztBZ1xNukCPVfVs5vnagw2Dk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23611_p_v8_ah.jpg",
+      "plot": "Young Cole Sear (Haley Joel Osment) is haunted by a dark secret: he is visited by ghosts. Cole is frightened by visitations from those with unresolved problems who appear from the shadows. He is too…",
+      "directors": [
+        "M. Night Shyamalan"
       ]
     },
     {
@@ -148,6 +313,29 @@
       ]
     },
     {
+      "id": "saw_4",
+      "category": "horror",
+      "type": "movie",
+      "title": "Saw IV",
+      "original_title": "Saw IV",
+      "year": 2007,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 3.9,
+      "votes": 69534,
+      "tomatometer": 19,
+      "audience_score": 62,
+      "runtime_minutes": 92,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/liQEgbMjKFMRu54xuOtIJ4vLGlA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p169758_p_v10_aa.jpg",
+      "plot": "During the autopsy of serial killer Jigsaw (Tobin Bell), a cassette tape is discovered in his stomach in which he warns that his gory games will continue. Sure enough, SWAT Lt. Daniel Rigg (Lyriq…",
+      "directors": [
+        "Darren Bousman"
+      ]
+    },
+    {
       "id": "the_conjuring",
       "category": "horror",
       "type": "movie",
@@ -197,6 +385,52 @@
       ]
     },
     {
+      "id": "30_days_of_night",
+      "category": "horror",
+      "type": "movie",
+      "title": "30 Days of Night",
+      "original_title": "30 Days of Night",
+      "year": 2007,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.8,
+      "votes": 61987,
+      "tomatometer": 51,
+      "audience_score": 56,
+      "runtime_minutes": 113,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/owpa3ViaYGFohd3c1QE98SXQX3M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p169550_p_v10_al.jpg",
+      "plot": "In the far Northern Hemisphere, the small town of Barrow, Alaska, experiences a solid month of darkness every year. Though most of the residents head south for the winter, some townspeople remain…",
+      "directors": [
+        "David Slade"
+      ]
+    },
+    {
+      "id": "saw_3",
+      "category": "horror",
+      "type": "movie",
+      "title": "Saw III",
+      "original_title": "Saw III",
+      "year": 2006,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.6,
+      "votes": 61483,
+      "tomatometer": 28,
+      "audience_score": 71,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/0iBhG7l06SWi7G58r1X9D8yPeHU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p161797_p_v13_bd.jpg",
+      "plot": "Dr. Lynn Denlon (Bahar Soomekh) becomes a pawn in the Jigsaw Killer's (Tobin Bell) latest gory game. Kidnapped and taken to an abandoned warehouse, she finds Jigsaw bedridden and dying. Her task is…",
+      "directors": [
+        "Darren Bousman"
+      ]
+    },
+    {
       "id": "american_psycho",
       "category": "horror",
       "type": "movie",
@@ -209,7 +443,7 @@
         "Horror"
       ],
       "rating": 6.8,
-      "votes": 59134,
+      "votes": 59135,
       "tomatometer": 69,
       "audience_score": 85,
       "runtime_minutes": 102,
@@ -576,6 +810,220 @@
       ]
     },
     {
+      "id": "psycho",
+      "category": "horror",
+      "type": "movie",
+      "title": "Psycho",
+      "original_title": "Psycho",
+      "year": 1960,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 9.6,
+      "votes": 35483,
+      "tomatometer": 97,
+      "audience_score": 95,
+      "runtime_minutes": 109,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/kcCnOkFsqZbUXbBh0FCmhisyPaU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p283_p_v12_an.jpg",
+      "plot": "Phoenix secretary Marion Crane (Janet Leigh), on the lam after stealing $40,000 from her employer in order to run away with her boyfriend, Sam Loomis (John Gavin), is overcome by exhaustion during a…",
+      "directors": [
+        "Alfred Hitchcock"
+      ]
+    },
+    {
+      "id": "hostel",
+      "category": "horror",
+      "type": "movie",
+      "title": "Hostel",
+      "original_title": "Hostel",
+      "year": 2006,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 6.3,
+      "votes": 35400,
+      "tomatometer": 60,
+      "audience_score": 53,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/bfPq4venUf5V_mM2hkVXDY_D5dE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160256_p_v13_aj.jpg",
+      "plot": "Best friends Josh (Derek Richardson) and Paxton (Jay Hernandez) decide to spend the summer after college graduation on an all-out backpacking trip across Europe. While stopping in Amsterdam to…",
+      "directors": [
+        "Eli Roth"
+      ]
+    },
+    {
+      "id": "venom_2018",
+      "category": "horror",
+      "type": "movie",
+      "title": "Venom",
+      "original_title": "Venom",
+      "year": 2018,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Horror"
+      ],
+      "rating": 4.5,
+      "votes": 34687,
+      "tomatometer": 31,
+      "audience_score": 80,
+      "runtime_minutes": 112,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/xxpw5NfQvuBxGS5IUfK23PUDSYQ=/300x450/v2/https://resizing.flixster.com/WKOrCI1pVpSpvXmfaD3NIq0ZalA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RiYTFmYWJlLTRhOWYtNDU2Zi04ZjliLTQ2NTI3OWNjYmYyNi53ZWJw",
+      "plot": "Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation. While investigating one of Drake's experiments, Eddie's body merges with the…",
+      "directors": [
+        "Ruben Fleischer"
+      ]
+    },
+    {
+      "id": "lost_boys",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Lost Boys",
+      "original_title": "The Lost Boys",
+      "year": 1987,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "rating": 6.3,
+      "votes": 34122,
+      "tomatometer": 75,
+      "audience_score": 85,
+      "runtime_minutes": 97,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/R-HQlqy3T6ESJWE9Eom0TGY8M0Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10177_p_v8_ap.jpg",
+      "plot": "Teenage brothers Michael (Jason Patric) and Sam (Corey Haim) move with their mother (Dianne Wiest) to a small town in northern California. While the younger Sam meets a pair of kindred spirits in…",
+      "directors": [
+        "Joel Schumacher"
+      ]
+    },
+    {
+      "id": "avp2",
+      "category": "horror",
+      "type": "movie",
+      "title": "Aliens vs. Predator: Requiem",
+      "original_title": "Aliens vs. Predator: Requiem",
+      "year": 2007,
+      "genres": [
+        "Sci-Fi",
+        "Horror",
+        "Mystery & Thriller",
+        "Action"
+      ],
+      "rating": 3.2,
+      "votes": 33029,
+      "tomatometer": 12,
+      "audience_score": 30,
+      "runtime_minutes": 94,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/fgsdnQyYxjLVeGuwRmSBWzCzfY4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p170964_p_v12_au.jpg",
+      "plot": "Residents (Steven Pasquale, Reiko Aylesworth, John Ortiz) of Gunnison, Colorado, are caught up in the crossfire when two deadly extraterrestrial species bring their longstanding conflict to Earth. On…",
+      "directors": [
+        "Colin Strause",
+        "Greg Strause"
+      ]
+    },
+    {
+      "id": "sinister_2012",
+      "category": "horror",
+      "type": "movie",
+      "title": "Sinister",
+      "original_title": "Sinister",
+      "year": 2012,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 32850,
+      "tomatometer": 64,
+      "audience_score": 62,
+      "runtime_minutes": 109,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/qm0nTtF6sj5SaWKHP0wk0cycXqg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9086074_p_v12_aj.jpg",
+      "plot": "True-crime writer Ellison Oswald is in a slump; he hasn't had a bestseller in more than 10 years and is becoming increasingly desperate for a hit. So, when he discovers the existence of a snuff film…",
+      "directors": [
+        "Scott Derrickson"
+      ]
+    },
+    {
+      "id": "planet_terror",
+      "category": "horror",
+      "type": "movie",
+      "title": "Planet Terror",
+      "original_title": "Planet Terror",
+      "year": 2007,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.6,
+      "votes": 32687,
+      "tomatometer": 76,
+      "audience_score": 77,
+      "runtime_minutes": 86,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/S0hwZOJWK21l8dz6Ja89FDnyG9Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p169325_p_v8_au.jpg",
+      "plot": "An ordinary evening in a small Texas town becomes a grisly nightmare when a horde of flesh-eating zombies goes on the prowl. Cherry (Rose McGowan), a go-go dancer, and Wray (Freddy Rodriguez), her…",
+      "directors": [
+        "Robert Rodriguez"
+      ]
+    },
+    {
+      "id": "final_destination",
+      "category": "horror",
+      "type": "movie",
+      "title": "Final Destination",
+      "original_title": "Final Destination",
+      "year": 2000,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.6,
+      "votes": 32679,
+      "tomatometer": 51,
+      "audience_score": 68,
+      "runtime_minutes": 98,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/biLsCPIG6fq93ATqu8txh7Ef0tA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25022_p_v8_aa.jpg",
+      "plot": "Alex Browning is embarking on a trip to Paris. He experiences a premonition -- he sees the plane explode moments after leaving the ground. Insisting that everyone get off the plane, Alex and seven…",
+      "directors": [
+        "James Wong"
+      ]
+    },
+    {
+      "id": "silent_hill",
+      "category": "horror",
+      "type": "movie",
+      "title": "Silent Hill",
+      "original_title": "Silent Hill",
+      "year": 2006,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.9,
+      "votes": 32298,
+      "tomatometer": 34,
+      "audience_score": 63,
+      "runtime_minutes": 125,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/fyPXytgwoS1RmpVM2mD-PZbMd0Q=/300x450/v2/https://resizing.flixster.com/3p24B0FoMqOx1iBwlNJuXXC-qIo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlNDQ0ZjA2LWQ3YWYtNGQ0YS1iZWNhLWUxYTFiZDJlMjM5Yy5qcGc=",
+      "plot": "Unable to accept the fact that her daughter is dying, Rose (Radha Mitchell) decides to take the girl to a faith healer. On the way, the pair drive through a portal in reality, leading to an eerie…",
+      "directors": [
+        "Christophe Gans"
+      ]
+    },
+    {
       "id": "10012256-predators",
       "category": "horror",
       "type": "movie",
@@ -698,6 +1146,29 @@
       ]
     },
     {
+      "id": "scream-4",
+      "category": "horror",
+      "type": "movie",
+      "title": "Scream 4",
+      "original_title": "Scream 4",
+      "year": 2011,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "rating": 6.0,
+      "votes": 28163,
+      "tomatometer": 61,
+      "audience_score": 57,
+      "runtime_minutes": 111,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/yfSm7GdX8M3tqzwIH2tbCNDuoUI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8361063_p_v8_aa.jpg",
+      "plot": "It has been many years since the Ghostface Killer cut a deadly path through the town of Woodsboro. In order to get over the trauma of those horrific events, Sidney Prescott (Neve Campbell) has…",
+      "directors": [
+        "Wes Craven"
+      ]
+    },
+    {
       "id": "the_orphanage",
       "category": "horror",
       "type": "movie",
@@ -745,6 +1216,29 @@
       ]
     },
     {
+      "id": "paranormal_activity_2",
+      "category": "horror",
+      "type": "movie",
+      "title": "Paranormal Activity 2",
+      "original_title": "Paranormal Activity 2",
+      "year": 2010,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.1,
+      "votes": 26645,
+      "tomatometer": 58,
+      "audience_score": 48,
+      "runtime_minutes": 91,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Is4q2tN_0ijvd81GPqUHTliZBUk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8077746_p_v8_aw.jpg",
+      "plot": "When the Reys move into their new Southern California home, little do they realize that the house is already occupied. After coming home one day to find the house in disarray -- but with no signs of…",
+      "directors": [
+        "Tod Williams"
+      ]
+    },
+    {
       "id": "the_wolfman_2010",
       "category": "horror",
       "type": "movie",
@@ -766,6 +1260,30 @@
       "plot": "Though absent from his ancestral home of Blackmoor for many years, aristocrat Lawrence Talbot returns to find his missing brother at the request of the latter's fiancée, Gwen. He learns that a…",
       "directors": [
         "Joe Johnston"
+      ]
+    },
+    {
+      "id": "descent",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Descent",
+      "original_title": "The Descent",
+      "year": 2006,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller",
+        "Adventure"
+      ],
+      "rating": 7.6,
+      "votes": 26473,
+      "tomatometer": 87,
+      "audience_score": 76,
+      "runtime_minutes": 99,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/pS5GdlCPdtNTZCQ6dYIEe0cbhdU=/300x450/v2/https://resizing.flixster.com/l5tcGaggMYcswaH3ePG-lIkUjlc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MxZGU0ZDE2LTRlM2EtNDNlZi1hMzA3LTFmYzZkM2E2YjBmMi5qcGc=",
+      "plot": "A year after a severe emotional trauma, Sarah (Shauna Macdonald) goes to North Carolina to spend some time exploring caves with her friends; after descending underground, the women find strange cave…",
+      "directors": [
+        "Neil Marshall"
       ]
     },
     {
@@ -829,7 +1347,7 @@
         "Mystery & Thriller"
       ],
       "rating": 5.8,
-      "votes": 26153,
+      "votes": 26154,
       "tomatometer": 59,
       "audience_score": 63,
       "runtime_minutes": 123,
@@ -864,6 +1382,52 @@
       ]
     },
     {
+      "id": "final_destination_3",
+      "category": "horror",
+      "type": "movie",
+      "title": "Final Destination 3",
+      "original_title": "Final Destination 3",
+      "year": 2006,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.4,
+      "votes": 25878,
+      "tomatometer": 44,
+      "audience_score": 57,
+      "runtime_minutes": 92,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/YQhcv4jOpOX8f4MeDcXOT4EoN48=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159765_p_v8_ba.jpg",
+      "plot": "Six years after a group of high-school students first cheated death, another teen (Mary Elizabeth Winstead) has a premonition that she and her friends will be involved in a horrifying roller-coaster…",
+      "directors": [
+        "James Wong"
+      ]
+    },
+    {
+      "id": "1205380-crazies",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Crazies",
+      "original_title": "The Crazies",
+      "year": 2010,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.3,
+      "votes": 25832,
+      "tomatometer": 72,
+      "audience_score": 57,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/vuaYO2qOw4l9tucMAZh6-7BlvnU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p197901_p_v8_al.jpg",
+      "plot": "Anarchy reigns when an unknown toxin turns the peaceful citizens of Ogden Marsh into bloodthirsty lunatics. In an effort to contain the spread of the infection, authorities blockade the town and use…",
+      "directors": [
+        "Breck Eisner"
+      ]
+    },
+    {
       "id": "alien_covenant",
       "category": "horror",
       "type": "movie",
@@ -876,7 +1440,7 @@
         "Mystery & Thriller"
       ],
       "rating": 6.3,
-      "votes": 25648,
+      "votes": 25649,
       "tomatometer": 65,
       "audience_score": 55,
       "runtime_minutes": 122,
@@ -908,6 +1472,28 @@
       "plot": "Kristen (Liv Tyler) and James (Scott Speedman) are expecting a relaxing weekend at a family vacation home, but their stay turns out to be anything but peaceful. First, a mysterious and dangerous…",
       "directors": [
         "Bryan Bertino"
+      ]
+    },
+    {
+      "id": "hills_have_eyes",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Hills Have Eyes",
+      "original_title": "The Hills Have Eyes",
+      "year": 2006,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 5.6,
+      "votes": 25359,
+      "tomatometer": 51,
+      "audience_score": 58,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/xsdTaz4nXIDlG4_Cfx6B5dnYqDU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159802_p_v8_al.jpg",
+      "plot": "A family road trip takes a terrifying turn when the travelers become stranded in a barren atomic zone established by the U.S. government. However, the unlucky travelers discover to their horror that…",
+      "directors": [
+        "Alexandre Aja"
       ]
     },
     {
@@ -962,6 +1548,29 @@
       ]
     },
     {
+      "id": "the_grudge",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Grudge",
+      "original_title": "The Grudge",
+      "year": 2004,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.3,
+      "votes": 24695,
+      "tomatometer": 41,
+      "audience_score": 46,
+      "runtime_minutes": 90,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/UUJKxhvrUsBnter5HiRMzCp9Zwg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35157_p_v10_aj.jpg",
+      "plot": "Matthew Williams (William Mapother), his wife, Jennifer (Clea DuVall), and mother, Emma (Grace Zabriskie), are Americans making a new life in Tokyo. Together they move into a house that has been the…",
+      "directors": [
+        "Takashi Shimizu"
+      ]
+    },
+    {
       "id": "carrie",
       "category": "horror",
       "type": "movie",
@@ -1004,6 +1613,29 @@
       "plot": "Ellen Ripley (Sigourney Weaver) is the only survivor when she crash lands on Fiorina 161, a bleak wasteland inhabited by former inmates of the planet's maximum security prison. Once again, Ripley…",
       "directors": [
         "David Fincher"
+      ]
+    },
+    {
+      "id": "final_destination_2",
+      "category": "horror",
+      "type": "movie",
+      "title": "Final Destination 2",
+      "original_title": "Final Destination 2",
+      "year": 2003,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.0,
+      "votes": 22312,
+      "tomatometer": 52,
+      "audience_score": 58,
+      "runtime_minutes": 90,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Owb17AUp8Jxse2bKQw2LBnR83r0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31359_p_v10_ad.jpg",
+      "plot": "Kimberly (A.J. Cook) has a premonition of a horrible highway accident killing multiple people -- including her and her friends. She blocks the cars behind her on the ramp from joining traffic -- and…",
+      "directors": [
+        "David R. Ellis"
       ]
     },
     {
@@ -1128,6 +1760,29 @@
       ]
     },
     {
+      "id": "fright_night_2011",
+      "category": "horror",
+      "type": "movie",
+      "title": "Fright Night",
+      "original_title": "Fright Night",
+      "year": 2011,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "rating": 6.3,
+      "votes": 21253,
+      "tomatometer": 72,
+      "audience_score": 59,
+      "runtime_minutes": 106,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/pRyPUVQwdS_UQaffhT04t2LijQs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8609451_p_v8_aa.jpg",
+      "plot": "Charley (Anton Yelchin) is a high-school senior who's in with the \"in\" crowd and dating Amy (Imogen Poots), the most sought-after gal on campus. But trouble enters his world in the form of Jerry…",
+      "directors": [
+        "Craig Gillespie"
+      ]
+    },
+    {
       "id": "friday_the_13th_2009",
       "category": "horror",
       "type": "movie",
@@ -1148,6 +1803,76 @@
       "plot": "Against the advice of locals and police, Clay (Jared Padalecki) scours the eerie woods surrounding Crystal Lake for his missing sister. But the rotting cabins of an abandoned summer camp are not the…",
       "directors": [
         "Marcus Nispel"
+      ]
+    },
+    {
+      "id": "devil",
+      "category": "horror",
+      "type": "movie",
+      "title": "Devil",
+      "original_title": "Devil",
+      "year": 2010,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.1,
+      "votes": 20377,
+      "tomatometer": 49,
+      "audience_score": 43,
+      "runtime_minutes": 80,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Dy1vuXVj0Kvhkih8V4VGI8dVlz0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8193232_p_v8_as.jpg",
+      "plot": "Five strangers' day begins with an elevator ride in a Philadelphia office tower. But, what happens next is anything but ordinary. The elevator gets stuck, and the trapped passengers, who expected to…",
+      "directors": [
+        "John Erick Dowdle"
+      ]
+    },
+    {
+      "id": "jigsaw_2017",
+      "category": "horror",
+      "type": "movie",
+      "title": "Jigsaw",
+      "original_title": "Jigsaw",
+      "year": 2017,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.8,
+      "votes": 19820,
+      "tomatometer": 32,
+      "audience_score": 88,
+      "runtime_minutes": 92,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/p_WS-NiuRuwCtW5ks6ijP2BAq88=/300x450/v2/https://resizing.flixster.com/VlBIjTsDd-spF5IB87FAnipxdPI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjNzU3MmI0LTVlNTMtNGE2Mi1hNDk0LWRkZDM1ZmEwY2U3Yy53ZWJw",
+      "plot": "After a series of murders bearing all the markings of the Jigsaw killer, law enforcement officials find themselves chasing the ghost of a man who has been dead for over a decade, and they become…",
+      "directors": [
+        "Michael Spierig",
+        "Peter Spierig"
+      ]
+    },
+    {
+      "id": "covenant",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Covenant",
+      "original_title": "The Covenant",
+      "year": 2006,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 2.9,
+      "votes": 19773,
+      "tomatometer": 4,
+      "audience_score": 62,
+      "runtime_minutes": 97,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/dR-DSUpkRsoeGeZo6gf-ogv9kno=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p161451_p_v10_ba.jpg",
+      "plot": "In the 17th century, five families with supernatural powers make a pact of silence. Eventually one power-hungry family is banished. The descendants of those four remaining families are heirs to…",
+      "directors": [
+        "Renny Harlin"
       ]
     },
     {
@@ -1194,6 +1919,28 @@
       "plot": "Rocky (Jane Levy), Alex and Money are three Detroit thieves who get their kicks by breaking into the houses of wealthy people. Money gets word about a blind veteran who won a major cash settlement…",
       "directors": [
         "Fede Alvarez"
+      ]
+    },
+    {
+      "id": "texas_chainsaw_massacre",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Texas Chainsaw Massacre",
+      "original_title": "The Texas Chainsaw Massacre",
+      "year": 2003,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 4.9,
+      "votes": 19683,
+      "tomatometer": 37,
+      "audience_score": 58,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/sNM5qnYkMkCk_jYCEKJ-ZUGnYhU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31727_p_v13_aj.jpg",
+      "plot": "In this remake of the horror classic, a group of young travelers, including Erin, Andy and Morgan, comes across an isolated rural home while driving through Texas. Unfortunately for them, the…",
+      "directors": [
+        "Marcus Nispel"
       ]
     },
     {
@@ -1270,6 +2017,53 @@
       ]
     },
     {
+      "id": "10008606-eye",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Eye",
+      "original_title": "The Eye",
+      "year": 2008,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.3,
+      "votes": 18662,
+      "tomatometer": 22,
+      "audience_score": 43,
+      "runtime_minutes": 97,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/XDuAnBuyKQrBc0u2VRKnIHZSwTg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p169757_p_v8_aw.jpg",
+      "plot": "Blind for most of her life, concert violinist Sydney Wells (Jessica Alba) is the recipient of a double corneal transplant that restores her sight at long last. With the help of her doctor (Alessandro…",
+      "directors": [
+        "David Moreau",
+        "Xavier Palud"
+      ]
+    },
+    {
+      "id": "saw_v",
+      "category": "horror",
+      "type": "movie",
+      "title": "Saw V",
+      "original_title": "Saw V",
+      "year": 2008,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 3.2,
+      "votes": 18573,
+      "tomatometer": 13,
+      "audience_score": 52,
+      "runtime_minutes": 92,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ilmUClmuCMzTHw486qI4ri9OLpU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176557_p_v13_al.jpg",
+      "plot": "As the apparently last disciple and heir apparent of Jigsaw, Hoffman (Costas Mandylor) goes on the hunt to protect his secret. Using a series of increasingly bizarre and grisly traps, Hoffman…",
+      "directors": [
+        "David Hackl"
+      ]
+    },
+    {
       "id": "oculus",
       "category": "horror",
       "type": "movie",
@@ -1340,6 +2134,51 @@
       ]
     },
     {
+      "id": "queen_of_the_damned",
+      "category": "horror",
+      "type": "movie",
+      "title": "Queen of the Damned",
+      "original_title": "Queen of the Damned",
+      "year": 2002,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 4.1,
+      "votes": 18131,
+      "tomatometer": 17,
+      "audience_score": 66,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/y3o4rMitS7iUPG7IKnKhqvxn0O0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28898_p_v8_aa.jpg",
+      "plot": "Follows the legendary vampire Lestat (Stuart Townsend), who has reinvented himself as a rock star in the contemporary American music scene. His music wakes Akasha (Aaliyah), the queen of all…",
+      "directors": [
+        "Michael Rymer"
+      ]
+    },
+    {
+      "id": "final_destination_5",
+      "category": "horror",
+      "type": "movie",
+      "title": "Final Destination 5",
+      "original_title": "Final Destination 5",
+      "year": 2011,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.0,
+      "votes": 17997,
+      "tomatometer": 64,
+      "audience_score": 53,
+      "runtime_minutes": 92,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/YdPZddh6p9jih_Z67cclMHFvRl4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8609535_p_v10_ap.jpg",
+      "plot": "During a bus ride with his colleagues to a corporate retreat, Sam (Nicholas D'Agosto) experiences a horrifying vision: the suspension bridge that they -- and many others -- are crossing starts to…",
+      "directors": [
+        "Steven Quale"
+      ]
+    },
+    {
       "id": "beetlejuice_beetlejuice",
       "category": "horror",
       "type": "movie",
@@ -1361,6 +2200,29 @@
       "plot": "Beetlejuice is back! After an unexpected family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her…",
       "directors": [
         "Tim Burton"
+      ]
+    },
+    {
+      "id": "identity",
+      "category": "horror",
+      "type": "movie",
+      "title": "Identity",
+      "original_title": "Identity",
+      "year": 2003,
+      "genres": [
+        "Mystery & Thriller",
+        "Horror"
+      ],
+      "rating": 6.6,
+      "votes": 17553,
+      "tomatometer": 63,
+      "audience_score": 75,
+      "runtime_minutes": 90,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/iJcpgc-LN0oDmuFwc36VtUf-tlQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31147_p_v8_ag.jpg",
+      "plot": "When a vicious storm breaks out in the Nevada desert, 10 people seek refuge in an isolated motel. At the same time, a serial killer under the care of psychiatrist Doctor Mallick -- who has just found…",
+      "directors": [
+        "James Mangold"
       ]
     },
     {
@@ -1411,6 +2273,29 @@
       ]
     },
     {
+      "id": "1205377-last_house_on_the_left",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Last House on the Left",
+      "original_title": "The Last House on the Left",
+      "year": 2009,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.2,
+      "votes": 17316,
+      "tomatometer": 42,
+      "audience_score": 52,
+      "runtime_minutes": 110,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/V9d5yn8EjCSf6oHVEmZeGDX-ELQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p194061_p_v10_aq.jpg",
+      "plot": "Mari and her friend look forward to a holiday at the remote Collingwood lake house, but instead an escaped convict (Garret Dillahunt) and his crew kidnap them and later leave them for dead. Mari…",
+      "directors": [
+        "Dennis Iliadis"
+      ]
+    },
+    {
       "id": "dead_silence",
       "category": "horror",
       "type": "movie",
@@ -1431,6 +2316,118 @@
       "plot": "After his wife meets a grisly end, Jamie Ashen (Ryan Kwanten) returns to their creepy hometown of Ravens Fair to unravel the mystery of her murder. Once there, he discovers the legend of Mary Shaw…",
       "directors": [
         "James Wan"
+      ]
+    },
+    {
+      "id": "piranha_3d",
+      "category": "horror",
+      "type": "movie",
+      "title": "Piranha",
+      "original_title": "Piranha",
+      "year": 2010,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.3,
+      "votes": 17086,
+      "tomatometer": 76,
+      "audience_score": 45,
+      "runtime_minutes": 88,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/79arbqAKqRzT3kQZ8HZ6SWQ8E-M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p178157_p_v8_am.jpg",
+      "plot": "Spring break turns gory when an underground tremor releases hundreds of prehistoric, carnivorous fish into Lake Victoria, a popular waterside resort. Local cop Julie Forester (Elisabeth Shue) must…",
+      "directors": [
+        "Alexandre Aja"
+      ]
+    },
+    {
+      "id": "a_haunted_house",
+      "category": "horror",
+      "type": "movie",
+      "title": "A Haunted House",
+      "original_title": "A Haunted House",
+      "year": 2013,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 2.9,
+      "votes": 17032,
+      "tomatometer": 10,
+      "audience_score": 51,
+      "runtime_minutes": 86,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ujvNUaQ8-bfRPTgEMikZGIiDY0Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9488398_p_v12_ay.jpg",
+      "plot": "Young couple Malcolm (Marlon Wayans) and Kisha (Essence Atkins) have just moved into their dream home. As they settle in, they learn that they're not alone -- not because the house is haunted, but…",
+      "directors": [
+        "Mike Tiddes"
+      ]
+    },
+    {
+      "id": "devils_rejects",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Devil's Rejects",
+      "original_title": "The Devil's Rejects",
+      "year": 2005,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 5.9,
+      "votes": 16946,
+      "tomatometer": 54,
+      "audience_score": 78,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/UatFIn_I6z0-lzI6f5sI0qp8zzo=/300x450/v2/https://resizing.flixster.com/NShqhnXTbzU7okvpyHwwj0Ib_8M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxZDI3NzgzLTcwNTktNDJlZC05ZTE1LWU0Y2FlNjNjMDE5Mi5qcGc=",
+      "plot": "After a raid on the rural home of the psychopathic Firefly family, two members of the clan, Otis (Bill Moseley) and Baby (Sheri Moon Zombie), manage to flee the scene. Heading to a remote desert…",
+      "directors": [
+        "Rob Zombie"
+      ]
+    },
+    {
+      "id": "freddy_vs_jason",
+      "category": "horror",
+      "type": "movie",
+      "title": "Freddy vs. Jason",
+      "original_title": "Freddy vs. Jason",
+      "year": 2003,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 5.1,
+      "votes": 16749,
+      "tomatometer": 42,
+      "audience_score": 50,
+      "runtime_minutes": 97,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/SQ9Zjno89vO2Y0t3pSUy_vaJ7rw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32271_p_v8_aa.jpg",
+      "plot": "Two horror icons face off in this supernatural movie. Disfigured serial killer Freddy Krueger (Robert Englund), who attacks his victims in their dreams, has lost much of his power since citizens of…",
+      "directors": [
+        "Ronnie Yu"
+      ]
+    },
+    {
+      "id": "the_texas_chainsaw_massacre_the_beginning",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Texas Chainsaw Massacre: The Beginning",
+      "original_title": "The Texas Chainsaw Massacre: The Beginning",
+      "year": 2006,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 3.8,
+      "votes": 16444,
+      "tomatometer": 16,
+      "audience_score": 53,
+      "runtime_minutes": 91,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/N0X-Mw4cgO0TMVT-ROM25c6OS1Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159816_p_v8_ak.jpg",
+      "plot": "Chrissie and her friends set out on a road trip for a final fling before one is shipped off to Vietnam. Along the way, bikers harass the foursome and cause an accident that throws Chrissie from the…",
+      "directors": [
+        "Jonathan Liebesman"
       ]
     },
     {
@@ -1482,6 +2479,28 @@
       ]
     },
     {
+      "id": "land_of_the_dead",
+      "category": "horror",
+      "type": "movie",
+      "title": "Land of the Dead",
+      "original_title": "Land of the Dead",
+      "year": 2005,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 6.9,
+      "votes": 15959,
+      "tomatometer": 75,
+      "audience_score": 52,
+      "runtime_minutes": 93,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/6OIHQvBbDR33NWFjAzxsXZkcres=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36169_p_v8_aj.jpg",
+      "plot": "In a world where zombies form the majority of the population, the remaining humans build a feudal society away from the undead. Ruthless Paul Kaufman (Dennis Hopper) rules and protects this microcosm…",
+      "directors": [
+        "George A. Romero"
+      ]
+    },
+    {
       "id": "the_possession",
       "category": "horror",
       "type": "movie",
@@ -1502,6 +2521,98 @@
       "plot": "When their youngest daughter, Em (Natasha Calis), becomes strangely obsessed with an antique wooden box bought from a yard sale, parents Clyde (Jeffrey Dean Morgan) and Stephanie (Kyra Sedgwick) see…",
       "directors": [
         "Ole Bornedal"
+      ]
+    },
+    {
+      "id": "amityville_horror",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Amityville Horror",
+      "original_title": "The Amityville Horror",
+      "year": 2005,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 4.3,
+      "votes": 15659,
+      "tomatometer": 23,
+      "audience_score": 52,
+      "runtime_minutes": 89,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/nfETVGeCW2z6ctTv5YKMxIH15EI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35685_p_v8_ah.jpg",
+      "plot": "When George Lutz (Ryan Reynolds) and his wife, Kathy (Melissa George), find a beautiful new house in the small town of Amityville, N.Y., they think the place is too good to be true. After they move…",
+      "directors": [
+        "Andrew Douglas"
+      ]
+    },
+    {
+      "id": "misery",
+      "category": "horror",
+      "type": "movie",
+      "title": "Misery",
+      "original_title": "Misery",
+      "year": 1990,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.5,
+      "votes": 15557,
+      "tomatometer": 86,
+      "audience_score": 90,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/aymm7_0i5-VNNIxIp1pJlprRG9M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12891_p_v8_aa.jpg",
+      "plot": "After a serious car crash, novelist Paul Sheldon (James Caan) is rescued by former nurse Annie Wilkes (Kathy Bates), who claims to be his biggest fan. Annie brings him to her remote cabin to recover,…",
+      "directors": [
+        "Rob Reiner"
+      ]
+    },
+    {
+      "id": "house_of_wax_2005",
+      "category": "horror",
+      "type": "movie",
+      "title": "House of Wax",
+      "original_title": "House of Wax",
+      "year": 2005,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 4.6,
+      "votes": 15395,
+      "tomatometer": 27,
+      "audience_score": 44,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ep69BggaYp6mMSqU51B7rrpmcR0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35708_p_v8_af.jpg",
+      "plot": "A gang of college friends, including Wade (Jared Padalecki) and his girlfriend, Carly (Elisha Cuthbert), are en route to a school football game when they wind up with a flat tire in a ghost town.…",
+      "directors": [
+        "Jaume Collet-Serra"
+      ]
+    },
+    {
+      "id": "texas_chainsaw",
+      "category": "horror",
+      "type": "movie",
+      "title": "Texas Chainsaw",
+      "original_title": "Texas Chainsaw",
+      "year": 2013,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller",
+        "Drama",
+        "Action"
+      ],
+      "rating": 3.6,
+      "votes": 15345,
+      "tomatometer": 20,
+      "audience_score": 40,
+      "runtime_minutes": 92,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/jVXYYwMKWIBm0IBMlSZDXpfGBBE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9337381_p_v8_ad.jpg",
+      "plot": "Decades ago, residents of Newt, Texas, long suspected that the Sawyer family was responsible for the disappearances of many people. When their suspicions finally were confirmed, vigilantes torched…",
+      "directors": [
+        "John Luessenhop"
       ]
     },
     {
@@ -1623,6 +2734,29 @@
       ]
     },
     {
+      "id": "hereditary",
+      "category": "horror",
+      "type": "movie",
+      "title": "Hereditary",
+      "original_title": "Hereditary",
+      "year": 2018,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.3,
+      "votes": 13984,
+      "tomatometer": 90,
+      "audience_score": 72,
+      "runtime_minutes": 127,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/K266d3zt_wJDBushP1bOZJbwkmI=/300x450/v2/https://resizing.flixster.com/Kde2nKEbaNsSijeVORDpQ8PTrYk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZjk3ZGY1LTVjYmMtNDRmOC04MGY3LTM3NTVjODE2NTEyNS53ZWJw",
+      "plot": "When the matriarch of the Graham family passes away, her daughter and grandchildren begin to unravel cryptic and increasingly terrifying secrets about their ancestry, trying to outrun the sinister…",
+      "directors": [
+        "Ari Aster"
+      ]
+    },
+    {
       "id": "the_devil_inside",
       "category": "horror",
       "type": "movie",
@@ -1643,6 +2777,75 @@
       "plot": "Twenty years after Maria Rossi (Suzan Crowley) murdered three people, her daughter, Isabella (Fernanda Andrade), seeks the truth about that terrible night. Isabella travels to an Italian hospital for…",
       "directors": [
         "William Brent Bell"
+      ]
+    },
+    {
+      "id": "1196221-quarantine",
+      "category": "horror",
+      "type": "movie",
+      "title": "Quarantine",
+      "original_title": "Quarantine",
+      "year": 2008,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.7,
+      "votes": 13721,
+      "tomatometer": 56,
+      "audience_score": 44,
+      "runtime_minutes": 89,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/nT19bycp6wRHXWlOmOBDksPp70A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175499_p_v10_ae.jpg",
+      "plot": "Reporter Angela (Jennifer Carpenter) and her cameraman Scott (Steve Harris) are doing a story on night-shift firefighters for a reality-TV program. A late-night distress call takes them to a Los…",
+      "directors": [
+        "John Erick Dowdle"
+      ]
+    },
+    {
+      "id": "prom_night",
+      "category": "horror",
+      "type": "movie",
+      "title": "Prom Night",
+      "original_title": "Prom Night",
+      "year": 2008,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 2.8,
+      "votes": 13657,
+      "tomatometer": 9,
+      "audience_score": 38,
+      "runtime_minutes": 88,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/pezoPJhg-a9xcym50NrZhKjSSjM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p174284_p_v10_ar.jpg",
+      "plot": "When a deranged high-school teacher kills the family of the girl, Donna, that he loves, in a disturbed attempt to force her into a relationship with him, the man is caught and sent to prison.…",
+      "directors": [
+        "Nelson McCormick"
+      ]
+    },
+    {
+      "id": "when_a_stranger_calls",
+      "category": "horror",
+      "type": "movie",
+      "title": "When a Stranger Calls",
+      "original_title": "When a Stranger Calls",
+      "year": 2006,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 3.7,
+      "votes": 13651,
+      "tomatometer": 8,
+      "audience_score": 44,
+      "runtime_minutes": 87,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/LADjMqWKhXru5rzwUNcuaoiEk0c=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159804_p_v8_ax.jpg",
+      "plot": "Far away from the site of a gruesome murder, a teenager named Jill Johnson (Camilla Belle) arrives at a luxurious home for a baby-sitting job. With the children fast asleep, she settles in for what…",
+      "directors": [
+        "Simon West"
       ]
     },
     {
@@ -1693,6 +2896,75 @@
       ]
     },
     {
+      "id": "1188732-haunting_in_connecticut",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Haunting in Connecticut",
+      "original_title": "The Haunting in Connecticut",
+      "year": 2009,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.4,
+      "votes": 13477,
+      "tomatometer": 18,
+      "audience_score": 45,
+      "runtime_minutes": 92,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/9jmmLjNAePFvltvrsAigtqd3bmU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p190884_p_v12_ao.jpg",
+      "plot": "When their son Matt (Kyle Gallner) receives a diagnosis of cancer, Sara (Virginia Madsen) and Peter (Martin Donovan) Campbell move to Connecticut to be closer to his doctors. At first all is well,…",
+      "directors": [
+        "Peter Cornwell"
+      ]
+    },
+    {
+      "id": "1149472-skeleton_key",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Skeleton Key",
+      "original_title": "The Skeleton Key",
+      "year": 2005,
+      "genres": [
+        "Mystery & Thriller",
+        "Horror"
+      ],
+      "rating": 5.4,
+      "votes": 13356,
+      "tomatometer": 38,
+      "audience_score": 58,
+      "runtime_minutes": 104,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/JElGSPf8eqAd2QFA1X02-oYTAzM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36172_p_v10_ab.jpg",
+      "plot": "Caroline Ellis (Kate Hudson), a good-natured nurse living in New Orleans, quits her job at a hospice to work for Violet Devereaux (Gena Rowlands), an elderly woman whose husband, Ben (John Hurt), is…",
+      "directors": [
+        "Iain Softley"
+      ]
+    },
+    {
+      "id": "jeepers_creepers",
+      "category": "horror",
+      "type": "movie",
+      "title": "Jeepers Creepers",
+      "original_title": "Jeepers Creepers",
+      "year": 2001,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.6,
+      "votes": 13310,
+      "tomatometer": 47,
+      "audience_score": 49,
+      "runtime_minutes": 90,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/YrwxTBUVBnuWXvpDKxzHyo5QcMI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28278_p_v11_ab.jpg",
+      "plot": "After making a horrific discovery in the basement of an old abandoned church, Trish (Gina Philips) and her brother Darry (Justin Long) watch their routine road trip home from college turn into a…",
+      "directors": [
+        "Victor Salva"
+      ]
+    },
+    {
       "id": "weapons",
       "category": "horror",
       "type": "movie",
@@ -1713,6 +2985,76 @@
       "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
       "directors": [
         "Zach Cregger"
+      ]
+    },
+    {
+      "id": "saw3d",
+      "category": "horror",
+      "type": "movie",
+      "title": "Saw: The Final Chapter",
+      "original_title": "Saw: The Final Chapter",
+      "year": 2010,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 3.5,
+      "votes": 13171,
+      "tomatometer": 9,
+      "audience_score": 41,
+      "runtime_minutes": 91,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/PdF5mHeZqWKa65b_q19B8vRadk0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8099365_p_v13_ak.jpg",
+      "plot": "As a fierce battle rages over Jigsaw's (Tobin Bell) terrible legacy, survivors seek support from a fellow survivor and self-help guru, who has a few dark secrets of his own. Meanwhile, crooked cop…",
+      "directors": [
+        "Kevin Greutert"
+      ]
+    },
+    {
+      "id": "mother_2017",
+      "category": "horror",
+      "type": "movie",
+      "title": "mother!",
+      "original_title": "mother!",
+      "year": 2017,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.0,
+      "votes": 13053,
+      "tomatometer": 68,
+      "audience_score": 51,
+      "runtime_minutes": 120,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/3ijo3VY-zQcAsjOHfmufKON1lCU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13809835_p_v8_ao.jpg",
+      "plot": "A young woman spends her days renovating the Victorian mansion that she lives in with her husband in the countryside. When a stranger knocks on the door one night, he becomes an unexpected guest in…",
+      "directors": [
+        "Darren Aronofsky"
+      ]
+    },
+    {
+      "id": "the_ruins",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Ruins",
+      "original_title": "The Ruins",
+      "year": 2008,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 5.6,
+      "votes": 13041,
+      "tomatometer": 52,
+      "audience_score": 30,
+      "runtime_minutes": 90,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ww1yXdsLCX6gxlkWF4Fjn6R60AA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p173696_p_v8_ai.jpg",
+      "plot": "Amy (Jena Malone), Stacy (Laura Ramsey), Jeff (Jonathan Tucker) and Eric (Shawn Ashmore) look for fun during a sunny holiday in Mexico, but they get much more than that after visiting an…",
+      "directors": [
+        "Carter Smith"
       ]
     },
     {
@@ -1950,6 +3292,52 @@
       ]
     },
     {
+      "id": "wrong_turn",
+      "category": "horror",
+      "type": "movie",
+      "title": "Wrong Turn",
+      "original_title": "Wrong Turn",
+      "year": 2003,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 4.6,
+      "votes": 11542,
+      "tomatometer": 40,
+      "audience_score": 54,
+      "runtime_minutes": 84,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/5Cj1its5DmaHCWKuOQYXIhWuktk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32136_p_v13_ai.jpg",
+      "plot": "Friends Jessie (Eliza Dushku) and Carly (Emmanuelle Chriqui) are traveling with pals Scott (Jeremy Sisto), Evan (Kevin Zegers) and Francine (Lindy Booth) when they have car trouble in West Virginia.…",
+      "directors": [
+        "Rob Schmidt"
+      ]
+    },
+    {
+      "id": "childs_play",
+      "category": "horror",
+      "type": "movie",
+      "title": "Child's Play",
+      "original_title": "Child's Play",
+      "year": 1988,
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.0,
+      "votes": 11538,
+      "tomatometer": 65,
+      "audience_score": 66,
+      "runtime_minutes": 87,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Gy8k6LbOYnSjxtbPZ6XdUnsRZ30=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11242_p_v10_aa.jpg",
+      "plot": "Gunned down by Detective Mike Norris (Chris Sarandon), dying murderer Charles Lee Ray (Brad Dourif) uses black magic to put his soul inside a doll named Chucky -- which Karen Barclay (Catherine…",
+      "directors": [
+        "Tom Holland"
+      ]
+    },
+    {
       "id": "backrooms",
       "category": "horror",
       "type": "movie",
@@ -1963,7 +3351,7 @@
         "Horror"
       ],
       "rating": 7.4,
-      "votes": 11354,
+      "votes": 11357,
       "tomatometer": 87,
       "audience_score": 74,
       "runtime_minutes": 110,
@@ -2120,6 +3508,29 @@
       ]
     },
     {
+      "id": "grudge_2",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Grudge 2",
+      "original_title": "The Grudge 2",
+      "year": 2006,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 3.5,
+      "votes": 10608,
+      "tomatometer": 12,
+      "audience_score": 40,
+      "runtime_minutes": 104,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/hQMu3YNzCC-vPX3CMd-L97G5FZg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159758_v_v8_bd.jpg",
+      "plot": "A young woman (Amber Tamblyn) encounters a terrible curse while searching for her missing sister (Sarah Michelle Gellar) in Tokyo. The evil imprecation fills its victims with murderous rage, but it…",
+      "directors": [
+        "Takashi Shimizu"
+      ]
+    },
+    {
       "id": "nosferatu_2024",
       "category": "horror",
       "type": "movie",
@@ -2139,6 +3550,78 @@
       "plot": "Robert Eggers' NOSFERATU is a gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
       "directors": [
         "Robert Eggers"
+      ]
+    },
+    {
+      "id": "10010668-stepfather",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Stepfather",
+      "original_title": "The Stepfather",
+      "year": 2009,
+      "genres": [
+        "Mystery & Thriller",
+        "Horror"
+      ],
+      "rating": 3.5,
+      "votes": 10597,
+      "tomatometer": 14,
+      "audience_score": 34,
+      "runtime_minutes": 101,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/LlfdjxHC8VaOh_QIdGpx8-D35UQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3532071_p_v10_aa.jpg",
+      "plot": "When Michael Harding (Penn Badgley) returns home from military school, he discovers that his mother (Sela Ward) has a new man, named David (Dylan Walsh), in her life. Though David makes Michael's…",
+      "directors": [
+        "Nelson McCormick"
+      ]
+    },
+    {
+      "id": "10009254-shutter",
+      "category": "horror",
+      "type": "movie",
+      "title": "Shutter",
+      "original_title": "Shutter",
+      "year": 2008,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 3.7,
+      "votes": 10351,
+      "tomatometer": 11,
+      "audience_score": 33,
+      "runtime_minutes": 85,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/0ARkqq2OX4jRXo3LvWimYO2zFnc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176332_p_v8_aa.jpg",
+      "plot": "Photographer Ben (Joshua Jackson) and his new bride, Jane (Rachael Taylor), turn their honeymoon into a working vacation when he snags a prestigious assignment in Japan. As they make their way up a…",
+      "directors": [
+        "Masayuki Ochiai"
+      ]
+    },
+    {
+      "id": "uninvited_2009",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Uninvited",
+      "original_title": "The Uninvited",
+      "year": 2009,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 4.6,
+      "votes": 10327,
+      "tomatometer": 31,
+      "audience_score": 49,
+      "runtime_minutes": 87,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/jNozHbhXN8bf4qkdA_Y1QjLBk0Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p180732_p_v10_ak.jpg",
+      "plot": "After spending time in a psychiatric facility, young Anna (Emily Browning) finds significant changes in store at home. Her widowed father (David Strathairn) is now engaged to her mother's former…",
+      "directors": [
+        "Thomas Guard",
+        "Charles Guard"
       ]
     },
     {
@@ -2374,6 +3857,30 @@
       ]
     },
     {
+      "id": "jacobs_ladder",
+      "category": "horror",
+      "type": "movie",
+      "title": "Jacob's Ladder",
+      "original_title": "Jacob's Ladder",
+      "year": 1990,
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.9,
+      "votes": 9089,
+      "tomatometer": 71,
+      "audience_score": 84,
+      "runtime_minutes": 113,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/eDJaWZiEpK8z8mUBLDXsBd7FPPE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12842_p_v10_ah.jpg",
+      "plot": "After returning home from the Vietnam War, veteran Jacob Singer (Tim Robbins) struggles to maintain his sanity. Plagued by hallucinations and flashbacks, Singer rapidly falls apart as the world and…",
+      "directors": [
+        "Adrian Lyne"
+      ]
+    },
+    {
       "id": "deliver_us_from_evil_2014",
       "category": "horror",
       "type": "movie",
@@ -2420,6 +3927,28 @@
       ]
     },
     {
+      "id": "1125409-cabin_fever",
+      "category": "horror",
+      "type": "movie",
+      "title": "Cabin Fever",
+      "original_title": "Cabin Fever",
+      "year": 2003,
+      "genres": [
+        "Horror"
+      ],
+      "rating": 6.1,
+      "votes": 8938,
+      "tomatometer": 62,
+      "audience_score": 44,
+      "runtime_minutes": 93,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/cDjDBwAyHYyyx55k1XjxoPQUghs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32707_p_v10_ad.jpg",
+      "plot": "Bert (James DeBello), a college student vacationing with friends in the mountains, mistakenly shoots a local man (Arie Verveen) with a skin infection while hunting in the woods. Panicking, he…",
+      "directors": [
+        "Eli Roth"
+      ]
+    },
+    {
       "id": "train_to_busan",
       "category": "horror",
       "type": "movie",
@@ -2441,6 +3970,53 @@
       "plot": "A man (Gong Yoo), his estranged daughter and other passengers become trapped on a speeding train during a zombie outbreak in South Korea.",
       "directors": [
         "Yeon Sang-ho"
+      ]
+    },
+    {
+      "id": "severance",
+      "category": "horror",
+      "type": "movie",
+      "title": "Severance",
+      "original_title": "Severance",
+      "year": 2006,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "rating": 6.5,
+      "votes": 8884,
+      "tomatometer": 66,
+      "audience_score": 61,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/YDGEtV2c1PBW8AbrIRnQ23KGZrI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p163615_p_v10_ac.jpg",
+      "plot": "Members (Danny Dyer, Laura Harris, Tim McInnerny) of the Palisades Defense Corp. sales group arrive in Europe for a team-building exercise. A fallen tree blocks the route, and they must hike to their…",
+      "directors": [
+        "Christopher Smith"
+      ]
+    },
+    {
+      "id": "gremlins_2_the_new_batch",
+      "category": "horror",
+      "type": "movie",
+      "title": "Gremlins 2: The New Batch",
+      "original_title": "Gremlins 2: The New Batch",
+      "year": 1990,
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 6.8,
+      "votes": 8838,
+      "tomatometer": 71,
+      "audience_score": 59,
+      "runtime_minutes": 106,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ioFn3k9sLyUcHsEurzReJXhkc-0=/300x450/v2/https://resizing.flixster.com/KBnU3RSmNug-tN-uNE1UDWcPiko=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU4ZTUyNGE4LTY3YjktNGUxMC1hM2QzLWYzOTg4ZmJkZWJiMy5qcGc=",
+      "plot": "The magical collectibles store that Gizmo calls home has just been destroyed, and the tiny monster finds his way into a newly erected skyscraper. Billy Peltzer (Zach Galligan) and his bride-to-be,…",
+      "directors": [
+        "Joe Dante"
       ]
     },
     {
@@ -2491,6 +4067,29 @@
       ]
     },
     {
+      "id": "as_aboveso_below",
+      "category": "horror",
+      "type": "movie",
+      "title": "As Above, So Below",
+      "original_title": "As Above, So Below",
+      "year": 2014,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.9,
+      "votes": 8653,
+      "tomatometer": 30,
+      "audience_score": 42,
+      "runtime_minutes": 93,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/61usj1XAEvecdeH9oU6hBSzTWcQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10542704_p_v12_aj.jpg",
+      "plot": "Archaeologist Scarlett Marlowe has devoted her whole life to finding one of history's greatest treasures: Flamel's Philosopher's Stone. According to legend, the artifact can grant eternal life and…",
+      "directors": [
+        "John Erick Dowdle"
+      ]
+    },
+    {
       "id": "nope",
       "category": "horror",
       "type": "movie",
@@ -2512,6 +4111,30 @@
       "plot": "A man and his sister discover something sinister in the skies above their California horse ranch, while the owner of a nearby theme park tries to profit from the mysterious, otherworldly phenomenon.",
       "directors": [
         "Jordan Peele"
+      ]
+    },
+    {
+      "id": "bride_of_chucky",
+      "category": "horror",
+      "type": "movie",
+      "title": "Bride of Chucky",
+      "original_title": "Bride of Chucky",
+      "year": 1998,
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.6,
+      "votes": 8533,
+      "tomatometer": 47,
+      "audience_score": 50,
+      "runtime_minutes": 89,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ZXpdrWMKMB8DLTxG79v0muRTDyM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21968_p_v10_ae.jpg",
+      "plot": "After being cut apart by the police, killer doll Chucky (Brad Dourif) is resurrected by Tiffany (Jennifer Tilly), an ex-girlfriend of the serial murderer whose soul is inside the toy. Following an…",
+      "directors": [
+        "Ronnie Yu"
       ]
     },
     {
@@ -2607,6 +4230,30 @@
       ]
     },
     {
+      "id": "silent_house_2012",
+      "category": "horror",
+      "type": "movie",
+      "title": "Silent House",
+      "original_title": "Silent House",
+      "year": 2012,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.2,
+      "votes": 7892,
+      "tomatometer": 42,
+      "audience_score": 30,
+      "runtime_minutes": 88,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/7TBhgP0TJVuzPkC_26D_rQlG3ew=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8886710_p_v8_ag.jpg",
+      "plot": "Sarah (Elizabeth Olsen) is working with her father (Adam Trese) and uncle (Eric Sheffer Stevens) to renovate an old family home to prepare it for sale. Long vacant, the house has no utilities,…",
+      "directors": [
+        "Chris Kentis",
+        "Laura Lau"
+      ]
+    },
+    {
       "id": "bird_box",
       "category": "horror",
       "type": "movie",
@@ -2620,7 +4267,7 @@
         "Adventure"
       ],
       "rating": 5.9,
-      "votes": 7887,
+      "votes": 7888,
       "tomatometer": 64,
       "audience_score": 58,
       "runtime_minutes": 124,
@@ -2629,6 +4276,55 @@
       "plot": "When a mysterious force decimates the population, only one thing is certain -- if you see it, you die. The survivors must now avoid coming face to face with an entity that takes the form of their…",
       "directors": [
         "Susanne Bier"
+      ]
+    },
+    {
+      "id": "stepford_wives",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Stepford Wives",
+      "original_title": "The Stepford Wives",
+      "year": 2004,
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Mystery & Thriller",
+        "Sci-Fi"
+      ],
+      "rating": 4.9,
+      "votes": 7768,
+      "tomatometer": 25,
+      "audience_score": 30,
+      "runtime_minutes": 93,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/6qB21qDT9j58GafbdV9BnoX6dbg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34618_p_v10_ad.jpg",
+      "plot": "After enduring setbacks in her television career, executive Joanna Eberhart (Nicole Kidman) relocates with her family from New York City to the Connecticut suburb of Stepford. While Joanna's husband,…",
+      "directors": [
+        "Frank Oz"
+      ]
+    },
+    {
+      "id": "devils_backbone",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Devil's Backbone",
+      "original_title": "The Devil's Backbone",
+      "year": 2001,
+      "genres": [
+        "Mystery & Thriller",
+        "Drama",
+        "Horror"
+      ],
+      "rating": 7.7,
+      "votes": 7706,
+      "tomatometer": 93,
+      "audience_score": 89,
+      "runtime_minutes": 106,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/1u_z40HF77rzap7TDyN-6wnsCkE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28783_p_v8_ae.jpg",
+      "plot": "After losing his father, 10-year-old Carlos (Fernando Tielve) arrives at the Santa Lucia School, which shelters orphans of the Republican militia and politicians, and is taken in by the steely…",
+      "directors": [
+        "Guillermo del Toro"
       ]
     },
     {
@@ -2652,6 +4348,52 @@
       "plot": "The T-virus unleashed by the evil Umbrella Corp. has spread to every corner of the globe, infesting the planet with zombies, demons and monsters. Alice (Milla Jovovich), a former Umbrella employee…",
       "directors": [
         "Paul W.S. Anderson"
+      ]
+    },
+    {
+      "id": "crawl_2019",
+      "category": "horror",
+      "type": "movie",
+      "title": "Crawl",
+      "original_title": "Crawl",
+      "year": 2019,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.5,
+      "votes": 7611,
+      "tomatometer": 84,
+      "audience_score": 75,
+      "runtime_minutes": 87,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/29lpXghsbV8AJuio7SyJmTfuxm4=/300x450/v2/https://resizing.flixster.com/1xHVoIL4Shqqco5060iFvM6UAvA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzViNDM0NTQzLTY4NDktNDI3Zi1hMDVhLWRlNWE1ZjczNDg5Mi53ZWJw",
+      "plot": "When a massive hurricane hits her Florida town, young Haley ignores the evacuation orders to search for her missing father, Dave. After finding him gravely injured in their family home, the two of…",
+      "directors": [
+        "Alexandre Aja"
+      ]
+    },
+    {
+      "id": "sorority_row",
+      "category": "horror",
+      "type": "movie",
+      "title": "Sorority Row",
+      "original_title": "Sorority Row",
+      "year": 2009,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.3,
+      "votes": 7574,
+      "tomatometer": 24,
+      "audience_score": 33,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/6kKyZPKCupiL8GCdtOOIsGP1qvs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p190180_p_v10_aa.jpg",
+      "plot": "Cassidy (Briana Evigan), Jessica (Leah Pipes), Ellie (Rumer Willis), Claire (Jamie Chung) and Megan (Audrina Patridge) are sorority sisters and true-blue friends to the end -- until a prank gone…",
+      "directors": [
+        "Stewart Hendler"
       ]
     },
     {
@@ -2701,6 +4443,54 @@
       ]
     },
     {
+      "id": "seed_of_chucky",
+      "category": "horror",
+      "type": "movie",
+      "title": "Seed of Chucky",
+      "original_title": "Seed of Chucky",
+      "year": 2004,
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.8,
+      "votes": 7277,
+      "tomatometer": 36,
+      "audience_score": 43,
+      "runtime_minutes": 86,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/JpOXpaTX_HXmchzfZ4oElSV-3BY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34111_p_v12_aj.jpg",
+      "plot": "Gentle Glen (Billy Boyd) is a ventriloquist's dummy, the offspring of evil doll Chucky (Brad Dourif) and his doll bride (Jennifer Tilly), both of whom are now deceased. When the orphaned Glen hears…",
+      "directors": [
+        "Don Mancini"
+      ]
+    },
+    {
+      "id": "1215790-carriers",
+      "category": "horror",
+      "type": "movie",
+      "title": "Carriers",
+      "original_title": "Carriers",
+      "year": 2009,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.6,
+      "votes": 7212,
+      "tomatometer": 62,
+      "audience_score": 39,
+      "runtime_minutes": 84,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/jkXrTe1oxgHdjSCiAQYJWYdqEMw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3535141_p_v8_am.jpg",
+      "plot": "When a virus threatens to wipe out humanity, Danny (Lou Taylor Pucci), his brother Brian (Chris Pine), and their friends Bobby (Piper Perabo) and Kate (Emily VanCamp) set out across the desert in the…",
+      "directors": [
+        "Àlex Pastor",
+        "David Pastor"
+      ]
+    },
+    {
       "id": "five_nights_at_freddys_2",
       "category": "horror",
       "type": "movie",
@@ -2721,6 +4511,29 @@
       "plot": "One year has passed since the supernatural nightmare at Freddy Fazbear's Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever…",
       "directors": [
         "Emma Tammi"
+      ]
+    },
+    {
+      "id": "the_midnight_meat_train",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Midnight Meat Train",
+      "original_title": "The Midnight Meat Train",
+      "year": 2008,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.5,
+      "votes": 7102,
+      "tomatometer": 70,
+      "audience_score": 50,
+      "runtime_minutes": 100,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ijqhJpiZArvKq8vgZvMz1Rl2GVI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176282_p_v8_aa.jpg",
+      "plot": "When struggling photographer Leon Kaufman (Bradley Cooper) meets the owner of a prominent art gallery, he sees a chance for the success that has, so far, eluded him. Determined to show the darker…",
+      "directors": [
+        "Ryûhei Kitamura"
       ]
     },
     {
@@ -2745,6 +4558,52 @@
       "plot": "Architect Jonathan Rivers (Michael Keaton) is happily married to author Anna (Chandra West), but tragedy strikes when she is killed in an accident. Deep in grief, Jonathan hears from Raymond Price…",
       "directors": [
         "Geoffrey Sax"
+      ]
+    },
+    {
+      "id": "jeepers_creepers_2",
+      "category": "horror",
+      "type": "movie",
+      "title": "Jeepers Creepers 2",
+      "original_title": "Jeepers Creepers 2",
+      "year": 2003,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.4,
+      "votes": 6956,
+      "tomatometer": 25,
+      "audience_score": 38,
+      "runtime_minutes": 104,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/HHLdrsuaVRZxOKYcmlT_nv048hE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32291_p_v10_at.jpg",
+      "plot": "After his son is set upon by a scarecrow that seems to have come alive, farmer Jack Taggart Sr. (Ray Wise) and his son, Jack Taggart Jr. (Luke Edwards), go looking for an explanation. Meanwhile, a…",
+      "directors": [
+        "Victor Salva"
+      ]
+    },
+    {
+      "id": "high-tension-switchblade-romance",
+      "category": "horror",
+      "type": "movie",
+      "title": "Switchblade Romance",
+      "original_title": "Switchblade Romance",
+      "year": 2005,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.4,
+      "votes": 6945,
+      "tomatometer": 41,
+      "audience_score": 67,
+      "runtime_minutes": 89,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/zm3EXnCCbGigDJinUdfSXiAFf-4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34243_p_v8_ad.jpg",
+      "plot": "A beautiful young Frenchwoman, Alex (Maïwenn Le Besco), travels out to the country to visit her family and brings along her friend Marie (Cécile de France). Soon after they get settled in the…",
+      "directors": [
+        "Alexandre Aja"
       ]
     },
     {
@@ -2794,1933 +4653,48 @@
       ]
     },
     {
-      "id": "ouija_origin_of_evil",
+      "id": "piranha_3dd",
       "category": "horror",
       "type": "movie",
-      "title": "Ouija: Origin of Evil",
-      "original_title": "Ouija: Origin of Evil",
-      "year": 2016,
+      "title": "Piranha 3DD",
+      "original_title": "Piranha 3DD",
+      "year": 2012,
       "genres": [
-        "Horror",
-        "Mystery & Thriller"
+        "Horror"
       ],
-      "rating": 6.5,
-      "votes": 6365,
-      "tomatometer": 82,
-      "audience_score": 58,
-      "runtime_minutes": 99,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/vBNmyWnIHWKuV4x0VV7Kc0v7eh4=/300x450/v2/https://resizing.flixster.com/5nOgKU__8fVuI_dmnZRhmfmtiSE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUxYTMxNzNiLWZkNmItNGUzYy04MGE4LTNhNWU4ZmE3YTE3Yi53ZWJw",
-      "plot": "In 1967 Los Angeles, widowed mother Alice Zander (Elizabeth Reaser) unwittingly invites authentic evil into her home by adding a new stunt to bolster her séance scam business. When the merciless…",
-      "directors": [
-        "Mike Flanagan"
-      ]
-    },
-    {
-      "id": "pulse",
-      "category": "horror",
-      "type": "movie",
-      "title": "Pulse",
-      "original_title": "Pulse",
-      "year": 2006,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Sci-Fi"
-      ],
-      "rating": 4.0,
-      "votes": 6276,
+      "rating": 3.3,
+      "votes": 6723,
       "tomatometer": 11,
-      "audience_score": 27,
-      "runtime_minutes": 85,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/PFRVWNb9sB5HPFavrp9rVLv9NlI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159784_p_v12_ab.jpg",
-      "plot": "After her boyfriend commits suicide, a psychology student (Kristen Bell) and her friends begin receiving unsettling e-mails and video messages. After a number of disappearances across campus, she…",
-      "directors": [
-        "Jim Sonzero"
-      ]
-    },
-    {
-      "id": "the_house_of_the_devil_2009",
-      "category": "horror",
-      "type": "movie",
-      "title": "The House of the Devil",
-      "original_title": "The House of the Devil",
-      "year": 2009,
-      "genres": [
-        "Horror"
-      ],
-      "rating": 7.3,
-      "votes": 6216,
-      "tomatometer": 86,
-      "audience_score": 63,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/5Kax1ESGNZCOyoKdfv-YL-VAPGg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7819824_p_v11_ah.jpg",
-      "plot": "Desperate to make some money so she can move into a new apartment, college student Samantha Hughes takes a mysterious babysitting job. When she arrives at the house, Mr. Ulman mentions a full lunar…",
-      "directors": [
-        "Ti West"
-      ]
-    },
-    {
-      "id": "the_lazarus_effect",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Lazarus Effect",
-      "original_title": "The Lazarus Effect",
-      "year": 2015,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.0,
-      "votes": 6162,
-      "tomatometer": 14,
-      "audience_score": 23,
+      "audience_score": 22,
       "runtime_minutes": 83,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/446S07unkKtNbmiIZCMz2Nomjow=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132251_p_v8_ah.jpg",
-      "plot": "Medical researcher Frank (Mark Duplass), his fiancée Zoe (Olivia Wilde) and their team have achieved the impossible: they have found a way to revive the dead. After a successful, but unsanctioned,…",
-      "directors": [
-        "David Gelb"
-      ]
-    },
-    {
-      "id": "hush_2016",
-      "category": "horror",
-      "type": "movie",
-      "title": "Hush",
-      "original_title": "Hush",
-      "year": 2024,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.5,
-      "votes": 6080,
-      "tomatometer": 92,
-      "audience_score": 73,
-      "runtime_minutes": 87,
       "certificate": "R",
-      "poster": "https://resizing.flixster.com/NVFJR9P2g3g0-IRoRObAT4uvZ7I=/300x450/v2/https://resizing.flixster.com/wRnCS9N2bCqbkW4bt5Vyz71vXgM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwN2YwNDZjLTZiZTEtNDU1Zi04OGQwLTI4NDlkMzY1OWI2MC5qcGc=",
-      "plot": "A deaf woman is stalked by a killer in her home.",
+      "poster": "https://resizing.flixster.com/cHBzTBz1x41OQv2YXg_q6AGnTqQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8720061_p_v8_ah.jpg",
+      "plot": "Though it was once a wholesome, family-oriented attraction, a water park owned by Chet now features a nudist pool and aquatic strippers. Chet's daughter, a marine biologist named Maddy, is unhappy…",
       "directors": [
-        "Mike Flanagan"
+        "John Gulager"
       ]
     },
     {
-      "id": "the_nun_2018",
+      "id": "dog_soldiers",
       "category": "horror",
       "type": "movie",
-      "title": "The Nun",
-      "original_title": "The Nun",
-      "year": 2018,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.4,
-      "votes": 6025,
-      "tomatometer": 24,
-      "audience_score": 35,
-      "runtime_minutes": 96,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/cMNPBQQ9bfm6XLl2udqmMSBFBpM=/300x450/v2/https://resizing.flixster.com/KTTKN2blKnp2wgx8FE0tPQwOya4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyODViNTc1LWUzN2UtNDcxYS1iMWQ3LTBkNmI4YTQ0ZjhlMy53ZWJw",
-      "plot": "When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together,…",
-      "directors": [
-        "Corin Hardy"
-      ]
-    },
-    {
-      "id": "return_of_the_living_dead",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Return of the Living Dead",
-      "original_title": "The Return of the Living Dead",
-      "year": 1985,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "rating": 6.6,
-      "votes": 5934,
-      "tomatometer": 71,
-      "audience_score": 80,
-      "runtime_minutes": 91,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/VuXpxHHevAHdAp7xyWFb2783TgA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8718_p_v8_aa.jpg",
-      "plot": "When foreman Frank (James Karen) shows new employee Freddy (Thom Mathews) a secret military experiment in a supply warehouse, the two klutzes accidentally release a gas that reanimates corpses into…",
-      "directors": [
-        "Dan O'Bannon"
-      ]
-    },
-    {
-      "id": "john_dies_at_the_end",
-      "category": "horror",
-      "type": "movie",
-      "title": "John Dies at the End",
-      "original_title": "John Dies at the End",
-      "year": 2013,
-      "genres": [
-        "Horror",
-        "Sci-Fi",
-        "Comedy"
-      ],
-      "rating": 5.6,
-      "votes": 5933,
-      "tomatometer": 59,
-      "audience_score": 54,
-      "runtime_minutes": 99,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/kOJkGfmMZwukKFXwd7Tce5MurRk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9028140_p_v10_aa.jpg",
-      "plot": "A new drug promises out-of-body experiences, but users are coming back changed forever, and an otherworldly invasion of Earth is underway.",
-      "directors": [
-        "Don Coscarelli"
-      ]
-    },
-    {
-      "id": "childs_play_2019",
-      "category": "horror",
-      "type": "movie",
-      "title": "Child's Play",
-      "original_title": "Child's Play",
-      "year": 2019,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.8,
-      "votes": 5811,
-      "tomatometer": 64,
-      "audience_score": 57,
-      "runtime_minutes": 90,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/GMIOGds1B_wP8YxM-hxxq4gL7Ww=/300x450/v2/https://resizing.flixster.com/089UTVHfa8a5wNMeplT19cgm-hA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3NmRkZDkzLTZkYzItNDY4Mi04YmQ1LWY3ODA2NTQ1NDAxMi53ZWJw",
-      "plot": "After moving to a new city, young Andy Barclay receives a special present from his mother -- a seemingly innocent Buddi doll that becomes his best friend. When the doll suddenly takes on a life of…",
-      "directors": [
-        "Lars Klevberg"
-      ]
-    },
-    {
-      "id": "sinister_2",
-      "category": "horror",
-      "type": "movie",
-      "title": "Sinister 2",
-      "original_title": "Sinister 2",
-      "year": 2015,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.0,
-      "votes": 5735,
-      "tomatometer": 14,
-      "audience_score": 31,
-      "runtime_minutes": 97,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/SyHRSCg0zLh0izolquXUZxGPyKI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11670095_p_v10_ak.jpg",
-      "plot": "Hiding from her abusive, estranged husband, Courtney Collins lives in a rural house with her 9-year-old twins, Dylan and Zach. Young Dylan receives nightly visits from ghoulish kids who show him…",
-      "directors": [
-        "Ciarán Foy"
-      ]
-    },
-    {
-      "id": "1158185-see_no_evil",
-      "category": "horror",
-      "type": "movie",
-      "title": "See No Evil",
-      "original_title": "See No Evil",
-      "year": 2006,
-      "genres": [
-        "Horror"
-      ],
-      "rating": 3.2,
-      "votes": 5713,
-      "tomatometer": 9,
-      "audience_score": 50,
-      "runtime_minutes": 84,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/aSaFyaWoYPz7GK7xZOoVGut4nWk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160412_p_v10_aa.jpg",
-      "plot": "A reclusive maniac (Kane) terrorizes a group of young petty criminals who have arrived to clean up a rotting hotel as part of their community service. After one of them is kidnapped, the petrified…",
-      "directors": [
-        "Gregory Dark"
-      ]
-    },
-    {
-      "id": "black_death-2010",
-      "category": "horror",
-      "type": "movie",
-      "title": "Black Death",
-      "original_title": "Black Death",
-      "year": 2011,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.3,
-      "votes": 5673,
-      "tomatometer": 72,
-      "audience_score": 49,
-      "runtime_minutes": 102,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/7LEPfCzmInx4peUq2au4X8eGpZI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8136173_p_v8_aa.jpg",
-      "plot": "During the time of the bubonic plague in 14th-century England, young monk Osmund is recruited by the knight Ulric to lead a group of soldiers through the marshes into a mysterious village, where…",
-      "directors": [
-        "Christopher Smith"
-      ]
-    },
-    {
-      "id": "blair_witch",
-      "category": "horror",
-      "type": "movie",
-      "title": "Blair Witch",
-      "original_title": "Blair Witch",
-      "year": 2016,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.3,
-      "votes": 5646,
-      "tomatometer": 38,
-      "audience_score": 30,
-      "runtime_minutes": 89,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/cHoNVm_c8sdPe8x4DD4GBT8wtzw=/300x450/v2/https://resizing.flixster.com/D31clUCcHwr_eUfim2-zaXLQtvI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkNGVkNWJmLTA5MjYtNDAwMy04YWY2LWIyYzgwYmIwMDVmNS53ZWJw",
-      "plot": "A young man and his friends venture into the Black Hills Forest in Maryland to uncover the mystery surrounding his missing sister. Many believe her disappearance 17 years earlier is connected to the…",
-      "directors": [
-        "Adam Wingard"
-      ]
-    },
-    {
-      "id": "rec_2",
-      "category": "horror",
-      "type": "movie",
-      "title": "Rec 2",
-      "original_title": "Rec 2",
-      "year": 2010,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Action"
-      ],
-      "rating": 6.4,
-      "votes": 5616,
-      "tomatometer": 67,
-      "audience_score": 60,
-      "runtime_minutes": 85,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/TCFK5yivqMSfKBdhkG82jW18Kqo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7950965_p_v7_ae.jpg",
-      "plot": "A doctor and a SWAT team enter a quarantined building where a virus has turned the residents into a pack of ravenous monsters.",
-      "directors": [
-        "Jaume Balagueró",
-        "Paco Plaza"
-      ]
-    },
-    {
-      "id": "jason_x",
-      "category": "horror",
-      "type": "movie",
-      "title": "Jason X",
-      "original_title": "Jason X",
+      "title": "Dog Soldiers",
+      "original_title": "Dog Soldiers",
       "year": 2002,
       "genres": [
         "Horror",
-        "Sci-Fi"
-      ],
-      "rating": 3.9,
-      "votes": 5566,
-      "tomatometer": 20,
-      "audience_score": 25,
-      "runtime_minutes": 92,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/y52GS7pjx68VtQjAOEGbaX_WuWw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29363_p_v8_aa.jpg",
-      "plot": "The year is 2455. The Place is Old Earth. Once the shimmering blue jewel of the galaxy, Old Earth is now a contaminated planet abandoned for centuries. Yet humans have returned to the deadly place…",
-      "directors": [
-        "James Isaac"
-      ]
-    },
-    {
-      "id": "the_autopsy_of_jane_doe",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Autopsy of Jane Doe",
-      "original_title": "The Autopsy of Jane Doe",
-      "year": 2016,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.0,
-      "votes": 5500,
-      "tomatometer": 86,
-      "audience_score": 72,
-      "runtime_minutes": 86,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/_8FIWwRE3i-ienWX63pV66Ei0rE=/300x450/v2/https://resizing.flixster.com/BAuw7znNjDalkj-tjiEn_koN6tg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhNTY3MzBjLTA1MWMtNGU2YS1iNTdlLTUwNTYxMWU4Zjk5Mi53ZWJw",
-      "plot": "When father and son coroners investigate the death of a beautiful \"Jane Doe,\" they find increasingly bizarre clues.",
-      "directors": [
-        "André Øvredal"
-      ]
-    },
-    {
-      "id": "ready_or_not_2019",
-      "category": "horror",
-      "type": "movie",
-      "title": "Ready or Not",
-      "original_title": "Ready or Not",
-      "year": 2019,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Comedy"
-      ],
-      "rating": 7.2,
-      "votes": 5362,
-      "tomatometer": 89,
-      "audience_score": 78,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/RcO3IsYAOfuwD3I43tGytTYbtMM=/300x450/v2/https://resizing.flixster.com/4AQw7KZZEnT4KvWQvMoYuiGgRzE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmNWQ2M2ZhLWJmN2EtNDBmYi1hNTJhLTI1NTNlODkxZDNiYi53ZWJw",
-      "plot": "Grace couldn't be happier after she marries the man of her dreams at his family's luxurious estate. There's just one catch -- she must now hide from midnight until dawn while her new in-laws hunt her…",
-      "directors": [
-        "Matt Bettinelli-Olpin",
-        "Tyler Gillett"
-      ]
-    },
-    {
-      "id": "the_voices",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Voices",
-      "original_title": "The Voices",
-      "year": 2015,
-      "genres": [
-        "Comedy",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.7,
-      "votes": 5326,
-      "tomatometer": 74,
-      "audience_score": 58,
-      "runtime_minutes": 103,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/XbiQknRu20_a9bBNN22XXKQB4YM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11379539_p_v8_aj.jpg",
-      "plot": "A mentally unhinged factory worker (Ryan Reynolds) must decide whether to listen to his talking cat and become a killer, or follow his dog's advice to keep striving for normalcy.",
-      "directors": [
-        "Marjane Satrapi"
-      ]
-    },
-    {
-      "id": "scream_vi",
-      "category": "horror",
-      "type": "movie",
-      "title": "Scream VI",
-      "original_title": "Scream VI",
-      "year": 2023,
-      "genres": [
-        "Holiday",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.7,
-      "votes": 5277,
-      "tomatometer": 77,
-      "audience_score": 90,
-      "runtime_minutes": 123,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/hL2-sQx1vZrRAdYh60TVN--nJoM=/300x450/v2/https://resizing.flixster.com/dbokT9ziX9XrMs2Ims1OnyLJYmI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk3ZmU4OTRlLWM5YTAtNDU3Ni04ODNiLWUxZDE1ZmY1MWQ3Yi5qcGc=",
-      "plot": "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
-      "directors": [
-        "Matt Bettinelli-Olpin",
-        "Tyler Gillett"
-      ]
-    },
-    {
-      "id": "i_spit_on_your_grave_2010",
-      "category": "horror",
-      "type": "movie",
-      "title": "I Spit on Your Grave",
-      "original_title": "I Spit on Your Grave",
-      "year": 2010,
-      "genres": [
-        "Horror"
-      ],
-      "rating": 4.6,
-      "votes": 5245,
-      "tomatometer": 32,
-      "audience_score": 48,
-      "runtime_minutes": 108,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/7dXLG9LE0IZger-DhwOQpxGt_vk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8175360_p_v8_aa.jpg",
-      "plot": "Jennifer (Sarah Butler), a writer, rents an isolated cabin in the country so she can work on her latest novel. The peace and quiet is soon shattered by a gang of local thugs who rape and torture her,…",
-      "directors": [
-        "Steven R. Monroe"
-      ]
-    },
-    {
-      "id": "the_black_phone",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Black Phone",
-      "original_title": "The Black Phone",
-      "year": 2022,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.0,
-      "votes": 5173,
-      "tomatometer": 81,
-      "audience_score": 88,
-      "runtime_minutes": 103,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/OKNusWKzCJgGkSG51I5Zcvvy81c=/300x450/v2/https://resizing.flixster.com/r38PjcA-XGIiW3UR2pfUaGEYTNk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk4ZDA3Njk0LWE2YWUtNGZlYi1iNjQ2LTVkMmI2YTkyYmIyNy5qcGc=",
-      "plot": "Finney, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring,…",
-      "directors": [
-        "Scott Derrickson"
-      ]
-    },
-    {
-      "id": "victor_frankenstein_2015",
-      "category": "horror",
-      "type": "movie",
-      "title": "Victor Frankenstein",
-      "original_title": "Victor Frankenstein",
-      "year": 2015,
-      "genres": [
-        "Horror",
-        "Drama",
-        "Sci-Fi",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.7,
-      "votes": 5090,
-      "tomatometer": 26,
-      "audience_score": 37,
-      "runtime_minutes": 110,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/IL6HFUgzIhcJFeOOVUB2-WhS9ag=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10592893_p_v8_am.jpg",
-      "plot": "While searching for animal body parts at a London circus, radical scientist Victor Frankenstein meets gifted surgeon Igor Straussman. Not only does the brilliant doctor offer Straussman his…",
-      "directors": [
-        "Paul McGuigan"
-      ]
-    },
-    {
-      "id": "curse_of_chucky",
-      "category": "horror",
-      "type": "movie",
-      "title": "Curse of Chucky",
-      "original_title": "Curse of Chucky",
-      "year": 2013,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.3,
-      "votes": 5008,
-      "tomatometer": 78,
-      "audience_score": 62,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/GRiyDlMNsYxVB6AssySGnSiOdY4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10136929_p_v13_ad.jpg",
-      "plot": "Out for revenge, Chucky (Brad Dourif) the killer doll infiltrates the family of a woman, her sister and her young niece.",
-      "directors": [
-        "Don Mancini"
-      ]
-    },
-    {
-      "id": "a_quiet_place_day_one",
-      "category": "horror",
-      "type": "movie",
-      "title": "A Quiet Place: Day One",
-      "original_title": "A Quiet Place: Day One",
-      "year": 2024,
-      "genres": [
-        "Horror",
-        "Sci-Fi",
         "Mystery & Thriller"
       ],
       "rating": 7.1,
-      "votes": 4972,
-      "tomatometer": 86,
-      "audience_score": 72,
-      "runtime_minutes": 100,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/rqTX-bEeulMhVcuoQ4-oyjHp1QU=/300x450/v2/https://resizing.flixster.com/52tNaAdGhYWG4PukngNz7iOu4NA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIyNDlkYjk2LTUwZmQtNDgzOS04ZGIyLWI3NzZlMWE0OGNkNi5qcGc=",
-      "plot": "Experience the day the world went quiet.",
-      "directors": [
-        "Michael Sarnoski"
-      ]
-    },
-    {
-      "id": "upgrade_2018",
-      "category": "horror",
-      "type": "movie",
-      "title": "Upgrade",
-      "original_title": "Upgrade",
-      "year": 2018,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Horror"
-      ],
-      "rating": 7.3,
-      "votes": 4914,
-      "tomatometer": 88,
-      "audience_score": 88,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/GIY0wR08M4siKCf1rXFqqiK_OIk=/300x450/v2/https://resizing.flixster.com/yQ8J6FzOceh6wTIzooGkeHuJin0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhMDYzYThiLTA5ZmUtNDgwYi1hNTQ5LTYwZGZmYzcyMDlkMi53ZWJw",
-      "plot": "A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure -- an artificial intelligence implant called STEM that will…",
-      "directors": [
-        "Leigh Whannell"
-      ]
-    },
-    {
-      "id": "send_help",
-      "category": "horror",
-      "type": "movie",
-      "title": "Send Help",
-      "original_title": "Send Help",
-      "year": 2026,
-      "genres": [
-        "Horror",
-        "Comedy",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.4,
-      "votes": 4907,
-      "tomatometer": 92,
-      "audience_score": 86,
-      "runtime_minutes": 113,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/5AzDBaWt7Q2iYWTIGPJVXq_qJZ4=/300x450/v2/https://resizing.flixster.com/WEelDTQoFz53v0hGRRC1rZ-3uxY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NkMzdhM2Y3LWYzMmEtNGNmYS04YzBjLTc1ZGNhN2JkZGFjOS5qcGc=",
-      "plot": "In \"Send Help,\" two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but…",
-      "directors": [
-        "Sam Raimi"
-      ]
-    },
-    {
-      "id": "m3gan",
-      "category": "horror",
-      "type": "movie",
-      "title": "M3GAN",
-      "original_title": "M3GAN",
-      "year": 2023,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Sci-Fi"
-      ],
-      "rating": 7.2,
-      "votes": 4826,
-      "tomatometer": 93,
-      "audience_score": 78,
-      "runtime_minutes": 102,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/oRLT5Ln5VLfqvvyyVzM_6OMpFVY=/300x450/v2/https://resizing.flixster.com/rPJASTXFjLpmiVTi3D6RGcq-skM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjYjA0ODBiLTNlNmUtNDlhOS05ZWRlLThlOGQ2MmEyZjlmYS5qcGc=",
-      "plot": "M3GAN is a marvel of artificial intelligence, a life-like doll programmed to be a child's greatest companion and a parent's greatest ally. Designed by brilliant toy-company roboticist Gemma (Get…",
-      "directors": [
-        "Gerard Johnstone"
-      ]
-    },
-    {
-      "id": "scream_2022",
-      "category": "horror",
-      "type": "movie",
-      "title": "Scream",
-      "original_title": "Scream",
-      "year": 2022,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.7,
-      "votes": 4790,
-      "tomatometer": 76,
-      "audience_score": 82,
-      "runtime_minutes": 114,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/_RXFCE6UC_jeI955TW5H8YAz-SU=/300x450/v2/https://resizing.flixster.com/Vh2X9EuzZeMxvJdnSciIYu45XSs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UxNDBjYWFkLTM5ZGEtNDkzMC04ZDI3LWQ1MzAyMmU3MjI1NS5qcGc=",
-      "plot": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from…",
-      "directors": [
-        "Matt Bettinelli-Olpin",
-        "Tyler Gillett"
-      ]
-    },
-    {
-      "id": "black_phone_2",
-      "category": "horror",
-      "type": "movie",
-      "title": "Black Phone 2",
-      "original_title": "Black Phone 2",
-      "year": 2025,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.3,
-      "votes": 4740,
-      "tomatometer": 72,
-      "audience_score": 82,
-      "runtime_minutes": 116,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/VJlvSXekj4w0cYTY1NdCq7sqE6M=/300x450/v2/https://resizing.flixster.com/OfmbZ8Gy2cwsBeL5GQ2BOl0gJMg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q3NmNhYjA2LWI2NDAtNGNjYS1hMzE1LTNiMDFmYmM0N2RiYi5qcGc=",
-      "plot": "Four years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death... and the phone is ringing again. Four-time Academy Award®…",
-      "directors": [
-        "Scott Derrickson"
-      ]
-    },
-    {
-      "id": "10011388-blood_the_last_vampire",
-      "category": "horror",
-      "type": "movie",
-      "title": "Blood: The Last Vampire",
-      "original_title": "Blood: The Last Vampire",
-      "year": 2009,
-      "genres": [
-        "Action",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 3.9,
-      "votes": 4684,
-      "tomatometer": 23,
-      "audience_score": 33,
-      "runtime_minutes": 89,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/1zItLY_T8YDw95ad_8mgdynYMPY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p182386_p_v10_ab.jpg",
-      "plot": "Saya looks like an ordinary teenager on the outside, but on the inside, she's a 400-year-old half-human, half-vampire sword fighter who's made it her mission to exterminate vampires. Sent to an…",
-      "directors": [
-        "Chris Nahon"
-      ]
-    },
-    {
-      "id": "the_descent_2",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Descent: Part 2",
-      "original_title": "The Descent: Part 2",
-      "year": 2009,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Adventure"
-      ],
-      "rating": 5.1,
-      "votes": 4646,
-      "tomatometer": 49,
-      "audience_score": 34,
-      "runtime_minutes": 94,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/OBR6IVuk9SgEKvHNP_nES1YJfSM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7943548_p_v8_ag.jpg",
-      "plot": "Refusing to believe her story about cave-dwelling monsters, the survivor of a spelunking exploration gone wrong is forced to follow the authorities back into the caves where something awaits.",
-      "directors": [
-        "Jon Harris"
-      ]
-    },
-    {
-      "id": "longlegs",
-      "category": "horror",
-      "type": "movie",
-      "title": "Longlegs",
-      "original_title": "Longlegs",
-      "year": 2024,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.6,
-      "votes": 4557,
-      "tomatometer": 85,
-      "audience_score": 61,
-      "runtime_minutes": 101,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/p_QooPjBETZlEvzR0yYCNdav2rw=/300x450/v2/https://resizing.flixster.com/cyOxUIdCXj484OBvXRy3czI3Jgg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzYThjMmJkLTNiNzAtNGU2ZC05YmQzLWM1YzU4YjViMmIxZC5qcGc=",
-      "plot": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
-      "directors": [
-        "Oz Perkins"
-      ]
-    },
-    {
-      "id": "maggie_2015",
-      "category": "horror",
-      "type": "movie",
-      "title": "Maggie",
-      "original_title": "Maggie",
-      "year": 2015,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Drama",
-        "Sci-Fi",
-        "Action"
-      ],
-      "rating": 5.8,
-      "votes": 4449,
-      "tomatometer": 61,
-      "audience_score": 32,
-      "runtime_minutes": 94,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/CYC-UW2BC3PrN8sKdeqRRSJKosQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11553652_p_v8_ab.jpg",
-      "plot": "When a deadly zombie virus sweeps the nation, a father stops at nothing to save his infected daughter.",
-      "directors": [
-        "Henry Hobson"
-      ]
-    },
-    {
-      "id": "a_cure_for_wellness",
-      "category": "horror",
-      "type": "movie",
-      "title": "A Cure for Wellness",
-      "original_title": "A Cure for Wellness",
-      "year": 2017,
-      "genres": [
-        "Mystery & Thriller",
-        "Horror",
-        "Drama"
-      ],
-      "rating": 5.3,
-      "votes": 4350,
-      "tomatometer": 42,
-      "audience_score": 42,
-      "runtime_minutes": 140,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/HKJ0OrBgzvHl_gs0_44Gv4C_bnU=/300x450/v2/https://resizing.flixster.com/4RuXDb8g90VvUIBTOYJmK2ufokQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I2ZWM4MzZiLTBkZDYtNGNkMC05M2FlLTU4MjA3YTdiYzFlNC53ZWJw",
-      "plot": "A Wall Street stockbroker travels to a remote location in the Swiss Alps to retrieve his company's CEO from an idyllic but mysterious wellness center. He soon suspects that the miraculous treatments…",
-      "directors": [
-        "Gore Verbinski"
-      ]
-    },
-    {
-      "id": "brightburn",
-      "category": "horror",
-      "type": "movie",
-      "title": "Brightburn",
-      "original_title": "Brightburn",
-      "year": 2019,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Sci-Fi"
-      ],
-      "rating": 5.7,
-      "votes": 4345,
-      "tomatometer": 57,
-      "audience_score": 67,
-      "runtime_minutes": 91,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/69UcmA2_rGPDQfKpJE3CNezZG5s=/300x450/v2/https://resizing.flixster.com/Ktsnb-YtzLUHluA6fzMzPx23tx8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MwNzY2YThmLWM5ZDEtNDE3Yy1hYzcyLTQyOGQyYTBiYTFmNy53ZWJw",
-      "plot": "After a difficult struggle with fertility, Tori Breyer's dreams of motherhood come true with the arrival of a mysterious baby boy. Brandon appears to be everything Tori and her husband, Kyle, ever…",
-      "directors": [
-        "David Yarovesky"
-      ]
-    },
-    {
-      "id": "the_gallows",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Gallows",
-      "original_title": "The Gallows",
-      "year": 2015,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 3.4,
-      "votes": 4232,
-      "tomatometer": 15,
-      "audience_score": 23,
-      "runtime_minutes": 81,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/NPDE71DQLtDCNkrkdDAyB83cF7o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11424499_p_v8_ag.jpg",
-      "plot": "In 1993, a freak accident involving a noose kills teenager Charlie Grimille during a high-school production of \"The Gallows.\" Twenty years later, on the eve of the play's revival, students Reese…",
-      "directors": [
-        "Chris Lofing",
-        "Travis Cluff"
-      ]
-    },
-    {
-      "id": "paranormal_activity_the_ghost_dimension",
-      "category": "horror",
-      "type": "movie",
-      "title": "Paranormal Activity: The Ghost Dimension",
-      "original_title": "Paranormal Activity: The Ghost Dimension",
-      "year": 2015,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 3.7,
-      "votes": 4214,
-      "tomatometer": 16,
-      "audience_score": 27,
-      "runtime_minutes": 88,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/kTBu-fPWUMzAEPzSD61ECr1SYTk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10143620_p_v8_aw.jpg",
-      "plot": "Ryan Fleege, wife Emily, and their 7-year-old daughter, Leila, prepare for Christmas in their new home. After finding an old and mysterious camcorder, Ryan quickly learns that it can record strange…",
-      "directors": [
-        "Gregory Plotkin"
-      ]
-    },
-    {
-      "id": "the_bay_2012",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Bay",
-      "original_title": "The Bay",
-      "year": 2012,
-      "genres": [
-        "Horror",
-        "Sci-Fi",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.4,
-      "votes": 4184,
-      "tomatometer": 75,
-      "audience_score": 44,
-      "runtime_minutes": 84,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/IuJFHedZWTA447zLrssZxaAP35Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9458730_p_v8_ak.jpg",
-      "plot": "The residents of a seaside Maryland community become the unfortunate hosts of mutant, waterborne parasites that take control of their minds and bodies.",
-      "directors": [
-        "Barry Levinson"
-      ]
-    },
-    {
-      "id": "scouts_guide_to_the_zombie_apocalypse",
-      "category": "horror",
-      "type": "movie",
-      "title": "Scouts Guide to the Zombie Apocalypse",
-      "original_title": "Scouts Guide to the Zombie Apocalypse",
-      "year": 2015,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "rating": 4.8,
-      "votes": 4179,
-      "tomatometer": 44,
-      "audience_score": 50,
-      "runtime_minutes": 93,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/eBho2B6EChkTfnCZxLrUA6wzP5U=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11098202_p_v12_au.jpg",
-      "plot": "What could possibly go wrong when three buddies (Tye Sheridan, Logan Miller, Joey Morgan) decide to join the Boy Scouts? When bloodthirsty, undead ghouls invade their once-peaceful town, it's up to…",
-      "directors": [
-        "Christopher Landon"
-      ]
-    },
-    {
-      "id": "pet_sematary_2019",
-      "category": "horror",
-      "type": "movie",
-      "title": "Pet Sematary",
-      "original_title": "Pet Sematary",
-      "year": 2019,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.9,
-      "votes": 4146,
-      "tomatometer": 58,
-      "audience_score": 33,
-      "runtime_minutes": 101,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/UYfD4x7mEvOsCqjxg21GXM5QvfA=/300x450/v2/https://resizing.flixster.com/Cgts7jOD9XWVxPre9eWNfRVLZCY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZmZDhiYjVlLTY0MTgtNDY4MS05MGFjLTlhM2Y1MTc4YTY5My53ZWJw",
-      "plot": "Dr. Louis Creed and his wife, Rachel, relocate from Boston to rural Maine with their two young children. The couple soon discover a mysterious burial ground hidden deep in the woods near their new…",
-      "directors": [
-        "Kevin Kolsch",
-        "Dennis Widmyer"
-      ]
-    },
-    {
-      "id": "species",
-      "category": "horror",
-      "type": "movie",
-      "title": "Species",
-      "original_title": "Species",
-      "year": 1995,
-      "genres": [
-        "Sci-Fi",
-        "Horror"
-      ],
-      "rating": 5.3,
-      "votes": 4026,
-      "tomatometer": 42,
-      "audience_score": 32,
-      "runtime_minutes": 108,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/2Lba3Rtj6L2bELPOdjqtcw6K7yQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16917_p_v10_aa.jpg",
-      "plot": "When government scientist Xavier Fitch (Ben Kingsley) intercepts a space transmission containing the genetic sequence for an alien life form, he uses it to produce \"Sil\" (Natasha Henstridge) -- a…",
-      "directors": [
-        "Roger Donaldson"
-      ]
-    },
-    {
-      "id": "the_long_walk_2025",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Long Walk",
-      "original_title": "The Long Walk",
-      "year": 2025,
-      "genres": [
-        "Mystery & Thriller",
-        "Horror"
-      ],
-      "rating": 7.7,
-      "votes": 3977,
-      "tomatometer": 88,
-      "audience_score": 85,
-      "runtime_minutes": 108,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/uDq5iFEiPyP_V0JvRxNK2H4bfJY=/300x450/v2/https://resizing.flixster.com/SmFbanoZwH3Zu1VDR4KP_fQT_HQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkMTBkYjYwLTdjNmYtNDQzZi1hMzU1LWMzMTkxODYwMTQxNS5qcGc=",
-      "plot": "From the highly anticipated adaptation of master storyteller Stephen King's first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire,…",
-      "directors": [
-        "Francis Lawrence"
-      ]
-    },
-    {
-      "id": "iron_lung",
-      "category": "horror",
-      "type": "movie",
-      "title": "Iron Lung",
-      "original_title": "Iron Lung",
-      "year": null,
-      "genres": [
-        "Horror",
-        "Sci-Fi"
-      ],
-      "rating": 5.7,
-      "votes": 3948,
-      "tomatometer": 59,
-      "audience_score": 86,
-      "runtime_minutes": 127,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/JyN7fhxnI85JurEmapP85QlAl_k=/300x450/v2/https://resizing.flixster.com/x14gp8mqqj3lta3M-Gjl2ml1m0E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc4MzM2YzBlLTNlZWItNGZmNy1hZWNlLWZiY2ZhZGFhZDY2My5qcGc=",
-      "plot": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Rapture. After decades of decay and crumbling…",
-      "directors": [
-        "Mark Edward Fischbach"
-      ]
-    },
-    {
-      "id": "the_return_2006",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Return",
-      "original_title": "The Return",
-      "year": 2006,
-      "genres": [
-        "Mystery & Thriller",
-        "Horror"
-      ],
-      "rating": 3.9,
-      "votes": 3908,
-      "tomatometer": 15,
-      "audience_score": 32,
-      "runtime_minutes": 85,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/65U4V7XgwcFSgX9cKAXvcci4BKQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p87960_p_v12_ao.jpg",
-      "plot": "Joanna Mills (Sarah Michelle Gellar) has a successful career but feels her personal life is spinning out of control. She has few friends, an estranged father (Sam Shepard), and a crazy ex-boyfriend…",
-      "directors": [
-        "Asif Kapadia"
-      ]
-    },
-    {
-      "id": "werewolf_by_night",
-      "category": "horror",
-      "type": "movie",
-      "title": "Werewolf by Night",
-      "original_title": "Werewolf by Night",
-      "year": 2022,
-      "genres": [
-        "Fantasy",
-        "Action",
-        "Adventure",
-        "Horror"
-      ],
-      "rating": 7.5,
-      "votes": 3808,
-      "tomatometer": 90,
-      "audience_score": 88,
-      "runtime_minutes": 54,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/eIB-VoqOrmnPMCKMG0LZ6YZ0y8U=/300x450/v2/https://resizing.flixster.com/6Ld2qLKNC5f9m7yaUDXanGlrJRI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3ZjQyNWI1LTA0M2EtNDg1Ny05ZTNkLTY3NzVhMTc3N2EzNS5qcGc=",
-      "plot": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the\nforeboding Bloodstone Temple following the death of their leader. In a strange and macabre…",
-      "directors": [
-        "Michael Giacchino"
-      ]
-    },
-    {
-      "id": "smile_2",
-      "category": "horror",
-      "type": "movie",
-      "title": "Smile 2",
-      "original_title": "Smile 2",
-      "year": 2024,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.0,
-      "votes": 3803,
-      "tomatometer": 86,
-      "audience_score": 81,
-      "runtime_minutes": 127,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/zMMuZcoWpUtuCMTlrUabH8DG_fM=/300x450/v2/https://resizing.flixster.com/gZtomMQp1wjKcCrcWSIBhY8EPBo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlM2VjZGZjLWI3ZDEtNGFjYS05ODFjLTQwZGUyYmMwODcwYy5qcGc=",
-      "plot": "About to embark on a new world tour, global pop sensation Skye Riley (Naomi Scott) begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the…",
-      "directors": [
-        "Parker Finn"
-      ]
-    },
-    {
-      "id": "evil_dead_rise",
-      "category": "horror",
-      "type": "movie",
-      "title": "Evil Dead Rise",
-      "original_title": "Evil Dead Rise",
-      "year": 2023,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Fantasy"
-      ],
-      "rating": 7.2,
-      "votes": 3617,
-      "tomatometer": 85,
-      "audience_score": 76,
-      "runtime_minutes": 96,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/qFY1cn8KsQOuCIzEQY2wxJYYSGA=/300x450/v2/https://resizing.flixster.com/rWoHzijYNZv7RJb5P7BQQoGOo80=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2YzliZDFjLWI2NTUtNDFmMi04OTUzLTUwNGFlOTRkOWIyNy5qcGc=",
-      "plot": "In the fifth Evil Dead film, a road-weary Beth pays an overdue visit to her older sister Ellie, who is raising three kids on her own in a cramped L.A apartment. The sisters' reunion is cut short by…",
-      "directors": [
-        "Lee Cronin"
-      ]
-    },
-    {
-      "id": "the_belko_experiment",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Belko Experiment",
-      "original_title": "The Belko Experiment",
-      "year": 2017,
-      "genres": [
-        "Mystery & Thriller",
-        "Horror",
-        "Action"
-      ],
-      "rating": 5.7,
-      "votes": 3564,
-      "tomatometer": 55,
-      "audience_score": 40,
-      "runtime_minutes": 90,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/hhu_kl8Jwyw2xk80WtAtVLJ_YI4=/300x450/v2/https://resizing.flixster.com/7fCZt0GLqMACPOWnna5vYL06aFE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiNGQ1NWQyLWQ1YTktNGNlOC04YTY5LTY1NGUyZTBmM2M4My53ZWJw",
-      "plot": "An ordinary day at the office becomes a horrific quest for survival when 80 employees at the Belko Corp. in Bogotá, Colombia, learn that they are pawns in a deadly game. Trapped inside their…",
-      "directors": [
-        "Greg McLean"
-      ]
-    },
-    {
-      "id": "rings_2017",
-      "category": "horror",
-      "type": "movie",
-      "title": "Rings",
-      "original_title": "Rings",
-      "year": 2017,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 3.2,
-      "votes": 3562,
-      "tomatometer": 7,
-      "audience_score": 23,
-      "runtime_minutes": 97,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/KM4XDHmsJU934N6zCFZ9zXwm8Lw=/300x450/v2/https://resizing.flixster.com/KvvrWB5I3rMV-a27YE4bSfFnswI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFmOWRlN2NmLTk1NmQtNDRjOS1iNTBhLTE2NTMyMTk1MzdkMC53ZWJw",
-      "plot": "A young woman (Matilda Lutz) becomes worried about her boyfriend (Alex Roe) when he explores a dark subculture surrounding a mysterious videotape said to kill the watcher seven days after he has…",
-      "directors": [
-        "F. Javier Gutiérrez"
-      ]
-    },
-    {
-      "id": "smile_2022",
-      "category": "horror",
-      "type": "movie",
-      "title": "Smile",
-      "original_title": "Smile",
-      "year": 2022,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.7,
-      "votes": 3502,
-      "tomatometer": 79,
-      "audience_score": 77,
-      "runtime_minutes": 116,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/7T3TCM1zomsp0b0t2bNvHwNm6X0=/300x450/v2/https://resizing.flixster.com/6Ce6e_0XkidJuYJN0kCXykPDezo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M2ODA3YzkwLWYyM2MtNGFhYS04MGViLTYzN2ZhYWIyYmU1Yi5qcGc=",
-      "plot": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter (Sosie Bacon) starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins…",
-      "directors": [
-        "Parker Finn"
-      ]
-    },
-    {
-      "id": "we_are_what_we_are_2013",
-      "category": "horror",
-      "type": "movie",
-      "title": "We Are What We Are",
-      "original_title": "We Are What We Are",
-      "year": 2013,
-      "genres": [
-        "Drama",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.0,
-      "votes": 3453,
-      "tomatometer": 85,
-      "audience_score": 50,
-      "runtime_minutes": 106,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/u6roZzy9PkqcT9Nik1BUKA5DXi8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10194402_p_v10_ac.jpg",
-      "plot": "The Parkers, reclusive people who cling to ancient customs, find their secret lives threatened when a torrential downpour and the death of the family matriarch forces daughters Iris and Rose to…",
-      "directors": [
-        "Jim Mickle"
-      ]
-    },
-    {
-      "id": "behind_the_mask_the_rise_of_leslie_vernon",
-      "category": "horror",
-      "type": "movie",
-      "title": "Behind the Mask: The Rise of Leslie Vernon",
-      "original_title": "Behind the Mask: The Rise of Leslie Vernon",
-      "year": 2007,
-      "genres": [
-        "Comedy",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.1,
-      "votes": 3446,
-      "tomatometer": 76,
-      "audience_score": 75,
-      "runtime_minutes": 92,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/G8QHlpwgcfLwJoRekYZRNihwsgM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166436_p_v10_aa.jpg",
-      "plot": "Nice, normal-looking Leslie Vernon (Nathan Baesel) has an obsession with movie-style slashers like Michael Myers, Jason Voorhees and Freddy Krueger. Leslie decides to follow in the footsteps of his…",
-      "directors": [
-        "Scott Glosserman"
-      ]
-    },
-    {
-      "id": "the_grudge_2020",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Grudge",
-      "original_title": "The Grudge",
-      "year": 2020,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.2,
-      "votes": 3404,
-      "tomatometer": 20,
-      "audience_score": 23,
-      "runtime_minutes": 94,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/D5jaqQLCp19Gf-qCmCzBB1Cy9Xw=/300x450/v2/https://resizing.flixster.com/mx_aX8br2-nm93m2rwDTEZLeD6A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4YjA4YzU1LTMyMmItNDNiNy1hMmUxLWFiOWEwZWJiNTg0ZS53ZWJw",
-      "plot": "A detective investigates a murder scene that has a connection to a case that her new partner handled in the past. The killings occurred in a haunted house that passes on a ghostly curse to those who…",
-      "directors": [
-        "Nicolas Pesce"
-      ]
-    },
-    {
-      "id": "day_shift",
-      "category": "horror",
-      "type": "movie",
-      "title": "Day Shift",
-      "original_title": "Day Shift",
-      "year": 2022,
-      "genres": [
-        "Action",
-        "Horror",
-        "Comedy"
-      ],
-      "rating": 5.7,
-      "votes": 3344,
-      "tomatometer": 58,
-      "audience_score": 76,
-      "runtime_minutes": 113,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/VUX7bcQmKnYvdSVFSD2u_68oIGs=/300x450/v2/https://resizing.flixster.com/PZPOOQM8PwGL70qshjeR__3kzhA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwOTZlNmQxLWJlYzUtNGE2Yy1hZjQ3LTczMzE3NjQ0MzQ4MS5qcGc=",
-      "plot": "Jamie Foxx stars as a hard working blue collar dad who just wants to provide a good life for his quick-witted daughter, but his mundane San Fernando Valley pool cleaning job is a front for his real…",
-      "directors": [
-        "J.J. Perry"
-      ]
-    },
-    {
-      "id": "candyman_2021",
-      "category": "horror",
-      "type": "movie",
-      "title": "Candyman",
-      "original_title": "Candyman",
-      "year": 2021,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.3,
-      "votes": 3300,
-      "tomatometer": 83,
-      "audience_score": 72,
-      "runtime_minutes": 91,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/dka63J-NEwdydjC1O5ajKTaa2YY=/300x450/v2/https://resizing.flixster.com/NN3sIdu81KbUVzgLUTjLtLDXI8g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyZDU0OTU5LWMyNDEtNDUyOC1hZmYyLTQwOGE2ZWQ2NjhmMy5qcGc=",
-      "plot": "For as long as residents can remember, the housing projects of Chicago's Cabrini-Green neighborhood were terrorized by a word-of-mouth ghost story about a supernatural killer with a hook for a hand,…",
-      "directors": [
-        "Nia DaCosta"
-      ]
-    },
-    {
-      "id": "rec_3_genesis",
-      "category": "horror",
-      "type": "movie",
-      "title": "Rec 3: Genesis",
-      "original_title": "Rec 3: Genesis",
-      "year": 2012,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Action"
-      ],
-      "rating": 5.4,
-      "votes": 3281,
-      "tomatometer": 45,
-      "audience_score": 27,
-      "runtime_minutes": 79,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/k7a9ZRMQwMXZm8Ms66lvP01UB3k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9264983_p_v10_ab.jpg",
-      "plot": "Newlyweds (Leticia Dolera, Diego Martín) watch their wedding reception descend into chaos and carnage when their guests become infected by a virus that turns them into hungry zombies.",
-      "directors": [
-        "Paco Plaza"
-      ]
-    },
-    {
-      "id": "overlord_2018",
-      "category": "horror",
-      "type": "movie",
-      "title": "Overlord",
-      "original_title": "Overlord",
-      "year": 2018,
-      "genres": [
-        "Horror",
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.7,
-      "votes": 3280,
+      "votes": 6571,
       "tomatometer": 82,
-      "audience_score": 67,
-      "runtime_minutes": 110,
+      "audience_score": 79,
+      "runtime_minutes": 105,
       "certificate": "R",
-      "poster": "https://resizing.flixster.com/39aYmknBEa6HV0h4lVvsxDJH9Qc=/300x450/v2/https://resizing.flixster.com/s8gJK-92K1tCSdFI1pf1EIsOdCA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNmZDRhNmY1LTM1MWEtNDMyMS05ZWMyLTdhMTkyZWIxNTczYi53ZWJw",
-      "plot": "On the eve of D-Day, American paratroopers drop behind enemy lines to penetrate the walls of a fortified church and destroy a radio transmitter. As the soldiers approach their target, they soon begin…",
+      "poster": "https://resizing.flixster.com/Elwa_Yk78eFlvvcqnoJsGCmdRmk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30014_p_v12_ao.jpg",
+      "plot": "During a routine nighttime training mission in the Scottish Highlands, a small squad of British soldiers expected to rendezvous with a special ops unit instead find a bloody massacre with a sole…",
       "directors": [
-        "Julius Avery"
-      ]
-    },
-    {
-      "id": "speak_no_evil_2024",
-      "category": "horror",
-      "type": "movie",
-      "title": "Speak No Evil",
-      "original_title": "Speak No Evil",
-      "year": 2024,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Drama"
-      ],
-      "rating": 6.8,
-      "votes": 3069,
-      "tomatometer": 83,
-      "audience_score": 83,
-      "runtime_minutes": 110,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/l878Vbdx2ASHxp_RRy6zlgQb4Is=/300x450/v2/https://resizing.flixster.com/sMuGOMo6o2zECr5GX4QMbpALgjM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QzMmU3MjcyLTI5OWUtNDIwMi1hZTlhLTY4ZGVhMTdkZWZmOC5qcGc=",
-      "plot": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a…",
-      "directors": [
-        "James Watkins"
-      ]
-    },
-    {
-      "id": "cocaine_bear",
-      "category": "horror",
-      "type": "movie",
-      "title": "Cocaine Bear",
-      "original_title": "Cocaine Bear",
-      "year": 2023,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "rating": 6.0,
-      "votes": 3062,
-      "tomatometer": 65,
-      "audience_score": 71,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/cXFSKj-ukz8wYPebsdeQ0Jal1I8=/300x450/v2/https://resizing.flixster.com/HyxB3a8sdK-y6fUI4akiNAT39KQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1YjM3YTg1LTg5YTgtNGUzNC1iMjFmLTJkMmIwNmQ1ZTk0YS5qcGc=",
-      "plot": "Inspired by the 1985 true story of a drug runner's plane crash, missing cocaine, and the black bear that ate it, this wild thriller finds an oddball group of cops, criminals, tourists and teens…",
-      "directors": [
-        "Elizabeth Banks"
-      ]
-    },
-    {
-      "id": "suspiria_2018",
-      "category": "horror",
-      "type": "movie",
-      "title": "Suspiria",
-      "original_title": "Suspiria",
-      "year": 2018,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.9,
-      "votes": 2974,
-      "tomatometer": 65,
-      "audience_score": 72,
-      "runtime_minutes": 152,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/O9adkk7MnwEjj2umLl7CszghRnI=/300x450/v2/https://resizing.flixster.com/HLu6nuRKO_sd91K6vyM6ZimZrOY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QyNGRmNWYzLTBjZTEtNGMwYy1hYTJiLWI4MTFhMjcyNGQyOS53ZWJw",
-      "plot": "Young American dancer Susie Bannion arrives in the 1970s Berlin to audition for the world-renowned Helena Markos Dance Co. When she vaults to the role of lead dancer, the woman she replaces breaks…",
-      "directors": [
-        "Luca Guadagnino"
-      ]
-    },
-    {
-      "id": "five_nights_at_freddys",
-      "category": "horror",
-      "type": "movie",
-      "title": "Five Nights at Freddy's",
-      "original_title": "Five Nights at Freddy's",
-      "year": 2023,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.7,
-      "votes": 2953,
-      "tomatometer": 33,
-      "audience_score": 85,
-      "runtime_minutes": 110,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/LYJAHtmMWytRO5BX-lS5DVE0TpE=/300x450/v2/https://resizing.flixster.com/NFhss816If2YlSBDd2154Z6-KHw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UyNTU5YzhjLTI4ODktNDg2Yy1hMmM0LWY0ZDM0Y2FkNjA3Yy5qcGc=",
-      "plot": "The film follows a troubled security guard as he begins working at Freddy Fazbear's Pizza. While spending his first night on the job, he realizes the night shift at Freddy's won't be so easy to make…",
-      "directors": [
-        "Emma Tammi"
-      ]
-    },
-    {
-      "id": "the_monkey",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Monkey",
-      "original_title": "The Monkey",
-      "year": 2025,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "rating": 6.7,
-      "votes": 2893,
-      "tomatometer": 77,
-      "audience_score": 55,
-      "runtime_minutes": 98,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/RzLjZrrLtHTLYqdL0kMFZxI4hn4=/300x450/v2/https://resizing.flixster.com/P3cBe2sRnqNRgMiNfv7hoisEyDk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4YmI4ZmE3LWQwZTMtNGM2OC05MGE4LWI2NzBjZjFlYmFkNS5qcGc=",
-      "plot": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tears their family apart. Twenty-five years later, the monkey begins a new killing spree, forcing the estranged…",
-      "directors": [
-        "Oz Perkins"
-      ]
-    },
-    {
-      "id": "raw_2017",
-      "category": "horror",
-      "type": "movie",
-      "title": "Raw",
-      "original_title": "Raw",
-      "year": 2017,
-      "genres": [
-        "Horror",
-        "Drama"
-      ],
-      "rating": 7.9,
-      "votes": 2886,
-      "tomatometer": 93,
-      "audience_score": 76,
-      "runtime_minutes": 99,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/M62Erle1DEsrOBPRnETfdowBC5o=/300x450/v2/https://resizing.flixster.com/Vuzze8kQYCTy-XYDjurD86YYPV0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwNGI3Mjc1LTM5MzktNGRjZC04YTQ1LWZjMjBlYmMxZmNiMi53ZWJw",
-      "plot": "Stringent vegetarian Justine (Garance Marillier) encounters a decadent, merciless and dangerously seductive world during her first week at veterinary school. Desperate to fit in, she strays from her…",
-      "directors": [
-        "Julia Ducournau"
-      ]
-    },
-    {
-      "id": "horsemen",
-      "category": "horror",
-      "type": "movie",
-      "title": "Horsemen",
-      "original_title": "Horsemen",
-      "year": 2009,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 4.1,
-      "votes": 2826,
-      "tomatometer": 17,
-      "audience_score": 25,
-      "runtime_minutes": 90,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/uh86i_CxtvUz-XgqZI8BFvOZXOo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p193067_p_v8_az.jpg",
-      "plot": "Detective Aidan Breslin finds himself thrust into an investigation of perverse serial killings rooted in the biblical prophecy of the Four Horsemen of the Apocalypse. He slowly discovers a shocking…",
-      "directors": [
-        "Jonas Akerlund"
-      ]
-    },
-    {
-      "id": "28_years_later_the_bone_temple",
-      "category": "horror",
-      "type": "movie",
-      "title": "28 Years Later: The Bone Temple",
-      "original_title": "28 Years Later: The Bone Temple",
-      "year": 2026,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.8,
-      "votes": 2745,
-      "tomatometer": 91,
-      "audience_score": 88,
-      "runtime_minutes": 110,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/mvTVq4fHU4CTqV3Pcyjihq9XRjw=/300x450/v2/https://resizing.flixster.com/KhvweFDt8lqqSgqfVdOUZVXZzow=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFmNjI1OGU2LTY2MDEtNDMyNi04NGFiLTY3NjZhNDA3ODA2MS5qcGc=",
-      "plot": "Expanding upon the world created by Danny Boyle and Alex Garland in 28 Years Later -- but turning that world on its head -- Nia DaCosta directs 28 Years Later: The Bone Temple. In a continuation of…",
-      "directors": [
-        "Nia DaCosta"
-      ]
-    },
-    {
-      "id": "morgan_2016",
-      "category": "horror",
-      "type": "movie",
-      "title": "Morgan",
-      "original_title": "Morgan",
-      "year": 2016,
-      "genres": [
-        "Sci-Fi",
-        "Mystery & Thriller",
-        "Horror"
-      ],
-      "rating": 5.0,
-      "votes": 2671,
-      "tomatometer": 38,
-      "audience_score": 30,
-      "runtime_minutes": 88,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ieLmKAgfxEY4AUSby36NjsimNZk=/300x450/v2/https://resizing.flixster.com/VEHWULl37_iasguMX0zLfLY6U40=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg2ZjNjOGM4LTFiMmMtNGJkMi1hN2YyLWZkYWE4OTM0NmU5YS53ZWJw",
-      "plot": "Morgan (Anya Taylor-Joy) is a bioengineered child who began walking and talking after one month of existence, exceeding the wildest expectations of her creators. When Morgan attacks one of her…",
-      "directors": [
-        "Luke Scott"
-      ]
-    },
-    {
-      "id": "the_curse_of_la_llorona_2019",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Curse of La Llorona",
-      "original_title": "The Curse of La Llorona",
-      "year": 2019,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.5,
-      "votes": 2624,
-      "tomatometer": 26,
-      "audience_score": 34,
-      "runtime_minutes": 93,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/gR_bF5utTaNRUsw_QlRU1kx2SHI=/300x450/v2/https://resizing.flixster.com/G0_E8pq21o31M99wXMk_NHXBr-w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRjNTViZjgzLThiMWItNDZiMC05NzliLWVmNTFhYmU0YjdiYi53ZWJw",
-      "plot": "In the 1970s Los Angeles, the legendary ghost La Llorona is stalking the night -- and the children. Ignoring the eerie warning of a troubled mother, a social worker and her own kids are drawn into a…",
-      "directors": [
-        "Michael Chaves"
-      ]
-    },
-    {
-      "id": "the_blob_1988",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Blob",
-      "original_title": "The Blob",
-      "year": 1988,
-      "genres": [
-        "Horror",
-        "Sci-Fi"
-      ],
-      "rating": 6.3,
-      "votes": 2617,
-      "tomatometer": 71,
-      "audience_score": 60,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/c7DXLqR-h7p63EPdQhD_CIvOXfk=/300x450/v2/https://resizing.flixster.com/43ceyiTbZPve5InJTkKoLQzEpPc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3MTIwNzZkLWVjODItNGRjOS1hOWU0LTg1ZDU3MTA5MDdkYi5qcGc=",
-      "plot": "In a tiny California town, high school students Brian (Kevin Dillon), Meg (Shawnee Smith) and Paul (Donovan Leitch) discover a strange, gelatinous substance that melts the flesh of any living…",
-      "directors": [
-        "Chuck Russell"
-      ]
-    },
-    {
-      "id": "1126175-house_of_the_dead",
-      "category": "horror",
-      "type": "movie",
-      "title": "House of the Dead",
-      "original_title": "House of the Dead",
-      "year": 2003,
-      "genres": [
-        "Horror",
-        "Action"
-      ],
-      "rating": 2.5,
-      "votes": 2502,
-      "tomatometer": 3,
-      "audience_score": 11,
-      "runtime_minutes": 90,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/aqKgsjRGPfW4Qhp61jJLyEC1F3Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32555_p_v8_ad.jpg",
-      "plot": "Simon (Tyron Leitso) and Greg (Will Sanderson) meet a group of friends and set out to attend a rave on a remote island. When they miss the ferry, they decide to ride with Kirk (Jürgen Prochnow), a…",
-      "directors": [
-        "Uwe Boll"
-      ]
-    },
-    {
-      "id": "insidious_the_last_key",
-      "category": "horror",
-      "type": "movie",
-      "title": "Insidious: The Last Key",
-      "original_title": "Insidious: The Last Key",
-      "year": 2018,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.2,
-      "votes": 2486,
-      "tomatometer": 35,
-      "audience_score": 49,
-      "runtime_minutes": 103,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/ecNhM9q1NuQnf1gp3BrmayVIlH4=/300x450/v2/https://resizing.flixster.com/5g7d2iYebd_NVSiQGbGI2DknrdE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NjMjY3MzAxLTRjMGQtNGY0OS05MjVlLWViYzYwM2FkNjE1MS53ZWJw",
-      "plot": "Brilliant parapsychologist Elise Rainier receives a disturbing phone call from a man who claims that his house is haunted. Even more disturbing is the address -- 413 Apple Tree Lane in Five Keys,…",
-      "directors": [
-        "Adam Robitel"
-      ]
-    },
-    {
-      "id": "beast_2022",
-      "category": "horror",
-      "type": "movie",
-      "title": "Beast",
-      "original_title": "Beast",
-      "year": 2022,
-      "genres": [
-        "Mystery & Thriller",
-        "Adventure",
-        "Action",
-        "Drama",
-        "Horror"
-      ],
-      "rating": 6.0,
-      "votes": 2440,
-      "tomatometer": 69,
-      "audience_score": 77,
-      "runtime_minutes": 93,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/emQRGF6-ZqXvt983kiwCddvtGtc=/300x450/v2/https://resizing.flixster.com/VEqpmXsAtewTG2T4sLMh6G8K0YA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlODAyN2E4LTFhODctNGU0Mi04Y2M4LTMwMDI4MjBhODRiYy5qcGc=",
-      "plot": "Idris Elba (Fast & Furious Presents: Hobbs & Shaw, The Suicide Squad) stars in a pulse-pounding new thriller about a father and his two teenage daughters who find themselves hunted by a massive rogue…",
-      "directors": [
-        "Baltasar Kormákur"
-      ]
-    },
-    {
-      "id": "the_first_purge",
-      "category": "horror",
-      "type": "movie",
-      "title": "The First Purge",
-      "original_title": "The First Purge",
-      "year": 2018,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Horror"
-      ],
-      "rating": 5.4,
-      "votes": 2420,
-      "tomatometer": 55,
-      "audience_score": 28,
-      "runtime_minutes": 97,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/iRC3fhc0WMFQM_-G0uIHcqEAk6o=/300x450/v2/https://resizing.flixster.com/Q1wqf8bkEsxhvFqGWqYlPecUJUE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzNWM0ZjlkLTc0ZjUtNGMyOC1iMjliLTI4MDRmZTU5Y2NmMy53ZWJw",
-      "plot": "To push the crime rate below one percent for the rest of the year, the New Founding Fathers of America try a radical sociological experiment that allows citizens to vent their aggression for one…",
-      "directors": [
-        "Gerard McMurray"
-      ]
-    },
-    {
-      "id": "the_conjuring_the_devil_made_me_do_it",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Conjuring: The Devil Made Me Do It",
-      "original_title": "The Conjuring: The Devil Made Me Do It",
-      "year": 2021,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.8,
-      "votes": 2404,
-      "tomatometer": 56,
-      "audience_score": 83,
-      "runtime_minutes": 112,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/zMrfX-NgzFwMkmM5GXa1HorrIt8=/300x450/v2/https://resizing.flixster.com/GLSJED8WFqLFLQygLWywxEQyQSA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U3M2M1YzEwLTA4ZGItNDk4Mi05N2RjLTQ0YmJlODc0YjdjNi5qcGc=",
-      "plot": "\"The Conjuring: The Devil Made Me Do It\" reveals a chilling story of terror, murder and unknown evil that shocked even experienced real-life paranormal investigators Ed and Lorraine Warren. One of…",
-      "directors": [
-        "Michael Chaves"
-      ]
-    },
-    {
-      "id": "barbarian_2022",
-      "category": "horror",
-      "type": "movie",
-      "title": "Barbarian",
-      "original_title": "Barbarian",
-      "year": 2022,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.5,
-      "votes": 2395,
-      "tomatometer": 92,
-      "audience_score": 70,
-      "runtime_minutes": 102,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/9y3Xnkx0co7mpuLBHo1lBTRKr0I=/300x450/v2/https://resizing.flixster.com/Ym6ucXdlZjGTqRWEMVr0r3H16Ro=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3ZGY2MjgxLTI1NjEtNGFhMC1iYzQ0LTllOGFhYTczNzYxNy5qcGc=",
-      "plot": "Traveling to Detroit for a job interview, a young woman books a rental home. But when she arrives late at night, she discovers that the house is double booked and a strange man is already staying…",
-      "directors": [
-        "Zach Cregger"
-      ]
-    },
-    {
-      "id": "intruders_2011",
-      "category": "horror",
-      "type": "movie",
-      "title": "Intruders",
-      "original_title": "Intruders",
-      "year": 2012,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.9,
-      "votes": 2378,
-      "tomatometer": 29,
-      "audience_score": 22,
-      "runtime_minutes": 99,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/AmHpqapiK0qI2kiq6JWMb7ZQ7p8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9038024_p_v8_ao.jpg",
-      "plot": "Two children, one in Spain and the other in England, are terrorized by a hooded, faceless phantom that has seemingly sprung from the pages of the horror stories they wrote. The creature, called…",
-      "directors": [
-        "Juan Carlos Fresnadillo"
-      ]
-    },
-    {
-      "id": "together_2025",
-      "category": "horror",
-      "type": "movie",
-      "title": "Together",
-      "original_title": "Together",
-      "year": 2025,
-      "genres": [
-        "Horror",
-        "Sci-Fi"
-      ],
-      "rating": 7.2,
-      "votes": 2370,
-      "tomatometer": 89,
-      "audience_score": 75,
-      "runtime_minutes": 102,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/KMgXhGYsq9wHBAIWD95ObjB12Sc=/300x450/v2/https://resizing.flixster.com/cqTobhGXle1L6VFaFRKSFk65UXc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4NGYxNTU0LTNkM2UtNGNkMi1hY2UwLTkzZjRmYzA2OTcyMS5qcGc=",
-      "plot": "Years into their relationship, Tim and Millie (Dave Franco and Alison Brie) find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each…",
-      "directors": [
-        "Michael Shanks"
-      ]
-    },
-    {
-      "id": "the_bye_bye_man",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Bye Bye Man",
-      "original_title": "The Bye Bye Man",
-      "year": 2017,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 3.6,
-      "votes": 2355,
-      "tomatometer": 19,
-      "audience_score": 22,
-      "runtime_minutes": 96,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/hvJcgbfcY4uspktn8qokR7tje5I=/300x450/v2/https://resizing.flixster.com/Os0PX-t1-2tfaN-oC0LaZSExWSw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBhZTYxMGRiLTgyZWYtNGI0MS05YWQzLWRkYTJiZmVjMjFmNi53ZWJw",
-      "plot": "People commit unthinkable acts every day. Time and again, we grapple to understand what drives a person to do such terrible things. But what if all the questions we're asking are wrong? What if the…",
-      "directors": [
-        "Stacy Title"
-      ]
-    },
-    {
-      "id": "companion_2025",
-      "category": "horror",
-      "type": "movie",
-      "title": "Companion",
-      "original_title": "Companion",
-      "year": 2025,
-      "genres": [
-        "Mystery & Thriller",
-        "Sci-Fi",
-        "Horror",
-        "Comedy"
-      ],
-      "rating": 7.5,
-      "votes": 2348,
-      "tomatometer": 93,
-      "audience_score": 88,
-      "runtime_minutes": 97,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/_l_bifEO3HlsLDGx8p98y36qEjY=/300x450/v2/https://resizing.flixster.com/S8QC5Q_ClUyg-guAIMH7-7cPm1s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdlNmI1MGUzLWZhNGEtNDYxNy05YTA2LWNjNThhZGY5MzIwZC5qcGc=",
-      "plot": "New Line Cinema--the studio that brought you \"The Notebook\"--and the unhinged creators of \"Barbarian\" cordially invite you to experience a new kind of love story....",
-      "directors": [
-        "Drew Hancock"
-      ]
-    },
-    {
-      "id": "evil_dead_burn",
-      "category": "horror",
-      "type": "movie",
-      "title": "Evil Dead Burn",
-      "original_title": "Evil Dead Burn",
-      "year": 2026,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.3,
-      "votes": 2348,
-      "tomatometer": 71,
-      "audience_score": 74,
-      "runtime_minutes": 110,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/dci9eFdEEb9_9gJmwFIneaQKvog=/300x450/v2/https://resizing.flixster.com/QAiR2e3WJLT9yUP9q0DmhXep1wg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkZDMwNjYxLTYyY2MtNGUwZS05M2M2LTc2MTY5NDY0Y2M0OC5qcGc=",
-      "plot": "EVIL DEAD BURN unleashes the franchise's most savage and terrifying ride to date, blazing onto big screens with an all-new chapter of carnage and demonic mayhem. After the loss of her husband, a…",
-      "directors": [
-        "Sébastien Vaniček"
-      ]
-    },
-    {
-      "id": "texas_chainsaw_massacre_2022",
-      "category": "horror",
-      "type": "movie",
-      "title": "Texas Chainsaw Massacre",
-      "original_title": "Texas Chainsaw Massacre",
-      "year": 2022,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.3,
-      "votes": 2337,
-      "tomatometer": 31,
-      "audience_score": 24,
-      "runtime_minutes": 83,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ae0HhgHrqJ1E0l7dpB07L60fk2Y=/300x450/v2/https://resizing.flixster.com/fHRqOdFezMJ7jRcfTGc-4FDZUig=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhZjUwZDYxLTVkNWItNGMxYS1hZGQ1LTM4ZDNlYTBjYjE5MC5qcGc=",
-      "plot": "Melody (Sarah Yarkin), her teenage sister Lila (Elsie Fisher), and their friends Dante (Jacob Latimore) and Ruth (Nell Hudson), head to the remote town of Harlow, Texas to start an idealistic new…",
-      "directors": [
-        "David Blue Garcia"
-      ]
-    },
-    {
-      "id": "heretic_2024",
-      "category": "horror",
-      "type": "movie",
-      "title": "Heretic",
-      "original_title": "Heretic",
-      "year": 2024,
-      "genres": [
-        "Mystery & Thriller",
-        "Horror"
-      ],
-      "rating": 7.3,
-      "votes": 2292,
-      "tomatometer": 89,
-      "audience_score": 76,
-      "runtime_minutes": 111,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/seCd8GqPRfdquYJb0EwrJBIe8bc=/300x450/v2/https://resizing.flixster.com/UsRxTNT7NoNfAoPgIKtBDLVjqqA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM2NjNlNjU2LWIyYTItNDFlZS05ZjkwLTE1Mzg2Yzg1ZjRlZC5qcGc=",
-      "plot": "Two young missionaries are forced to prove their faith when they knock on the wrong door and are greeted by a diabolical Mr. Reed (Hugh Grant), becoming ensnared in his deadly game of cat-and-mouse.",
-      "directors": [
-        "Scott Beck",
-        "Bryan Woods"
-      ]
-    },
-    {
-      "id": "frankenstein_2025",
-      "category": "horror",
-      "type": "movie",
-      "title": "Frankenstein",
-      "original_title": "Frankenstein",
-      "year": 2025,
-      "genres": [
-        "Horror",
-        "Drama",
-        "Sci-Fi"
-      ],
-      "rating": 7.6,
-      "votes": 2271,
-      "tomatometer": 85,
-      "audience_score": 94,
-      "runtime_minutes": 149,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/2m5PbhLQw8p0uuiGYvXZJLPeICo=/300x450/v2/https://resizing.flixster.com/Zz5j775bLo0_Z-G77RAEMRKjB18=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmOTJjOWE4LTNlYTAtNGFmMS04NDViLTQ5Njg5Mjc4MzY0Ni5qcGc=",
-      "plot": "Oscar-winning director Guillermo del Toro adapts Mary Shelley's classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that…",
-      "directors": [
-        "Guillermo del Toro"
+        "Neil Marshall"
       ]
     }
   ]

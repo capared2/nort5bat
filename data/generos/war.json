@@ -1,8 +1,35 @@
 {
   "genre": "war",
   "name": "War",
-  "count": 75,
+  "count": 103,
   "titles": [
+    {
+      "id": "forrest_gump",
+      "category": "war",
+      "type": "movie",
+      "title": "Forrest Gump",
+      "original_title": "Forrest Gump",
+      "year": 1994,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Adventure",
+        "War",
+        "History"
+      ],
+      "rating": 8.0,
+      "votes": 179588,
+      "tomatometer": 75,
+      "audience_score": 95,
+      "runtime_minutes": 142,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/9LS8LRBqEeN2f0TvhJZzTSWtKVs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15829_p_v12_ba.jpg",
+      "plot": "Slow-witted Forrest Gump (Tom Hanks) has never thought of himself as disadvantaged, and thanks to his supportive mother (Sally Field), he leads anything but a restricted life. Whether dominating on…",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
     {
       "id": "saving_private_ryan",
       "category": "war",
@@ -25,6 +52,32 @@
       "plot": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching…",
       "directors": [
         "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "troy",
+      "category": "war",
+      "type": "movie",
+      "title": "Troy",
+      "original_title": "Troy",
+      "year": 2004,
+      "genres": [
+        "Adventure",
+        "War",
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 92335,
+      "tomatometer": 53,
+      "audience_score": 74,
+      "runtime_minutes": 162,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/BW6G1sUgPSwhadFQMUUn5b-CEFA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34313_p_v12_bc.jpg",
+      "plot": "While visiting Spartan King Menelaus, Trojan prince Paris falls for Menelaus' wife, Helen and takes her back to Troy. Menelaus' brother, King Agamemnon, having already defeated every army in Greece,…",
+      "directors": [
+        "Wolfgang Petersen"
       ]
     },
     {
@@ -77,6 +130,55 @@
       ]
     },
     {
+      "id": "tropic_thunder",
+      "category": "war",
+      "type": "movie",
+      "title": "Tropic Thunder",
+      "original_title": "Tropic Thunder",
+      "year": 2008,
+      "genres": [
+        "Comedy",
+        "Action",
+        "Adventure",
+        "War",
+        "Drama"
+      ],
+      "rating": 7.4,
+      "votes": 67949,
+      "tomatometer": 82,
+      "audience_score": 71,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/IhntlFDogbRVEcKz1lf_OdnuhXw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p177515_p_v10_am.jpg",
+      "plot": "Tugg Speedman (Ben Stiller), pampered action superstar, sets out for Southeast Asia to take part in the biggest, most-expensive war movie produced, but soon after filming begins, he and his co-stars,…",
+      "directors": [
+        "Ben Stiller"
+      ]
+    },
+    {
+      "id": "stop_loss",
+      "category": "war",
+      "type": "movie",
+      "title": "Stop-Loss",
+      "original_title": "Stop-Loss",
+      "year": 2008,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 6.5,
+      "votes": 59190,
+      "tomatometer": 64,
+      "audience_score": 26,
+      "runtime_minutes": 113,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/pa5Yj897Xa1rqZov7HZq2faA094=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p170623_p_v7_al.jpg",
+      "plot": "His tour of duty in Iraq finally over, Staff Sgt. Brandon King returns home to Brazos, Texas, ready to re-enter civilian life. Unexpectedly, the Army invokes a clause in Brandon's military contract,…",
+      "directors": [
+        "Kimberly Peirce"
+      ]
+    },
+    {
       "id": "pianist",
       "category": "war",
       "type": "movie",
@@ -98,6 +200,29 @@
       "plot": "In this adaptation of the autobiography \"The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945,\" Władysław Szpilman, a Polish Jewish radio station pianist, sees Warsaw…",
       "directors": [
         "Roman Polanski"
+      ]
+    },
+    {
+      "id": "lone_survivor",
+      "category": "war",
+      "type": "movie",
+      "title": "Lone Survivor",
+      "original_title": "Lone Survivor",
+      "year": 2014,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "rating": 6.6,
+      "votes": 46840,
+      "tomatometer": 75,
+      "audience_score": 87,
+      "runtime_minutes": 121,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/B9-e0biZaT0t60nT_-tqWE81KtA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10020958_p_v11_aa.jpg",
+      "plot": "In 2005 Afghanistan, Navy SEALs Marcus Luttrell (Mark Wahlberg), Michael Murphy (Taylor Kitsch), Danny Dietz (Emile Hirsch) and Matthew \"Axe\" Axelson (Ben Foster) deploy on a mission of surveillance…",
+      "directors": [
+        "Peter Berg"
       ]
     },
     {
@@ -224,6 +349,31 @@
       ]
     },
     {
+      "id": "1152567-jarhead",
+      "category": "war",
+      "type": "movie",
+      "title": "Jarhead",
+      "original_title": "Jarhead",
+      "year": 2005,
+      "genres": [
+        "War",
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.9,
+      "votes": 27559,
+      "tomatometer": 60,
+      "audience_score": 68,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/t1CImFBWInQ-1B9xoW_a_pZaI_0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90513_p_v10_ac.jpg",
+      "plot": "In the late 1980s, Anthony Swofford (Jake Gyllenhaal) enlists as a Marine, training in boot camp under a sadistic drill instructor. Swofford undertakes a sniper course headed by Staff Sgt. Sykes…",
+      "directors": [
+        "Sam Mendes"
+      ]
+    },
+    {
       "id": "war_horse",
       "category": "war",
       "type": "movie",
@@ -345,6 +495,32 @@
       ]
     },
     {
+      "id": "enemy_at_the_gates",
+      "category": "war",
+      "type": "movie",
+      "title": "Enemy at the Gates",
+      "original_title": "Enemy at the Gates",
+      "year": 2001,
+      "genres": [
+        "War",
+        "Drama",
+        "Action",
+        "History",
+        "Romance"
+      ],
+      "rating": 6.2,
+      "votes": 19601,
+      "tomatometer": 53,
+      "audience_score": 82,
+      "runtime_minutes": 131,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/YUbH7wrcDWGZNaRgKF_vyJTrV8I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26100_p_v11_ar.jpg",
+      "plot": "Vassili is a young Russian sharpshooter who becomes a legend when a savvy political officer makes him the hero of his propaganda campaign. Their friendship is threatened when both men fall in love…",
+      "directors": [
+        "Jean-Jacques Annaud"
+      ]
+    },
+    {
       "id": "defiance_2008",
       "category": "war",
       "type": "movie",
@@ -414,6 +590,30 @@
       "plot": "In 1942, Private Witt (Jim Caviezel) is a U.S. Army absconder living peacefully with the locals of a small South Pacific island. Discovered by his commanding officer, Sgt. Welsh (Sean Penn), Witt is…",
       "directors": [
         "Terrence Malick"
+      ]
+    },
+    {
+      "id": "downfall",
+      "category": "war",
+      "type": "movie",
+      "title": "Downfall",
+      "original_title": "Downfall",
+      "year": 2004,
+      "genres": [
+        "History",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.2,
+      "votes": 17291,
+      "tomatometer": 90,
+      "audience_score": 94,
+      "runtime_minutes": 148,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/unEucWpCgAst3I-DhpjakjDmg6g=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35549_p_v10_af.jpg",
+      "plot": "In 1942, young Traudl Junge (Alexandra Maria Lara) lands her dream job -- secretary to Adolf Hitler (Bruno Ganz) at the peak of his power. Three years later, Hitler's empire is now his underground…",
+      "directors": [
+        "Oliver Hirschbiegel"
       ]
     },
     {
@@ -564,6 +764,32 @@
       ]
     },
     {
+      "id": "red_cliff",
+      "category": "war",
+      "type": "movie",
+      "title": "Red Cliff",
+      "original_title": "Red Cliff",
+      "year": 2009,
+      "genres": [
+        "History",
+        "Drama",
+        "Action",
+        "Adventure",
+        "War"
+      ],
+      "rating": 7.2,
+      "votes": 6343,
+      "tomatometer": 89,
+      "audience_score": 78,
+      "runtime_minutes": 148,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/DsK5_0PB-u0Ip3CbxsAnUBikICM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3576770_p_v10_ag.jpg",
+      "plot": "In ancient China, the emperor of the Han Dynasty allows General Cao Cao (Fengyi Zhang) to declare war against the rebellious southern provinces, with the intention of unifying the entire country.…",
+      "directors": [
+        "John Woo"
+      ]
+    },
+    {
       "id": "iron_sky",
       "category": "sci-fi",
       "type": "movie",
@@ -664,6 +890,29 @@
       ]
     },
     {
+      "id": "tae_guk_gi_the_brotherhood_of_war",
+      "category": "war",
+      "type": "movie",
+      "title": "Tae Guk Gi: The Brotherhood of War",
+      "original_title": "Tae Guk Gi: The Brotherhood of War",
+      "year": 2004,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "rating": 6.8,
+      "votes": 3683,
+      "tomatometer": 79,
+      "audience_score": 92,
+      "runtime_minutes": 145,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/qM9uwK441F-J9uZTyinGR5uvMK8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34816_p_v8_ab.jpg",
+      "plot": "Jin-tae (Jang Dong-gun) has always looked out for his little brother, Jin-seok (Won-bin), even shining shoes to raise funds for his college education. When the Korean War flares up and both brothers…",
+      "directors": [
+        "Je-gyu Kang"
+      ]
+    },
+    {
       "id": "miracle_at_st_anna",
       "category": "war",
       "type": "movie",
@@ -756,6 +1005,32 @@
       "plot": "When auto mechanic James Busbee (Michael Rapaport) is sent to fight the Japanese during World War II, he leaves behind his wife (Emily Watson) and two sons, London (David Henrie) and Pepper (Jakob…",
       "directors": [
         "Alejandro Monteverde"
+      ]
+    },
+    {
+      "id": "big_game_2015",
+      "category": "war",
+      "type": "movie",
+      "title": "Big Game",
+      "original_title": "Big Game",
+      "year": 2015,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Mystery & Thriller",
+        "War"
+      ],
+      "rating": 6.1,
+      "votes": 2519,
+      "tomatometer": 77,
+      "audience_score": 34,
+      "runtime_minutes": 90,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/kTBjKx_E3XekHkxzOOoXEBHwPHE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11308265_p_v13_bc.jpg",
+      "plot": "The U.S. president (Samuel L. Jackson) must rely on a 13-year-old boy (Onni Tommila) to get him out alive after Air Force One is shot down over Finland as part of a psychopath's plot to hunt and kill…",
+      "directors": [
+        "Jalmari Helander"
       ]
     },
     {
@@ -904,6 +1179,32 @@
       ]
     },
     {
+      "id": "1118347-quiet_american",
+      "category": "war",
+      "type": "movie",
+      "title": "The Quiet American",
+      "original_title": "The Quiet American",
+      "year": 2002,
+      "genres": [
+        "Romance",
+        "War",
+        "History",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.0,
+      "votes": 1969,
+      "tomatometer": 87,
+      "audience_score": 72,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/pm1irNXw1s0j-Yx1niphihtU7q8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30736_p_v10_ab.jpg",
+      "plot": "From the classic novel by Graham Greene comes a murder mystery centered on a love triangle set against the French Indochina War in Vietnam, circa 1952. It's the story of a veteran English journalist…",
+      "directors": [
+        "Phillip Noyce"
+      ]
+    },
+    {
       "id": "testament_of_youth",
       "category": "war",
       "type": "movie",
@@ -976,6 +1277,54 @@
       "plot": "During World War II, North African troops encounter bigotry and unfair treatment from their French comrades-in-arms, despite the fact that they bravely fight for a country they have never seen. Some,…",
       "directors": [
         "Rachid Bouchareb"
+      ]
+    },
+    {
+      "id": "beyond_the_gates",
+      "category": "war",
+      "type": "movie",
+      "title": "Shooting Dogs",
+      "original_title": "Shooting Dogs",
+      "year": 2007,
+      "genres": [
+        "History",
+        "Drama",
+        "War"
+      ],
+      "rating": 7.5,
+      "votes": 1709,
+      "tomatometer": 85,
+      "audience_score": 85,
+      "runtime_minutes": 115,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/4G7_YHsF050YlEt0Xdkpd5Duenc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159499_p_v8_ad.jpg",
+      "plot": "In 1994 Rwanda, simmering tensions between Hutus and Tutsis boil over into full-scale genocide. Two men, a priest named Father Christopher (John Hurt) and British schoolteacher Joe Connor (Hugh…",
+      "directors": [
+        "Michael Caton-Jones"
+      ]
+    },
+    {
+      "id": "road_to_guantanamo",
+      "category": "war",
+      "type": "movie",
+      "title": "The Road to Guantanamo",
+      "original_title": "The Road to Guantanamo",
+      "year": 2006,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 7.1,
+      "votes": 1541,
+      "tomatometer": 86,
+      "audience_score": 82,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/u4FTjS8kIFKOR2IrjkxtqAqzWB8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162418_p_v8_ab.jpg",
+      "plot": "In September 2001 several British Muslim friends go to Pakistan to attend a wedding. They decide to visit Afghanistan, but they find Kandahar under attack and flee to Kabul. From there the friends…",
+      "directors": [
+        "Michael Winterbottom",
+        "Mat Whitecross"
       ]
     },
     {
@@ -1195,6 +1544,29 @@
       ]
     },
     {
+      "id": "hyena_road",
+      "category": "war",
+      "type": "movie",
+      "title": "Hyena Road",
+      "original_title": "Hyena Road",
+      "year": 2016,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "rating": 5.5,
+      "votes": 574,
+      "tomatometer": 57,
+      "audience_score": 60,
+      "runtime_minutes": 120,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/icPwym90PmM6sCRWOeecdgg1yA0=/300x450/v2/https://resizing.flixster.com/l6vBerdbxoK37l8HbFf2yBYCiMQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE2ZWUyNjRmLTg1YjMtNDMzNi04MGQyLWE4MWZkZmE4M2RiNC53ZWJw",
+      "plot": "During the war in Afghanistan, an intelligence officer (Paul Gross) enlists a sniper (Rossif Sutherland) to track down a legendary freedom fighter.",
+      "directors": [
+        "Paul Gross"
+      ]
+    },
+    {
       "id": "1039575-1039575-midnight_clear",
       "category": "war",
       "type": "movie",
@@ -1264,6 +1636,29 @@
       "plot": "U.S. Navy pilot Lt. Jake Grafton (Brad Johnson) and his bombardier buddy, Lt. Cmdr. Virgil Cole (Willem Dafoe), are two soldiers embedded in the Vietnam War growing frustrated by the military's…",
       "directors": [
         "John Milius"
+      ]
+    },
+    {
+      "id": "20_days_in_mariupol",
+      "category": "war",
+      "type": "movie",
+      "title": "20 Days in Mariupol",
+      "original_title": "20 Days in Mariupol",
+      "year": 2023,
+      "genres": [
+        "Documentary",
+        "War"
+      ],
+      "rating": 8.8,
+      "votes": 391,
+      "tomatometer": 100,
+      "audience_score": 97,
+      "runtime_minutes": 94,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/I-9CInFRjU-3VGK1uEeH82RqgIo=/300x450/v2/https://resizing.flixster.com/DFn5JdxpXnxOwZoIV3Lnrb0Xf7Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA1YzI3OWU1LTgxNjAtNDY3YS04N2EzLTNhNTIzYjdlOGRkYy5qcGc=",
+      "plot": "As the Russian invasion begins, a team of Ukrainian journalists trapped in the besieged city of Mariupol struggle to continue their work documenting the war's atrocities.",
+      "directors": [
+        "Mstyslav Chernov"
       ]
     },
     {
@@ -1459,6 +1854,30 @@
       ]
     },
     {
+      "id": "the_eight_hundred",
+      "category": "war",
+      "type": "movie",
+      "title": "The Eight Hundred",
+      "original_title": "The Eight Hundred",
+      "year": 2021,
+      "genres": [
+        "War",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.7,
+      "votes": 143,
+      "tomatometer": 89,
+      "audience_score": 78,
+      "runtime_minutes": 147,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Qyz4maTQEpir2Zo8OvxCYSDT3HU=/300x450/v2/https://resizing.flixster.com/C9w_dJck7nCN8nJ4NPb8bDmQAoM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzNDI4NzEwLWVlMmYtNDY5ZC1iZTM5LTRjNzI3NWZlODRmOC5qcGc=",
+      "plot": "In 1937 a group of Chinese soldiers and draft dodgers puts up a four-day defense of a Shanghai warehouse complex just as Japanese forces are overwhelming China.",
+      "directors": [
+        "Hu Guan"
+      ]
+    },
+    {
       "id": "the_brink_of_war",
       "category": "war",
       "type": "movie",
@@ -1552,6 +1971,30 @@
       "plot": "Filmmaker Jake Rademacher embeds himself with four combat units, as he documents his brothers' experiences as soldiers in Iraq. Rademacher witnesses secret reconnaissance missions on the Syrian…",
       "directors": [
         "Jake Rademacher"
+      ]
+    },
+    {
+      "id": "sniper_the_white_raven",
+      "category": "war",
+      "type": "movie",
+      "title": "Sniper: The White Raven",
+      "original_title": "Sniper: The White Raven",
+      "year": 2022,
+      "genres": [
+        "War",
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.0,
+      "votes": 101,
+      "tomatometer": 72,
+      "audience_score": 73,
+      "runtime_minutes": 111,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/E6XUf-q3yCroPNygnY4qrylVkGk=/300x450/v2/https://resizing.flixster.com/sJJWzgSQTUsjmmepZlJEcwU-Lw0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE5Zjg0Nzk2LTE4MmYtNDQ4MC04ZWEzLWRjOTg3YzQ4MjRmYS5qcGc=",
+      "plot": "After suffering a senseless tragedy at the hand of invading soldiers in the Donbas region in 2014, a former Ukrainian physics teacher renounces his peaceful way of life and seeks revenge. Upon…",
+      "directors": [
+        "Marian Bushan"
       ]
     },
     {
@@ -1652,6 +2095,52 @@
       ]
     },
     {
+      "id": "10007714-situation",
+      "category": "war",
+      "type": "movie",
+      "title": "The Situation",
+      "original_title": "The Situation",
+      "year": 2006,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": 5.3,
+      "votes": 76,
+      "tomatometer": 35,
+      "audience_score": 58,
+      "runtime_minutes": 106,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/tKJ_UpyGbM5vYcMe2X_pwcc28TE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166988_p_v8_aa.jpg",
+      "plot": "Anna (Connie Nielsen) is an American journalist who's falling in love with Iraqi photographer Zaid (Mido Hamada) against the backdrop of the war in Iraq. She's also ending a secret affair with Dan…",
+      "directors": [
+        "Philip Haas"
+      ]
+    },
+    {
+      "id": "2000_meters_to_andriivka",
+      "category": "war",
+      "type": "movie",
+      "title": "2000 Meters to Andriivka",
+      "original_title": "2000 Meters to Andriivka",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "War"
+      ],
+      "rating": 8.5,
+      "votes": 68,
+      "tomatometer": 94,
+      "audience_score": 87,
+      "runtime_minutes": 106,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/hKTADPeWLsK74zYaWWvfnhfLBEY=/300x450/v2/https://resizing.flixster.com/9ECfuzUg7qRDjFgHrzbCswOBHuY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q0ZjgxYTVmLTk5ZjMtNGEwMC1hZGM3LTkwY2YyYTM1MDA2Zi5qcGc=",
+      "plot": "A Ukrainian platoon's mission: traverse a heavily fortified mile of forest to liberate a strategic village from Russian forces. A journalist accompanies them, witnessing the ravages of war and the…",
+      "directors": [
+        "Mstyslav Chernov"
+      ]
+    },
+    {
       "id": "blitz",
       "category": "war",
       "type": "movie",
@@ -1699,6 +2188,29 @@
       ]
     },
     {
+      "id": "behind_the_lines",
+      "category": "war",
+      "type": "movie",
+      "title": "Regeneration",
+      "original_title": "Regeneration",
+      "year": 1997,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "rating": 6.6,
+      "votes": 50,
+      "tomatometer": 60,
+      "audience_score": 76,
+      "runtime_minutes": 96,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ED-ADls1sK1FOhh2VZFHkH34bps=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19847_p_v10_aa.jpg",
+      "plot": "Lt. Siegfried Sassoon (James Wilby), a poet and war veteran, is facing court-martial for publicly decrying British conduct in World War I. His poet friend Robert Graves (Dougray Scott) pulls strings…",
+      "directors": [
+        "Gillies MacKinnon"
+      ]
+    },
+    {
       "id": "tantura",
       "category": "war",
       "type": "movie",
@@ -1719,6 +2231,56 @@
       "plot": "The tape-recorded words \"erase it\" take on new weight in the context of history and war. When the State of Israel was established in 1948, war broke out and hundreds of Palestinian villages were…",
       "directors": [
         "Alon Schwarz"
+      ]
+    },
+    {
+      "id": "legionnaires_trail",
+      "category": "war",
+      "type": "movie",
+      "title": "The Legion",
+      "original_title": "The Legion",
+      "year": 2020,
+      "genres": [
+        "Adventure",
+        "Action",
+        "War",
+        "History",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 2.0,
+      "votes": 29,
+      "tomatometer": 0,
+      "audience_score": 17,
+      "runtime_minutes": 96,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Q_8UkS4KhbJxC3045YMi3I74fJY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18073701_p_v11_aa.jpg",
+      "plot": "During the invasion of Parthia, two Roman legions have been brought to a standstill in the snowy mountains of Armenia, leaving them slowly dying in the freezing cold. The rest of the Roman army is…",
+      "directors": [
+        "Jose Magan"
+      ]
+    },
+    {
+      "id": "midnight_traveler",
+      "category": "war",
+      "type": "movie",
+      "title": "Midnight Traveler",
+      "original_title": "Midnight Traveler",
+      "year": 2019,
+      "genres": [
+        "Documentary",
+        "War"
+      ],
+      "rating": 8.1,
+      "votes": 28,
+      "tomatometer": 98,
+      "audience_score": 82,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/QD0UoLLhGfRzTva9bpanizPzUp8=/300x450/v2/https://resizing.flixster.com/HPhHwKDcfS2aHuIkTqO7xjaHeuw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3ZDJkZjk3LTE2MDYtNDE2My04MjNhLTNhODM1YTU4ODI3YS53ZWJw",
+      "plot": "Afghan director Hassan Fazili is forced to flee the country when the Taliban puts a bounty on his head.",
+      "directors": [
+        "Hassan Fazili"
       ]
     },
     {
@@ -1794,6 +2356,102 @@
       ]
     },
     {
+      "id": "transition_2023",
+      "category": "war",
+      "type": "movie",
+      "title": "Transition",
+      "original_title": "Transition",
+      "year": 2023,
+      "genres": [
+        "Documentary",
+        "LGBTQ+",
+        "War"
+      ],
+      "rating": 8.0,
+      "votes": 10,
+      "tomatometer": 100,
+      "audience_score": 60,
+      "runtime_minutes": 89,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Pvcj7ouanCFd88Ms4oSSlwOUm6Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26856475_p_v8_aa.jpg",
+      "plot": "An Australian war reporter and trans man gains unprecedented access to the Taliban, while keeping his identity secret.",
+      "directors": [
+        "Jordan Bryon",
+        "Monica Villamizar"
+      ]
+    },
+    {
+      "id": "triple_echo",
+      "category": "war",
+      "type": "movie",
+      "title": "The Triple Echo",
+      "original_title": "The Triple Echo",
+      "year": 1973,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "rating": null,
+      "votes": 9,
+      "tomatometer": null,
+      "audience_score": 78,
+      "runtime_minutes": 90,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/nErcdpKFNv-qS1FjPTMZgTiMpb0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39822_p_v7_ac.jpg",
+      "plot": "An Englishwoman (Glenda Jackson) becomes a World War II deserter's (Brian Deacon) lover and passes him off as her sister.",
+      "directors": [
+        "Michael Apted"
+      ]
+    },
+    {
+      "id": "atomic_people",
+      "category": "war",
+      "type": "movie",
+      "title": "Atomic People",
+      "original_title": "Atomic People",
+      "year": 2024,
+      "genres": [
+        "Documentary",
+        "History",
+        "War"
+      ],
+      "rating": 9.2,
+      "votes": 6,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 89,
+      "certificate": null,
+      "poster": null,
+      "plot": "The decision by the United States to drop atomic bombs on two Japanese cities -- Hiroshima on 6 August 1945 and Nagasaki three days later -- was one of the most momentous and destructive in world…",
+      "directors": [
+        "Benedict Sanderson",
+        "Megumi Inman"
+      ]
+    },
+    {
+      "id": "rule_of_two_walls",
+      "category": "war",
+      "type": "movie",
+      "title": "Rule of Two Walls",
+      "original_title": "Rule of Two Walls",
+      "year": 2024,
+      "genres": [
+        "Documentary",
+        "War"
+      ],
+      "rating": 8.2,
+      "votes": 4,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 77,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/xT5cncj5GQ9EwU8pPyBJK4uCS3I=/300x450/v2/https://resizing.flixster.com/_S8jANvM50eWrXNXyn1wlLYhuH8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y2YTIyMTk5LWIyNjAtNDU3YS05MTcxLWU2MjNiNDA1NDdlNC5qcGc=",
+      "plot": "RULE OF TWO WALLS is an intimate look at the war in Ukraine, as seen through the eyes of Ukrainian artists who remained in their country to make art as a defiant act in the face of aggression. The…",
+      "directors": [
+        "David Gutnik"
+      ]
+    },
+    {
       "id": "bardejov",
       "category": "war",
       "type": "movie",
@@ -1815,6 +2473,30 @@
       "plot": "Young Hilnka Guards disrupt a peaceful morning in Bardejov, plastering posters demanding that every Jew in town registers for work. Rafuel Lowy, a rabbi and wine maker meets with the Jewish council…",
       "directors": [
         "Danny A. Abeckaser"
+      ]
+    },
+    {
+      "id": "men_of_war_2024",
+      "category": "war",
+      "type": "movie",
+      "title": "Men of War",
+      "original_title": "Men of War",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "War"
+      ],
+      "rating": 7.0,
+      "votes": 4,
+      "tomatometer": 82,
+      "audience_score": null,
+      "runtime_minutes": 103,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/aT75ftjqYiznLDpp-dXNUah4MM0=/300x450/v2/https://resizing.flixster.com/7d6Xu1P0Z3hquthY7NvxHlAOC8Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E0ZDRlYTIxLTI4MDMtNGMwMS1hZTBiLTI5ODE4NjQ3YTEwOS5qcGc=",
+      "plot": "In May 2020, just weeks after the Trump administration placed a $15 million bounty on Venezuelan President Nicolás Maduro, approximately 60 Venezuelan dissidents, including two former U.S. Green…",
+      "directors": [
+        "Billy Corben",
+        "Jen Gatien"
       ]
     }
   ]

@@ -1,13 +1,34 @@
 {
   "letter": "t",
-  "count": 895,
+  "count": 1654,
   "titles": [
+    [
+      "the_dark_knight",
+      "fantasy",
+      "The Dark Knight",
+      2008,
+      8.9
+    ],
+    [
+      "transformers_the_movie",
+      "sci-fi",
+      "Transformers",
+      2007,
+      6.1
+    ],
     [
       "taken",
       "mystery-thriller",
       "Taken",
       2009,
       5.9
+    ],
+    [
+      "the_dark_knight_rises",
+      "fantasy",
+      "The Dark Knight Rises",
+      2012,
+      8.0
     ],
     [
       "bourne_ultimatum",
@@ -38,11 +59,32 @@
       6.0
     ],
     [
+      "shrek_3",
+      "animation",
+      "Shrek the Third",
+      2007,
+      5.7
+    ],
+    [
+      "oceans_thirteen",
+      "crime",
+      "Ocean's Thirteen",
+      2007,
+      6.6
+    ],
+    [
       "the_lord_of_the_rings_the_fellowship_of_the_ring",
       "fantasy",
       "The Lord of the Rings: The Fellowship of the Ring",
       2001,
       8.8
+    ],
+    [
+      "departed",
+      "crime",
+      "The Departed",
+      2006,
+      8.4
     ],
     [
       "the_hobbit_an_unexpected_journey",
@@ -122,6 +164,34 @@
       7.5
     ],
     [
+      "ted_2012",
+      "fantasy",
+      "Ted",
+      2012,
+      6.4
+    ],
+    [
+      "national_treasure_book_of_secrets",
+      "action",
+      "National Treasure: Book of Secrets",
+      2007,
+      5.0
+    ],
+    [
+      "day_after_tomorrow",
+      "sci-fi",
+      "The Day After Tomorrow",
+      2004,
+      5.5
+    ],
+    [
+      "school_of_rock",
+      "musical",
+      "The School of Rock",
+      2003,
+      7.9
+    ],
+    [
       "transformers_dark_of_the_moon",
       "sci-fi",
       "Transformers: Dark of the Moon",
@@ -157,11 +227,39 @@
       6.8
     ],
     [
+      "longest_yard",
+      "comedy",
+      "The Longest Yard",
+      2005,
+      5.0
+    ],
+    [
+      "green_mile",
+      "fantasy",
+      "The Green Mile",
+      1999,
+      7.4
+    ],
+    [
+      "troy",
+      "war",
+      "Troy",
+      2004,
+      6.3
+    ],
+    [
       "silence_of_the_lambs",
       "horror",
       "The Silence of the Lambs",
       1991,
       8.9
+    ],
+    [
+      "the_big_lebowski",
+      "comedy",
+      "The Big Lebowski",
+      1998,
+      7.6
     ],
     [
       "how_to_train_your_dragon",
@@ -199,6 +297,20 @@
       7.5
     ],
     [
+      "ring",
+      "horror",
+      "The Ring",
+      2002,
+      6.8
+    ],
+    [
+      "1220551-bounty_hunter",
+      "mystery-thriller",
+      "The Bounty Hunter",
+      2010,
+      3.6
+    ],
+    [
       "the_incredible_hulk",
       "sci-fi",
       "The Incredible Hulk",
@@ -213,11 +325,32 @@
       6.4
     ],
     [
+      "sixth_sense",
+      "horror",
+      "The Sixth Sense",
+      1999,
+      8.0
+    ],
+    [
+      "gran_torino",
+      "drama",
+      "Gran Torino",
+      2009,
+      7.4
+    ],
+    [
       "the_expendables_2",
       "mystery-thriller",
       "The Expendables 2",
       2012,
       5.9
+    ],
+    [
+      "this_is_the_end",
+      "fantasy",
+      "This Is the End",
+      2013,
+      7.1
     ],
     [
       "the_martian",
@@ -255,11 +388,25 @@
       6.0
     ],
     [
+      "tropic_thunder",
+      "war",
+      "Tropic Thunder",
+      2008,
+      7.4
+    ],
+    [
       "terminator_2_judgment_day",
       "sci-fi",
       "Terminator 2: Judgment Day",
       null,
       8.3
+    ],
+    [
+      "john_tucker_must_die",
+      "romance",
+      "John Tucker Must Die",
+      2006,
+      4.5
     ],
     [
       "matrix_reloaded",
@@ -274,6 +421,13 @@
       "Pirates of the Caribbean: On Stranger Tides",
       2011,
       5.0
+    ],
+    [
+      "the_kings_speech",
+      "history",
+      "The King's Speech",
+      2011,
+      8.6
     ],
     [
       "transformers_age_of_extinction",
@@ -311,6 +465,20 @@
       7.5
     ],
     [
+      "national_treasure",
+      "action",
+      "National Treasure",
+      2004,
+      5.6
+    ],
+    [
+      "oceans_twelve",
+      "crime",
+      "Ocean's Twelve",
+      2004,
+      6.1
+    ],
+    [
       "matrix_revolutions",
       "sci-fi",
       "The Matrix Revolutions",
@@ -323,6 +491,13 @@
       "The Bourne Legacy",
       2012,
       5.9
+    ],
+    [
+      "italian_job",
+      "crime",
+      "The Italian Job",
+      2003,
+      6.5
     ],
     [
       "terminator",
@@ -339,6 +514,13 @@
       7.8
     ],
     [
+      "the_revenant_2015",
+      "western",
+      "The Revenant",
+      2016,
+      7.9
+    ],
+    [
       "taken_2_2012",
       "mystery-thriller",
       "Taken 2",
@@ -349,7 +531,21 @@
       "1108372-fast_and_the_furious",
       "action",
       "The Fast and the Furious",
-      null,
+      2001,
+      5.4
+    ],
+    [
+      "the_heat",
+      "comedy",
+      "The Heat",
+      2013,
+      6.2
+    ],
+    [
+      "bucket_list",
+      "comedy",
+      "The Bucket List",
+      2008,
       5.4
     ],
     [
@@ -360,11 +556,25 @@
       4.6
     ],
     [
+      "the_grand_budapest_hotel",
+      "comedy",
+      "The Grand Budapest Hotel",
+      2014,
+      8.5
+    ],
+    [
       "clash_of_the_titans_2010",
       "fantasy",
       "Clash of the Titans",
       2010,
       4.5
+    ],
+    [
+      "the_mummy",
+      "fantasy",
+      "The Mummy",
+      1999,
+      6.5
     ],
     [
       "the_imitation_game",
@@ -379,6 +589,13 @@
       "The Pianist",
       2002,
       8.5
+    ],
+    [
+      "identity_thief",
+      "comedy",
+      "Identity Thief",
+      2013,
+      4.3
     ],
     [
       "the_book_of_eli",
@@ -416,6 +633,20 @@
       7.8
     ],
     [
+      "hotel_transylvania",
+      "fantasy",
+      "Hotel Transylvania",
+      2012,
+      5.4
+    ],
+    [
+      "other_guys",
+      "comedy",
+      "The Other Guys",
+      2010,
+      6.7
+    ],
+    [
       "the_hunger_games_mockingjay_part_2",
       "sci-fi",
       "The Hunger Games: Mockingjay, Part 2",
@@ -430,11 +661,25 @@
       7.6
     ],
     [
+      "darjeeling_limited",
+      "comedy",
+      "The Darjeeling Limited",
+      2007,
+      6.9
+    ],
+    [
       "the_fountain",
       "sci-fi",
       "The Fountain",
       2006,
       6.4
+    ],
+    [
+      "teenage_mutant_ninja_turtles_2013",
+      "comedy",
+      "Teenage Mutant Ninja Turtles",
+      2014,
+      4.2
     ],
     [
       "mist",
@@ -451,6 +696,13 @@
       5.1
     ],
     [
+      "a_team",
+      "action",
+      "The A-Team",
+      2010,
+      5.5
+    ],
+    [
       "the_worlds_end",
       "sci-fi",
       "The World's End",
@@ -463,6 +715,20 @@
       "The Lone Ranger",
       2013,
       4.9
+    ],
+    [
+      "waterboy",
+      "comedy",
+      "The Waterboy",
+      1998,
+      4.5
+    ],
+    [
+      "break_up",
+      "romance",
+      "The Break-Up",
+      2006,
+      5.4
     ],
     [
       "the_fault_in_our_stars",
@@ -479,11 +745,32 @@
       4.5
     ],
     [
+      "the_campaign",
+      "comedy",
+      "The Campaign",
+      2012,
+      6.0
+    ],
+    [
       "fantastic_beasts_and_where_to_find_them",
       "fantasy",
       "Fantastic Beasts and Where to Find Them",
       2016,
       6.8
+    ],
+    [
+      "the_hateful_eight",
+      "western",
+      "The Hateful Eight",
+      2015,
+      7.4
+    ],
+    [
+      "the_dictator_2012",
+      "comedy",
+      "The Dictator",
+      2012,
+      5.9
     ],
     [
       "the_purge",
@@ -521,6 +808,13 @@
       5.0
     ],
     [
+      "the_last_king_of_scotland",
+      "biography",
+      "The Last King of Scotland",
+      2007,
+      7.6
+    ],
+    [
       "in_time",
       "sci-fi",
       "In Time",
@@ -533,6 +827,20 @@
       "The Lovely Bones",
       2010,
       5.1
+    ],
+    [
+      "hot_tub_time_machine",
+      "fantasy",
+      "Hot Tub Time Machine",
+      2010,
+      6.3
+    ],
+    [
+      "lost_boys",
+      "horror",
+      "The Lost Boys",
+      1987,
+      6.3
     ],
     [
       "the_interview_2014",
@@ -554,6 +862,27 @@
       "The Heartbreak Kid",
       2007,
       4.9
+    ],
+    [
+      "planet_terror",
+      "horror",
+      "Planet Terror",
+      2007,
+      6.6
+    ],
+    [
+      "trainwreck",
+      "romance",
+      "Trainwreck",
+      2015,
+      7.3
+    ],
+    [
+      "mummy_tomb_of_the_dragon_emperor",
+      "fantasy",
+      "The Mummy: Tomb of the Dragon Emperor",
+      2008,
+      3.9
     ],
     [
       "terminator_genisys",
@@ -605,6 +934,20 @@
       6.2
     ],
     [
+      "tommy_boy",
+      "comedy",
+      "Tommy Boy",
+      1995,
+      5.5
+    ],
+    [
+      "1189844-the_bank_job",
+      "crime",
+      "The Bank Job",
+      2008,
+      7.0
+    ],
+    [
       "1071167-twister",
       "action",
       "Twister",
@@ -633,11 +976,25 @@
       6.7
     ],
     [
+      "jackass_number_2",
+      "comedy",
+      "Jackass: Number Two",
+      2006,
+      6.0
+    ],
+    [
       "the_orphanage",
       "horror",
       "The Orphanage",
       2008,
       7.5
+    ],
+    [
+      "lincoln_lawyer",
+      "crime",
+      "The Lincoln Lawyer",
+      2011,
+      6.7
     ],
     [
       "insurgent",
@@ -652,6 +1009,20 @@
       "The Aviator",
       2004,
       8.1
+    ],
+    [
+      "tomorrowland_2015",
+      "sci-fi",
+      "Tomorrowland",
+      2015,
+      6.0
+    ],
+    [
+      "the_road_2009",
+      "sci-fi",
+      "The Road",
+      2009,
+      7.4
     ],
     [
       "the_watch_2012",
@@ -675,11 +1046,25 @@
       7.9
     ],
     [
+      "descent",
+      "horror",
+      "The Descent",
+      2006,
+      7.6
+    ],
+    [
       "the_nice_guys",
       "mystery-thriller",
       "The Nice Guys",
       2016,
       7.7
+    ],
+    [
+      "1205380-crazies",
+      "horror",
+      "The Crazies",
+      2010,
+      6.3
     ],
     [
       "the_strangers",
@@ -689,11 +1074,25 @@
       5.1
     ],
     [
+      "reader",
+      "romance",
+      "The Reader",
+      2009,
+      6.7
+    ],
+    [
       "turbo_2013",
       "animation",
       "Turbo",
       2013,
       6.1
+    ],
+    [
+      "hills_have_eyes",
+      "horror",
+      "The Hills Have Eyes",
+      2006,
+      5.6
     ],
     [
       "from_dusk_till_dawn",
@@ -708,6 +1107,20 @@
       "The Fantastic Four: First Steps",
       2025,
       7.2
+    ],
+    [
+      "about_time",
+      "sci-fi",
+      "About Time",
+      2013,
+      6.4
+    ],
+    [
+      "the_grudge",
+      "horror",
+      "The Grudge",
+      2004,
+      5.3
     ],
     [
       "graduate",
@@ -759,11 +1172,25 @@
       6.2
     ],
     [
+      "virgin_suicides",
+      "drama",
+      "The Virgin Suicides",
+      1999,
+      7.4
+    ],
+    [
       "killing_them_softly",
       "crime",
       "Killing Them Softly",
       2012,
       6.9
+    ],
+    [
+      "the_lucky_one_2012",
+      "romance",
+      "The Lucky One",
+      2012,
+      4.2
     ],
     [
       "total_recall",
@@ -778,6 +1205,13 @@
       "The Other Woman",
       2014,
       4.3
+    ],
+    [
+      "1046129-fugitive",
+      "mystery-thriller",
+      "The Fugitive",
+      1993,
+      8.2
     ],
     [
       "the_tree_of_life",
@@ -808,6 +1242,20 @@
       7.5
     ],
     [
+      "madeas_witness_protection",
+      "crime",
+      "Tyler Perry's Madea's Witness Protection",
+      2012,
+      4.2
+    ],
+    [
+      "ted_2",
+      "fantasy",
+      "Ted 2",
+      2015,
+      5.3
+    ],
+    [
       "pirates_of_the_caribbean_dead_men_tell_no_tales",
       "fantasy",
       "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -829,11 +1277,46 @@
       5.8
     ],
     [
+      "chronicles_of_riddick",
+      "sci-fi",
+      "The Chronicles of Riddick",
+      2004,
+      4.8
+    ],
+    [
+      "think_like_a_man",
+      "romance",
+      "Think Like a Man",
+      2012,
+      5.5
+    ],
+    [
+      "the_expendables_3",
+      "mystery-thriller",
+      "The Expendables 3",
+      2014,
+      4.9
+    ],
+    [
       "the_good_dinosaur",
       "animation",
       "The Good Dinosaur",
       2015,
       6.6
+    ],
+    [
+      "shes_all_that",
+      "romance",
+      "She's All That",
+      1999,
+      5.3
+    ],
+    [
+      "brothers_grimm",
+      "fantasy",
+      "The Brothers Grimm",
+      2005,
+      5.4
     ],
     [
       "the_conjuring_2",
@@ -848,6 +1331,13 @@
       "The Messengers",
       2007,
       4.1
+    ],
+    [
+      "the_guardian_2006",
+      "action",
+      "The Guardian",
+      2006,
+      5.4
     ],
     [
       "the_queen",
@@ -892,6 +1382,20 @@
       5.7
     ],
     [
+      "the_fate_of_the_furious",
+      "mystery-thriller",
+      "The Fate of the Furious",
+      2017,
+      6.1
+    ],
+    [
+      "invasion",
+      "sci-fi",
+      "The Invasion",
+      2007,
+      4.7
+    ],
+    [
       "the_magnificent_seven_2016",
       "western",
       "The Magnificent Seven",
@@ -899,11 +1403,32 @@
       6.0
     ],
     [
+      "covenant",
+      "horror",
+      "The Covenant",
+      2006,
+      2.9
+    ],
+    [
       "dont_breathe_2016",
       "horror",
       "Don't Breathe",
       2016,
       7.3
+    ],
+    [
+      "texas_chainsaw_massacre",
+      "horror",
+      "The Texas Chainsaw Massacre",
+      2003,
+      4.9
+    ],
+    [
+      "night_at_the_museum_secret_of_the_tomb",
+      "fantasy",
+      "Night at the Museum: Secret of the Tomb",
+      2014,
+      5.0
     ],
     [
       "take_the_lead",
@@ -927,6 +1452,13 @@
       5.1
     ],
     [
+      "10008606-eye",
+      "horror",
+      "The Eye",
+      2008,
+      4.3
+    ],
+    [
       "1084146-thin_red_line",
       "war",
       "The Thin Red Line",
@@ -941,11 +1473,39 @@
       4.7
     ],
     [
+      "the_family_2013",
+      "comedy",
+      "The Family",
+      2013,
+      4.6
+    ],
+    [
       "thor_love_and_thunder",
       "fantasy",
       "Thor: Love and Thunder",
       2022,
       6.4
+    ],
+    [
+      "tammy_2014",
+      "comedy",
+      "Tammy",
+      2014,
+      4.5
+    ],
+    [
+      "the_judge_2014",
+      "drama",
+      "The Judge",
+      2014,
+      5.7
+    ],
+    [
+      "1226860-losers",
+      "action",
+      "The Losers",
+      2010,
+      5.3
     ],
     [
       "beach",
@@ -962,11 +1522,60 @@
       5.3
     ],
     [
+      "1205377-last_house_on_the_left",
+      "horror",
+      "The Last House on the Left",
+      2009,
+      5.2
+    ],
+    [
+      "trouble_with_the_curve",
+      "drama",
+      "Trouble With the Curve",
+      2012,
+      5.6
+    ],
+    [
+      "hotel_transylvania_2",
+      "fantasy",
+      "Hotel Transylvania 2",
+      2015,
+      5.3
+    ],
+    [
+      "devils_rejects",
+      "horror",
+      "The Devil's Rejects",
+      2005,
+      5.9
+    ],
+    [
       "shang_chi_and_the_legend_of_the_ten_rings",
       "fantasy",
       "Shang-Chi and the Legend of the Ten Rings",
       2021,
       7.5
+    ],
+    [
+      "fast_times_at_ridgemont_high",
+      "comedy",
+      "Fast Times at Ridgemont High",
+      1982,
+      7.0
+    ],
+    [
+      "next_three_days",
+      "crime",
+      "The Next Three Days",
+      2010,
+      5.9
+    ],
+    [
+      "the_switch_2010",
+      "romance",
+      "The Switch",
+      2010,
+      5.6
     ],
     [
       "1200661-informant",
@@ -981,6 +1590,34 @@
       "The Boy in the Striped Pajamas",
       2008,
       6.5
+    ],
+    [
+      "robin_hood_prince_of_thieves",
+      "fantasy",
+      "Robin Hood: Prince of Thieves",
+      1991,
+      5.7
+    ],
+    [
+      "the_texas_chainsaw_massacre_the_beginning",
+      "horror",
+      "The Texas Chainsaw Massacre: The Beginning",
+      2006,
+      3.8
+    ],
+    [
+      "mechanic",
+      "mystery-thriller",
+      "The Mechanic",
+      2011,
+      5.5
+    ],
+    [
+      "the_sitter_2011",
+      "comedy",
+      "The Sitter",
+      2011,
+      4.3
     ],
     [
       "the_thing_2011",
@@ -1004,6 +1641,27 @@
       3.5
     ],
     [
+      "painted_veil",
+      "romance",
+      "The Painted Veil",
+      2006,
+      7.3
+    ],
+    [
+      "last_kiss",
+      "romance",
+      "The Last Kiss",
+      2006,
+      5.8
+    ],
+    [
+      "scorpion_king",
+      "fantasy",
+      "The Scorpion King",
+      2002,
+      5.0
+    ],
+    [
       "the_possession",
       "horror",
       "The Possession",
@@ -1018,6 +1676,20 @@
       5.1
     ],
     [
+      "amityville_horror",
+      "horror",
+      "The Amityville Horror",
+      2005,
+      4.3
+    ],
+    [
+      "talented_mr_ripley",
+      "crime",
+      "The Talented Mr. Ripley",
+      1999,
+      7.8
+    ],
+    [
       "the_iron_lady",
       "history",
       "The Iron Lady",
@@ -1025,11 +1697,46 @@
       5.7
     ],
     [
+      "the_best_exotic_marigold_hotel",
+      "comedy",
+      "The Best Exotic Marigold Hotel",
+      2012,
+      6.6
+    ],
+    [
+      "texas_chainsaw",
+      "horror",
+      "Texas Chainsaw",
+      2013,
+      3.6
+    ],
+    [
+      "im_not_there_suppositions_on_a_film_concerning_dylan",
+      "biography",
+      "I'm Not There",
+      2007,
+      7.3
+    ],
+    [
       "the_guilt_trip",
       "comedy",
       "The Guilt Trip",
       2012,
       5.1
+    ],
+    [
+      "fourth_kind",
+      "mystery-thriller",
+      "The Fourth Kind",
+      2009,
+      4.2
+    ],
+    [
+      "drillbit_taylor",
+      "crime",
+      "Drillbit Taylor",
+      2008,
+      4.8
     ],
     [
       "reaping",
@@ -1051,6 +1758,20 @@
       "The SpongeBob Movie: Sponge Out of Water",
       2015,
       6.5
+    ],
+    [
+      "back_up_plan",
+      "romance",
+      "The Back-up Plan",
+      2010,
+      3.7
+    ],
+    [
+      "the_age_of_adaline",
+      "fantasy",
+      "The Age of Adaline",
+      2015,
+      5.5
     ],
     [
       "we_need_to_talk_about_kevin",
@@ -1088,11 +1809,32 @@
       3.1
     ],
     [
+      "black_dahlia",
+      "crime",
+      "The Black Dahlia",
+      2006,
+      5.2
+    ],
+    [
+      "that_awkward_moment",
+      "romance",
+      "That Awkward Moment",
+      2014,
+      4.2
+    ],
+    [
       "the_drop",
       "crime",
       "The Drop",
       2014,
       7.1
+    ],
+    [
+      "bone_collector",
+      "crime",
+      "The Bone Collector",
+      1999,
+      5.4
     ],
     [
       "how_to_train_your_dragon_2025",
@@ -1130,6 +1872,34 @@
       5.3
     ],
     [
+      "the_wedding_ringer",
+      "comedy",
+      "The Wedding Ringer",
+      2015,
+      4.6
+    ],
+    [
+      "1188732-haunting_in_connecticut",
+      "horror",
+      "The Haunting in Connecticut",
+      2009,
+      4.4
+    ],
+    [
+      "1149472-skeleton_key",
+      "horror",
+      "The Skeleton Key",
+      2005,
+      5.4
+    ],
+    [
+      "the_naked_gun_from_the_files_of_police_squad",
+      "comedy",
+      "The Naked Gun: From the Files of Police Squad!",
+      1988,
+      7.5
+    ],
+    [
       "twisters",
       "mystery-thriller",
       "Twisters",
@@ -1144,6 +1914,34 @@
       7.3
     ],
     [
+      "1020130-sting",
+      "comedy",
+      "The Sting",
+      1973,
+      8.5
+    ],
+    [
+      "tomorrow_never_dies",
+      "mystery-thriller",
+      "Tomorrow Never Dies",
+      1997,
+      6.3
+    ],
+    [
+      "teenage_mutant_ninja_turtles_out_of_the_shadows",
+      "comedy",
+      "Teenage Mutant Ninja Turtles: Out of the Shadows",
+      2016,
+      4.7
+    ],
+    [
+      "the_ruins",
+      "horror",
+      "The Ruins",
+      2008,
+      5.6
+    ],
+    [
       "terminator_dark_fate",
       "sci-fi",
       "Terminator: Dark Fate",
@@ -1156,6 +1954,13 @@
       "S.W.A.T.",
       2003,
       5.6
+    ],
+    [
+      "the_shape_of_water_2017",
+      "sci-fi",
+      "The Shape of Water",
+      2017,
+      8.4
     ],
     [
       "1007602-fly",
@@ -1186,6 +1991,13 @@
       3.4
     ],
     [
+      "the_rundown",
+      "comedy",
+      "The Rundown",
+      2003,
+      6.4
+    ],
+    [
       "the_counselor_2013",
       "crime",
       "The Counselor",
@@ -1200,11 +2012,25 @@
       8.3
     ],
     [
+      "the_bling_ring_2013",
+      "crime",
+      "The Bling Ring",
+      2013,
+      6.3
+    ],
+    [
       "demon_slayer_kimetsu_no_yaiba_the_movie_mugen_train",
       "fantasy",
       "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
       2021,
       7.8
+    ],
+    [
+      "the_night_before_2015",
+      "comedy",
+      "The Night Before",
+      2015,
+      6.0
     ],
     [
       "trolls",
@@ -1219,6 +2045,13 @@
       "Three Billboards Outside Ebbing, Missouri",
       2017,
       8.4
+    ],
+    [
+      "charlies_angels_full_throttle",
+      "mystery-thriller",
+      "Charlie's Angels: Full Throttle",
+      2003,
+      5.3
     ],
     [
       "trance_2013",
@@ -1256,6 +2089,13 @@
       5.0
     ],
     [
+      "wrong_turn",
+      "horror",
+      "Wrong Turn",
+      2003,
+      4.6
+    ],
+    [
       "the_founder",
       "history",
       "The Founder",
@@ -1263,11 +2103,25 @@
       7.0
     ],
     [
+      "the_hitmans_bodyguard",
+      "comedy",
+      "The Hitman's Bodyguard",
+      2017,
+      5.2
+    ],
+    [
       "valerian_and_the_city_of_a_thousand_planets",
       "sci-fi",
       "Valerian and the City of a Thousand Planets",
       2017,
       5.4
+    ],
+    [
+      "10009493-duchess",
+      "mystery-thriller",
+      "The Duchess",
+      2008,
+      6.4
     ],
     [
       "zombieland_double_tap",
@@ -1284,6 +2138,20 @@
       5.5
     ],
     [
+      "the_fifth_wave",
+      "sci-fi",
+      "The 5th Wave",
+      2016,
+      4.3
+    ],
+    [
+      "the_huntsman_winters_war",
+      "fantasy",
+      "The Huntsman: Winter's War",
+      2016,
+      4.3
+    ],
+    [
       "the_purge_election_year",
       "horror",
       "The Purge: Election Year",
@@ -1291,11 +2159,53 @@
       5.4
     ],
     [
+      "the_runaways",
+      "biography",
+      "The Runaways",
+      2010,
+      6.2
+    ],
+    [
+      "1196215-lakeview_terrace",
+      "mystery-thriller",
+      "Lakeview Terrace",
+      2008,
+      5.5
+    ],
+    [
+      "legend_of_zorro",
+      "action",
+      "The Legend of Zorro",
+      2005,
+      5.2
+    ],
+    [
       "no_time_to_die_2021",
       "mystery-thriller",
       "No Time to Die",
       2021,
       7.4
+    ],
+    [
+      "grudge_2",
+      "horror",
+      "The Grudge 2",
+      2006,
+      3.5
+    ],
+    [
+      "10010668-stepfather",
+      "horror",
+      "The Stepfather",
+      2009,
+      3.5
+    ],
+    [
+      "alexander_and_the_terrible_horrible_no_good_very_bad_day",
+      "comedy",
+      "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+      2014,
+      5.8
     ],
     [
       "venom_let_there_be_carnage",
@@ -1326,6 +2236,13 @@
       4.2
     ],
     [
+      "uninvited_2009",
+      "horror",
+      "The Uninvited",
+      2009,
+      4.6
+    ],
+    [
       "1083481-negotiator",
       "crime",
       "The Negotiator",
@@ -1347,11 +2264,25 @@
       2.6
     ],
     [
+      "the_skeleton_twins",
+      "comedy",
+      "The Skeleton Twins",
+      2014,
+      7.0
+    ],
+    [
       "the_guest_2014",
       "mystery-thriller",
       "The Guest",
       2014,
       7.6
+    ],
+    [
+      "the_edge_of_seventeen",
+      "comedy",
+      "The Edge of Seventeen",
+      2016,
+      8.0
     ],
     [
       "tyler_perrys_temptation_confessions_of_a_marriage_counselor",
@@ -1394,6 +2325,13 @@
       "The Nut Job",
       2014,
       4.0
+    ],
+    [
+      "sky_captain",
+      "sci-fi",
+      "Sky Captain and the World of Tomorrow",
+      2004,
+      7.0
     ],
     [
       "the_boss_2016",
@@ -1459,6 +2397,13 @@
       7.8
     ],
     [
+      "the_roommate",
+      "mystery-thriller",
+      "The Roommate",
+      2011,
+      2.9
+    ],
+    [
       "the_imposter_2012",
       "documentary",
       "The Imposter",
@@ -1466,11 +2411,32 @@
       8.0
     ],
     [
+      "manchurian_candidate",
+      "sci-fi",
+      "The Manchurian Candidate",
+      2004,
+      7.3
+    ],
+    [
+      "under_the_tuscan_sun",
+      "romance",
+      "Under the Tuscan Sun",
+      2003,
+      6.2
+    ],
+    [
       "whole_nine_yards",
       "comedy",
       "The Whole Nine Yards",
       2000,
       5.5
+    ],
+    [
+      "interpreter",
+      "mystery-thriller",
+      "The Interpreter",
+      2005,
+      6.5
     ],
     [
       "how_to_train_your_dragon_the_hidden_world",
@@ -1487,11 +2453,32 @@
       5.5
     ],
     [
+      "recruit",
+      "mystery-thriller",
+      "The Recruit",
+      2003,
+      5.9
+    ],
+    [
+      "top_five",
+      "comedy",
+      "Top Five",
+      2014,
+      7.2
+    ],
+    [
       "think_like_a_man_too",
       "romance",
       "Think Like a Man Too",
       2014,
       4.6
+    ],
+    [
+      "analyze_this",
+      "comedy",
+      "Analyze This",
+      1999,
+      7.0
     ],
     [
       "full_monty",
@@ -1508,11 +2495,25 @@
       6.4
     ],
     [
+      "river_runs_through_it",
+      "drama",
+      "A River Runs Through It",
+      1992,
+      7.0
+    ],
+    [
       "dune_part_two",
       "sci-fi",
       "Dune: Part Two",
       2024,
       8.4
+    ],
+    [
+      "hot_tub_time_machine_2",
+      "fantasy",
+      "Hot Tub Time Machine 2",
+      2015,
+      3.4
     ],
     [
       "transformers_rise_of_the_beasts",
@@ -1522,11 +2523,39 @@
       5.2
     ],
     [
+      "stepford_wives",
+      "horror",
+      "The Stepford Wives",
+      2004,
+      4.9
+    ],
+    [
       "the_longest_ride",
       "romance",
       "The Longest Ride",
       2015,
       4.4
+    ],
+    [
+      "devils_backbone",
+      "horror",
+      "The Devil's Backbone",
+      2001,
+      7.7
+    ],
+    [
+      "turning_red",
+      "fantasy",
+      "Turning Red",
+      2024,
+      8.1
+    ],
+    [
+      "goods_the_don_ready_story",
+      "comedy",
+      "The Goods: Live Hard. Sell Hard.",
+      2009,
+      4.3
     ],
     [
       "traitor",
@@ -1541,6 +2570,20 @@
       "The November Man",
       2014,
       4.7
+    ],
+    [
+      "conspiracy_theory",
+      "mystery-thriller",
+      "Conspiracy Theory",
+      1997,
+      6.3
+    ],
+    [
+      "the_thomas_crown_affair_1999",
+      "crime",
+      "The Thomas Crown Affair",
+      1999,
+      6.5
     ],
     [
       "tyler_perrys_good_deeds",
@@ -1564,6 +2607,27 @@
       6.3
     ],
     [
+      "forgotten",
+      "mystery-thriller",
+      "The Forgotten",
+      2004,
+      5.2
+    ],
+    [
+      "1044522-firm",
+      "mystery-thriller",
+      "The Firm",
+      1993,
+      6.4
+    ],
+    [
+      "naked_gun_2_12_the_the_smell_of_fear",
+      "comedy",
+      "The Naked Gun 2 1/2: The Smell of Fear",
+      1991,
+      6.5
+    ],
+    [
       "the_photograph_2020",
       "romance",
       "The Photograph",
@@ -1576,6 +2640,13 @@
       "Girls Trip",
       2017,
       6.9
+    ],
+    [
+      "the_housemaid_2025",
+      "mystery-thriller",
+      "The Housemaid",
+      2025,
+      6.3
     ],
     [
       "bullet_train_2022",
@@ -1592,11 +2663,39 @@
       2.6
     ],
     [
+      "the_best_of_me",
+      "romance",
+      "The Best of Me",
+      2014,
+      3.7
+    ],
+    [
+      "the_midnight_meat_train",
+      "horror",
+      "The Midnight Meat Train",
+      2008,
+      5.5
+    ],
+    [
+      "the_frighteners",
+      "fantasy",
+      "The Frighteners",
+      1996,
+      6.2
+    ],
+    [
       "sentinel",
       "mystery-thriller",
       "The Sentinel",
       2006,
       5.2
+    ],
+    [
+      "the_astronaut_farmer",
+      "drama",
+      "The Astronaut farmer",
+      2007,
+      6.2
     ],
     [
       "the_boy",
@@ -1613,6 +2712,20 @@
       6.2
     ],
     [
+      "1208882-cove",
+      "documentary",
+      "The Cove",
+      2009,
+      8.2
+    ],
+    [
+      "things_we_lost_in_the_fire",
+      "drama",
+      "Things We Lost in the Fire",
+      2007,
+      6.5
+    ],
+    [
       "1021015-ten_commandments",
       "history",
       "The Ten Commandments",
@@ -1620,11 +2733,25 @@
       7.8
     ],
     [
+      "paris_texas",
+      "drama",
+      "Paris, Texas",
+      1984,
+      8.5
+    ],
+    [
       "the_beaver_2010",
       "drama",
       "The Beaver",
       2011,
       6.1
+    ],
+    [
+      "1112951-time_machine",
+      "sci-fi",
+      "The Time Machine",
+      2002,
+      4.9
     ],
     [
       "10009516-women",
@@ -1676,11 +2803,32 @@
       6.3
     ],
     [
+      "clash_of_the_titans",
+      "fantasy",
+      "Clash of the Titans",
+      1981,
+      6.1
+    ],
+    [
       "the_nun_2018",
       "horror",
       "The Nun",
       2018,
       4.4
+    ],
+    [
+      "tusk_2014",
+      "horror",
+      "Tusk",
+      2014,
+      5.6
+    ],
+    [
+      "wrong_turn_2",
+      "horror",
+      "Wrong Turn 2",
+      2007,
+      6.4
     ],
     [
       "return_of_the_living_dead",
@@ -1697,11 +2845,39 @@
       4.4
     ],
     [
+      "the_last_exorcism_part_ii_2013",
+      "horror",
+      "The Last Exorcism Part II",
+      2013,
+      3.7
+    ],
+    [
+      "tideland",
+      "fantasy",
+      "Tideland",
+      2006,
+      4.7
+    ],
+    [
       "the_paperboy_2012",
       "crime",
       "The Paperboy",
       2012,
       5.3
+    ],
+    [
+      "mothman_prophecies",
+      "mystery-thriller",
+      "The Mothman Prophecies",
+      2002,
+      5.8
+    ],
+    [
+      "madeas_big_happy_family",
+      "comedy",
+      "Tyler Perry's Madea's Big Happy Family",
+      2011,
+      4.5
     ],
     [
       "the_post",
@@ -1718,11 +2894,46 @@
       4.2
     ],
     [
+      "the_shack",
+      "fantasy",
+      "The Shack",
+      2017,
+      3.9
+    ],
+    [
+      "take_this_waltz",
+      "drama",
+      "Take This Waltz",
+      2012,
+      7.0
+    ],
+    [
       "the_autopsy_of_jane_doe",
       "horror",
       "The Autopsy of Jane Doe",
       2016,
       7.0
+    ],
+    [
+      "the_brothers_grimsby",
+      "comedy",
+      "The Brothers Grimsby",
+      2016,
+      4.8
+    ],
+    [
+      "turistas",
+      "horror",
+      "Turistas",
+      2006,
+      4.2
+    ],
+    [
+      "258",
+      "horror",
+      "My Soul to Take",
+      2010,
+      3.4
     ],
     [
       "triple_9",
@@ -1739,6 +2950,13 @@
       3.6
     ],
     [
+      "timeline",
+      "sci-fi",
+      "Timeline",
+      2003,
+      4.0
+    ],
+    [
       "the_voices",
       "horror",
       "The Voices",
@@ -1751,6 +2969,20 @@
       "The LEGO Movie 2: The Second Part",
       2019,
       7.0
+    ],
+    [
+      "the_double_2013",
+      "sci-fi",
+      "The Double",
+      2014,
+      6.9
+    ],
+    [
+      "ice_storm",
+      "drama",
+      "The Ice Storm",
+      1997,
+      8.1
     ],
     [
       "human_traffic",
@@ -1774,11 +3006,81 @@
       7.0
     ],
     [
+      "the_conspirator",
+      "mystery-thriller",
+      "The Conspirator",
+      2011,
+      6.1
+    ],
+    [
+      "garfield_2",
+      "comedy",
+      "Garfield: A Tail of Two Kitties",
+      2006,
+      3.7
+    ],
+    [
+      "tuxedo",
+      "mystery-thriller",
+      "The Tuxedo",
+      2002,
+      4.6
+    ],
+    [
       "two_lovers",
       "romance",
       "Two Lovers",
       2009,
       6.8
+    ],
+    [
+      "i_dont_know_how_she_does_it",
+      "romance",
+      "I Don't Know How She Does It",
+      2011,
+      4.0
+    ],
+    [
+      "the_forest_2016",
+      "horror",
+      "The Forest",
+      2016,
+      4.0
+    ],
+    [
+      "tango_and_cash",
+      "crime",
+      "Tango & Cash",
+      1989,
+      4.5
+    ],
+    [
+      "net",
+      "mystery-thriller",
+      "The Net",
+      1995,
+      5.3
+    ],
+    [
+      "miss_americana",
+      "music",
+      "Taylor Swift: Miss Americana",
+      2020,
+      7.4
+    ],
+    [
+      "1112617-new_guy",
+      "comedy",
+      "The New Guy",
+      2002,
+      3.4
+    ],
+    [
+      "the_forge",
+      "drama",
+      "The Forge",
+      2024,
+      6.0
     ],
     [
       "the_naked_gun_2025",
@@ -1795,11 +3097,32 @@
       7.2
     ],
     [
+      "the_neon_demon",
+      "horror",
+      "The Neon Demon",
+      2016,
+      6.1
+    ],
+    [
       "dungeons_and_dragons_honor_among_thieves",
       "fantasy",
       "Dungeons & Dragons: Honor Among Thieves",
       2023,
       7.4
+    ],
+    [
+      "the_illusionist-2009",
+      "animation",
+      "The Illusionist",
+      2010,
+      8.0
+    ],
+    [
+      "remains_of_the_day",
+      "drama",
+      "The Remains of the Day",
+      1993,
+      8.9
     ],
     [
       "the_descent_2",
@@ -1809,11 +3132,32 @@
       5.1
     ],
     [
+      "three_colors_white",
+      "drama",
+      "Three Colors: White",
+      1994,
+      7.8
+    ],
+    [
       "one_of_them_days",
       "comedy",
       "One of Them Days",
       2025,
       7.0
+    ],
+    [
+      "the_good_lie_2013",
+      "drama",
+      "The Good Lie",
+      2014,
+      6.7
+    ],
+    [
+      "age_of_innocence",
+      "romance",
+      "The Age of Innocence",
+      1993,
+      7.6
     ],
     [
       "true_story_2014",
@@ -1830,11 +3174,32 @@
       6.8
     ],
     [
+      "the_signal_2014",
+      "sci-fi",
+      "The Signal",
+      2014,
+      5.8
+    ],
+    [
       "the_right_stuff",
       "history",
       "The Right Stuff",
       1983,
       8.8
+    ],
+    [
+      "the_cloverfield_paradox",
+      "sci-fi",
+      "The Cloverfield Paradox",
+      2018,
+      4.6
+    ],
+    [
+      "taylor_swift_the_eras_tour",
+      "music",
+      "TAYLOR SWIFT | THE ERAS TOUR",
+      2023,
+      8.3
     ],
     [
       "edge",
@@ -1863,6 +3228,34 @@
       "The Sapphires",
       2013,
       6.9
+    ],
+    [
+      "dont_think_twice",
+      "comedy",
+      "Don't Think Twice",
+      2016,
+      7.9
+    ],
+    [
+      "shaggy_dog",
+      "comedy",
+      "The Shaggy Dog",
+      2006,
+      4.5
+    ],
+    [
+      "the_hustle_2019",
+      "comedy",
+      "The Hustle",
+      2019,
+      3.9
+    ],
+    [
+      "angus_thongs_and_perfect_snogging",
+      "comedy",
+      "Angus, Thongs and Perfect Snogging",
+      2008,
+      5.6
     ],
     [
       "phantom_thread",
@@ -1928,6 +3321,13 @@
       5.0
     ],
     [
+      "the_queen_of_versailles",
+      "documentary",
+      "The Queen of Versailles",
+      2012,
+      8.0
+    ],
+    [
       "good_time",
       "crime",
       "Good Time",
@@ -1949,6 +3349,13 @@
       4.4
     ],
     [
+      "the_girl_with_all_the_gifts",
+      "horror",
+      "The Girl With All the Gifts",
+      2017,
+      7.1
+    ],
+    [
       "the_lady_in_the_van",
       "comedy",
       "The Lady in the Van",
@@ -1961,6 +3368,13 @@
       "Tyler Perry's The Single Moms Club",
       2014,
       4.5
+    ],
+    [
+      "tae_guk_gi_the_brotherhood_of_war",
+      "war",
+      "Tae Guk Gi: The Brotherhood of War",
+      2004,
+      6.8
     ],
     [
       "the_mule_2018",
@@ -1977,11 +3391,25 @@
       4.0
     ],
     [
+      "10012039-lottery_ticket",
+      "comedy",
+      "Lottery Ticket",
+      2010,
+      5.0
+    ],
+    [
       "secret_in_their_eyes_2015",
       "mystery-thriller",
       "Secret in Their Eyes",
       2015,
       5.3
+    ],
+    [
+      "perfect_score",
+      "comedy",
+      "The Perfect Score",
+      2004,
+      4.0
     ],
     [
       "the_belko_experiment",
@@ -2003,6 +3431,34 @@
       "Ticket to Paradise",
       2022,
       5.6
+    ],
+    [
+      "stranger_than_paradise",
+      "comedy",
+      "Stranger Than Paradise",
+      1984,
+      8.0
+    ],
+    [
+      "big_chill",
+      "comedy",
+      "The Big Chill",
+      1983,
+      6.7
+    ],
+    [
+      "glass_house",
+      "mystery-thriller",
+      "The Glass House",
+      2001,
+      4.6
+    ],
+    [
+      "1037024-commitments",
+      "comedy",
+      "The Commitments",
+      1991,
+      7.6
     ],
     [
       "kon_tiki_2012",
@@ -2061,11 +3517,25 @@
       6.9
     ],
     [
+      "tokyo_godfathers",
+      "anime",
+      "Tokyo Godfathers",
+      2003,
+      7.3
+    ],
+    [
       "the_machine_2013",
       "sci-fi",
       "The Machine",
       2014,
       6.3
+    ],
+    [
+      "war_of_the_roses",
+      "comedy",
+      "The War of the Roses",
+      1989,
+      7.4
     ],
     [
       "the_choice",
@@ -2096,6 +3566,13 @@
       7.6
     ],
     [
+      "salton_sea",
+      "crime",
+      "The Salton Sea",
+      2002,
+      6.0
+    ],
+    [
       "the_mitchells_vs_the_machines",
       "sci-fi",
       "The Mitchells vs. the Machines",
@@ -2110,6 +3587,13 @@
       5.8
     ],
     [
+      "the_light_between_oceans",
+      "romance",
+      "The Light Between Oceans",
+      2016,
+      6.3
+    ],
+    [
       "den_of_thieves_pantera",
       "crime",
       "Den of Thieves: Pantera",
@@ -2117,11 +3601,25 @@
       6.0
     ],
     [
+      "man_who_would_be_king",
+      "action",
+      "The Man Who Would Be King",
+      1975,
+      8.9
+    ],
+    [
       "bill_and_ted_face_the_music",
       "sci-fi",
       "Bill & Ted Face the Music",
       2020,
       6.8
+    ],
+    [
+      "generals_daughter",
+      "crime",
+      "The General's Daughter",
+      1999,
+      4.9
     ],
     [
       "the_dressmaker",
@@ -2145,11 +3643,46 @@
       7.1
     ],
     [
+      "lost_boys_the_tribe",
+      "horror",
+      "Lost Boys: The Tribe",
+      2008,
+      2.9
+    ],
+    [
+      "the_beekeeper_2024",
+      "mystery-thriller",
+      "The Beekeeper",
+      2024,
+      5.9
+    ],
+    [
+      "skulls",
+      "mystery-thriller",
+      "The Skulls",
+      2000,
+      3.7
+    ],
+    [
+      "mystery_science_theater_3000_the_movie",
+      "comedy",
+      "Mystery Science Theater 3000: The Movie",
+      1996,
+      6.6
+    ],
+    [
       "aint_them_bodies_saints_2013",
       "western",
       "Ain't Them Bodies Saints",
       2013,
       7.1
+    ],
+    [
+      "baader_meinhof_complex",
+      "crime",
+      "The Baader Meinhof Complex",
+      2008,
+      7.0
     ],
     [
       "the_running_man_2025",
@@ -2180,6 +3713,20 @@
       6.2
     ],
     [
+      "to_the_wonder",
+      "romance",
+      "To the Wonder",
+      2013,
+      6.1
+    ],
+    [
+      "the_northman",
+      "mystery-thriller",
+      "The Northman",
+      2022,
+      7.7
+    ],
+    [
       "school_ties",
       "drama",
       "School Ties",
@@ -2192,6 +3739,27 @@
       "The Monkey",
       2025,
       6.7
+    ],
+    [
+      "1083461-avengers",
+      "sci-fi",
+      "The Avengers",
+      1998,
+      3.1
+    ],
+    [
+      "the_diary_of_a_teenage_girl",
+      "drama",
+      "The Diary of a Teenage Girl",
+      2015,
+      8.0
+    ],
+    [
+      "the_zero_theorem",
+      "sci-fi",
+      "The Zero Theorem",
+      2014,
+      5.6
     ],
     [
       "trailer_park_boys_the_movie",
@@ -2220,6 +3788,20 @@
       "The Hunger Games: The Ballad of Songbirds & Snakes",
       2023,
       6.4
+    ],
+    [
+      "verdict",
+      "drama",
+      "The Verdict",
+      1982,
+      8.1
+    ],
+    [
+      "the_kid_with_a_bike",
+      "drama",
+      "The Kid With a Bike",
+      2012,
+      8.1
     ],
     [
       "triple_frontier",
@@ -2257,11 +3839,25 @@
       5.3
     ],
     [
+      "the_haunting_in_connecticut_2_ghosts_of_georgia",
+      "horror",
+      "The Haunting in Connecticut 2: Ghosts of Georgia",
+      2013,
+      3.6
+    ],
+    [
       "the_double_2011",
       "mystery-thriller",
       "The Double",
       2011,
       4.1
+    ],
+    [
+      "abandoned",
+      "horror",
+      "The Abandoned",
+      2006,
+      4.6
     ],
     [
       "the_way_back_2020",
@@ -2299,11 +3895,46 @@
       6.9
     ],
     [
+      "gran_turismo_based_on_a_true_story",
+      "action",
+      "Gran Turismo: Based on a True Story",
+      2023,
+      6.0
+    ],
+    [
+      "the_fall_guy_2024",
+      "romance",
+      "The Fall Guy",
+      2024,
+      7.1
+    ],
+    [
+      "then_she_found_me",
+      "romance",
+      "Then She Found Me",
+      2008,
+      5.8
+    ],
+    [
+      "magdalene_sisters",
+      "drama",
+      "The Magdalene Sisters",
+      2003,
+      7.8
+    ],
+    [
       "the_castle",
       "comedy",
       "The Castle",
       1997,
       7.2
+    ],
+    [
+      "the_commuter",
+      "mystery-thriller",
+      "The Commuter",
+      2018,
+      5.4
     ],
     [
       "less_than_zero",
@@ -2320,11 +3951,32 @@
       7.2
     ],
     [
+      "exorcist_3",
+      "horror",
+      "The Exorcist III",
+      1990,
+      5.8
+    ],
+    [
+      "tamara_drewe_2010",
+      "comedy",
+      "Tamara Drewe",
+      2010,
+      6.3
+    ],
+    [
       "the_intruder_2019",
       "mystery-thriller",
       "The Intruder",
       2019,
       4.4
+    ],
+    [
+      "1000224-accused",
+      "drama",
+      "The Accused",
+      1988,
+      7.2
     ],
     [
       "1054125-shadow",
@@ -2362,11 +4014,25 @@
       8.4
     ],
     [
+      "1208128-tyson",
+      "documentary",
+      "Tyson",
+      2009,
+      7.3
+    ],
+    [
       "the_wave_2016",
       "mystery-thriller",
       "The Wave",
       2016,
       6.6
+    ],
+    [
+      "the_man_who_knew_infinity",
+      "history",
+      "The Man Who Knew Infinity",
+      2016,
+      6.1
     ],
     [
       "together_2025",
@@ -2376,11 +4042,32 @@
       7.2
     ],
     [
+      "man_without_a_face",
+      "drama",
+      "The Man Without a Face",
+      1993,
+      5.8
+    ],
+    [
       "the_bye_bye_man",
       "horror",
       "The Bye Bye Man",
       2017,
       3.6
+    ],
+    [
+      "the_man",
+      "comedy",
+      "The Man",
+      2005,
+      3.6
+    ],
+    [
+      "hotel_transylvania_3_summer_vacation",
+      "fantasy",
+      "Hotel Transylvania 3: Summer Vacation",
+      2018,
+      5.5
     ],
     [
       "texas_chainsaw_massacre_2022",
@@ -2425,11 +4112,39 @@
       8.2
     ],
     [
+      "beautiful_thing",
+      "comedy",
+      "Beautiful Thing",
+      1996,
+      6.9
+    ],
+    [
+      "a_guy_thing",
+      "romance",
+      "A Guy Thing",
+      2003,
+      4.3
+    ],
+    [
       "super_troopers_2",
       "comedy",
       "Super Troopers 2",
       2018,
       4.7
+    ],
+    [
+      "table_19",
+      "comedy",
+      "Table 19",
+      2017,
+      4.6
+    ],
+    [
+      "the_brady_bunch_movie",
+      "comedy",
+      "The Brady Bunch Movie",
+      1995,
+      5.8
     ],
     [
       "the_croods_a_new_age",
@@ -2460,11 +4175,25 @@
       3.7
     ],
     [
+      "gonzo-the-life-and-work-of-dr-hunter-s-thompson",
+      "documentary",
+      "Gonzo: The Life and Work of Dr. Hunter S. Thompson",
+      2008,
+      7.3
+    ],
+    [
       "bleed_for_this",
       "biography",
       "Bleed for This",
       2016,
       6.2
+    ],
+    [
+      "human_stain",
+      "drama",
+      "The Human Stain",
+      2003,
+      5.7
     ],
     [
       "blumhouses_truth_or_dare",
@@ -2488,6 +4217,48 @@
       8.1
     ],
     [
+      "things_to_do_in_denver_when_youre_dead",
+      "crime",
+      "Things to Do in Denver When You're Dead",
+      1995,
+      5.3
+    ],
+    [
+      "1073317-visitors",
+      "sci-fi",
+      "The Visitors",
+      1993,
+      5.3
+    ],
+    [
+      "tremors_3_back_to_perfection",
+      "horror",
+      "Tremors 3: Back to Perfection",
+      2001,
+      5.8
+    ],
+    [
+      "million_dollar_hotel",
+      "drama",
+      "The Million Dollar Hotel",
+      2000,
+      5.1
+    ],
+    [
+      "lawnmower_man",
+      "horror",
+      "The Lawnmower Man",
+      1992,
+      4.8
+    ],
+    [
+      "the-foot-fist-way",
+      "comedy",
+      "The Foot Fist Way",
+      2008,
+      5.5
+    ],
+    [
       "great_raid",
       "war",
       "The Great Raid",
@@ -2509,6 +4280,13 @@
       7.0
     ],
     [
+      "the_lost_daughter",
+      "drama",
+      "The Lost Daughter",
+      2021,
+      7.8
+    ],
+    [
       "taxi_to_the_dark_side",
       "war",
       "Taxi to the Dark Side",
@@ -2523,6 +4301,41 @@
       6.4
     ],
     [
+      "1071267-arrival",
+      "sci-fi",
+      "The Arrival",
+      1996,
+      6.3
+    ],
+    [
+      "1118347-quiet_american",
+      "war",
+      "The Quiet American",
+      2002,
+      8.0
+    ],
+    [
+      "burning_plain",
+      "drama",
+      "The Burning Plain",
+      2009,
+      5.7
+    ],
+    [
+      "1208165-boys_are_back",
+      "comedy",
+      "The Boys Are Back",
+      2009,
+      6.4
+    ],
+    [
+      "from_dusk_till_dawn_2_texas_blood_money",
+      "horror",
+      "From Dusk Till Dawn 2: Texas Blood Money",
+      1999,
+      3.4
+    ],
+    [
       "the_1517_to_paris",
       "mystery-thriller",
       "The 15:17 to Paris",
@@ -2530,11 +4343,32 @@
       4.3
     ],
     [
+      "tully_2018",
+      "comedy",
+      "Tully",
+      2018,
+      7.6
+    ],
+    [
+      "rage_carrie_2",
+      "horror",
+      "The Rage: Carrie 2",
+      1999,
+      4.0
+    ],
+    [
       "the_menu",
       "horror",
       "The Menu",
       2022,
       7.5
+    ],
+    [
+      "the_thursday_murder_club",
+      "crime",
+      "The Thursday Murder Club",
+      2025,
+      6.2
     ],
     [
       "testament_of_youth",
@@ -2551,6 +4385,13 @@
       8.6
     ],
     [
+      "towelhead",
+      "drama",
+      "Towelhead",
+      2008,
+      5.9
+    ],
+    [
       "the_darkness",
       "horror",
       "The Darkness",
@@ -2563,6 +4404,27 @@
       "The Ladies Man",
       2000,
       4.0
+    ],
+    [
+      "fear_street_part_two_1978",
+      "horror",
+      "Fear Street Part Two: 1978",
+      2021,
+      6.9
+    ],
+    [
+      "the_meddler_2016",
+      "comedy",
+      "The Meddler",
+      2016,
+      7.0
+    ],
+    [
+      "doom_generation",
+      "drama",
+      "The Doom Generation",
+      1995,
+      5.0
     ],
     [
       "the_dead_dont_die_2019",
@@ -2593,6 +4455,13 @@
       8.7
     ],
     [
+      "something_to_talk_about",
+      "comedy",
+      "Something to Talk About",
+      1995,
+      5.3
+    ],
+    [
       "the_leopard_1963",
       "history",
       "The Leopard",
@@ -2607,11 +4476,25 @@
       4.0
     ],
     [
+      "big_trouble_2002",
+      "comedy",
+      "Big Trouble",
+      2002,
+      5.7
+    ],
+    [
       "if_beale_street_could_talk",
       "romance",
       "If Beale Street Could Talk",
       2019,
       8.7
+    ],
+    [
+      "quarantine_2_terminal_2011",
+      "horror",
+      "Quarantine 2: Terminal",
+      2011,
+      5.4
     ],
     [
       "the_son_of_no_one",
@@ -2656,11 +4539,25 @@
       4.3
     ],
     [
+      "trust_the_man",
+      "romance",
+      "Trust the Man",
+      2006,
+      4.8
+    ],
+    [
       "the_forever_purge",
       "horror",
       "The Forever Purge",
       2021,
       5.4
+    ],
+    [
+      "thunderbirds",
+      "sci-fi",
+      "Thunderbirds",
+      2004,
+      4.3
     ],
     [
       "the_book_of_henry",
@@ -2684,11 +4581,25 @@
       7.6
     ],
     [
+      "1164119-breed",
+      "horror",
+      "The Breed",
+      2006,
+      4.0
+    ],
+    [
       "talk_to_me_2023",
       "horror",
       "Talk to Me",
       2023,
       7.7
+    ],
+    [
+      "the_relic",
+      "horror",
+      "The Relic",
+      1997,
+      5.0
     ],
     [
       "the_boss_baby_family_business",
@@ -2733,11 +4644,25 @@
       8.2
     ],
     [
+      "gravedancers",
+      "horror",
+      "The Gravedancers",
+      2006,
+      6.9
+    ],
+    [
       "the_creator_2023",
       "sci-fi",
       "The Creator",
       2023,
       6.7
+    ],
+    [
+      "road_to_guantanamo",
+      "war",
+      "The Road to Guantanamo",
+      2006,
+      7.1
     ],
     [
       "the_strangers_prey_at_night",
@@ -2747,6 +4672,13 @@
       5.0
     ],
     [
+      "tetro",
+      "drama",
+      "Tetro",
+      2009,
+      6.6
+    ],
+    [
       "please_dont_destroy_the_treasure_of_foggy_mountain",
       "comedy",
       "Please Don't Destroy: The Treasure of Foggy Mountain",
@@ -2754,11 +4686,32 @@
       5.6
     ],
     [
+      "big_bounce",
+      "comedy",
+      "The Big Bounce",
+      2004,
+      4.2
+    ],
+    [
       "the_furious_2025",
       "crime",
       "The Furious",
       2025,
       8.4
+    ],
+    [
+      "the_vatican_tapes_2015",
+      "horror",
+      "The Vatican Tapes",
+      2015,
+      4.0
+    ],
+    [
+      "closet",
+      "comedy",
+      "The Closet",
+      2001,
+      7.3
     ],
     [
       "the_unbearable_weight_of_massive_talent",
@@ -2789,11 +4742,32 @@
       5.9
     ],
     [
+      "1093976-bachelor",
+      "comedy",
+      "The Bachelor",
+      1999,
+      3.9
+    ],
+    [
+      "yards",
+      "crime",
+      "The Yards",
+      2000,
+      6.5
+    ],
+    [
       "they_will_kill_you",
       "horror",
       "They Will Kill You",
       2026,
       6.2
+    ],
+    [
+      "the_concert_2010",
+      "comedy",
+      "The Concert",
+      2010,
+      6.1
     ],
     [
       "tolkien",
@@ -2803,11 +4777,32 @@
       5.8
     ],
     [
+      "fighting_temptations",
+      "comedy",
+      "The Fighting Temptations",
+      2003,
+      5.3
+    ],
+    [
+      "the_blackcoats_daughter",
+      "horror",
+      "The Blackcoat's Daughter",
+      2017,
+      6.8
+    ],
+    [
       "we_live_in_time",
       "romance",
       "We Live in Time",
       2024,
       7.0
+    ],
+    [
+      "an_inconvenient_sequel_truth_to_power",
+      "documentary",
+      "An Inconvenient Sequel: Truth to Power",
+      2017,
+      6.5
     ],
     [
       "trolls_band_together",
@@ -2831,6 +4826,13 @@
       8.4
     ],
     [
+      "the_beatles_eight_days_a_week_the_touring_years",
+      "music",
+      "The Beatles: Eight Days a Week -- The Touring Years",
+      2016,
+      7.9
+    ],
+    [
       "the_goldfinch",
       "drama",
       "The Goldfinch",
@@ -2843,6 +4845,13 @@
       "The Idea of You",
       2024,
       6.5
+    ],
+    [
+      "the_addams_family_2",
+      "animation",
+      "The Addams Family 2",
+      2021,
+      4.6
     ],
     [
       "the_whale_2022",
@@ -2873,6 +4882,34 @@
       5.5
     ],
     [
+      "people_places_things",
+      "comedy",
+      "People, Places, Things",
+      2015,
+      6.9
+    ],
+    [
+      "10003284-the_zodiac",
+      "crime",
+      "The Zodiac",
+      2005,
+      4.1
+    ],
+    [
+      "third_person",
+      "romance",
+      "Third Person",
+      2014,
+      4.4
+    ],
+    [
+      "the_details_2010",
+      "comedy",
+      "The Details",
+      2012,
+      5.5
+    ],
+    [
       "the_babysitter_killer_queen",
       "horror",
       "The Babysitter: Killer Queen",
@@ -2885,6 +4922,13 @@
       "The Black Demon",
       2023,
       4.2
+    ],
+    [
+      "thr3e",
+      "mystery-thriller",
+      "Thr3e",
+      2007,
+      3.6
     ],
     [
       "the_courier",
@@ -2901,6 +4945,34 @@
       4.9
     ],
     [
+      "the_100_year_old_man_who_climbed_out_the_window_and_disappeared",
+      "comedy",
+      "The 100-Year-Old Man Who Climbed Out the Window and Disappeared",
+      2015,
+      6.0
+    ],
+    [
+      "gauntlet",
+      "crime",
+      "The Gauntlet",
+      1977,
+      5.8
+    ],
+    [
+      "the_sea_beast",
+      "fantasy",
+      "The Sea Beast",
+      2022,
+      7.7
+    ],
+    [
+      "10005403-the_baxter",
+      "romance",
+      "The Baxter",
+      2005,
+      5.3
+    ],
+    [
       "arctic_tale",
       "documentary",
       "Arctic Tale",
@@ -2908,11 +4980,39 @@
       6.0
     ],
     [
+      "madness_of_king_george",
+      "history",
+      "The Madness of King George",
+      1994,
+      7.7
+    ],
+    [
       "the_invite",
       "romance",
       "The Invite",
       2026,
       8.1
+    ],
+    [
+      "the_bad_batch",
+      "horror",
+      "The Bad Batch",
+      2017,
+      5.8
+    ],
+    [
+      "the_girl_in_the_spiders_web",
+      "mystery-thriller",
+      "The Girl in the Spider's Web",
+      2018,
+      5.1
+    ],
+    [
+      "1049183-chase",
+      "comedy",
+      "The Chase",
+      1994,
+      5.0
     ],
     [
       "the_armstrong_lie_2013",
@@ -2943,11 +5043,46 @@
       6.6
     ],
     [
+      "the-cake-eaters",
+      "drama",
+      "The Cake Eaters",
+      2009,
+      6.2
+    ],
+    [
+      "quiet_earth",
+      "sci-fi",
+      "The Quiet Earth",
+      1985,
+      7.2
+    ],
+    [
       "the_current_war_directors_cut",
       "history",
       "The Current War: Director's Cut",
       2019,
       6.3
+    ],
+    [
+      "10009066-la_graine_et_le_mulet",
+      "drama",
+      "The Secret of the Grain",
+      2008,
+      8.2
+    ],
+    [
+      "babysitters",
+      "drama",
+      "The Babysitters",
+      2008,
+      5.0
+    ],
+    [
+      "yellow_handkerchief",
+      "romance",
+      "The Yellow Handkerchief",
+      2010,
+      6.0
     ],
     [
       "the_white_tiger_2020",
@@ -2992,11 +5127,25 @@
       7.0
     ],
     [
+      "the_sugarland_express",
+      "comedy",
+      "The Sugarland Express",
+      1974,
+      7.4
+    ],
+    [
       "kill_me_three_times",
       "mystery-thriller",
       "Kill Me Three Times",
       2015,
       4.1
+    ],
+    [
+      "beats_rhymes_and_life_the_travels_of_a_tribe_called_quest",
+      "music",
+      "Beats, Rhymes & Life: The Travels of A Tribe Called Quest",
+      2011,
+      7.4
     ],
     [
       "a_town_called_panic",
@@ -3020,6 +5169,27 @@
       6.3
     ],
     [
+      "d_train",
+      "comedy",
+      "The D Train",
+      2015,
+      5.8
+    ],
+    [
+      "tripper",
+      "horror",
+      "The Tripper",
+      2007,
+      5.0
+    ],
+    [
+      "the_rhythm_section",
+      "mystery-thriller",
+      "The Rhythm Section",
+      2020,
+      4.7
+    ],
+    [
       "the_tillman_story",
       "documentary",
       "The Tillman Story",
@@ -3032,6 +5202,27 @@
       "The SpongeBob Movie: Sponge on the Run",
       2020,
       6.0
+    ],
+    [
+      "killing_of_a_chinese_bookie",
+      "crime",
+      "The Killing of a Chinese Bookie",
+      1976,
+      6.3
+    ],
+    [
+      "the_puffy_chair",
+      "comedy",
+      "The Puffy Chair",
+      2005,
+      6.8
+    ],
+    [
+      "the_bikeriders",
+      "crime",
+      "The Bikeriders",
+      2024,
+      6.9
     ],
     [
       "the_family_plan",
@@ -3055,11 +5246,60 @@
       7.7
     ],
     [
+      "the_killing_room",
+      "horror",
+      "The Killing Room",
+      2009,
+      5.2
+    ],
+    [
+      "1159100-oh_in_ohio",
+      "romance",
+      "The Oh in Ohio",
+      2006,
+      5.1
+    ],
+    [
+      "the_virginity_hit_2010",
+      "comedy",
+      "The Virginity Hit",
+      2010,
+      4.5
+    ],
+    [
+      "the_355",
+      "mystery-thriller",
+      "The 355",
+      2022,
+      4.5
+    ],
+    [
+      "the_last_duel_2021",
+      "history",
+      "The Last Duel",
+      2021,
+      7.4
+    ],
+    [
+      "the_laundromat",
+      "comedy",
+      "The Laundromat",
+      2019,
+      5.5
+    ],
+    [
       "say_it_isnt_so",
       "comedy",
       "Say It Isn't So",
       2001,
       3.4
+    ],
+    [
+      "good_guy",
+      "romance",
+      "The Good Guy",
+      2010,
+      4.8
     ],
     [
       "the_irishman",
@@ -3074,6 +5314,13 @@
       "The Beach Bum",
       2019,
       5.5
+    ],
+    [
+      "the_biggest_little_farm",
+      "documentary",
+      "The Biggest Little Farm",
+      2019,
+      7.2
     ],
     [
       "time_after_time",
@@ -3102,6 +5349,20 @@
       "The Wild Thornberrys Movie",
       2002,
       6.7
+    ],
+    [
+      "the_wonder_2022",
+      "mystery-thriller",
+      "The Wonder",
+      2022,
+      7.2
+    ],
+    [
+      "crossing_guard",
+      "drama",
+      "The Crossing Guard",
+      1995,
+      6.5
     ],
     [
       "till",
@@ -3139,6 +5400,20 @@
       5.9
     ],
     [
+      "the_jesus_music",
+      "music",
+      "The Jesus Music",
+      2021,
+      6.9
+    ],
+    [
+      "the_out_of_towners",
+      "comedy",
+      "The Out-of-Towners",
+      1999,
+      5.0
+    ],
+    [
       "the_life_of_chuck",
       "sci-fi",
       "The Life of Chuck",
@@ -3158,6 +5433,13 @@
       "The Hollars",
       2016,
       5.3
+    ],
+    [
+      "the_man_who_invented_christmas",
+      "history",
+      "The Man Who Invented Christmas",
+      2017,
+      6.4
     ],
     [
       "the_good_doctor_2011",
@@ -3188,10 +5470,45 @@
       5.6
     ],
     [
+      "the_instigators",
+      "crime",
+      "The Instigators",
+      2024,
+      5.4
+    ],
+    [
       "the_family_fang",
       "mystery-thriller",
       "The Family Fang",
       2016,
+      6.7
+    ],
+    [
+      "the_ice_road",
+      "mystery-thriller",
+      "The Ice Road",
+      2021,
+      4.9
+    ],
+    [
+      "haunted_world_of_el_superbeasto",
+      "animation",
+      "The Haunted World of El Superbeasto",
+      2009,
+      5.4
+    ],
+    [
+      "escape_room_tournament_of_champions",
+      "horror",
+      "Escape Room: Tournament of Champions",
+      2021,
+      5.4
+    ],
+    [
+      "the_hero_2017",
+      "drama",
+      "The Hero",
+      2017,
       6.7
     ],
     [
@@ -3206,6 +5523,13 @@
       "romance",
       "The Sun Is Also a Star",
       2019,
+      5.7
+    ],
+    [
+      "to_catch_a_killer_2023",
+      "crime",
+      "To Catch a Killer",
+      2023,
       5.7
     ],
     [
@@ -3244,6 +5568,13 @@
       4.0
     ],
     [
+      "the_bubble_2022",
+      "comedy",
+      "The Bubble",
+      2022,
+      3.9
+    ],
+    [
       "tightrope",
       "crime",
       "Tightrope",
@@ -3258,6 +5589,13 @@
       3.2
     ],
     [
+      "draughtsmans_contract",
+      "comedy",
+      "The Draughtsman's Contract",
+      1983,
+      8.4
+    ],
+    [
       "the_day_the_earth_blew_up_a_looney_tunes_movie",
       "sci-fi",
       "The Day the Earth Blew Up: A Looney Tunes Movie",
@@ -3265,11 +5603,25 @@
       7.1
     ],
     [
+      "mei_ren_yu",
+      "fantasy",
+      "The Mermaid",
+      2016,
+      6.9
+    ],
+    [
       "the_popes_exorcist",
       "horror",
       "The Pope's Exorcist",
       2023,
       5.2
+    ],
+    [
+      "three_thousand_years_of_longing",
+      "fantasy",
+      "Three Thousand Years of Longing",
+      2022,
+      6.5
     ],
     [
       "the_eyes_of_my_mother_2016",
@@ -3286,11 +5638,32 @@
       4.0
     ],
     [
+      "twelfth_night_1998",
+      "comedy",
+      "Twelfth Night",
+      1996,
+      7.4
+    ],
+    [
+      "after_the_thin_man",
+      "comedy",
+      "After the Thin Man",
+      1936,
+      7.8
+    ],
+    [
       "the_longest_week",
       "romance",
       "The Longest Week",
       2014,
       3.7
+    ],
+    [
+      "the_second_mother",
+      "drama",
+      "The Second Mother",
+      2015,
+      8.1
     ],
     [
       "demon_slayer_kimetsu_no_yaiba_to_the_hashira_training",
@@ -3314,6 +5687,13 @@
       5.0
     ],
     [
+      "the_year_my_parents_went_on_vacation",
+      "drama",
+      "The Year My Parents Went on Vacation",
+      2008,
+      7.1
+    ],
+    [
       "tyler_perrys_a_madea_family_funeral",
       "comedy",
       "Tyler Perry's A Madea Family Funeral",
@@ -3321,11 +5701,32 @@
       3.8
     ],
     [
+      "the_professor_2019",
+      "comedy",
+      "The Professor",
+      2019,
+      4.9
+    ],
+    [
       "the_machine_2023",
       "comedy",
       "The Machine",
       2023,
       4.6
+    ],
+    [
+      "yes_men",
+      "documentary",
+      "The Yes Men",
+      2004,
+      7.2
+    ],
+    [
+      "till_death_2021",
+      "mystery-thriller",
+      "Till Death",
+      2021,
+      6.6
     ],
     [
       "the_prodigy_2019",
@@ -3342,11 +5743,60 @@
       6.1
     ],
     [
+      "riding_alone_for_thousands_of_miles",
+      "drama",
+      "Riding Alone for Thousands of Miles",
+      2005,
+      7.3
+    ],
+    [
+      "great_white_hype",
+      "comedy",
+      "The Great White Hype",
+      1996,
+      4.9
+    ],
+    [
+      "to_the_arctic",
+      "documentary",
+      "To the Arctic",
+      2012,
+      6.5
+    ],
+    [
+      "lost_boys_the_thirst_2010",
+      "horror",
+      "Lost Boys: The Thirst",
+      2010,
+      4.1
+    ],
+    [
+      "1200743-wrecking_crew",
+      "music",
+      "The Wrecking Crew",
+      2015,
+      7.1
+    ],
+    [
+      "forsaken",
+      "horror",
+      "The Forsaken",
+      2001,
+      3.6
+    ],
+    [
       "rules_dont_apply",
       "romance",
       "Rules Don't Apply",
       2016,
       5.8
+    ],
+    [
+      "the_walker",
+      "drama",
+      "The Walker",
+      2007,
+      5.6
     ],
     [
       "the_night_of_the_12th",
@@ -3363,11 +5813,25 @@
       2.8
     ],
     [
+      "eye-2",
+      "horror",
+      "The Eye 2",
+      2004,
+      7.5
+    ],
+    [
       "the_disappearance_of_shere_hite",
       "biography",
       "The Disappearance of Shere Hite",
       2023,
       8.0
+    ],
+    [
+      "pickup_artist",
+      "romance",
+      "The Pick-Up Artist",
+      1987,
+      4.8
     ],
     [
       "the_girl_who_got_away",
@@ -3391,6 +5855,27 @@
       7.9
     ],
     [
+      "the_bag_man",
+      "crime",
+      "The Bag Man",
+      2014,
+      3.6
+    ],
+    [
+      "paper_chase",
+      "comedy",
+      "The Paper Chase",
+      1973,
+      7.0
+    ],
+    [
+      "the_car",
+      "horror",
+      "The Car",
+      1977,
+      3.7
+    ],
+    [
       "the_best_of_enemies_2019",
       "history",
       "The Best of Enemies",
@@ -3403,6 +5888,13 @@
       "The Perfect Match",
       2016,
       4.3
+    ],
+    [
+      "shark_tale",
+      "animation",
+      "Shark Tale",
+      2004,
+      5.3
     ],
     [
       "his_three_daughters",
@@ -3419,6 +5911,13 @@
       8.0
     ],
     [
+      "tumbbad",
+      "horror",
+      "Tumbbad",
+      2024,
+      7.4
+    ],
+    [
       "the_last_voyage_of_the_demeter",
       "horror",
       "The Last Voyage of the Demeter",
@@ -3426,11 +5925,39 @@
       5.7
     ],
     [
+      "the_pope_of_greenwich_village",
+      "drama",
+      "The Pope of Greenwich Village",
+      1984,
+      7.2
+    ],
+    [
       "celluloid_closet",
       "lgbtq",
       "The Celluloid Closet",
       1996,
       7.9
+    ],
+    [
+      "the_prophecy_ii",
+      "horror",
+      "The Prophecy II",
+      1998,
+      4.7
+    ],
+    [
+      "open_road",
+      "comedy",
+      "The Open Road",
+      2009,
+      4.5
+    ],
+    [
+      "those_who_wish_me_dead",
+      "mystery-thriller",
+      "Those Who Wish Me Dead",
+      2021,
+      5.7
     ],
     [
       "house_of_mirth",
@@ -3447,6 +5974,13 @@
       7.4
     ],
     [
+      "the_saratov_approach",
+      "mystery-thriller",
+      "The Saratov Approach",
+      2013,
+      6.0
+    ],
+    [
       "the_week_of",
       "comedy",
       "The Week Of",
@@ -3454,11 +5988,39 @@
       4.1
     ],
     [
+      "night_train_to_lisbon_2013",
+      "mystery-thriller",
+      "Night Train to Lisbon",
+      2013,
+      4.9
+    ],
+    [
+      "hitchcocktruffaut",
+      "documentary",
+      "Hitchcock/Truffaut",
+      2015,
+      7.6
+    ],
+    [
+      "the_hole_in_the_ground",
+      "horror",
+      "The Hole in the Ground",
+      2019,
+      6.3
+    ],
+    [
       "the_art_of_self_defense_2019",
       "comedy",
       "The Art of Self-Defense",
       2019,
       7.3
+    ],
+    [
+      "tulip_fever",
+      "romance",
+      "Tulip Fever",
+      2017,
+      4.4
     ],
     [
       "the_banshees_of_inisherin",
@@ -3475,6 +6037,27 @@
       4.6
     ],
     [
+      "thin_ice_2012",
+      "crime",
+      "Thin Ice",
+      2012,
+      6.4
+    ],
+    [
+      "manthing",
+      "horror",
+      "Man-Thing",
+      2004,
+      3.7
+    ],
+    [
+      "the_possession_of_hannah_grace",
+      "horror",
+      "The Possession of Hannah Grace",
+      2018,
+      4.3
+    ],
+    [
       "tuner",
       "crime",
       "Tuner",
@@ -3482,11 +6065,25 @@
       7.6
     ],
     [
+      "national_lampoons_senior_trip",
+      "comedy",
+      "National Lampoon's Senior Trip",
+      1995,
+      2.6
+    ],
+    [
       "big_time_adolescence",
       "comedy",
       "Big Time Adolescence",
       2020,
       6.7
+    ],
+    [
+      "lonely_guy",
+      "comedy",
+      "The Lonely Guy",
+      1984,
+      5.7
     ],
     [
       "the_tinder_swindler",
@@ -3517,6 +6114,20 @@
       5.1
     ],
     [
+      "the_watchers_2024",
+      "horror",
+      "The Watchers",
+      2024,
+      5.0
+    ],
+    [
+      "10008703-rails_and_ties",
+      "drama",
+      "Rails & Ties",
+      2007,
+      4.7
+    ],
+    [
       "is_this_thing_on",
       "comedy",
       "Is This Thing On?",
@@ -3545,11 +6156,32 @@
       4.9
     ],
     [
+      "transit_2012",
+      "crime",
+      "Transit",
+      2012,
+      5.2
+    ],
+    [
+      "parole_officer",
+      "comedy",
+      "The Parole Officer",
+      2001,
+      6.0
+    ],
+    [
       "the_toxic_avenger_2023",
       "horror",
       "The Toxic Avenger",
       2025,
       6.8
+    ],
+    [
+      "the_last_word_2017",
+      "comedy",
+      "The Last Word",
+      2017,
+      4.9
     ],
     [
       "the_hand_of_god",
@@ -3559,11 +6191,39 @@
       7.3
     ],
     [
+      "the_comeback_trail_2020",
+      "crime",
+      "The Comeback Trail",
+      2025,
+      5.2
+    ],
+    [
       "trauma_center",
       "mystery-thriller",
       "Trauma Center",
       2019,
       3.6
+    ],
+    [
+      "1009211-hard_times",
+      "drama",
+      "Hard Times",
+      1975,
+      7.0
+    ],
+    [
+      "the_possession_of_michael_king",
+      "horror",
+      "The Possession of Michael King",
+      2014,
+      4.8
+    ],
+    [
+      "home_team_2022",
+      "comedy",
+      "Home Team",
+      2022,
+      4.3
     ],
     [
       "touchback",
@@ -3587,11 +6247,53 @@
       4.8
     ],
     [
+      "trucker",
+      "drama",
+      "Trucker",
+      2009,
+      6.2
+    ],
+    [
       "the_high_note",
       "comedy",
       "The High Note",
       2020,
       6.1
+    ],
+    [
+      "grass_harp",
+      "comedy",
+      "The Grass Harp",
+      1995,
+      5.5
+    ],
+    [
+      "pallbearer",
+      "comedy",
+      "The Pallbearer",
+      1996,
+      5.2
+    ],
+    [
+      "1156606-death_tunnel",
+      "horror",
+      "Death Tunnel",
+      2005,
+      2.3
+    ],
+    [
+      "the_promised_land_2023",
+      "history",
+      "The Promised Land",
+      2024,
+      8.0
+    ],
+    [
+      "the_swimmers_2022",
+      "biography",
+      "The Swimmers",
+      2022,
+      6.6
     ],
     [
       "anne_of_the_thousand_days",
@@ -3627,6 +6329,13 @@
       "Ruby Gillman, Teenage Kraken",
       2023,
       5.8
+    ],
+    [
+      "the_isle_2019",
+      "horror",
+      "The Isle",
+      2019,
+      6.2
     ],
     [
       "the_death_of_robin_hood",
@@ -3685,6 +6394,13 @@
       5.4
     ],
     [
+      "prophecy_3_the_the_ascent",
+      "horror",
+      "The Prophecy 3: The Ascent",
+      2000,
+      4.4
+    ],
+    [
       "1098652-in_crowd",
       "mystery-thriller",
       "The In Crowd",
@@ -3713,6 +6429,27 @@
       7.0
     ],
     [
+      "todos_caen",
+      "romance",
+      "Tod@s caen",
+      2019,
+      5.9
+    ],
+    [
+      "the_yakuza",
+      "crime",
+      "The Yakuza",
+      1974,
+      6.9
+    ],
+    [
+      "the_one_and_only_ivan",
+      "comedy",
+      "The One and Only Ivan",
+      2020,
+      6.2
+    ],
+    [
       "the_killers_game",
       "comedy",
       "The Killer's Game",
@@ -3720,11 +6457,25 @@
       5.1
     ],
     [
+      "the_aftermath_2019",
+      "romance",
+      "The Aftermath",
+      2019,
+      5.0
+    ],
+    [
       "1112237-order",
       "mystery-thriller",
       "The Order",
       2001,
       4.0
+    ],
+    [
+      "the_backwoods",
+      "horror",
+      "The Backwoods",
+      2006,
+      6.4
     ],
     [
       "the_only_living_boy_in_new_york",
@@ -3776,11 +6527,25 @@
       5.5
     ],
     [
+      "the_greasy_strangler",
+      "horror",
+      "The Greasy Strangler",
+      2016,
+      6.0
+    ],
+    [
       "the_new_girlfriend",
       "mystery-thriller",
       "The New Girlfriend",
       2015,
       6.7
+    ],
+    [
+      "the_starling",
+      "drama",
+      "The Starling",
+      2021,
+      4.3
     ],
     [
       "the_other_zoey",
@@ -3825,6 +6590,13 @@
       5.9
     ],
     [
+      "1010431-importance_of_being_earnest",
+      "comedy",
+      "The Importance of Being Earnest",
+      1952,
+      8.2
+    ],
+    [
       "thelma_2024",
       "comedy",
       "Thelma",
@@ -3839,11 +6611,25 @@
       6.8
     ],
     [
+      "blood_brothers_2011",
+      "comedy",
+      "The Reunion",
+      2011,
+      3.4
+    ],
+    [
       "down-terrace",
       "crime",
       "Down Terrace",
       2010,
       6.8
+    ],
+    [
+      "term_life",
+      "mystery-thriller",
+      "Term Life",
+      2016,
+      2.1
     ],
     [
       "1087341-winslow_boy",
@@ -3858,6 +6644,20 @@
       "The Three Musketeers: Part I - D'Artagnan",
       2023,
       7.6
+    ],
+    [
+      "shadow_of_the_thin_man",
+      "mystery-thriller",
+      "Shadow of the Thin Man",
+      1941,
+      7.3
+    ],
+    [
+      "the_friend_2024",
+      "comedy",
+      "The Friend",
+      2025,
+      7.0
     ],
     [
       "rapture",
@@ -3881,11 +6681,25 @@
       6.2
     ],
     [
+      "merry_gentleman",
+      "drama",
+      "The Merry Gentleman",
+      2009,
+      6.0
+    ],
+    [
       "you_wont_be_alone",
       "horror",
       "You Won't Be Alone",
       2022,
       7.7
+    ],
+    [
+      "1127652-big_empty",
+      "comedy",
+      "The Big Empty",
+      2003,
+      5.3
     ],
     [
       "the_thin_man_goes_home",
@@ -3909,11 +6723,25 @@
       5.7
     ],
     [
+      "third_wheel",
+      "romance",
+      "The Third Wheel",
+      2002,
+      4.3
+    ],
+    [
       "the_valet_2022",
       "romance",
       "The Valet",
       2022,
       6.4
+    ],
+    [
+      "traffik_2018",
+      "crime",
+      "Traffik",
+      2018,
+      4.0
     ],
     [
       "the_confirmation_2016",
@@ -3944,6 +6772,20 @@
       6.6
     ],
     [
+      "day_of_the_locust",
+      "drama",
+      "The Day of the Locust",
+      1975,
+      7.3
+    ],
+    [
+      "amityville-its-about-time",
+      "horror",
+      "Amityville 1992: It's About Time",
+      1992,
+      4.4
+    ],
+    [
       "the_apprentice",
       "biography",
       "The Apprentice",
@@ -3970,6 +6812,13 @@
       "The Protégé",
       2021,
       5.9
+    ],
+    [
+      "the_letters_2015",
+      "history",
+      "The Letters",
+      2015,
+      4.4
     ],
     [
       "the_wind_2019",
@@ -4000,11 +6849,25 @@
       5.0
     ],
     [
+      "tom_petty_heartbreakers_beach_party",
+      "music",
+      "Tom Petty: Heartbreakers Beach Party",
+      2024,
+      null
+    ],
+    [
       "women_talking",
       "drama",
       "Women Talking",
       2023,
       8.0
+    ],
+    [
+      "10009890-stone_angel",
+      "drama",
+      "The Stone Angel",
+      2008,
+      5.6
     ],
     [
       "small_town_crime",
@@ -4021,11 +6884,46 @@
       5.8
     ],
     [
+      "the_beast_within_2024",
+      "horror",
+      "The Beast Within",
+      2024,
+      5.3
+    ],
+    [
+      "the_remarkable_life_of_ibelin",
+      "biography",
+      "The Remarkable Life of Ibelin",
+      2024,
+      8.0
+    ],
+    [
+      "the_humbling",
+      "comedy",
+      "The Humbling",
+      2015,
+      5.4
+    ],
+    [
       "a_thousand_and_one",
       "crime",
       "A Thousand and One",
       2023,
       8.1
+    ],
+    [
+      "the_lost_husband",
+      "drama",
+      "The Lost Husband",
+      2020,
+      5.8
+    ],
+    [
+      "the_life_ahead_2020",
+      "drama",
+      "The Life Ahead",
+      2020,
+      7.0
     ],
     [
       "the_bricklayer_2023",
@@ -4035,11 +6933,32 @@
       5.2
     ],
     [
+      "true_believer",
+      "crime",
+      "True Believer",
+      1989,
+      7.1
+    ],
+    [
+      "king_of_marvin_gardens",
+      "drama",
+      "The King of Marvin Gardens",
+      1972,
+      7.0
+    ],
+    [
       "the_glass_bottom_boat_1966",
       "comedy",
       "The Glass Bottom Boat",
       1966,
       6.3
+    ],
+    [
+      "the_children_act",
+      "drama",
+      "The Children Act",
+      2018,
+      6.7
     ],
     [
       "teen_spirit_2019",
@@ -4049,11 +6968,53 @@
       6.3
     ],
     [
+      "they_wait",
+      "horror",
+      "They Wait",
+      2007,
+      4.6
+    ],
+    [
+      "the_lodge",
+      "horror",
+      "The Lodge",
+      2020,
+      7.1
+    ],
+    [
+      "truth_or_consequences_nm",
+      "crime",
+      "Truth or Consequences, N.M.",
+      1997,
+      5.0
+    ],
+    [
+      "the_onion_field",
+      "crime",
+      "The Onion Field",
+      1979,
+      7.4
+    ],
+    [
+      "the_bookshop",
+      "drama",
+      "The Bookshop",
+      2018,
+      5.4
+    ],
+    [
       "the_father_2021",
       "drama",
       "The Father",
       2021,
       8.7
+    ],
+    [
+      "i_think_were_alone_now_2018",
+      "sci-fi",
+      "I Think We're Alone Now",
+      2018,
+      6.2
     ],
     [
       "the_late_bloomer_2016",
@@ -4063,11 +7024,39 @@
       4.7
     ],
     [
+      "dying_gaul",
+      "lgbtq",
+      "The Dying Gaul",
+      2005,
+      6.3
+    ],
+    [
+      "the_ballad_of_lefty_brown",
+      "western",
+      "The Ballad of Lefty Brown",
+      2017,
+      6.3
+    ],
+    [
       "the_order_2024",
       "crime",
       "The Order",
       2024,
       7.6
+    ],
+    [
+      "howling_reborn",
+      "horror",
+      "The Howling: Reborn",
+      2011,
+      3.9
+    ],
+    [
+      "1028564-guardian",
+      "horror",
+      "The Guardian",
+      1990,
+      4.1
     ],
     [
       "the_recall",
@@ -4084,6 +7073,34 @@
       5.4
     ],
     [
+      "trip_to_bountiful",
+      "drama",
+      "The Trip to Bountiful",
+      1986,
+      7.2
+    ],
+    [
+      "the_greatest_night_in_pop",
+      "history",
+      "The Greatest Night in Pop",
+      2024,
+      7.7
+    ],
+    [
+      "triple_threat_2019",
+      "action",
+      "Triple Threat",
+      2019,
+      6.0
+    ],
+    [
+      "is_that_a_gun_in_your_pocket",
+      "comedy",
+      "Is That a Gun in Your Pocket?",
+      2016,
+      2.8
+    ],
+    [
       "skin_trade",
       "crime",
       "Skin Trade",
@@ -4096,6 +7113,20 @@
       "I Like It Like That",
       1994,
       7.3
+    ],
+    [
+      "invisible_circus",
+      "drama",
+      "The Invisible Circus",
+      2001,
+      4.6
+    ],
+    [
+      "the_kill_room",
+      "comedy",
+      "The Kill Room",
+      2023,
+      6.1
     ],
     [
       "the_vigil_2021",
@@ -4126,11 +7157,39 @@
       4.6
     ],
     [
+      "sword_of_trust",
+      "comedy",
+      "Sword of Trust",
+      2019,
+      7.4
+    ],
+    [
+      "the_hummingbird_project",
+      "drama",
+      "The Hummingbird Project",
+      2019,
+      6.1
+    ],
+    [
+      "the_kindness_of_strangers_2019",
+      "drama",
+      "The Kindness of Strangers",
+      2019,
+      4.2
+    ],
+    [
       "this_place_rules",
       "documentary",
       "This Place Rules",
       2022,
       7.5
+    ],
+    [
+      "tracker",
+      "action",
+      "Tracker",
+      2010,
+      6.0
     ],
     [
       "a_family_man_2017",
@@ -4140,11 +7199,39 @@
       4.1
     ],
     [
+      "laroy_texas",
+      "crime",
+      "LaRoy, Texas",
+      2024,
+      7.3
+    ],
+    [
+      "the_first_monday_in_may",
+      "documentary",
+      "The First Monday in May",
+      2016,
+      6.4
+    ],
+    [
       "dont_say_good_luck",
       "comedy",
       "Don't Say Good Luck",
       2026,
       7.2
+    ],
+    [
+      "together_together",
+      "comedy",
+      "Together Together",
+      2021,
+      7.1
+    ],
+    [
+      "1194326-take",
+      "crime",
+      "The Take",
+      2008,
+      6.5
     ],
     [
       "the_cured",
@@ -4182,11 +7269,60 @@
       6.2
     ],
     [
+      "the_hollow_point_2016",
+      "crime",
+      "The Hollow Point",
+      2016,
+      4.3
+    ],
+    [
+      "the_deepest_breath",
+      "biography",
+      "The Deepest Breath",
+      2023,
+      7.5
+    ],
+    [
+      "the_card_counter",
+      "mystery-thriller",
+      "The Card Counter",
+      2021,
+      7.6
+    ],
+    [
+      "the_wonders_2015",
+      "drama",
+      "The Wonders",
+      2015,
+      7.4
+    ],
+    [
+      "the_immaculate_room",
+      "sci-fi",
+      "The Immaculate Room",
+      2022,
+      5.2
+    ],
+    [
+      "the_inventor_out_for_blood_in_silicon_valley",
+      "documentary",
+      "The Inventor: Out for Blood in Silicon Valley",
+      2019,
+      7.2
+    ],
+    [
       "the_world_to_come",
       "romance",
       "The World to Come",
       2021,
       6.7
+    ],
+    [
+      "the_girl_in_the_photographs",
+      "horror",
+      "The Girl in the Photographs",
+      2016,
+      3.2
     ],
     [
       "the_scribbler",
@@ -4210,6 +7346,27 @@
       7.5
     ],
     [
+      "town_and_country",
+      "romance",
+      "Town & Country",
+      2001,
+      3.7
+    ],
+    [
+      "to_the_devil_a_daughter",
+      "horror",
+      "To the Devil a Daughter",
+      1976,
+      5.6
+    ],
+    [
+      "world_unseen",
+      "romance",
+      "The World Unseen",
+      2008,
+      4.7
+    ],
+    [
       "tales_from_the_hood_2",
       "horror",
       "Tales From the Hood 2",
@@ -4217,11 +7374,32 @@
       6.1
     ],
     [
+      "inkwell",
+      "comedy",
+      "The Inkwell",
+      1994,
+      4.8
+    ],
+    [
       "the_cursed_2022",
       "horror",
       "The Cursed",
       2022,
       6.4
+    ],
+    [
+      "the_clapper",
+      "romance",
+      "The Clapper",
+      2018,
+      4.2
+    ],
+    [
+      "time_2020",
+      "documentary",
+      "Time",
+      2020,
+      8.5
     ],
     [
       "the_desperate_hour",
@@ -4243,6 +7421,27 @@
       "The Book of Love",
       2017,
       3.0
+    ],
+    [
+      "summer_of_soul",
+      "music",
+      "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      2021,
+      9.1
+    ],
+    [
+      "magic_trip_2011",
+      "documentary",
+      "Magic Trip: Ken Kesey's Search for a Kool Place",
+      2011,
+      6.3
+    ],
+    [
+      "tears_for_fears_live_a_tipping_point_film",
+      "music",
+      "Tears For Fears Live (A Tipping Point Film)",
+      2024,
+      null
     ],
     [
       "the_damned_2024_2",
@@ -4273,6 +7472,20 @@
       null
     ],
     [
+      "the_assistant_2020",
+      "drama",
+      "The Assistant",
+      2020,
+      7.8
+    ],
+    [
+      "as_they_made_us",
+      "romance",
+      "As They Made Us",
+      2022,
+      6.9
+    ],
+    [
       "10008290-salon",
       "comedy",
       "The Salon",
@@ -4287,11 +7500,46 @@
       3.9
     ],
     [
+      "london_town_2016",
+      "drama",
+      "London Town",
+      2016,
+      6.4
+    ],
+    [
+      "the_tragedy_of_macbeth_2021",
+      "mystery-thriller",
+      "The Tragedy of Macbeth",
+      2021,
+      8.2
+    ],
+    [
+      "thing_about_my_folk",
+      "comedy",
+      "The Thing About My Folks",
+      2005,
+      5.6
+    ],
+    [
+      "dentist_2_the_brace_yourself",
+      "horror",
+      "The Dentist II",
+      1998,
+      3.7
+    ],
+    [
       "the_rivals_of_amziah_king",
       "crime",
       "The Rivals of Amziah King",
       2025,
       8.0
+    ],
+    [
+      "a_tale_of_love_and_darkness",
+      "history",
+      "A Tale of Love and Darkness",
+      2016,
+      6.1
     ],
     [
       "the_intruders_2015",
@@ -4308,6 +7556,20 @@
       6.1
     ],
     [
+      "triangle_of_sadness",
+      "comedy",
+      "Triangle of Sadness",
+      2022,
+      7.2
+    ],
+    [
+      "the_suicide_theory",
+      "drama",
+      "The Suicide Theory",
+      2015,
+      6.0
+    ],
+    [
       "assassination_tango",
       "mystery-thriller",
       "Assassination Tango",
@@ -4315,11 +7577,60 @@
       5.9
     ],
     [
+      "the_bee_gees_how_can_you_mend_a_broken_heart",
+      "music",
+      "The Bee Gees: How Can You Mend a Broken Heart",
+      2020,
+      7.7
+    ],
+    [
+      "take_me_2017",
+      "comedy",
+      "Take Me",
+      2017,
+      6.8
+    ],
+    [
+      "the_whale",
+      "documentary",
+      "The Whale",
+      2011,
+      6.8
+    ],
+    [
       "the_good_house_2022",
       "romance",
       "The Good House",
       2022,
       6.0
+    ],
+    [
+      "the_stray_2017",
+      "drama",
+      "The Stray",
+      2017,
+      5.3
+    ],
+    [
+      "fort_tilden",
+      "comedy",
+      "Fort Tilden",
+      2015,
+      7.0
+    ],
+    [
+      "the_land_2016",
+      "crime",
+      "The Land",
+      2016,
+      6.7
+    ],
+    [
+      "the_last_manhunt",
+      "western",
+      "The Last Manhunt",
+      2022,
+      4.6
     ],
     [
       "hes_out_there",
@@ -4334,6 +7645,27 @@
       "The Son of Bigfoot",
       2018,
       5.8
+    ],
+    [
+      "luther_never_too_much",
+      "biography",
+      "Luther: Never Too Much",
+      2024,
+      7.5
+    ],
+    [
+      "they_call_me_mister_tibbs",
+      "crime",
+      "They Call Me Mister Tibbs!",
+      1970,
+      6.3
+    ],
+    [
+      "the_main_thing_is_to_love",
+      "romance",
+      "That Most Important Thing: Love",
+      1975,
+      8.5
     ],
     [
       "sometimes_i_think_about_dying_2023",
@@ -4371,6 +7703,13 @@
       7.7
     ],
     [
+      "the_unknown_girl",
+      "drama",
+      "The Unknown Girl",
+      2017,
+      6.4
+    ],
+    [
       "the_long_game",
       "history",
       "The Long Game",
@@ -4378,11 +7717,25 @@
       6.5
     ],
     [
+      "theater_camp",
+      "comedy",
+      "Theater Camp",
+      2023,
+      7.3
+    ],
+    [
       "touch_2024",
       "romance",
       "Touch",
       2024,
       7.7
+    ],
+    [
+      "cut_throat_city",
+      "crime",
+      "Cut Throat City",
+      2020,
+      6.2
     ],
     [
       "the_killing_of_two_lovers",
@@ -4399,6 +7752,20 @@
       5.8
     ],
     [
+      "the_last_face_2017",
+      "drama",
+      "The Last Face",
+      2017,
+      2.9
+    ],
+    [
+      "one_more_time_with_feeling",
+      "music",
+      "One More Time With Feeling",
+      2016,
+      8.9
+    ],
+    [
       "the_humanity_bureau",
       "sci-fi",
       "The Humanity Bureau",
@@ -4406,11 +7773,25 @@
       3.4
     ],
     [
+      "the_elephant_whisperers",
+      "documentary",
+      "The Elephant Whisperers",
+      2022,
+      7.8
+    ],
+    [
       "the_masked_saint",
       "crime",
       "The Masked Saint",
       2016,
       4.1
+    ],
+    [
+      "charge_of_the_light_brigade_1968",
+      "history",
+      "The Charge of the Light Brigade",
+      1968,
+      6.5
     ],
     [
       "the_last_laugh_2019",
@@ -4448,6 +7829,13 @@
       5.8
     ],
     [
+      "roger_waters_us_them",
+      "music",
+      "Roger Waters: Us + Them",
+      2019,
+      6.7
+    ],
+    [
       "1059003-true_crime",
       "horror",
       "True Crime",
@@ -4455,11 +7843,39 @@
       3.3
     ],
     [
+      "the_seagull_2018",
+      "drama",
+      "The Seagull",
+      2018,
+      6.2
+    ],
+    [
+      "tommys_honour",
+      "history",
+      "Tommy's Honour",
+      2017,
+      5.7
+    ],
+    [
+      "tarzan_and_the_lost_city",
+      "adventure",
+      "Tarzan and the Lost City",
+      1998,
+      2.9
+    ],
+    [
       "the_ballad_of_wallis_island",
       "comedy",
       "The Ballad of Wallis Island",
       2025,
       8.0
+    ],
+    [
+      "man_trouble",
+      "mystery-thriller",
+      "Man Trouble",
+      1992,
+      3.8
     ],
     [
       "disneynature_crimson_wing",
@@ -4476,6 +7892,20 @@
       5.8
     ],
     [
+      "the_walking_deceased",
+      "horror",
+      "The Walking Deceased",
+      2015,
+      2.4
+    ],
+    [
+      "dont_look_up_2021",
+      "comedy",
+      "Don't Look Up",
+      2021,
+      6.3
+    ],
+    [
       "molly_maguires",
       "history",
       "The Molly Maguires",
@@ -4488,6 +7918,20 @@
       "The Greatest Hits",
       2024,
       5.8
+    ],
+    [
+      "the_debt_collector_2018",
+      "action",
+      "The Debt Collector",
+      2018,
+      7.5
+    ],
+    [
+      "the_last_gladiators_2011",
+      "documentary",
+      "The Last Gladiators",
+      2011,
+      6.6
     ],
     [
       "nandor_fodor_and_the_talking_mongoose",
@@ -4511,6 +7955,13 @@
       3.4
     ],
     [
+      "trash_fire",
+      "horror",
+      "Trash Fire",
+      2016,
+      6.7
+    ],
+    [
       "subject_two",
       "horror",
       "Subject Two",
@@ -4525,11 +7976,32 @@
       5.6
     ],
     [
+      "the_alabama_solution",
+      "documentary",
+      "The Alabama Solution",
+      2025,
+      9.1
+    ],
+    [
       "the_harbinger",
       "horror",
       "The Harbinger",
       2022,
       5.4
+    ],
+    [
+      "coming_through_the_rye",
+      "drama",
+      "Coming Through the Rye",
+      2016,
+      6.8
+    ],
+    [
+      "the_eight_hundred",
+      "war",
+      "The Eight Hundred",
+      2021,
+      6.7
     ],
     [
       "the_exorcism_of_god",
@@ -4553,6 +8025,13 @@
       2.0
     ],
     [
+      "the_summit_of_the_gods",
+      "animation",
+      "The Summit of the Gods",
+      2021,
+      8.1
+    ],
+    [
       "the_count_of_monte_cristo_2024",
       "action",
       "The Count of Monte Cristo",
@@ -4560,11 +8039,60 @@
       7.9
     ],
     [
+      "sew_torn",
+      "mystery-thriller",
+      "Sew Torn",
+      2025,
+      6.9
+    ],
+    [
+      "the_game_changers",
+      "documentary",
+      "The Game Changers",
+      2019,
+      6.6
+    ],
+    [
+      "1206531-tennessee",
+      "drama",
+      "Tennessee",
+      2009,
+      4.8
+    ],
+    [
       "the_colors_within",
       "anime",
       "The Colors Within",
       2025,
       7.6
+    ],
+    [
+      "tapawingo",
+      "comedy",
+      "Tapawingo",
+      2025,
+      5.8
+    ],
+    [
+      "accidental_texan",
+      "comedy",
+      "Accidental Texan",
+      2024,
+      5.3
+    ],
+    [
+      "how_the_garcia_girls_spent_their_summer",
+      "romance",
+      "How the Garcia Girls Spent Their Summer",
+      2008,
+      7.1
+    ],
+    [
+      "the_lost_children_2024",
+      "documentary",
+      "The Lost Children",
+      2024,
+      null
     ],
     [
       "the_first_slam_dunk",
@@ -4581,11 +8109,53 @@
       6.6
     ],
     [
+      "william_tell",
+      "action",
+      "William Tell",
+      2025,
+      5.6
+    ],
+    [
+      "late_show",
+      "comedy",
+      "The Late Show",
+      1977,
+      8.0
+    ],
+    [
+      "long_strange_trip_the_untold_story_of_the_grateful_dead",
+      "music",
+      "Long Strange Trip",
+      2017,
+      8.4
+    ],
+    [
+      "the_baker",
+      "crime",
+      "The Baker",
+      2023,
+      5.2
+    ],
+    [
       "september_tapes",
       "war",
       "September Tapes",
       2004,
       4.4
+    ],
+    [
+      "the_sparks_brothers",
+      "music",
+      "The Sparks Brothers",
+      2021,
+      7.9
+    ],
+    [
+      "the_day_shall_come",
+      "comedy",
+      "The Day Shall Come",
+      2019,
+      6.5
     ],
     [
       "the_worst_person_in_the_world",
@@ -4602,6 +8172,20 @@
       6.8
     ],
     [
+      "the_arrangement",
+      "romance",
+      "The Arrangement",
+      1969,
+      5.0
+    ],
+    [
+      "the_spy_gone_north",
+      "crime",
+      "The Spy Gone North",
+      2018,
+      7.1
+    ],
+    [
       "holding_trevor",
       "romance",
       "Holding Trevor",
@@ -4614,6 +8198,13 @@
       "DOSED: The Trip of a Lifetime",
       2023,
       7.8
+    ],
+    [
+      "the_opening_act",
+      "comedy",
+      "The Opening Act",
+      2020,
+      6.8
     ],
     [
       "laughing_policeman",
@@ -4637,6 +8228,13 @@
       4.4
     ],
     [
+      "1074505-touch",
+      "comedy",
+      "Touch",
+      1997,
+      4.9
+    ],
+    [
       "the_return_2024",
       "adventure",
       "The Return",
@@ -4651,11 +8249,25 @@
       6.1
     ],
     [
+      "the_best_you_can",
+      "romance",
+      "The Best You Can",
+      2025,
+      6.1
+    ],
+    [
       "trade_of_innocents",
       "mystery-thriller",
       "Trade of Innocents",
       2012,
       3.8
+    ],
+    [
+      "to_the_stars",
+      "lgbtq",
+      "To the Stars",
+      2019,
+      6.6
     ],
     [
       "thelma_the_unicorn",
@@ -4679,11 +8291,32 @@
       5.8
     ],
     [
+      "theyll_love_me_when_im_dead",
+      "documentary",
+      "They'll Love Me When I'm Dead",
+      2018,
+      7.6
+    ],
+    [
       "the_christophers",
       "comedy",
       "The Christophers",
       2025,
       7.8
+    ],
+    [
+      "the_king",
+      "music",
+      "The King",
+      2018,
+      7.0
+    ],
+    [
+      "the_volcano_rescue_from_whakaari",
+      "documentary",
+      "The Volcano: Rescue From Whakaari",
+      2022,
+      7.0
     ],
     [
       "the_last_deal_2023",
@@ -4700,6 +8333,20 @@
       5.2
     ],
     [
+      "run_the_tide_2016",
+      "drama",
+      "Run the Tide",
+      2016,
+      4.0
+    ],
+    [
+      "a-wedding-for-bella",
+      "romance",
+      "The Bread, My Sweet",
+      2003,
+      6.0
+    ],
+    [
       "the_miracle_club",
       "comedy",
       "The Miracle Club",
@@ -4707,11 +8354,25 @@
       5.7
     ],
     [
+      "the_waterdance",
+      "drama",
+      "The Waterdance",
+      1992,
+      7.3
+    ],
+    [
       "the_tank_2023",
       "horror",
       "The Tank",
       2023,
       5.2
+    ],
+    [
+      "zurawski_v_texas",
+      "documentary",
+      "Zurawski v Texas",
+      2024,
+      8.3
     ],
     [
       "10009799-caller",
@@ -4742,6 +8403,27 @@
       7.6
     ],
     [
+      "the_free_world",
+      "romance",
+      "The Free World",
+      2016,
+      5.2
+    ],
+    [
+      "bigger_than_the_sky",
+      "comedy",
+      "Bigger Than the Sky",
+      2005,
+      3.5
+    ],
+    [
+      "the_american_question",
+      "documentary",
+      "The American Question",
+      2024,
+      null
+    ],
+    [
       "sterile_cuckoo",
       "comedy",
       "The Sterile Cuckoo",
@@ -4749,11 +8431,32 @@
       6.6
     ],
     [
+      "the_cigarette_surfboard",
+      "documentary",
+      "The Cigarette Surfboard",
+      2024,
+      null
+    ],
+    [
       "to_sleep_with_anger",
       "drama",
       "To Sleep With Anger",
       1990,
       7.5
+    ],
+    [
+      "i_do_until_i_dont",
+      "romance",
+      "I Do... Until I Don't",
+      2017,
+      4.1
+    ],
+    [
+      "the_year_of_the_dog",
+      "drama",
+      "The Year of the Dog",
+      2023,
+      null
     ],
     [
       "the_invisible_raptor",
@@ -4789,6 +8492,13 @@
       "Bob Trevino Likes It",
       2025,
       7.8
+    ],
+    [
+      "touching_home",
+      "drama",
+      "Touching Home",
+      2008,
+      5.8
     ],
     [
       "the_supremes_at_earls_all_you_can_eat",
@@ -4833,6 +8543,20 @@
       8.7
     ],
     [
+      "jfk_revisited_through_the_looking_glass",
+      "documentary",
+      "JFK Revisited: Through the Looking Glass",
+      2021,
+      6.3
+    ],
+    [
+      "the_tribes_of_palos_verdes",
+      "comedy",
+      "The Tribes of Palos Verdes",
+      2017,
+      5.4
+    ],
+    [
       "the_life_and_hard_times_of_guy_terrifico",
       "comedy",
       "The Life and Hard Times of Guy Terrifico",
@@ -4859,6 +8583,13 @@
       "The Banker",
       2020,
       6.8
+    ],
+    [
+      "the_field_guide_to_evil",
+      "horror",
+      "The Field Guide to Evil",
+      2019,
+      6.5
     ],
     [
       "dont_make_me_go",
@@ -4896,6 +8627,20 @@
       5.8
     ],
     [
+      "the_commandants_shadow",
+      "history",
+      "The Commandant's Shadow",
+      2024,
+      7.6
+    ],
+    [
+      "me_you_them",
+      "comedy",
+      "Me, You, Them",
+      2001,
+      6.7
+    ],
+    [
       "the_seed_of_the_sacred_fig",
       "crime",
       "The Seed of the Sacred Fig",
@@ -4917,6 +8662,34 @@
       7.9
     ],
     [
+      "trick_r_treat",
+      "horror",
+      "Trick 'r Treat",
+      2025,
+      7.5
+    ],
+    [
+      "three_of_hearts",
+      "romance",
+      "Three of Hearts",
+      1993,
+      6.4
+    ],
+    [
+      "the_pickle_recipe",
+      "comedy",
+      "The Pickle Recipe",
+      2016,
+      5.6
+    ],
+    [
+      "trouble_man",
+      "crime",
+      "Trouble Man",
+      1972,
+      2.5
+    ],
+    [
       "turn_it_up",
       "crime",
       "Turn It Up",
@@ -4929,6 +8702,34 @@
       "The Legend of Molly Johnson",
       2022,
       6.6
+    ],
+    [
+      "locusts",
+      "drama",
+      "The Locusts",
+      1997,
+      5.4
+    ],
+    [
+      "alone_together_2022",
+      "romance",
+      "Alone Together",
+      2022,
+      4.6
+    ],
+    [
+      "sometimes_they_come_backfor_more_1999",
+      "horror",
+      "Sometimes They Come Back... for More",
+      1998,
+      3.5
+    ],
+    [
+      "grand_theft_hamlet",
+      "documentary",
+      "Grand Theft Hamlet",
+      2025,
+      7.9
     ],
     [
       "the_4_30_movie",
@@ -4959,11 +8760,53 @@
       5.1
     ],
     [
+      "the_charnel_house",
+      "horror",
+      "The Charnel House",
+      2016,
+      4.9
+    ],
+    [
+      "the_cave_2019",
+      "documentary",
+      "The Cave",
+      2019,
+      8.3
+    ],
+    [
+      "1021262-thirst",
+      "horror",
+      "Thirst",
+      1979,
+      6.8
+    ],
+    [
+      "10007714-situation",
+      "war",
+      "The Situation",
+      2006,
+      5.3
+    ],
+    [
+      "village_barbershop",
+      "drama",
+      "The Village Barbershop",
+      2009,
+      5.5
+    ],
+    [
       "the_human_comedy_1943",
       "comedy",
       "The Human Comedy",
       1943,
       6.6
+    ],
+    [
+      "the_metropolitan_opera_grounded",
+      "music",
+      "The Metropolitan Opera: Grounded",
+      2024,
+      null
     ],
     [
       "tony_2026",
@@ -4980,6 +8823,13 @@
       5.2
     ],
     [
+      "thats_what_she_said_2012",
+      "comedy",
+      "That's What She Said",
+      2012,
+      3.0
+    ],
+    [
       "to_kill_a_tiger",
       "documentary",
       "To Kill a Tiger",
@@ -4987,11 +8837,74 @@
       8.3
     ],
     [
+      "joshua_teenager_vs_superpower",
+      "documentary",
+      "Joshua: Teenager vs. Superpower",
+      2017,
+      8.4
+    ],
+    [
+      "the_beach_boys",
+      "music",
+      "The Beach Boys",
+      2024,
+      6.9
+    ],
+    [
+      "the_lost_girls_2022",
+      "fantasy",
+      "The Lost Girls",
+      2022,
+      4.1
+    ],
+    [
       "the_wilde_wedding",
       "romance",
       "The Wilde Wedding",
       2017,
       5.1
+    ],
+    [
+      "tone_deaf",
+      "horror",
+      "Tone-Deaf",
+      2019,
+      5.0
+    ],
+    [
+      "the_flood_2023",
+      "mystery-thriller",
+      "The Flood",
+      2023,
+      4.0
+    ],
+    [
+      "the_third_wife",
+      "drama",
+      "The Third Wife",
+      2019,
+      7.1
+    ],
+    [
+      "they_wait_in_the_dark",
+      "horror",
+      "They Wait in the Dark",
+      2022,
+      6.6
+    ],
+    [
+      "the_quarry_2020",
+      "crime",
+      "The Quarry",
+      2020,
+      5.5
+    ],
+    [
+      "federer_twelve_final_days",
+      "documentary",
+      "Federer: Twelve Final Days",
+      2024,
+      5.4
     ],
     [
       "the_dare",
@@ -5008,6 +8921,34 @@
       7.9
     ],
     [
+      "is_that_black_enough_for_you",
+      "documentary",
+      "Is That Black Enough for You?!?",
+      2022,
+      8.1
+    ],
+    [
+      "a_tuba_to_cuba",
+      "music",
+      "A Tuba to Cuba",
+      2019,
+      7.8
+    ],
+    [
+      "the_sky_is_everywhere",
+      "drama",
+      "The Sky is Everywhere",
+      2022,
+      6.1
+    ],
+    [
+      "needle_in_a_timestack",
+      "sci-fi",
+      "Needle in a Timestack",
+      2021,
+      4.8
+    ],
+    [
       "te_ata",
       "history",
       "Te Ata",
@@ -5020,6 +8961,20 @@
       "The Best Man",
       2023,
       3.9
+    ],
+    [
+      "the_janes",
+      "history",
+      "The Janes",
+      2022,
+      8.1
+    ],
+    [
+      "turn_every_page_the_adventures_of_robert_caro_and_robert_gottlieb",
+      "biography",
+      "Turn Every Page: The Adventures of Robert Caro and Robert Gottlieb",
+      2022,
+      8.1
     ],
     [
       "the_last_man_2019",
@@ -5043,6 +8998,13 @@
       6.9
     ],
     [
+      "ill_be_right_there",
+      "comedy",
+      "I'll Be Right There",
+      2024,
+      6.7
+    ],
+    [
       "the_weekend_2018",
       "comedy",
       "The Weekend",
@@ -5057,6 +9019,20 @@
       5.8
     ],
     [
+      "take_me_to_the_river_2014",
+      "music",
+      "Take Me to the River",
+      2014,
+      5.7
+    ],
+    [
+      "the_alpinist_2021",
+      "documentary",
+      "The Alpinist",
+      2021,
+      7.2
+    ],
+    [
       "et_tu",
       "horror",
       "Et Tu",
@@ -5069,6 +9045,41 @@
       "Thangalaan",
       2024,
       null
+    ],
+    [
+      "the_five_devils",
+      "fantasy",
+      "The Five Devils",
+      2023,
+      6.9
+    ],
+    [
+      "thought_crimes_the_case_of_the_cannibal_cop",
+      "documentary",
+      "Thought Crimes",
+      2015,
+      6.2
+    ],
+    [
+      "tysons_run",
+      "drama",
+      "Tyson's Run",
+      2022,
+      6.1
+    ],
+    [
+      "the_stranger_2024",
+      "horror",
+      "The Stranger",
+      2024,
+      5.6
+    ],
+    [
+      "transhood",
+      "documentary",
+      "Transhood",
+      2020,
+      7.9
     ],
     [
       "the_baltimorons",
@@ -5092,11 +9103,25 @@
       4.5
     ],
     [
+      "we_are_together_the_children_of_agape_choir",
+      "music",
+      "We Are Together",
+      2006,
+      7.5
+    ],
+    [
       "1123295-homecoming",
       "drama",
       "The Homecoming",
       1973,
       8.7
+    ],
+    [
+      "the_territory_2022",
+      "documentary",
+      "The Territory",
+      2022,
+      8.2
     ],
     [
       "tango_shalom",
@@ -5111,6 +9136,13 @@
       "The Roads Not Taken",
       2020,
       5.2
+    ],
+    [
+      "tru_loved",
+      "romance",
+      "Tru Loved",
+      2008,
+      4.9
     ],
     [
       "the_pope_must_die",
@@ -5134,6 +9166,13 @@
       5.6
     ],
     [
+      "the_encampments",
+      "documentary",
+      "The Encampments",
+      2025,
+      7.2
+    ],
+    [
       "tick_tick_boom",
       "musical",
       "Tick, Tick... Boom!",
@@ -5141,11 +9180,39 @@
       7.6
     ],
     [
+      "the_origin_of_evil",
+      "mystery-thriller",
+      "The Origin of Evil",
+      2023,
+      7.4
+    ],
+    [
       "grandfather",
       "history",
       "The Grandfather",
       1999,
       6.7
+    ],
+    [
+      "the_seventh_dwarf",
+      "fantasy",
+      "The Seventh Dwarf",
+      2015,
+      5.3
+    ],
+    [
+      "the_blood_is_at_the_doorstep",
+      "documentary",
+      "The Blood Is at the Doorstep",
+      2017,
+      8.6
+    ],
+    [
+      "the_fight_2020",
+      "documentary",
+      "The Fight",
+      2020,
+      7.8
     ],
     [
       "the_big_bend",
@@ -5160,6 +9227,20 @@
       "Tantura",
       2022,
       7.8
+    ],
+    [
+      "toni_morrison_the_pieces_i_am",
+      "documentary",
+      "Toni Morrison: The Pieces I Am",
+      2019,
+      8.1
+    ],
+    [
+      "adjust_your_tracking_the_untold_story_of_the_vhs_collector",
+      "documentary",
+      "Adjust Your Tracking: The Untold Story of the VHS Collector",
+      2012,
+      6.9
     ],
     [
       "terra_willy",
@@ -5183,11 +9264,25 @@
       6.4
     ],
     [
+      "the_old_way",
+      "western",
+      "The Old Way",
+      2023,
+      5.2
+    ],
+    [
       "the_last_journey",
       "documentary",
       "The Last Journey",
       2024,
       7.2
+    ],
+    [
+      "the_last_thing_mary_saw",
+      "horror",
+      "The Last Thing Mary Saw",
+      2021,
+      6.5
     ],
     [
       "the_black_string",
@@ -5197,11 +9292,39 @@
       6.2
     ],
     [
+      "the_last_rider_2022",
+      "sports",
+      "The Last Rider",
+      2023,
+      7.2
+    ],
+    [
+      "the_aviary_2022",
+      "mystery-thriller",
+      "The Aviary",
+      2022,
+      5.9
+    ],
+    [
+      "if_i_leave_here_tomorrow_a_film_about_lynyrd_skynyrd",
+      "biography",
+      "If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd",
+      2018,
+      8.8
+    ],
+    [
       "the_lennon_report",
       "history",
       "The Lennon Report",
       2016,
       6.2
+    ],
+    [
+      "neil_young_harvest_time",
+      "music",
+      "Neil Young: Harvest Time",
+      2022,
+      7.3
     ],
     [
       "transfusion_2022",
@@ -5211,6 +9334,83 @@
       6.0
     ],
     [
+      "the_tomorrow_man_2019",
+      "romance",
+      "The Tomorrow Man",
+      2019,
+      5.7
+    ],
+    [
+      "the_reflektor_tapes",
+      "music",
+      "The Reflektor Tapes",
+      2015,
+      4.1
+    ],
+    [
+      "the_persian_version",
+      "romance",
+      "The Persian Version",
+      2023,
+      6.6
+    ],
+    [
+      "war_requiem",
+      "musical",
+      "The War Requiem",
+      1988,
+      8.5
+    ],
+    [
+      "cemetery_club",
+      "comedy",
+      "The Cemetery Club",
+      1993,
+      6.2
+    ],
+    [
+      "the_first_wave",
+      "documentary",
+      "The First Wave",
+      2021,
+      7.9
+    ],
+    [
+      "the_family_i_had",
+      "documentary",
+      "The Family I Had",
+      2017,
+      7.5
+    ],
+    [
+      "the_mission_2023",
+      "documentary",
+      "The Mission",
+      2023,
+      7.4
+    ],
+    [
+      "zz_top_that_little_ol_band_from_texas",
+      "music",
+      "ZZ Top: That Little Ol' Band From Texas",
+      2019,
+      7.0
+    ],
+    [
+      "the_insurrectionist_next_door",
+      "documentary",
+      "The Insurrectionist Next Door",
+      2023,
+      5.5
+    ],
+    [
+      "twas_the_fight_before_christmas",
+      "documentary",
+      "'Twas the Fight Before Christmas",
+      2021,
+      8.0
+    ],
+    [
       "the_ballad_of_gregorio_cortez",
       "history",
       "The Ballad of Gregorio Cortez",
@@ -5218,11 +9418,25 @@
       7.7
     ],
     [
+      "the_price_of_everything",
+      "documentary",
+      "The Price of Everything",
+      2018,
+      7.6
+    ],
+    [
       "the_aeronauts",
       "adventure",
       "The Aeronauts",
       2019,
       6.5
+    ],
+    [
+      "the_fight_within",
+      "drama",
+      "The Fight Within",
+      2016,
+      6.3
     ],
     [
       "the_gateway",
@@ -5239,11 +9453,32 @@
       5.4
     ],
     [
+      "the_cowboy_and_the_queen",
+      "documentary",
+      "The Cowboy and the Queen",
+      2024,
+      null
+    ],
+    [
+      "this_is_gwar",
+      "music",
+      "This is GWAR",
+      2021,
+      8.2
+    ],
+    [
       "the_righteous",
       "horror",
       "The Righteous",
       2021,
       7.5
+    ],
+    [
+      "the_true_adventures_of_wolfboy",
+      "drama",
+      "The True Adventures of Wolfboy",
+      2019,
+      6.6
     ],
     [
       "the_devil_you_know_2022",
@@ -5260,11 +9495,32 @@
       4.8
     ],
     [
+      "the_velvet_queen",
+      "documentary",
+      "The Velvet Queen",
+      2021,
+      8.0
+    ],
+    [
+      "this_much_i_know_to_be_true",
+      "music",
+      "This Much I Know To Be True",
+      2022,
+      8.0
+    ],
+    [
       "being_mary_tyler_moore",
       "biography",
       "Being Mary Tyler Moore",
       2023,
       7.8
+    ],
+    [
+      "the_moor_2023",
+      "horror",
+      "The Moor",
+      2023,
+      7.1
     ],
     [
       "the_dry",
@@ -5274,6 +9530,41 @@
       7.2
     ],
     [
+      "the_show_2020",
+      "fantasy",
+      "The Show",
+      2020,
+      6.6
+    ],
+    [
+      "the_etruscan_smile",
+      "drama",
+      "The Etruscan Smile",
+      2019,
+      5.9
+    ],
+    [
+      "trouble_man_2025",
+      "crime",
+      "Trouble Man",
+      2025,
+      null
+    ],
+    [
+      "the_ghosts_of_edendale",
+      "horror",
+      "The Ghosts of Edendale",
+      2003,
+      6.8
+    ],
+    [
+      "pete_n_tillie",
+      "comedy",
+      "Pete 'n' Tillie",
+      1972,
+      7.9
+    ],
+    [
       "the_revival_2018",
       "lgbtq",
       "The Revival",
@@ -5281,11 +9572,46 @@
       6.5
     ],
     [
+      "bonus_track",
+      "romance",
+      "Bonus Track",
+      2024,
+      6.2
+    ],
+    [
+      "romantic_englishwoman",
+      "comedy",
+      "The Romantic Englishwoman",
+      1975,
+      6.0
+    ],
+    [
+      "the_corrupted_2020",
+      "crime",
+      "The Corrupted",
+      2020,
+      4.8
+    ],
+    [
       "the_cave_2019_2",
       "mystery-thriller",
       "The Cave",
       2019,
       3.6
+    ],
+    [
+      "the_league",
+      "history",
+      "The League",
+      2023,
+      8.1
+    ],
+    [
+      "the_civil_dead",
+      "comedy",
+      "The Civil Dead",
+      2023,
+      7.0
     ],
     [
       "two_heads_creek",
@@ -5300,6 +9626,13 @@
       "The Cuban",
       2020,
       6.5
+    ],
+    [
+      "hitler_the_last_ten_days",
+      "history",
+      "Hitler: The Last Ten Days",
+      1973,
+      3.3
     ],
     [
       "the_sixth",
@@ -5323,6 +9656,20 @@
       7.1
     ],
     [
+      "the_canterville_ghost_2023",
+      "fantasy",
+      "The Canterville Ghost",
+      2023,
+      5.9
+    ],
+    [
+      "to_a_land_unknown",
+      "crime",
+      "To a Land Unknown",
+      2024,
+      8.2
+    ],
+    [
       "the_arc_of_oblivion",
       "documentary",
       "The Arc of Oblivion",
@@ -5337,11 +9684,32 @@
       7.0
     ],
     [
+      "the_life_and_mind_of_mark_defriest",
+      "documentary",
+      "The Life and Mind of Mark DeFriest",
+      2014,
+      7.0
+    ],
+    [
+      "the_boy_from_medellin",
+      "music",
+      "The Boy From Medellín",
+      2020,
+      6.3
+    ],
+    [
       "the_laureate",
       "romance",
       "The Laureate",
       2022,
       4.7
+    ],
+    [
+      "the_reason_i_jump",
+      "documentary",
+      "The Reason I Jump",
+      2021,
+      7.9
     ],
     [
       "the_lonely_passion_of_judith_hearne",
@@ -5386,11 +9754,39 @@
       null
     ],
     [
+      "tulsa_2020",
+      "comedy",
+      "Tulsa",
+      2020,
+      null
+    ],
+    [
+      "the_fire_that_took_her",
+      "documentary",
+      "The Fire that Took Her",
+      2022,
+      8.3
+    ],
+    [
       "tig_notaro_happy_to_be_here",
       "comedy",
       "Tig Notaro: Happy to Be Here",
       2018,
       7.5
+    ],
+    [
+      "legionnaires_trail",
+      "war",
+      "The Legion",
+      2020,
+      2.0
+    ],
+    [
+      "tig_notaro_hello_again",
+      "comedy",
+      "Tig Notaro: Hello Again",
+      2024,
+      null
     ],
     [
       "common_threads_stories_from_the_quilt",
@@ -5400,11 +9796,46 @@
       9.3
     ],
     [
+      "three_minutes_a_lengthening",
+      "documentary",
+      "Three Minutes - A Lengthening",
+      2022,
+      8.7
+    ],
+    [
+      "midnight_traveler",
+      "war",
+      "Midnight Traveler",
+      2019,
+      8.1
+    ],
+    [
+      "elizabeth_taylor_the_lost_tapes",
+      "biography",
+      "Elizabeth Taylor: The Lost Tapes",
+      2024,
+      7.1
+    ],
+    [
       "the_grab",
       "documentary",
       "The Grab",
       2024,
       6.8
+    ],
+    [
+      "the_trouble_with_you",
+      "drama",
+      "The Trouble With You",
+      2018,
+      6.6
+    ],
+    [
+      "the_tribe_2018",
+      "comedy",
+      "The Tribe",
+      2018,
+      5.3
     ],
     [
       "stardog_and_turbocat",
@@ -5421,11 +9852,25 @@
       8.7
     ],
     [
+      "the_congressman_2016",
+      "drama",
+      "The Congressman",
+      2016,
+      5.0
+    ],
+    [
       "the_estate_2022",
       "comedy",
       "The Estate",
       2022,
       4.3
+    ],
+    [
+      "gabby_giffords_wont_back_down",
+      "documentary",
+      "Gabby Giffords Won't Back Down",
+      2022,
+      8.0
     ],
     [
       "try_harder",
@@ -5449,11 +9894,25 @@
       4.7
     ],
     [
+      "harder_than_the_rock",
+      "music",
+      "Harder Than the Rock",
+      2024,
+      null
+    ],
+    [
       "the_strong_ones",
       "lgbtq",
       "The Strong Ones",
       2020,
       7.9
+    ],
+    [
+      "the_stones_and_brian_jones",
+      "music",
+      "The Stones and Brian Jones",
+      2023,
+      7.6
     ],
     [
       "the_storied_life_of_aj_fikry",
@@ -5463,11 +9922,46 @@
       5.2
     ],
     [
+      "the_shakedown",
+      "crime",
+      "The Shakedown",
+      2024,
+      null
+    ],
+    [
+      "the_tale_of_silyan",
+      "drama",
+      "The Tale of Silyan",
+      2025,
+      8.1
+    ],
+    [
+      "this_is_everything_gigi_gorgeous",
+      "documentary",
+      "This Is Everything: Gigi Gorgeous",
+      2017,
+      7.1
+    ],
+    [
+      "the_demons",
+      "drama",
+      "The Demons",
+      2015,
+      6.3
+    ],
+    [
       "death_of_a_telemarketer",
       "mystery-thriller",
       "Death of a Telemarketer",
       2021,
       4.6
+    ],
+    [
+      "1020906-tattoo",
+      "horror",
+      "Tattoo",
+      1981,
+      4.5
     ],
     [
       "royal_hunt_of_the_sun",
@@ -5491,11 +9985,39 @@
       7.0
     ],
     [
+      "the_comedians_guide_to_survival",
+      "comedy",
+      "The Comedian's Guide to Survival",
+      2016,
+      3.8
+    ],
+    [
       "there_are_no_saints",
       "crime",
       "There Are No Saints",
       2022,
       3.7
+    ],
+    [
+      "untruth_the_psychology_of_trumpism",
+      "documentary",
+      "#Untruth: The Psychology of Trumpism",
+      2024,
+      null
+    ],
+    [
+      "the_passengers_of_the_night",
+      "drama",
+      "The Passengers of the Night",
+      2023,
+      7.5
+    ],
+    [
+      "all_that_we_love",
+      "drama",
+      "All That We Love",
+      2025,
+      7.1
     ],
     [
       "the_forgiven_2021",
@@ -5505,11 +10027,32 @@
       6.1
     ],
     [
+      "last_man",
+      "sci-fi",
+      "The Last Man",
+      2002,
+      4.5
+    ],
+    [
+      "the_smell_of_money",
+      "documentary",
+      "The Smell of Money",
+      2023,
+      7.6
+    ],
+    [
       "the_scrapper_2021",
       "crime",
       "The Scrapper",
       2021,
       7.5
+    ],
+    [
+      "the_execution_2021",
+      "crime",
+      "The Execution",
+      2021,
+      7.4
     ],
     [
       "the_justice_of_bunny_king",
@@ -5519,11 +10062,11 @@
       7.4
     ],
     [
-      "all_that_we_love",
-      "drama",
-      "All That We Love",
-      2025,
-      7.1
+      "smashing_time",
+      "comedy",
+      "Smashing Time",
+      1967,
+      6.8
     ],
     [
       "rory_scovel_religion_sex_and_a_few_things_in_between",
@@ -5547,6 +10090,13 @@
       6.9
     ],
     [
+      "the_aspern_papers",
+      "drama",
+      "The Aspern Papers",
+      2019,
+      4.2
+    ],
+    [
       "the_queen_of_my_dreams",
       "comedy",
       "The Queen of My Dreams",
@@ -5568,6 +10118,20 @@
       null
     ],
     [
+      "barbara_walters_tell_me_everything",
+      "biography",
+      "Barbara Walters: Tell Me Everything",
+      2025,
+      8.3
+    ],
+    [
+      "charli_xcx_alone_together",
+      "music",
+      "Charli XCX: Alone Together",
+      2022,
+      6.7
+    ],
+    [
       "the_wilderness",
       "mystery-thriller",
       "The Wilderness",
@@ -5580,6 +10144,13 @@
       "The Conqueror: Hollywood Fallout",
       2024,
       8.1
+    ],
+    [
+      "the_real_charlie_chaplin",
+      "biography",
+      "The Real Charlie Chaplin",
+      2021,
+      7.2
     ],
     [
       "tiny_shoulders_rethinking_barbie",
@@ -5603,6 +10174,34 @@
       6.0
     ],
     [
+      "the_never_list",
+      "drama",
+      "The Never List",
+      2020,
+      5.3
+    ],
+    [
+      "the_last_big_thing",
+      "comedy",
+      "The Last Big Thing",
+      1996,
+      9.3
+    ],
+    [
+      "swim_team_2016",
+      "documentary",
+      "Swim Team",
+      2017,
+      7.5
+    ],
+    [
+      "the_macaluso_sisters",
+      "drama",
+      "The Macaluso Sisters",
+      2021,
+      7.5
+    ],
+    [
       "the_paper_tigers",
       "comedy",
       "The Paper Tigers",
@@ -5610,11 +10209,46 @@
       7.2
     ],
     [
+      "tribhanga_tedhi_medhi_crazy",
+      "drama",
+      "Tribhanga: Tedhi Medhi Crazy",
+      2021,
+      6.0
+    ],
+    [
       "1143937-best_thief_in_the_world",
       "drama",
       "The Best Thief in the World",
       2004,
       5.4
+    ],
+    [
+      "tiger_2024",
+      "nature",
+      "Tiger",
+      2024,
+      null
+    ],
+    [
+      "the_cage_fighter",
+      "documentary",
+      "The Cage Fighter",
+      2018,
+      8.0
+    ],
+    [
+      "fanatical_the_catfishing_of_tegan_and_sara",
+      "documentary",
+      "Fanatical: The Catfishing of Tegan and Sara",
+      2024,
+      7.7
+    ],
+    [
+      "the_quiet_one_2019",
+      "music",
+      "The Quiet One",
+      2019,
+      6.6
     ],
     [
       "tesla",
@@ -5631,11 +10265,46 @@
       6.0
     ],
     [
+      "the_second_coming_of_john_cooper",
+      "comedy",
+      "The Second Coming of John Cooper",
+      2024,
+      null
+    ],
+    [
       "carmin_tropical",
       "lgbtq",
       "Carmín tropical",
       2014,
       7.8
+    ],
+    [
+      "freaknik_the_wildest_party_never_told",
+      "documentary",
+      "Freaknik: The Wildest Party Never Told",
+      2024,
+      6.0
+    ],
+    [
+      "with_friends_like_these_1998",
+      "comedy",
+      "With Friends Like These...",
+      1998,
+      6.0
+    ],
+    [
+      "stars_fell_on_henrietta",
+      "drama",
+      "The Stars Fell on Henrietta",
+      1995,
+      5.7
+    ],
+    [
+      "cleanin_up_the_town_remembering_ghostbusters",
+      "documentary",
+      "Cleanin' Up the Town: Remembering Ghostbusters",
+      2019,
+      7.7
     ],
     [
       "give_or_take",
@@ -5645,11 +10314,39 @@
       7.4
     ],
     [
+      "tom_petty_somewhere_you_feel_free",
+      "music",
+      "Tom Petty: Somewhere You Feel Free",
+      2021,
+      7.2
+    ],
+    [
+      "big_bang",
+      "documentary",
+      "The Big Bang",
+      1990,
+      6.3
+    ],
+    [
+      "the_lady_of_silence_the_mataviejitas_murders",
+      "crime",
+      "The Lady of Silence: The Mataviejitas Murders",
+      2023,
+      5.2
+    ],
+    [
       "chappelles_home_team_donnell_rawlings_a_new_day",
       "comedy",
       "Chappelle's Home Team - Donnell Rawlings: A New Day",
       2024,
       null
+    ],
+    [
+      "bye_bye_tiberias",
+      "documentary",
+      "Bye Bye Tiberias",
+      2024,
+      7.6
     ],
     [
       "sisters_with_transistors",
@@ -5666,11 +10363,32 @@
       7.5
     ],
     [
+      "carol_doda_topless_at_the_condor",
+      "history",
+      "Carol Doda Topless at the Condor",
+      2024,
+      7.0
+    ],
+    [
+      "tankhouse",
+      "comedy",
+      "Tankhouse",
+      2022,
+      5.3
+    ],
+    [
       "off_track_2022",
       "comedy",
       "Off Track",
       2022,
       null
+    ],
+    [
+      "transition_2023",
+      "war",
+      "Transition",
+      2023,
+      8.0
     ],
     [
       "the_kingmaker",
@@ -5680,11 +10398,32 @@
       7.8
     ],
     [
+      "the_american_dream_and_other_fairy_tales",
+      "documentary",
+      "The American Dream and Other Fairy Tales",
+      2022,
+      7.1
+    ],
+    [
+      "the_war_show",
+      "documentary",
+      "The War Show",
+      2016,
+      7.0
+    ],
+    [
       "the_ringleader_the_case_of_the_bling_ring",
       "crime",
       "The Ringleader: The Case of the Bling Ring",
       2023,
       6.6
+    ],
+    [
+      "assholes_a_theory",
+      "documentary",
+      "Assholes: A Theory",
+      2020,
+      6.4
     ],
     [
       "trouble_2018",
@@ -5708,6 +10447,20 @@
       null
     ],
     [
+      "1011581-killing_floor",
+      "drama",
+      "The Killing Floor",
+      1984,
+      8.6
+    ],
+    [
+      "civil_war",
+      "documentary",
+      "Civil War (Or, Who Do We Think We Are)",
+      2021,
+      8.0
+    ],
+    [
       "take_me_to_the_river_new_orleans",
       "music",
       "Take Me to the River: New Orleans",
@@ -5727,6 +10480,13 @@
       "The Mission",
       2022,
       6.8
+    ],
+    [
+      "triple_echo",
+      "war",
+      "The Triple Echo",
+      1973,
+      null
     ],
     [
       "hands_that_bind",
@@ -5750,11 +10510,46 @@
       7.1
     ],
     [
+      "what_the_hell_happened_to_blood_sweat_and_tears",
+      "history",
+      "What the Hell Happened to Blood, Sweat & Tears?",
+      2023,
+      6.8
+    ],
+    [
       "my_true_fairytale",
       "mystery-thriller",
       "My True Fairytale",
       2021,
       5.1
+    ],
+    [
+      "throuple_2024",
+      "romance",
+      "Throuple",
+      2025,
+      null
+    ],
+    [
+      "the_souvenir_part_ii",
+      "romance",
+      "The Souvenir Part II",
+      2021,
+      8.3
+    ],
+    [
+      "there_are_no_fakes",
+      "documentary",
+      "There Are No Fakes",
+      2019,
+      8.0
+    ],
+    [
+      "the_black_guelph",
+      "drama",
+      "The Black Guelph",
+      2024,
+      7.9
     ],
     [
       "the_death_of_dick_long",
@@ -5764,11 +10559,60 @@
       6.9
     ],
     [
+      "tiktok_boom",
+      "documentary",
+      "TikTok, Boom.",
+      2022,
+      6.4
+    ],
+    [
+      "sometime_other_than_now",
+      "romance",
+      "Sometime Other Than Now",
+      2021,
+      5.6
+    ],
+    [
+      "the_whistleblower_2019",
+      "action",
+      "The Whistleblower",
+      2019,
+      4.3
+    ],
+    [
+      "the_last_of_the_winthrops",
+      "documentary",
+      "The Last of the Winthrops",
+      2022,
+      null
+    ],
+    [
+      "the_mountain_within_me",
+      "documentary",
+      "The Mountain Within Me",
+      2024,
+      null
+    ],
+    [
       "tiktok_star_murders",
       "crime",
       "TikTok Star Murders",
       2024,
       null
+    ],
+    [
+      "this_teacher",
+      "drama",
+      "This Teacher",
+      2018,
+      8.5
+    ],
+    [
+      "the_reverend_2021",
+      "biography",
+      "The Reverend",
+      2022,
+      8.0
     ],
     [
       "the_conductor_2022",
@@ -5778,11 +10622,32 @@
       7.9
     ],
     [
+      "the_legend_of_the_underground",
+      "documentary",
+      "The Legend of the Underground",
+      2021,
+      7.9
+    ],
+    [
+      "the_last_animals",
+      "documentary",
+      "The Last Animals",
+      2017,
+      7.8
+    ],
+    [
       "sisters_on_track",
       "documentary",
       "Sisters on Track",
       2021,
       7.1
+    ],
+    [
+      "strange_but_true",
+      "mystery-thriller",
+      "Strange but True",
+      2019,
+      6.6
     ],
     [
       "the_big_dog_2023",
@@ -5792,10 +10657,31 @@
       6.2
     ],
     [
+      "the_seventh_day_2021",
+      "horror",
+      "The Seventh Day",
+      2021,
+      3.9
+    ],
+    [
+      "rise_again_tulsa_and_the_red_summer",
+      "documentary",
+      "Rise Again: Tulsa and the Red Summer",
+      2021,
+      8.5
+    ],
+    [
       "missing_from_fire_trail_road",
       "crime",
       "Missing from Fire Trail Road",
       2024,
+      8.0
+    ],
+    [
+      "the_other_son_2023",
+      "drama",
+      "The Other Son",
+      2023,
       8.0
     ],
     [
@@ -5804,6 +10690,13 @@
       "Two Trains Runnin'",
       2016,
       8.0
+    ],
+    [
+      "the_story_of_film_a_new_generation",
+      "documentary",
+      "The Story of Film: A New Generation",
+      2022,
+      7.9
     ],
     [
       "the_first_54_years",
@@ -5827,11 +10720,60 @@
       null
     ],
     [
+      "steven_tyler_out_on_a_limb",
+      "music",
+      "Steven Tyler: Out on a Limb",
+      2018,
+      null
+    ],
+    [
+      "rule_of_two_walls",
+      "war",
+      "Rule of Two Walls",
+      2024,
+      8.2
+    ],
+    [
       "the_darkness_within_la_luz_del_mundo",
       "crime",
       "The Darkness within La Luz del Mundo",
       2023,
       8.0
+    ],
+    [
+      "two_gods",
+      "documentary",
+      "Two Gods",
+      2021,
+      8.0
+    ],
+    [
+      "the_attachment_diaries",
+      "mystery-thriller",
+      "The Attachment Diaries",
+      2023,
+      7.5
+    ],
+    [
+      "the_sixth_reel",
+      "comedy",
+      "The Sixth Reel",
+      2023,
+      7.0
+    ],
+    [
+      "the_sunday_sessions",
+      "drama",
+      "The Sunday Sessions",
+      2019,
+      7.0
+    ],
+    [
+      "to_kid_or_not_to_kid",
+      "documentary",
+      "To Kid or Not to Kid",
+      2019,
+      6.7
     ],
     [
       "betty_they_say_im_different",
@@ -5855,11 +10797,25 @@
       5.6
     ],
     [
+      "the_heirloom",
+      "comedy",
+      "The Heirloom",
+      2025,
+      null
+    ],
+    [
       "there_was_there_was_not",
       "documentary",
       "There Was, There Was Not",
       2025,
       8.4
+    ],
+    [
+      "last_things",
+      "documentary",
+      "Last Things",
+      2024,
+      8.0
     ],
     [
       "television_event",
@@ -5869,11 +10825,32 @@
       7.8
     ],
     [
+      "the_penny_black",
+      "documentary",
+      "The Penny Black",
+      2021,
+      7.7
+    ],
+    [
+      "the_sit_in_harry_belafonte_hosts_the_tonight_show",
+      "documentary",
+      "The Sit-In: Harry Belafonte Hosts The Tonight Show",
+      2020,
+      7.7
+    ],
+    [
       "the_young_wife",
       "drama",
       "The Young Wife",
       2024,
       7.4
+    ],
+    [
+      "the_kids",
+      "documentary",
+      "The Kids",
+      2021,
+      7.3
     ],
     [
       "the_white_fortress",
@@ -5883,6 +10860,20 @@
       7.3
     ],
     [
+      "the_browsing_effect",
+      "comedy",
+      "The Browsing Effect",
+      2018,
+      7.0
+    ],
+    [
+      "the_last_mountain_2022",
+      "documentary",
+      "The Last Mountain",
+      2021,
+      7.0
+    ],
+    [
       "the_wheel_2021",
       "drama",
       "The Wheel",
@@ -5890,11 +10881,53 @@
       6.8
     ],
     [
+      "so_much_tenderness",
+      "drama",
+      "So Much Tenderness",
+      2022,
+      6.7
+    ],
+    [
       "the_brain_that_wouldnt_die",
       "horror",
       "The Brain that Wouldn't Die",
       2020,
       6.6
+    ],
+    [
+      "queen_tut",
+      "comedy",
+      "Queen Tut",
+      2024,
+      6.5
+    ],
+    [
+      "this_much_we_know",
+      "documentary",
+      "This Much We Know",
+      2023,
+      6.3
+    ],
+    [
+      "louder_than_words",
+      "drama",
+      "Louder Than Words",
+      2014,
+      4.0
+    ],
+    [
+      "death_and_taxes_2024",
+      "documentary",
+      "Death & Taxes",
+      2025,
+      null
+    ],
+    [
+      "in_the_trenches_the_making_of_before_dawn",
+      "documentary",
+      "In the Trenches: The Making of Before Dawn",
+      2024,
+      null
     ],
     [
       "phil_wang_wang_in_there_baby",
@@ -5907,6 +10940,27 @@
       "sins_of_the_parents_the_crumbley_trials",
       "crime",
       "Sins of the Parents: The Crumbley Trials",
+      2024,
+      null
+    ],
+    [
+      "that_way_madness_lies",
+      "drama",
+      "That Way Madness Lies ...",
+      2018,
+      null
+    ],
+    [
+      "the_legend_of_tayos",
+      "documentary",
+      "The Legend of Tayos",
+      2021,
+      null
+    ],
+    [
+      "the_stepdaughter_2",
+      "mystery-thriller",
+      "The Stepdaughter 2",
       2024,
       null
     ],
@@ -5925,6 +10979,13 @@
       null
     ],
     [
+      "the_dilemma_of_desire",
+      "documentary",
+      "The Dilemma of Desire",
+      2020,
+      8.0
+    ],
+    [
       "the_gas_station_attendant",
       "documentary",
       "The Gas Station Attendant",
@@ -5939,6 +11000,13 @@
       8.0
     ],
     [
+      "everything_the_real_thing_story",
+      "music",
+      "Everything: The Real Thing Story",
+      2019,
+      7.9
+    ],
+    [
       "we_are_the_thousand",
       "music",
       "We Are The Thousand",
@@ -5951,6 +11019,20 @@
       "The Book Keepers",
       2022,
       7.7
+    ],
+    [
+      "the_sensitives",
+      "documentary",
+      "The Sensitives",
+      2017,
+      7.2
+    ],
+    [
+      "love_in_the_time_of_fentanyl",
+      "documentary",
+      "Love in the Time of Fentanyl",
+      2022,
+      7.0
     ],
     [
       "the_great_basin",
@@ -5988,6 +11070,13 @@
       null
     ],
     [
+      "the_flight_of_bryan",
+      "drama",
+      "The Flight of Bryan",
+      2024,
+      null
+    ],
+    [
       "the_last_twins",
       "history",
       "The Last Twins",
@@ -6009,6 +11098,20 @@
       null
     ],
     [
+      "the_dark_hobby",
+      "documentary",
+      "The Dark Hobby",
+      2021,
+      8.7
+    ],
+    [
+      "to_the_moon_2020",
+      "nature",
+      "To the Moon",
+      2020,
+      8.7
+    ],
+    [
       "i_didnt_see_you_there",
       "documentary",
       "I Didn't See You There",
@@ -6021,6 +11124,13 @@
       "The Waldheim Waltz",
       2018,
       8.2
+    ],
+    [
+      "central_airport_thf",
+      "documentary",
+      "Central Airport THF",
+      2018,
+      8.0
     ],
     [
       "teenage_wasteland",
@@ -6044,6 +11154,20 @@
       7.3
     ],
     [
+      "the_rossellinis",
+      "documentary",
+      "The Rossellinis",
+      2020,
+      7.3
+    ],
+    [
+      "the_mayberry_effect",
+      "documentary",
+      "The Mayberry Effect",
+      2020,
+      7.2
+    ],
+    [
       "the_mountains_are_a_dream_that_call_to_me",
       "drama",
       "The Mountains Are a Dream That Call to Me",
@@ -6051,11 +11175,32 @@
       7.0
     ],
     [
+      "the_departure_2020",
+      "drama",
+      "The Departure",
+      2020,
+      5.0
+    ],
+    [
+      "a_thousand_pines",
+      "documentary",
+      "A Thousand Pines",
+      2023,
+      null
+    ],
+    [
       "samba_traore",
       "drama",
       "Samba Traoré",
       null,
       null
+    ],
+    [
+      "jose_feliciano_behind_this_guitar",
+      "biography",
+      "José Feliciano: Behind This Guitar",
+      2020,
+      8.8
     ],
     [
       "the_earth_is_blue_as_an_orange",
@@ -6079,10 +11224,24 @@
       7.5
     ],
     [
+      "the_everything_pot",
+      "romance",
+      "The Everything Pot",
+      2024,
+      7.4
+    ],
+    [
       "the_sun_never_sets_2026",
       "romance",
       "The Sun Never Sets",
       null,
+      7.3
+    ],
+    [
+      "three_2024_2",
+      "horror",
+      "Three",
+      2023,
       7.3
     ],
     [
@@ -6091,6 +11250,20 @@
       "The Melt Goes on Forever: The Art & Times of David Hammons",
       2023,
       7.0
+    ],
+    [
+      "the_unicorn_2019",
+      "documentary",
+      "The Unicorn",
+      2019,
+      7.0
+    ],
+    [
+      "through_the_plexi_glass_the_last_days_of_the_san_jose",
+      "documentary",
+      "Through the Plexi-Glass: The Last Days of the San Jose",
+      2021,
+      6.8
     ],
     [
       "twiggy_2024",
@@ -6119,6 +11292,55 @@
       "To the End",
       2022,
       6.5
+    ],
+    [
+      "the_mountain",
+      "fantasy",
+      "The Mountain",
+      2023,
+      6.1
+    ],
+    [
+      "1e30d029-e0cc-3b79-ba84-b15c78615bb1",
+      "documentary",
+      "Hollywood Black Trailer",
+      2024,
+      null
+    ],
+    [
+      "5e251429-9c28-3a51-9328-50caa50c3afe",
+      "western",
+      "The Night They Came Home",
+      2024,
+      null
+    ],
+    [
+      "a_town_boyz",
+      "documentary",
+      "A-Town Boyz",
+      2023,
+      null
+    ],
+    [
+      "aint_no_back_to_a_merry_go_round",
+      "documentary",
+      "Ain't No Back to a Merry-Go-Round",
+      2024,
+      null
+    ],
+    [
+      "bedtime_stories_tales_of_love_and_hate",
+      "drama",
+      "Bedtime Stories: Tales of Love and Hate",
+      2024,
+      null
+    ],
+    [
+      "behind_the_trapp",
+      "documentary",
+      "Behind The Trapp",
+      2024,
+      null
     ],
     [
       "black_table",
@@ -6163,6 +11385,13 @@
       null
     ],
     [
+      "i_will_revenge_this_world_with_love_sparadjanov",
+      "drama",
+      "\"I will revenge this world with love\" S.Paradjanov",
+      2024,
+      null
+    ],
+    [
       "katy_perry_the_lifetimes_tour_live_from_paris",
       "music",
       "Katy Perry: The Lifetimes Tour - Live from Paris",
@@ -6177,10 +11406,38 @@
       null
     ],
     [
+      "tale_of_the_tape",
+      "music",
+      "Tale of the Tape",
+      2024,
+      null
+    ],
+    [
       "temporary_shelter",
       "documentary",
       "Temporary Shelter",
       2024,
+      null
+    ],
+    [
+      "the_bad_guy",
+      "documentary",
+      "The Bad Guy",
+      2024,
+      null
+    ],
+    [
+      "the_bones",
+      "documentary",
+      "The Bones",
+      2024,
+      null
+    ],
+    [
+      "the_code_2024",
+      "drama",
+      "The Code",
+      2025,
       null
     ],
     [
@@ -6205,6 +11462,20 @@
       null
     ],
     [
+      "the_fisherman_and_the_banker",
+      "documentary",
+      "The Fisherman and the Banker",
+      2024,
+      null
+    ],
+    [
+      "the_journey_home_2024",
+      "documentary",
+      "The Journey Home",
+      2024,
+      null
+    ],
+    [
       "the_last_blossom_2025",
       "anime",
       "The Last Blossom",
@@ -6212,9 +11483,37 @@
       null
     ],
     [
+      "the_pitch_patient_safetys_next_generation",
+      "documentary",
+      "The Pitch: Patient Safety's Next Generation",
+      2024,
+      null
+    ],
+    [
+      "the_process_2024",
+      "documentary",
+      "The PROcess",
+      2024,
+      null
+    ],
+    [
+      "the_raw_story",
+      "documentary",
+      "The Raw Story",
+      2024,
+      null
+    ],
+    [
       "the_real_zendaya_from_disney_castle_to_dune_dreams",
       "documentary",
       "The Real! Zendaya - From Disney Castle to Dune Dreams",
+      2024,
+      null
+    ],
+    [
+      "the_sharp_edge_of_peace",
+      "documentary",
+      "The Sharp Edge of Peace",
       2024,
       null
     ],
@@ -6240,9 +11539,23 @@
       null
     ],
     [
+      "the_we_should_game",
+      "comedy",
+      "The We Should Game",
+      2024,
+      null
+    ],
+    [
       "they_all_came_out_to_montreux",
       "documentary",
       "They All Came Out to Montreux",
+      2024,
+      null
+    ],
+    [
+      "to_kill_a_mongolian_horse",
+      "drama",
+      "To Kill A Mongolian Horse",
       2024,
       null
     ],

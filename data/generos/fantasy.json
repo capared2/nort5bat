@@ -1,8 +1,32 @@
 {
   "genre": "fantasy",
   "name": "Fantasy",
-  "count": 232,
+  "count": 357,
   "titles": [
+    {
+      "id": "the_dark_knight",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Dark Knight",
+      "original_title": "The Dark Knight",
+      "year": 2008,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.9,
+      "votes": 524110,
+      "tomatometer": 94,
+      "audience_score": 94,
+      "runtime_minutes": 152,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Z5HVTp0CUrjmnUc2qGY2vLEUtzw=/300x450/v2/https://resizing.flixster.com/Wg25mLoPWxjcxXzNyaSF4VGgGE4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiNjZiNWFkLWVhNzEtNDRhMC1iNGIwLTFmY2FkNzllNTJlMi5qcGc=",
+      "plot": "With the help of allies, Lt. Jim Gordon and DA Harvey Dent, Batman is able to keep a tight lid on crime in Gotham City. But when a young criminal calling himself the Joker suddenly throws the town…",
+      "directors": [
+        "Christopher Nolan"
+      ]
+    },
     {
       "id": "pirates_of_the_caribbean_3",
       "category": "fantasy",
@@ -49,6 +73,31 @@
       "plot": "Now in his fifth year at Hogwarts, Harry learns that many in the wizarding community do not know the truth of his encounter with Lord Voldemort. Cornelius Fudge, Minister of Magic, appoints his…",
       "directors": [
         "David Yates"
+      ]
+    },
+    {
+      "id": "the_dark_knight_rises",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Dark Knight Rises",
+      "original_title": "The Dark Knight Rises",
+      "year": 2012,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery & Thriller",
+        "Fantasy"
+      ],
+      "rating": 8.0,
+      "votes": 332034,
+      "tomatometer": 87,
+      "audience_score": 90,
+      "runtime_minutes": 165,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/NiLA3XRbaxWGUDgsdHco9Q-dWAg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8757074_p_v10_ao.jpg",
+      "plot": "It has been eight years since Batman, in collusion with Commissioner Gordon, vanished into the night. Assuming responsibility for the death of Harvey Dent, Batman sacrificed everything for what he…",
+      "directors": [
+        "Christopher Nolan"
       ]
     },
     {
@@ -125,6 +174,31 @@
       "plot": "James Cameron's Academy Award®-winning 2009 epic adventure \"Avatar\", returns to theaters September 23 in stunning 4K High Dynamic Range. On the lush alien world of Pandora live the Na'vi, beings who…",
       "directors": [
         "James Cameron"
+      ]
+    },
+    {
+      "id": "iron_man",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Iron Man",
+      "original_title": "Iron Man",
+      "year": 2008,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "rating": 7.9,
+      "votes": 248453,
+      "tomatometer": 94,
+      "audience_score": 91,
+      "runtime_minutes": 126,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/rglMSA1_pU89PCvU8l49ZRl5Zqo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p170620_p_v8_ac.jpg",
+      "plot": "A billionaire industrialist and genius inventor, Tony Stark (Robert Downey Jr.), is conducting weapons tests overseas, but terrorists kidnap him to force him to build a devastating weapon. Instead,…",
+      "directors": [
+        "Jon Favreau"
       ]
     },
     {
@@ -236,7 +310,7 @@
         "Adventure"
       ],
       "rating": 8.1,
-      "votes": 182917,
+      "votes": 182919,
       "tomatometer": 85,
       "audience_score": 94,
       "runtime_minutes": 140,
@@ -490,6 +564,56 @@
       ]
     },
     {
+      "id": "shrek_2",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Shrek 2",
+      "original_title": "Shrek 2",
+      "year": 2004,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 7.9,
+      "votes": 150254,
+      "tomatometer": 89,
+      "audience_score": 69,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/_RVioR9YPh9HCec1S_uYCJDUQOY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34447_p_v13_bc.jpg",
+      "plot": "After returning from their honeymoon and showing home movies to their friends, Shrek and Fiona learn that her parents have heard that she has married her true love and wish to invite him to their…",
+      "directors": [
+        "Andrew Adamson",
+        "Kelly Asbury"
+      ]
+    },
+    {
+      "id": "donnie_darko",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Donnie Darko",
+      "original_title": "Donnie Darko",
+      "year": null,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "rating": 8.1,
+      "votes": 145372,
+      "tomatometer": 88,
+      "audience_score": 80,
+      "runtime_minutes": 113,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/kXwH3N0otJP436OsnUK9WryXpJU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27378_p_v12_as.jpg",
+      "plot": "In a funny, moving and distinctly mind-bending journey through suburban America, one extraordinary but disenchanted teenager is about to take Time's Arrow for a ride. After surviving a freak…",
+      "directors": [
+        "Richard Kelly"
+      ]
+    },
+    {
       "id": "guardians_of_the_galaxy",
       "category": "sci-fi",
       "type": "movie",
@@ -665,6 +789,53 @@
       ]
     },
     {
+      "id": "ted_2012",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Ted",
+      "original_title": "Ted",
+      "year": 2012,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 6.4,
+      "votes": 120746,
+      "tomatometer": 68,
+      "audience_score": 73,
+      "runtime_minutes": 106,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/XS_9SGGM9bLJ2toRWfAQo_x2Zvs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9047781_p_v13_ad.jpg",
+      "plot": "When John Bennett (Mark Wahlberg) was a little boy, he made a wish that Ted (Seth MacFarlane), his beloved teddy bear, would come alive. Thirty years later, foul-mouthed Ted is still John's constant…",
+      "directors": [
+        "Seth MacFarlane"
+      ]
+    },
+    {
+      "id": "king_kong",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "King Kong",
+      "original_title": "King Kong",
+      "year": 2005,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 8.0,
+      "votes": 117428,
+      "tomatometer": 84,
+      "audience_score": 50,
+      "runtime_minutes": 179,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/yn1oXOjGJCSTJSoPcpRdNzYGTSQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90705_p_v8_an.jpg",
+      "plot": "Peter Jackson's expansive remake of the 1933 classic follows director Carl Denham (Jack Black) and his crew on a journey from New York City to the ominous Skull Island to film a new movie.…",
+      "directors": [
+        "Peter Jackson"
+      ]
+    },
+    {
       "id": "frozen_2013",
       "category": "musical",
       "type": "movie",
@@ -827,7 +998,7 @@
         "Sci-Fi"
       ],
       "rating": 6.8,
-      "votes": 101624,
+      "votes": 101628,
       "tomatometer": 75,
       "audience_score": 82,
       "runtime_minutes": 141,
@@ -861,6 +1032,29 @@
       "plot": "To win the heart of his beloved, a young man named Tristan ventures into the realm of fairies to retrieve a fallen star. What Tristan finds, however, is not a chunk of space rock, but a woman named…",
       "directors": [
         "Matthew Vaughn"
+      ]
+    },
+    {
+      "id": "green_mile",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Green Mile",
+      "original_title": "The Green Mile",
+      "year": 1999,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 7.4,
+      "votes": 99753,
+      "tomatometer": 78,
+      "audience_score": 94,
+      "runtime_minutes": 189,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/P8tdaAgLNFuU35pwxfUAJ6wwsN8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24429_p_v12_bf.jpg",
+      "plot": "Paul Edgecomb walks the mile with a variety of cons. He has never encountered someone like John Coffey, a massive black man convicted of brutally killing a pair of young sisters. Coffey has the size…",
+      "directors": [
+        "Frank Darabont"
       ]
     },
     {
@@ -914,6 +1108,31 @@
       ]
     },
     {
+      "id": "x_men_3_the_last_stand",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "X-Men: The Last Stand",
+      "original_title": "X-Men: The Last Stand",
+      "year": 2006,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": 6.1,
+      "votes": 94612,
+      "tomatometer": 56,
+      "audience_score": 61,
+      "runtime_minutes": 105,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/1fF2f7CzBYSNZ0dTxh7w3eUbh50=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159376_p_v8_ab.jpg",
+      "plot": "The discovery of a cure for mutations leads to a turning point for Mutants (Hugh Jackman, Halle Berry, Famke Janssen, Anna Paquin, Rebecca Romijn, Kelsey Grammer). They may now choose to give up…",
+      "directors": [
+        "Brett Ratner"
+      ]
+    },
+    {
       "id": "captain_america_civil_war",
       "category": "fantasy",
       "type": "movie",
@@ -960,6 +1179,31 @@
       "plot": "When a failed nuclear fusion experiment results in an explosion that kills his wife, Dr. Otto Octavius is transformed into Dr. Octopus, a cyborg with deadly metal tentacles. Doc Ock blames Spider-Man…",
       "directors": [
         "Sam Raimi"
+      ]
+    },
+    {
+      "id": "xmen",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "X-Men",
+      "original_title": "X-Men",
+      "year": 2000,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": 7.5,
+      "votes": 89920,
+      "tomatometer": 82,
+      "audience_score": 83,
+      "runtime_minutes": 104,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/6ekGNSkdJv9OGgvAFnMq02koU9s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25028_p_v8_ab.jpg",
+      "plot": "They are children of the atom, homo superior, the next link in the chain of evolution. Each was born with a unique genetic mutation, which at puberty manifested itself in extraordinary powers. In a…",
+      "directors": [
+        "Bryan Singer"
       ]
     },
     {
@@ -1239,6 +1483,30 @@
       ]
     },
     {
+      "id": "this_is_the_end",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "This Is the End",
+      "original_title": "This Is the End",
+      "year": 2013,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 7.1,
+      "votes": 75836,
+      "tomatometer": 82,
+      "audience_score": 71,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/5PNTXo7EewzhPIsMR0QQvzk6N6Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9627886_p_v10_az.jpg",
+      "plot": "In Hollywood, actor James Franco is throwing a party with a slew of celebrity pals. Among those in attendance are his buddies Jonah Hill, Seth Rogen, Jay Baruchel, Danny McBride and Craig Robinson.…",
+      "directors": [
+        "Seth Rogen",
+        "Evan Goldberg"
+      ]
+    },
+    {
       "id": "snow_white_and_the_huntsman",
       "category": "fantasy",
       "type": "movie",
@@ -1277,7 +1545,7 @@
         "Sci-Fi"
       ],
       "rating": 8.2,
-      "votes": 72383,
+      "votes": 72388,
       "tomatometer": 94,
       "audience_score": 90,
       "runtime_minutes": 181,
@@ -1303,7 +1571,7 @@
         "Comedy"
       ],
       "rating": 6.9,
-      "votes": 71571,
+      "votes": 71572,
       "tomatometer": 83,
       "audience_score": 85,
       "runtime_minutes": 117,
@@ -1366,6 +1634,32 @@
       ]
     },
     {
+      "id": "armageddon",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Armageddon",
+      "original_title": "Armageddon",
+      "year": 1998,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure",
+        "Mystery & Thriller",
+        "Fantasy"
+      ],
+      "rating": 5.3,
+      "votes": 69397,
+      "tomatometer": 42,
+      "audience_score": 73,
+      "runtime_minutes": 150,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/c5IQcvfE3DvOVhAdmTMv8MlaM4k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21422_p_v8_ay.jpg",
+      "plot": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman (Billy Bob Thornton) determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads…",
+      "directors": [
+        "Michael Bay"
+      ]
+    },
+    {
       "id": "rogue_one_a_star_wars_story",
       "category": "sci-fi",
       "type": "movie",
@@ -1412,6 +1706,30 @@
       "plot": "The checkered past of Capt. Jack Sparrow (Johnny Depp) catches up to him when he encounters Angelica (Penélope Cruz), a beautiful pirate that Jack once loved then left. Angelica forces him to…",
       "directors": [
         "Rob Marshall"
+      ]
+    },
+    {
+      "id": "batman",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Batman",
+      "original_title": "Batman",
+      "year": 1989,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 7.2,
+      "votes": 64644,
+      "tomatometer": 77,
+      "audience_score": 84,
+      "runtime_minutes": 126,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/_EkoAczooYMMItMvhRdh_UkVRUQ=/300x450/v2/https://resizing.flixster.com/z-nAkB6sfhbFDtN9mY8ZpJbCpRI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NmZTNlMzU3LTE5YzgtNDU3Ni1hMzg1LWMxMjk2NDQ3NTA4Yi5qcGc=",
+      "plot": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne (Michael Keaton) fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into…",
+      "directors": [
+        "Tim Burton"
       ]
     },
     {
@@ -1716,6 +2034,30 @@
       ]
     },
     {
+      "id": "the_mummy",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Mummy",
+      "original_title": "The Mummy",
+      "year": 1999,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 6.5,
+      "votes": 51443,
+      "tomatometer": 64,
+      "audience_score": 75,
+      "runtime_minutes": 124,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/KOJ1YeZ4PCdLoxFhLCibNTZTKF0=/300x450/v2/https://resizing.flixster.com/V5gQiOpTjrb0JLfyVP2Dyum9i_8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlYWI5MjcxLTE5NDctNDc4OC05ZGI2LWFmODE4YzAyZmRkNC5qcGc=",
+      "plot": "The Mummy is a rousing, suspenseful and horrifying epic about an expedition of treasure-seeking explorers in the Sahara Desert in 1925. Stumbling upon an ancient tomb, the hunters unwittingly set…",
+      "directors": [
+        "Stephen Sommers"
+      ]
+    },
+    {
       "id": "spider_man_no_way_home",
       "category": "fantasy",
       "type": "movie",
@@ -1738,6 +2080,31 @@
       "plot": "For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero's identity is revealed, bringing his Super Hero responsibilities into conflict with his normal life and…",
       "directors": [
         "Jon Watts"
+      ]
+    },
+    {
+      "id": "13_going_on_30",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "13 Going on 30",
+      "original_title": "13 Going on 30",
+      "year": 2004,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Fantasy",
+        "Drama"
+      ],
+      "rating": 6.2,
+      "votes": 50172,
+      "tomatometer": 65,
+      "audience_score": 71,
+      "runtime_minutes": 97,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/eOqWESjmtTJQ2lSacXLhuywQuVA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34314_p_v8_al.jpg",
+      "plot": "A girl who's sick of the social strictures of junior high is transformed into a grownup overnight. In this feel-good fairy tale, teenager Jenna (Christa B. Allen) wants a boyfriend, and when she's…",
+      "directors": [
+        "Gary Winick"
       ]
     },
     {
@@ -1802,7 +2169,7 @@
         "Sci-Fi"
       ],
       "rating": 7.7,
-      "votes": 48059,
+      "votes": 48062,
       "tomatometer": 85,
       "audience_score": 92,
       "runtime_minutes": 149,
@@ -1837,6 +2204,31 @@
       "plot": "While Lex Luthor plots to destroy him once and for all, the Man of Steel returns after a long absence to a much-changed world. Lois Lane has moved on with her life, and society has learned to survive…",
       "directors": [
         "Bryan Singer"
+      ]
+    },
+    {
+      "id": "hotel_transylvania",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Hotel Transylvania",
+      "original_title": "Hotel Transylvania",
+      "year": 2012,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 5.4,
+      "votes": 47502,
+      "tomatometer": 45,
+      "audience_score": 72,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/k5PX0bMA7bCSB2XZ1lIxwCPQFjY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9128632_p_v10_af.jpg",
+      "plot": "When monsters want to get away from it all, they go to Count Dracula's (Adam Sandler) Hotel Transylvania, a lavish resort where they can be themselves without humans around to bother them. On one…",
+      "directors": [
+        "Genndy Tartakovsky"
       ]
     },
     {
@@ -1916,6 +2308,30 @@
       ]
     },
     {
+      "id": "batman_returns",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Batman Returns",
+      "original_title": "Batman Returns",
+      "year": 1992,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 7.0,
+      "votes": 44844,
+      "tomatometer": 81,
+      "audience_score": 73,
+      "runtime_minutes": 126,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/qS3_SvEL-lvOHUTX4XXOTAkgnrE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12631_p_v8_aa.jpg",
+      "plot": "The monstrous Penguin (Danny DeVito), who lives in the sewers beneath Gotham, joins up with wicked shock-headed businessman Max Shreck (Christopher Walken) to topple the Batman (Michael Keaton) once…",
+      "directors": [
+        "Tim Burton"
+      ]
+    },
+    {
       "id": "prince_of_persia_sands_of_time",
       "category": "fantasy",
       "type": "movie",
@@ -1937,6 +2353,80 @@
       "plot": "In the holy city of Alamut resides the Sands of Time, which gives mortals the power to turn back time. After leading an attack on the city, Dastan, the adopted son of Persia's king, acquires a dagger…",
       "directors": [
         "Mike Newell"
+      ]
+    },
+    {
+      "id": "noah_2014",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Noah",
+      "original_title": "Noah",
+      "year": 2014,
+      "genres": [
+        "History",
+        "Drama",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 6.6,
+      "votes": 43390,
+      "tomatometer": 75,
+      "audience_score": 41,
+      "runtime_minutes": 137,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/LNLOY-FKwQEq7NG37JL-69sg__4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9957455_p_v11_ai.jpg",
+      "plot": "When God decides that mankind has become too sinful and must be wiped off the Earth, he chooses Noah (Russell Crowe), a pious man, for a great task. Noah must build an ark large enough to hold his…",
+      "directors": [
+        "Darren Aronofsky"
+      ]
+    },
+    {
+      "id": "van_helsing",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Van Helsing",
+      "original_title": "Van Helsing",
+      "year": 2004,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.3,
+      "votes": 42949,
+      "tomatometer": 24,
+      "audience_score": 57,
+      "runtime_minutes": 132,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/t4IVOf_4EKn4d4MicG_oIIEJ-pg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34434_p_v8_aa.jpg",
+      "plot": "Famed monster slayer Gabriel Van Helsing (Hugh Jackman) is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula (Richard Roxburgh). Anna Valerious (Kate…",
+      "directors": [
+        "Stephen Sommers"
+      ]
+    },
+    {
+      "id": "midnight_in_paris",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Midnight in Paris",
+      "original_title": "Midnight in Paris",
+      "year": 2011,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 7.8,
+      "votes": 42585,
+      "tomatometer": 93,
+      "audience_score": 83,
+      "runtime_minutes": 94,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/sEHJI0iFsDjN-gf1VImU7yAW6IE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8526590_p_v10_aa.jpg",
+      "plot": "Gil Pender is a screenwriter and aspiring novelist. Vacationing in Paris with his fiancée, he has taken to touring the city alone. On one such late-night excursion, Gil encounters a group of strange…",
+      "directors": [
+        "Woody Allen"
       ]
     },
     {
@@ -1963,6 +2453,32 @@
       "plot": "Long-settled into married life and fully domesticated, Shrek begins to long for the days when he felt like a real ogre. Duped into signing a contract with devious Rumpelstiltskin, he finds himself in…",
       "directors": [
         "Mike Mitchell"
+      ]
+    },
+    {
+      "id": "the_lorax_2012",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Dr. Seuss' the Lorax",
+      "original_title": "Dr. Seuss' the Lorax",
+      "year": 2012,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 5.8,
+      "votes": 42321,
+      "tomatometer": 53,
+      "audience_score": 63,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/eWWyBn8q6uhOwQ8MbeD89WGsYWU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8869312_p_v7_bd.jpg",
+      "plot": "Twelve-year-old Ted (Zac Efron) lives in a place virtually devoid of nature; no flowers or trees grow in the town of Thneedville. Ted would very much like to win the heart of Audrey (Taylor Swift),…",
+      "directors": [
+        "Kyle Balda",
+        "Chris Renaud"
       ]
     },
     {
@@ -2113,6 +2629,32 @@
       ]
     },
     {
+      "id": "1196077-cloudy_with_a_chance_of_meatballs",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Cloudy With a Chance of Meatballs",
+      "original_title": "Cloudy With a Chance of Meatballs",
+      "year": 2009,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 7.3,
+      "votes": 35442,
+      "tomatometer": 85,
+      "audience_score": 72,
+      "runtime_minutes": 90,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/fCqF98_e70hY-qy1IG0GB5vpor0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p197825_p_v8_ae.jpg",
+      "plot": "When hard times hit Swallow Falls, its townspeople can only afford to eat sardines. Flint Lockwood, a failed inventor, thinks he has the answer to the town's crisis. He builds a machine that converts…",
+      "directors": [
+        "Christopher Miller",
+        "Phil Lord"
+      ]
+    },
+    {
       "id": "1189344-lovely_bones",
       "category": "fantasy",
       "type": "movie",
@@ -2137,6 +2679,32 @@
       ]
     },
     {
+      "id": "venom_2018",
+      "category": "horror",
+      "type": "movie",
+      "title": "Venom",
+      "original_title": "Venom",
+      "year": 2018,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Horror"
+      ],
+      "rating": 4.5,
+      "votes": 34687,
+      "tomatometer": 31,
+      "audience_score": 80,
+      "runtime_minutes": 112,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/xxpw5NfQvuBxGS5IUfK23PUDSYQ=/300x450/v2/https://resizing.flixster.com/WKOrCI1pVpSpvXmfaD3NIq0ZalA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RiYTFmYWJlLTRhOWYtNDU2Zi04ZjliLTQ2NTI3OWNjYmYyNi53ZWJw",
+      "plot": "Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation. While investigating one of Drake's experiments, Eddie's body merges with the…",
+      "directors": [
+        "Ruben Fleischer"
+      ]
+    },
+    {
       "id": "jack_the_giant_slayer",
       "category": "fantasy",
       "type": "movie",
@@ -2157,6 +2725,29 @@
       "plot": "When young farmhand Jack (Nicholas Hoult) unwittingly opens a portal between his realm and a race of giants, it rekindles an ancient war. Roaming Earth for the first time in centuries, the fearsome…",
       "directors": [
         "Bryan Singer"
+      ]
+    },
+    {
+      "id": "hot_tub_time_machine",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Hot Tub Time Machine",
+      "original_title": "Hot Tub Time Machine",
+      "year": 2010,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 6.3,
+      "votes": 34568,
+      "tomatometer": 64,
+      "audience_score": 56,
+      "runtime_minutes": 99,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/2TfcXYhrmGW8GfU6cyqnek-Vmio=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7820979_p_v8_an.jpg",
+      "plot": "Four pals are stuck in a rut in adulthood: Adam (John Cusack) has just been dumped, Lou (Rob Corddry) is a hopeless party animal, Craig (Craig Robinson) is a henpecked husband, and Jacob (Clark Duke)…",
+      "directors": [
+        "Steve Pink"
       ]
     },
     {
@@ -2209,6 +2800,79 @@
       ]
     },
     {
+      "id": "mummy_tomb_of_the_dragon_emperor",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "original_title": "The Mummy: Tomb of the Dragon Emperor",
+      "year": 2008,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 3.9,
+      "votes": 32470,
+      "tomatometer": 13,
+      "audience_score": 30,
+      "runtime_minutes": 112,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/qLR-27iOyKvT1umNH696beFatAg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176346_p_v8_ba.jpg",
+      "plot": "Cursed by a devious sorceress, China's ruthless Dragon Emperor (Jet Li) and his vast army lie buried in clay for millennia. When young archaeologist Alex O'Connell is tricked into reviving the…",
+      "directors": [
+        "Rob Cohen"
+      ]
+    },
+    {
+      "id": "batman_forever",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Batman Forever",
+      "original_title": "Batman Forever",
+      "year": 1995,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 5.3,
+      "votes": 31996,
+      "tomatometer": 41,
+      "audience_score": 33,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/d22_bsxBNiv_YAdCgWzNOxjK8Og=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16857_p_v8_ac.jpg",
+      "plot": "Batman (Val Kilmer) faces off against two foes: the schizophrenic, horribly scarred former District Attorney Harvey Dent, aka Two-Face (Tommy Lee Jones), and the Riddler (Jim Carrey), a disgruntled…",
+      "directors": [
+        "Joel Schumacher"
+      ]
+    },
+    {
+      "id": "1077027-batman_and_robin",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Batman & Robin",
+      "original_title": "Batman & Robin",
+      "year": 1997,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 3.9,
+      "votes": 31789,
+      "tomatometer": 11,
+      "audience_score": 16,
+      "runtime_minutes": 130,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/x1hAA7lQWevVsV7buvR9kMB6yPc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19491_p_v8_al.jpg",
+      "plot": "This superhero adventure finds Batman (George Clooney) and his partner, Robin (Chris O'Donnell), attempting to the foil the sinister schemes of a deranged set of new villains, most notably the…",
+      "directors": [
+        "Joel Schumacher"
+      ]
+    },
+    {
       "id": "immortals_2011",
       "category": "fantasy",
       "type": "movie",
@@ -2257,6 +2921,30 @@
       "plot": "Defeated by members of the Losers' Club, the evil clown Pennywise returns 27 years later to terrorize the town of Derry, Maine, once again. Now adults, the childhood friends have long since gone…",
       "directors": [
         "Andy Muschietti"
+      ]
+    },
+    {
+      "id": "meet_joe_black",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Meet Joe Black",
+      "original_title": "Meet Joe Black",
+      "year": 1998,
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Drama"
+      ],
+      "rating": 5.9,
+      "votes": 30807,
+      "tomatometer": 48,
+      "audience_score": 81,
+      "runtime_minutes": 180,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/aJSaR75GGky_5_R6OhfyYYmV4Bg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21971_p_v8_aa.jpg",
+      "plot": "Bill Parrish (Anthony Hopkins), businessman and devoted family man, is about to celebrate his 65th birthday. However, before he reaches that landmark, he is visited by Death (Brad Pitt), who has…",
+      "directors": [
+        "Martin Brest"
       ]
     },
     {
@@ -2487,6 +3175,32 @@
       ]
     },
     {
+      "id": "about_time",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "About Time",
+      "original_title": "About Time",
+      "year": 2013,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Fantasy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 6.4,
+      "votes": 24854,
+      "tomatometer": 70,
+      "audience_score": 82,
+      "runtime_minutes": 124,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/mJbdLrD4flhyH99cwDf8ZpYu9PQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9564054_p_v8_ak.jpg",
+      "plot": "When Tim Lake (Domhnall Gleeson) is 21, his father (Bill Nighy) tells him a secret: The men in their family can travel through time. Although he can't change history, Tim resolves to improve his life…",
+      "directors": [
+        "Richard Curtis"
+      ]
+    },
+    {
       "id": "spider_man_into_the_spider_verse",
       "category": "fantasy",
       "type": "movie",
@@ -2528,7 +3242,7 @@
         "Sci-Fi"
       ],
       "rating": 6.0,
-      "votes": 23378,
+      "votes": 23379,
       "tomatometer": 66,
       "audience_score": 72,
       "runtime_minutes": 143,
@@ -2537,6 +3251,53 @@
       "plot": "Once home to the most advanced civilization on Earth, the city of Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the…",
       "directors": [
         "James Wan"
+      ]
+    },
+    {
+      "id": "what_dreams_may_come",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "What Dreams May Come",
+      "original_title": "What Dreams May Come",
+      "year": 1998,
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Drama"
+      ],
+      "rating": 5.5,
+      "votes": 23238,
+      "tomatometer": 51,
+      "audience_score": 84,
+      "runtime_minutes": 113,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/8ww_kxdsUfG422404FHWJbXmy60=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21849_p_v12_am.jpg",
+      "plot": "After Chris Nielsen (Robin Williams) dies in a car accident, he is guided through the afterlife by his spirit guide, Albert (Cuba Gooding Jr.). His new world is beautiful and can be whatever Chris…",
+      "directors": [
+        "Vincent Ward"
+      ]
+    },
+    {
+      "id": "dark_city",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Dark City",
+      "original_title": "Dark City",
+      "year": 1998,
+      "genres": [
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": 7.2,
+      "votes": 23152,
+      "tomatometer": 78,
+      "audience_score": 85,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/GP9KrzDo63RHCFV5qCC9rFwtJus=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20787_p_v10_aa.jpg",
+      "plot": "John Murdoch (Rufus Sewell) awakens alone in a strange hotel to find that he is wanted for a series of brutal murders. The problem is that he can't remember whether he committed the murders or not.…",
+      "directors": [
+        "Alex Proyas"
       ]
     },
     {
@@ -2562,6 +3323,29 @@
       "plot": "Four high school kids discover an old video game console and are drawn into the game's jungle setting, literally becoming the adult avatars they chose. What they discover is that you don't just play…",
       "directors": [
         "Jake Kasdan"
+      ]
+    },
+    {
+      "id": "ted_2",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Ted 2",
+      "original_title": "Ted 2",
+      "year": 2015,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 5.3,
+      "votes": 22194,
+      "tomatometer": 45,
+      "audience_score": 50,
+      "runtime_minutes": 115,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/MyAk__AVPYVM_DKw6rySPusBhw0=/300x450/v2/https://resizing.flixster.com/0ALMsLyyW-NNVh3rBO8-V1GBAoM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg1MmNhOWI1LTUwMzYtNDEwMC05NjNiLTllZDEwMTU2ODMwYi53ZWJw",
+      "plot": "Life has changed drastically for thunder buddies John (Mark Wahlberg), now a bachelor, and best pal Ted (Seth MacFarlane), now married to the woman (Jessica Barth) of his dreams. Problems arise when…",
+      "directors": [
+        "Seth MacFarlane"
       ]
     },
     {
@@ -2612,6 +3396,55 @@
       "plot": "Bullied at school, neglected at home and incredibly lonely, 12-year-old Owen (Kodi Smit-McPhee) spends his days plotting revenge on his tormentors and spends his nights spying on other residents of…",
       "directors": [
         "Matt Reeves"
+      ]
+    },
+    {
+      "id": "brothers_grimm",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Brothers Grimm",
+      "original_title": "The Brothers Grimm",
+      "year": 2005,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.4,
+      "votes": 21594,
+      "tomatometer": 38,
+      "audience_score": 39,
+      "runtime_minutes": 114,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ILCv4DoLsP87sfU5AiuGq_rGUpU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89991_p_v8_ax.jpg",
+      "plot": "The Brothers Grimm, Wilhelm and Jacob, are dysfunctional schemers who go from town to town putting on shows that convince inhabitants they are getting rid of demons. After one such scam, a mysterious…",
+      "directors": [
+        "Terry Gilliam"
+      ]
+    },
+    {
+      "id": "bedtime_stories",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Bedtime Stories",
+      "original_title": "Bedtime Stories",
+      "year": 2008,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 4.4,
+      "votes": 21526,
+      "tomatometer": 27,
+      "audience_score": 55,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/yINa8opigrbcoh2ugAayK25fUpI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p171576_p_v13_aj.jpg",
+      "plot": "Hotel handyman Skeeter Bronson gets an unexpected surprise when he discovers that the tall tales he has been telling his niece and nephew are somehow coming true. Hoping to make the most of the…",
+      "directors": [
+        "Adam Shankman"
       ]
     },
     {
@@ -2689,6 +3522,55 @@
       ]
     },
     {
+      "id": "beautiful_creatures_2013",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Beautiful Creatures",
+      "original_title": "Beautiful Creatures",
+      "year": 2013,
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Drama"
+      ],
+      "rating": 5.4,
+      "votes": 20249,
+      "tomatometer": 47,
+      "audience_score": 54,
+      "runtime_minutes": 123,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/olGGUwRhkhvjoXZyxMe5xjy5zBY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9416314_p_v13_ah.jpg",
+      "plot": "In the small town of Gatlin, S.C., teenage Ethan Wate sees his static world shaken by the arrival of Lena Duchannes, the niece of town patriarch Macon Ravenwood. Immediately, Ethan feels drawn to…",
+      "directors": [
+        "Richard LaGravenese"
+      ]
+    },
+    {
+      "id": "night_at_the_museum_secret_of_the_tomb",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Night at the Museum: Secret of the Tomb",
+      "original_title": "Night at the Museum: Secret of the Tomb",
+      "year": 2014,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 5.0,
+      "votes": 19615,
+      "tomatometer": 48,
+      "audience_score": 57,
+      "runtime_minutes": 97,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/48bx9kNiE-s29BfG60yxTt6GPSA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10569975_p_v13_bh.jpg",
+      "plot": "When the exhibits at New York's Natural History Museum start behaving strangely, Larry Daley (Ben Stiller) -- now the director of nighttime operations -- must find out the cause. He learns that the…",
+      "directors": [
+        "Shawn Levy"
+      ]
+    },
+    {
       "id": "ant_man_and_the_wasp",
       "category": "fantasy",
       "type": "movie",
@@ -2702,7 +3584,7 @@
         "Comedy"
       ],
       "rating": 7.0,
-      "votes": 18635,
+      "votes": 18636,
       "tomatometer": 87,
       "audience_score": 78,
       "runtime_minutes": 118,
@@ -2736,6 +3618,31 @@
       "plot": "\"Thor: Love and Thunder\" finds Thor (Chris Hemsworth) on a journey unlike anything he's ever faced -- a quest for inner peace. But his retirement is interrupted by a galactic killer known as Gorr the…",
       "directors": [
         "Taika Waititi"
+      ]
+    },
+    {
+      "id": "shazam",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Shazam!",
+      "original_title": "Shazam!",
+      "year": 2019,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 7.3,
+      "votes": 17908,
+      "tomatometer": 90,
+      "audience_score": 81,
+      "runtime_minutes": 132,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/gaNAHbuoJhDfT7MixQJ7sg5tOS0=/300x450/v2/https://resizing.flixster.com/Hm4c08vS5kceTzWphzzqJN2FtNY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUxMDhmN2IxLTE0OWYtNDIwYy05ZjVlLTk1MWUwNzJhYjEwMi53ZWJw",
+      "plot": "We all have a superhero inside of us -- it just takes a bit of magic to bring it out. In 14-year-old Billy Batson's case, all he needs to do is shout out one word to transform into the adult…",
+      "directors": [
+        "David F. Sandberg"
       ]
     },
     {
@@ -2812,6 +3719,31 @@
       ]
     },
     {
+      "id": "hotel_transylvania_2",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Hotel Transylvania 2",
+      "original_title": "Hotel Transylvania 2",
+      "year": 2015,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 5.3,
+      "votes": 17164,
+      "tomatometer": 57,
+      "audience_score": 64,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/BkxSzDvmbe_9_QtLO8-at8tzcls=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11591956_p_v11_aj.jpg",
+      "plot": "Now that Dracula has opened the Hotel Transylvania's doors to humans, things are changing for the better; however, Drac is secretly worried that his half-human grandson, Dennis, isn't showing his…",
+      "directors": [
+        "Genndy Tartakovsky"
+      ]
+    },
+    {
       "id": "shang_chi_and_the_legend_of_the_ten_rings",
       "category": "fantasy",
       "type": "movie",
@@ -2858,6 +3790,31 @@
       "plot": "In 2045, the creator of a virtual reality universe promises his fortune to the first person to discover a digital Easter egg. Soon, young Wade Watts finds himself in a reality-bending treasure hunt…",
       "directors": [
         "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "robin_hood_prince_of_thieves",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Robin Hood: Prince of Thieves",
+      "original_title": "Robin Hood: Prince of Thieves",
+      "year": 1991,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 5.7,
+      "votes": 16490,
+      "tomatometer": 52,
+      "audience_score": 72,
+      "runtime_minutes": 138,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/rxg-UjaDdwFp8u-x8PhdluRRbuo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13282_p_v13_az.jpg",
+      "plot": "Nobleman crusader Robin of Locksley breaks out of a Jerusalem prison with the help of fellow prisoner Azeem, a Moor, and travels back home to England. Upon arrival, Robin discovers his father dead in…",
+      "directors": [
+        "Kevin Reynolds"
       ]
     },
     {
@@ -2934,6 +3891,57 @@
       "plot": "Five ordinary teens must become something extraordinary when they learn that their small town of Angel Grove - and the world - is on the verge of being obliterated by an alien threat. Chosen by…",
       "directors": [
         "Dean Israelite"
+      ]
+    },
+    {
+      "id": "miss_peregrines_home_for_peculiar_children",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "original_title": "Miss Peregrine's Home for Peculiar Children",
+      "year": 2016,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action",
+        "Mystery & Thriller",
+        "Drama"
+      ],
+      "rating": 6.0,
+      "votes": 15886,
+      "tomatometer": 65,
+      "audience_score": 60,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/hqP6j-v6h3QeJU5cpKpkAUYI-w0=/300x450/v2/https://resizing.flixster.com/cVzGHXB-d9neyW7blAMQ-0ByYVk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQwZjA0ZjI5LWJiYzctNGYxMy05MzJmLWZkY2MyYjZmNmMyZC53ZWJw",
+      "plot": "When his beloved grandfather leaves Jake clues to a mystery that spans different worlds and times, he finds a magical place known as Miss Peregrine's School for Peculiar Children. But the mystery and…",
+      "directors": [
+        "Tim Burton"
+      ]
+    },
+    {
+      "id": "scorpion_king",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Scorpion King",
+      "original_title": "The Scorpion King",
+      "year": 2002,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.0,
+      "votes": 15801,
+      "tomatometer": 40,
+      "audience_score": 38,
+      "runtime_minutes": 95,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/wm0dcS0AjE84NDVBVulZrt38il4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29808_p_v8_an.jpg",
+      "plot": "Inspired by the legendary Egyptian warrior, \"The Scorpion King\" is set 5000 years ago in the notorious city of Gomorrah, where an evil ruler is determined to lay waste to all the nomadic peoples of…",
+      "directors": [
+        "Chuck Russell"
       ]
     },
     {
@@ -3014,6 +4022,30 @@
       ]
     },
     {
+      "id": "beasts_of_the_southern_wild",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Beasts of the Southern Wild",
+      "original_title": "Beasts of the Southern Wild",
+      "year": 2012,
+      "genres": [
+        "Drama",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 8.3,
+      "votes": 14796,
+      "tomatometer": 87,
+      "audience_score": 76,
+      "runtime_minutes": 93,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/SfCqBmpZg9qgzceFHtLdfcJSDrQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9026955_p_v8_ap.jpg",
+      "plot": "Six-year-old Hushpuppy lives with her father, Wink, in a remote Delta community. Wink is a stern taskmaster, but he is preparing his young daughter for the end of the world. When Wink falls…",
+      "directors": [
+        "Benh Zeitlin"
+      ]
+    },
+    {
       "id": "the_book_of_life_2014",
       "category": "fantasy",
       "type": "movie",
@@ -3088,6 +4120,54 @@
       "plot": "Anthony Mackie returns as the high-flying hero Sam Wilson, who's officially taken up the mantle of Captain America. After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in…",
       "directors": [
         "Julius Onah"
+      ]
+    },
+    {
+      "id": "the_age_of_adaline",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Age of Adaline",
+      "original_title": "The Age of Adaline",
+      "year": 2015,
+      "genres": [
+        "Romance",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 5.5,
+      "votes": 14415,
+      "tomatometer": 54,
+      "audience_score": 67,
+      "runtime_minutes": 113,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/9RGvZtB4kBNrcPUbOTssNcB_H58=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11002256_p_v13_ap.jpg",
+      "plot": "Adaline Bowman has miraculously remained a youthful 29-years-of-age for nearly eight decades, never allowing herself to get close to anyone lest they discover her secret. However, a chance encounter…",
+      "directors": [
+        "Lee Toland Krieger"
+      ]
+    },
+    {
+      "id": "practical_magic",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Practical Magic",
+      "original_title": "Practical Magic",
+      "year": 1998,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 5.0,
+      "votes": 13864,
+      "tomatometer": 28,
+      "audience_score": 73,
+      "runtime_minutes": 104,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/7nEtq8KT8hdUpkLkD1Yjhb6vg9M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21981_p_v8_ae.jpg",
+      "plot": "Sally and Gillian Owens, born into a magical family, have mostly avoided witchcraft themselves. But when Gillian's vicious boyfriend, Jimmy Angelov, dies unexpectedly, the Owens sisters give…",
+      "directors": [
+        "Griffin Dunne"
       ]
     },
     {
@@ -3169,6 +4249,81 @@
       ]
     },
     {
+      "id": "monster_house",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Monster House",
+      "original_title": "Monster House",
+      "year": 2006,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Animation"
+      ],
+      "rating": 7.1,
+      "votes": 13034,
+      "tomatometer": 75,
+      "audience_score": 64,
+      "runtime_minutes": 91,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/0trWw3G3XbrVsoNftpTOqQw0z_Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159533_p_v8_sf.jpg",
+      "plot": "No adults believe three youths' (Mitchel Musso, Spencer Locke, Sam Lerner) assertion that a neighboring residence is a living creature that means them harm. With Halloween approaching, the trio must…",
+      "directors": [
+        "Gil Kenan"
+      ]
+    },
+    {
+      "id": "the_shape_of_water_2017",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Shape of Water",
+      "original_title": "The Shape of Water",
+      "year": 2017,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "rating": 8.4,
+      "votes": 12928,
+      "tomatometer": 92,
+      "audience_score": 73,
+      "runtime_minutes": 123,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/1WdFIUXZOULsVcxkq4GXW6y3VHk=/300x450/v2/https://resizing.flixster.com/a1USHwfsu8Hi78cwXv6MGWi2lOY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RmNjViZTE4LTQ1MGEtNDRhZC1hZTQwLWM4MTY4YTBmZmVlZi53ZWJw",
+      "plot": "Elisa is a mute, isolated woman who works in a hidden, high-security government laboratory. Her life changes forever when she discovers the lab's classified secret -- a mysterious, scaled creature…",
+      "directors": [
+        "Guillermo del Toro"
+      ]
+    },
+    {
+      "id": "kate_and_leopold",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Kate & Leopold",
+      "original_title": "Kate & Leopold",
+      "year": 2001,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 5.8,
+      "votes": 12846,
+      "tomatometer": 52,
+      "audience_score": 62,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/hZ0bBfuqBfjGJtHwylsNMH7Ny0w=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28882_p_v11_al.jpg",
+      "plot": "Kate McKay (Meg Ryan) is a modern day executive, a 21st century woman driven to succeed in the corporate world. Leopold, the third Duke of Albany, is a charming gent and bachelor of the late 18OOs.…",
+      "directors": [
+        "James Mangold"
+      ]
+    },
+    {
       "id": "demon_slayer_kimetsu_no_yaiba_the_movie_mugen_train",
       "category": "fantasy",
       "type": "movie",
@@ -3219,6 +4374,30 @@
       "directors": [
         "Mike Mitchell",
         "Walt Dohrn"
+      ]
+    },
+    {
+      "id": "dragonball",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Dragonball: Evolution",
+      "original_title": "Dragonball: Evolution",
+      "year": 2009,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 3.4,
+      "votes": 11914,
+      "tomatometer": 14,
+      "audience_score": 19,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/DM26lRn6LJmMMePF55RXQKo4fSg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176351_p_v13_ar.jpg",
+      "plot": "On his 18th birthday, Goku receives a mystical Dragonball as a gift from his grandfather. There are only six others like it in the whole world, and legend has it that whoever possesses all seven will…",
+      "directors": [
+        "James Wong"
       ]
     },
     {
@@ -3295,6 +4474,30 @@
       ]
     },
     {
+      "id": "childs_play",
+      "category": "horror",
+      "type": "movie",
+      "title": "Child's Play",
+      "original_title": "Child's Play",
+      "year": 1988,
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.0,
+      "votes": 11538,
+      "tomatometer": 65,
+      "audience_score": 66,
+      "runtime_minutes": 87,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Gy8k6LbOYnSjxtbPZ6XdUnsRZ30=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11242_p_v10_aa.jpg",
+      "plot": "Gunned down by Detective Mike Norris (Chris Sarandon), dying murderer Charles Lee Ray (Brad Dourif) uses black magic to put his soul inside a doll named Chucky -- which Karen Barclay (Catherine…",
+      "directors": [
+        "Tom Holland"
+      ]
+    },
+    {
       "id": "backrooms",
       "category": "horror",
       "type": "movie",
@@ -3308,7 +4511,7 @@
         "Horror"
       ],
       "rating": 7.4,
-      "votes": 11354,
+      "votes": 11357,
       "tomatometer": 87,
       "audience_score": 74,
       "runtime_minutes": 110,
@@ -3343,6 +4546,54 @@
       "plot": "Zombie slayers Tallahassee, Columbus, Wichita and Little Rock leave the confines of the White House to travel to Graceland in Memphis, Tenn. Along the way, they encounter other post-apocalyptic…",
       "directors": [
         "Ruben Fleischer"
+      ]
+    },
+    {
+      "id": "charlie_st_cloud",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Charlie St. Cloud",
+      "original_title": "Charlie St. Cloud",
+      "year": 2010,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "rating": 4.6,
+      "votes": 11049,
+      "tomatometer": 27,
+      "audience_score": 60,
+      "runtime_minutes": 99,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/LfFApHKm4AcduiULH3ztDzZiLXo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8025869_p_v10_ad.jpg",
+      "plot": "Adored by his single mother and his little brother Sam, Charlie St. Cloud (Zac Efron) is an accomplished sailor and college-bound senior with a bright future ahead of him. When Sam dies in a terrible…",
+      "directors": [
+        "Burr Steers"
+      ]
+    },
+    {
+      "id": "the_huntsman_winters_war",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Huntsman: Winter's War",
+      "original_title": "The Huntsman: Winter's War",
+      "year": 2016,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 4.3,
+      "votes": 10952,
+      "tomatometer": 19,
+      "audience_score": 45,
+      "runtime_minutes": 114,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/VtB2jEzPW9yoiW6P3NSFGqOZlew=/300x450/v2/https://resizing.flixster.com/RpIs1zImW5zD1obiWJT2NYABbE4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y0NTQ0ZWIwLTMwZDItNDM1Zi1iMjJhLTNiZjAwMTY4YWE1OS53ZWJw",
+      "plot": "Betrayed by her evil sister Ravenna (Charlize Theron), heartbroken Freya (Emily Blunt) retreats to a northern kingdom to raise an army of huntsmen as her protectors. Gifted with the ability to freeze…",
+      "directors": [
+        "Cedric Nicolas-Troyan"
       ]
     },
     {
@@ -3447,6 +4698,32 @@
       ]
     },
     {
+      "id": "uninvited_2009",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Uninvited",
+      "original_title": "The Uninvited",
+      "year": 2009,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 4.6,
+      "votes": 10327,
+      "tomatometer": 31,
+      "audience_score": 49,
+      "runtime_minutes": 87,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/jNozHbhXN8bf4qkdA_Y1QjLBk0Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p180732_p_v10_ak.jpg",
+      "plot": "After spending time in a psychiatric facility, young Anna (Emily Browning) finds significant changes in store at home. Her widowed father (David Strathairn) is now engaged to her mother's former…",
+      "directors": [
+        "Thomas Guard",
+        "Charles Guard"
+      ]
+    },
+    {
       "id": "the_legend_of_hercules",
       "category": "fantasy",
       "type": "movie",
@@ -3468,6 +4745,54 @@
       "plot": "As the son of Zeus, king of the gods, and a mortal woman, Hercules (Kellan Lutz) is blessed with extraordinary strength. Caught in a forbidden love, Hercules is exiled by his stepfather, the king,…",
       "directors": [
         "Renny Harlin"
+      ]
+    },
+    {
+      "id": "1023316-weird_science",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Weird Science",
+      "original_title": "Weird Science",
+      "year": 1985,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": 5.9,
+      "votes": 10048,
+      "tomatometer": 60,
+      "audience_score": 69,
+      "runtime_minutes": 94,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/CXC4bmWfSAN6u5AwZ2Xp4_fIIuk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9273_p_v8_aa.jpg",
+      "plot": "Teen misfits Gary and Wyatt design their ideal woman on a computer, and a freak electrical accident brings her to life in the form of the lovely, superhuman Lisa. She outfits Gary and Wyatt in cool…",
+      "directors": [
+        "John Hughes"
+      ]
+    },
+    {
+      "id": "ruby_sparks",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Ruby Sparks",
+      "original_title": "Ruby Sparks",
+      "year": 2012,
+      "genres": [
+        "Romance",
+        "Fantasy"
+      ],
+      "rating": 7.2,
+      "votes": 9953,
+      "tomatometer": 79,
+      "audience_score": 75,
+      "runtime_minutes": 104,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/oOSq18hYSR2y3diJJOG0VNI93qk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9165539_p_v8_ag.jpg",
+      "plot": "Young author Calvin Weir-Fields (Paul Dano), once a literary darling, is having trouble composing his next novel. Following a therapist's advice, Calvin pulls out an old manual typewriter and creates…",
+      "directors": [
+        "Jonathan Dayton",
+        "Valerie Faris"
       ]
     },
     {
@@ -3543,6 +4868,56 @@
       ]
     },
     {
+      "id": "sky_captain",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Sky Captain and the World of Tomorrow",
+      "original_title": "Sky Captain and the World of Tomorrow",
+      "year": 2004,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi",
+        "Action"
+      ],
+      "rating": 7.0,
+      "votes": 9485,
+      "tomatometer": 71,
+      "audience_score": 46,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/p8lK568tUnRzcLoGrIiU0Fj5V7Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33834_p_v10_ad.jpg",
+      "plot": "When gigantic robots attack New York City, \"Sky Captain\" (Jude Law) uses his private air force to fight them off. His ex-girlfriend, reporter Polly Perkins (Gwyneth Paltrow), has been investigating…",
+      "directors": [
+        "Kerry Conran"
+      ]
+    },
+    {
+      "id": "jungle_cruise",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Jungle Cruise",
+      "original_title": "Jungle Cruise",
+      "year": 2021,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 5.9,
+      "votes": 9398,
+      "tomatometer": 62,
+      "audience_score": 92,
+      "runtime_minutes": 127,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Xq0Lz-rtUZsxTyqXP-PBGUqf8sc=/300x450/v2/https://resizing.flixster.com/jAVMCNx-3OTxhXG4MsnOqldFK4w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIyY2E4ZTAxLTUwMGItNDQ1My1hNzNiLTZkOGRhNjgyY2Y4ZC5qcGc=",
+      "plot": "Join fan favorites Dwayne Johnson and Emily Blunt for the adventure of a lifetime on Disney's JUNGLE CRUISE, a rollicking thrill-ride down the Amazon with wisecracking skipper Frank Wolff and…",
+      "directors": [
+        "Jaume Collet-Serra"
+      ]
+    },
+    {
       "id": "death_becomes_her",
       "category": "horror",
       "type": "movie",
@@ -3590,1400 +4965,6 @@
       "plot": "Joe is a middle-school band teacher whose life hasn't quite gone the way he expected. His true passion is jazz -- and he's good. But when he travels to another realm to help someone find their…",
       "directors": [
         "Pete Docter"
-      ]
-    },
-    {
-      "id": "the_great_wall_2017",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Great Wall",
-      "original_title": "The Great Wall",
-      "year": 2017,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "rating": 4.9,
-      "votes": 8968,
-      "tomatometer": 36,
-      "audience_score": 42,
-      "runtime_minutes": 104,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/GUjptsCC_7IdYG9jsRREODKagQk=/300x450/v2/https://resizing.flixster.com/tgzz2PdhJeMiP1tF5Eds-dt3xM0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE3OTA4YWNkLWEyMzAtNGQ4MC1iYjcwLTgxYTBjZWRmODQzNC53ZWJw",
-      "plot": "When a mercenary warrior (Matt Damon) is imprisoned within the Great Wall, he discovers the mystery behind one of the greatest wonders of the world. As wave after wave of marauding beasts besiege the…",
-      "directors": [
-        "Yimou Zhang"
-      ]
-    },
-    {
-      "id": "seventh_son",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Seventh Son",
-      "original_title": "Seventh Son",
-      "year": 2015,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Action"
-      ],
-      "rating": 3.8,
-      "votes": 8968,
-      "tomatometer": 12,
-      "audience_score": 34,
-      "runtime_minutes": 102,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/iFrWYwVqRHJCN5WHn8yq30cElUk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9980618_p_v10_ai.jpg",
-      "plot": "Centuries ago, a supernatural champion named Master Gregory (Jeff Bridges) defeated Mother Malkin (Julianne Moore), a malevolent witch. Now, she has escaped imprisonment and thirsts for vengeance.…",
-      "directors": [
-        "Sergey Bodrov"
-      ]
-    },
-    {
-      "id": "onward",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Onward",
-      "original_title": "Onward",
-      "year": 2020,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 7.2,
-      "votes": 8639,
-      "tomatometer": 88,
-      "audience_score": 95,
-      "runtime_minutes": 103,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/EizUOstU4msDk_9uOqi9xlpDYfY=/300x450/v2/https://resizing.flixster.com/XYad4MRV9lp0xIZA7-cA8iqbcxg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4NjlkOTJjLTZlM2EtNDdhMi1hNDIzLTEwYmU2NDY1MjEyOC53ZWJw",
-      "plot": "Teenage elf brothers Ian and Barley embark on a magical quest to spend one more day with their late father. Like any good adventure, their journey is filled with cryptic maps, impossible obstacles…",
-      "directors": [
-        "Dan Scanlon"
-      ]
-    },
-    {
-      "id": "mortal_kombat_ii",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Mortal Kombat II",
-      "original_title": "Mortal Kombat II",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 5.7,
-      "votes": 8556,
-      "tomatometer": 64,
-      "audience_score": 86,
-      "runtime_minutes": 116,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/V5WAEQZczysK0RKPoZ1xDRLDMF4=/300x450/v2/https://resizing.flixster.com/FSCuS9jUdx2PdRbxpXjnB8mo6mc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZjMjVmM2QwLTBmZWYtNGI4ZC1iN2M3LWYxODVkNGI5MTcxNC5qcGc=",
-      "plot": "From New Line Cinema comes the latest high-stakes installment in the blockbuster\nvideo game franchise in all its brutal glory, Mortal Kombat II. This time, the fan favorite champions--now joined by…",
-      "directors": [
-        "Simon McQuoid"
-      ]
-    },
-    {
-      "id": "how_to_train_your_dragon_the_hidden_world",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "How to Train Your Dragon: The Hidden World",
-      "original_title": "How to Train Your Dragon: The Hidden World",
-      "year": 2019,
-      "genres": [
-        "Kids & Family",
-        "Fantasy",
-        "Adventure",
-        "Comedy",
-        "Animation"
-      ],
-      "rating": 7.3,
-      "votes": 8447,
-      "tomatometer": 90,
-      "audience_score": 87,
-      "runtime_minutes": 104,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/Dc_BUsNvBFsUsnU76egYYBXAcpg=/300x450/v2/https://resizing.flixster.com/vs4NrXMCUz5F1XVLsisv9N5u1Hc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U3YmIxNWJiLTc0YjEtNGU5ZS04YzQ0LWFiZmY3MDk1OTU3My53ZWJw",
-      "plot": "When the sudden appearance of a female Light Fury coincides with the darkest threat their village has ever faced, Hiccup and Toothless must journey to a hidden world thought only to exist in myth.…",
-      "directors": [
-        "Dean DeBlois"
-      ]
-    },
-    {
-      "id": "ghostbusters_afterlife",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Ghostbusters: Afterlife",
-      "original_title": "Ghostbusters: Afterlife",
-      "year": 2021,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Adventure"
-      ],
-      "rating": 6.1,
-      "votes": 8041,
-      "tomatometer": 63,
-      "audience_score": 94,
-      "runtime_minutes": 124,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/24qeEQlswCHN40Im9p3c9Ra4exI=/300x450/v2/https://resizing.flixster.com/c4d-DNKbp8BB0muVB3_-nkbmKZs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwOWNlODJmLTE1OTEtNGNiMi1hZWIxLTc5ZjYwNGQxYWQ4OS5qcGc=",
-      "plot": "In Ghostbusters: Afterlife, when a single mom and her two kids arrive in a small town, they begin to discover their connection to the original ghostbusters and the secret legacy their grandfather…",
-      "directors": [
-        "Jason Reitman"
-      ]
-    },
-    {
-      "id": "dune_part_two",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Dune: Part Two",
-      "original_title": "Dune: Part Two",
-      "year": 2024,
-      "genres": [
-        "Sci-Fi",
-        "Adventure",
-        "Action",
-        "Fantasy",
-        "Drama"
-      ],
-      "rating": 8.4,
-      "votes": 7879,
-      "tomatometer": 92,
-      "audience_score": 95,
-      "runtime_minutes": 166,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/Qa7k6nOJqypISLS1uOEFDDnOlc0=/300x450/v2/https://resizing.flixster.com/PgHhmCKS3hR6GUsVNlC-vZ9d90I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZhOTA0OTIzLTEwNDctNDhkNS1iNTc3LTY3MjBmNDc5OGU1Mi5qcGc=",
-      "plot": "\"Dune: Part Two\" will explore the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a…",
-      "directors": [
-        "Denis Villeneuve"
-      ]
-    },
-    {
-      "id": "transformers_rise_of_the_beasts",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Transformers: Rise of the Beasts",
-      "original_title": "Transformers: Rise of the Beasts",
-      "year": 2023,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Fantasy"
-      ],
-      "rating": 5.2,
-      "votes": 7789,
-      "tomatometer": 51,
-      "audience_score": 91,
-      "runtime_minutes": 127,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/jwyM1qcJJRr6tvRBTx9m7o0ACVQ=/300x450/v2/https://resizing.flixster.com/ADqLkFgcXV2RHCEvTFxO1CTZcrw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiNjRiZmJjLTY4MDUtNDk4NC04OGNiLTdiNWM3NjljOTY0MS5qcGc=",
-      "plot": "Returning to the action and spectacle that have captured moviegoers around the world, Transformers: Rise of the Beasts will take audiences on a '90s globetrotting adventure with the Autobots and…",
-      "directors": [
-        "Steven Caple Jr."
-      ]
-    },
-    {
-      "id": "the_flash_2023",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Flash",
-      "original_title": "The Flash",
-      "year": 2023,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 6.3,
-      "votes": 7405,
-      "tomatometer": 63,
-      "audience_score": 81,
-      "runtime_minutes": 144,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/KpqnCFjQKjw388bH66dQdZfuGrE=/300x450/v2/https://resizing.flixster.com/F8JH95OjUwzlqREEWnwBXd1Mrf8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJkZjg3MjI1LWU1YzgtNDZiMy05ZDY3LWFlNTMyOWVhZmRjMi5qcGc=",
-      "plot": "Worlds collide in \"The Flash\" when Barry uses his superpowers to travel back in time in order to change the events of the past. But when his attempt to save his family inadvertently alters the…",
-      "directors": [
-        "Andy Muschietti"
-      ]
-    },
-    {
-      "id": "in-the-name-of-the-king-a-dungeon-siege-tale",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "In the Name of the King: A Dungeon Siege Tale",
-      "original_title": "In the Name of the King: A Dungeon Siege Tale",
-      "year": 2008,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "rating": 2.6,
-      "votes": 7132,
-      "tomatometer": 4,
-      "audience_score": 23,
-      "runtime_minutes": 127,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/jex3UayYrKvx0jzlkpDx7wCeTaM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p167292_p_v8_aj.jpg",
-      "plot": "As war looms in an idyllic kingdom, a man named Farmer begins a heroic quest to find his kidnapped wife and avenge their son, who was murdered by horrible warriors called Krugs. Meanwhile, villainous…",
-      "directors": [
-        "Uwe Boll"
-      ]
-    },
-    {
-      "id": "dune_2021",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Dune",
-      "original_title": "Dune",
-      "year": 2021,
-      "genres": [
-        "Sci-Fi",
-        "Adventure",
-        "Action",
-        "Fantasy",
-        "Drama"
-      ],
-      "rating": 7.7,
-      "votes": 7121,
-      "tomatometer": 83,
-      "audience_score": 90,
-      "runtime_minutes": 155,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/T-H5MsdyxN2j1cNZNG6CLV_7CYc=/300x450/v2/https://resizing.flixster.com/gcRn4_emLo1Iz5ndbvUOKDYq35c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhYTI2NDJkLTU5YTYtNDNkOS05ZWQxLWZiNjFlOTZmYjZlZS5qcGc=",
-      "plot": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to a dangerous planet in the universe to ensure the future of his family and his…",
-      "directors": [
-        "Denis Villeneuve"
-      ]
-    },
-    {
-      "id": "masters_of_the_universe_2026",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Masters of the Universe",
-      "original_title": "Masters of the Universe",
-      "year": 2026,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "rating": 6.2,
-      "votes": 7051,
-      "tomatometer": 67,
-      "audience_score": 86,
-      "runtime_minutes": 140,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/9gXITLEw2FsvzFbp51cgVRKMuKI=/300x450/v2/https://resizing.flixster.com/iu4y9SO5Ddzvr1YzqxQZAMC0lL4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q4ZmQ0NDU5LTdlZjItNDc1My1iOTg3LWRlMmZkZDJlOTcxZC5qcGc=",
-      "plot": "In MASTERS OF THE UNIVERSE, Director Travis Knight brings the legendary franchise back to the big screen in this epic live-action adventure. After being separated for 15 years, the Sword of Power…",
-      "directors": [
-        "Travis Knight"
-      ]
-    },
-    {
-      "id": "supergirl_2026",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Supergirl",
-      "original_title": "Supergirl",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Fantasy"
-      ],
-      "rating": 5.5,
-      "votes": 6846,
-      "tomatometer": 53,
-      "audience_score": 73,
-      "runtime_minutes": 108,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/zs9igxCvYgilPLCoUfNj_ufNdoM=/300x450/v2/https://resizing.flixster.com/UXVL_9q6taCUdkwweK7tn3PYOB0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0MDhlMTk4LWE3OWYtNGYwNy05N2I2LTU3NTYxODI1MmQzOC5qcGc=",
-      "plot": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and…",
-      "directors": [
-        "Craig Gillespie"
-      ]
-    },
-    {
-      "id": "chainsaw_man_the_movie_reze_arc",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "original_title": "Chainsaw Man - The Movie: Reze Arc",
-      "year": 2025,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Anime"
-      ],
-      "rating": 8.1,
-      "votes": 6325,
-      "tomatometer": 96,
-      "audience_score": 98,
-      "runtime_minutes": 100,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/582cCUztjXw7trHYg9sq2DDl_wk=/300x450/v2/https://resizing.flixster.com/koecrqDmdZI3NfX3ProzaluVSrc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3MmM1YjNiLThlY2MtNDBjYy04Y2QzLTY1NjI1MDgyMjA0Zi5qcGc=",
-      "plot": "For the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza,…",
-      "directors": [
-        "Tatsuya Yoshihara"
-      ]
-    },
-    {
-      "id": "okja",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Okja",
-      "original_title": "Okja",
-      "year": 2017,
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy",
-        "Mystery & Thriller",
-        "Sci-Fi"
-      ],
-      "rating": 7.6,
-      "votes": 5641,
-      "tomatometer": 87,
-      "audience_score": 81,
-      "runtime_minutes": 120,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/XkMswpDZIazs4kh5F2q1s8VclFs=/300x450/v2/https://resizing.flixster.com/KqXKgmZfhTLOfVC5giBHbQsyYVk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdjYWY1MmIzLWViMjQtNDA5My1iOTkwLTliZGE0MmYwNmU1MS53ZWJw",
-      "plot": "For 10 idyllic years, young Mija has been caretaker and constant companion to Okja - a massive animal and an even bigger friend - at her home in the mountains of South Korea. But that changes when…",
-      "directors": [
-        "Bong Joon Ho"
-      ]
-    },
-    {
-      "id": "mortal_kombat_2021",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Mortal Kombat",
-      "original_title": "Mortal Kombat",
-      "year": 2021,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 5.5,
-      "votes": 5381,
-      "tomatometer": 55,
-      "audience_score": 85,
-      "runtime_minutes": 110,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/8gPK4TSwfJjNM7NUqMnsoPz14dk=/300x450/v2/https://resizing.flixster.com/D6isesb8MrQw56sZ633RYSBsNlU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q1MjgzODBhLTdmOGItNGNkNC1iOTQ0LTMxNzI0MzZkMWY1Ni5wbmc=",
-      "plot": "In \"Mortal Kombat,\" MMA fighter Cole Young, accustomed to taking a beating for money, is unaware of his heritage--or why Outworld's Emperor Shang Tsung has sent his best warrior, Sub-Zero, an…",
-      "directors": [
-        "Simon McQuoid"
-      ]
-    },
-    {
-      "id": "hellboy_2019",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Hellboy",
-      "original_title": "Hellboy",
-      "year": 2019,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 3.9,
-      "votes": 5315,
-      "tomatometer": 17,
-      "audience_score": 47,
-      "runtime_minutes": 120,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Va9xpevkpEBZvmQNSqApm3IBh-Y=/300x450/v2/https://resizing.flixster.com/ZbdYPdQyDUGHo9lC4EfAqWqdMV0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1MWVjOTc1LWVlNjItNDE5ZC1hMWYwLTJjYzNjZDM0NjZkMi53ZWJw",
-      "plot": "While battling a trio of rampaging giants, the legendary half-demon Hellboy encounters Nimue the Blood Queen, an ancient resurrected sorceress who's out to avenge a past betrayal. Suddenly caught in…",
-      "directors": [
-        "Neil Marshall"
-      ]
-    },
-    {
-      "id": "pacific_rim_uprising",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Pacific Rim Uprising",
-      "original_title": "Pacific Rim Uprising",
-      "year": 2018,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 4.9,
-      "votes": 5199,
-      "tomatometer": 42,
-      "audience_score": 36,
-      "runtime_minutes": 111,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/YrTtuJzZM-IZx8qkhODGYAFGVFM=/300x450/v2/https://resizing.flixster.com/Uk1ONveAZQgSlu3W1zy806hDqBg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxZWI2ZWZhLTUzMTAtNDgzMC04YTllLWZlNWIxZDBkZTVjMS53ZWJw",
-      "plot": "Jake Pentecost is a once-promising Jaeger pilot whose legendary father gave his life to secure humanity's victory against the monstrous Kaiju. Jake has since abandoned his training only to become…",
-      "directors": [
-        "Steven S. DeKnight"
-      ]
-    },
-    {
-      "id": "fantastic_beasts_the_secrets_of_dumbledore",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Fantastic Beasts: The Secrets of Dumbledore",
-      "original_title": "Fantastic Beasts: The Secrets of Dumbledore",
-      "year": 2022,
-      "genres": [
-        "Fantasy",
-        "Adventure"
-      ],
-      "rating": 5.4,
-      "votes": 4907,
-      "tomatometer": 46,
-      "audience_score": 83,
-      "runtime_minutes": 142,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/4UM7DI3WhqcD6trU52ixK9TfY1w=/300x450/v2/https://resizing.flixster.com/WBMvlTWgyGIXaVs9ic2h8S3ks5w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1YzY3Yzg3LTk5Y2QtNDEyMS05YmE1LTcxMjI2ZTAzZTUyMC5qcGc=",
-      "plot": "Professor Albus Dumbledore (Jude Law) knows the powerful Dark wizard Gellert Grindelwald (Mads Mikkelsen) is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts…",
-      "directors": [
-        "David Yates"
-      ]
-    },
-    {
-      "id": "dungeons_and_dragons_honor_among_thieves",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Dungeons & Dragons: Honor Among Thieves",
-      "original_title": "Dungeons & Dragons: Honor Among Thieves",
-      "year": 2023,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Action",
-        "Comedy"
-      ],
-      "rating": 7.4,
-      "votes": 4770,
-      "tomatometer": 91,
-      "audience_score": 92,
-      "runtime_minutes": 134,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/E2JU-fcrawnW_qBLvpzY6tPJaV0=/300x450/v2/https://resizing.flixster.com/eWLvyboOEGZRS2JiBDZ6eRD4Hps=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU2MTc5YzE5LTc3YjktNDIyMS05ZWZhLTNlNzBjZmZkM2JlMS5qcGc=",
-      "plot": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people. Dungeons & Dragons: Honor…",
-      "directors": [
-        "Jonathan M. Goldstein",
-        "John Francis Daley"
-      ]
-    },
-    {
-      "id": "christopher_robin",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Christopher Robin",
-      "original_title": "Christopher Robin",
-      "year": 2018,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 6.2,
-      "votes": 4148,
-      "tomatometer": 73,
-      "audience_score": 83,
-      "runtime_minutes": 104,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/paxLYDC_W-b0KD8gzAwQeYZYx88=/300x450/v2/https://resizing.flixster.com/odHzkgYFwveLNf6rPxEmuvUx4lU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzZWMwMTVkLTI1YzUtNDllYy1iY2QxLWNmMWUzZTE1Y2I4Zi53ZWJw",
-      "plot": "Christopher Robin -- now a family man living in London -- receives a surprise visit from his old childhood pal, Winnie-the-Pooh. With Christopher's help, Pooh embarks on a journey to find his friends…",
-      "directors": [
-        "Marc Forster"
-      ]
-    },
-    {
-      "id": "a_ghost_story",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "A Ghost Story",
-      "original_title": "A Ghost Story",
-      "year": 2017,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": 8.0,
-      "votes": 4051,
-      "tomatometer": 91,
-      "audience_score": 67,
-      "runtime_minutes": 90,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/3gV7y3p5ziTu1DDmEPATcfuaNsw=/300x450/v2/https://resizing.flixster.com/yfl9l7W0R-2fgcLu_7mulTaEMrc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0MzkwZGUwLWMyZWQtNDJiZS04YjVjLTdlYjYwYzllZDNhZi53ZWJw",
-      "plot": "A passionate young couple, unexpectedly separated by a shocking loss, discover an eternal connection and a love that is infinite.",
-      "directors": [
-        "David Lowery"
-      ]
-    },
-    {
-      "id": "werewolf_by_night",
-      "category": "horror",
-      "type": "movie",
-      "title": "Werewolf by Night",
-      "original_title": "Werewolf by Night",
-      "year": 2022,
-      "genres": [
-        "Fantasy",
-        "Action",
-        "Adventure",
-        "Horror"
-      ],
-      "rating": 7.5,
-      "votes": 3808,
-      "tomatometer": 90,
-      "audience_score": 88,
-      "runtime_minutes": 54,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/eIB-VoqOrmnPMCKMG0LZ6YZ0y8U=/300x450/v2/https://resizing.flixster.com/6Ld2qLKNC5f9m7yaUDXanGlrJRI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3ZjQyNWI1LTA0M2EtNDg1Ny05ZTNkLTY3NzVhMTc3N2EzNS5qcGc=",
-      "plot": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the\nforeboding Bloodstone Temple following the death of their leader. In a strange and macabre…",
-      "directors": [
-        "Michael Giacchino"
-      ]
-    },
-    {
-      "id": "damsel_2023",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Damsel",
-      "original_title": "Damsel",
-      "year": 2024,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Action"
-      ],
-      "rating": 5.5,
-      "votes": 3668,
-      "tomatometer": 56,
-      "audience_score": 59,
-      "runtime_minutes": 107,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/sskaBgGy55RvP6NPJ1BLDkuDYTQ=/300x450/v2/https://resizing.flixster.com/P3ITKQPm33gw4K73O9DYCOfyZ4E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1Zjg4NDFhLWMxY2EtNDU3NC04OTNmLTQ4MTJiMzc3Y2EwZC5qcGc=",
-      "plot": "A dutiful damsel agrees to marry a handsome prince, only to find the royal family has recruited her as a sacrifice to repay an ancient debt. Thrown into a cave with a fire-breathing dragon, she must…",
-      "directors": [
-        "Juan Carlos Fresnadillo"
-      ]
-    },
-    {
-      "id": "wonder_woman_1984",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Wonder Woman 1984",
-      "original_title": "Wonder Woman 1984",
-      "year": 2020,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 6.0,
-      "votes": 3638,
-      "tomatometer": 57,
-      "audience_score": 73,
-      "runtime_minutes": 151,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/3LrRsIN-CfjCVcY0-l8BuAikjYk=/300x450/v2/https://resizing.flixster.com/rz5DiWXTVEJeaL7aIoklHG4JMyI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QwYzZkYTVhLTE1MjYtNDg0Ni05ZTM3LTgxYWE0ZmJiNzZkYS5qcGc=",
-      "plot": "Diana Prince lives quietly among mortals in the vibrant, sleek 1980s -- an era of excess driven by the pursuit of having it all. Though she's come into her full powers, she maintains a low profile by…",
-      "directors": [
-        "Patty Jenkins"
-      ]
-    },
-    {
-      "id": "evil_dead_rise",
-      "category": "horror",
-      "type": "movie",
-      "title": "Evil Dead Rise",
-      "original_title": "Evil Dead Rise",
-      "year": 2023,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Fantasy"
-      ],
-      "rating": 7.2,
-      "votes": 3617,
-      "tomatometer": 85,
-      "audience_score": 76,
-      "runtime_minutes": 96,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/qFY1cn8KsQOuCIzEQY2wxJYYSGA=/300x450/v2/https://resizing.flixster.com/rWoHzijYNZv7RJb5P7BQQoGOo80=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2YzliZDFjLWI2NTUtNDFmMi04OTUzLTUwNGFlOTRkOWIyNy5qcGc=",
-      "plot": "In the fifth Evil Dead film, a road-weary Beth pays an overdue visit to her older sister Ellie, who is raising three kids on her own in a cramped L.A apartment. The sisters' reunion is cut short by…",
-      "directors": [
-        "Lee Cronin"
-      ]
-    },
-    {
-      "id": "mortal_engines",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Mortal Engines",
-      "original_title": "Mortal Engines",
-      "year": 2018,
-      "genres": [
-        "Sci-Fi",
-        "Fantasy",
-        "Adventure",
-        "Action"
-      ],
-      "rating": 4.9,
-      "votes": 3530,
-      "tomatometer": 26,
-      "audience_score": 48,
-      "runtime_minutes": 128,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/3aV9KoGQRbS3XCjnGSsxKUCzmdM=/300x450/v2/https://resizing.flixster.com/wnZN6VrjWe4-xyFfhtXgmoRRNyM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlNDNkZGQ3LTEwOWItNGFmZi1iYzNjLWRmYjJhYzZkNThhZS53ZWJw",
-      "plot": "Hundreds of years after a cataclysmic event destroyed civilization, mysterious young Hester Shaw emerges as the only one who can stop the city of London -- now a giant predator on wheels -- from…",
-      "directors": [
-        "Christian Rivers"
-      ]
-    },
-    {
-      "id": "the_marvels",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Marvels",
-      "original_title": "The Marvels",
-      "year": 2023,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 5.9,
-      "votes": 3455,
-      "tomatometer": 63,
-      "audience_score": 79,
-      "runtime_minutes": 105,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/4tDyraZ51B8SobVtRx3w05h5FYM=/300x450/v2/https://resizing.flixster.com/Ht14zArBc90eTF1dMAaQynKk2Ic=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhNjNhOGQ1LWE5Y2YtNDFlZS1iNDk0LWQyZGMyZTlhYmVmOS5qcGc=",
-      "plot": "Carol Danvers aka Captain Marvel has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a…",
-      "directors": [
-        "Nia DaCosta"
-      ]
-    },
-    {
-      "id": "dc_league_of_super_pets",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "DC League of Super-Pets",
-      "original_title": "DC League of Super-Pets",
-      "year": 2022,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Action",
-        "Crime",
-        "Drama",
-        "Fantasy",
-        "Sci-Fi",
-        "Animation"
-      ],
-      "rating": 6.3,
-      "votes": 3214,
-      "tomatometer": 72,
-      "audience_score": 87,
-      "runtime_minutes": 106,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/_DyPK5C6jWdrxnT1khoOfhYr6cI=/300x450/v2/https://resizing.flixster.com/QVLNsMuiMjENvBgmsfoV0rTV-Wk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3NzMyMDU0LWNlZWUtNDJkYy1iMmNmLTMzNjY1MTEyY2E2ZS5qcGc=",
-      "plot": "In \"DC League of Super-Pets,\" Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime in Metropolis side by side. When Superman and the rest of…",
-      "directors": [
-        "Jared Stern"
-      ]
-    },
-    {
-      "id": "smurfs_the_lost_village",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Smurfs: The Lost Village",
-      "original_title": "Smurfs: The Lost Village",
-      "year": 2017,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 4.8,
-      "votes": 3195,
-      "tomatometer": 41,
-      "audience_score": 54,
-      "runtime_minutes": 91,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/J2V5lmy1xY10teW2-1hEW7b12A8=/300x450/v2/https://resizing.flixster.com/C_TGekjjtZyB92D0Phupcvcf218=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxNzdmZTNiLTYxMDktNDBjZi1iNzM5LTMyMjJmYzNiMWIyZS53ZWJw",
-      "plot": "Best friends Smurfette (Demi Lovato), Brainy (Danny Pudi), Clumsy (Jack McBrayer) and Hefty (Joe Manganiello) use a special map that guides them through the Forbidden Forest, an enchanted wonderland…",
-      "directors": [
-        "Kelly Asbury"
-      ]
-    },
-    {
-      "id": "haunted_mansion_2023",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Haunted Mansion",
-      "original_title": "Haunted Mansion",
-      "year": 2023,
-      "genres": [
-        "Fantasy",
-        "Comedy"
-      ],
-      "rating": 5.2,
-      "votes": 3170,
-      "tomatometer": 38,
-      "audience_score": 84,
-      "runtime_minutes": 123,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/5Jr4swC67BXSyVQbi70lxERD_Qw=/300x450/v2/https://resizing.flixster.com/kSzcCM30HLJwiqPTFHCh0jETIYc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhmNmRlOWM1LWI5NWMtNGI2Ny04YzkzLWMyODE5NjNhNGYwNi5qcGc=",
-      "plot": "A woman and her son enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.",
-      "directors": [
-        "Justin Simien"
-      ]
-    },
-    {
-      "id": "aquaman_and_the_lost_kingdom",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Aquaman and the Lost Kingdom",
-      "original_title": "Aquaman and the Lost Kingdom",
-      "year": 2023,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 4.9,
-      "votes": 3123,
-      "tomatometer": 33,
-      "audience_score": 79,
-      "runtime_minutes": 124,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/HUvT53Ixex7KfNs1l5XM8VYY-B8=/300x450/v2/https://resizing.flixster.com/ioQtD3b6hKJON0J4_7S-Wp0Ss5M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczNzQ3NjczLTE3MWMtNGJlYi1hODUwLTNkMmU5MGYxYjJiNy5qcGc=",
-      "plot": "After failing to defeat Aquaman the first time, Black Manta wields the power of the mythic Black Trident to unleash an ancient and malevolent force. Hoping to end his reign of terror, Aquaman forges…",
-      "directors": [
-        "James Wan"
-      ]
-    },
-    {
-      "id": "bill_and_ted_face_the_music",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Bill & Ted Face the Music",
-      "original_title": "Bill & Ted Face the Music",
-      "year": 2020,
-      "genres": [
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "rating": 6.8,
-      "votes": 3106,
-      "tomatometer": 83,
-      "audience_score": 64,
-      "runtime_minutes": 93,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/4JrGEQQl62t1e4HEoP9ZC19xlRw=/300x450/v2/https://resizing.flixster.com/tbb4s3n4aJX9VWiVvW0HDF5JY0A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3NzM4ZWZkLTAzNDUtNDg1MC04NDBjLTMzZjY0OGJhOGI5Zi53ZWJw",
-      "plot": "The ruler of the future tells best friends Bill and Ted they must compose a new song to save life as we know it. But instead of writing it, they decide to travel through time to steal it from their…",
-      "directors": [
-        "Dean Parisot"
-      ]
-    },
-    {
-      "id": "mighty_aphrodite",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Mighty Aphrodite",
-      "original_title": "Mighty Aphrodite",
-      "year": 1995,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": 7.0,
-      "votes": 2981,
-      "tomatometer": 78,
-      "audience_score": 73,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/JJpvCUxL5-vyJduaraTwJ_2jL_U=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17098_p_v13_ah.jpg",
-      "plot": "When Lenny (Woody Allen) and his wife, Amanda (Helena Bonham Carter), adopt a baby, Lenny realizes that his son is a genius and becomes obsessed with finding the boy's biological mother in hopes that…",
-      "directors": [
-        "Woody Allen"
-      ]
-    },
-    {
-      "id": "ghostbusters_frozen_empire",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Ghostbusters: Frozen Empire",
-      "original_title": "Ghostbusters: Frozen Empire",
-      "year": 2024,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Adventure"
-      ],
-      "rating": 5.2,
-      "votes": 2966,
-      "tomatometer": 41,
-      "audience_score": 81,
-      "runtime_minutes": 115,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/d--a8V9MR_yXdYou10ZjaK7E1mE=/300x450/v2/https://resizing.flixster.com/31MUPYoGBwNKA4Xc2O8X5xjfcvM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y1YzhmOGNiLTEyZWEtNDgzYy05YjU0LWY4OWVhMWI5ZWM1Ni5qcGc=",
-      "plot": "In Ghostbusters: Frozen Empire, the Spengler family returns to where it all started -- the iconic New York City firehouse -- to team up with the original Ghostbusters, who've developed a top-secret…",
-      "directors": [
-        "Gil Kenan"
-      ]
-    },
-    {
-      "id": "peter_rabbit",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Peter Rabbit",
-      "original_title": "Peter Rabbit",
-      "year": 2018,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Fantasy",
-        "Adventure"
-      ],
-      "rating": 5.8,
-      "votes": 2000,
-      "tomatometer": 63,
-      "audience_score": 56,
-      "runtime_minutes": 95,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/ttBWSWB1kN_pbfXeKJHKlJnCbzQ=/300x450/v2/https://resizing.flixster.com/TKLoK-5rERDBavMQkHXhn8p_qQ4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0YmY4NTExLTA2MzktNDBkNS1iZDFkLWM5Y2JmYWM3NjdhNi53ZWJw",
-      "plot": "Peter Rabbit and his three sisters -- Flopsy, Mopsy and Cotton-Tail -- enjoy spending their days in Mr. McGregor's vegetable garden. When one of McGregor's relatives suddenly moves in, he's less than…",
-      "directors": [
-        "Will Gluck"
-      ]
-    },
-    {
-      "id": "poor_things",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Poor Things",
-      "original_title": "Poor Things",
-      "year": 2023,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Romance",
-        "Sci-Fi"
-      ],
-      "rating": 8.6,
-      "votes": 1832,
-      "tomatometer": 92,
-      "audience_score": 80,
-      "runtime_minutes": 141,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/41-nZgRGtg_LBuj152ZI3N7uDW8=/300x450/v2/https://resizing.flixster.com/U_RT77J5o2EfMC-DdAc7Dm8CkKY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNmM2FiYmJhLTFjYTgtNDljOC04MjQ4LTU1Yjg0M2NkNTdmZC5qcGc=",
-      "plot": "From filmmaker Yorgos Lanthimos and producer Emma Stone comes the incredible tale and fantastical evolution of Bella Baxter (Stone), a young woman brought back to life by the brilliant and unorthodox…",
-      "directors": [
-        "Yorgos Lanthimos"
-      ]
-    },
-    {
-      "id": "the_boy_and_the_heron",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Boy and the Heron",
-      "original_title": "The Boy and the Heron",
-      "year": 2023,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Anime"
-      ],
-      "rating": 8.5,
-      "votes": 1785,
-      "tomatometer": 96,
-      "audience_score": 88,
-      "runtime_minutes": 124,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/oUKgbZ6HRiEUOv6TsB9bEsOQECo=/300x450/v2/https://resizing.flixster.com/Hk9p4GGqf6TNJ0f8TtJxTqjH5vA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3MTE5MDA5LWY0MjEtNDgyYi04OThmLTU4NDNlYTFjZDk0NC5qcGc=",
-      "plot": "From the legendary Studio Ghibli and Academy Award®-winning director Hayao Miyazaki (Spirited Away) comes a new critically-acclaimed fantasy adventure. After losing his mother during the war, young…",
-      "directors": [
-        "Hayao Miyazaki"
-      ]
-    },
-    {
-      "id": "little_2019",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Little",
-      "original_title": "Little",
-      "year": 2019,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "rating": 5.0,
-      "votes": 1723,
-      "tomatometer": 46,
-      "audience_score": 63,
-      "runtime_minutes": 109,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/WhBMW1Lb_Hy06EZz17YRAT0jFDk=/300x450/v2/https://resizing.flixster.com/rU2YjzKXePINlkMahzeQWRkDhzI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3ZGY0M2M5LTM0M2YtNGMxYS04OTcyLTMxM2Y5MDZkZTliNC53ZWJw",
-      "plot": "Jordan is a take-no-prisoners tech mogul who torments her long-suffering assistant, April, and the rest of her employees on a daily basis. She soon faces an unexpected threat to her personal life and…",
-      "directors": [
-        "Tina Gordon"
-      ]
-    },
-    {
-      "id": "trolls_world_tour",
-      "category": "musical",
-      "type": "movie",
-      "title": "Trolls World Tour",
-      "original_title": "Trolls World Tour",
-      "year": 2020,
-      "genres": [
-        "Kids & Family",
-        "Musical",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 6.2,
-      "votes": 1716,
-      "tomatometer": 72,
-      "audience_score": 57,
-      "runtime_minutes": 91,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/8QlbbgYgABZSiRxMGeL1fE7CMaw=/300x450/v2/https://resizing.flixster.com/1lknEFNULzwy70ac1mEoGT0dIMo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5MTVjZWMzLTMyYzEtNDI3MS1iMTc2LTg1MzI4YmU3NTNjNi53ZWJw",
-      "plot": "Poppy and Branch discover that there are six different troll tribes scattered over six different lands. Each tribe is also devoted to six different kinds of music -- funk, country, techno, classical,…",
-      "directors": [
-        "Walt Dohrn"
-      ]
-    },
-    {
-      "id": "space_jam_a_new_legacy",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Space Jam: A New Legacy",
-      "original_title": "Space Jam: A New Legacy",
-      "year": 2021,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 4.4,
-      "votes": 1702,
-      "tomatometer": 25,
-      "audience_score": 79,
-      "runtime_minutes": 115,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/5eTvGqanp6a1tM39yKgE3s757Bw=/300x450/v2/https://resizing.flixster.com/0y2H-YoyJv43ZWXg5TW6Zb2phxQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q3MGJhNDU2LTkxYjEtNGE3Ny1iOTIxLTM1M2UxYTdjMzNkMi5qcGc=",
-      "plot": "When LeBron James and his young son Dom are trapped in a digital space by a rogue A.I., LeBron must get them home safe by leading Bugs, Lola Bunny and the whole gang of notoriously undisciplined…",
-      "directors": [
-        "Malcolm D. Lee"
-      ]
-    },
-    {
-      "id": "bloodshot_2020",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Bloodshot",
-      "original_title": "Bloodshot",
-      "year": 2020,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 4.7,
-      "votes": 1654,
-      "tomatometer": 31,
-      "audience_score": 78,
-      "runtime_minutes": 109,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/6ruognX8D1zdn0EBUuiT3cMZrSU=/300x450/v2/https://resizing.flixster.com/qDfMj4GN3v5K-J0Q-ZRFB8nbXLM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0OGJkZWMxLWUzZmYtNGU2Yi04NjEyLWE1NGZjOTlhMDZiNi53ZWJw",
-      "plot": "Recently killed in action, soldier Ray Garrison gets a new lease on life when the RST Corp. brings him back from the dead. With an army of nanotechnology in his veins, he's an unstoppable force --…",
-      "directors": [
-        "Dave Wilson"
-      ]
-    },
-    {
-      "id": "ricky_stanicky",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Ricky Stanicky",
-      "original_title": "Ricky Stanicky",
-      "year": 2024,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "rating": 5.2,
-      "votes": 1608,
-      "tomatometer": 45,
-      "audience_score": 69,
-      "runtime_minutes": 108,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ZH8g3gVLhtq4Ob9mcMQWz-FsyMo=/300x450/v2/https://resizing.flixster.com/SsAZOs8PJtG9M3RLBEVJslhkEcI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U1NzgwY2Q5LWRiMjktNGE3YS1hNTc3LWRhYmVjODBmMTk2Yi5wbmc=",
-      "plot": "When three childhood best friends pull a prank gone wrong, they invent the imaginary Ricky Stanicky to get them out of trouble! Twenty years after creating this 'friend,' Dean, JT, and Wes (Zac…",
-      "directors": [
-        "Peter Farrelly"
-      ]
-    },
-    {
-      "id": "the_boss_baby_family_business",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Boss Baby: Family Business",
-      "original_title": "The Boss Baby: Family Business",
-      "year": 2021,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 5.3,
-      "votes": 1572,
-      "tomatometer": 47,
-      "audience_score": 89,
-      "runtime_minutes": 107,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/dNGm6iqgxWkHySoduaSvTHbBdLc=/300x450/v2/https://resizing.flixster.com/UauXyhYmV77HTI1VU8m0OzspdqM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmMTg3ODU5LWJlNWEtNGNhNC1hMGNlLTU2YTU2MDIzODllNS5qcGc=",
-      "plot": "In the sequel to DreamWorks Animation’s Oscar®-nominated blockbuster comedy, the Templeton brothers--Tim (James Marsden, X-Men franchise) and his Boss Baby little bro Ted (Alec Baldwin)--have become…",
-      "directors": [
-        "Tom McGrath"
-      ]
-    },
-    {
-      "id": "monster_hunter",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Monster Hunter",
-      "original_title": "Monster Hunter",
-      "year": 2020,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.9,
-      "votes": 1501,
-      "tomatometer": 45,
-      "audience_score": 70,
-      "runtime_minutes": 103,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/9c9kL6YUzUj88_dDu8He6GkMPiQ=/300x450/v2/https://resizing.flixster.com/5K4_8bBnkj3VGmosL9DoR1WSK6Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhMmE2MzcxLWVjYjgtNDM1Ny1iYzE0LTc4ZTkzNWJlNDg0OC5qcGc=",
-      "plot": "Behind our world, there is another -- a world of dangerous and powerful monsters that rule their domain with deadly ferocity. When Lt. Artemis and her loyal soldiers are transported from our world to…",
-      "directors": [
-        "Paul W.S. Anderson"
-      ]
-    },
-    {
-      "id": "before_i_wake",
-      "category": "horror",
-      "type": "movie",
-      "title": "Before I Wake",
-      "original_title": "Before I Wake",
-      "year": 2016,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Fantasy"
-      ],
-      "rating": 6.6,
-      "votes": 1482,
-      "tomatometer": 67,
-      "audience_score": 48,
-      "runtime_minutes": 97,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/Cpm0LE5EMZ50vJUAw1DSH5-PhME=/300x450/v2/https://resizing.flixster.com/rzFhxQaRJXf0GYUUykdu1rvPNZ0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzNzMzZmE0LWYyYTMtNDhlOS1hODY2LTE0YTg5M2Q0N2E5Ny53ZWJw",
-      "plot": "Foster parents Mark and Jessie welcome 8-year-old Cody into their home. The boy tells Jessie that he's terrified to fall asleep, but she assumes it's just a natural fear for any young child. The…",
-      "directors": [
-        "Mike Flanagan"
-      ]
-    },
-    {
-      "id": "peter_rabbit_2_the_runaway",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Peter Rabbit 2: The Runaway",
-      "original_title": "Peter Rabbit 2: The Runaway",
-      "year": 2021,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Fantasy",
-        "Adventure"
-      ],
-      "rating": 6.1,
-      "votes": 1431,
-      "tomatometer": 68,
-      "audience_score": 89,
-      "runtime_minutes": 86,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/AN3O5ExtZ6UzOig9q-UPxJ1jrSc=/300x450/v2/https://resizing.flixster.com/u437LPGi5hgH7sE3dfQR2E7V69M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdkMDU4ZjFiLTViYTAtNGQ2NS1hZWM1LTBjYTYzYjVkZjNlMS5qcGc=",
-      "plot": "In PETER RABBIT™ 2: THE RUNAWAY, the lovable rogue is back.  Bea, Thomas, and the rabbits have created a makeshift family, but despite his best efforts, Peter can’t seem to shake his mischievous…",
-      "directors": [
-        "Will Gluck"
-      ]
-    },
-    {
-      "id": "trolls_band_together",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Trolls Band Together",
-      "original_title": "Trolls Band Together",
-      "year": 2023,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 5.9,
-      "votes": 1431,
-      "tomatometer": 64,
-      "audience_score": 92,
-      "runtime_minutes": null,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/8kk8rxe91Nhu8iB3yopoj8RTrKU=/300x450/v2/https://resizing.flixster.com/088CR_IQfjohPPgiKAp-qOoRE7c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlYTYwNDI1LTFhYWYtNGQwNS1iMWRlLTFmZjYxMDRjM2Q5MC5qcGc=",
-      "plot": "After two films of true friendship and relentless flirting, Poppy (Anna Kendrick) and Branch (Justin Timberlake) are now officially, finally, a couple (#broppy)! As they grow closer, Poppy discovers…",
-      "directors": [
-        "Walt Dohrn"
-      ]
-    },
-    {
-      "id": "wish_2023",
-      "category": "musical",
-      "type": "movie",
-      "title": "Wish",
-      "original_title": "Wish",
-      "year": 2023,
-      "genres": [
-        "Kids & Family",
-        "Fantasy",
-        "Adventure",
-        "Comedy",
-        "Animation",
-        "Musical"
-      ],
-      "rating": 5.6,
-      "votes": 1373,
-      "tomatometer": 48,
-      "audience_score": 80,
-      "runtime_minutes": 92,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/J-QOLCFvdTg9w1XINedwHqd9ZmI=/300x450/v2/https://resizing.flixster.com/qIk5F8LNkRDAxu6Tn6XvYJ1rVMg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyODNiYmIxLTYyOWMtNDJiNi1iZmZlLTE4ZGQ2MGQwZGFiNS5qcGc=",
-      "plot": "Walt Disney Animation Studios' \"Wish\" is an all-new musical-comedy welcoming audiences to the magical kingdom of Rosas, where Asha, a sharp-witted idealist, makes a wish so powerful that it is…",
-      "directors": [
-        "Chris Buck",
-        "Fawn Veerasunthorn"
-      ]
-    },
-    {
-      "id": "mowgli_legend_of_the_jungle",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Mowgli: Legend of the Jungle",
-      "original_title": "Mowgli: Legend of the Jungle",
-      "year": 2018,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "rating": 5.5,
-      "votes": 1352,
-      "tomatometer": 51,
-      "audience_score": 51,
-      "runtime_minutes": 105,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/tc-z4THEdy8duBCopTU8SMdH6us=/300x450/v2/https://resizing.flixster.com/C1Fk2RZr3WBsThxT0yyxoL9URQE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JiOWMyN2JkLWE3ZjItNGE5MS1hNTM5LWM0MjljNDE4ZTMxYi53ZWJw",
-      "plot": "Human child Mowgli is raised by a wolf pack in the jungles of India. As he learns the often harsh rules of the jungle, under the tutelage of a bear named Baloo and a panther named Bagheera, Mowgli…",
-      "directors": [
-        "Andy Serkis"
-      ]
-    },
-    {
-      "id": "renfield",
-      "category": "horror",
-      "type": "movie",
-      "title": "Renfield",
-      "original_title": "Renfield",
-      "year": 2023,
-      "genres": [
-        "Horror",
-        "Action",
-        "Comedy",
-        "Fantasy"
-      ],
-      "rating": 5.8,
-      "votes": 1201,
-      "tomatometer": 58,
-      "audience_score": 78,
-      "runtime_minutes": 93,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/QYmhdT9QRTU6SKXn6qOBeIPKtpw=/300x450/v2/https://resizing.flixster.com/T4HHyueGWhklRu6uZss1jA5PiTY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAwODEwNjcxLTFjZWMtNDJlNC1hOGI2LWIwNzlkZjg3MjFlNS5qcGc=",
-      "plot": "In this modern monster tale of Dracula's loyal servant, Nicholas Hoult (Mad Max: Fury Road, X-Men franchise) stars as Renfield, the tortured aide to history's most narcissistic boss, Dracula (Oscar®…",
-      "directors": [
-        "Chris McKay"
-      ]
-    },
-    {
-      "id": "a_town_called_panic",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "A Town Called Panic",
-      "original_title": "A Town Called Panic",
-      "year": 2009,
-      "genres": [
-        "Kids & Family",
-        "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 7.1,
-      "votes": 1155,
-      "tomatometer": 81,
-      "audience_score": 86,
-      "runtime_minutes": 75,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/JvwDxspkz6LDzjwtZzv08OibjyM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7884805_p_v8_ag.jpg",
-      "plot": "In this animated film, Cowboy (Stéphane Aubier) and Indian (Bruce Ellison) plan to construct a barbecue pit for the birthday of their friend, Horse (Vincent Patar). The delivery of an accidental…",
-      "directors": [
-        "Stéphane Aubier",
-        "Vincent Patar"
-      ]
-    },
-    {
-      "id": "wild_thornberrys_movie",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Wild Thornberrys Movie",
-      "original_title": "The Wild Thornberrys Movie",
-      "year": 2002,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Action",
-        "Animation"
-      ],
-      "rating": 6.7,
-      "votes": 1024,
-      "tomatometer": 80,
-      "audience_score": 51,
-      "runtime_minutes": 85,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/24J_AmSIQYOw5a330YMlgtAhVoM=/300x450/v2/https://resizing.flixster.com/4T_lkAPOY5CS_KOeDndYGrnJI_o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1YzE5Y2U5LTE5MmItNGY1Yi05YjhhLThjMTVlMGYwNjE3ZC53ZWJw",
-      "plot": "The Wild Thornberrys feature film finds one of America's favorite animated families going on wild adventures around the world. Now, 12-year-old Eliza is in Africa where she meets a mysterious shaman…",
-      "directors": [
-        "Cathy Malkasian",
-        "Jeff McGrath"
-      ]
-    },
-    {
-      "id": "strange_world",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Strange World",
-      "original_title": "Strange World",
-      "year": 2022,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation",
-        "Action"
-      ],
-      "rating": 6.3,
-      "votes": 1018,
-      "tomatometer": 72,
-      "audience_score": 66,
-      "runtime_minutes": 105,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/4rUnsIs1nBjxZ7rCMmA86X0XU_8=/300x450/v2/https://resizing.flixster.com/2xMkNqbnCcVFU3sEAhAblUFRJa8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5ZjM1MDZlLWU4ZWEtNDRjMi05Y2ViLTk4ZmY1YmQ3NjU2MS5qcGc=",
-      "plot": "Walt Disney Animation Studios' original action-packed adventure \"Strange World\" introduces a legendary family of explorers, the Clades, as they attempt to navigate an uncharted, treacherous land…",
-      "directors": [
-        "Don Hall",
-        "Qui Nguyen"
-      ]
-    },
-    {
-      "id": "the_life_of_chuck",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "The Life of Chuck",
-      "original_title": "The Life of Chuck",
-      "year": 2025,
-      "genres": [
-        "Drama",
-        "Sci-Fi",
-        "Fantasy"
-      ],
-      "rating": 7.5,
-      "votes": 970,
-      "tomatometer": 80,
-      "audience_score": 88,
-      "runtime_minutes": 110,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/JZTTc-_2bcEIMOh-83PNTn9BzwY=/300x450/v2/https://resizing.flixster.com/FKOQEBzqXYHqYQlA5ZskMWdbWpo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzNWYwN2U1LWJmZmYtNGYwMi1iN2EwLTZhN2E2ZTQ3MzM0OC5qcGc=",
-      "plot": "A genre-bending tale celebrating the life of Charles \"Chuck\" Krantz, as he experiences the wonder of love, the heartbreak of loss and the multitudes contained in all of us.",
-      "directors": [
-        "Mike Flanagan"
-      ]
-    },
-    {
-      "id": "erik_the_viking_1989",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Erik the Viking",
-      "original_title": "Erik the Viking",
-      "year": 1989,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "rating": 5.1,
-      "votes": 878,
-      "tomatometer": 50,
-      "audience_score": 58,
-      "runtime_minutes": 103,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/JSFPQwJ8JD-JV6ea7gKmgt4SOsc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11829_p_v8_aa.jpg",
-      "plot": "A Viking with a conscience, Erik (Tim Robbins) tires of pillaging and decides to set out on a quest. When the wise Freya (Eartha Kitt) informs Erik that a great mythic wolf has eaten the sun, the…",
-      "directors": [
-        "Terry Jones"
       ]
     }
   ]

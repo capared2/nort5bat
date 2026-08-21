@@ -1,8 +1,31 @@
 {
   "genre": "short",
   "name": "Short",
-  "count": 1,
+  "count": 2,
   "titles": [
+    {
+      "id": "the_elephant_whisperers",
+      "category": "documentary",
+      "type": "movie",
+      "title": "The Elephant Whisperers",
+      "original_title": "The Elephant Whisperers",
+      "year": 2022,
+      "genres": [
+        "Documentary",
+        "Short"
+      ],
+      "rating": 7.8,
+      "votes": 164,
+      "tomatometer": 100,
+      "audience_score": 88,
+      "runtime_minutes": 41,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/jzwfeWOIlRY_zvwvteMNvySsAhA=/300x450/v2/https://resizing.flixster.com/qMpwKFgZhTvmSv-6Lttg-FobhNk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFhMDRlNTQ4LTUwNWQtNGVmOC04ZGFjLTZmNDNlOTk5M2I3OC5qcGc=",
+      "plot": "Bomman and Bellie, a couple in South India, devote their lives to caring for an orphaned baby elephant named Raghu, forging a family like no other.",
+      "directors": [
+        "Kartiki Gonsalves"
+      ]
+    },
     {
       "id": "a_recipe_for_seduction",
       "category": "romance",

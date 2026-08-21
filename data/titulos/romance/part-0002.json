@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-08-20T23:32:05.714381Z",
+  "updated_at": "2026-08-21T02:07:57.986816Z",
   "titles": [
     {
       "id": "1189416-shelter",
@@ -123,7 +123,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:30:34.749748Z"
+      "scraped_at": "2026-08-21T02:01:39.377459Z"
     },
     {
       "id": "1211619-remember_me",
@@ -142,7 +142,7 @@
       "runtime_minutes": 113,
       "certificate": "PG-13",
       "rating": 4.6,
-      "votes": 20005,
+      "votes": 20006,
       "tomatometer": 26,
       "tomatometer_count": 134,
       "tomatometer_certified": false,
@@ -254,7 +254,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:25:44.918052Z"
+      "scraped_at": "2026-08-21T02:01:54.208974Z"
     },
     {
       "id": "a_journal_for_jordan",
@@ -393,7 +393,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:23:04.813419Z"
+      "scraped_at": "2026-08-21T02:02:55.472636Z"
     },
     {
       "id": "a_little_bit_of_heaven_2011",
@@ -519,7 +519,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:25:38.387561Z"
+      "scraped_at": "2026-08-21T02:02:56.325057Z"
     },
     {
       "id": "a_recipe_for_seduction",
@@ -618,7 +618,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:23:01.305535Z"
+      "scraped_at": "2026-08-21T02:03:08.465094Z"
     },
     {
       "id": "about_a_boy",
@@ -748,7 +748,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:25:23.675270Z"
+      "scraped_at": "2026-08-21T02:03:21.870440Z"
     },
     {
       "id": "after_we_collided",
@@ -877,7 +877,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:26:33.892957Z"
+      "scraped_at": "2026-08-21T02:03:46.572640Z"
     },
     {
       "id": "all_my_life_2020",
@@ -996,7 +996,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:23:03.011263Z"
+      "scraped_at": "2026-08-21T02:04:10.095208Z"
     },
     {
       "id": "and_so_it_goes",
@@ -1130,7 +1130,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:25:39.097420Z"
+      "scraped_at": "2026-08-21T02:04:44.741442Z"
     },
     {
       "id": "anora",
@@ -1266,7 +1266,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:23:15.198611Z"
+      "scraped_at": "2026-08-21T02:04:56.012877Z"
     },
     {
       "id": "atonement",
@@ -1395,7 +1395,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:26:41.221873Z"
+      "scraped_at": "2026-08-21T02:05:41.652857Z"
     },
     {
       "id": "barefoot_2014",
@@ -1521,7 +1521,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:25:35.728467Z"
+      "scraped_at": "2026-08-21T02:06:16.942264Z"
     },
     {
       "id": "blackbird_2022",
@@ -1623,7 +1623,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:22:59.198746Z"
+      "scraped_at": "2026-08-21T02:07:26.750576Z"
     },
     {
       "id": "blended",
@@ -1748,7 +1748,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:25:26.166083Z"
+      "scraped_at": "2026-08-21T02:07:35.604008Z"
     },
     {
       "id": "blue_jasmine",
@@ -1866,10 +1866,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Blue-Jasmine/458235?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:27:23.122631Z"
+      "scraped_at": "2026-08-21T02:07:57.651380Z"
     },
     {
       "id": "brokeback_mountain",

@@ -1,10 +1,34 @@
 {
   "bucket": "ws",
-  "count": 4,
+  "count": 11,
   "titles": {
+    "all_my_puny_sorrows": [
+      "drama",
+      12
+    ],
+    "facing_windows": [
+      "romance",
+      5
+    ],
     "it_follows": [
       "horror",
       7
+    ],
+    "murder_of_crows": [
+      "mystery-thriller",
+      7
+    ],
+    "sherlock_holmes_a_game_of_shadows": [
+      "mystery-thriller",
+      6
+    ],
+    "strange_bedfellows": [
+      "comedy",
+      14
+    ],
+    "teenage_mutant_ninja_turtles_out_of_the_shadows": [
+      "comedy",
+      14
     ],
     "the_gallows": [
       "horror",
@@ -17,6 +41,10 @@
     "voice_of_shadows": [
       "horror",
       6
+    ],
+    "where_hope_grows": [
+      "drama",
+      10
     ]
   }
 }
