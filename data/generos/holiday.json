@@ -1,7 +1,7 @@
 {
   "genre": "holiday",
   "name": "Holiday",
-  "count": 41,
+  "count": 49,
   "titles": [
     {
       "id": "halloween_2007",
@@ -52,6 +52,31 @@
       ]
     },
     {
+      "id": "valentines_day_2010",
+      "category": "romance",
+      "type": "movie",
+      "title": "Valentine's Day",
+      "original_title": "Valentine's Day",
+      "year": 2010,
+      "genres": [
+        "Holiday",
+        "Romance",
+        "Comedy",
+        "LGBTQ+"
+      ],
+      "rating": 4.2,
+      "votes": 33676,
+      "tomatometer": 18,
+      "audience_score": 47,
+      "runtime_minutes": 119,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/-uDzhl-TLOmWlCjf9R3x3DLcp40=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3582399_p_v10_aa.jpg",
+      "plot": "In a series of interconnected stories, various Los Angeles residents (Jessica Alba, Jessica Biel, Bradley Cooper) wend their way through the highs and lows of love during a single day. As the holiday…",
+      "directors": [
+        "Garry Marshall"
+      ]
+    },
+    {
       "id": "h2_halloween_2",
       "category": "horror",
       "type": "movie",
@@ -99,6 +124,31 @@
       "plot": "Though London awaits the joyful arrival of Christmas, miserly Ebenezer Scrooge (Jim Carrey) thinks it's all humbug, berating his faithful clerk and cheerful nephew for their view. Later, Scrooge…",
       "directors": [
         "Robert Zemeckis"
+      ]
+    },
+    {
+      "id": "hocus_pocus",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Hocus Pocus",
+      "original_title": "Hocus Pocus",
+      "year": 1993,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 4.8,
+      "votes": 16047,
+      "tomatometer": 42,
+      "audience_score": 72,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/oIXg8JAmy8_o0j4gjqNXv5qRSuA=/300x450/v2/https://resizing.flixster.com/Scc0Y9PELfnUswt1i-kx97ZdXL4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhN2FjZTdmLTExZDItNDg0NC05ZDU1LThmMzMyYzk5NTEyNS5qcGc=",
+      "plot": "For 30 years the Sanderson Sisters have been casting spells, now see them back on the big screen for a limited time as we celebrate the 30th Anniversary of Hocus Pocus! Conjured up by some…",
+      "directors": [
+        "Kenny Ortega"
       ]
     },
     {
@@ -494,6 +544,56 @@
       ]
     },
     {
+      "id": "miracle_on_34th_street_1994",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Miracle on 34th Street",
+      "original_title": "Miracle on 34th Street",
+      "year": 1994,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Fantasy"
+      ],
+      "rating": 6.3,
+      "votes": 3093,
+      "tomatometer": 59,
+      "audience_score": 62,
+      "runtime_minutes": 114,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Nvxl7uLYuSguCh6UkWRphNYmieE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16206_p_v8_al.jpg",
+      "plot": "Six-year-old Susan Walker (Mara Wilson) is skeptical of the Christmas myth surrounding Santa Claus, a trait she perhaps learned from her mother, Dorey (Elizabeth Perkins). When tasked with hiring the…",
+      "directors": [
+        "Les Mayfield"
+      ]
+    },
+    {
+      "id": "the_nightmare_before_christmas",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Tim Burton's The Nightmare Before Christmas",
+      "original_title": "Tim Burton's The Nightmare Before Christmas",
+      "year": 1993,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Fantasy",
+        "Comedy",
+        "Animation"
+      ],
+      "rating": 8.5,
+      "votes": 2990,
+      "tomatometer": 95,
+      "audience_score": 91,
+      "runtime_minutes": 75,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/oobdoQJfgzVi5tB0NAGxS2GpHJI=/300x450/v2/https://resizing.flixster.com/GmPxiULCcMoq3LRXfZPrDHllW0Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiZWI3MzcxLTg0NTktNDRkNi1iNzFmLTZiMDE5MTc1NTRiNi5wbmc=",
+      "plot": "The film follows the misadventures of Jack Skellington, Halloweentown's beloved pumpkin king, who has become bored with the same annual routine of frightening people in the \"real world.\" When Jack…",
+      "directors": [
+        "Henry Selick"
+      ]
+    },
+    {
       "id": "bad_santa_2",
       "category": "comedy",
       "type": "movie",
@@ -562,6 +662,31 @@
       "plot": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn't prepared for a surprise combatant: Santa Claus (David Harbour, Black…",
       "directors": [
         "Tommy Wirkola"
+      ]
+    },
+    {
+      "id": "jaws",
+      "category": "horror",
+      "type": "movie",
+      "title": "Jaws",
+      "original_title": "Jaws",
+      "year": 1975,
+      "genres": [
+        "Holiday",
+        "Mystery & Thriller",
+        "Horror",
+        "Adventure"
+      ],
+      "rating": 9.5,
+      "votes": 2043,
+      "tomatometer": 97,
+      "audience_score": 98,
+      "runtime_minutes": 124,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ULDyueOk40yfDKypayBr5mulWPw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8174_p_v8_av.jpg",
+      "plot": "When a young woman is killed by a shark while skinny-dipping near the New England tourist town of Amity Island, police chief Martin Brody (Roy Scheider) wants to close the beaches, but mayor Larry…",
+      "directors": [
+        "Steven Spielberg"
       ]
     },
     {
@@ -663,6 +788,31 @@
       ]
     },
     {
+      "id": "goosebumps_2_haunted_halloween",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Goosebumps 2: Haunted Halloween",
+      "original_title": "Goosebumps 2: Haunted Halloween",
+      "year": 2018,
+      "genres": [
+        "Holiday",
+        "Fantasy",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 5.5,
+      "votes": 999,
+      "tomatometer": 48,
+      "audience_score": 37,
+      "runtime_minutes": 90,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/IGQIib-uPs0RO_geiQtn83gLe2A=/300x450/v2/https://resizing.flixster.com/9CJDxvrQOHME9n1xjnqDGHBxT-o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmYWU3NTdhLWEwMzktNDhiZS1hMzVlLTgyYTQyY2Y4MDUwOS53ZWJw",
+      "plot": "While collecting junk one day, best friends Sonny and Sam meet Slappy, a mischievous talking dummy from an unpublished \"Goosebumps\" book by R.L. Stine. Hoping to start his own family, Slappy kidnaps…",
+      "directors": [
+        "Ari Sandel"
+      ]
+    },
+    {
       "id": "the_man_who_invented_christmas",
       "category": "history",
       "type": "movie",
@@ -714,6 +864,30 @@
       ]
     },
     {
+      "id": "silent_night_2010",
+      "category": "horror",
+      "type": "movie",
+      "title": "Silent Night",
+      "original_title": "Silent Night",
+      "year": 2012,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.6,
+      "votes": 778,
+      "tomatometer": 62,
+      "audience_score": 32,
+      "runtime_minutes": 94,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/rO0stWUGAF60ncvTOs74cWMCDRs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9545048_p_v8_an.jpg",
+      "plot": "A vicious killer dressed as Santa Claus hides in plain sight during a small town's annual Christmas festivities.",
+      "directors": [
+        "Steven C. Miller"
+      ]
+    },
+    {
       "id": "hell_fest",
       "category": "horror",
       "type": "movie",
@@ -735,6 +909,31 @@
       "plot": "On Halloween night, three young women and their respective boyfriends head to Hell Fest -- a ghoulish traveling carnival that features a labyrinth of rides, games and mazes. They soon face a bloody…",
       "directors": [
         "Gregory Plotkin"
+      ]
+    },
+    {
+      "id": "let_it_snow_2019",
+      "category": "romance",
+      "type": "movie",
+      "title": "Let It Snow",
+      "original_title": "Let It Snow",
+      "year": 2019,
+      "genres": [
+        "Holiday",
+        "Romance",
+        "Comedy",
+        "LGBTQ+"
+      ],
+      "rating": 5.6,
+      "votes": 544,
+      "tomatometer": 85,
+      "audience_score": 48,
+      "runtime_minutes": 93,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/w-8ZFs1dwG5E2DfvTVUUJ9xCQyU=/300x450/v2/https://resizing.flixster.com/t7eBLfPv0ikRx_A0zy84hL_GADA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmMzI0YTIxLWNiOTEtNGRiMy05MzM1LTRkMWNiMjA3OTZiYS53ZWJw",
+      "plot": "A snowstorm brings a group of young people together.",
+      "directors": [
+        "Luke Snellin"
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "genre": "adventure",
   "name": "Adventure",
-  "count": 1044,
+  "count": 1222,
   "titles": [
     {
       "id": "the_dark_knight",
@@ -936,6 +936,32 @@
       ]
     },
     {
+      "id": "wall_e",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "WALL-E",
+      "original_title": "WALL-E",
+      "year": 2008,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Sci-Fi",
+        "Comedy",
+        "Animation"
+      ],
+      "rating": 8.9,
+      "votes": 151032,
+      "tomatometer": 95,
+      "audience_score": 90,
+      "runtime_minutes": 97,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/4In1lOkyOCqU4kSxcIB9-qVzUX8=/300x450/v2/https://resizing.flixster.com/cAPBycTaGTyvL5knoQfGAocmLTY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkODNhNzI1LTRhOWItNDg0OC05ODcxLWM5NDlmMzVhZTYxYi53ZWJw",
+      "plot": "WALL-E, short for Waste Allocation Load Lifter Earth-class, is the last robot left on Earth. He spends his days tidying up the planet, one piece of garbage at a time. But during 700 years, WALL-E has…",
+      "directors": [
+        "Andrew Stanton"
+      ]
+    },
+    {
       "id": "thor",
       "category": "fantasy",
       "type": "movie",
@@ -1184,6 +1210,32 @@
       ]
     },
     {
+      "id": "the_lion_king",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Lion King",
+      "original_title": "The Lion King",
+      "year": 1994,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 8.7,
+      "votes": 128660,
+      "tomatometer": 92,
+      "audience_score": 93,
+      "runtime_minutes": 88,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/tVjf_Mu5QXlLpuPLHKpUiYitJTo=/300x450/v2/https://resizing.flixster.com/D8Qse6SPionYXKVFkWo1bNKgdyo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxYzFiNGM2LTJmYWUtNGYyYi04Y2ZiLWRiMzk4YTA0MzdiYS5qcGc=",
+      "plot": "This Disney animated feature follows the adventures of the young lion Simba (Jonathan Taylor Thomas), the heir of his father, Mufasa (James Earl Jones). Simba's wicked uncle, Scar (Jeremy Irons),…",
+      "directors": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ]
+    },
+    {
       "id": "star_wars_episode_v_the_empire_strikes_back",
       "category": "sci-fi",
       "type": "movie",
@@ -1330,6 +1382,30 @@
       "plot": "When a long-missing page from the diary of assassin John Wilkes Booth suddenly resurfaces, it implicates the great-great-grandfather of treasure hunter Ben Gates (Nicolas Cage) as a conspirator in…",
       "directors": [
         "Jon Turteltaub"
+      ]
+    },
+    {
+      "id": "harry_potter_and_the_half_blood_prince",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Harry Potter and the Half-Blood Prince",
+      "original_title": "Harry Potter and the Half-Blood Prince",
+      "year": 2009,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.3,
+      "votes": 118493,
+      "tomatometer": 83,
+      "audience_score": 78,
+      "runtime_minutes": 153,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/SqsDiMjuz8cC3JzWh79OVsl8rY8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176377_p_v8_aa.jpg",
+      "plot": "As Death Eaters wreak havoc in both Muggle and Wizard worlds, Hogwarts is no longer a safe haven for students. Though Harry suspects there are new dangers lurking within the castle walls, Dumbledore…",
+      "directors": [
+        "David Yates"
       ]
     },
     {
@@ -1928,6 +2004,30 @@
       ]
     },
     {
+      "id": "harry_potter_and_the_prisoner_of_azkaban",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "original_title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 8.1,
+      "votes": 97662,
+      "tomatometer": 90,
+      "audience_score": 86,
+      "runtime_minutes": 141,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/gbh2ymPhmvka-URe2Z1MukHLhsY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34483_p_v8_bd.jpg",
+      "plot": "Harry Potter's third year at Hogwarts starts off badly when he learns deranged killer Sirius Black has escaped from Azkaban prison and is bent on murdering the teenage wizard. While Hermione's cat…",
+      "directors": [
+        "Alfonso Cuarón"
+      ]
+    },
+    {
       "id": "deadpool",
       "category": "comedy",
       "type": "movie",
@@ -1998,6 +2098,30 @@
       "plot": "Long ago, legions of monstrous creatures called Kaiju arose from the sea, bringing with them all-consuming war. To fight the Kaiju, mankind developed giant robots called Jaegers, designed to be…",
       "directors": [
         "Guillermo del Toro"
+      ]
+    },
+    {
+      "id": "harry_potter_and_the_sorcerers_stone",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "original_title": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 7.3,
+      "votes": 95467,
+      "tomatometer": 80,
+      "audience_score": 82,
+      "runtime_minutes": 152,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/9LZo5xLk1elWVeL78f9KZuwhCFU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28630_p_v8_at.jpg",
+      "plot": "Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses…",
+      "directors": [
+        "Chris Columbus"
       ]
     },
     {
@@ -2077,6 +2201,31 @@
       ]
     },
     {
+      "id": "jurassic_park",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Jurassic Park",
+      "original_title": "Jurassic Park",
+      "year": 1993,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.6,
+      "votes": 93142,
+      "tomatometer": 91,
+      "audience_score": 91,
+      "runtime_minutes": 126,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ZUNEX6yjlJU7FIsq5ijpSxrbNK4=/300x450/v2/https://resizing.flixster.com/dqWYuJel6FX3Ox51DWfMv77fChM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU5OWIyYTUzLTVmNTQtNDIxMS04MTdmLWU3ZDc5YmQ5YjM2Zi5qcGc=",
+      "plot": "In Steven Spielberg's massive blockbuster, paleontologists Alan Grant (Sam Neill) and Ellie Sattler (Laura Dern) and mathematician Ian Malcolm (Jeff Goldblum) are among a select group chosen to tour…",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
       "id": "night_at_the_museum",
       "category": "fantasy",
       "type": "movie",
@@ -2151,6 +2300,31 @@
       "plot": "Years ago, motorcycle stuntman Johnny Blaze sold his soul to save the life of a loved one. Now, he transforms into a fiery, avenging agent of justice at night wherever evil roams. As the only one who…",
       "directors": [
         "Mark Steven Johnson"
+      ]
+    },
+    {
+      "id": "i_am_number_four",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "I Am Number Four",
+      "original_title": "I Am Number Four",
+      "year": 2011,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Mystery & Thriller",
+        "Adventure"
+      ],
+      "rating": 4.7,
+      "votes": 92253,
+      "tomatometer": 32,
+      "audience_score": 57,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/bNPymWxrtVFcl08Rp8cAAhGLX0s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8329406_p_v8_ad.jpg",
+      "plot": "John Smith (Alex Pettyfer) seems like an ordinary teenager, but he is an alien on the run from merciless enemies hunting him and the eight others like him. Always changing his identity and moving to…",
+      "directors": [
+        "D.J. Caruso"
       ]
     },
     {
@@ -2376,6 +2550,30 @@
       "plot": "Figuring they're all expendable, a U.S. intelligence officer decides to assemble a team of dangerous, incarcerated supervillains for a top-secret mission. Now armed with government weapons, Deadshot,…",
       "directors": [
         "David Ayer"
+      ]
+    },
+    {
+      "id": "harry_potter_and_the_chamber_of_secrets",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "original_title": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 7.3,
+      "votes": 86615,
+      "tomatometer": 82,
+      "audience_score": 80,
+      "runtime_minutes": 161,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/XmKWguhnDqzqSNGgNgbqPzM-ZPI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30737_p_v8_at.jpg",
+      "plot": "The follow-up to \"Harry Potter and the Sorcerer's Stone\" finds young wizard Harry Potter and his friends, Ron and Hermione, facing new challenges during their second year at Hogwarts School of…",
+      "directors": [
+        "Chris Columbus"
       ]
     },
     {
@@ -2877,6 +3075,30 @@
       "plot": "When shady circus magician Oscar Diggs (James Franco) is hurled away from Kansas into the wonderful land of Oz, he thinks that fame and fortune are his for the taking. However, three witches --…",
       "directors": [
         "Sam Raimi"
+      ]
+    },
+    {
+      "id": "spirited_away",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Spirited Away",
+      "original_title": "Spirited Away",
+      "year": null,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 8.8,
+      "votes": 76858,
+      "tomatometer": 96,
+      "audience_score": 96,
+      "runtime_minutes": 125,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/9rllsfpSUc5Fv2Yf16ICCmidt5Q=/300x450/v2/https://resizing.flixster.com/toMzSC_5b1NF7MxJ5-CJeL1S-Z8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlY2RiZDcyLWU5ZmEtNDliMy1iOTMyLTYzNzhjY2RjOWIxNy5qcGc=",
+      "plot": "10-year-old Chihiro moves with her parents to a new home in the Japanese countryside. After taking a wrong turn down a wooded path, Chihiro and her parents discover an amusement park with a stall…",
+      "directors": [
+        "Hayao Miyazaki"
       ]
     },
     {
@@ -3848,6 +4070,32 @@
       ]
     },
     {
+      "id": "the_grey_2012",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Grey",
+      "original_title": "The Grey",
+      "year": 2012,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Action",
+        "Mystery & Thriller",
+        "Horror"
+      ],
+      "rating": 7.0,
+      "votes": 61638,
+      "tomatometer": 80,
+      "audience_score": 61,
+      "runtime_minutes": 116,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/r4Dhv6g9ppBVzN_gytkc3Hl8wI0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8808792_p_v7_ap.jpg",
+      "plot": "Following a grueling five-week shift at an Alaskan oil refinery, workers led by sharpshooter John Ottway are flying home for a much-needed vacation. A brutal storm causes their plane to crash in the…",
+      "directors": [
+        "Joe Carnahan"
+      ]
+    },
+    {
       "id": "tangled",
       "category": "musical",
       "type": "movie",
@@ -4276,6 +4524,34 @@
       ]
     },
     {
+      "id": "aladdin_1992",
+      "category": "musical",
+      "type": "movie",
+      "title": "Aladdin",
+      "original_title": "Aladdin",
+      "year": 1992,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 8.6,
+      "votes": 52693,
+      "tomatometer": 96,
+      "audience_score": 92,
+      "runtime_minutes": 90,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/ruiuN-7-1AeNbPYo0ELAl1TnSKs=/300x450/v2/https://resizing.flixster.com/LVDFVhORfkZwxiYLfS5OlyEviFc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2YzljNDg0LTU3MzktNDI4Yi1iOGFmLTAzZDI5NmMwNzA1MS5qcGc=",
+      "plot": "When street rat Aladdin frees a genie from a lamp, he finds his wishes granted. However, he soon finds that the evil has other plans for the lamp -- and for Princess Jasmine. But can Aladdin save…",
+      "directors": [
+        "Ron Clements",
+        "John Musker"
+      ]
+    },
+    {
       "id": "furious_7",
       "category": "mystery-thriller",
       "type": "movie",
@@ -4297,6 +4573,31 @@
       "plot": "After defeating international terrorist Owen Shaw, Dominic Toretto (Vin Diesel), Brian O'Conner (Paul Walker) and the rest of the crew have separated to return to more normal lives. However, Deckard…",
       "directors": [
         "James Wan"
+      ]
+    },
+    {
+      "id": "back_to_the_future_part_ii",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Back to the Future Part II",
+      "original_title": "Back to the Future Part II",
+      "year": 1989,
+      "genres": [
+        "Comedy",
+        "Sci-Fi",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 6.6,
+      "votes": 52023,
+      "tomatometer": 63,
+      "audience_score": 86,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/y8PYN4VZ6AJgYp-bqT-OwbfdgLg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11991_p_v12_ap.jpg",
+      "plot": "In this zany sequel, time-traveling duo Marty McFly and Dr. Emmett Brown return from saving Marty's future son from disaster, only to discover their own time transformed. In this nightmarish version…",
+      "directors": [
+        "Robert Zemeckis"
       ]
     },
     {
@@ -4672,302 +4973,6 @@
       "directors": [
         "Chris Buck",
         "Jennifer Lee"
-      ]
-    },
-    {
-      "id": "over_the_hedge",
-      "category": "animation",
-      "type": "movie",
-      "title": "Over the Hedge",
-      "original_title": "Over the Hedge",
-      "year": 2006,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 7.0,
-      "votes": 48869,
-      "tomatometer": 75,
-      "audience_score": 71,
-      "runtime_minutes": 83,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/-pinAc00NGE_5RBigkXncPWLJLw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159725_p_v12_al.jpg",
-      "plot": "When Verne (Garry Shandling) and fellow woodland friends awake from winter's hibernation, they find they have some new neighbors: humans, and RJ (Bruce Willis), an opportunistic raccoon who shows the…",
-      "directors": [
-        "Tim Johnson",
-        "Karey Kirkpatrick"
-      ]
-    },
-    {
-      "id": "kingdom_of_heaven",
-      "category": "war",
-      "type": "movie",
-      "title": "Kingdom of Heaven",
-      "original_title": "Kingdom of Heaven",
-      "year": 2005,
-      "genres": [
-        "History",
-        "Drama",
-        "War",
-        "Adventure"
-      ],
-      "rating": 5.9,
-      "votes": 48646,
-      "tomatometer": 39,
-      "audience_score": 72,
-      "runtime_minutes": 145,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ugnci2L17gvfyMcNvaKZeLf_LeY=/300x450/v2/https://resizing.flixster.com/03P5JzPRuEJV9MTzulfOIUBM8EQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QyMGMyYmVmLTBiOWEtNGYyOS1iOWQzLTQ2MjlkNWY4ZTg3ZC5qcGc=",
-      "plot": "Still in grief over his wife's sudden death, village blacksmith Balian joins his long-estranged father, Baron Godfrey, as a crusader on the road to Jerusalem. After a perilous journey to the holy…",
-      "directors": [
-        "Ridley Scott"
-      ]
-    },
-    {
-      "id": "the_hurt_locker",
-      "category": "war",
-      "type": "movie",
-      "title": "The Hurt Locker",
-      "original_title": "The Hurt Locker",
-      "year": 2009,
-      "genres": [
-        "War",
-        "Drama",
-        "Mystery & Thriller",
-        "Action",
-        "Adventure"
-      ],
-      "rating": 8.7,
-      "votes": 48244,
-      "tomatometer": 96,
-      "audience_score": 84,
-      "runtime_minutes": 135,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/m7Vaf76Lxo2_TRgapSf2bkp431w=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p197175_p_v10_aa.jpg",
-      "plot": "Staff Sgt. William James (Jeremy Renner), Sgt. J.T. Sanborn (Anthony Mackie) and Specialist Owen Eldridge (Brian Geraghty) are members of a bomb-disposal unit in Baghdad. As their tour of duty enters…",
-      "directors": [
-        "Kathryn Bigelow"
-      ]
-    },
-    {
-      "id": "zack_snyders_justice_league",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Zack Snyder's Justice League",
-      "original_title": "Zack Snyder's Justice League",
-      "year": 2021,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 6.7,
-      "votes": 48218,
-      "tomatometer": 71,
-      "audience_score": 92,
-      "runtime_minutes": 242,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/gL1iom9m25vBMDGa5MMhX6hkkQ4=/300x450/v2/https://resizing.flixster.com/50SbC39OF-DRMPtiQIkDvrmV2SI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlOWJiYmU5LTdhMmYtNGU5YS04YmYyLTkwZWMyNDA0ZmZjMC5qcGc=",
-      "plot": "In ZACK SNYDER'S JUSTICE LEAGUE, determined to ensure Superman's (Henry Cavill) ultimate sacrifice was not in vain, Bruce Wayne (Ben Affleck) aligns forces with Diana Prince (Gal Gadot) with plans to…",
-      "directors": [
-        "Zack Snyder"
-      ]
-    },
-    {
-      "id": "enders-game",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Ender's Game",
-      "original_title": "Ender's Game",
-      "year": 2013,
-      "genres": [
-        "Sci-Fi",
-        "Adventure",
-        "Action"
-      ],
-      "rating": 6.1,
-      "votes": 48143,
-      "tomatometer": 63,
-      "audience_score": 65,
-      "runtime_minutes": 134,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/LA93QGSeF17QS-tDFlP9tlPaNCc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9983313_p_v10_ak.jpg",
-      "plot": "When hostile aliens called the Formics attack Earth, only the legendary heroics of Mazer Rackham (Ben Kingsley) manage to attain a victory. To prepare for the next attack, Col. Hyrum Graff (Harrison…",
-      "directors": [
-        "Gavin Hood"
-      ]
-    },
-    {
-      "id": "avengers_infinity_war",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Avengers: Infinity War",
-      "original_title": "Avengers: Infinity War",
-      "year": 2018,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi"
-      ],
-      "rating": 7.7,
-      "votes": 48062,
-      "tomatometer": 85,
-      "audience_score": 92,
-      "runtime_minutes": 149,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/5P73Apw3wzzOX7QEvZtuQ0cK0pE=/300x450/v2/https://resizing.flixster.com/CXOXbOpLNL1NNkXTQu-4Rgvcszs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM0NGRkMDM2LWVjNDQtNGZlMC04NGM3LWZkMzQ2Njg1OTUyNi53ZWJw",
-      "plot": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the…",
-      "directors": [
-        "Anthony Russo",
-        "Joe Russo"
-      ]
-    },
-    {
-      "id": "mission_impossible_rogue_nation",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Mission: Impossible - Rogue Nation",
-      "original_title": "Mission: Impossible - Rogue Nation",
-      "year": 2015,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.5,
-      "votes": 47914,
-      "tomatometer": 94,
-      "audience_score": 87,
-      "runtime_minutes": 131,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/vWf4wUcDwjKht4BpdSqhdLs46RA=/300x450/v2/https://resizing.flixster.com/KFFYzJYFNrgxs2Y0VhC2ZLnVLNM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1ZjUxNDJlLTQ1M2YtNDQyYi04NWEyLWNjN2M4YzMxM2JjOC53ZWJw",
-      "plot": "With the IMF now disbanded and Ethan Hunt out in the cold, a new threat -- called the Syndicate -- soon emerges. The Syndicate is a network of highly skilled operatives who are dedicated to…",
-      "directors": [
-        "Christopher McQuarrie"
-      ]
-    },
-    {
-      "id": "spectre_2015",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Spectre",
-      "original_title": "Spectre",
-      "year": 2015,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.4,
-      "votes": 47881,
-      "tomatometer": 63,
-      "audience_score": 62,
-      "runtime_minutes": 148,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/pcbo6bi6P19npvnM4rjTq7Q0fYM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11268880_p_v13_as.jpg",
-      "plot": "A cryptic message from the past leads James Bond (Daniel Craig) to Mexico City and Rome, where he meets the beautiful widow (Monica Bellucci) of an infamous criminal. After infiltrating a secret…",
-      "directors": [
-        "Sam Mendes"
-      ]
-    },
-    {
-      "id": "superman_returns",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Superman Returns",
-      "original_title": "Superman Returns",
-      "year": 2006,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Sci-Fi",
-        "Fantasy"
-      ],
-      "rating": 7.2,
-      "votes": 47611,
-      "tomatometer": 72,
-      "audience_score": 60,
-      "runtime_minutes": 154,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/itJPQ2rtvjlH8fnEaMJOZi62TJE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159107_p_v8_aj.jpg",
-      "plot": "While Lex Luthor plots to destroy him once and for all, the Man of Steel returns after a long absence to a much-changed world. Lois Lane has moved on with her life, and society has learned to survive…",
-      "directors": [
-        "Bryan Singer"
-      ]
-    },
-    {
-      "id": "ghostbusters_2016",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Ghostbusters",
-      "original_title": "Ghostbusters",
-      "year": 2016,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Adventure",
-        "Action"
-      ],
-      "rating": 6.5,
-      "votes": 47275,
-      "tomatometer": 74,
-      "audience_score": 48,
-      "runtime_minutes": 117,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/F4vTMewyJLBNGcqqlQN-4ry_at0=/300x450/v2/https://resizing.flixster.com/BJs0iCRpMWh49chzA1zvzoScJgs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzOTMwZWE4LTA4MWMtNDYzZC05MTk1LWI4NTRjMjRlMjUxZS53ZWJw",
-      "plot": "Paranormal researcher Abby Yates and physicist Erin Gilbert are trying to prove that ghosts exist in modern society. When strange apparitions appear in Manhattan, Gilbert and Yates turn to engineer…",
-      "directors": [
-        "Paul Feig"
-      ]
-    },
-    {
-      "id": "epic_movie",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Epic Movie",
-      "original_title": "Epic Movie",
-      "year": 2007,
-      "genres": [
-        "Comedy",
-        "Adventure"
-      ],
-      "rating": 2.9,
-      "votes": 47221,
-      "tomatometer": 2,
-      "audience_score": 29,
-      "runtime_minutes": 81,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/MFI_Jh9a7f_KnZ03GmieYA7cITM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p164240_p_v8_aw.jpg",
-      "plot": "Four adult orphans (Kal Penn, Adam Campbell, Faune Chambers, Jayma Mays) have an incredible adventure in a spoof of blockbuster and fantasy films. They visit a bizarre confectioner's chocolate…",
-      "directors": [
-        "Jason Friedberg",
-        "Aaron Seltzer"
-      ]
-    },
-    {
-      "id": "john_rambo",
-      "category": "action",
-      "type": "movie",
-      "title": "Rambo",
-      "original_title": "Rambo",
-      "year": 2008,
-      "genres": [
-        "Action",
-        "Adventure"
-      ],
-      "rating": 5.2,
-      "votes": 47021,
-      "tomatometer": 38,
-      "audience_score": 69,
-      "runtime_minutes": 91,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/DhlH4TgAHxQnT6OtGLPoOSwFLIE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p173465_p_v12_aa.jpg",
-      "plot": "Having long-since abandoned his life as a lethal soldier, John Rambo (Sylvester Stallone) lives a solitary life near the Thai border. Two weeks after guiding a missionary (Julie Benz) and her…",
-      "directors": [
-        "Sylvester Stallone"
       ]
     }
   ]

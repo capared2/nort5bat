@@ -1,8 +1,8 @@
 {
   "genre": "musical",
   "part": 3,
-  "count": 10,
-  "updated_at": "2026-08-21T14:08:44.525115Z",
+  "count": 44,
+  "updated_at": "2026-08-21T19:49:54.934087Z",
   "titles": [
     {
       "id": "1012515-little_shop_of_horrors",
@@ -115,6 +115,111 @@
       "scraped_at": "2026-08-21T13:53:12.320417Z"
     },
     {
+      "id": "1016119-pennies_from_heaven",
+      "url": "https://www.rottentomatoes.com/m/1016119-pennies_from_heaven",
+      "category": "musical",
+      "type": "movie",
+      "title": "Pennies From Heaven",
+      "original_title": "Pennies From Heaven",
+      "genres": [
+        "Musical",
+        "Romance"
+      ],
+      "year": 1981,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "rating": 7.5,
+      "votes": 442,
+      "tomatometer": 83,
+      "tomatometer_count": 30,
+      "tomatometer_certified": false,
+      "audience_score": 64,
+      "audience_count": 171,
+      "metascore": null,
+      "plot": "This heavily stylized production with lip-synched musical numbers follows Arthur Parker (Steve Martin), a Depression-era sheet-music salesman with big dreams. When Arthur faces relationship problems with his wife, Joan (Jessica Harper), which are compounded by financial issues, he begins an affair with a withdrawn yet beautiful teacher, Eileen (Bernadette Peters). Though Arthur and Eileen prove to be kindred spirits, fate may not have their happiness in store.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/hz-GtS198Ztssbb8CdgSa5zt9Xs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4235_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/hz-GtS198Ztssbb8CdgSa5zt9Xs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4235_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/XTSPCjO3lEIMNKqnGF7Ex1gbPOM=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4235_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/aR-3NfbVrtz_cZJZiXlgKtnSDII=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4235_p_v8_aa.jpg",
+          "caption": "Pennies From Heaven (1981)"
+        },
+        {
+          "url": "https://resizing.flixster.com/TlzQevls1f-ZX85CmhR5M9Vaoy8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4235_v_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4pBsptQNjjF7jd67FKYOIBUoiLE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4235_i_h10_ac.jpg",
+          "caption": "Pennies From Heaven (1981)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "herbert_ross",
+          "name": "Herbert Ross"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "steve_martin_6",
+          "name": "Steve Martin",
+          "character": "",
+          "image": "https://resizing.flixster.com/PdvGB5niR8AOYEahYkN-TYeQFLQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/60385_v9_bc.jpg"
+        },
+        {
+          "id": "bernadette_peters",
+          "name": "Bernadette Peters",
+          "character": "",
+          "image": "https://resizing.flixster.com/3Ph30zqTqKhw5DwHuVjAwVRJ7CY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73305_v9_bb.jpg"
+        },
+        {
+          "id": "chris_walken",
+          "name": "Christopher Walken",
+          "character": "",
+          "image": "https://resizing.flixster.com/fb-XEDZZDqhBNrCYKJ0yQU4sNDA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/12855_v9_bc.jpg"
+        },
+        {
+          "id": "jessica_harper",
+          "name": "Jessica Harper",
+          "character": "",
+          "image": "https://resizing.flixster.com/AzBccCNSgmo4Y_DGBdKa90mHb3g=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/85591_v9_bb.jpg"
+        },
+        {
+          "id": "vernel_bagneris",
+          "name": "Vernel Bagneris",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Pennies-From-Heaven/10029?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:33.773271Z"
+    },
+    {
       "id": "1017887-rose",
       "url": "https://www.rottentomatoes.com/m/1017887-rose",
       "category": "musical",
@@ -218,6 +323,356 @@
       "scraped_at": "2026-08-21T13:53:00.553971Z"
     },
     {
+      "id": "1019541-sparkle",
+      "url": "https://www.rottentomatoes.com/m/1019541-sparkle",
+      "category": "musical",
+      "type": "movie",
+      "title": "Sparkle",
+      "original_title": "Sparkle",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1976,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "rating": 4.4,
+      "votes": 534,
+      "tomatometer": 18,
+      "tomatometer_count": 11,
+      "tomatometer_certified": false,
+      "audience_score": 90,
+      "audience_count": 235,
+      "metascore": null,
+      "plot": "In the 1950s Harlem, Sparkle (Irene Cara), Sister (Lonette McKee) and Dolores (Dwan Smith) are three musically gifted sisters whose mother, Effie (Mary Alice), supports them by working as a maid. Encouraged by Sparkle's boyfriend, Stix (Philip Michael Thomas), the three form a singing group and become a sensation at a local nightclub. However, tensions rise when Sister is appointed the group's lead singer and begins dating Satin (Tony King), an abusive, drug-addicted pimp.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/vHD1lC2R36BjsSlxoTfpCCwzUHM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6036_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/vHD1lC2R36BjsSlxoTfpCCwzUHM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6036_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/7Eg0y3rhYgCdzGCHiFI_q3apAxE=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6036_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ugB7Uo0eqANomuEQNKXswdzfUs8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6036_p_v10_aa.jpg",
+          "caption": "Sparkle (1976)"
+        },
+        {
+          "url": "https://resizing.flixster.com/A9j14VAiQ5EOfN3tIsPgBxUS0Us=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6036_p_v8_ac.jpg",
+          "caption": "Sparkle (1976)"
+        },
+        {
+          "url": "https://resizing.flixster.com/wCKcz80RFEByiNFHc1ze4DZKm00=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6036_i_h10_ac.jpg",
+          "caption": "Sparkle (1976)"
+        },
+        {
+          "url": "https://resizing.flixster.com/DtHeESt4mRm_c7OELvEOW2UmzAY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6036_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "sam_osteen",
+          "name": "Sam O'Steen"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "philip_michael_thomas",
+          "name": "Philip Michael Thomas",
+          "character": "",
+          "image": "https://resizing.flixster.com/QDHunBOdNrtKafKXkyOfRGtoeXs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/51800_v9_bb.jpg"
+        },
+        {
+          "id": "irene_cara",
+          "name": "Irene Cara",
+          "character": "",
+          "image": "https://resizing.flixster.com/N-MdVT0WL0S7bLgrfCpdJuZ_5qY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73038_v9_ba.jpg"
+        },
+        {
+          "id": "lonette_mckee",
+          "name": "Lonette McKee",
+          "character": "",
+          "image": "https://resizing.flixster.com/xsnX5VK4qoqelqw0HLK7O46Sq_A=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77930_v9_ba.jpg"
+        },
+        {
+          "id": "dwan-smith",
+          "name": "Dwan Smith",
+          "character": "",
+          "image": "https://resizing.flixster.com/dPAszPRPLwiYo9lB-f_qQQ3NdQA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/229149_v9_aa.jpg"
+        },
+        {
+          "id": "mary_alice",
+          "name": "Mary Alice",
+          "character": "",
+          "image": "https://resizing.flixster.com/7AMjoGXWrTw3ubc311zL6EirEys=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75667_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Sparkle/10959?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:06.844548Z"
+    },
+    {
+      "id": "1194524-high_school_musical_3_senior_year",
+      "url": "https://www.rottentomatoes.com/m/1194524-high_school_musical_3_senior_year",
+      "category": "musical",
+      "type": "movie",
+      "title": "High School Musical 3: Senior Year",
+      "original_title": "High School Musical 3: Senior Year",
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy"
+      ],
+      "year": 2008,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 112,
+      "certificate": "G",
+      "rating": 6.0,
+      "votes": 18229,
+      "tomatometer": 64,
+      "tomatometer_count": 131,
+      "tomatometer_certified": false,
+      "audience_score": 72,
+      "audience_count": 7669,
+      "metascore": null,
+      "plot": "Amid preparations for a basketball championship, prom, and graduation, sweethearts Troy Bolton (Zac Efron) and Gabriella Montez (Vanessa Hudgens) vow to savor every moment, knowing that college plans put the future of their relationship into question. An elaborate spring musical is just the thing for these two Wildcats and the rest of their classmates to express their fears and hopes for the future.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/MN2KOdX8DUSMVzep9DaMkT61Q3Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p177471_p_v8_an.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/MN2KOdX8DUSMVzep9DaMkT61Q3Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p177471_p_v8_an.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/TKwror8eoujzuExgivl3NBkp03k=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p177471_i_h11_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/6eN7hTtNWiZKttSUnq-KPmYiAJA=/fit-in/705x460/v2/https://resizing.flixster.com/3CMj6fj5a0YZ0cQIdLXTf1gfM_M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdkM2FjYThmLWM3ZDYtNDQwYS1hZjZiLTI2ZWFhZTQ4ZmMzMC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/St6BtP-Oufy6pTEld0nra3jSVnE=/fit-in/705x460/v2/https://resizing.flixster.com/e2P6btByzGMjR3fjx57Wwz0Bf8M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNlY2Q4MjRlLTcwMTYtNDBhZS1hMjk5LWFhODAxYTRlZDM1Zi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/rLQKwTpOEdRO7aqi8ZGH8JSrQVI=/fit-in/705x460/v2/https://resizing.flixster.com/BNiJSQd8I3D8WSvXjVfieuWhk7w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5Yzc3MDc1LTQ2YzctNGIyZi1iMmY1LTIwZTQxZDQyNjJhZi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/YkApsULkDC1LLCy1Yv8d-eq4o3E=/fit-in/705x460/v2/https://resizing.flixster.com/O4IopAuRAooYPnauadb-IMgwRB4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4MmMwOGQyLWNjZjctNGE2MC04MTNmLWVmZTMwNzQwZTUyZC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fCf1a8IcKtI1uZbZ50OVSh5CZn0=/fit-in/705x460/v2/https://resizing.flixster.com/r62_Tlsphbg7e6CVNGeBusGUYHE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyY2M2OWI1LWViMGYtNGFlZC05NDA0LWY4M2I5MmUzNGQ1NC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HKplRfov3X9RQQlpySwfu267gUQ=/fit-in/705x460/v2/https://resizing.flixster.com/iJyGdkGhZT3MxUXI0B_y8oxclGQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBjMTFiMjA0LTZlOWYtNDA2Zi05MGI3LTUzM2MwMGM4YWIwYy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/D-zIarUJKOaSeKRNhIosspR59b0=/fit-in/705x460/v2/https://resizing.flixster.com/b2XN06uFdu0_8QgFMTt-AWmj2q4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhNjE2OTg1LWQ1M2YtNGMzMy1hMGU3LWUxZGI1ZjQyMThkNS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/7CW9F3fdLrzPbCiQnXWeFI3hNh4=/fit-in/705x460/v2/https://resizing.flixster.com/v84T221v_FeJF8n6pLJqc1OIQgA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JjZWQ0ZDZkLTBkNDUtNGEyZi04NGJlLTNiNDQ5ZDYzYzM2Yi53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "kenny_ortega",
+          "name": "Kenny Ortega"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "zac_efron",
+          "name": "Zac Efron",
+          "character": "",
+          "image": "https://resizing.flixster.com/nbQ_Z1mkvmNXK40Bkhr4toRDOQk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/286896_v9_bc.jpg"
+        },
+        {
+          "id": "vanessa_hudgens",
+          "name": "Vanessa Hudgens",
+          "character": "",
+          "image": "https://resizing.flixster.com/pkn1aZeiQPFG5nFbTS_jZOUY4ZY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/285957_v9_bc.jpg"
+        },
+        {
+          "id": "ashley_tisdale",
+          "name": "Ashley Tisdale",
+          "character": "",
+          "image": "https://resizing.flixster.com/eKp4GOw2kuP6vTk-S8czhTt3Erc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/215765_v9_bd.jpg"
+        },
+        {
+          "id": "lucas_grabeel",
+          "name": "Lucas Grabeel",
+          "character": "",
+          "image": "https://resizing.flixster.com/hp--E1XSYr-wGbzr2IQS5v0Es6U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/487529_v9_bb.jpg"
+        },
+        {
+          "id": "corbin_bleu",
+          "name": "Corbin Bleu",
+          "character": "",
+          "image": "https://resizing.flixster.com/Lx0w2fk_lrqMGP2oLP-iKgzKT2E=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/322638_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/High-School-Musical-3-Senior-Year-Theatrical/161789?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:43:18.355005Z"
+    },
+    {
+      "id": "aladdin_1992",
+      "url": "https://www.rottentomatoes.com/m/aladdin_1992",
+      "category": "musical",
+      "type": "movie",
+      "title": "Aladdin",
+      "original_title": "Aladdin",
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "year": 1992,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 90,
+      "certificate": "G",
+      "rating": 8.6,
+      "votes": 52693,
+      "tomatometer": 96,
+      "tomatometer_count": 131,
+      "tomatometer_certified": true,
+      "audience_score": 92,
+      "audience_count": 26842,
+      "metascore": null,
+      "plot": "When street rat Aladdin frees a genie from a lamp, he finds his wishes granted. However, he soon finds that the evil has other plans for the lamp -- and for Princess Jasmine. But can Aladdin save Princess Jasmine and his love for her after she sees that he isn't quite what he appears to be?",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/ruiuN-7-1AeNbPYo0ELAl1TnSKs=/300x450/v2/https://resizing.flixster.com/LVDFVhORfkZwxiYLfS5OlyEviFc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2YzljNDg0LTU3MzktNDI4Yi1iOGFmLTAzZDI5NmMwNzA1MS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/ruiuN-7-1AeNbPYo0ELAl1TnSKs=/300x450/v2/https://resizing.flixster.com/LVDFVhORfkZwxiYLfS5OlyEviFc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2YzljNDg0LTU3MzktNDI4Yi1iOGFmLTAzZDI5NmMwNzA1MS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jLyFeegAaZCGGDuQESiEwcGFfKg=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/459/279/thumb_113D6C2E-5A0A-4301-BBD4-BD8E1D0ACD2B.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/T8-OzAp072V5YL9aXawkX_AFtTs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/2560_ab.jpg",
+          "caption": "A scene from Walt Disney's ALADDIN."
+        },
+        {
+          "url": "https://resizing.flixster.com/6_jE5RFKnT_sRpM91NZtpgLDISQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/2560_ac.jpg",
+          "caption": "A scene from Walt Disney's ALADDIN."
+        },
+        {
+          "url": "https://resizing.flixster.com/C0KGHm8av09w6okKfSHzLIOz4cA=/fit-in/705x460/v2/https://resizing.flixster.com/LVDFVhORfkZwxiYLfS5OlyEviFc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2YzljNDg0LTU3MzktNDI4Yi1iOGFmLTAzZDI5NmMwNzA1MS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gYgfIxNF3ggi4zsf99YOnyYU9rQ=/fit-in/705x460/v2/https://resizing.flixster.com/1L188eZbDrcrnaMlV6ZpZgJG2vw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxNzQ5ZWQwLTNhNTgtNDRiNC1hMDg3LTYzNTU4YzAzNTMzNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/kk9jlHngzXObBj5SLrdf9DxWmIE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14361_p_v8_ab.jpg",
+          "caption": "Aladdin (1992)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Su-4phKzW5kyqmt8Y4X6vstL85k=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14361_k_h9_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/8UPw4MREjlZHvE6P_kbZBrqiedI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14361_k_v9_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/A9Vwq8JwqQYx64qEapKMa8S4UcA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14361_k_v8_ad.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "kdanEcI286HM",
+        "title": "Aladdin: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/459/279/thumb_113D6C2E-5A0A-4301-BBD4-BD8E1D0ACD2B.jpg",
+        "seconds": 73,
+        "src": "https://link.theplatform.com/s/NGweTC/media/kdanEcI286HM?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "ron_clements",
+          "name": "Ron Clements"
+        },
+        {
+          "id": "john_musker",
+          "name": "John Musker"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Aladdin-Walt-Disney-Signature-Edition-/1194949?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:48:09.562213Z"
+    },
+    {
       "id": "aria",
       "url": "https://www.rottentomatoes.com/m/aria",
       "category": "musical",
@@ -305,6 +760,134 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T13:53:01.387506Z"
+    },
+    {
+      "id": "august_rush",
+      "url": "https://www.rottentomatoes.com/m/august_rush",
+      "category": "musical",
+      "type": "movie",
+      "title": "August Rush",
+      "original_title": "August Rush",
+      "genres": [
+        "Kids & Family",
+        "Drama",
+        "Adventure",
+        "Musical",
+        "Fantasy"
+      ],
+      "year": 2007,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 113,
+      "certificate": "PG",
+      "rating": 4.9,
+      "votes": 45137,
+      "tomatometer": 36,
+      "tomatometer_count": 121,
+      "tomatometer_certified": false,
+      "audience_score": 82,
+      "audience_count": 20276,
+      "metascore": null,
+      "plot": "A musically gifted orphan, Evan (Freddie Highmore), runs away from his orphanage and searches New York City for his birth parents. On his journey, he's taken under the wing of the Wizard (Robin Williams), a homeless man who lives in an abandoned theater. After discovering his talent, the Wizard gives Evan the name \"August Rush\" and devises a plan to profit from his talent. Little does Evan know that his parents, Lyla (Keri Russell) and Louis (Jonathan Rhys Meyers), are searching for him too.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/raJ5jG8TBaLLSoicgcvnCHYJFG0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166757_p_v12_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/raJ5jG8TBaLLSoicgcvnCHYJFG0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166757_p_v12_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sciIYZNm4AYz3qXb9dP7zbqkud8=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166757_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bNXpoUtTBKSywNlxCl9TK5Z9J9w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59119_bz.jpg",
+          "caption": "A scene from the film \"August Rush.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/F9EhV0YOCCsL4KbnHJyAjliXBws=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59119_by.jpg",
+          "caption": "A scene from the film \"August Rush.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/t4-LTJKz5jgGVaqCxY360l-ff9I=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59119_ca.jpg",
+          "caption": "A scene from the film \"August Rush.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/kEiCDrTc0cNuX0sqXhYSxaPPni8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59119_cc.jpg",
+          "caption": "A scene from the film \"August Rush.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/e6f8CsJ_vjyb2v9vfrmG2IJjYTo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59119_cb.jpg",
+          "caption": "A scene from the film \"August Rush.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/bxfleXv7W3XEbm8kL9LZy46foA8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59119_cd.jpg",
+          "caption": "A scene from the film \"August Rush.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/TOwNk2aftn2xRoKvJYycrBiCuq8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59119_bb.jpg",
+          "caption": "A scene from the film \"August Rush.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/pO34pmbJQa8wPF02pPJ0I9Bo9No=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59119_ba.jpg",
+          "caption": "A scene from the film \"August Rush.\""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "kirsten_sheridan",
+          "name": "Kirsten Sheridan"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "freddie_highmore",
+          "name": "Freddie Highmore",
+          "character": "",
+          "image": "https://resizing.flixster.com/Uz9rsbGjJQPhoVek7rxf2XeM9vk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0038FE3K.jpg"
+        },
+        {
+          "id": "keri_russell",
+          "name": "Keri Russell",
+          "character": "",
+          "image": "https://resizing.flixster.com/K_H_zdrkp4LjMfJVoxVFkHwlc54=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/36765_v9_bb.jpg"
+        },
+        {
+          "id": "771484301",
+          "name": "Jonathan Rhys-Meyers",
+          "character": "",
+          "image": "https://resizing.flixster.com/zYTD4umWKTyQBqj9k4YU2sRIkiw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73963_v9_bd.jpg"
+        },
+        {
+          "id": "terrence_howard",
+          "name": "Terrence Howard",
+          "character": "",
+          "image": "https://resizing.flixster.com/OfFcb83M_1YLUUBNW3uwbiUMHWs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/220846_v9_bb.jpg"
+        },
+        {
+          "id": "robin_williams",
+          "name": "Robin Williams",
+          "character": "",
+          "image": "https://resizing.flixster.com/UDrgaQTIcuuwg6IgNmdbC-5q4Vo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/55875_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/August-Rush/130757?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:35:21.786132Z"
     },
     {
       "id": "beauty_and_the_beast_2017",
@@ -441,7 +1024,565 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T14:08:15.158057Z"
+      "scraped_at": "2026-08-21T19:03:33.525280Z"
+    },
+    {
+      "id": "best_little_whorehouse_in_texas",
+      "url": "https://www.rottentomatoes.com/m/best_little_whorehouse_in_texas",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Best Little Whorehouse in Texas",
+      "original_title": "The Best Little Whorehouse in Texas",
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "year": 1982,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 114,
+      "certificate": "R",
+      "rating": 5.2,
+      "votes": 1185,
+      "tomatometer": 52,
+      "tomatometer_count": 29,
+      "tomatometer_certified": false,
+      "audience_score": 68,
+      "audience_count": 526,
+      "metascore": null,
+      "plot": "Miss Mona (Dolly Parton) runs the Chicken Ranch, a brothel with a long history in a small Texas town. The locals have a good relationship with the institution, and Mona is respected in the community. The sheriff, Ed Earl Dodd (Burt Reynolds), also looks out for the Chicken Ranch due to his past with Miss Mona. However, when pious reporter Melvin Thorpe (Dom DeLuise) exposes the brothel, outside interests want it shut down, putting the governor (Charles Durning) in a tough spot.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/5yCQ2iCp9gMXyru9tbICV2EjkWU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5938_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/5yCQ2iCp9gMXyru9tbICV2EjkWU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5938_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BrJFhxaryzLXsZgkRrIZ-_onsEU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5938_i_h11_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fuDs1xFHHGVR_DVU4wr3fn8oq5E=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5938_p_v10_aa.jpg",
+          "caption": "The Best Little Whorehouse in Texas (1982)"
+        },
+        {
+          "url": "https://resizing.flixster.com/YlUuiu-eLm-xng8d3y6koIsdZQU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5938_p_v8_ab.jpg",
+          "caption": "The Best Little Whorehouse in Texas (1982)"
+        },
+        {
+          "url": "https://resizing.flixster.com/g8JYyJGroWQ9V_kZYHmt2e1wTOs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5938_i_h11_ab.jpg",
+          "caption": "The Best Little Whorehouse in Texas (1982)"
+        },
+        {
+          "url": "https://resizing.flixster.com/5o9SzC_J5Yr2dU6WwRJbYrWiUNo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5938_v_v11_ai.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "colin_higgins",
+          "name": "Colin Higgins"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "burt_reynolds",
+          "name": "Burt Reynolds",
+          "character": "",
+          "image": "https://resizing.flixster.com/71mTDECFH65GvVEpX1JuGYPKV5U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/9888_v9_bc.jpg"
+        },
+        {
+          "id": "dolly_parton",
+          "name": "Dolly Parton",
+          "character": "",
+          "image": "https://resizing.flixster.com/i1v5H01XDaXz9AMIa-8RX-wH7OA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0025CENK.jpg"
+        },
+        {
+          "id": "dom_deluise",
+          "name": "Dom DeLuise",
+          "character": "",
+          "image": "https://resizing.flixster.com/d9uakkKP78Sx9h-beUwclgCG4Cw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72308_v9_ba.jpg"
+        },
+        {
+          "id": "charles_durning",
+          "name": "Charles Durning",
+          "character": "",
+          "image": "https://resizing.flixster.com/Zy0DxJhIv-oZoKZ0PXkQ5hdEuqI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/476_v9_ba.jpg"
+        },
+        {
+          "id": "jim_nabors",
+          "name": "Jim Nabors",
+          "character": "",
+          "image": "https://resizing.flixster.com/3i_R31eOL23XVJZUeNO94Lgd2YY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/84298_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Best-Little-Whorehouse-in-Texas/5222?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:34.933267Z"
+    },
+    {
+      "id": "brigadoon",
+      "url": "https://www.rottentomatoes.com/m/brigadoon",
+      "category": "musical",
+      "type": "movie",
+      "title": "Brigadoon",
+      "original_title": "Brigadoon",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1954,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 108,
+      "certificate": "G",
+      "rating": 6.1,
+      "votes": 1063,
+      "tomatometer": 75,
+      "tomatometer_count": 16,
+      "tomatometer_certified": false,
+      "audience_score": 71,
+      "audience_count": 453,
+      "metascore": null,
+      "plot": "Tommy Albright (Gene Kelly) and Jeff Douglas (Van Johnson), two American pals on a Scottish hunting trip, get lost in the woods and come upon the magical village of Brigadoon. Rising out of the Scottish mist only once every 100 years, and only for one day, Brigadoon is an enchanted place where life is simpler and easier, untouched by the worries of the modern world. When Tommy falls for beautiful villager Fiona Campbell (Cyd Charisse), he must decide whether to stay or to return to his life.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/-ZhW5aK25aBl4EhzccOPSSuTY64=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2793_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/-ZhW5aK25aBl4EhzccOPSSuTY64=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2793_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gaPNvmQtllxApELblmGUPSL7cio=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2793_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/AbHrJ8UpQgxTCK3jJrShawzNRIw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2793_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/e6B8TfiYpVVjQimy0mSvBtFwy04=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2793_i_h10_ac.jpg",
+          "caption": "Brigadoon (1954)"
+        },
+        {
+          "url": "https://resizing.flixster.com/06c2DzzrGea7QPU-WETxdnaChq0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2793_p_v8_aa.jpg",
+          "caption": "Brigadoon (1954)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "vicente_minelli",
+          "name": "Vincente Minnelli"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "gene_kelly",
+          "name": "Gene Kelly",
+          "character": "",
+          "image": "https://resizing.flixster.com/u64Ovd9lxjFiUx-Ymxg2fT1Iv30=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/22957_v9_bb.jpg"
+        },
+        {
+          "id": "van_johnson",
+          "name": "Van Johnson",
+          "character": "",
+          "image": "https://resizing.flixster.com/4zeTCqwLU1u0y0n0GWoapROHSqE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/64253_v9_ba.jpg"
+        },
+        {
+          "id": "cyd_charisse",
+          "name": "Cyd Charisse",
+          "character": "",
+          "image": "https://resizing.flixster.com/tvC2SGvba92kqfMooSpEb-WH0w4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/90754_v9_ba.jpg"
+        },
+        {
+          "id": "elaine_stewart",
+          "name": "Elaine Stewart",
+          "character": "",
+          "image": "https://resizing.flixster.com/CIa2keyDqSN1eMRJqZM6yCN6hUc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/18911_v9_ba.jpg"
+        },
+        {
+          "id": "barry_jones",
+          "name": "Barry Jones",
+          "character": "",
+          "image": "https://resizing.flixster.com/rpOXDBgcnSp0TZP2xDeUCbL_lww=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/7274_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Brigadoon/9353?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:32.471943Z"
+    },
+    {
+      "id": "cabaret",
+      "url": "https://www.rottentomatoes.com/m/cabaret",
+      "category": "musical",
+      "type": "movie",
+      "title": "Cabaret",
+      "original_title": "Cabaret",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1972,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 124,
+      "certificate": "PG",
+      "rating": 8.6,
+      "votes": 5475,
+      "tomatometer": 92,
+      "tomatometer_count": 48,
+      "tomatometer_certified": true,
+      "audience_score": 87,
+      "audience_count": 1756,
+      "metascore": null,
+      "plot": "In Berlin in 1931, American cabaret singer Sally Bowles (Liza Minnelli) meets British academic Brian Roberts (Michael York), who is finishing his university studies. Despite Brian's confusion over his sexuality, the pair become lovers, but the arrival of the wealthy and decadent playboy Maximilian von Heune (Helmut Griem) complicates matters for them both. This love triangle plays out against the rise of the Nazi party and the collapse of the Weimar Republic.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/iYe_baoALO4b9ENhcshGo70FXwQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p720_p_v10_ad.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/iYe_baoALO4b9ENhcshGo70FXwQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p720_p_v10_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/H_ory9_2LYjbjRUSgKO0boVFrH0=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/788/371/thumb_30774FD9-8FAF-4A1E-9B43-A7609F9A82CE.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ldUoY6c3kQJgPfaR63_bNFioAI0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p720_p_v10_ad.jpg",
+          "caption": "Cabaret (1972)"
+        },
+        {
+          "url": "https://resizing.flixster.com/OtmT9AJqIad47Bf-68MLhwZcw_E=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p720_p_v8_aa.jpg",
+          "caption": "Cabaret (1972)"
+        },
+        {
+          "url": "https://resizing.flixster.com/pOVRmDNPmZ36w5scbiYA8sSO0xU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p720_i_h10_ab.jpg",
+          "caption": "Cabaret (1972)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Af-_WPBFGmIJbPO35enUqkS-zH0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p720_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "zKkHNZXdUCcn",
+        "title": "Cabaret: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/788/371/thumb_30774FD9-8FAF-4A1E-9B43-A7609F9A82CE.jpg",
+        "seconds": 172,
+        "src": "https://link.theplatform.com/s/NGweTC/media/zKkHNZXdUCcn?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "robert_fosse",
+          "name": "Bob Fosse"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "liza_minnelli",
+          "name": "Liza Minnelli",
+          "character": "",
+          "image": "https://resizing.flixster.com/wvAjP4Thl3GDIz-XZ6jUPYVtC8c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1180_v9_ba.jpg"
+        },
+        {
+          "id": "joel_grey",
+          "name": "Joel Grey",
+          "character": "",
+          "image": "https://resizing.flixster.com/P6EWgtkFYy-A6mbL9uE3k3WSqqo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74306_v9_ba.jpg"
+        },
+        {
+          "id": "michael_york",
+          "name": "Michael York",
+          "character": "",
+          "image": "https://resizing.flixster.com/GJ5HcK3O4OjPOaIev_Ka2obZ3yw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/45853_v9_bb.jpg"
+        },
+        {
+          "id": "helmut_griem",
+          "name": "Helmut Griem",
+          "character": "",
+          "image": "https://resizing.flixster.com/MG4AX43nW83paDFft__DZe3KQAc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/84175_v9_ba.jpg"
+        },
+        {
+          "id": "fritz_wepper",
+          "name": "Fritz Wepper",
+          "character": "",
+          "image": "https://resizing.flixster.com/4wHVjlUELCEXPFChJx7WzwuIFjM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/198421_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Cabaret/9078?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:04.901236Z"
+    },
+    {
+      "id": "camelot",
+      "url": "https://www.rottentomatoes.com/m/camelot",
+      "category": "musical",
+      "type": "movie",
+      "title": "Camelot",
+      "original_title": "Camelot",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1967,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 179,
+      "certificate": "G",
+      "rating": 6.1,
+      "votes": 720,
+      "tomatometer": 39,
+      "tomatometer_count": 18,
+      "tomatometer_certified": false,
+      "audience_score": 68,
+      "audience_count": 296,
+      "metascore": null,
+      "plot": "After the arranged marriage of Arthur (Richard Harris) and Guinevere (Vanessa Redgrave), the king gathers the noble knights of the realm to his Round Table. The dashing and stalwart Lancelot (Franco Nero) joins, but soon finds himself enraptured by the lovely Guinevere. When Arthur's illegitimate son, Mordred (David Hemmings), reappears in the kingdom and outs the secret lovers, Arthur finds himself trapped by his own rules into taking action against his wife and closest friend.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/tXf2LJOGUZttqDhaHeVl5Tp5jfQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2458_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/tXf2LJOGUZttqDhaHeVl5Tp5jfQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2458_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/9sS8D9yQr_UDs9UFcTRy2cagU_M=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2458_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fZCTPfHv2V3ENamr3EDkP3wqyI0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2458_p_v10_aa.jpg",
+          "caption": "Camelot (1967)"
+        },
+        {
+          "url": "https://resizing.flixster.com/J2P37mpGmebMRYhoJ8R8vNped2E=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2458_p_v8_ab.jpg",
+          "caption": "Camelot (1967)"
+        },
+        {
+          "url": "https://resizing.flixster.com/cDFj00Oxc8ptJHpMKSkUMkEWP9M=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2458_i_h10_ab.jpg",
+          "caption": "Camelot (1967)"
+        },
+        {
+          "url": "https://resizing.flixster.com/omLuk5kMkF9CfBLA_1eWTb-NOzo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2458_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "joshua_logan",
+          "name": "Joshua Logan"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "richard_harris",
+          "name": "Richard Harris",
+          "character": "",
+          "image": "https://resizing.flixster.com/L0JlZq5A73Jp7S1aLtvyBnCXfWw=/120x150/v2/https://resizing.flixster.com/V-Wd3N6IXWQL9FGdEL37k0PlaRY=/ems.ZW1zLXByZC1hc3NldHMvY2VsZWJyaXRpZXMvOTg3NzEyODYtNDg0Ny00MzRmLThmNjItYTc3MTRlOGI5Y2Q3LmpwZw=="
+        },
+        {
+          "id": "vanessa_redgrave",
+          "name": "Vanessa Redgrave",
+          "character": "",
+          "image": "https://resizing.flixster.com/3echPiuKUHz7PlPBrgvxQ9JgF5E=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/64282_v9_bb.jpg"
+        },
+        {
+          "id": "franco_nero",
+          "name": "Franco Nero",
+          "character": "",
+          "image": "https://resizing.flixster.com/i7nv_l6V4lIILOk-66WfcJVJW_8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71672_v9_ba.jpg"
+        },
+        {
+          "id": "david_hemmings",
+          "name": "David Hemmings",
+          "character": "",
+          "image": "https://resizing.flixster.com/MtvixLbsdD_qd1A2zYTSQ4lHTwM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/70950_v9_ba.jpg"
+        },
+        {
+          "id": "lionel_jeffries",
+          "name": "Lionel Jeffries",
+          "character": "",
+          "image": "https://resizing.flixster.com/exJI7RWp26wPGzDk0wFZElH2Z_A=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/151445_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Camelot/9084?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:02.602793Z"
+    },
+    {
+      "id": "chitty_chitty_bang_bang",
+      "url": "https://www.rottentomatoes.com/m/chitty_chitty_bang_bang",
+      "category": "musical",
+      "type": "movie",
+      "title": "Chitty Chitty Bang Bang",
+      "original_title": "Chitty Chitty Bang Bang",
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year": 1968,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 145,
+      "certificate": "G",
+      "rating": 6.0,
+      "votes": 8058,
+      "tomatometer": 70,
+      "tomatometer_count": 30,
+      "tomatometer_certified": false,
+      "audience_score": 71,
+      "audience_count": 7533,
+      "metascore": null,
+      "plot": "While truant from school, young siblings Jeremy and Jemima meet the beautiful Truly Scrumptious (Sally Ann Howes), who falls for their widowed father, Caractacus Potts (Dick Van Dyke), and his various oddball inventions, including the family's noisy rebuilt car, Chitty Chitty Bang Bang. One day at the beach, Caractacus tells Truly and the children a fanciful fable about the villainous Baron Bomburst (Gert Frobe) and his evil designs on the Potts family car.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/bBghwgU69ToL8Mzio4I6sDcLUkY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_p_v12_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/bBghwgU69ToL8Mzio4I6sDcLUkY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_p_v12_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FkXvPMWoxUCU1sO_U-WYPjYCak0=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3IqBIoVIaotE61pTc0iLoj9oBwQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_p_v13_aa.jpg",
+          "caption": "Chitty Chitty Bang Bang (1968)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ZPxUfn6fHIU_cKwmpezcCMxu_G4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_p_v12_ac.jpg",
+          "caption": "Chitty Chitty Bang Bang (1968)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-hJ_WlpevMUfj-JcqK0eWh2MKsI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_p_v8_aa.jpg",
+          "caption": "Chitty Chitty Bang Bang (1968)"
+        },
+        {
+          "url": "https://resizing.flixster.com/hJV545VaP-chJJEt41MVAWLcCmA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_i_h10_ac.jpg",
+          "caption": "Chitty Chitty Bang Bang (1968)"
+        },
+        {
+          "url": "https://resizing.flixster.com/tmgaEQ4cuqlGHWBxgwEPESdwl2Y=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_v_v12_ah.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/9Jxzoar5mdTseJMNT6ZNWkGnAxQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_v_v12_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PHjmShtouIfQFXUVKGXo2soWDKA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "ken_hughes_2",
+          "name": "Ken Hughes"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "dick_van_dyke",
+          "name": "Dick Van Dyke",
+          "character": "",
+          "image": "https://resizing.flixster.com/S_s4MOzp4QPnLewewku_cHV6A3Y=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/16903_v9_bb.jpg"
+        },
+        {
+          "id": "sally_ann_howes",
+          "name": "Sally Ann Howes",
+          "character": "",
+          "image": "https://resizing.flixster.com/wYuMSyt9CLSOwCYJnzZ0DCQ7EkU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/152585_v9_bb.jpg"
+        },
+        {
+          "id": "lionel_jeffries",
+          "name": "Lionel Jeffries",
+          "character": "",
+          "image": "https://resizing.flixster.com/exJI7RWp26wPGzDk0wFZElH2Z_A=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/151445_v9_ba.jpg"
+        },
+        {
+          "id": "gert_froebe",
+          "name": "Gert Fröbe",
+          "character": "",
+          "image": "https://resizing.flixster.com/jKjh0v3g8QO3KX0EkA5jlDAmfHg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/164364_v9_ba.jpg"
+        },
+        {
+          "id": "anna_quayle",
+          "name": "Anna Quayle",
+          "character": "",
+          "image": "https://resizing.flixster.com/7uBUAf7HT4y7foq805jLjihFFJQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/112714_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Chitty-Chitty-Bang-Bang/13367?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:48:06.844140Z"
     },
     {
       "id": "city_lights",
@@ -563,6 +1704,830 @@
       "scraped_at": "2026-08-21T13:53:45.528708Z"
     },
     {
+      "id": "cry-baby",
+      "url": "https://www.rottentomatoes.com/m/cry-baby",
+      "category": "musical",
+      "type": "movie",
+      "title": "Cry Baby",
+      "original_title": "Cry Baby",
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "year": 1990,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 85,
+      "certificate": "PG-13",
+      "rating": 6.5,
+      "votes": 19711,
+      "tomatometer": 72,
+      "tomatometer_count": 64,
+      "tomatometer_certified": false,
+      "audience_score": 77,
+      "audience_count": 8460,
+      "metascore": null,
+      "plot": "A prim and proper schoolgirl goes against her mother's wishes when she dates a motorcycle-riding juvenile delinquent.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/wDMwBI8O4_h3V7bxg_J0Vr_iJzg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v11_an.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/wDMwBI8O4_h3V7bxg_J0Vr_iJzg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v11_an.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/eR24i5E2LMcaVkeo6kusQNAnLYA=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/C3ijcymxCdQfbDMOQkj5jYOglHk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v10_an.jpg",
+          "caption": "Cry Baby (1990)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ReBWBUkjpqZCspV_VnCOvqyErU8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v10_al.jpg",
+          "caption": "Cry Baby (1990)"
+        },
+        {
+          "url": "https://resizing.flixster.com/mZ8FmvIQ6CKH9DmfA3TyVPRF7Z0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v10_ak.jpg",
+          "caption": "Cry Baby (1990)"
+        },
+        {
+          "url": "https://resizing.flixster.com/7UNYNc5T4sTGU0W-VMVg2rr6BPQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v11_an.jpg",
+          "caption": "Cry Baby (1990)"
+        },
+        {
+          "url": "https://resizing.flixster.com/xCLNWA7ngGy9hNKTOJncNhqKaQU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v8_al.jpg",
+          "caption": "Cry Baby (1990)"
+        },
+        {
+          "url": "https://resizing.flixster.com/06GIHt1XmFaifhWC1ly6qtl878k=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v8_ak.jpg",
+          "caption": "Cry Baby (1990)"
+        },
+        {
+          "url": "https://resizing.flixster.com/aKfEchLv-t5rlggY8O8tHCdHwWI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_v_v8_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/AZsp6kZFw2GU7Ct6jQALeUHnbfg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "john_waters_2",
+          "name": "John Waters"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "johnny_depp",
+          "name": "Johnny Depp",
+          "character": "",
+          "image": "https://resizing.flixster.com/moNXwMz7LhTis_jyrEcyjA8WkFQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/33623_v9_bd.jpg"
+        },
+        {
+          "id": "amy_locane",
+          "name": "Amy Locane",
+          "character": "",
+          "image": "https://resizing.flixster.com/ZwOHERZbQHYBJnKaX48a-4_15Ws=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77169_v9_bb.jpg"
+        },
+        {
+          "id": "susan_tyrrell",
+          "name": "Susan Tyrrell",
+          "character": "",
+          "image": "https://resizing.flixster.com/X_wkp2m4EYwHQSrK3AUTbLMQ5S0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/60970_v9_ba.jpg"
+        },
+        {
+          "id": "polly_bergen",
+          "name": "Polly Bergen",
+          "character": "",
+          "image": "https://resizing.flixster.com/b5KlI9UmJLgHHOhQcJ5ue-rzCbQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/138_v9_bb.jpg"
+        },
+        {
+          "id": "jim_osterberg",
+          "name": "Iggy Pop",
+          "character": "",
+          "image": "https://resizing.flixster.com/Y4Pq8-Z8m0TejmkHHwrcUyEcKgI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1375_v9_bc.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Cry-Baby/5689?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:21.998498Z"
+    },
+    {
+      "id": "darling_lili",
+      "url": "https://www.rottentomatoes.com/m/darling_lili",
+      "category": "musical",
+      "type": "movie",
+      "title": "Darling Lili",
+      "original_title": "Darling Lili",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1970,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 114,
+      "certificate": "G",
+      "rating": 4.8,
+      "votes": 138,
+      "tomatometer": 40,
+      "tomatometer_count": 5,
+      "tomatometer_certified": false,
+      "audience_score": 67,
+      "audience_count": 49,
+      "metascore": null,
+      "plot": "In World War I London, half-British, half-German Lili Smith (Julie Andrews) lets her German uncle -- a foreign agent and German military liaison -- talk her into spying. A dance-hall singer who is popular with the British troops, Lili uses her charm and racy numbers to secure the interest of flying squadron leader Maj. William Larrabee (Rock Hudson). Before Lili can pass on vital information, however, she finds herself in love with Larrabee -- who unfortunately discovers her real identity.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/OcTBvnfsx1n2OV53kQRag_UaG0M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_p_v13_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/OcTBvnfsx1n2OV53kQRag_UaG0M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_p_v13_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/f2os1A_2wF6qDGxAxKilyQir0J8=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/XJdVy7iVVLOoVCNrRWDDQ3cMvqc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_i_h10_ab.jpg",
+          "caption": "Darling Lili (1970)"
+        },
+        {
+          "url": "https://resizing.flixster.com/sxuNBUj3ZiK_46IUzW4mObFnW1w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_p_v13_ab.jpg",
+          "caption": "Darling Lili (1970)"
+        },
+        {
+          "url": "https://resizing.flixster.com/yZieOjO3Z39Qsi2BNAepEn63iIM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_p_v12_ac.jpg",
+          "caption": "Darling Lili (1970)"
+        },
+        {
+          "url": "https://resizing.flixster.com/b3AWIa9ecSlQApnAkCHlHxQqKws=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_v_v8_ao.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4jINbm5wYsr7yvrYv62GaNSEzBE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "sam_o_brown",
+          "name": "Blake Edwards"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "julie_andrews",
+          "name": "Julie Andrews",
+          "character": "",
+          "image": "https://resizing.flixster.com/9i9NL8MoaPpzYH1alQr91LomtMY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/35124_v9_bb.jpg"
+        },
+        {
+          "id": "rock_hudson",
+          "name": "Rock Hudson",
+          "character": "",
+          "image": "https://resizing.flixster.com/J5CUK6emUiZQ4aV69_j-7cyN3vo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/78318_v9_ba.jpg"
+        },
+        {
+          "id": "jeremy_kemp",
+          "name": "Jeremy Kemp",
+          "character": "",
+          "image": "https://resizing.flixster.com/i8KYXWMfG83ktNkdwL8q0_KuFJw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/31089_v9_ba.jpg"
+        },
+        {
+          "id": "lance_percival",
+          "name": "Lance Percival",
+          "character": "",
+          "image": "https://resizing.flixster.com/rC5cufWviM4Me78Ml-mk8DXe6Vw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/150157_v9_ba.jpg"
+        },
+        {
+          "id": "jacques-marin",
+          "name": "Jacques Marin",
+          "character": "",
+          "image": "https://resizing.flixster.com/yMhPmBdRWz7vRF-P8AoxXdRjWng=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/83477_v9_aa.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Darling-Lili/54911?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:00.948291Z"
+    },
+    {
+      "id": "dream_horse",
+      "url": "https://www.rottentomatoes.com/m/dream_horse",
+      "category": "musical",
+      "type": "movie",
+      "title": "Dream Horse",
+      "original_title": "Dream Horse",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Biography",
+        "Musical",
+        "Romance",
+        "History"
+      ],
+      "year": 2021,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 113,
+      "certificate": "PG",
+      "rating": 6.7,
+      "votes": 520,
+      "tomatometer": 88,
+      "tomatometer_count": 132,
+      "tomatometer_certified": true,
+      "audience_score": 97,
+      "audience_count": 306,
+      "metascore": null,
+      "plot": "The film tells the inspiring true story of Dream Alliance, an unlikely race horse bred by small town bartender, Jan Vokes (Academy Award® nominee Toni Collette). With very little money and no experience, Jan convinces her neighbors to chip in their meager earnings to help raise Dream and compete with the racing elites. Their investment pays off as Dream rises through the ranks and becomes a beacon of hope in their struggling community.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/kX71botp5hsEyewqgvf89xlhdwo=/300x450/v2/https://resizing.flixster.com/HBFMryqx9IUE5p08z-gJ2RRBQgY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4MTA1YzEwLTc5M2UtNDg5ZC1iODE3LWEwN2FkZmQ2OGM0NC53ZWJw",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/kX71botp5hsEyewqgvf89xlhdwo=/300x450/v2/https://resizing.flixster.com/HBFMryqx9IUE5p08z-gJ2RRBQgY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4MTA1YzEwLTc5M2UtNDg5ZC1iODE3LWEwN2FkZmQ2OGM0NC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/aYb-PJjIm1va-R8-3Z-vyWm5PN4=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/74/507/thumb_33202E49-66E6-4580-A988-84476EC4CBFF.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jNg5W84_UorHJtTb7ZXf6AtXn3E=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17382312_v_v11_ai.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gvZjJxqJHNjRWujJcm3bSqAAoN4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17382312_v_v11_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/hFQXxL6BYSG56gBm6KHR-5Ke13U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17382312_v_v8_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/dtiFuiPHO_gBvRARrYt80rHu_SQ=/fit-in/705x460/v2/https://resizing.flixster.com/v5QeeN8by8bav1yVn86D2_NgQ_8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3ZmNkNmJhLTExZmYtNDUyMy1hNGM5LTEzNGU1ZDZhOTYxZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/IHhWiHVEH0TqB4YVUD1kST0O1sw=/fit-in/705x460/v2/https://resizing.flixster.com/HBFMryqx9IUE5p08z-gJ2RRBQgY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4MTA1YzEwLTc5M2UtNDg5ZC1iODE3LWEwN2FkZmQ2OGM0NC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/2Mst6A0erZQGPSOJYk2HgnxKa5w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17382312_p_v13_ae.jpg",
+          "caption": "Dream Horse (2020)"
+        },
+        {
+          "url": "https://resizing.flixster.com/GZdeLu8F8KssqCMWx-dEm-xsHoc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17382312_p_v12_ae.jpg",
+          "caption": "Dream Horse (2020)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Bl0vgzWs0YCLV41ZLMeIu6b99rw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17382312_p_v12_aa.jpg",
+          "caption": "Dream Horse (2020)"
+        }
+      ],
+      "trailer": {
+        "id": "xolHydrRIVKE",
+        "title": "Dream Horse: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/74/507/thumb_33202E49-66E6-4580-A988-84476EC4CBFF.jpg",
+        "seconds": 141,
+        "src": "https://link.theplatform.com/s/NGweTC/media/xolHydrRIVKE?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "euros_lyn",
+          "name": "Euros Lyn"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "toni_collette",
+          "name": "Toni Collette",
+          "character": "",
+          "image": "https://resizing.flixster.com/RLbMchHI1X2hFKJ9xL8cT5gq_t4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/63296_v9_bc.jpg"
+        },
+        {
+          "id": "damian_lewis",
+          "name": "Damian Lewis",
+          "character": "",
+          "image": "https://resizing.flixster.com/BoHrgyu5SaXBGQrQk-lLTue4Evc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0032GQH6.jpg"
+        },
+        {
+          "id": "owen_teale",
+          "name": "Owen Teale",
+          "character": "",
+          "image": "https://resizing.flixster.com/zPK_7YmzSrjzwQVQJ0vxk2YOIVs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/49405_v9_bb.jpg"
+        },
+        {
+          "id": "joanna_page",
+          "name": "Joanna Page",
+          "character": "",
+          "image": "https://resizing.flixster.com/_1chDXRiRJ4YQml1K2uzZvx3Lv8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/246575_v9_bb.jpg"
+        },
+        {
+          "id": "karl_johnson",
+          "name": "Karl Johnson",
+          "character": "",
+          "image": "https://resizing.flixster.com/CIdFV6TOxn1TgU8Zw6ZgO_H0f7k=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/158858_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dream-Horse/1394513?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:15:41.175437Z"
+    },
+    {
+      "id": "encanto_2021",
+      "url": "https://www.rottentomatoes.com/m/encanto_2021",
+      "category": "musical",
+      "type": "movie",
+      "title": "Encanto",
+      "original_title": "Encanto",
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "year": 2021,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "rating": 7.5,
+      "votes": 4234,
+      "tomatometer": 92,
+      "tomatometer_count": 209,
+      "tomatometer_certified": true,
+      "audience_score": 93,
+      "audience_count": 1671,
+      "metascore": null,
+      "plot": "The Madrigals are an extraordinary family who live hidden in the mountains of Colombia in a charmed place called the Encanto. The magic of the Encanto has blessed every child in the family with a unique gift -- every child except Mirabel. However, she soon may be the Madrigals' last hope when she discovers that the magic surrounding the Encanto is now in danger.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/hGo7TxQIdM4sVZEY9RnxfScB9dI=/300x450/v2/https://resizing.flixster.com/VrNJ_E6BYj-xca0Dqxq4kePXLwY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MwYzE3NjIwLWVlNmUtNGNkNS1iOWM4LTg1ZjJmZTIyZTQzZC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/hGo7TxQIdM4sVZEY9RnxfScB9dI=/300x450/v2/https://resizing.flixster.com/VrNJ_E6BYj-xca0Dqxq4kePXLwY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MwYzE3NjIwLWVlNmUtNGNkNS1iOWM4LTg1ZjJmZTIyZTQzZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/f2ogYBoKa3MDOgAfvehbzg_SY_U=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/928/575/thumb_FDE2F3AF-61B2-4CB8-9BE4-D3F4993F5831.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/z_Ctvsm_m3eT01VhjhfB0eug7qc=/fit-in/705x460/v2/https://resizing.flixster.com/eIQSsOvVTP07VOY_ocfmenWtfo4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkMDNmN2JhLWVjZTMtNGY1MS05ODEyLTI5NzUzNjM1ZGExNS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/O2eZjsDFyLcfnuImx3AFz6AJW4Y=/fit-in/705x460/v2/https://resizing.flixster.com/DPWVL1Z5Boapd8ZnG9vSfDgKo1A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxNDkyOTE5LTZhMGYtNGQ1OC1hODZlLTcyYWU1NTY5MjUwMS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/YiefnxcINsOMBVvrYdQ6YxC2UDQ=/fit-in/705x460/v2/https://resizing.flixster.com/1eOuLGyp4hfKJWYFbMnIHh0NVYk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBmODZjODA4LTM3NzAtNDdhNy05NTU3LTk4MzUwNjFkYTRiNS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tBQvgcFPtfwgblFAQf9czH-QDtU=/fit-in/705x460/v2/https://resizing.flixster.com/l0ZNCa4Jd4vMmByc_MGeX2rKlE4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc1ZmM2MjE5LTUwN2UtNGUyOS04YTYyLTE0ZGFkZGEwNjg1Zi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Y9Pkp7BV9oSNcOyXUROToyTMJr4=/fit-in/705x460/v2/https://resizing.flixster.com/Tg1bD_DVO5C_eVKfSGqZDZb3PbQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExMzU5OTQ1LWE1ZTMtNDA4OS05NGU4LTBlMDUwMWRhMTAyNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/RK_MtJsZCSSvIcPUOGVGc91vA7g=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19926819_k_h9_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/SxTb3f6QfCaH2xABWCZ38Ldy4Go=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19926819_k_v10_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/xkunHUn7iTqeSLpel80_LtDUbho=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19926819_k_v12_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "ix4Tj3xZlYRh",
+        "title": "Encanto: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/928/575/thumb_FDE2F3AF-61B2-4CB8-9BE4-D3F4993F5831.jpg",
+        "seconds": 127,
+        "src": "https://link.theplatform.com/s/NGweTC/media/ix4Tj3xZlYRh?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "jared_bush",
+          "name": "Jared Bush"
+        },
+        {
+          "id": "byron-howard",
+          "name": "Byron Howard"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Encanto/1966331?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:35:05.832005Z"
+    },
+    {
+      "id": "fame",
+      "url": "https://www.rottentomatoes.com/m/fame",
+      "category": "musical",
+      "type": "movie",
+      "title": "Fame",
+      "original_title": "Fame",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1980,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 134,
+      "certificate": "R",
+      "rating": 7.0,
+      "votes": 2723,
+      "tomatometer": 81,
+      "tomatometer_count": 37,
+      "tomatometer_certified": false,
+      "audience_score": 69,
+      "audience_count": 1117,
+      "metascore": null,
+      "plot": "Young men and women audition for coveted spots at the New York High School of Performing Arts. Those who make the cut discover that it takes a lot of hard work to become a star and sometimes difficult decisions have to be made. The youngsters grapple with heavy issues such as homosexuality, abortion, attempted suicide and illiteracy. On top of their unique struggles, the students must deal with the mundane pressures of adolescence like homework, heartbreak and rejection.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/hNp_OBJq7QSXyP3VdK-aqdWJgV0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89_p_v10_ar.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/hNp_OBJq7QSXyP3VdK-aqdWJgV0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89_p_v10_ar.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/qpzThW4UxuTRsB8ul0Ogeot1pr4=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/730/863/thumb_A4FCE9B5-D47A-4252-85C7-3FAD379C6BD8.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sYSsvwQvaHN-CPUklsoAT9JONBU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89_v_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/TEZPcPx-DtD25esklKZ9FNINctM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89_p_v10_ar.jpg",
+          "caption": "Fame (1980)"
+        },
+        {
+          "url": "https://resizing.flixster.com/YUuvqMVisrgfG_6HngDPND35Ymk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89_p_v8_aa.jpg",
+          "caption": "Fame (1980)"
+        },
+        {
+          "url": "https://resizing.flixster.com/nJmlaBu-kBAZ_OjBBXoTQWTH5gg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89_i_h10_ae.jpg",
+          "caption": "Fame (1980)"
+        },
+        {
+          "url": "https://resizing.flixster.com/s3jxeiNHScGlOh0FjqzLkCAgo1s=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89_i_h10_ad.jpg",
+          "caption": "Fame (1980)"
+        }
+      ],
+      "trailer": {
+        "id": "GHGEEZsZa_qF",
+        "title": "Fame: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/730/863/thumb_A4FCE9B5-D47A-4252-85C7-3FAD379C6BD8.jpg",
+        "seconds": 156,
+        "src": "https://link.theplatform.com/s/NGweTC/media/GHGEEZsZa_qF?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "1042742-alan_parker",
+          "name": "Alan Parker"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "irene_cara",
+          "name": "Irene Cara",
+          "character": "",
+          "image": "https://resizing.flixster.com/N-MdVT0WL0S7bLgrfCpdJuZ_5qY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73038_v9_ba.jpg"
+        },
+        {
+          "id": "ed_barth",
+          "name": "Eddie Barth",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "lee_curreri",
+          "name": "Lee Curreri",
+          "character": "",
+          "image": "https://resizing.flixster.com/HcjeUqN6_emxhCEUQf0yjU7J1hc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/172294_v9_ba.jpg"
+        },
+        {
+          "id": "laura_dean",
+          "name": "Laura Dean",
+          "character": "",
+          "image": "https://resizing.flixster.com/gEXWQ3Sl7UeDVNDvFw18ayqjhzs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/172295_v9_bb.jpg"
+        },
+        {
+          "id": "paul_mccrane",
+          "name": "Paul McCrane",
+          "character": "",
+          "image": "https://resizing.flixster.com/9XeCNpzsF2KWZ5Xm9A1q1lQw2uY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/50571_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Fame/9799?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:08.847392Z"
+    },
+    {
+      "id": "frank_zappa_two_hundred_motels",
+      "url": "https://www.rottentomatoes.com/m/frank_zappa_two_hundred_motels",
+      "category": "musical",
+      "type": "movie",
+      "title": "200 Motels",
+      "original_title": "200 Motels",
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "year": 1971,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 98,
+      "certificate": "R",
+      "rating": 6.7,
+      "votes": 263,
+      "tomatometer": 50,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": 66,
+      "audience_count": 143,
+      "metascore": null,
+      "plot": "With help from a former Beatle, Ringo Starr, and a member of the Who, Keith Moon, Frank Zappa and his band draw on their own experiences in this mockumentary about the lives of peripatetic rock stars. Director Zappa takes his cameras backstage, offering a glimpse of what it's like to be out on tour. In contrast to the popular perception, life on the road isn't very glamorous, unless you're into bad drugs, awful sex and the endless pursuit of applause and a little spending money.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/ue6d2gM_spqIKspxleX2fmP5Xew=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p42945_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/ue6d2gM_spqIKspxleX2fmP5Xew=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p42945_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/q04bwCpx498eKjAMlIEfqVblz9Y=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p42945_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/yI5dXrChync2F0NQRDsa2ltjCk4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p42945_p_v8_aa.jpg",
+          "caption": "200 Motels (1971)"
+        },
+        {
+          "url": "https://resizing.flixster.com/lpNt36TtY_uA23NxGOyP2QirKaE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p42945_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/OSxsj0dhQ_UtuI7GtnnydTiMrvI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p42945_i_h10_ab.jpg",
+          "caption": "200 Motels (1971)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "tony_palmer",
+          "name": "Tony Palmer"
+        },
+        {
+          "id": "frank_zappa",
+          "name": "Frank Zappa"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "the_mothers_of_invention",
+          "name": "The Mothers of Invention",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "theodore_bikel",
+          "name": "Theodore Bikel",
+          "character": "",
+          "image": "https://resizing.flixster.com/OWduYGeLvexBAQTew1MbLSoSpJ0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/80419_v9_ba.jpg"
+        },
+        {
+          "id": "ringo_star",
+          "name": "Ringo Starr",
+          "character": "",
+          "image": "https://resizing.flixster.com/Y--fK1ZUylnh3WmBgL69A9BOXJE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1686_v9_bb.jpg"
+        },
+        {
+          "id": "keith_moon",
+          "name": "Keith Moon",
+          "character": "",
+          "image": "https://resizing.flixster.com/4kkhRvcsBMJ7Vgu6uNPLQU3tnvc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/115862_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GQ6MYXGZ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:36.608958Z"
+    },
+    {
+      "id": "gigi",
+      "url": "https://www.rottentomatoes.com/m/gigi",
+      "category": "musical",
+      "type": "movie",
+      "title": "Gigi",
+      "original_title": "Gigi",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1958,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 116,
+      "certificate": "G",
+      "rating": 7.9,
+      "votes": 2731,
+      "tomatometer": 90,
+      "tomatometer_count": 77,
+      "tomatometer_certified": true,
+      "audience_score": 73,
+      "audience_count": 878,
+      "metascore": null,
+      "plot": "Gaston (Louis Jourdan) is a restless Parisian playboy who moves from one mistress to another, while also spending time with Gigi (Leslie Caron), a precocious younger friend learning the ways of high society. The platonic relationship between Gaston and Gigi changes, however, when she matures, but the possibility of something lasting seems unlikely since he won't commit to one woman. Gigi refuses to be anyone's mistress, however, and Gaston must choose between her and his carefree lifestyle.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/Y-lg9OvK1hW2JzO8RyGcUMPXpxs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/Y-lg9OvK1hW2JzO8RyGcUMPXpxs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/xtLnS0IYHJsgz_-xcUDGt5aMNqE=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/o3I7bZnQq-5WQtgIKkN_CHlR32A=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/7070_ad.jpg",
+          "caption": "The film's stars Leslie Caron (left) and Louis Jourdan (right)."
+        },
+        {
+          "url": "https://resizing.flixster.com/MI-jN1yqhiowjyxYaRRUbDVfzQQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/7070_ae.jpg",
+          "caption": "Arthur Freed's musical production of \"Gigi\" stars Leslie Caron as Gigi and Louis Jourdan as Gaston Lachaille."
+        },
+        {
+          "url": "https://resizing.flixster.com/WzTloUk1kVpB8hAvjKw05Q7rHlU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/7070_ac.jpg",
+          "caption": "Pictured clockwise: Louis Jourdan, Leslie Caron, Hermoine Gingold (seated right) and Maurice Chevalier (seated left)."
+        },
+        {
+          "url": "https://resizing.flixster.com/ccYQP-tfLzn9gSIYxRIQDZeHFc0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/7070_ab.jpg",
+          "caption": "Leslie Caron stars in the title role in the musical \"Gigi.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/0R_CZ6XESkUSin4cS9sjHeh_lu8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36_p_v8_aa.jpg",
+          "caption": "Gigi (1958)"
+        },
+        {
+          "url": "https://resizing.flixster.com/e-6-Mayzi2kwHFtXLlZq7uY8o_8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/OFM2ZbeJIIjJZuznPUUiX1aaYFs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36_i_h10_ac.jpg",
+          "caption": "Gigi (1958)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "vicente_minelli",
+          "name": "Vincente Minnelli"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "leslie_caron",
+          "name": "Leslie Caron",
+          "character": "",
+          "image": "https://resizing.flixster.com/Rg6Zix-OXq5m44zwrRCu-be66j4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/80843_v9_bb.jpg"
+        },
+        {
+          "id": "maurice_chevalier",
+          "name": "Maurice Chevalier",
+          "character": "",
+          "image": "https://resizing.flixster.com/fcxINQR_dBo-Jg-AlA76lgy6MeU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/78139_v9_ba.jpg"
+        },
+        {
+          "id": "louis_jourdan",
+          "name": "Louis Jourdan",
+          "character": "",
+          "image": "https://resizing.flixster.com/9IOizDVuevCH7IrNc-gPOdK48A4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/40416_v9_ba.jpg"
+        },
+        {
+          "id": "hermione_gingold",
+          "name": "Hermione Gingold",
+          "character": "",
+          "image": "https://resizing.flixster.com/C4mPYII6Qo-Oem2_80YxpDqXWi4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/86456_v9_ba.jpg"
+        },
+        {
+          "id": "eva_gabor",
+          "name": "Eva Gabor",
+          "character": "",
+          "image": "https://resizing.flixster.com/OwH8tEiOBgi8qc36xW60WRPXgQc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/600_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Gigi/9351?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:03.970311Z"
+    },
+    {
       "id": "hair",
       "url": "https://www.rottentomatoes.com/m/hair",
       "category": "musical",
@@ -673,6 +2638,136 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T13:52:59.078059Z"
+    },
+    {
+      "id": "hannah_montana_the_movie",
+      "url": "https://www.rottentomatoes.com/m/hannah_montana_the_movie",
+      "category": "musical",
+      "type": "movie",
+      "title": "Hannah Montana: The Movie",
+      "original_title": "Hannah Montana: The Movie",
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy"
+      ],
+      "year": 2009,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 92,
+      "certificate": "G",
+      "rating": 5.4,
+      "votes": 11271,
+      "tomatometer": 43,
+      "tomatometer_count": 132,
+      "tomatometer_certified": false,
+      "audience_score": 67,
+      "audience_count": 6082,
+      "metascore": null,
+      "plot": "Like many teenagers, Miley Stewart (Miley Cyrus) juggles family, friends and school, but unlike her peers, she has a secret pop-star persona called Hannah Montana. When Hannah's soaring popularity threatens to take over Miley's life, her dad (Billy Ray Cyrus) steps in to give the teen a reality check. Back home in the Tennessee town of Crowley Corners, Miley embarks on an exciting adventure even Hannah Montana could not imagine.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/wDsBpDSRkq6GuU-FXYxggHM-_-E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p190672_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/wDsBpDSRkq6GuU-FXYxggHM-_-E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p190672_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bcvpFI8mnHZqV9FNo_vvZV6Zbzk=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p190672_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Man7ujG2g2f2qCW4nVq81twJ5Uc=/fit-in/705x460/v2/https://resizing.flixster.com/G3WoBWjHH2L_tqHiJMem72IXPv8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYxNTYwMDIxLTJhMGItNGI2NS1hZGUwLWIwOTUzOWQxMjU0NC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/d4MvlbLwZC2m79tHUd06iInas9Q=/fit-in/705x460/v2/https://resizing.flixster.com/hQ_rLTjgHAXC2gzh8mpcmW1cUFU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUxMWM4ZGE2LTQxMmUtNDEzZC1hOTdlLWE0Y2NlNmI0Njg2MS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/p779dmUrtc1GOHUj3oqglvscxZ4=/fit-in/705x460/v2/https://resizing.flixster.com/p5vEBfZrE0UgkwtQ0NnmNRk4aBw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwMmFhYmU4LWU4ZDUtNDJkOS05NDIzLTIyN2E3ZWU0YWY5My53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/O7dGMbb0YQ7hPtuEv7X1PTQ-VpI=/fit-in/705x460/v2/https://resizing.flixster.com/KtwaPMfxpJMATE7jLsHwo44kCNo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzZTAxODYwLTY0Y2YtNDUyMi1iNjFjLWVjZjBkYTU0NDk3My53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/7I6sEYSdH7i0z1RNlQRj3NSM78s=/fit-in/705x460/v2/https://resizing.flixster.com/pTN5eSTCEoHhnOgFZ93gy4Z_WA4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4YTk1M2MyLTU1NTAtNGYzYS04MjI0LTMyYTk3NGI0MzNhNi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/2OTMAs-xCjj62BqQOl4pouy3Lg8=/fit-in/705x460/v2/https://resizing.flixster.com/3SaKRCkQann85btVE4ea4KmnrcI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiZmJkZWMzLTQ3ZDgtNGM5NC1hNDZiLWYxMDJkM2I5M2IxMi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/vg1GnkTP0_jU-GZzOBAuAaX9WXA=/fit-in/705x460/v2/https://resizing.flixster.com/3LhS2SaSNAqNdTrDAAICaN0T9DE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzN2MzNjBlLTAyNzktNDAwZS1iNTViLTllYzZjYjFmMzBiYS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/q-I-rRTGNDYzPtpODTpAWVVV5bw=/fit-in/705x460/v2/https://resizing.flixster.com/P6Xt_U-zsadEiOffSXXpRnTB-Yw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzZjc3YjgwLTE2ZTgtNGM1Ni1iNGM5LTVlODQyNDRjZGM3MC53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "peter_chelsom",
+          "name": "Peter Chelsom"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "miley_cyrus",
+          "name": "Miley Cyrus",
+          "character": "",
+          "image": "https://resizing.flixster.com/gCdjskoXZP7EeEjYY4y5eVoxExU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002JQ9WM.jpg"
+        },
+        {
+          "id": "billy_ray_cyrus",
+          "name": "Billy Ray Cyrus",
+          "character": "",
+          "image": "https://resizing.flixster.com/igKKaKGsfNpFvcS7R8AFvYxOCPM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/67428_v9_bc.jpg"
+        },
+        {
+          "id": "emily_osment",
+          "name": "Emily Osment",
+          "character": "",
+          "image": "https://resizing.flixster.com/ipkwLl4N6hLw3kRPwym1kC8a6v4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0034ZRPQ.jpg"
+        },
+        {
+          "id": "jason_earles",
+          "name": "Jason Earles",
+          "character": "",
+          "image": "https://resizing.flixster.com/HSW4CTwlMj3O5shc2ZvfjRNHD4w=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/317739_v9_ba.jpg"
+        },
+        {
+          "id": "mitchel_musso",
+          "name": "Mitchel Musso",
+          "character": "",
+          "image": "https://resizing.flixster.com/kksjreO0rxgJqXe9rHm0LZ153Ok=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/315932_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Hannah-Montana-The-Movie/162082?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:43:17.462603Z"
     },
     {
       "id": "heartbreak_hotel",
@@ -887,6 +2982,115 @@
       "scraped_at": "2026-08-21T13:52:59.267684Z"
     },
     {
+      "id": "legend_of_1900",
+      "url": "https://www.rottentomatoes.com/m/legend_of_1900",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Legend of 1900",
+      "original_title": "The Legend of 1900",
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "year": 1998,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 116,
+      "certificate": "R",
+      "rating": 6.3,
+      "votes": 4607,
+      "tomatometer": 58,
+      "tomatometer_count": 40,
+      "tomatometer_certified": false,
+      "audience_score": 91,
+      "audience_count": 1387,
+      "metascore": null,
+      "plot": "On New Year's Day 1900, Danny (Bill Nunn), a crew member on an ocean liner, finds a deserted infant and decides to adopt him, nicknaming him \"1900.\" As an adult, the eccentric 1900 (Tim Roth) grows into a remarkable musician aboard the boat. Rumors of his brilliant piano playing eventually reach the shore, and his pal Max (Pruitt Taylor Vince) believes that success surely awaits 1900 on land. The only problem, however, is that the enigmatic pianist is loath to embrace life away from the ship.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/zsPHj-yjOwcOFUe3UFWg-PCCxGM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23808_p_v12_af.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/zsPHj-yjOwcOFUe3UFWg-PCCxGM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23808_p_v12_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/03jzsn1tB3SFRdT1WFuCZYxrYT4=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23808_i_h10_ag.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/-R07iO_VFHbTxZu08HwwvfEUf_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23808_v_v8_ah.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HMojB2B_S8cCpa2T1QWT7OGYcOc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23808_p_v13_af.jpg",
+          "caption": "The Legend of 1900 (1998)"
+        },
+        {
+          "url": "https://resizing.flixster.com/hdq8rY2OI0Rgl1ZXuYBA53tJRGI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23808_p_v12_af.jpg",
+          "caption": "The Legend of 1900 (1998)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-Ytn6MYExj66RgqZrjRJfDhg1l4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23808_i_h10_ag.jpg",
+          "caption": "The Legend of 1900 (1998)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "giuseppe_tornatore",
+          "name": "Giuseppe Tornatore"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "tim_roth",
+          "name": "Tim Roth",
+          "character": "",
+          "image": "https://resizing.flixster.com/k_K68N3uTUjGR2FL2oh6sadaYoA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/62592_v9_bb.jpg"
+        },
+        {
+          "id": "pruitt_taylor_vince",
+          "name": "Pruitt Taylor Vince",
+          "character": "",
+          "image": "https://resizing.flixster.com/ToRBqsgG5iDRJ5rTDJuMVSfGSBU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/52395_v9_ba.jpg"
+        },
+        {
+          "id": "melanie_thierry",
+          "name": "Mélanie Thierry",
+          "character": "",
+          "image": "https://resizing.flixster.com/xGccpCFsg0ciuHkOo6UNJDNIbC8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/207796_v9_bc.jpg"
+        },
+        {
+          "id": "bill_nunn",
+          "name": "Bill Nunn",
+          "character": "",
+          "image": "https://resizing.flixster.com/gUWc0Hz5vcZn5Cvwz8YIVuE41ZQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1270_v9_ba.jpg"
+        },
+        {
+          "id": "peter_vaughan",
+          "name": "Peter Vaughan",
+          "character": "",
+          "image": "https://resizing.flixster.com/s-crswoZO7ZLtqamqvkTGNZgHbk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/51607_v9_bc.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DN8WS8LW/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:37:05.812550Z"
+    },
+    {
       "id": "london_paris_new_york",
       "url": "https://www.rottentomatoes.com/m/london_paris_new_york",
       "category": "musical",
@@ -1085,6 +3289,1721 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T13:52:57.745827Z"
+    },
+    {
+      "id": "musica",
+      "url": "https://www.rottentomatoes.com/m/musica",
+      "category": "musical",
+      "type": "movie",
+      "title": "Música",
+      "original_title": "Música",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Musical",
+        "Romance"
+      ],
+      "year": 2024,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 91,
+      "certificate": "PG-13",
+      "rating": 7.8,
+      "votes": 324,
+      "tomatometer": 96,
+      "tomatometer_count": 48,
+      "tomatometer_certified": true,
+      "audience_score": 86,
+      "audience_count": 46,
+      "metascore": null,
+      "plot": "Based on writer, director and star Rudy Mancuso, Música is a coming-of-age love story that follows an aspiring creator with synesthesia, who must come to terms with an uncertain future, while navigating the pressures of love, family and his Brazilian culture in Newark, New Jersey.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/nN74F2gqObeuUZIk7ZjGqYv7uvM=/300x450/v2/https://resizing.flixster.com/v_9M4jbVP8YQ2O5EDz6HIitp_qE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjNGNhNjdjLWE2YTYtNGIwNy04OTEzLWJiZWNlNTVlM2QzMy5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/nN74F2gqObeuUZIk7ZjGqYv7uvM=/300x450/v2/https://resizing.flixster.com/v_9M4jbVP8YQ2O5EDz6HIitp_qE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjNGNhNjdjLWE2YTYtNGIwNy04OTEzLWJiZWNlNTVlM2QzMy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FYV_Mh6YKOV51B9jXpxvL2V6N1U=/620x336/v2/https://resizing.flixster.com/uvn2bYFQr5r7lyIBOvr7Dnb7qvQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkMjUxOTViLTBiMzEtNDk5ZC1hZTQ2LTllNjA1NTcwNTQ4ZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/b0ttATEqYq6i8qNn4cCdB2K2d8M=/fit-in/705x460/v2/https://resizing.flixster.com/FugSL5ET176kBOrSN0ztrySm0Ns=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzljZWJjNjE4LWFlZWQtNDI3Ny05MDQ4LWNkZTNlOThmZTVkNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/lDDSKaLb_DYePDBJeF7vrKlsu6E=/fit-in/705x460/v2/https://resizing.flixster.com/fu6JftWVQbniFwhGmawqFNmrMKI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA1YTZiYjE5LTU2MWEtNGU1MC05ZmVlLWE5YmIzYzEzYjY5Mi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/JMMaVHh5Aew6TEC856GsGVoY2CE=/fit-in/705x460/v2/https://resizing.flixster.com/uvn2bYFQr5r7lyIBOvr7Dnb7qvQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkMjUxOTViLTBiMzEtNDk5ZC1hZTQ2LTllNjA1NTcwNTQ4ZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/19XM2waRoCsFVO6no6Uca-mBhlE=/fit-in/705x460/v2/https://resizing.flixster.com/-WQvoBqWiSx_EvpE9WCD3Bpuhvc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzNjVlZmY0LTJhODQtNDU5Ny04MjQzLWJiNjI4NTdjNzBkZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ZwzEf8P-d6XrABA6XpMJE5TiP48=/fit-in/705x460/v2/https://resizing.flixster.com/-KjP65L2XfDmWYFvxeh5fbl7Oe8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU4MWQ5NTQwLWI5Y2QtNDc4OS04Y2RiLTY2ZTMzNWJiYTYxMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/CmV_tCCZAzlIIcPKYH-eP6Iin8A=/fit-in/705x460/v2/https://resizing.flixster.com/8uoL35zAEZqvDPduu8R4YNuMAhA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1ZTE5Mzk0LTllNTgtNGM3My04ZWFhLTRjN2E0Y2ZhNjFkZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Itz-FVEpTKHlVSMLZ-NvmkUXREE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26694728_v_v12_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Fpq5soQgFk0-uH-49PMV1hTm6-4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26694728_i_h10_ab.jpg",
+          "caption": "Música (2024)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "rudy_mancuso",
+          "name": "Rudy Mancuso"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "rudy_mancuso",
+          "name": "Rudy Mancuso",
+          "character": "",
+          "image": "https://resizing.flixster.com/p_eqFU8QLIRom6hfoTFCRpNYe0I=/120x150/v2/https://resizing.flixster.com/PMm5-hD5iLCVfhJ6g_3FcIVt0Jk=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvMDM2NzE2OTItN2E5YS00NGU1LWEzYjMtZmRjZmViNjkwMzgzLmpwZw=="
+        },
+        {
+          "id": "camila_mendes",
+          "name": "Camila Mendes",
+          "character": "",
+          "image": "https://resizing.flixster.com/NEPTu9rIGlDAW_c-GK9FpHe9miM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/969790_v9_bb.jpg"
+        },
+        {
+          "id": "jb_smoove",
+          "name": "J.B. Smoove",
+          "character": "",
+          "image": "https://resizing.flixster.com/yulPVO00dXg8rrEahJMabznqTtI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/425779_v9_bd.jpg"
+        },
+        {
+          "id": "francesca_reale",
+          "name": "Francesca Reale",
+          "character": "",
+          "image": "https://resizing.flixster.com/QsYFEsTAgaBiUfLp6PS7YczquXs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0027LQBB.jpg"
+        },
+        {
+          "id": "maria_mancuso",
+          "name": "Maria Mancuso",
+          "character": "",
+          "image": "https://resizing.flixster.com/dhTzRc1c4dF2rSN8TFXRdMidcTc=/120x150/v2/https://resizing.flixster.com/Tl1JjuJgmR1W2rP3L_CWSikfO_k=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvZjJiZGRkMTUtMTE5Ny00ZDNlLTg3ZDgtMDJiYmQ3YWEyZWM3LmpwZw=="
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CL36LZ6M/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:19:53.395532Z"
+    },
+    {
+      "id": "my_fair_lady",
+      "url": "https://www.rottentomatoes.com/m/my_fair_lady",
+      "category": "musical",
+      "type": "movie",
+      "title": "My Fair Lady",
+      "original_title": "My Fair Lady",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1964,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 170,
+      "certificate": "G",
+      "rating": 8.7,
+      "votes": 16758,
+      "tomatometer": 94,
+      "tomatometer_count": 89,
+      "tomatometer_certified": true,
+      "audience_score": 90,
+      "audience_count": 6410,
+      "metascore": null,
+      "plot": "In this beloved musical, pompous phonetics professor Henry Higgins (Rex Harrison) is so sure of his abilities that he takes it upon himself to transform a Cockney working-class girl into someone who can pass for a cultured member of high society. His subject turns out to be the lovely Eliza Doolittle (Audrey Hepburn), who agrees to speech lessons to improve her job prospects. Higgins and Eliza clash, then form an unlikely bond -- one that is threatened by an aristocratic suitor (Jeremy Brett).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/6IVlm8Igz55Cv9lxfW3-pvdNLFA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_p_v8_ad.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/6IVlm8Igz55Cv9lxfW3-pvdNLFA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_p_v8_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/isYHT3ZYtvl8edFx0kUuHK_x098=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/1019/407/thumb_AFBD7AE1-E03F-400D-829B-214A386ACD65.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/77Fp_JoRT_JF2i7gg2ObPXB9NgA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_i_h10_ad.jpg",
+          "caption": "My Fair Lady (1964)"
+        },
+        {
+          "url": "https://resizing.flixster.com/kAA6zj49hMHWy2E9rOQ5dA0zcG4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_i_h10_ab.jpg",
+          "caption": "My Fair Lady (1964)"
+        },
+        {
+          "url": "https://resizing.flixster.com/h8oFB2kd5firuUv-7tTRm4LSS8o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_v_v12_ai.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bLQ7WMUQtDkLR03zszn27wJtkjg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_v_v7_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ijemjyxIaKZxN_upuF3gFIsCjMg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_p_v8_ad.jpg",
+          "caption": "My Fair Lady (1964)"
+        }
+      ],
+      "trailer": {
+        "id": "udcWtBKnEiIk",
+        "title": "My Fair Lady: 4K UHD Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/1019/407/thumb_AFBD7AE1-E03F-400D-829B-214A386ACD65.jpg",
+        "seconds": 61,
+        "src": "https://link.theplatform.com/s/NGweTC/media/udcWtBKnEiIk?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "george_cukor",
+          "name": "George Cukor"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "audrey_hepburn",
+          "name": "Audrey Hepburn",
+          "character": "",
+          "image": "https://resizing.flixster.com/l8mJ1nRitTPsp8D65kSOBBefje4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/767_v9_ba.jpg"
+        },
+        {
+          "id": "rex_harrison",
+          "name": "Rex Harrison",
+          "character": "",
+          "image": "https://resizing.flixster.com/mNVVpcIKxnH8odBka4PSOcGO0o4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/53852_v9_ba.jpg"
+        },
+        {
+          "id": "stanley_holloway",
+          "name": "Stanley Holloway",
+          "character": "",
+          "image": "https://resizing.flixster.com/wCLOguI-fFei09bitPCHJnyiooM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/153180_v9_ba.jpg"
+        },
+        {
+          "id": "wilfrid_hydewhite",
+          "name": "Wilfrid Hyde-White",
+          "character": "",
+          "image": "https://resizing.flixster.com/sa1cv64WrMtC-jxD-g1Iw7ZBIRQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/67777_v9_ba.jpg"
+        },
+        {
+          "id": "gladys_cooper",
+          "name": "Gladys Cooper",
+          "character": "",
+          "image": "https://resizing.flixster.com/BZbgXf9y4aXYEAf_nJEb3sl3MrY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/79255_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/My-Fair-Lady/1539167?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:03.315261Z"
+    },
+    {
+      "id": "new_york_new_york",
+      "url": "https://www.rottentomatoes.com/m/new_york_new_york",
+      "category": "musical",
+      "type": "movie",
+      "title": "New York, New York",
+      "original_title": "New York, New York",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1977,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 155,
+      "certificate": "PG",
+      "rating": 6.8,
+      "votes": 1561,
+      "tomatometer": 60,
+      "tomatometer_count": 52,
+      "tomatometer_certified": false,
+      "audience_score": 58,
+      "audience_count": 384,
+      "metascore": null,
+      "plot": "Jimmy Doyle (Robert De Niro), an aspiring saxophone player, meets established USO band singer Francine Evans (Liza Minnelli) during V-J Day celebrations at the end of World War II. The two become a musical double act and, more importantly, fall in love. They quickly get married and start a family, however, their volatile relationship disintegrates over time. Years later, when both of them have successful careers, Jimmy and Francine find their paths crossing once again.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/5Lxbh-Qt18_c8qZkXsyBNhFXGNM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p857_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/5Lxbh-Qt18_c8qZkXsyBNhFXGNM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p857_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/K2tFmE5SOK_aO3aySPsBY7BMzvI=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p857_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/dhAVoOuIjmb-SlSCFZIR2LcjEpg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p857_p_v8_aa.jpg",
+          "caption": "New York, New York (1977)"
+        },
+        {
+          "url": "https://resizing.flixster.com/FQdtMU3u9G-bLxTK8xn9h19o0f4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p857_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/waAm1Zj23oAg4P5V2_j6GvDW2Nw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p857_i_h10_aa.jpg",
+          "caption": "New York, New York (1977)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "martin_scorsese",
+          "name": "Martin Scorsese"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "robert_de_niro",
+          "name": "Robert De Niro",
+          "character": "",
+          "image": "https://resizing.flixster.com/C7n6hOb1bGNvM-VU26qEbVSMSCY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/55052_v9_bc.jpg"
+        },
+        {
+          "id": "liza_minnelli",
+          "name": "Liza Minnelli",
+          "character": "",
+          "image": "https://resizing.flixster.com/wvAjP4Thl3GDIz-XZ6jUPYVtC8c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1180_v9_ba.jpg"
+        },
+        {
+          "id": "lionel_stander",
+          "name": "Lionel Stander",
+          "character": "",
+          "image": "https://resizing.flixster.com/wkW00IzopSMtwy_AfiFDtIc0C78=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/39664_v9_ba.jpg"
+        },
+        {
+          "id": "barry_primus",
+          "name": "Barry Primus",
+          "character": "",
+          "image": "https://resizing.flixster.com/ArG31ZmKRehNK7oVKWdsrG5yB_o=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72671_v9_bb.jpg"
+        },
+        {
+          "id": "mary_kay_place",
+          "name": "Mary Kay Place",
+          "character": "",
+          "image": "https://resizing.flixster.com/CqZwz0WG5mW5si580OUXR1OE_Xs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/43970_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:06.852965Z"
+    },
+    {
+      "id": "night_they_raided_minskys",
+      "url": "https://www.rottentomatoes.com/m/night_they_raided_minskys",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Night They Raided Minsky's",
+      "original_title": "The Night They Raided Minsky's",
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "year": 1968,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 100,
+      "certificate": "PG-13",
+      "rating": 6.1,
+      "votes": 64,
+      "tomatometer": 67,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": 43,
+      "audience_count": 21,
+      "metascore": null,
+      "plot": "To distance herself from her strict Amish family, naïve Rachel Schpitendavel escapes to New York City to become a dancer. While Rachel's dances based on Biblical stories are too innocent for Minsky's Burlesque House, club-owner Billy Minsky plans on using Rachel's routine to humiliate critics of his business. But trouble arises when partners in a comedy duo compete for Rachel's affections.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/3t_CMe-npKxmao27nxZ26tOlii0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3453_p_v13_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/3t_CMe-npKxmao27nxZ26tOlii0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3453_p_v13_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/W1gLsO0Z4wX7vrX4wfB2CLdnke4=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3453_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/dcertRz1WiSJi8yoNMulKYXuF4Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3453_p_v13_ab.jpg",
+          "caption": "The Night They Raided Minsky's (1968)"
+        },
+        {
+          "url": "https://resizing.flixster.com/c59EyAh7UaD1sSpj7ccPvLT-WOc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3453_p_v12_ab.jpg",
+          "caption": "The Night They Raided Minsky's (1968)"
+        },
+        {
+          "url": "https://resizing.flixster.com/YqApFjXj5ZK1NMSknpRS7imgBqA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3453_v_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Z8O-YUJOBIcB76gOLkBS7xGENvI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3453_i_h10_aa.jpg",
+          "caption": "The Night They Raided Minsky's (1968)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "william_friedkin",
+          "name": "William Friedkin"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "jason_robards",
+          "name": "Jason Robards",
+          "character": "",
+          "image": "https://resizing.flixster.com/z0FfiJNZ1hBxcSuYgMc157myTko=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/29922_v9_bb.jpg"
+        },
+        {
+          "id": "britt_ekland",
+          "name": "Britt Ekland",
+          "character": "",
+          "image": "https://resizing.flixster.com/yNkpohSlvi48Fgl_tVuMkhxE8y0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/495_v9_bb.jpg"
+        },
+        {
+          "id": "norman_wisdom",
+          "name": "Norman Wisdom",
+          "character": "",
+          "image": "https://resizing.flixster.com/kf3fZsZRXDU1zWupqr-lMiylBoQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/48879_v9_ba.jpg"
+        },
+        {
+          "id": "elliott_gould",
+          "name": "Elliott Gould",
+          "character": "",
+          "image": "https://resizing.flixster.com/csX16qhezWkN3M0jqj1pZJE3YCY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/671_v9_bb.jpg"
+        },
+        {
+          "id": "forrest_tucker",
+          "name": "Forrest Tucker",
+          "character": "",
+          "image": "https://resizing.flixster.com/NCWL68KfZIjzAOmY4i5wyXpG1Wo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/21240_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:21.160593Z"
+    },
+    {
+      "id": "oklahoma",
+      "url": "https://www.rottentomatoes.com/m/oklahoma",
+      "category": "musical",
+      "type": "movie",
+      "title": "Oklahoma!",
+      "original_title": "Oklahoma!",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1955,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 145,
+      "certificate": "G",
+      "rating": 7.3,
+      "votes": 2106,
+      "tomatometer": 87,
+      "tomatometer_count": 30,
+      "tomatometer_certified": false,
+      "audience_score": 75,
+      "audience_count": 829,
+      "metascore": null,
+      "plot": "There's a box social coming up, and Curly (Gordon MacRae) asks Laurey (Shirley Jones) if she'll be his date. Trouble is, Laurey thinks he's waited too long, and in a fit of pique accepts an offer from the boorish Jud (Rod Steiger) instead. Meanwhile, Laurey's friend Ado Annie (Gloria Grahame) is also torn between two men: a cowboy named Will (Gene Nelson) and a foreign peddler, Ali Hakim (Eddie Albert). Both women struggle to know their own hearts before it's too late.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/XT_6VofOI1kC8Fb_v5LlDgHKah8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p231_p_v13_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/XT_6VofOI1kC8Fb_v5LlDgHKah8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p231_p_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_RljVU_aHgTkjQzKuEYegUBkHEA=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p231_i_h8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/TpfQp-8FAMYGEAJgvHqcCZni9is=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p231_i_h8_ab.jpg",
+          "caption": "Oklahoma! (1955)"
+        },
+        {
+          "url": "https://resizing.flixster.com/bGca0pN2emrNwmzIT8VhJEkirlo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p231_p_v13_aa.jpg",
+          "caption": "Oklahoma! (1955)"
+        },
+        {
+          "url": "https://resizing.flixster.com/KEOcnaL2KFVVEe_4Kjsl8qDBm68=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p231_p_v8_aa.jpg",
+          "caption": "Oklahoma! (1955)"
+        },
+        {
+          "url": "https://resizing.flixster.com/XogFpVUn3bZP68AWRkFmU1tzLPI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p231_v_v12_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "fred_zinnemann",
+          "name": "Fred Zinnemann"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "gordon_macrae",
+          "name": "Gordon MacRae",
+          "character": "",
+          "image": "https://resizing.flixster.com/1ds_NA07ljOZuRHnTHAbshPwFho=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/91431_v9_ba.jpg"
+        },
+        {
+          "id": "shirley_jones",
+          "name": "Shirley Jones",
+          "character": "",
+          "image": "https://resizing.flixster.com/OV4tp6L_3RHWPnuyL6-5nE5uHsM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/59099_v9_ba.jpg"
+        },
+        {
+          "id": "rod_steiger",
+          "name": "Rod Steiger",
+          "character": "",
+          "image": "https://resizing.flixster.com/tQGOMX8dLQe7Wu_eloolpt_OaA4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1692_v9_ba.jpg"
+        },
+        {
+          "id": "gloria_grahame",
+          "name": "Gloria Grahame",
+          "character": "",
+          "image": "https://resizing.flixster.com/4xpT-9Q3Tl0dZchrDuhN9ZEYwJA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/86599_v9_ba.jpg"
+        },
+        {
+          "id": "gene_nelson",
+          "name": "Gene Nelson",
+          "character": "",
+          "image": "https://resizing.flixster.com/2J8Sk9Nq3tZEsCnSMYQ9MAa_1YA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/164631_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Oklahoma/7668?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:30.696991Z"
+    },
+    {
+      "id": "rocky_horror_picture_show",
+      "url": "https://www.rottentomatoes.com/m/rocky_horror_picture_show",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Rocky Horror Picture Show",
+      "original_title": "The Rocky Horror Picture Show",
+      "genres": [
+        "Musical",
+        "Comedy",
+        "Horror"
+      ],
+      "year": 1975,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "rating": 7.2,
+      "votes": 41422,
+      "tomatometer": 81,
+      "tomatometer_count": 53,
+      "tomatometer_certified": true,
+      "audience_score": 85,
+      "audience_count": 20683,
+      "metascore": null,
+      "plot": "In this cult classic, sweethearts Brad (Barry Bostwick) and Janet (Susan Sarandon), stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter (Tim Curry), a transvestite scientist. As their innocence is lost, Brad and Janet meet a houseful of wild characters, including a rocking biker (Meat Loaf) and a creepy butler (Richard O'Brien). Through elaborate dances and rock songs, Frank-N-Furter unveils his latest creation: a muscular man named \"Rocky.\"",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/oxquqw-upaKAUT_sie4D-EEH-4k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12793_p_v12_at.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/oxquqw-upaKAUT_sie4D-EEH-4k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12793_p_v12_at.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4MmeuHTxYGmuEuBcjRpgkCzWamE=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/609/543/thumb_FB4F5777-2054-430B-8022-C1D0D870A05B.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/J05q-efSU490t6PRPZRUblH1tDE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12793_p_v12_at.jpg",
+          "caption": "The Rocky Horror Picture Show (1975)"
+        },
+        {
+          "url": "https://resizing.flixster.com/LARIHtvDwvYqpn8ZTJQqa25l2Io=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12793_i_h10_aa.jpg",
+          "caption": "The Rocky Horror Picture Show (1975)"
+        },
+        {
+          "url": "https://resizing.flixster.com/HFF3ME7IYLMqVBFFoMaPUvnXIrU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12793_v_v8_ak.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/CaNkCsZv-8dvvlMbyR7Bpse_9Gs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/17329_al.jpg",
+          "caption": "A scene from the film \"The Rocky Horror Picture Show.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/ISdxPtnuih71RtpruWH-nds0z4Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/17329_ak.jpg",
+          "caption": "A scene from the film \"The Rocky Horror Picture Show.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/P2phbFT8qxqOtOwRvUMJmetAhAE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/17329_ai.jpg",
+          "caption": "A scene from the film \"The Rocky Horror Picture Show.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/ViSCIFgEsXaaOq2EqKL0aKOZKjM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/17329_am.jpg",
+          "caption": "A scene from the film \"The Rocky Horror Picture Show.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/-Wp9YMzEZ0JArV-wEWgECaCLunc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/17329_ad.jpg",
+          "caption": "A scene from the film \"The Rocky Horror Picture Show.\""
+        }
+      ],
+      "trailer": {
+        "id": "dizmm9d9v1HS",
+        "title": "The Rocky Horror Picture Show: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/609/543/thumb_FB4F5777-2054-430B-8022-C1D0D870A05B.jpg",
+        "seconds": 176,
+        "src": "https://link.theplatform.com/s/NGweTC/media/dizmm9d9v1HS?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "jim_sharman",
+          "name": "Jim Sharman"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "tim_curry",
+          "name": "Tim Curry",
+          "character": "",
+          "image": "https://resizing.flixster.com/5nL_jGEU8jiJ6CQj2zv7US8vBcE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72978_v9_ba.jpg"
+        },
+        {
+          "id": "susan_sarandon",
+          "name": "Susan Sarandon",
+          "character": "",
+          "image": "https://resizing.flixster.com/ie8at00u2v5JtvQvTmHsxv7J-Us=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1540_v9_bb.jpg"
+        },
+        {
+          "id": "barry_bostwick",
+          "name": "Barry Bostwick",
+          "character": "",
+          "image": "https://resizing.flixster.com/tJVqNWMQ4K7VFZv5ZJT7DF7A5JM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002H9T09.jpg"
+        },
+        {
+          "id": "1075285-richard_obrien",
+          "name": "Richard O'Brien",
+          "character": "",
+          "image": "https://resizing.flixster.com/Z-yOgX3G_As0uh9JITD7jW1hLUU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/521013_v9_bb.jpg"
+        },
+        {
+          "id": "jonathan_adams_2",
+          "name": "Jonathan Adams",
+          "character": "",
+          "image": "https://resizing.flixster.com/NgjpYEwwI0hRKSaVex17cxxLzpU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/506427_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Rocky-Horror-Picture-Show/7990?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:10.795739Z"
+    },
+    {
+      "id": "school_daze",
+      "url": "https://www.rottentomatoes.com/m/school_daze",
+      "category": "musical",
+      "type": "movie",
+      "title": "School Daze",
+      "original_title": "School Daze",
+      "genres": [
+        "Musical",
+        "Comedy",
+        "Drama"
+      ],
+      "year": 1988,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 121,
+      "certificate": "R",
+      "rating": 6.4,
+      "votes": 1463,
+      "tomatometer": 58,
+      "tomatometer_count": 31,
+      "tomatometer_certified": false,
+      "audience_score": 78,
+      "audience_count": 502,
+      "metascore": null,
+      "plot": "At historically black Mission College, the activist-minded Dap (Larry Fishburne) immerses himself in a world of political rhetoric and social movements -- one day he hopes to rally the students as a united front. At the other end of the spectrum, Julian (Giancarlo Esposito), the head of the biggest fraternity on campus, is more concerned with maintaining a strict social order. In between, Dap's conflicted cousin, Half-Pint (Spike Lee), spends most of his time rushing the fraternity.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/94feMpNukZYcfkEwGBubg_Fr2a0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10615_p_v13_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/94feMpNukZYcfkEwGBubg_Fr2a0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10615_p_v13_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/cLu6HiaE64OrKx4lUHg-cOY0ENo=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10615_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FhoWynWh0Jp3ogNGjtEDVSfPni8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10615_i_h10_ab.jpg",
+          "caption": "School Daze (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/CSrQEUID2mKGVe4jk0vSLyYXaHI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10615_p_v13_ab.jpg",
+          "caption": "School Daze (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/JDHvoJGrCtXImE0P05rspOgtqjk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10615_p_v12_ac.jpg",
+          "caption": "School Daze (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/1d7N-yCZBPtMtDGOH6FfHYDrojE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10615_v_v12_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "spike_lee",
+          "name": "Spike Lee"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "larry_fishburne",
+          "name": "Laurence Fishburne",
+          "character": "",
+          "image": "https://resizing.flixster.com/qv6rWZlFaIxedde59eZj2FHUhTE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0031NGXV.jpg"
+        },
+        {
+          "id": "giancarlo_esposito",
+          "name": "Giancarlo Esposito",
+          "character": "",
+          "image": "https://resizing.flixster.com/942dQdA_S8RkWWLglQAHomtZhl4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73215_v9_bd.jpg"
+        },
+        {
+          "id": "tisha_campbell",
+          "name": "Tisha Campbell-Martin",
+          "character": "",
+          "image": "https://resizing.flixster.com/JYiBOZ7iRhwg7l32AfxyBBlQ3tc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG003FGYRX.jpg"
+        },
+        {
+          "id": "undefined",
+          "name": "Joe Seneca",
+          "character": "",
+          "image": "https://resizing.flixster.com/83-Rhe7nKOdp4CDgPp_zH6ODslI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/32322_v9_ba.jpg"
+        },
+        {
+          "id": "art_evans",
+          "name": "Art Evans",
+          "character": "",
+          "image": "https://resizing.flixster.com/FYXSwUKuDQbWNr__J4G6s__kHJ8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/163023_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/School-Daze/19840?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:36.698119Z"
+    },
+    {
+      "id": "seven_brides_for_seven_brothers",
+      "url": "https://www.rottentomatoes.com/m/seven_brides_for_seven_brothers",
+      "category": "musical",
+      "type": "movie",
+      "title": "Seven Brides for Seven Brothers",
+      "original_title": "Seven Brides for Seven Brothers",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1954,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 103,
+      "certificate": "G",
+      "rating": 7.7,
+      "votes": 5541,
+      "tomatometer": 89,
+      "tomatometer_count": 27,
+      "tomatometer_certified": false,
+      "audience_score": 87,
+      "audience_count": 2798,
+      "metascore": null,
+      "plot": "During the 1850s, Milly (Jane Powell), a pretty young cook, marries Adam (Howard Keel), a grizzled woodsman, after a brief courtship. When the two return to Adam's farm, Milly is shocked to meet his six ill-mannered brothers, all of whom live in his cabin. She promptly begins teaching the brothers proper behavior, and most importantly, how to court a woman. But after the brothers kidnap six local girls during a town barn-raising, a group of indignant villagers tries to track them down.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/FavsuPiVIEleKV9jlgtB9loR3Us=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_p_v10_af.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/FavsuPiVIEleKV9jlgtB9loR3Us=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_p_v10_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0wH-YeLhuu2DvNV8x3vaR4i4AgU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_i_h10_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gk2pV3XvBvxKVo0ZaLuBESYL-ww=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_p_v10_af.jpg",
+          "caption": "Seven Brides for Seven Brothers (1954)"
+        },
+        {
+          "url": "https://resizing.flixster.com/C5n0O_HsJh6wJnocvPkeJXawqSI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_p_v10_ae.jpg",
+          "caption": "Seven Brides for Seven Brothers (1954)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-XJa_QzJ-7PvFFLg2pdholuCYqo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_p_v11_ag.jpg",
+          "caption": "Seven Brides for Seven Brothers (1954)"
+        },
+        {
+          "url": "https://resizing.flixster.com/fMACgW-IFXCxDcmCLSn6sMxp6WM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_p_v8_af.jpg",
+          "caption": "Seven Brides for Seven Brothers (1954)"
+        },
+        {
+          "url": "https://resizing.flixster.com/7EUg9iitNQG7RbobyZEq9JLXHCQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_i_h10_ae.jpg",
+          "caption": "Seven Brides for Seven Brothers (1954)"
+        },
+        {
+          "url": "https://resizing.flixster.com/E9mhEYJA0N2KEYkSz2YXF5XnXv4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_i_h10_ad.jpg",
+          "caption": "Seven Brides for Seven Brothers (1954)"
+        },
+        {
+          "url": "https://resizing.flixster.com/IR0tN0p3uO5E7wl6luq0xFfoXe0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_v_v8_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Ip5sz1FOUsaZOA4fKcf3yjffWFk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "stanley_donen",
+          "name": "Stanley Donen"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "howard_keel",
+          "name": "Howard Keel",
+          "character": "",
+          "image": "https://resizing.flixster.com/P52WiUkOzxeCQoFc_95TTIVyUDw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/26942_v9_ba.jpg"
+        },
+        {
+          "id": "jane_powell",
+          "name": "Jane Powell",
+          "character": "",
+          "image": "https://resizing.flixster.com/W9fVcs3WDKS4VivQjiipAHnP9qw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/84671_v9_bb.jpg"
+        },
+        {
+          "id": "russ_tamblyn",
+          "name": "Russ Tamblyn",
+          "character": "",
+          "image": "https://resizing.flixster.com/AV8BlNSfH0-x_iT1tDUqcJys2Zo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/57127_v9_bc.jpg"
+        },
+        {
+          "id": "jeff_richards_6",
+          "name": "Jeff Richards",
+          "character": "",
+          "image": "https://resizing.flixster.com/WutuST8xg7CH0vaoffjjHsBiUK0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/30759_v9_bb.jpg"
+        },
+        {
+          "id": "tommy_rall",
+          "name": "Tommy Rall",
+          "character": "",
+          "image": "https://resizing.flixster.com/7rXqnpX1Ggq5KoVKNmdKHH18Yv8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/63241_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Seven-Brides-for-Seven-Brothers/10131?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:31.774491Z"
+    },
+    {
+      "id": "songwriter",
+      "url": "https://www.rottentomatoes.com/m/songwriter",
+      "category": "musical",
+      "type": "movie",
+      "title": "Songwriter",
+      "original_title": "Songwriter",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1984,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 94,
+      "certificate": "R",
+      "rating": 7.0,
+      "votes": 30,
+      "tomatometer": 88,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": 43,
+      "audience_count": 8,
+      "metascore": null,
+      "plot": "Doc Jenkins (Willie Nelson) is a country music star who's become fed up with the industry. With some help from Blackie Buck (Kris Kristofferson), his old partner, and Gilda (Lesley Ann Warren), a rising star he's been mentoring, he tries to get back at Rodeo Rocky (Richard Sarafian), a ruthless promoter who's swindled him out of the publishing rights to his songs. Doc also sets out to get back together with his kindly ex-wife, Honey (Melinda Dillon).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/MSXo_a699njNPJIBWb0ro0CyKfI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8545_p_v10_ad.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/MSXo_a699njNPJIBWb0ro0CyKfI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8545_p_v10_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/6ecEyJ3wi6zMHQfPNRLY4cpuMJs=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8545_i_h8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/CCuaYsnOH7M8yUtK_MA6i5QwCbU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8545_p_v10_ad.jpg",
+          "caption": "Songwriter (1984)"
+        },
+        {
+          "url": "https://resizing.flixster.com/bb_8WEdW1QQFtSxVxkabPyGt2x0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8545_p_v8_aa.jpg",
+          "caption": "Songwriter (1984)"
+        },
+        {
+          "url": "https://resizing.flixster.com/CNKOVYOWyqu5CDrx_I9d2QQNVzA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8545_i_h8_ab.jpg",
+          "caption": "Songwriter (1984)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Q5LY3H2QlS99njdW5ndMer5osZM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8545_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "alan_rudolph",
+          "name": "Alan Rudolph"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "willie_nelson",
+          "name": "Willie Nelson",
+          "character": "",
+          "image": "https://resizing.flixster.com/b_JG0zrsgTWZCK8ojBI9zBfCCMw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/66370_v9_ba.jpg"
+        },
+        {
+          "id": "kris_kristofferson",
+          "name": "Kris Kristofferson",
+          "character": "",
+          "image": "https://resizing.flixster.com/jd_Oz2tTJEVUzpEsyrj3S8oNhiw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37360_v9_bb.jpg"
+        },
+        {
+          "id": "melinda_dillon",
+          "name": "Melinda Dillon",
+          "character": "",
+          "image": "https://resizing.flixster.com/EOFwWjN93wTv5H_RwFfS8McL6T8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/44912_v9_bb.jpg"
+        },
+        {
+          "id": "rip_torn",
+          "name": "Rip Torn",
+          "character": "",
+          "image": "https://resizing.flixster.com/1INXDNO3pPQ9WdkmERawbDCS5bU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/54727_v9_ba.jpg"
+        },
+        {
+          "id": "lesley_ann_warren",
+          "name": "Lesley Ann Warren",
+          "character": "",
+          "image": "https://resizing.flixster.com/3ZthmyL2VSPjRCOenshGj2J2Re4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1883_v9_bc.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:08.203386Z"
+    },
+    {
+      "id": "the_adventures_of_pinocchio_1996",
+      "url": "https://www.rottentomatoes.com/m/the_adventures_of_pinocchio_1996",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Adventures of Pinocchio",
+      "original_title": "The Adventures of Pinocchio",
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure",
+        "Drama",
+        "Musical"
+      ],
+      "year": 1996,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 96,
+      "certificate": "G",
+      "rating": 4.6,
+      "votes": 598,
+      "tomatometer": 36,
+      "tomatometer_count": 25,
+      "tomatometer_certified": false,
+      "audience_score": 28,
+      "audience_count": 199,
+      "metascore": null,
+      "plot": "A fairy answers a wish, bringing to life the puppet of woodcarver Geppetto (Martin Landau), who names him Pinocchio (Jonathan Taylor Thomas).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/nMg88KnXYHqzkD8pNJR60caJBHg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_p_v10_af.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/nMg88KnXYHqzkD8pNJR60caJBHg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_p_v10_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/x1e8O3b41pIMIrgCH1xI-vp8ZAM=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/YOWRKTg02g7lDoTdnLUvGd_t-hE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_v_v8_ah.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/vgSvBCUAekKfgBg71fqejiGsf50=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_p_v10_af.jpg",
+          "caption": "The Adventures of Pinocchio (1996)"
+        },
+        {
+          "url": "https://resizing.flixster.com/KB1xiYH4kf5zj2VgcnZHNoQ1yWo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_p_v12_af.jpg",
+          "caption": "The Adventures of Pinocchio (1996)"
+        },
+        {
+          "url": "https://resizing.flixster.com/DV4ilOBzWoNfFrotlByRZThkOWk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_p_v8_ad.jpg",
+          "caption": "The Adventures of Pinocchio (1996)"
+        },
+        {
+          "url": "https://resizing.flixster.com/nVAj7WBRR-pzWLiC4ilcreE_UhA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_i_h10_aa.jpg",
+          "caption": "The Adventures of Pinocchio (1996)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "steve_barron",
+          "name": "Steve Barron"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "martin_landau",
+          "name": "Martin Landau",
+          "character": "",
+          "image": "https://resizing.flixster.com/G08FvvIusz9Y4bVZDSxuSmFHueo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71847_v9_bb.jpg"
+        },
+        {
+          "id": "genevieve_bujold",
+          "name": "Geneviève Bujold",
+          "character": "",
+          "image": "https://resizing.flixster.com/3LgK3SD3hoq_DfmiqpKaSTJQ1Ac=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/198408_v9_ba.jpg"
+        },
+        {
+          "id": "udo_kier",
+          "name": "Udo Kier",
+          "character": "",
+          "image": "https://resizing.flixster.com/2yfkWQBgT8y9cd9DsfGZOpcGc2M=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/63928_v9_bb.jpg"
+        },
+        {
+          "id": "bebe_neuwirth",
+          "name": "Bebe Neuwirth",
+          "character": "",
+          "image": "https://resizing.flixster.com/tZRAQBnVM0lf2wvKvAU_hg3ZPHA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG003C91WC.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Adventures-of-Pinocchio/12659?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:48:07.760729Z"
+    },
+    {
+      "id": "the_lion_king",
+      "url": "https://www.rottentomatoes.com/m/the_lion_king",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Lion King",
+      "original_title": "The Lion King",
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Adventure",
+        "Animation"
+      ],
+      "year": 1994,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 88,
+      "certificate": "G",
+      "rating": 8.7,
+      "votes": 128660,
+      "tomatometer": 92,
+      "tomatometer_count": 172,
+      "tomatometer_certified": true,
+      "audience_score": 93,
+      "audience_count": 84581,
+      "metascore": null,
+      "plot": "This Disney animated feature follows the adventures of the young lion Simba (Jonathan Taylor Thomas), the heir of his father, Mufasa (James Earl Jones). Simba's wicked uncle, Scar (Jeremy Irons), plots to usurp Mufasa's throne by luring father and son into a stampede of wildebeests. But Simba escapes, and only Mufasa is killed. Simba returns as an adult (Matthew Broderick) to take back his homeland from Scar with the help of his friends Timon (Nathan Lane) and Pumbaa (Ernie Sabella).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/tVjf_Mu5QXlLpuPLHKpUiYitJTo=/300x450/v2/https://resizing.flixster.com/D8Qse6SPionYXKVFkWo1bNKgdyo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxYzFiNGM2LTJmYWUtNGYyYi04Y2ZiLWRiMzk4YTA0MzdiYS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/tVjf_Mu5QXlLpuPLHKpUiYitJTo=/300x450/v2/https://resizing.flixster.com/D8Qse6SPionYXKVFkWo1bNKgdyo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxYzFiNGM2LTJmYWUtNGYyYi04Y2ZiLWRiMzk4YTA0MzdiYS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/j7xdlgDiHlUvGhrTmkj5Heih2P8=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/623/267/thumb_B847EED0-3182-4A3C-8862-E7F985D4B7FA.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/V9Pex8G-m-uLHxwDf5KPG-bzuu8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/34369_ab.jpg",
+          "caption": "A pungent warthog named Pumbaa (Bottom) and his fast talking meerkat friend, Timon (Top) become unlikely guardians to an angst ridden lion cub named Simba."
+        },
+        {
+          "url": "https://resizing.flixster.com/zNhmj-k5DEcK4WFKK4eFlNPaQgM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/34369_ae.jpg",
+          "caption": "Simba (left) falls in line with Timon (right) and Pumbaa's (center) \"hakuna matata\" philosophy as he grows from cub to adult lion."
+        },
+        {
+          "url": "https://resizing.flixster.com/o2xROE2MZ0svTkVD-YC68ESxpZo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/34369_ad.jpg",
+          "caption": "King Mufasa (left) shows his son Simba (right) the extent of the kingdom he will one day inherit."
+        },
+        {
+          "url": "https://resizing.flixster.com/RKffPegtNm4s6iv-kljOJXc_15c=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/34369_ak.jpg",
+          "caption": "A young lion named Simba (left) gets some valuable life lessons on surviving in the jungle from his father, the mighty King Mufasa (right)."
+        },
+        {
+          "url": "https://resizing.flixster.com/bvNS0JjTZEVAcrFMgXHQHuf4bu4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/34369_aj.jpg",
+          "caption": "(left to right) A trio of hysterical hyenas - Ed, Shenzi and Banzai - try and get the last laugh as they do Scar's dirty work."
+        },
+        {
+          "url": "https://resizing.flixster.com/O7hbUdLsDhKADFPsd5JaMH--L1o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/34369_ai.jpg",
+          "caption": "Simba (right) returns home after a long absence to contront his evil Uncle Scar (left) and reclaim his royal right to the throne."
+        },
+        {
+          "url": "https://resizing.flixster.com/Y3rr-ovHYQqCwEugANcbGxuimlg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/34369_ah.jpg",
+          "caption": "Simba (left), a lion on the lam, finds a happy home with the carefree duo of Pumbaa (right), an pungent warthog, and Timon (center), a fast talking meerkat."
+        },
+        {
+          "url": "https://resizing.flixster.com/TM_EGpePgCSQWM3SX7H2XTXve4E=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/34369_ao.jpg",
+          "caption": "Simba (left) and Nala (right) welcome a newborn cub (center right) into their family as a wise baboon named Rafiki (center left) lends a hand."
+        }
+      ],
+      "trailer": {
+        "id": "S9FF37kNAXWq",
+        "title": "The Lion King: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/623/267/thumb_B847EED0-3182-4A3C-8862-E7F985D4B7FA.jpg",
+        "seconds": 73,
+        "src": "https://link.theplatform.com/s/NGweTC/media/S9FF37kNAXWq?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "roger_allers",
+          "name": "Roger Allers"
+        },
+        {
+          "id": "rob_minkoff",
+          "name": "Rob Minkoff"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Lion-King-The-Walt-Disney-Signature-Collection/882703?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:34:33.948682Z"
+    },
+    {
+      "id": "torch_song_trilogy",
+      "url": "https://www.rottentomatoes.com/m/torch_song_trilogy",
+      "category": "musical",
+      "type": "movie",
+      "title": "Torch Song Trilogy",
+      "original_title": "Torch Song Trilogy",
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "year": 1988,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 118,
+      "certificate": "R",
+      "rating": 6.1,
+      "votes": 750,
+      "tomatometer": 76,
+      "tomatometer_count": 21,
+      "tomatometer_certified": false,
+      "audience_score": 91,
+      "audience_count": 290,
+      "metascore": null,
+      "plot": "Arnold Beckoff (Harvey Fierstein) is looking for love and acceptance, but as a gay man working as a female impersonator in the 1970s New York City, neither come easily. After a series of heartaches, Arnold believes he has found the love of his life in Alan (Matthew Broderick), and the couple make plans to adopt. But when tragedy strikes, Arnold's life is shaken to its very core, leading to a confrontation with his overbearing mother (Anne Bancroft), who has never approved of her son's lifestyle.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/-iZqZXpJR-AJmTicClFpaVae2tI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/-iZqZXpJR-AJmTicClFpaVae2tI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ScXGQQ1hF8NC_DMjZiMHTsij7iw=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_i_h11_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bjvUUiSRucyiagjzeKZ6QJmxDbo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_i_h11_ad.jpg",
+          "caption": "Torch Song Trilogy (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/AQVd_i5y2rb7Db9i1FsBzWp1BHM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_i_h11_ab.jpg",
+          "caption": "Torch Song Trilogy (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/oNE8PpZ3OyMnSwmdLTMyx4w-nq4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_p_v10_aa.jpg",
+          "caption": "Torch Song Trilogy (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/gURTT6K5JiJ9PTX2IhOzWP8edC0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_p_v8_aa.jpg",
+          "caption": "Torch Song Trilogy (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/_tL3pvYm7LQnxZqoYh6Y8KyzKjI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_v_v11_ad.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "paul_bogart",
+          "name": "Paul Bogart"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "harvey_fierstein",
+          "name": "Harvey Fierstein",
+          "character": "",
+          "image": "https://resizing.flixster.com/tFlZt8kMwNnEryEz-Hz55W9hxxc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/25886_v9_bc.jpg"
+        },
+        {
+          "id": "anne_bancroft",
+          "name": "Anne Bancroft",
+          "character": "",
+          "image": "https://resizing.flixster.com/S4DBEOfYXQ0FVrOx9wf5opk66wo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/93_v9_bb.jpg"
+        },
+        {
+          "id": "matthew_broderick",
+          "name": "Matthew Broderick",
+          "character": "",
+          "image": "https://resizing.flixster.com/__2f9x4IJ749krNOv2205swZfeo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/44373_v9_bc.jpg"
+        },
+        {
+          "id": "brian_kerwin",
+          "name": "Brian Kerwin",
+          "character": "",
+          "image": "https://resizing.flixster.com/xXPv08wgdVY7qN_ZsdHTKdtV1WU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/9289_v9_ba.jpg"
+        },
+        {
+          "id": "1017098-karen_young",
+          "name": "Karen Young",
+          "character": "",
+          "image": "https://resizing.flixster.com/kwkHhcDBvaifQU_pZI7HzwJbgJI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/35715_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Torch-Song-Trilogy/4475574?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:38.216372Z"
+    },
+    {
+      "id": "wild_style",
+      "url": "https://www.rottentomatoes.com/m/wild_style",
+      "category": "musical",
+      "type": "movie",
+      "title": "Wild Style",
+      "original_title": "Wild Style",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1983,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 82,
+      "certificate": "R",
+      "rating": 7.2,
+      "votes": 470,
+      "tomatometer": 90,
+      "tomatometer_count": 21,
+      "tomatometer_certified": false,
+      "audience_score": 87,
+      "audience_count": 171,
+      "metascore": null,
+      "plot": "South Bronx graffiti artist Shy Zoro is commissioned to paint a backdrop for a rap/break-dance concert.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/kC1cBlGDhgRkP7W4anI4d2Rg_dw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p46113_p_v8_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/kC1cBlGDhgRkP7W4anI4d2Rg_dw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p46113_p_v8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ZGBLubQMcfPDY5JdHo-wHx1Iv8Y=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p46113_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/6ZdODgit9Wk8_xhN3hNRElvZlSI=/fit-in/705x460/v2/https://resizing.flixster.com/RYS4T5FPSpnpyy-YZGf7MKDJR04=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzllYzUwNzRjLWU1ODYtNGM0ZC1iMjEwLWU4NDhhYzg2ZjA1Ny53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/TdGZMjL_v8GpT43qSR568xHlDBI=/fit-in/705x460/v2/https://resizing.flixster.com/LUNg09MQEOivlUcP5MGMt3DFPLU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiOTVhMWUxLTFiODEtNGMzMy1hOTFiLTBkZTBhYjYyMDBkNC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/C8fuQoNm-38LFVh_nBRKpHdurUA=/fit-in/705x460/v2/https://resizing.flixster.com/Ni9dEi7a5pF5kRj5cILZ0VgDELo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFkY2I2ZGE3LWFlODItNDhjZC1iODMxLWY2NTBiMzQ1ZmQ0Yy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/2NR6JyuwiGhOOriUW19wmxP42mE=/fit-in/705x460/v2/https://resizing.flixster.com/_AKplFpDYCt5SGPhZWzCQ-kc8f8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZkZTc2ZmM2LWQ0YjktNGY3Yi1hNTU4LWRjYjM2OTNlNWM1ZS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/JYhvt31N_RL339duf0INAT-9oeg=/fit-in/705x460/v2/https://resizing.flixster.com/XYsRTu24x3p3-MzkzLofAXM8erk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxM2Q4MWI1LWU5YjEtNDI0Ni05ZWQ0LWYzNTU1NTEwMWRmOS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/-VoU1Rcd9d9n8vX3AeFscLPcxeI=/fit-in/705x460/v2/https://resizing.flixster.com/RAGo5behvsi-P80xkGN5SZlkPyw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1YWE2MWQzLWM0OTEtNDhkMS04ZmYwLTBlZmJmYWIyMDhlMi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ptgILUkp4I3S5UZVDEvo9zsITJU=/fit-in/705x460/v2/https://resizing.flixster.com/29BK9Km3L_3dSQ7_LHWkZKOstnQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRkMzU2YzFjLWNlM2YtNGY0Ni1iZGQ1LTY1ZWU1NWNlYWRhYS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/uqs5U5-nEnrnEhVV3l37X76MWqg=/fit-in/705x460/v2/https://resizing.flixster.com/OguaZ7JT3IKf0mL_aPB9P19PwTM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUyNDg2ZjdhLTBmNmItNGFiMi05MmRmLWQxMDU5Mzk3ZWNhZS53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "charlie_ahearn",
+          "name": "Charlie Ahearn"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "lee_george_quinones",
+          "name": "\"Lee\" George Quinones",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "sandra_pink_fabara",
+          "name": "Lady Pink",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "patti_astor",
+          "name": "Patti Astor",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "andrew",
+          "name": "Andrew Witten",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWQG256Q/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/wild-style/umc.cmc.74wce1a8cgzyfgt765byzuxh?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:47:38.568098Z"
+    },
+    {
+      "id": "wiz",
+      "url": "https://www.rottentomatoes.com/m/wiz",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Wiz",
+      "original_title": "The Wiz",
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year": 1978,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 134,
+      "certificate": "G",
+      "rating": 5.2,
+      "votes": 3210,
+      "tomatometer": 38,
+      "tomatometer_count": 117,
+      "tomatometer_certified": false,
+      "audience_score": 66,
+      "audience_count": 1446,
+      "metascore": null,
+      "plot": "When Harlem schoolteacher Dorothy tries to save her dog from a storm, she's miraculously whisked away to an urban fantasy land called Oz. After accidentally killing the Wicked Witch of the East upon her arrival, Dorothy is told about the Wiz, a wizard who can help her get back to Manhattan. As Dorothy goes in search of the Wiz, she's joined by the Scarecrow, the Tin Man and the Cowardly Lion.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/_OgLGhtphNB-Ny_z6goOwMU3Vj4=/300x450/v2/https://resizing.flixster.com/iTDJTlb40dvrs61ONkxgRH2t_aY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EwMjg1ZmIwLWM1ZWItNDVmNS05OWEwLWM1NWE0MmRjZGY5Yy5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/_OgLGhtphNB-Ny_z6goOwMU3Vj4=/300x450/v2/https://resizing.flixster.com/iTDJTlb40dvrs61ONkxgRH2t_aY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EwMjg1ZmIwLWM1ZWItNDVmNS05OWEwLWM1NWE0MmRjZGY5Yy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/G89lEljTh-cE6VHfRfHMlEyVPtE=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/85LKcIn9dVXP9OvnfxodPUW5jhg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_i_h9_aa.jpg",
+          "caption": "The Wiz (1978)"
+        },
+        {
+          "url": "https://resizing.flixster.com/c8uyMe08Y8Svnw2fuf8__koJlqc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_i_v9_aa.jpg",
+          "caption": "The Wiz (1978)"
+        },
+        {
+          "url": "https://resizing.flixster.com/lBr6D_4i_OQtwyWOPt4fsIMcAyE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_i_v8_aa.jpg",
+          "caption": "The Wiz (1978)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-N96pcuMEtpcQ3kjJPQOMRm65O8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_i_h10_aa.jpg",
+          "caption": "The Wiz (1978)"
+        },
+        {
+          "url": "https://resizing.flixster.com/dWQRn1UmloiVLashONQHGy3qMd8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_k_h9_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/a9GMVx5oXTlyoKfZKMcrrP1LyZ8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_k_h9_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/F7NHk0KMO_SGpMDvIbObDL3v3sw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_k_v13_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/r2QcNXuG35-4-476Bs3vv48ZCMg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4860_k_v9_ad.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "sidney_lumet",
+          "name": "Sidney Lumet"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "diana_ross",
+          "name": "Diana Ross",
+          "character": "",
+          "image": "https://resizing.flixster.com/qqqCDeMYcl_3i49faAELUzpv9Uc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002NN3NJ.jpg"
+        },
+        {
+          "id": "michael_jackson_2",
+          "name": "Michael Jackson",
+          "character": "",
+          "image": "https://resizing.flixster.com/LubUd97AEq9h-Tehp3mH-qyWcho=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/512227_v9_bb.jpg"
+        },
+        {
+          "id": "richard_pryor",
+          "name": "Richard Pryor",
+          "character": "",
+          "image": "https://resizing.flixster.com/Yx1Om7F1xjun3I9U2O64WRiCxJw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/54420_v9_bb.jpg"
+        },
+        {
+          "id": "nipsey-russell",
+          "name": "Nipsey Russell",
+          "character": "",
+          "image": "https://resizing.flixster.com/f0koVR3r6LB2LKBSuoJXX18nocs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/48581_v9_ba.jpg"
+        },
+        {
+          "id": "ted_ross_2",
+          "name": "Ted Ross",
+          "character": "",
+          "image": "https://resizing.flixster.com/AcT5tDyRdHH_LbGdXLb55PSJ1Ec=/120x150/v2/https://resizing.flixster.com/mJql0KBX9QDLYvQ2hWAvVCB-xOM=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvYjlmMDk1NDUtMjJlOS00NDFiLTk2MjAtMDAzMWY3ODVjODRjLmpwZw=="
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Wiz/4938?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:53.890319Z"
+    },
+    {
+      "id": "zoot_suit",
+      "url": "https://www.rottentomatoes.com/m/zoot_suit",
+      "category": "musical",
+      "type": "movie",
+      "title": "Zoot Suit",
+      "original_title": "Zoot Suit",
+      "genres": [
+        "Musical"
+      ],
+      "year": 1982,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 104,
+      "certificate": "R",
+      "rating": 4.9,
+      "votes": 174,
+      "tomatometer": 55,
+      "tomatometer_count": 11,
+      "tomatometer_certified": false,
+      "audience_score": 75,
+      "audience_count": 57,
+      "metascore": null,
+      "plot": "Mexican-American gangster Henry Reyna (Daniel Valdez) and others in his group are accused of a murder in which they had no part. They are then rounded up by the police because of their race and their choice of clothing. The gang members are thrown into prison and put through a racist trial. As Henry considers his fate, he has a conversation with El Pachuco (Edward James Olmos), a figure from his own conscience who makes him contemplate a choice between his heritage and his home country.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/uEu9D9Dnx5NVzz1QjgKZ-4t3CLc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2534_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/uEu9D9Dnx5NVzz1QjgKZ-4t3CLc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2534_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/AUx9S7J23c8VHunan0iR4gpFxlE=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2534_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tbE070Vlx5dvKiCPURQ-6ppXsaY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2534_p_v10_aa.jpg",
+          "caption": "Zoot Suit (1981)"
+        },
+        {
+          "url": "https://resizing.flixster.com/PPu_3owBVVaSP_jGp0dZTDK3vbA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2534_p_v8_ab.jpg",
+          "caption": "Zoot Suit (1981)"
+        },
+        {
+          "url": "https://resizing.flixster.com/vDbGB0mnTUoeBfbk3ztCMwg5TRY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2534_i_h10_ab.jpg",
+          "caption": "Zoot Suit (1981)"
+        },
+        {
+          "url": "https://resizing.flixster.com/DO9LzvyDVQmqIm52Kqqprq4cCyc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2534_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "luis_valdez",
+          "name": "Luis Valdez"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "daniel-valdez",
+          "name": "Daniel Valdez",
+          "character": "",
+          "image": "https://resizing.flixster.com/Qoa0SR7BMDBFIl__I902ZQ9V1bc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73697_v9_ba.jpg"
+        },
+        {
+          "id": "edward_james_olmos",
+          "name": "Edward James Olmos",
+          "character": "",
+          "image": "https://resizing.flixster.com/t9jIBRLIDl-2xDZXah6r0WDSOQU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/18696_v9_bc.jpg"
+        },
+        {
+          "id": "tyne_daly",
+          "name": "Tyne Daly",
+          "character": "",
+          "image": "https://resizing.flixster.com/jna95LmZdCz4m0bqqG8Ei1dY5Yk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/399_v9_bc.jpg"
+        },
+        {
+          "id": "charles_aidman",
+          "name": "Charles Aidman",
+          "character": "",
+          "image": "https://resizing.flixster.com/fVF6F4rJ38VMeVPmV2uuv4cq8QE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/78518_v9_ba.jpg"
+        },
+        {
+          "id": "john_anderson_14",
+          "name": "John Anderson",
+          "character": "",
+          "image": "https://resizing.flixster.com/ByZa7r3wESxcJBZ38fMlWTvpUT4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77769_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Zoot-Suit/5250?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:23:09.820658Z"
     }
   ]
 }

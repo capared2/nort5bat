@@ -1,8 +1,34 @@
 {
   "genre": "musical",
   "name": "Musical",
-  "count": 130,
+  "count": 165,
   "titles": [
+    {
+      "id": "the_lion_king",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Lion King",
+      "original_title": "The Lion King",
+      "year": 1994,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 8.7,
+      "votes": 128660,
+      "tomatometer": 92,
+      "audience_score": 93,
+      "runtime_minutes": 88,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/tVjf_Mu5QXlLpuPLHKpUiYitJTo=/300x450/v2/https://resizing.flixster.com/D8Qse6SPionYXKVFkWo1bNKgdyo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxYzFiNGM2LTJmYWUtNGYyYi04Y2ZiLWRiMzk4YTA0MzdiYS5qcGc=",
+      "plot": "This Disney animated feature follows the adventures of the young lion Simba (Jonathan Taylor Thomas), the heir of his father, Mufasa (James Earl Jones). Simba's wicked uncle, Scar (Jeremy Irons),…",
+      "directors": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ]
+    },
     {
       "id": "school_of_rock",
       "category": "musical",
@@ -254,6 +280,34 @@
       ]
     },
     {
+      "id": "aladdin_1992",
+      "category": "musical",
+      "type": "movie",
+      "title": "Aladdin",
+      "original_title": "Aladdin",
+      "year": 1992,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 8.6,
+      "votes": 52693,
+      "tomatometer": 96,
+      "audience_score": 92,
+      "runtime_minutes": 90,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/ruiuN-7-1AeNbPYo0ELAl1TnSKs=/300x450/v2/https://resizing.flixster.com/LVDFVhORfkZwxiYLfS5OlyEviFc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI2YzljNDg0LTU3MzktNDI4Yi1iOGFmLTAzZDI5NmMwNzA1MS5qcGc=",
+      "plot": "When street rat Aladdin frees a genie from a lamp, he finds his wishes granted. However, he soon finds that the evil has other plans for the lamp -- and for Princess Jasmine. But can Aladdin save…",
+      "directors": [
+        "Ron Clements",
+        "John Musker"
+      ]
+    },
+    {
       "id": "phantom_of_the_opera",
       "category": "musical",
       "type": "movie",
@@ -305,6 +359,32 @@
       ]
     },
     {
+      "id": "august_rush",
+      "category": "musical",
+      "type": "movie",
+      "title": "August Rush",
+      "original_title": "August Rush",
+      "year": 2007,
+      "genres": [
+        "Kids & Family",
+        "Drama",
+        "Adventure",
+        "Musical",
+        "Fantasy"
+      ],
+      "rating": 4.9,
+      "votes": 45137,
+      "tomatometer": 36,
+      "audience_score": 82,
+      "runtime_minutes": 113,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/raJ5jG8TBaLLSoicgcvnCHYJFG0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166757_p_v12_ac.jpg",
+      "plot": "A musically gifted orphan, Evan (Freddie Highmore), runs away from his orphanage and searches New York City for his birth parents. On his journey, he's taken under the wing of the Wizard (Robin…",
+      "directors": [
+        "Kirsten Sheridan"
+      ]
+    },
+    {
       "id": "chicago",
       "category": "musical",
       "type": "movie",
@@ -349,6 +429,30 @@
       "plot": "After his brother's death, a troubled but gifted street dancer enrolls in Atlanta's Truth University. As he tries to concentrate on his studies and woo a pretty classmate, he finds himself in the…",
       "directors": [
         "Sylvain White"
+      ]
+    },
+    {
+      "id": "rocky_horror_picture_show",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Rocky Horror Picture Show",
+      "original_title": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "genres": [
+        "Musical",
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 7.2,
+      "votes": 41422,
+      "tomatometer": 81,
+      "audience_score": 85,
+      "runtime_minutes": 95,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/oxquqw-upaKAUT_sie4D-EEH-4k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12793_p_v12_at.jpg",
+      "plot": "In this cult classic, sweethearts Brad (Barry Bostwick) and Janet (Susan Sarandon), stuck with a flat tire during a storm, discover the eerie mansion of Dr. Frank-N-Furter (Tim Curry), a transvestite…",
+      "directors": [
+        "Jim Sharman"
       ]
     },
     {
@@ -597,6 +701,29 @@
       ]
     },
     {
+      "id": "cry-baby",
+      "category": "musical",
+      "type": "movie",
+      "title": "Cry Baby",
+      "original_title": "Cry Baby",
+      "year": 1990,
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 6.5,
+      "votes": 19711,
+      "tomatometer": 72,
+      "audience_score": 77,
+      "runtime_minutes": 85,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/wDMwBI8O4_h3V7bxg_J0Vr_iJzg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12228_p_v11_an.jpg",
+      "plot": "A prim and proper schoolgirl goes against her mother's wishes when she dates a motorcycle-riding juvenile delinquent.",
+      "directors": [
+        "John Waters"
+      ]
+    },
+    {
       "id": "take_the_lead",
       "category": "musical",
       "type": "movie",
@@ -620,6 +747,30 @@
       ]
     },
     {
+      "id": "1194524-high_school_musical_3_senior_year",
+      "category": "musical",
+      "type": "movie",
+      "title": "High School Musical 3: Senior Year",
+      "original_title": "High School Musical 3: Senior Year",
+      "year": 2008,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 6.0,
+      "votes": 18229,
+      "tomatometer": 64,
+      "audience_score": 72,
+      "runtime_minutes": 112,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/MN2KOdX8DUSMVzep9DaMkT61Q3Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p177471_p_v8_an.jpg",
+      "plot": "Amid preparations for a basketball championship, prom, and graduation, sweethearts Troy Bolton (Zac Efron) and Gabriella Montez (Vanessa Hudgens) vow to savor every moment, knowing that college plans…",
+      "directors": [
+        "Kenny Ortega"
+      ]
+    },
+    {
       "id": "burlesque",
       "category": "musical",
       "type": "movie",
@@ -640,6 +791,28 @@
       "plot": "Ali (Christina Aguilera), a small-town gal with a great voice, leaves a troubled life behind and follows her dreams to Los Angeles. She lands a job as a cocktail waitress at the Burlesque Lounge, a…",
       "directors": [
         "Steve Antin"
+      ]
+    },
+    {
+      "id": "my_fair_lady",
+      "category": "musical",
+      "type": "movie",
+      "title": "My Fair Lady",
+      "original_title": "My Fair Lady",
+      "year": 1964,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 8.7,
+      "votes": 16758,
+      "tomatometer": 94,
+      "audience_score": 90,
+      "runtime_minutes": 170,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/6IVlm8Igz55Cv9lxfW3-pvdNLFA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175_p_v8_ad.jpg",
+      "plot": "In this beloved musical, pompous phonetics professor Henry Higgins (Rex Harrison) is so sure of his abilities that he takes it upon himself to transform a Cockney working-class girl into someone who…",
+      "directors": [
+        "George Cukor"
       ]
     },
     {
@@ -819,6 +992,30 @@
       ]
     },
     {
+      "id": "hannah_montana_the_movie",
+      "category": "musical",
+      "type": "movie",
+      "title": "Hannah Montana: The Movie",
+      "original_title": "Hannah Montana: The Movie",
+      "year": 2009,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 5.4,
+      "votes": 11271,
+      "tomatometer": 43,
+      "audience_score": 67,
+      "runtime_minutes": 92,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/wDsBpDSRkq6GuU-FXYxggHM-_-E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p190672_p_v10_aa.jpg",
+      "plot": "Like many teenagers, Miley Stewart (Miley Cyrus) juggles family, friends and school, but unlike her peers, she has a secret pop-star persona called Hannah Montana. When Hannah's soaring popularity…",
+      "directors": [
+        "Peter Chelsom"
+      ]
+    },
+    {
       "id": "nine_2009",
       "category": "musical",
       "type": "movie",
@@ -839,6 +1036,31 @@
       "plot": "Italian film director Guido Contini (Daniel Day-Lewis) grapples with epic crises in his personal and professional lives. At the same time, he must strike a balance of the demands of numerous women in…",
       "directors": [
         "Rob Marshall"
+      ]
+    },
+    {
+      "id": "chitty_chitty_bang_bang",
+      "category": "musical",
+      "type": "movie",
+      "title": "Chitty Chitty Bang Bang",
+      "original_title": "Chitty Chitty Bang Bang",
+      "year": 1968,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 6.0,
+      "votes": 8058,
+      "tomatometer": 70,
+      "audience_score": 71,
+      "runtime_minutes": 145,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/bBghwgU69ToL8Mzio4I6sDcLUkY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2691_p_v12_ac.jpg",
+      "plot": "While truant from school, young siblings Jeremy and Jemima meet the beautiful Truly Scrumptious (Sally Ann Howes), who falls for their widowed father, Caractacus Potts (Dick Van Dyke), and his…",
+      "directors": [
+        "Ken Hughes"
       ]
     },
     {
@@ -915,6 +1137,28 @@
       ]
     },
     {
+      "id": "seven_brides_for_seven_brothers",
+      "category": "musical",
+      "type": "movie",
+      "title": "Seven Brides for Seven Brothers",
+      "original_title": "Seven Brides for Seven Brothers",
+      "year": 1954,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 7.7,
+      "votes": 5541,
+      "tomatometer": 89,
+      "audience_score": 87,
+      "runtime_minutes": 103,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/FavsuPiVIEleKV9jlgtB9loR3Us=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1563_p_v10_af.jpg",
+      "plot": "During the 1850s, Milly (Jane Powell), a pretty young cook, marries Adam (Howard Keel), a grizzled woodsman, after a brief courtship. When the two return to Adam's farm, Milly is shocked to meet his…",
+      "directors": [
+        "Stanley Donen"
+      ]
+    },
+    {
       "id": "mary_poppins_returns",
       "category": "musical",
       "type": "movie",
@@ -940,6 +1184,28 @@
       ]
     },
     {
+      "id": "cabaret",
+      "category": "musical",
+      "type": "movie",
+      "title": "Cabaret",
+      "original_title": "Cabaret",
+      "year": 1972,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 8.6,
+      "votes": 5475,
+      "tomatometer": 92,
+      "audience_score": 87,
+      "runtime_minutes": 124,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/iYe_baoALO4b9ENhcshGo70FXwQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p720_p_v10_ad.jpg",
+      "plot": "In Berlin in 1931, American cabaret singer Sally Bowles (Liza Minnelli) meets British academic Brian Roberts (Michael York), who is finishing his university studies. Despite Brian's confusion over…",
+      "directors": [
+        "Bob Fosse"
+      ]
+    },
+    {
       "id": "the_color_purple",
       "category": "musical",
       "type": "movie",
@@ -960,6 +1226,29 @@
       "plot": "A story of love and resilience based on the novel and the Broadway musical, THE COLOR PURPLE is a decades-spanning tale of one woman's journey to independence. Celie faces many hardships in her life,…",
       "directors": [
         "Blitz Bazawule"
+      ]
+    },
+    {
+      "id": "legend_of_1900",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Legend of 1900",
+      "original_title": "The Legend of 1900",
+      "year": 1998,
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "rating": 6.3,
+      "votes": 4607,
+      "tomatometer": 58,
+      "audience_score": 91,
+      "runtime_minutes": 116,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/zsPHj-yjOwcOFUe3UFWg-PCCxGM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23808_p_v12_af.jpg",
+      "plot": "On New Year's Day 1900, Danny (Bill Nunn), a crew member on an ocean liner, finds a deserted infant and decides to adopt him, nicknaming him \"1900.\" As an adult, the eccentric 1900 (Tim Roth) grows…",
+      "directors": [
+        "Giuseppe Tornatore"
       ]
     },
     {
@@ -1007,6 +1296,33 @@
       "plot": "In New York City for the first time while on his way to enlist in the U.S. Army during the Vietnam War, Oklahoma farm hand Claude Hooper Bukowski (John Savage) meets up with a freewheeling group of…",
       "directors": [
         "Milos Forman"
+      ]
+    },
+    {
+      "id": "encanto_2021",
+      "category": "musical",
+      "type": "movie",
+      "title": "Encanto",
+      "original_title": "Encanto",
+      "year": 2021,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 7.5,
+      "votes": 4234,
+      "tomatometer": 92,
+      "audience_score": 93,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/hGo7TxQIdM4sVZEY9RnxfScB9dI=/300x450/v2/https://resizing.flixster.com/VrNJ_E6BYj-xca0Dqxq4kePXLwY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MwYzE3NjIwLWVlNmUtNGNkNS1iOWM4LTg1ZjJmZTIyZTQzZC5qcGc=",
+      "plot": "The Madrigals are an extraordinary family who live hidden in the mountains of Colombia in a charmed place called the Encanto. The magic of the Encanto has blessed every child in the family with a…",
+      "directors": [
+        "Jared Bush",
+        "Byron Howard"
       ]
     },
     {
@@ -1173,6 +1489,31 @@
       ]
     },
     {
+      "id": "wiz",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Wiz",
+      "original_title": "The Wiz",
+      "year": 1978,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 5.2,
+      "votes": 3210,
+      "tomatometer": 38,
+      "audience_score": 66,
+      "runtime_minutes": 134,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/_OgLGhtphNB-Ny_z6goOwMU3Vj4=/300x450/v2/https://resizing.flixster.com/iTDJTlb40dvrs61ONkxgRH2t_aY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EwMjg1ZmIwLWM1ZWItNDVmNS05OWEwLWM1NWE0MmRjZGY5Yy5qcGc=",
+      "plot": "When Harlem schoolteacher Dorothy tries to save her dog from a storm, she's miraculously whisked away to an urban fantasy land called Oz. After accidentally killing the Wicked Witch of the East upon…",
+      "directors": [
+        "Sidney Lumet"
+      ]
+    },
+    {
       "id": "pitch_perfect_3",
       "category": "musical",
       "type": "movie",
@@ -1240,6 +1581,50 @@
       ]
     },
     {
+      "id": "gigi",
+      "category": "musical",
+      "type": "movie",
+      "title": "Gigi",
+      "original_title": "Gigi",
+      "year": 1958,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 7.9,
+      "votes": 2731,
+      "tomatometer": 90,
+      "audience_score": 73,
+      "runtime_minutes": 116,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/Y-lg9OvK1hW2JzO8RyGcUMPXpxs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36_p_v8_aa.jpg",
+      "plot": "Gaston (Louis Jourdan) is a restless Parisian playboy who moves from one mistress to another, while also spending time with Gigi (Leslie Caron), a precocious younger friend learning the ways of high…",
+      "directors": [
+        "Vincente Minnelli"
+      ]
+    },
+    {
+      "id": "fame",
+      "category": "musical",
+      "type": "movie",
+      "title": "Fame",
+      "original_title": "Fame",
+      "year": 1980,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 7.0,
+      "votes": 2723,
+      "tomatometer": 81,
+      "audience_score": 69,
+      "runtime_minutes": 134,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/hNp_OBJq7QSXyP3VdK-aqdWJgV0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p89_p_v10_ar.jpg",
+      "plot": "Young men and women audition for coveted spots at the New York High School of Performing Arts. Those who make the cut discover that it takes a lot of hard work to become a star and sometimes…",
+      "directors": [
+        "Alan Parker"
+      ]
+    },
+    {
       "id": "nashville",
       "category": "musical",
       "type": "movie",
@@ -1283,6 +1668,28 @@
       "plot": "In this bittersweet, classic musical drama, the vibrant and beautiful young Fanny Brice (Barbra Streisand) starts out as a bit player on the New York City vaudeville stage, but works her way up to…",
       "directors": [
         "William Wyler"
+      ]
+    },
+    {
+      "id": "oklahoma",
+      "category": "musical",
+      "type": "movie",
+      "title": "Oklahoma!",
+      "original_title": "Oklahoma!",
+      "year": 1955,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 7.3,
+      "votes": 2106,
+      "tomatometer": 87,
+      "audience_score": 75,
+      "runtime_minutes": 145,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/XT_6VofOI1kC8Fb_v5LlDgHKah8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p231_p_v13_aa.jpg",
+      "plot": "There's a box social coming up, and Curly (Gordon MacRae) asks Laurey (Shirley Jones) if she'll be his date. Trouble is, Laurey thinks he's waited too long, and in a fit of pique accepts an offer…",
+      "directors": [
+        "Fred Zinnemann"
       ]
     },
     {
@@ -1406,6 +1813,28 @@
       ]
     },
     {
+      "id": "new_york_new_york",
+      "category": "musical",
+      "type": "movie",
+      "title": "New York, New York",
+      "original_title": "New York, New York",
+      "year": 1977,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 6.8,
+      "votes": 1561,
+      "tomatometer": 60,
+      "audience_score": 58,
+      "runtime_minutes": 155,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/5Lxbh-Qt18_c8qZkXsyBNhFXGNM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p857_p_v8_aa.jpg",
+      "plot": "Jimmy Doyle (Robert De Niro), an aspiring saxophone player, meets established USO band singer Francine Evans (Liza Minnelli) during V-J Day celebrations at the end of World War II. The two become a…",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
       "id": "mean_girls_2024",
       "category": "musical",
       "type": "movie",
@@ -1451,6 +1880,30 @@
       "plot": "Six years after his glittering triumph in the disco dance contest of \"Saturday Night Fever,\" an older and wiser Tony Manero (John Travolta) works as a serious dance teacher in New York City and…",
       "directors": [
         "Sylvester Stallone"
+      ]
+    },
+    {
+      "id": "school_daze",
+      "category": "musical",
+      "type": "movie",
+      "title": "School Daze",
+      "original_title": "School Daze",
+      "year": 1988,
+      "genres": [
+        "Musical",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.4,
+      "votes": 1463,
+      "tomatometer": 58,
+      "audience_score": 78,
+      "runtime_minutes": 121,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/94feMpNukZYcfkEwGBubg_Fr2a0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10615_p_v13_ab.jpg",
+      "plot": "At historically black Mission College, the activist-minded Dap (Larry Fishburne) immerses himself in a world of political rhetoric and social movements -- one day he hopes to rally the students as a…",
+      "directors": [
+        "Spike Lee"
       ]
     },
     {
@@ -1604,6 +2057,29 @@
       ]
     },
     {
+      "id": "best_little_whorehouse_in_texas",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Best Little Whorehouse in Texas",
+      "original_title": "The Best Little Whorehouse in Texas",
+      "year": 1982,
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 5.2,
+      "votes": 1185,
+      "tomatometer": 52,
+      "audience_score": 68,
+      "runtime_minutes": 114,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/5yCQ2iCp9gMXyru9tbICV2EjkWU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5938_p_v10_aa.jpg",
+      "plot": "Miss Mona (Dolly Parton) runs the Chicken Ranch, a brothel with a long history in a small Texas town. The locals have a good relationship with the institution, and Mona is respected in the community.…",
+      "directors": [
+        "Colin Higgins"
+      ]
+    },
+    {
       "id": "yentl",
       "category": "musical",
       "type": "movie",
@@ -1673,6 +2149,30 @@
       ]
     },
     {
+      "id": "paint_your_wagon",
+      "category": "western",
+      "type": "movie",
+      "title": "Paint Your Wagon",
+      "original_title": "Paint Your Wagon",
+      "year": 1969,
+      "genres": [
+        "Musical",
+        "Comedy",
+        "Western"
+      ],
+      "rating": 4.8,
+      "votes": 1103,
+      "tomatometer": 45,
+      "audience_score": 68,
+      "runtime_minutes": 158,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/nHGq01gAa3OzHbYqEQn-gp7aso0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2495_p_v8_ab.jpg",
+      "plot": "In this musical based on the Broadway show, Ben Rumson (Lee Marvin) happens upon a wrecked wagon containing a dead man and his surviving brother, Pardner (Clint Eastwood), in the wilds of California…",
+      "directors": [
+        "Joshua Logan"
+      ]
+    },
+    {
       "id": "shag_the_movie",
       "category": "musical",
       "type": "movie",
@@ -1692,6 +2192,28 @@
       "plot": "Before adulthood takes hold, four teenage girls spirit away to Myrtle Beach, S.C., for a final vacation together. And all of them have their issues: Carson (Phoebe Cates) is marrying a boy who might…",
       "directors": [
         "Zelda Barron"
+      ]
+    },
+    {
+      "id": "brigadoon",
+      "category": "musical",
+      "type": "movie",
+      "title": "Brigadoon",
+      "original_title": "Brigadoon",
+      "year": 1954,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 6.1,
+      "votes": 1063,
+      "tomatometer": 75,
+      "audience_score": 71,
+      "runtime_minutes": 108,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/-ZhW5aK25aBl4EhzccOPSSuTY64=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2793_p_v8_aa.jpg",
+      "plot": "Tommy Albright (Gene Kelly) and Jeff Douglas (Van Johnson), two American pals on a Scottish hunting trip, get lost in the woods and come upon the magical village of Brigadoon. Rising out of the…",
+      "directors": [
+        "Vincente Minnelli"
       ]
     },
     {
@@ -1884,6 +2406,29 @@
       ]
     },
     {
+      "id": "torch_song_trilogy",
+      "category": "musical",
+      "type": "movie",
+      "title": "Torch Song Trilogy",
+      "original_title": "Torch Song Trilogy",
+      "year": 1988,
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 6.1,
+      "votes": 750,
+      "tomatometer": 76,
+      "audience_score": 91,
+      "runtime_minutes": 118,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/-iZqZXpJR-AJmTicClFpaVae2tI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11312_p_v10_aa.jpg",
+      "plot": "Arnold Beckoff (Harvey Fierstein) is looking for love and acceptance, but as a gay man working as a female impersonator in the 1970s New York City, neither come easily. After a series of heartaches,…",
+      "directors": [
+        "Paul Bogart"
+      ]
+    },
+    {
       "id": "1017887-rose",
       "category": "musical",
       "type": "movie",
@@ -1903,6 +2448,28 @@
       "plot": "Rose (Bette Midler) is a passionate 1960s rock star who pours herself into every performance despite her demanding manager, Rudge (Alan Bates), who encourages her to tour excessively. While singing…",
       "directors": [
         "Mark Rydell"
+      ]
+    },
+    {
+      "id": "camelot",
+      "category": "musical",
+      "type": "movie",
+      "title": "Camelot",
+      "original_title": "Camelot",
+      "year": 1967,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 6.1,
+      "votes": 720,
+      "tomatometer": 39,
+      "audience_score": 68,
+      "runtime_minutes": 179,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/tXf2LJOGUZttqDhaHeVl5Tp5jfQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2458_p_v10_aa.jpg",
+      "plot": "After the arranged marriage of Arthur (Richard Harris) and Guinevere (Vanessa Redgrave), the king gathers the noble knights of the realm to his Round Table. The dashing and stalwart Lancelot (Franco…",
+      "directors": [
+        "Joshua Logan"
       ]
     },
     {
@@ -1948,6 +2515,32 @@
       "plot": "Frederic (Rex Smith), who has spent his formative years as a junior pirate, plans to mark his 21st birthday by breaking free from the Pirate King (Kevin Kline) and beginning his courtship of Mabel…",
       "directors": [
         "Wilford Leach"
+      ]
+    },
+    {
+      "id": "the_adventures_of_pinocchio_1996",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Adventures of Pinocchio",
+      "original_title": "The Adventures of Pinocchio",
+      "year": 1996,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Adventure",
+        "Drama",
+        "Musical"
+      ],
+      "rating": 4.6,
+      "votes": 598,
+      "tomatometer": 36,
+      "audience_score": 28,
+      "runtime_minutes": 96,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/nMg88KnXYHqzkD8pNJR60caJBHg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18263_p_v10_af.jpg",
+      "plot": "A fairy answers a wish, bringing to life the puppet of woodcarver Geppetto (Martin Landau), who names him Pinocchio (Jonathan Taylor Thomas).",
+      "directors": [
+        "Steve Barron"
       ]
     },
     {
@@ -2022,6 +2615,28 @@
       ]
     },
     {
+      "id": "1019541-sparkle",
+      "category": "musical",
+      "type": "movie",
+      "title": "Sparkle",
+      "original_title": "Sparkle",
+      "year": 1976,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 4.4,
+      "votes": 534,
+      "tomatometer": 18,
+      "audience_score": 90,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/vHD1lC2R36BjsSlxoTfpCCwzUHM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6036_p_v10_aa.jpg",
+      "plot": "In the 1950s Harlem, Sparkle (Irene Cara), Sister (Lonette McKee) and Dolores (Dwan Smith) are three musically gifted sisters whose mother, Effie (Mary Alice), supports them by working as a maid.…",
+      "directors": [
+        "Sam O'Steen"
+      ]
+    },
+    {
       "id": "sweet_charity",
       "category": "musical",
       "type": "movie",
@@ -2063,6 +2678,33 @@
       "plot": "An engaged Philadelphia policeman (Mekhi Phifer) falls in love with a beautiful woman (Beyoncé Knowles) while dealing with a corrupt superior (Mos Def).",
       "directors": [
         "Robert Townsend"
+      ]
+    },
+    {
+      "id": "dream_horse",
+      "category": "musical",
+      "type": "movie",
+      "title": "Dream Horse",
+      "original_title": "Dream Horse",
+      "year": 2021,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Biography",
+        "Musical",
+        "Romance",
+        "History"
+      ],
+      "rating": 6.7,
+      "votes": 520,
+      "tomatometer": 88,
+      "audience_score": 97,
+      "runtime_minutes": 113,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/kX71botp5hsEyewqgvf89xlhdwo=/300x450/v2/https://resizing.flixster.com/HBFMryqx9IUE5p08z-gJ2RRBQgY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4MTA1YzEwLTc5M2UtNDg5ZC1iODE3LWEwN2FkZmQ2OGM0NC53ZWJw",
+      "plot": "The film tells the inspiring true story of Dream Alliance, an unlikely race horse bred by small town bartender, Jan Vokes (Academy Award® nominee Toni Collette). With very little money and no…",
+      "directors": [
+        "Euros Lyn"
       ]
     },
     {
@@ -2135,6 +2777,28 @@
       ]
     },
     {
+      "id": "wild_style",
+      "category": "musical",
+      "type": "movie",
+      "title": "Wild Style",
+      "original_title": "Wild Style",
+      "year": 1983,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 7.2,
+      "votes": 470,
+      "tomatometer": 90,
+      "audience_score": 87,
+      "runtime_minutes": 82,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/kC1cBlGDhgRkP7W4anI4d2Rg_dw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p46113_p_v8_ac.jpg",
+      "plot": "South Bronx graffiti artist Shy Zoro is commissioned to paint a backdrop for a rap/break-dance concert.",
+      "directors": [
+        "Charlie Ahearn"
+      ]
+    },
+    {
       "id": "1010979-jazz_singer",
       "category": "musical",
       "type": "movie",
@@ -2154,6 +2818,29 @@
       "plot": "Jess Robin (Neil Diamond) dreams of a career in popular music, but his father, Cantor Rabinovitch (Laurence Olivier), forbids it, insisting Jess live as a traditional Jew and inherit his position at…",
       "directors": [
         "Richard Fleischer"
+      ]
+    },
+    {
+      "id": "1016119-pennies_from_heaven",
+      "category": "musical",
+      "type": "movie",
+      "title": "Pennies From Heaven",
+      "original_title": "Pennies From Heaven",
+      "year": 1981,
+      "genres": [
+        "Musical",
+        "Romance"
+      ],
+      "rating": 7.5,
+      "votes": 442,
+      "tomatometer": 83,
+      "audience_score": 64,
+      "runtime_minutes": 107,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/hz-GtS198Ztssbb8CdgSa5zt9Xs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4235_p_v8_aa.jpg",
+      "plot": "This heavily stylized production with lip-synched musical numbers follows Arthur Parker (Steve Martin), a Depression-era sheet-music salesman with big dreams. When Arthur faces relationship problems…",
+      "directors": [
+        "Herbert Ross"
       ]
     },
     {
@@ -2230,6 +2917,31 @@
       ]
     },
     {
+      "id": "musica",
+      "category": "musical",
+      "type": "movie",
+      "title": "Música",
+      "original_title": "Música",
+      "year": 2024,
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Musical",
+        "Romance"
+      ],
+      "rating": 7.8,
+      "votes": 324,
+      "tomatometer": 96,
+      "audience_score": 86,
+      "runtime_minutes": 91,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/nN74F2gqObeuUZIk7ZjGqYv7uvM=/300x450/v2/https://resizing.flixster.com/v_9M4jbVP8YQ2O5EDz6HIitp_qE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjNGNhNjdjLWE2YTYtNGIwNy04OTEzLWJiZWNlNTVlM2QzMy5qcGc=",
+      "plot": "Based on writer, director and star Rudy Mancuso, Música is a coming-of-age love story that follows an aspiring creator with synesthesia, who must come to terms with an uncertain future, while…",
+      "directors": [
+        "Rudy Mancuso"
+      ]
+    },
+    {
       "id": "make_your_move_2013",
       "category": "musical",
       "type": "movie",
@@ -2293,6 +3005,30 @@
       "plot": "A Puerto Rican auto-shop worker (Robby Rosa) practices with three women for a dance contest in Los Angeles.",
       "directors": [
         "Boaz Davidson"
+      ]
+    },
+    {
+      "id": "frank_zappa_two_hundred_motels",
+      "category": "musical",
+      "type": "movie",
+      "title": "200 Motels",
+      "original_title": "200 Motels",
+      "year": 1971,
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 6.7,
+      "votes": 263,
+      "tomatometer": 50,
+      "audience_score": 66,
+      "runtime_minutes": 98,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ue6d2gM_spqIKspxleX2fmP5Xew=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p42945_p_v8_aa.jpg",
+      "plot": "With help from a former Beatle, Ringo Starr, and a member of the Who, Keith Moon, Frank Zappa and his band draw on their own experiences in this mockumentary about the lives of peripatetic rock…",
+      "directors": [
+        "Tony Palmer",
+        "Frank Zappa"
       ]
     },
     {
@@ -2520,6 +3256,28 @@
       ]
     },
     {
+      "id": "zoot_suit",
+      "category": "musical",
+      "type": "movie",
+      "title": "Zoot Suit",
+      "original_title": "Zoot Suit",
+      "year": 1982,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 4.9,
+      "votes": 174,
+      "tomatometer": 55,
+      "audience_score": 75,
+      "runtime_minutes": 104,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/uEu9D9Dnx5NVzz1QjgKZ-4t3CLc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2534_p_v10_aa.jpg",
+      "plot": "Mexican-American gangster Henry Reyna (Daniel Valdez) and others in his group are accused of a murder in which they had no part. They are then rounded up by the police because of their race and their…",
+      "directors": [
+        "Luis Valdez"
+      ]
+    },
+    {
       "id": "aria",
       "category": "musical",
       "type": "movie",
@@ -2631,6 +3389,28 @@
       "plot": "A Brooklyn high-school teacher (Lorraine Bracco) assigns a bad boy (Peter Dobson) and a good girl (Jessica Steen) to put on a talent show.",
       "directors": [
         "Richard Baskin"
+      ]
+    },
+    {
+      "id": "darling_lili",
+      "category": "musical",
+      "type": "movie",
+      "title": "Darling Lili",
+      "original_title": "Darling Lili",
+      "year": 1970,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 4.8,
+      "votes": 138,
+      "tomatometer": 40,
+      "audience_score": 67,
+      "runtime_minutes": 114,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/OcTBvnfsx1n2OV53kQRag_UaG0M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p831_p_v13_ab.jpg",
+      "plot": "In World War I London, half-British, half-German Lili Smith (Julie Andrews) lets her German uncle -- a foreign agent and German military liaison -- talk her into spying. A dance-hall singer who is…",
+      "directors": [
+        "Blake Edwards"
       ]
     },
     {
@@ -2859,6 +3639,29 @@
       ]
     },
     {
+      "id": "night_they_raided_minskys",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Night They Raided Minsky's",
+      "original_title": "The Night They Raided Minsky's",
+      "year": 1968,
+      "genres": [
+        "Musical",
+        "Comedy"
+      ],
+      "rating": 6.1,
+      "votes": 64,
+      "tomatometer": 67,
+      "audience_score": 43,
+      "runtime_minutes": 100,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/3t_CMe-npKxmao27nxZ26tOlii0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3453_p_v13_ab.jpg",
+      "plot": "To distance herself from her strict Amish family, naïve Rachel Schpitendavel escapes to New York City to become a dancer. While Rachel's dances based on Biblical stories are too innocent for Minsky's…",
+      "directors": [
+        "William Friedkin"
+      ]
+    },
+    {
       "id": "stuck_2019",
       "category": "musical",
       "type": "movie",
@@ -2972,6 +3775,28 @@
       "plot": "Michael Flatley shares an Irish tale of good versus evil through dance and music.",
       "directors": [
         "Marcus Viner"
+      ]
+    },
+    {
+      "id": "songwriter",
+      "category": "musical",
+      "type": "movie",
+      "title": "Songwriter",
+      "original_title": "Songwriter",
+      "year": 1984,
+      "genres": [
+        "Musical"
+      ],
+      "rating": 7.0,
+      "votes": 30,
+      "tomatometer": 88,
+      "audience_score": 43,
+      "runtime_minutes": 94,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/MSXo_a699njNPJIBWb0ro0CyKfI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8545_p_v10_ad.jpg",
+      "plot": "Doc Jenkins (Willie Nelson) is a country music star who's become fed up with the industry. With some help from Blackie Buck (Kris Kristofferson), his old partner, and Gilda (Lesley Ann Warren), a…",
+      "directors": [
+        "Alan Rudolph"
       ]
     },
     {

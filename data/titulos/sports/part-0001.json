@@ -1,8 +1,8 @@
 {
   "genre": "sports",
   "part": 1,
-  "count": 15,
-  "updated_at": "2026-08-21T13:21:16.358735Z",
+  "count": 20,
+  "updated_at": "2026-08-21T19:45:54.887222Z",
   "titles": [
     {
       "id": "air_2023",
@@ -136,6 +136,86 @@
       "scraped_at": "2026-08-21T02:03:54.185498Z"
     },
     {
+      "id": "allihopa_the_dalkurd_story",
+      "url": "https://www.rottentomatoes.com/m/allihopa_the_dalkurd_story",
+      "category": "sports",
+      "type": "movie",
+      "title": "Allihopa: The Dalkurd Story",
+      "original_title": "Allihopa: The Dalkurd Story",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2023,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 91,
+      "certificate": null,
+      "rating": null,
+      "votes": 2,
+      "tomatometer": null,
+      "tomatometer_count": 1,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 1,
+      "metascore": null,
+      "plot": "A Kurdish-Swedish soccer team's journey to become champions and a symbol of resilience for the Kurdish people.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/qQy6QlCEVUNX_UyAtlnDNDkPJJc=/300x450/v2/https://resizing.flixster.com/T1QzgiHhsXzbsVttFsH5_CwH0zQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIyMjQ1NmE3LTEzNjYtNDk2Zi05ZmQ1LTRhNmNhYjkxMWU2My5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/qQy6QlCEVUNX_UyAtlnDNDkPJJc=/300x450/v2/https://resizing.flixster.com/T1QzgiHhsXzbsVttFsH5_CwH0zQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIyMjQ1NmE3LTEzNjYtNDk2Zi05ZmQ1LTRhNmNhYjkxMWU2My5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/DQODdU2i0Uo88ElfXaH2JVNKsLM=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/234/542/thumb_1BF52CED-70C5-451A-AAC7-5785643A22A9.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/d3MT0aAQ3v3m-aIvkTBS5dhOHy0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30267814_v_v11_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Cq_fCQmcHw7BpDlEdT0t--FSnf4=/fit-in/705x460/v2/https://resizing.flixster.com/T1QzgiHhsXzbsVttFsH5_CwH0zQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIyMjQ1NmE3LTEzNjYtNDk2Zi05ZmQ1LTRhNmNhYjkxMWU2My5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ngUe9OjlcBimgyD5y6OXikgPcSk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30267814_i_h11_aa.jpg",
+          "caption": "Allihopa: The Dalkurd Story (2025)"
+        }
+      ],
+      "trailer": {
+        "id": "LV_qCbNoq6XS",
+        "title": "Allihopa: The Dalkurd Story: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/234/542/thumb_1BF52CED-70C5-451A-AAC7-5785643A22A9.jpg",
+        "seconds": 137,
+        "src": "https://link.theplatform.com/s/NGweTC/media/LV_qCbNoq6XS?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "kordo_doski",
+          "name": "Kordo Doski"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Allihopa-The-Dalkurd-Story/4403553?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:44:42.018994Z"
+    },
+    {
       "id": "backspot",
       "url": "https://www.rottentomatoes.com/m/backspot",
       "category": "sports",
@@ -264,7 +344,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:16:58.465450Z"
+      "scraped_at": "2026-08-21T19:01:22.718566Z"
     },
     {
       "id": "black_ice_2022",
@@ -364,7 +444,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:21:05.585687Z"
+      "scraped_at": "2026-08-21T19:07:02.911450Z"
     },
     {
       "id": "breakin_on_the_one",
@@ -527,6 +607,79 @@
       "scraped_at": "2026-08-21T02:14:14.823840Z"
     },
     {
+      "id": "champions_of_the_golden_valley",
+      "url": "https://www.rottentomatoes.com/m/champions_of_the_golden_valley",
+      "category": "sports",
+      "type": "movie",
+      "title": "Champions of the Golden Valley",
+      "original_title": "Champions of the Golden Valley",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 81,
+      "certificate": null,
+      "rating": null,
+      "votes": 1,
+      "tomatometer": null,
+      "tomatometer_count": 2,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 1,
+      "metascore": null,
+      "plot": "In the remote mountains of Bamyan, Afghanistan, a newfound passion for skiing attracts young athletes from rival villages who showcase their resourcefulness and skill on the slopes. With minimal gear and makeshift wooden skis, the determined ski coach Alishah Farhang organizes a thrilling ski race that fosters camaraderie, joy, and triumph. However, after the shocking collapse of their country, many of the skiers are displaced across the globe as refugees, and must call upon the lessons learned in the mountains of their homeland to find a way forward. The film captures the thrill of a sports rivalry intertwined with a poignant portrait of a community in profound transition -- parallel stories converging to explore what it means to be a champion.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/3kJYYi3skNhwUE2oPRAkmVrINbo=/300x450/v2/https://resizing.flixster.com/m1eBiXzVpLrrdV5b9MHrZ9gsMKI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliY2QyOGM2LTAwZmItNDhkYy04ZmNjLWJmZDU1MGM2ZGM4Ni5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/3kJYYi3skNhwUE2oPRAkmVrINbo=/300x450/v2/https://resizing.flixster.com/m1eBiXzVpLrrdV5b9MHrZ9gsMKI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliY2QyOGM2LTAwZmItNDhkYy04ZmNjLWJmZDU1MGM2ZGM4Ni5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Moo4MiiwMinaogGwRm1oQ6Ybpsw=/620x336/v2/https://resizing.flixster.com/aGbH_AVZFM8eG1kLVWa68UVfRhw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgzNjE4OGU5LTViZDktNDRlMS1iMzJhLWNhMTQzODhmYWYwMi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/buVLILACA-LyEVYdKcbwzyfIJaM=/fit-in/705x460/v2/https://resizing.flixster.com/0E5izV6hNcNTjDLzHnTEaVkG4I0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkZDk5NGZkLTkxNDYtNDA2OC05NDU1LTI3MDY5YjI5ZWI5OC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/86BgjWTMohcDAU7N7aqFVwnYqIE=/fit-in/705x460/v2/https://resizing.flixster.com/aGbH_AVZFM8eG1kLVWa68UVfRhw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgzNjE4OGU5LTViZDktNDRlMS1iMzJhLWNhMTQzODhmYWYwMi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/rCEI8Ha3b_yxk2WK6ixNF20XOqU=/fit-in/705x460/v2/https://resizing.flixster.com/c0vdQXen6SePZxLOXZRqQcrFgF8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0M2ZiNGVkLTg0MjQtNGI3Yy05MGM3LWJiNTRmNzljMmY5Mi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4mF9azblcHC6U6wPKRuXY7ncYb4=/fit-in/705x460/v2/https://resizing.flixster.com/m1eBiXzVpLrrdV5b9MHrZ9gsMKI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliY2QyOGM2LTAwZmItNDhkYy04ZmNjLWJmZDU1MGM2ZGM4Ni5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "ben_sturgulewski",
+          "name": "Ben Sturgulewski"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:44:40.682911Z"
+    },
+    {
       "id": "day_of_the_fight_2023",
       "url": "https://www.rottentomatoes.com/m/day_of_the_fight_2023",
       "category": "sports",
@@ -660,6 +813,110 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-20T23:42:56.877703Z"
+    },
+    {
+      "id": "fly_2024",
+      "url": "https://www.rottentomatoes.com/m/fly_2024",
+      "category": "sports",
+      "type": "movie",
+      "title": "Fly",
+      "original_title": "Fly",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2024,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 109,
+      "certificate": "R",
+      "rating": 7.1,
+      "votes": 56,
+      "tomatometer": 92,
+      "tomatometer_count": 13,
+      "tomatometer_certified": false,
+      "audience_score": 91,
+      "audience_count": 27,
+      "metascore": null,
+      "plot": "To stand on the edge of a cliff and throw your body into the wind, one has to be willing to lose everything. That could mean the love of your life, or it could be the life you love. Over seven years, FLY follows three couples entwined in the world of BASE jumping risk everything for the rush of feeling truly alive.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/kjnFHh0xG_IY6mq6ZOS3yWW96nQ=/300x450/v2/https://resizing.flixster.com/XA8PsW1DiYlyYmf-sBECQAhu80w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhZjQ2ZTU0LTAwMjYtNDIzNy1iM2RlLTMwMjg5ZDk0OWM4Yy5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/kjnFHh0xG_IY6mq6ZOS3yWW96nQ=/300x450/v2/https://resizing.flixster.com/XA8PsW1DiYlyYmf-sBECQAhu80w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhZjQ2ZTU0LTAwMjYtNDIzNy1iM2RlLTMwMjg5ZDk0OWM4Yy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/IlAXr5wGNYLAVxLIfvBjbNnfeko=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/256/323/thumb_9B023D69-9411-4960-B856-A714BCCBB3D5.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ZQP5xgRuzkMS-fRr6yKJ25r1wzc=/fit-in/705x460/v2/https://resizing.flixster.com/90BUtsrObAE0yXHLv8yg9QWGMmo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RlYTU4OTY4LTM3YWUtNDZlMy05ZDMzLWE1ZDU0N2ZkMDg5ZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NfaP8RNxhAu5zzFIm_5Lg4wICJs=/fit-in/705x460/v2/https://resizing.flixster.com/yO0CAj4yb3Twyz9Kp1oxzykxbXQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFiOWQ2ODY5LTg3N2ItNGIyMS05OTg3LWFhNmYyYTFkMjIyZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1tkMnWpjM1LO9TmvVPdwF2R92BE=/fit-in/705x460/v2/https://resizing.flixster.com/nNw_8IpRYpR6DA7MVgMFQGutQ0k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhMjE2ODlmLTUzMTktNDYzOC04MDA0LWVlZjgyNDQ0Mjg0YS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/95xLFLhDenuBc-I56803ATK-ljs=/fit-in/705x460/v2/https://resizing.flixster.com/KGjukDJeAno3grHL_iyc9af2rIg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiM2E2NzUwLTFmNTQtNDBhNi1hNzdkLTY0MzM0N2EzZWE5Yy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0luLWTntOffyRuRoBdsvMjsJQa8=/fit-in/705x460/v2/https://resizing.flixster.com/OLvjk-awgJIRTcKkPfJ767TCMck=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQxMmM1MzU1LWVhNTQtNDRlYy1iMjVjLTE3NDE5MjA0OGJkZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gHBkX6w1KkIAkDyFQZ4SC8zSGRU=/fit-in/705x460/v2/https://resizing.flixster.com/zSgDEJoeNOqKOnjCozobKDI8p2E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyODBhMDZlLTc3YTItNDhhZi1hMGE4LTMyMDgzNzY5ZWE4NS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BmiFebH404co3nZo9fYS8zgOViI=/fit-in/705x460/v2/https://resizing.flixster.com/Z3jwYsrIAhkUa8TjpJXw3XdYbRs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0NThjMTMwLTRmODYtNGM2ZC04ZjBiLTM1ZWI0YWZhYmY5Zi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/vxkR7x1qq8VmItXmSyVvp2MHxDY=/fit-in/705x460/v2/https://resizing.flixster.com/irwAjwp16jiUxDOmkJPLip-mU0w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjYjI1MmZlLTBkM2QtNDUyZi1hMjkzLTFjYjQ4MGM4ZGM1MS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "qFY4XvPBta66",
+        "title": "Fly: Exclusive IMAX Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/256/323/thumb_9B023D69-9411-4960-B856-A714BCCBB3D5.jpg",
+        "seconds": 150,
+        "src": "https://link.theplatform.com/s/NGweTC/media/qFY4XvPBta66?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "christina_clusiau",
+          "name": "Christina Clusiau"
+        },
+        {
+          "id": "shaul_schwarz",
+          "name": "Shaul Schwarz"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:44:39.502690Z"
     },
     {
       "id": "ghoomer",
@@ -905,6 +1162,125 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-20T23:42:58.508702Z"
+    },
+    {
+      "id": "lubber_pandhu",
+      "url": "https://www.rottentomatoes.com/m/lubber_pandhu",
+      "category": "sports",
+      "type": "movie",
+      "title": "Lubber Pandhu",
+      "original_title": "Lubber Pandhu",
+      "genres": [
+        "Drama",
+        "Sports"
+      ],
+      "year": 2024,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 146,
+      "certificate": null,
+      "rating": null,
+      "votes": 46,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 13,
+      "metascore": null,
+      "plot": "Set against the rural backdrop, the story explores gully cricket stars Gethu and Anbu's intense rivalry. Anbu's romantic involvement with Gethu's daughter escalates the clash. Their skills and emotions are put to the ultimate test.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/_DEbglHuHgvXzU6YUUle8TH63Xs=/300x450/v2/https://resizing.flixster.com/CBXlkou4zWPDb9vZ5poLArajeq4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiM2UwOTE4LTRhYmUtNDJmZi04ZDY4LWE3NWFkMWU5NWFlMi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/_DEbglHuHgvXzU6YUUle8TH63Xs=/300x450/v2/https://resizing.flixster.com/CBXlkou4zWPDb9vZ5poLArajeq4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiM2UwOTE4LTRhYmUtNDJmZi04ZDY4LWE3NWFkMWU5NWFlMi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/2EzdiaKmclHw8M0aqltZ7IcxIK8=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/964/495/thumb_A80B16F7-C694-4E2E-8A0A-4EF4A60CC579.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/WCl_CQXfv0D8hb3asLZGGw5uWXs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28330464_k_h9_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bDIiEowSsdPxt0SmeFLdiveu4hY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28330464_k_v9_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BdrP8veDVRA1O6ALE3JftXmhpRM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28330464_k_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Ex3-234s8jnHyya5jI-N3-PbCHw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28330464_k_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/AV-ob1-6NZr70DrImflFukSJgSE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28330464_i_h9_aa.jpg",
+          "caption": "Lubber Pandhu (2024)"
+        },
+        {
+          "url": "https://resizing.flixster.com/taVkM22Kx15l91xPlMg5tiJ9zfI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28330464_i_v9_aa.jpg",
+          "caption": "Lubber Pandhu (2024)"
+        },
+        {
+          "url": "https://resizing.flixster.com/SnUc3lLo2sD8Vv5RSbozRZKJIKw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28330464_i_v12_aa.jpg",
+          "caption": "Lubber Pandhu (2024)"
+        },
+        {
+          "url": "https://resizing.flixster.com/HOQkESjsbJ5ftBuqJtgiydfHvc0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28330464_i_h8_aa.jpg",
+          "caption": "Lubber Pandhu (2024)"
+        }
+      ],
+      "trailer": {
+        "id": "0gWm_TVzS_Tg",
+        "title": "Lubber Pandhu: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/964/495/thumb_A80B16F7-C694-4E2E-8A0A-4EF4A60CC579.jpg",
+        "seconds": 147,
+        "src": "https://link.theplatform.com/s/NGweTC/media/0gWm_TVzS_Tg?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "tamizharasan_pachamuthu_2",
+          "name": "Tamizharasan Pachamuthu"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "harish_kalyan",
+          "name": "Harish Kalyan",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "dinesh",
+          "name": "Attakathi Dinesh",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "devadarshini_chetan",
+          "name": "Devadarshini Chetan",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DJC93QFN/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:30:49.268662Z"
     },
     {
       "id": "power_alley",
@@ -1517,6 +1893,94 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T07:31:48.310444Z"
+    },
+    {
+      "id": "the_herricanes",
+      "url": "https://www.rottentomatoes.com/m/the_herricanes",
+      "category": "sports",
+      "type": "movie",
+      "title": "The Herricanes",
+      "original_title": "The Herricanes",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2024,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "rating": 7.0,
+      "votes": 4,
+      "tomatometer": 100,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "A group of women came together in the 1970s to form a professional football team called the Houston Herricanes. These groundbreaking ladies came to the field with little to no experience and left having been a part of the first full-tackle women's football league. Coming from all different walks of life, this diverse group found camaraderie in the unit they built together. Though they were often ridiculed, they stuck with it for as long as finances would allow and they made history even if it hasn't been told yet.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/rFszdQQPAJESH171UKZvjKSBFgg=/300x450/v2/https://resizing.flixster.com/ViXl5HwY4T6mXR3H-yib0LNNT5E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwZGY4ZjEwLTdjNmUtNGQ5Ni1iZmE1LTYzZTY1MzhhNTcxOS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/rFszdQQPAJESH171UKZvjKSBFgg=/300x450/v2/https://resizing.flixster.com/ViXl5HwY4T6mXR3H-yib0LNNT5E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwZGY4ZjEwLTdjNmUtNGQ5Ni1iZmE1LTYzZTY1MzhhNTcxOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3CAdacujeUYtpxevybeyI-aV7ME=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/612/487/thumb_F66A1918-FBD0-407E-A94F-92AFFE32BEF4.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wU3kcPsws6XI-nTOwelM71XnaqU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25383488_i_h10_ab.jpg",
+          "caption": "The Herricanes (2023)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-J0zzVBfUbUaQvH23Gf1mUr_1DE=/fit-in/705x460/v2/https://resizing.flixster.com/boCJDFCZD3RGoUbGRoD_YiQDsOE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViMTUxN2IyLTM1OWMtNGU4Ni05NTQxLTAxOGU1MzQzYzYyZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/g70g4G81kwKY_SeQFCUMzX-PtNQ=/fit-in/705x460/v2/https://resizing.flixster.com/ViXl5HwY4T6mXR3H-yib0LNNT5E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwZGY4ZjEwLTdjNmUtNGQ5Ni1iZmE1LTYzZTY1MzhhNTcxOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/DZPok81SdEDB0XlkYv2UefeSH5k=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25383488_p_v11_aa.jpg",
+          "caption": "The Herricanes (2023)"
+        },
+        {
+          "url": "https://resizing.flixster.com/CTOlTJainE9gg8xLvBkwdpsATbY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25383488_k_v11_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "rzJpqvnuey9L",
+        "title": "The Herricanes: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/612/487/thumb_F66A1918-FBD0-407E-A94F-92AFFE32BEF4.jpg",
+        "seconds": 115,
+        "src": "https://link.theplatform.com/s/NGweTC/media/rzJpqvnuey9L?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "olivia_kuan",
+          "name": "Olivia Kuan"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Herricanes/3824406?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T19:19:34.643302Z"
     },
     {
       "id": "the_last_rider_2022",
