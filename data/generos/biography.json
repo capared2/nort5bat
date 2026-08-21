@@ -1,8 +1,103 @@
 {
   "genre": "biography",
   "name": "Biography",
-  "count": 340,
+  "count": 470,
   "titles": [
+    {
+      "id": "the-social-network",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Social Network",
+      "original_title": "The Social Network",
+      "year": 2010,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 9.0,
+      "votes": 95048,
+      "tomatometer": 96,
+      "audience_score": 87,
+      "runtime_minutes": 120,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/yMztQi7VuagcqE0ia3ljP0n1s4w=/300x450/v2/https://resizing.flixster.com/SmUywWzlQcOaUEdbnh6F88PrlxE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRmNjEyZjdmLWM1ZDktNDFjNS1hYWIyLWU1ZjhmOTU2ODk0ZS5qcGc=",
+      "plot": "In 2003, Harvard undergrad and computer genius Mark Zuckerberg (Jesse Eisenberg) begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later,…",
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "id": "beautiful_mind",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "A Beautiful Mind",
+      "original_title": "A Beautiful Mind",
+      "year": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Mystery & Thriller",
+        "Romance"
+      ],
+      "rating": 7.7,
+      "votes": 88591,
+      "tomatometer": 74,
+      "audience_score": 93,
+      "runtime_minutes": 135,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Z2NFz1A-YCZw8iRKtUhWR4SRJNI=/300x450/v2/https://resizing.flixster.com/QmvY5qbZw45ulZNcSkGgBFF7jeU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJjMGY0MDkwLTA0YjktNGRhMC1iNWMzLTg5OWRhYTc0ZTcyNy5qcGc=",
+      "plot": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all; as a mathematical expert, he made a discovery early in his career and stands on the brink of…",
+      "directors": [
+        "Ron Howard"
+      ]
+    },
+    {
+      "id": "the_wolf_of_wall_street_2013",
+      "category": "comedy",
+      "type": "movie",
+      "title": "The Wolf of Wall Street",
+      "original_title": "The Wolf of Wall Street",
+      "year": 2013,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 7.9,
+      "votes": 85358,
+      "tomatometer": 79,
+      "audience_score": 83,
+      "runtime_minutes": 179,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/hhVC9s-GCsPgrR3l93hU68nGl3Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9991602_p_v12_aj.jpg",
+      "plot": "In 1987, Jordan Belfort takes an entry-level job at a Wall Street brokerage firm. By the early 1990s, while still in his 20s, Belfort founds his own firm, Stratton Oakmont. Together with his trusted…",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
+      "id": "1212694-blind_side",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Blind Side",
+      "original_title": "The Blind Side",
+      "year": 2009,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.3,
+      "votes": 84680,
+      "tomatometer": 66,
+      "audience_score": 85,
+      "runtime_minutes": 128,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/GeBHAHaLBFOXzxjHrpBMIsD25ZA=/300x450/v2/https://resizing.flixster.com/p5W6G-TGOMIivxUYWi9xa_z1wI0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlhMWUwOWI5LWI4ZTAtNGFhYS1hNzYzLWI2M2Q5Y2U1ODk4YS5qcGc=",
+      "plot": "Michael Oher (Quinton Aaron), a homeless black teen, has drifted in and out of the school system for years. Then Leigh Anne Tuohy (Sandra Bullock) and her husband, Sean (Tim McGraw), take him in. The…",
+      "directors": [
+        "John Lee Hancock"
+      ]
+    },
     {
       "id": "blow",
       "category": "crime",
@@ -125,6 +220,30 @@
       "plot": "The rise of country music legend Johnny Cash (Joaquin Phoenix) begins with his days as a boy growing up on the family farm, where he struggles under the scorn of his father (Robert Patrick). As the…",
       "directors": [
         "James Mangold"
+      ]
+    },
+    {
+      "id": "12_years_a_slave",
+      "category": "history",
+      "type": "movie",
+      "title": "12 Years a Slave",
+      "original_title": "12 Years a Slave",
+      "year": 2013,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 9.0,
+      "votes": 55789,
+      "tomatometer": 95,
+      "audience_score": 90,
+      "runtime_minutes": 134,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/CQ-dFhNq6ZISvX2vVQ9Ylt1NNEc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10029562_p_v10_ac.jpg",
+      "plot": "In the years before the Civil War, Solomon Northup (Chiwetel Ejiofor), a free black man from upstate New York, is kidnapped and sold into slavery in the South. Subjected to the cruelty of one…",
+      "directors": [
+        "Steve McQueen"
       ]
     },
     {
@@ -293,6 +412,53 @@
       ]
     },
     {
+      "id": "milk",
+      "category": "biography",
+      "type": "movie",
+      "title": "Milk",
+      "original_title": "Milk",
+      "year": 2008,
+      "genres": [
+        "Biography",
+        "Drama",
+        "LGBTQ+"
+      ],
+      "rating": 8.3,
+      "votes": 31474,
+      "tomatometer": 93,
+      "audience_score": 89,
+      "runtime_minutes": 128,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/7ityyAHGx9HppzEkzIaY9FTuCfI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p181230_p_v12_ax.jpg",
+      "plot": "In 1972, Harvey Milk (Sean Penn) and his then-lover Scott Smith leave New York for San Francisco, with Milk determined to accomplish something meaningful in his life. Settling in the Castro District,…",
+      "directors": [
+        "Gus Van Sant"
+      ]
+    },
+    {
+      "id": "coach_carter",
+      "category": "biography",
+      "type": "movie",
+      "title": "Coach Carter",
+      "original_title": "Coach Carter",
+      "year": 2005,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.2,
+      "votes": 29910,
+      "tomatometer": 63,
+      "audience_score": 85,
+      "runtime_minutes": 136,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/3x40eTpyhVsdPRlbdITgHAXFQ_A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35310_p_v12_ao.jpg",
+      "plot": "In 1999, Ken Carter (Samuel L. Jackson) returns to his old high school in Richmond, California, to get the basketball team into shape. With tough rules and academic discipline, he succeeds in setting…",
+      "directors": [
+        "Thomas Carter"
+      ]
+    },
+    {
       "id": "michael",
       "category": "biography",
       "type": "movie",
@@ -314,6 +480,30 @@
       "plot": "MICHAEL is the cinematic portrayal of the life and legacy of one of the most influential artists the world has ever known. The film tells the story of Michael Jackson's life beyond the music, tracing…",
       "directors": [
         "Antoine Fuqua"
+      ]
+    },
+    {
+      "id": "cinderella_man",
+      "category": "romance",
+      "type": "movie",
+      "title": "Cinderella Man",
+      "original_title": "Cinderella Man",
+      "year": 2005,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.7,
+      "votes": 29342,
+      "tomatometer": 80,
+      "audience_score": 91,
+      "runtime_minutes": 144,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/qtq297gYcKM6XkEkEQoHvGhLj_k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p87320_p_v8_ao.jpg",
+      "plot": "During the Great Depression, ex-boxer James J. Braddock (Russell Crowe) works as a day laborer until his former manager Joe Gould (Paul Giamatti) offers him a one-time slot against a rising young…",
+      "directors": [
+        "Ron Howard"
       ]
     },
     {
@@ -366,6 +556,31 @@
       ]
     },
     {
+      "id": "hacksaw_ridge",
+      "category": "war",
+      "type": "movie",
+      "title": "Hacksaw Ridge",
+      "original_title": "Hacksaw Ridge",
+      "year": 2016,
+      "genres": [
+        "War",
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 7.3,
+      "votes": 27258,
+      "tomatometer": 84,
+      "audience_score": 92,
+      "runtime_minutes": 139,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/aV24PIRDrb3a265P21OV9HDCUiE=/300x450/v2/https://resizing.flixster.com/fqHoVM9U_V4nCyJ2011Tjmrw-Bk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM3MGVkZTFlLTZmNWMtNDgwYS04NjFlLTg3OWE3OWU5MDk2YS53ZWJw",
+      "plot": "The true story of Pfc. Desmond T. Doss (Andrew Garfield), who won the Congressional Medal of Honor despite refusing to bear arms during WWII on religious grounds. Doss was drafted and ostracized by…",
+      "directors": [
+        "Mel Gibson"
+      ]
+    },
+    {
       "id": "hidden_figures",
       "category": "history",
       "type": "movie",
@@ -387,6 +602,30 @@
       "plot": "Three brilliant African American women at NASA, Katherine Johnson, Dorothy Vaughan and Mary Jackson, serve as the brains behind one of the greatest operations in history, the launch of astronaut John…",
       "directors": [
         "Theodore Melfi"
+      ]
+    },
+    {
+      "id": "straight_outta_compton",
+      "category": "biography",
+      "type": "movie",
+      "title": "Straight Outta Compton",
+      "original_title": "Straight Outta Compton",
+      "year": 2015,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "rating": 7.3,
+      "votes": 24808,
+      "tomatometer": 89,
+      "audience_score": 91,
+      "runtime_minutes": 147,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/LN8zGH0ILiv3Uwg6SqnNOir9JCE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11657883_p_v7_aq.jpg",
+      "plot": "In 1988, a groundbreaking new group revolutionizes music and pop culture, changing and influencing hip-hop forever. N.W.A's first studio album, \"Straight Outta Compton,\" stirs controversy with its…",
+      "directors": [
+        "F. Gary Gray"
       ]
     },
     {
@@ -489,6 +728,29 @@
       ]
     },
     {
+      "id": "la_vie_en_rose",
+      "category": "biography",
+      "type": "movie",
+      "title": "La Vie en Rose",
+      "original_title": "La Vie en Rose",
+      "year": 2007,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "votes": 20857,
+      "tomatometer": 74,
+      "audience_score": 84,
+      "runtime_minutes": 140,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/3haJCWKW83245PeWJ4veMUHRUWo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166018_p_v8_at.jpg",
+      "plot": "Born into poverty and raised in a brothel, Édith Piaf (Marion Cotillard) manages to achieve worldwide fame. Though her extraordinary voice and charisma open many doors that lead to friendships and…",
+      "directors": [
+        "Olivier Dahan"
+      ]
+    },
+    {
       "id": "unbroken_2014",
       "category": "war",
       "type": "movie",
@@ -564,6 +826,29 @@
       ]
     },
     {
+      "id": "the_diving_bell_and_the_butterfly_2007",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Diving Bell and the Butterfly",
+      "original_title": "The Diving Bell and the Butterfly",
+      "year": 2007,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.8,
+      "votes": 18427,
+      "tomatometer": 94,
+      "audience_score": 92,
+      "runtime_minutes": 112,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/d0VtGjLlRjvt6mEhYH0gR7huqZg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p171617_p_v8_an.jpg",
+      "plot": "Jean-Dominique Bauby (Mathieu Amalric), editor-in-chief of French fashion bible Elle magazine, has a devastating stroke at age 43. The damage to his brain stem results in locked-in syndrome, with…",
+      "directors": [
+        "Julian Schnabel"
+      ]
+    },
+    {
       "id": "philomena",
       "category": "comedy",
       "type": "movie",
@@ -585,6 +870,29 @@
       "plot": "In 1952, Irish teenager Philomena (Judi Dench) became pregnant out of wedlock and was sent to a convent. When her baby, Anthony, was a toddler, the nuns took Philomena's child away from her and put…",
       "directors": [
         "Stephen Frears"
+      ]
+    },
+    {
+      "id": "the_motorcycle_diaries",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Motorcycle Diaries",
+      "original_title": "The Motorcycle Diaries",
+      "year": 2004,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "votes": 16959,
+      "tomatometer": 83,
+      "audience_score": 92,
+      "runtime_minutes": 126,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ammMbgF2-v4pV9D4wCy8S9UvFC0=/300x450/v2/https://resizing.flixster.com/NyvQLrmz8W-YjiXcVR6lF7eOOSM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEwNTBkZWM3LTk0ODAtNGYzYi1iMjQzLTUzY2ExYjcyN2I4Zi53ZWJw",
+      "plot": "On a break before his last semester of medical school, Ernesto \"Che\" Guevara travels with his friend Alberto Granado from Brazil to Peru by motorcycle. The two men soon witness the great disparities…",
+      "directors": [
+        "Walter Salles"
       ]
     },
     {
@@ -735,6 +1043,30 @@
       ]
     },
     {
+      "id": "j_edgar",
+      "category": "history",
+      "type": "movie",
+      "title": "J. Edgar",
+      "original_title": "J. Edgar",
+      "year": 2011,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 5.7,
+      "votes": 15151,
+      "tomatometer": 44,
+      "audience_score": 44,
+      "runtime_minutes": 137,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Xw0QZ-6kzbKYBfWtar7U7tmakug=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8742071_p_v8_an.jpg",
+      "plot": "As head of the FBI for nearly 50 years, J. Edgar Hoover becomes one of America's most-powerful men. Serving through eight presidents and three wars, Hoover utilizes methods both ruthless and heroic…",
+      "directors": [
+        "Clint Eastwood"
+      ]
+    },
+    {
       "id": "1151898-capote",
       "category": "crime",
       "type": "movie",
@@ -833,6 +1165,29 @@
       ]
     },
     {
+      "id": "jobs",
+      "category": "biography",
+      "type": "movie",
+      "title": "Jobs",
+      "original_title": "Jobs",
+      "year": 2013,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 5.0,
+      "votes": 13769,
+      "tomatometer": 27,
+      "audience_score": 40,
+      "runtime_minutes": 125,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/4r5C8lef490dfT-H7QRSs2jriec=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9726499_p_v10_ac.jpg",
+      "plot": "College dropout Steve Jobs (Ashton Kutcher), together with his friend, technical whiz-kid Steve Wozniak (Josh Gad), sparks a revolution in home computers with the invention of the Apple 1 in 1976.…",
+      "directors": [
+        "Joshua Michael Stern"
+      ]
+    },
+    {
       "id": "1152019-good_night_and_good_luck",
       "category": "history",
       "type": "movie",
@@ -881,6 +1236,29 @@
       ]
     },
     {
+      "id": "soloist",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Soloist",
+      "original_title": "The Soloist",
+      "year": 2009,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.2,
+      "votes": 13120,
+      "tomatometer": 56,
+      "audience_score": 56,
+      "runtime_minutes": 117,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/FMx4gXxlND1u_zdXI83KI2BS8Ac=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p180746_p_v8_ao.jpg",
+      "plot": "Los Angeles columnist Steve Lopez (Robert Downey Jr.) has reached an impasse in his life. His marriage is on the rocks, and he's disillusioned with his job. Then, while wandering through L.A.'s Skid…",
+      "directors": [
+        "Joe Wright"
+      ]
+    },
+    {
       "id": "harriet",
       "category": "history",
       "type": "movie",
@@ -926,6 +1304,29 @@
       "plot": "Following his great success with \"North by Northwest,\" director Alfred Hitchcock makes a daring choice for his next project: an adaptation of Robert Bloch's novel \"Psycho.\" When the studio refuses to…",
       "directors": [
         "Sacha Gervasi"
+      ]
+    },
+    {
+      "id": "invincible",
+      "category": "biography",
+      "type": "movie",
+      "title": "Invincible",
+      "original_title": "Invincible",
+      "year": 2006,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 6.5,
+      "votes": 11479,
+      "tomatometer": 71,
+      "audience_score": 73,
+      "runtime_minutes": 104,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/m5OxqSzB5kie_Lj7_c0aSsJT3_o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162027_p_v10_ac.jpg",
+      "plot": "Lifelong football fan Vince Papale sees his wildest dreams come true when he becomes a member of the Philadelphia Eagles. While teaching at his high-school alma mater in Pennsylvania, the 30-year-old…",
+      "directors": [
+        "Ericson Core"
       ]
     },
     {
@@ -1025,6 +1426,29 @@
       ]
     },
     {
+      "id": "king_of_kong",
+      "category": "biography",
+      "type": "movie",
+      "title": "The King of Kong: A Fistful of Quarters",
+      "original_title": "The King of Kong: A Fistful of Quarters",
+      "year": 2007,
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "rating": 8.3,
+      "votes": 10647,
+      "tomatometer": 97,
+      "audience_score": 93,
+      "runtime_minutes": 79,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/dkLoyAHXiju9Y3JPQV-NUnm0-vA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p168273_p_v8_aa.jpg",
+      "plot": "Named \"Video Game Player of the Century\" in 1999, Billy Mitchell sets a record score in \"Donkey Kong\" that many felt would never be broken. In 2003 Steve Wiebe, who has recently lost his job, learns…",
+      "directors": [
+        "Seth Gordon"
+      ]
+    },
+    {
       "id": "boys_dont_cry",
       "category": "biography",
       "type": "movie",
@@ -1046,6 +1470,29 @@
       "plot": "Young female-to-male transgender Brandon Teena leaves his hometown under threat when his ex-girlfriend's brother discovers that he's biologically female. Resettling in the small town of Falls City,…",
       "directors": [
         "Kimberly Peirce"
+      ]
+    },
+    {
+      "id": "lords_of_dogtown",
+      "category": "biography",
+      "type": "movie",
+      "title": "Lords of Dogtown",
+      "original_title": "Lords of Dogtown",
+      "year": 2005,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 6.2,
+      "votes": 9941,
+      "tomatometer": 55,
+      "audience_score": 81,
+      "runtime_minutes": 106,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/mtSn02893FdupZtH9zRP8pDtNys=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36152_p_v7_ah.jpg",
+      "plot": "A drought in the 1970s Southern California has an unexpected side effect: as people empty their swimming pools, a group of teen surfers from the Dogtown area of Venice Beach move in with skateboards,…",
+      "directors": [
+        "Catherine Hardwicke"
       ]
     },
     {
@@ -1120,6 +1567,76 @@
       ]
     },
     {
+      "id": "girl_with_a_pearl_earring",
+      "category": "biography",
+      "type": "movie",
+      "title": "Girl With a Pearl Earring",
+      "original_title": "Girl With a Pearl Earring",
+      "year": 2004,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.1,
+      "votes": 9259,
+      "tomatometer": 73,
+      "audience_score": 68,
+      "runtime_minutes": 99,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Rh_R4GqIBppz0Lj1K0coNwvesvc=/300x450/v2/https://resizing.flixster.com/aej6bIxE8E6SGwzlqiCu3p9DsZQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiOTQwNDUyLTFmYzctNGQ2ZS04OTYyLTdlZTk4YjRmYmJiZi5qcGc=",
+      "plot": "When her father goes blind, Griet (Scarlett Johansson) must go to work as a maid for painter Johannes Vermeer (Colin Firth). While cleaning the house, Griet strikes up an unlikely friendship with…",
+      "directors": [
+        "Peter Webber"
+      ]
+    },
+    {
+      "id": "mcfarland_usa",
+      "category": "biography",
+      "type": "movie",
+      "title": "McFarland, USA",
+      "original_title": "McFarland, USA",
+      "year": 2015,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.7,
+      "votes": 9176,
+      "tomatometer": 80,
+      "audience_score": 88,
+      "runtime_minutes": 129,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/3XhFupZeX762rvtnjnkEquJ5xW8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10569247_p_v10_ah.jpg",
+      "plot": "Track coach Jim White (Kevin Costner) is a newcomer to a predominantly Latino high-school in California's Central Valley. Coach White and his new students find that they have much to learn about one…",
+      "directors": [
+        "Niki Caro"
+      ]
+    },
+    {
+      "id": "legend_2015",
+      "category": "crime",
+      "type": "movie",
+      "title": "Legend",
+      "original_title": "Legend",
+      "year": 2015,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 5.9,
+      "votes": 9012,
+      "tomatometer": 60,
+      "audience_score": 60,
+      "runtime_minutes": 131,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/rffZMyD1csrYTa-6Fv6JBAUF9zs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11546075_p_v10_al.jpg",
+      "plot": "Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings…",
+      "directors": [
+        "Brian Helgeland"
+      ]
+    },
+    {
       "id": "eddie_the_eagle",
       "category": "comedy",
       "type": "movie",
@@ -1141,6 +1658,53 @@
       "plot": "Cut from the Olympic ski team, British athlete Michael \"Eddie\" Edwards travels to Germany to test his skills at ski jumping. Fate leads him to Bronson Peary, a former ski jumper who now works as a…",
       "directors": [
         "Dexter Fletcher"
+      ]
+    },
+    {
+      "id": "secretariat",
+      "category": "biography",
+      "type": "movie",
+      "title": "Secretariat",
+      "original_title": "Secretariat",
+      "year": 2010,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.1,
+      "votes": 8580,
+      "tomatometer": 64,
+      "audience_score": 76,
+      "runtime_minutes": 123,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/QmOtCi0VK1JiSjYvCa6IUhqf8ew=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8078196_p_v8_ah.jpg",
+      "plot": "Despite her lack of experience, housewife and mother Penny Chenery agrees to take over management of the family Thoroughbred farm after her father becomes ill. Successfully navigating her way through…",
+      "directors": [
+        "Randall Wallace"
+      ]
+    },
+    {
+      "id": "basketball_diaries",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Basketball Diaries",
+      "original_title": "The Basketball Diaries",
+      "year": 1995,
+      "genres": [
+        "Drama",
+        "Crime",
+        "Biography"
+      ],
+      "rating": 5.5,
+      "votes": 8496,
+      "tomatometer": 46,
+      "audience_score": 76,
+      "runtime_minutes": 102,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/z9taz-W5Ad68koX8oWhqSckBrow=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16454_p_v8_ag.jpg",
+      "plot": "Jim Carroll (Leonardo DiCaprio) is consumed by his life as a high school basketball star. Pressured by a wicked coach (Bruno Kirby) and a concerned mother (Lorraine Bracco), Jim develops an appetite…",
+      "directors": [
+        "Scott Kalvert"
       ]
     },
     {
@@ -1284,6 +1848,80 @@
       ]
     },
     {
+      "id": "jackie_2016",
+      "category": "history",
+      "type": "movie",
+      "title": "Jackie",
+      "original_title": "Jackie",
+      "year": 2017,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 7.9,
+      "votes": 7470,
+      "tomatometer": 87,
+      "audience_score": 60,
+      "runtime_minutes": 99,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/M9OB_0Yl1MIlV46OdXFb2nNzXaQ=/300x450/v2/https://resizing.flixster.com/Twrw1rdcLklpE1rcFSZobOPWcis=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBmZmFmYzdhLWMxNjMtNDdkMi1iYjIxLTlmZTcxMDcwNDM3NS53ZWJw",
+      "plot": "After her husband's assassination, Jackie Kennedy's (Natalie Portman) world is completely shattered. Traumatized and reeling with grief, over the course of the next week she must confront the…",
+      "directors": [
+        "Pablo Larraín"
+      ]
+    },
+    {
+      "id": "a_complete_unknown",
+      "category": "biography",
+      "type": "movie",
+      "title": "A Complete Unknown",
+      "original_title": "A Complete Unknown",
+      "year": 2024,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "rating": 7.4,
+      "votes": 7368,
+      "tomatometer": 81,
+      "audience_score": 95,
+      "runtime_minutes": 141,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ALcSa1o3OSYBPHJJ_UPPD804XG0=/300x450/v2/https://resizing.flixster.com/eqt-Ae8wE9lkY9IWV82QWKpjuTg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQyYjIzN2EwLTViN2ItNGEzYy1hN2FlLTk0YmYwZTQ2ZjA3ZS5qcGc=",
+      "plot": "New York, 1961. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives with his guitar and revolutionary talent, destined to…",
+      "directors": [
+        "James Mangold"
+      ]
+    },
+    {
+      "id": "mongol",
+      "category": "war",
+      "type": "movie",
+      "title": "Mongol",
+      "original_title": "Mongol",
+      "year": 2008,
+      "genres": [
+        "History",
+        "Drama",
+        "Adventure",
+        "War",
+        "Biography"
+      ],
+      "rating": 7.2,
+      "votes": 7276,
+      "tomatometer": 86,
+      "audience_score": 76,
+      "runtime_minutes": 126,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/GznI0_64rQ0PcpkG_5xcO9DdK-g=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159795_p_v10_at.jpg",
+      "plot": "This fact-based epic traces the early and tumultuous years of legendary warrior Genghis Khan, then known as Temudgin (Tadanobu Asano). Despite the killing of his father, the betrayal of his friend,…",
+      "directors": [
+        "Sergey Bodrov"
+      ]
+    },
+    {
       "id": "amy_2015",
       "category": "biography",
       "type": "movie",
@@ -1356,6 +1994,30 @@
       "plot": "A detective (Adrien Brody) uncovers unexpected links to his own personal life as he probes the mysterious death of \"Superman\" actor George Reeves (Ben Affleck) in 1959. A possible affair between the…",
       "directors": [
         "Allen Coulter"
+      ]
+    },
+    {
+      "id": "i_tonya",
+      "category": "comedy",
+      "type": "movie",
+      "title": "I, Tonya",
+      "original_title": "I, Tonya",
+      "year": 2018,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "votes": 6704,
+      "tomatometer": 90,
+      "audience_score": 88,
+      "runtime_minutes": 119,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/_RQL5AlJo_eLWEddXDEUqXoX1_s=/300x450/v2/https://resizing.flixster.com/pnoG2si87mmO1ZxD5kOzssYcMlU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2ODY3M2QxLTg1YTktNDc4ZS1hNDZlLWY0MWNiNjAxYTUyMi53ZWJw",
+      "plot": "In 1991, talented figure skater Tonya Harding becomes the first American woman to complete a triple axel during a competition. In 1994, her world comes crashing down when her ex-husband conspires to…",
+      "directors": [
+        "Craig Gillespie"
       ]
     },
     {
@@ -1574,6 +2236,56 @@
       ]
     },
     {
+      "id": "people_vs_larry_flynt",
+      "category": "biography",
+      "type": "movie",
+      "title": "The People vs. Larry Flynt",
+      "original_title": "The People vs. Larry Flynt",
+      "year": 1996,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 8.1,
+      "votes": 5371,
+      "tomatometer": 88,
+      "audience_score": 80,
+      "runtime_minutes": 130,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/7rlcx_Ldr1Tfgp6y9slFcaOEmNs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19280_p_v8_aj.jpg",
+      "plot": "Pursued by opponents who say his \"Hustler\" magazine breaks decency laws, pornographer Larry Flynt hires lawyer Alan Isaacman to help fight his legal battles. A zealot shoots the men near a Georgia…",
+      "directors": [
+        "Milos Forman"
+      ]
+    },
+    {
+      "id": "restrepo",
+      "category": "war",
+      "type": "movie",
+      "title": "Restrepo",
+      "original_title": "Restrepo",
+      "year": 2010,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "History",
+        "Drama",
+        "War"
+      ],
+      "rating": 8.3,
+      "votes": 5081,
+      "tomatometer": 97,
+      "audience_score": 88,
+      "runtime_minutes": 93,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ECXS8ROdxbqwiB18nYqoaHIHNJc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8074512_p_v10_ar.jpg",
+      "plot": "Photographer Tim Hetherington and journalist Sebastian Junger allow the realities of war to speak for themselves in this unnarrated documentary about a U.S. platoon in Afghanistan. The men of Second…",
+      "directors": [
+        "Tim Hetherington",
+        "Sebastian Junger"
+      ]
+    },
+    {
       "id": "party_monster",
       "category": "biography",
       "type": "movie",
@@ -1595,6 +2307,29 @@
       "directors": [
         "Fenton Bailey",
         "Randy Barbato"
+      ]
+    },
+    {
+      "id": "shine",
+      "category": "biography",
+      "type": "movie",
+      "title": "Shine",
+      "original_title": "Shine",
+      "year": 1996,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.0,
+      "votes": 4661,
+      "tomatometer": 91,
+      "audience_score": 90,
+      "runtime_minutes": 105,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/i7zBCNI04p7z3gSDleCrNV3dP9w=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19513_p_v12_ad.jpg",
+      "plot": "As a child piano prodigy, David Helfgott's musical ambitions generate friction with his overbearing father, Peter. When Helfgott travels to London on a musical scholarship, his career as a pianist…",
+      "directors": [
+        "Scott Hicks"
       ]
     },
     {
@@ -1670,6 +2405,30 @@
       ]
     },
     {
+      "id": "vice_2018",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Vice",
+      "original_title": "Vice",
+      "year": 2018,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.7,
+      "votes": 4385,
+      "tomatometer": 64,
+      "audience_score": 61,
+      "runtime_minutes": 132,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/LN-Vsi18PRrV93PGFhSd0nLCtyA=/300x450/v2/https://resizing.flixster.com/WW-GFyqisJWPkYUc2dRuF8x4K-E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FlZDhlM2E2LWM0YjYtNDg4Yy05Y2FjLTQyMGMwNGM3ZDE2ZC53ZWJw",
+      "plot": "Gov. George W. Bush of Texas picks Dick Cheney, the CEO of Halliburton Co., to be his Republican running mate in the 2000 presidential election. No stranger to politics, Cheney's impressive résumé…",
+      "directors": [
+        "Adam McKay"
+      ]
+    },
+    {
       "id": "talk_to_me",
       "category": "biography",
       "type": "movie",
@@ -1740,6 +2499,31 @@
       "plot": "In 1944, young Allen Ginsberg (Daniel Radcliffe) has a rival for the affections of his charismatic classmate Lucien Carr (Dane DeHaan). When the rival is found dead, Carr, William Burroughs and Jack…",
       "directors": [
         "John Krokidas"
+      ]
+    },
+    {
+      "id": "1159135-hoax",
+      "category": "comedy",
+      "type": "movie",
+      "title": "The Hoax",
+      "original_title": "The Hoax",
+      "year": 2007,
+      "genres": [
+        "History",
+        "Drama",
+        "Comedy",
+        "Biography"
+      ],
+      "rating": 7.4,
+      "votes": 4193,
+      "tomatometer": 85,
+      "audience_score": 58,
+      "runtime_minutes": 115,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/9KUBP2mL4yi5JluuCQ44njFNUJs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162281_p_v12_ap.jpg",
+      "plot": "In the early 1970s, author Clifford Irving (Richard Gere), with accomplice Richard Suskind (Alfred Molina), attempts to pull off one of the greatest media scams of the century. He writes a fake…",
+      "directors": [
+        "Lasse Hallström"
       ]
     },
     {
@@ -1839,6 +2623,32 @@
       ]
     },
     {
+      "id": "the_railway_man",
+      "category": "war",
+      "type": "movie",
+      "title": "The Railway Man",
+      "original_title": "The Railway Man",
+      "year": 2014,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography",
+        "War",
+        "Romance"
+      ],
+      "rating": 6.4,
+      "votes": 4102,
+      "tomatometer": 67,
+      "audience_score": 68,
+      "runtime_minutes": 108,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Tgr9bxLvymDkXPHWRjdkCg5lJO0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10414860_p_v12_an.jpg",
+      "plot": "Eric Lomax (Colin Firth), a former British army officer and POW, discovers that the Japanese interpreter who tortured him is still alive. He and his new wife (Nicole Kidman) set out to confront the…",
+      "directors": [
+        "Jonathan Teplitzky"
+      ]
+    },
+    {
       "id": "race_2016",
       "category": "history",
       "type": "movie",
@@ -1860,6 +2670,32 @@
       "plot": "Overcoming racism at home and abroad, track and field superstar Jesse Owens competes for Olympic glory in 1936 Berlin.",
       "directors": [
         "Stephen Hopkins"
+      ]
+    },
+    {
+      "id": "messenger_the_story_of_joan_of_arc",
+      "category": "war",
+      "type": "movie",
+      "title": "The Messenger: The Story of Joan of Arc",
+      "original_title": "The Messenger: The Story of Joan of Arc",
+      "year": 1999,
+      "genres": [
+        "History",
+        "Drama",
+        "Adventure",
+        "Biography",
+        "War"
+      ],
+      "rating": 5.2,
+      "votes": 3778,
+      "tomatometer": 32,
+      "audience_score": 58,
+      "runtime_minutes": 148,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/T0ssdzP232YFWNia79r14AX2nCE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24265_p_v12_aj.jpg",
+      "plot": "Mystic, maiden, martyr -- whatever you choose to call her, it is difficult to dispute that Joan of Arc led a remarkably accomplished life for a peasant girl who never went to school and never saw her…",
+      "directors": [
+        "Luc Besson"
       ]
     },
     {
@@ -2031,6 +2867,54 @@
       ]
     },
     {
+      "id": "all_eyez_on_me_2017",
+      "category": "biography",
+      "type": "movie",
+      "title": "All Eyez on Me",
+      "original_title": "All Eyez on Me",
+      "year": 2017,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "rating": 4.3,
+      "votes": 3321,
+      "tomatometer": 17,
+      "audience_score": 54,
+      "runtime_minutes": 140,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/TcqVInYaW2u2dXBSQ-fGGCRCbsU=/300x450/v2/https://resizing.flixster.com/9k-cI3TAWeC84RMIRCpBFc2xCgs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlNDlmZmM4LTAxYzAtNGFiZC1hMzIzLTQxMTIxNDk5MzZmNy53ZWJw",
+      "plot": "The true and untold story of prolific rapper, actor, poet and activist Tupac Shakur (Demetrius Shipp Jr.), from his early days in New York to his status as one of the world's most recognized and…",
+      "directors": [
+        "Benny Boom"
+      ]
+    },
+    {
+      "id": "mr_turner",
+      "category": "history",
+      "type": "movie",
+      "title": "Mr. Turner",
+      "original_title": "Mr. Turner",
+      "year": 2014,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "votes": 3241,
+      "tomatometer": 96,
+      "audience_score": 56,
+      "runtime_minutes": 149,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/AVVS0XJiALU35MX5jQ2hCSH3RaI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10780026_p_v10_aa.jpg",
+      "plot": "Eccentric British painter J.M.W. Turner (Timothy Spall) lives his last 25 years with gusto and secretly becomes involved with a seaside landlady, while his faithful housekeeper (Paul Jesson) bears an…",
+      "directors": [
+        "Mike Leigh"
+      ]
+    },
+    {
       "id": "the_boys_in_the_boat",
       "category": "history",
       "type": "movie",
@@ -2053,6 +2937,29 @@
       "plot": "The Boys in the Boat is a sports drama based on the #1 New York Times bestselling non-fiction novel written by Daniel James Brown. The film, directed by George Clooney, is about the 1936 University…",
       "directors": [
         "George Clooney"
+      ]
+    },
+    {
+      "id": "1185801-the_express",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Express",
+      "original_title": "The Express",
+      "year": 2008,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 3088,
+      "tomatometer": 63,
+      "audience_score": 75,
+      "runtime_minutes": 129,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/qJJnBnnV582XZsd7svH5sD1FQwM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176371_p_v12_aj.jpg",
+      "plot": "Born into poverty, Ernie Davis (Rob Brown) overcomes many obstacles to get into Syracuse University's football program. Under the guidance of Coach Ben Schwartzwalder (Dennis Quaid), Davis becomes…",
+      "directors": [
+        "Gary Fleder"
       ]
     },
     {
@@ -2126,6 +3033,30 @@
       "plot": "The time is 1939 and the place is Poland, homeland of Antonina Zabinski and her husband, Dr. Jan Zabinski. The Warsaw Zoo flourishes under Jan's stewardship and Antonina's care. When their country is…",
       "directors": [
         "Niki Caro"
+      ]
+    },
+    {
+      "id": "born_into_brothels",
+      "category": "biography",
+      "type": "movie",
+      "title": "Born Into Brothels",
+      "original_title": "Born Into Brothels",
+      "year": 2004,
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "rating": 8.0,
+      "votes": 2885,
+      "tomatometer": 95,
+      "audience_score": 91,
+      "runtime_minutes": 85,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/l8n_AnnJhS5mMzhL2xaYw7pNs1k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p85849_p_v10_aa.jpg",
+      "plot": "Documentary photographer Zana Briski journeyed into Calcutta's underworld to photograph the city's prostitutes. In return, she offered to teach the prostitutes' children the basics of photography so…",
+      "directors": [
+        "Zana Briski",
+        "Ross Kauffman"
       ]
     },
     {
@@ -2224,6 +3155,30 @@
       "plot": "In 1913, brilliant East Indian mathematician Srinivasa Ramanujan (Dev Patel) travels to Trinity College in England to work with professor G.H. Hardy (Jeremy Irons).",
       "directors": [
         "Matthew Brown"
+      ]
+    },
+    {
+      "id": "made_in_dagenham",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Made in Dagenham",
+      "original_title": "Made in Dagenham",
+      "year": 2010,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.8,
+      "votes": 2323,
+      "tomatometer": 80,
+      "audience_score": 75,
+      "runtime_minutes": 113,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/l7MQ3KRTmlywNJ8cf1STlOcdiaY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8175351_p_v13_ac.jpg",
+      "plot": "Rita O'Grady (Sally Hawkins) works for the Ford Motor Co. plant in Dagenham, England. Despite performing the specialized task of sewing upholstery for car seats, women are classified as unskilled…",
+      "directors": [
+        "Nigel Cole"
       ]
     },
     {
@@ -2341,6 +3296,29 @@
       "directors": [
         "Rob Epstein",
         "Jeffrey Friedman"
+      ]
+    },
+    {
+      "id": "1205717-creation",
+      "category": "biography",
+      "type": "movie",
+      "title": "Creation",
+      "original_title": "Creation",
+      "year": 2010,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 5.8,
+      "votes": 2191,
+      "tomatometer": 47,
+      "audience_score": 49,
+      "runtime_minutes": 108,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/edkuim3I24tz8SZ5Cd1ChCOaci8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7853261_p_v10_ae.jpg",
+      "plot": "Devastated by the death of his beloved daughter, Annie, Charles Darwin (Paul Bettany) sinks into a deep depression, and cannot bring himself to finish his book about evolution. Though Annie's death…",
+      "directors": [
+        "Jon Amiel"
       ]
     },
     {
@@ -2462,6 +3440,53 @@
       ]
     },
     {
+      "id": "mank",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Mank",
+      "original_title": "Mank",
+      "year": 2020,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.7,
+      "votes": 2077,
+      "tomatometer": 83,
+      "audience_score": 62,
+      "runtime_minutes": 132,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/AeM1WOTFdkqLtiVGHNwWyoKvPMo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18858963_p_v8_ab.jpg",
+      "plot": "1930s Hollywood is reevaluated through the eyes of scathing wit and alcoholic screenwriter Herman J. Mankiewicz as he races to finish \"Citizen Kane.\"",
+      "directors": [
+        "David Fincher"
+      ]
+    },
+    {
+      "id": "queen_of_katwe_2016",
+      "category": "biography",
+      "type": "movie",
+      "title": "Queen of Katwe",
+      "original_title": "Queen of Katwe",
+      "year": 2016,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.4,
+      "votes": 2049,
+      "tomatometer": 94,
+      "audience_score": 86,
+      "runtime_minutes": 124,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/mm7jmFz1xvzHgUT0uNADBTSer_Q=/300x450/v2/https://resizing.flixster.com/Oqvy2F-jWDiBWPvMDT7yIDMkSpQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE3NGFjMGE1LWJkOGMtNDczYS1iMmM5LWYwMGIzMzFkMTE3ZS53ZWJw",
+      "plot": "Living in the slum of Katwe in Kampala, Uganda, is a constant struggle for 10-year-old Phiona and her family. Her world changes one day when she meets Robert Katende, a missionary who teaches…",
+      "directors": [
+        "Mira Nair"
+      ]
+    },
+    {
       "id": "woodlawn",
       "category": "history",
       "type": "movie",
@@ -2532,6 +3557,29 @@
       "plot": "As a boy, Bobby Darin (Kevin Spacey) nearly died from rheumatic fever. While it left him with a weakened heart, it didn't weaken his desire to become the most popular singer in the country. Knowing…",
       "directors": [
         "Kevin Spacey"
+      ]
+    },
+    {
+      "id": "flash_of_genius",
+      "category": "biography",
+      "type": "movie",
+      "title": "Flash of Genius",
+      "original_title": "Flash of Genius",
+      "year": 2008,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.4,
+      "votes": 2018,
+      "tomatometer": 62,
+      "audience_score": 55,
+      "runtime_minutes": 120,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/3D6TIxyBfZPXdg5cdO2moBP-BK8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p180167_p_v10_ab.jpg",
+      "plot": "When college professor and part-time inventor Robert Kearns develops an intermittent windshield wiper, he believes he, his wife and their children will be set for life. Though the invention is a big…",
+      "directors": [
+        "Marc Abraham"
       ]
     },
     {
@@ -2634,6 +3682,30 @@
       ]
     },
     {
+      "id": "american_me",
+      "category": "crime",
+      "type": "movie",
+      "title": "American Me",
+      "original_title": "American Me",
+      "year": 1992,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.7,
+      "votes": 1834,
+      "tomatometer": 73,
+      "audience_score": 89,
+      "runtime_minutes": 125,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/AURhtrR8pqBGK_TXZScgBY-YuZU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13834_p_v10_ac.jpg",
+      "plot": "As a young man, Montoya Santana (Edward James Olmos) is introduced to gang life on the tough streets of Los Angeles after spending his youth in reform school. Soon Santana finds himself facing an…",
+      "directors": [
+        "Edward James Olmos"
+      ]
+    },
+    {
       "id": "young_washington",
       "category": "war",
       "type": "movie",
@@ -2685,6 +3757,29 @@
       ]
     },
     {
+      "id": "el_cantante",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Singer",
+      "original_title": "The Singer",
+      "year": 2007,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 4.9,
+      "votes": 1756,
+      "tomatometer": 24,
+      "audience_score": 63,
+      "runtime_minutes": 116,
+      "certificate": "R",
+      "poster": null,
+      "plot": "Puerto Rican singer Héctor Lavoe (Marc Anthony) immigrates to the United States and becomes a pioneer of salsa music. In New York, he meets Puchi (Jennifer Lopez), who becomes Héctor's loving but…",
+      "directors": [
+        "Leon Ichaso"
+      ]
+    },
+    {
       "id": "experimenter",
       "category": "history",
       "type": "movie",
@@ -2730,6 +3825,30 @@
       "plot": "Young Thurgood Marshall faces one of his greatest challenges while working as a lawyer for the NAACP. Marshall travels to conservative Connecticut when wealthy socialite Eleanor Strubing accuses…",
       "directors": [
         "Reginald Hudlin"
+      ]
+    },
+    {
+      "id": "1126413-sylvia",
+      "category": "romance",
+      "type": "movie",
+      "title": "Sylvia",
+      "original_title": "Sylvia",
+      "year": 2003,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 5.7,
+      "votes": 1547,
+      "tomatometer": 37,
+      "audience_score": 56,
+      "runtime_minutes": 110,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/6JCIab7VvAaX-_3a-692OeGyN6k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32830_p_v8_aa.jpg",
+      "plot": "Young Sylvia Plath (Gwyneth Paltrow) dreams of becoming an important writer. Her childhood is scarred by the unexpected loss of her father, and by the time she enrolls in college Sylvia has become…",
+      "directors": [
+        "Christine Jeffs"
       ]
     },
     {
@@ -2806,6 +3925,30 @@
       ]
     },
     {
+      "id": "gotti_2018",
+      "category": "crime",
+      "type": "movie",
+      "title": "Gotti",
+      "original_title": "Gotti",
+      "year": 2018,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 2.1,
+      "votes": 1425,
+      "tomatometer": 0,
+      "audience_score": 44,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/wP2Sf6ylFSfIEDuQmS90hJ8dFi8=/300x450/v2/https://resizing.flixster.com/x_icUASKzH-QK24RR8MtJiX3bTM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JiYTQwMzNlLTVkMzctNDQ0OC04MDAwLTIzMGY0OGQyMzViNS53ZWJw",
+      "plot": "Raised on the streets of New York, young John Gotti found his way into the Gambino crime family, eventually having the boss removed and becoming head of the powerful family. His wife asked only one…",
+      "directors": [
+        "Kevin Connolly"
+      ]
+    },
+    {
       "id": "whitney_houston_i_wanna_dance_with_somebody",
       "category": "biography",
       "type": "movie",
@@ -2853,6 +3996,30 @@
       "plot": "Celebrated fashion photographer David LaChapelle makes his documentary filmmaking debut with a visually arresting film shot on the streets of Los Angeles' gritty South Central neighborhood. After his…",
       "directors": [
         "David LaChapelle"
+      ]
+    },
+    {
+      "id": "boy_erased",
+      "category": "biography",
+      "type": "movie",
+      "title": "Boy Erased",
+      "original_title": "Boy Erased",
+      "year": 2018,
+      "genres": [
+        "Biography",
+        "Drama",
+        "LGBTQ+"
+      ],
+      "rating": 6.9,
+      "votes": 1320,
+      "tomatometer": 80,
+      "audience_score": 74,
+      "runtime_minutes": 115,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/odpEJUB-CdoVaZcCK-xxdSqAZws=/300x450/v2/https://resizing.flixster.com/svo0IP-AdxauOZOPg6MSg4qrLBk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU1MjQ4ZDg3LTM1MWItNDlmNy05MmQwLTk0ZGIyYzg4NDRiMC53ZWJw",
+      "plot": "Jared Eamons, the son of a small-town Baptist pastor, must overcome the fallout after being outed as gay to his parents. His father and mother struggle to reconcile their love for their son with…",
+      "directors": [
+        "Joel Edgerton"
       ]
     },
     {
@@ -2928,6 +4095,29 @@
       ]
     },
     {
+      "id": "king_richard",
+      "category": "biography",
+      "type": "movie",
+      "title": "King Richard",
+      "original_title": "King Richard",
+      "year": 2021,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 1213,
+      "tomatometer": 90,
+      "audience_score": 98,
+      "runtime_minutes": 146,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/MgHClz4zY2CZC9gDYrkoaJuT3mA=/300x450/v2/https://resizing.flixster.com/gBrgxl755XtSC70b4NvP6D1DBa8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3ZGZjMzdjLTI5MDAtNDlhNS1iY2IxLWUyOWFiNzY0MTVmZS5qcGc=",
+      "plot": "Armed with a clear vision and a brazen 78-page plan, Richard Williams is determined to write his daughters, Venus and Serena, into history. Training on Compton, California's neglected tennis…",
+      "directors": [
+        "Reinaldo Marcus Green"
+      ]
+    },
+    {
       "id": "christine_2016",
       "category": "biography",
       "type": "movie",
@@ -2948,6 +4138,29 @@
       "plot": "In Sarasota, Fla., circa 1974, an ambitious, 29-year-old reporter is relentlessly motivated to succeed. She knows she has talent, but being a driven career woman in the '70s comes with its own…",
       "directors": [
         "Antonio Campos"
+      ]
+    },
+    {
+      "id": "my_all_american_2015",
+      "category": "biography",
+      "type": "movie",
+      "title": "My All American",
+      "original_title": "My All American",
+      "year": 2015,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 4.8,
+      "votes": 1162,
+      "tomatometer": 30,
+      "audience_score": 78,
+      "runtime_minutes": 118,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/spWA2HsRIbjW_IKaMA-fGf_pt8Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11810929_p_v8_ac.jpg",
+      "plot": "Awarded a scholarship to the University of Texas at Austin, small but scrappy Freddie Steinmark gets a chance to play football for coach Darrell Royal and the Longhorns in the late 1960s. Alongside…",
+      "directors": [
+        "Angelo Pizzo"
       ]
     },
     {
@@ -2974,6 +4187,77 @@
       "directors": [
         "Morgan Neville",
         "Robert Gordon"
+      ]
+    },
+    {
+      "id": "white_boy_rick",
+      "category": "crime",
+      "type": "movie",
+      "title": "White Boy Rick",
+      "original_title": "White Boy Rick",
+      "year": 2018,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.1,
+      "votes": 1105,
+      "tomatometer": 56,
+      "audience_score": 51,
+      "runtime_minutes": 111,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/23ri8XiDrhav51tU7ZyolurEliw=/300x450/v2/https://resizing.flixster.com/E8hLKZFa_jUDOhcXzDHRmdNvamY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzMmM5MWUzLTFlYWUtNGQ4My05ZTBiLWZlODZmM2UwMmZiNC53ZWJw",
+      "plot": "Rick Wershe is a single father who's struggling to raise two teenagers during the height of the crack epidemic in the 1980s Detroit. Wershe sells guns illegally to make ends meet but soon attracts…",
+      "directors": [
+        "Yann Demange"
+      ]
+    },
+    {
+      "id": "nyad",
+      "category": "biography",
+      "type": "movie",
+      "title": "Nyad",
+      "original_title": "Nyad",
+      "year": 2023,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.0,
+      "votes": 1065,
+      "tomatometer": 85,
+      "audience_score": 86,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Oc4K4FnAfTHBYcvvrpH_xO6xEDA=/300x450/v2/https://resizing.flixster.com/USyHLImaPpxv-2fWRqj5jBpE2xw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM4ZDVlYWU4LWM1OWQtNDFkYy05MWNjLTlmNjE3NjkyNmM2Zi5qcGc=",
+      "plot": "A remarkable true story of tenacity, friendship and the triumph of the human spirit, NYAD recounts a riveting chapter in the life of world-class athlete Diana Nyad. Three decades after giving up…",
+      "directors": [
+        "Elizabeth Chai Vasarhelyi",
+        "Jimmy Chin"
+      ]
+    },
+    {
+      "id": "when_did_you_last_see_your_father",
+      "category": "biography",
+      "type": "movie",
+      "title": "And When Did You Last See Your Father?",
+      "original_title": "And When Did You Last See Your Father?",
+      "year": 2008,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 6.9,
+      "votes": 1064,
+      "tomatometer": 72,
+      "audience_score": 64,
+      "runtime_minutes": 92,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/xCi6UEv5d1lFEB7jS6LPTqC50YQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p173560_p_v10_ad.jpg",
+      "plot": "As poet Blake Morrison (Colin Firth) visits his dying father (Jim Broadbent), he remembers the feeling of being overshadowed by his gregarious dad. Blake's conflicted memories roam back and forth…",
+      "directors": [
+        "Anand Tucker"
       ]
     },
     {
@@ -3023,6 +4307,30 @@
       "plot": "After leaving London for the English countryside, writer A.A. Milne starts to spin fanciful yarns about his son's growing collection of stuffed animals. These stories form the basis for…",
       "directors": [
         "Simon Curtis"
+      ]
+    },
+    {
+      "id": "tucker_the_man_and_his_dream",
+      "category": "history",
+      "type": "movie",
+      "title": "Tucker: The Man and His Dream",
+      "original_title": "Tucker: The Man and His Dream",
+      "year": 1988,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "votes": 1015,
+      "tomatometer": 82,
+      "audience_score": 68,
+      "runtime_minutes": 111,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/oLZ7sifIQxE7KUmp8TsmfaSoNXk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10983_p_v8_aa.jpg",
+      "plot": "Obsessed with cars since childhood, inventor Preston Tucker (Jeff Bridges) has his first successful auto design partnership in the 1930s and designs a successful gun turret for World War II use. With…",
+      "directors": [
+        "Francis Ford Coppola"
       ]
     },
     {
@@ -3095,6 +4403,30 @@
       "plot": "Frank Lucas earns his living as a chauffeur to one of Harlem's leading mobsters. After his boss dies, Frank uses his own ingenuity and strict business code to become one of the inner city's most…",
       "directors": [
         "Ridley Scott"
+      ]
+    },
+    {
+      "id": "the_fire_inside",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Fire Inside",
+      "original_title": "The Fire Inside",
+      "year": 2024,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 7.2,
+      "votes": 990,
+      "tomatometer": 93,
+      "audience_score": 93,
+      "runtime_minutes": 109,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/AIxMeTv1b5CpEVsZ_GS9httYTLk=/300x450/v2/https://resizing.flixster.com/az92UhD9AYF4EJousg1vpzBCAyc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyMDU1ZTZmLWY2YmItNDgwNS05ZGUzLTEwOTQ0NzMxMGY2NS5qcGc=",
+      "plot": "THE FIRE INSIDE is the inspirational true story of Claressa Shields, arguably the greatest female boxer of all time. Claressa, a high school Junior from Flint, Michigan, aided by her tough-love…",
+      "directors": [
+        "Rachel Morrison"
       ]
     },
     {
@@ -3216,6 +4548,29 @@
       ]
     },
     {
+      "id": "greater",
+      "category": "biography",
+      "type": "movie",
+      "title": "Greater",
+      "original_title": "Greater",
+      "year": 2016,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.0,
+      "votes": 866,
+      "tomatometer": 75,
+      "audience_score": 85,
+      "runtime_minutes": 130,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/xv_5AXREWooRoCUmmTdWVSpoqR0=/300x450/v2/https://resizing.flixster.com/teYYpJ9H2Pa6I6ejaKE0lG0BWVk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhZmI4NjY0LTE4ZGYtNDNjZi05YTllLWJkZTU3OWI5NGRkZi53ZWJw",
+      "plot": "Told he wasn't good enough to play Division I football, Brandon Burlsworth took a risk and walked on in 1994, and he became the most respected player in the history of the program.",
+      "directors": [
+        "David Hunt"
+      ]
+    },
+    {
       "id": "i_saw_the_light",
       "category": "history",
       "type": "movie",
@@ -3287,6 +4642,79 @@
       ]
     },
     {
+      "id": "the_hill",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Hill",
+      "original_title": "The Hill",
+      "year": 2023,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 5.5,
+      "votes": 812,
+      "tomatometer": 44,
+      "audience_score": 97,
+      "runtime_minutes": 126,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/HLU4R0W7bUKMGmeUUB6D_qmKLZg=/300x450/v2/https://resizing.flixster.com/6za5GPAoRfJCtuiiGiAvBDkEfR8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmNmZkNDFlLTBlN2YtNDBmNi05YjMxLTI2NGVlMmFkZjEzMy5qcGc=",
+      "plot": "Growing up impoverished in small-town Texas, young Rickey Hill shows an extraordinary ability for hitting a baseball, despite being burdened by leg braces from a degenerative spinal disease. His…",
+      "directors": [
+        "Jeff Celentano"
+      ]
+    },
+    {
+      "id": "born_to_be_blue",
+      "category": "romance",
+      "type": "movie",
+      "title": "Born to Be Blue",
+      "original_title": "Born to Be Blue",
+      "year": 2016,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "rating": 7.0,
+      "votes": 780,
+      "tomatometer": 88,
+      "audience_score": 73,
+      "runtime_minutes": 97,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/eWMg9gPKK8XyH68NKSYCrugimDI=/300x450/v2/https://resizing.flixster.com/dDbHKuaRck52WQUDxx3yQmKBIqU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmOTNjYzRjLWFhOTItNDU2My1hMjJkLTg2NjAxOTkzOGJmZC53ZWJw",
+      "plot": "In the late 1960s, jazz trumpeter Chet Baker (Ethan Hawke) begins a romance with an actress (Carmen Ejogo) while trying to stage a musical comeback.",
+      "directors": [
+        "Robert Budreau"
+      ]
+    },
+    {
+      "id": "a_million_miles_away_2023",
+      "category": "biography",
+      "type": "movie",
+      "title": "A Million Miles Away",
+      "original_title": "A Million Miles Away",
+      "year": 2023,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.0,
+      "votes": 754,
+      "tomatometer": 89,
+      "audience_score": 94,
+      "runtime_minutes": 121,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ZsXS-rr1ut5pgLgGh7mPwIqh8-4=/300x450/v2/https://resizing.flixster.com/zRp3rr0qeYe3NlibI5kfY8HtoJ8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyNGRjY2VmLTA5N2UtNDYyZS1iZDkyLTg4NTQ5NTQwMjAwZi5qcGc=",
+      "plot": "Inspired by the real-life story of NASA flight engineer José Hernández, A Million Miles Away follows him on a decades-long journey, from a rural village in Michoacán, Mexico, to more than 200 miles…",
+      "directors": [
+        "Alejandra Márquez Abella"
+      ]
+    },
+    {
       "id": "churchill_2017",
       "category": "history",
       "type": "movie",
@@ -3335,6 +4763,30 @@
       ]
     },
     {
+      "id": "dont_worry_he_wont_get_far_on_foot",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Don't Worry, He Won't Get Far on Foot",
+      "original_title": "Don't Worry, He Won't Get Far on Foot",
+      "year": 2018,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.6,
+      "votes": 723,
+      "tomatometer": 76,
+      "audience_score": 76,
+      "runtime_minutes": 113,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/ox6D_93KtqOpMBZq-DxUOoL-9dQ=/300x450/v2/https://resizing.flixster.com/bf-cz2F6ahzK9jqv-yFIQ8_vMsM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkZjNiMzRjLTVjZTgtNGU2Mi1hNWJhLWFjNTE4M2M5NDE3Zi53ZWJw",
+      "plot": "After nearly dying in a car accident, the last thing Oregon slacker John Callahan intends to do is give up alcohol. Encouraged by his girlfriend and a charismatic sponsor, Callahan reluctantly enters…",
+      "directors": [
+        "Gus Van Sant"
+      ]
+    },
+    {
       "id": "the_disappearance_of_shere_hite",
       "category": "biography",
       "type": "movie",
@@ -3356,1465 +4808,6 @@
       "plot": "Shere Hite's 1976 bestselling book, The Hite Report, liberated the female orgasm by revealing the most private experiences of thousands of anonymous survey respondents. Her findings rocked the…",
       "directors": [
         "Nicole Newnham"
-      ]
-    },
-    {
-      "id": "spencer_2021",
-      "category": "biography",
-      "type": "movie",
-      "title": "Spencer",
-      "original_title": "Spencer",
-      "year": 2021,
-      "genres": [
-        "Biography",
-        "Drama"
-      ],
-      "rating": 7.6,
-      "votes": 701,
-      "tomatometer": 83,
-      "audience_score": 52,
-      "runtime_minutes": 111,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/hs_qsQ0HCzcQ2OSjPdPXCy5l6cc=/300x450/v2/https://resizing.flixster.com/TaCFe-dzbQ2Y9MznBwOTlfNldIc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZkMDU1YTgzLTNhYmEtNGNlMy1hOTljLWZlYzUxNDJjOGU4ZS5qcGc=",
-      "plot": "The marriage of Princess Diana and Prince Charles has long since grown cold. Though rumors of affairs and a divorce abound, peace is ordained for the Christmas festivities at the Queen's Sandringham…",
-      "directors": [
-        "Pablo Larraín"
-      ]
-    },
-    {
-      "id": "pamela_a_love_story",
-      "category": "biography",
-      "type": "movie",
-      "title": "Pamela, a Love Story",
-      "original_title": "Pamela, a Love Story",
-      "year": 2023,
-      "genres": [
-        "Biography",
-        "Documentary"
-      ],
-      "rating": 7.1,
-      "votes": 668,
-      "tomatometer": 96,
-      "audience_score": 92,
-      "runtime_minutes": 112,
-      "certificate": "TV-MA",
-      "poster": "https://resizing.flixster.com/WRMam9YUam9D1RLKcW1cruBxSYw=/300x450/v2/https://resizing.flixster.com/rK4q8Us5dBBJRPOlDXXdMpSm4AQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzZmJhZDQ5LWRkYjUtNDFkZi05YWM4LTk5YWJlNDgxZWI1Ny5qcGc=",
-      "plot": "An intimate and humanizing portrait of one of the world's most famous blonde bombshells, Pamela, a love story follows the trajectory of Pamela Anderson's life and career from small town girl to…",
-      "directors": [
-        "Ryan White"
-      ]
-    },
-    {
-      "id": "ted_bundy",
-      "category": "crime",
-      "type": "movie",
-      "title": "Ted Bundy",
-      "original_title": "Ted Bundy",
-      "year": 2002,
-      "genres": [
-        "Biography",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 5.2,
-      "votes": 665,
-      "tomatometer": 39,
-      "audience_score": 45,
-      "runtime_minutes": 96,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/I6G8NHKHUJ-1JaqIcJvOV3rMKh0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30635_p_v10_aa.jpg",
-      "plot": "Ted Bundy (Michael Reilly Burke) is a seemingly well-adjusted law student with a bright future ahead. Intelligent and good-looking, Ted has little trouble earning the affections of Lee (Boti Ann…",
-      "directors": [
-        "Matthew Bright"
-      ]
-    },
-    {
-      "id": "glen_campbell_ill_be_me",
-      "category": "biography",
-      "type": "movie",
-      "title": "Glen Campbell... I'll Be Me",
-      "original_title": "Glen Campbell... I'll Be Me",
-      "year": 2014,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "Music"
-      ],
-      "rating": 8.1,
-      "votes": 634,
-      "tomatometer": 100,
-      "audience_score": 88,
-      "runtime_minutes": 105,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/pNKgVwy2NsIReC-QAb7kLENwhdI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10744603_p_v10_aa.jpg",
-      "plot": "Musician Glen Campbell starts a farewell tour after he is diagnosed with Alzheimer's disease, and he and his family navigate the unpredictable nature of the disease through love, laughter and music.",
-      "directors": [
-        "James Keach"
-      ]
-    },
-    {
-      "id": "little_richard_i_am_everything",
-      "category": "biography",
-      "type": "movie",
-      "title": "Little Richard: I Am Everything",
-      "original_title": "Little Richard: I Am Everything",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "Music",
-        "Biography"
-      ],
-      "rating": 7.8,
-      "votes": 629,
-      "tomatometer": 94,
-      "audience_score": 98,
-      "runtime_minutes": 98,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/pYgCpvHD9MNqXHDBEuV9c1b3M8I=/300x450/v2/https://resizing.flixster.com/ORjf_stSH_5nBcalQBQ5QnAv6Q4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdlNTRiZGM5LWU1YjItNGQ3Mi1iZDlhLTQ1YzdmZGI0MmFiMy5wbmc=",
-      "plot": "LITTLE RICHARD: I AM EVERYTHING tells the story of the Black queer origins of rock n' roll, exploding the whitewashed canon of American pop music to reveal the innovator -- the originator -- Richard…",
-      "directors": [
-        "Lisa Cortes"
-      ]
-    },
-    {
-      "id": "stoned",
-      "category": "biography",
-      "type": "movie",
-      "title": "Stoned",
-      "original_title": "Stoned",
-      "year": 2005,
-      "genres": [
-        "Biography",
-        "Drama"
-      ],
-      "rating": 4.5,
-      "votes": 622,
-      "tomatometer": 16,
-      "audience_score": 44,
-      "runtime_minutes": 102,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/zwUdsrx-d6dQNE68zFif0daub0Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p161714_p_v13_aa.jpg",
-      "plot": "Following dismissal from the band he co-founded, former Rolling Stone Brian Jones (Leo Gregory) hangs around his country estate in a drug-addled funk. The band's manager (David Morrissey) hires Frank…",
-      "directors": [
-        "Stephen Woolley"
-      ]
-    },
-    {
-      "id": "rustin_2023",
-      "category": "history",
-      "type": "movie",
-      "title": "Rustin",
-      "original_title": "Rustin",
-      "year": 2023,
-      "genres": [
-        "Drama",
-        "Biography",
-        "History"
-      ],
-      "rating": 7.0,
-      "votes": 611,
-      "tomatometer": 83,
-      "audience_score": 82,
-      "runtime_minutes": 108,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/tNBLwWUOhJGCaU16y04lvl74mjM=/300x450/v2/https://resizing.flixster.com/bD1lsmNcEO39J3kWusIv_Ax4G3I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg5NTE5YjU4LWVlNDYtNDU2NC04NTI0LWY1OTM1Yjg0OWQyZS5qcGc=",
-      "plot": "The architect of 1963's momentous March on Washington, Bayard Rustin was one of the greatest activists and organizers the world has ever known. He challenged authority, never apologized for who he…",
-      "directors": [
-        "George C. Wolfe"
-      ]
-    },
-    {
-      "id": "pele_birth_of_a_legend_2016",
-      "category": "history",
-      "type": "movie",
-      "title": "Pelé",
-      "original_title": "Pelé",
-      "year": 2016,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 5.3,
-      "votes": 607,
-      "tomatometer": 33,
-      "audience_score": 69,
-      "runtime_minutes": 107,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/hRIsnP8QVl4p_1DQ-5TpNDjPQoE=/300x450/v2/https://resizing.flixster.com/j7anr5m2WpStFJiTJzdBLz3JOzw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyMWY2NmMzLThlMWItNDA3ZC04NzhiLWU0OTBhN2UxZTExYS53ZWJw",
-      "plot": "Under guidance from manager Vicente Feola (Vincent D'Onofrio), young Pelé (Kevin de Paula) utilizes his street soccer skills to lead Brazil to the World Cup in 1958.",
-      "directors": [
-        "Jeff Zimbalist",
-        "Michael Zimbalist"
-      ]
-    },
-    {
-      "id": "super_man_the_christopher_reeve_story",
-      "category": "biography",
-      "type": "movie",
-      "title": "Super/Man: The Christopher Reeve Story",
-      "original_title": "Super/Man: The Christopher Reeve Story",
-      "year": 2024,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 8.1,
-      "votes": 597,
-      "tomatometer": 98,
-      "audience_score": 98,
-      "runtime_minutes": 104,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/NHJ_clZ-F8epmuLHRx1Qtm4nXfw=/300x450/v2/https://resizing.flixster.com/7gwlWJkp4HuN8e_vBLfQLei_Yx8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU2YjMyNDRmLWVkMmUtNDMyMi1iNmYzLTY0YWY5ZWFkMjBjNi5qcGc=",
-      "plot": "The story of Christopher Reeve is an astonishing rise from unknown actor to iconic movie star, and his definitive portrayal of Clark Kent/Superman set the benchmark for the superhero cinematic…",
-      "directors": [
-        "Ian Bonhôte",
-        "Peter Ettedgui"
-      ]
-    },
-    {
-      "id": "priscilla",
-      "category": "romance",
-      "type": "movie",
-      "title": "Priscilla",
-      "original_title": "Priscilla",
-      "year": 2023,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Biography",
-        "Music"
-      ],
-      "rating": 7.3,
-      "votes": 596,
-      "tomatometer": 84,
-      "audience_score": 64,
-      "runtime_minutes": 113,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/NhuJJvIqp5ABIkN9dLC0sfrHojw=/300x450/v2/https://resizing.flixster.com/meNymKPzc0hZijksZBEYbOhLUrk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiYmIwODFmLWYwMzctNGRkOC05MGIwLWJiMGE5M2QyNzc4YS5qcGc=",
-      "plot": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an…",
-      "directors": [
-        "Sofia Coppola"
-      ]
-    },
-    {
-      "id": "merrily_we_roll_along",
-      "category": "musical",
-      "type": "movie",
-      "title": "Merrily We Roll Along",
-      "original_title": "Merrily We Roll Along",
-      "year": 2025,
-      "genres": [
-        "Musical",
-        "Biography",
-        "Comedy",
-        "Drama",
-        "History"
-      ],
-      "rating": 7.6,
-      "votes": 553,
-      "tomatometer": 95,
-      "audience_score": 95,
-      "runtime_minutes": 150,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/zF0t0ne9tKD6jSsHpCPboFsZxL8=/300x450/v2/https://resizing.flixster.com/K36-_6Jd71Jp76qhTbyJgnfZCSI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxYTc3MjdmLWVmYWMtNDNlOS1hNTliLTg3YWVjMzI4YzdmZS5qcGc=",
-      "plot": "Spanning three decades, MERRILY WE ROLL ALONG charts the turbulent relationship between composer Franklin Shepard and his two lifelong friends -- writer Mary and lyricist and playwright Charley.…",
-      "directors": [
-        "Maria Friedman"
-      ]
-    },
-    {
-      "id": "the_swimmers_2022",
-      "category": "biography",
-      "type": "movie",
-      "title": "The Swimmers",
-      "original_title": "The Swimmers",
-      "year": 2022,
-      "genres": [
-        "Drama",
-        "Biography",
-        "Sports"
-      ],
-      "rating": 6.6,
-      "votes": 517,
-      "tomatometer": 82,
-      "audience_score": 84,
-      "runtime_minutes": 134,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/_wsSrAN-VdlRLrHuWxO2RpPwFOM=/300x450/v2/https://resizing.flixster.com/4mqUfHVwlyyAiej1nwXGArkaXu4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZkYTkxY2VlLTlkNzQtNGVlYy05YTg5LTdjMjU0NDVkYTk3My5qcGc=",
-      "plot": "Based on a true story, THE SWIMMERS follows the journey from war-torn Syria to the 2016 Rio Olympics. Two young sisters embark on a harrowing journey as refugees, putting both their hearts and…",
-      "directors": [
-        "Sally El Hosaini"
-      ]
-    },
-    {
-      "id": "judas_and_the_black_messiah",
-      "category": "history",
-      "type": "movie",
-      "title": "Judas and the Black Messiah",
-      "original_title": "Judas and the Black Messiah",
-      "year": 2021,
-      "genres": [
-        "History",
-        "Drama",
-        "Biography"
-      ],
-      "rating": 8.3,
-      "votes": 513,
-      "tomatometer": 96,
-      "audience_score": 95,
-      "runtime_minutes": 126,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Q0H2VKVQ--79SAtW8IisZltrv14=/300x450/v2/https://resizing.flixster.com/fkrnnYL6c2XpoT2bYabLpeIkB0U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzllOWJlOTk0LTExMjktNDU0MC04MmNlLTg1ZTlkNjc0N2ViZC5qcGc=",
-      "plot": "FBI informant William O'Neal infiltrates the Illinois Black Panther Party and is tasked with keeping tabs on their charismatic leader, Chairman Fred Hampton. A career thief, O'Neal revels in the…",
-      "directors": [
-        "Shaka King"
-      ]
-    },
-    {
-      "id": "sixty-six",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Sixty Six",
-      "original_title": "Sixty Six",
-      "year": 2008,
-      "genres": [
-        "Biography",
-        "Comedy",
-        "Drama"
-      ],
-      "rating": 6.2,
-      "votes": 500,
-      "tomatometer": 65,
-      "audience_score": 66,
-      "runtime_minutes": 93,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/sYvlNmTrgWzQxbObpalg19uvOW0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p164761_p_v8_ab.jpg",
-      "plot": "The bar mitzvah of a boy looks like a disaster when it coincides with the final of the 1966 World Cup.",
-      "directors": [
-        "Paul Weiland"
-      ]
-    },
-    {
-      "id": "lbj",
-      "category": "history",
-      "type": "movie",
-      "title": "LBJ",
-      "original_title": "LBJ",
-      "year": 2017,
-      "genres": [
-        "History",
-        "Drama",
-        "Biography"
-      ],
-      "rating": 5.6,
-      "votes": 471,
-      "tomatometer": 55,
-      "audience_score": 55,
-      "runtime_minutes": 98,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Kq1h0rWG42KZH7CR3VtcC0Spi5s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13149346_p_v8_aa.jpg",
-      "plot": "Lyndon Johnson goes from being a powerful Senate majority leader to a powerless vice president before he becomes the President of the United States following the assassination of John F. Kennedy.",
-      "directors": [
-        "Rob Reiner"
-      ]
-    },
-    {
-      "id": "gacy",
-      "category": "crime",
-      "type": "movie",
-      "title": "Gacy",
-      "original_title": "Gacy",
-      "year": 2003,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Biography"
-      ],
-      "rating": 3.1,
-      "votes": 471,
-      "tomatometer": 17,
-      "audience_score": 21,
-      "runtime_minutes": 89,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/dROcaOZN3tWElBO-aesZIb_pnps=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32249_p_v12_aa.jpg",
-      "plot": "Real-life serial killer John Wayne Gacy (Mark Holton) is the subject of this disturbing biographical drama. Although Gacy is a family man and respected business owner, and even entertains locals as a…",
-      "directors": [
-        "Clive Saunders"
-      ]
-    },
-    {
-      "id": "chevalier_2022",
-      "category": "history",
-      "type": "movie",
-      "title": "Chevalier",
-      "original_title": "Chevalier",
-      "year": 2023,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama",
-        "Music"
-      ],
-      "rating": 6.5,
-      "votes": 468,
-      "tomatometer": 76,
-      "audience_score": 96,
-      "runtime_minutes": 107,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/6qRSwWgK5tXXRIqOIxCgr2_YZgg=/300x450/v2/https://resizing.flixster.com/3gMSTQI6WwHFoBQdKg2fYM_71oE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0YjdhNWI2LTRiM2MtNDBkOS1iN2MwLWQ1MjE1MzZkNTllYy5qcGc=",
-      "plot": "Inspired by the incredible true story of composer Joseph Bologne, Chevalier de Saint-Georges. The illegitimate son of an African slave and a French plantation owner, Bologne (Kelvin Harrison Jr. in a…",
-      "directors": [
-        "Stephen Williams"
-      ]
-    },
-    {
-      "id": "val",
-      "category": "biography",
-      "type": "movie",
-      "title": "Val",
-      "original_title": "Val",
-      "year": 2021,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 7.8,
-      "votes": 467,
-      "tomatometer": 93,
-      "audience_score": 89,
-      "runtime_minutes": 109,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/LuWqw-LROGhAJ8JpSOqsgjW7T1c=/300x450/v2/https://resizing.flixster.com/CIUHaWzWti4yNFE2keNqfmL5elY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiMmVjMWQ2LWJjYjgtNGI3OC1iMmJkLTQ2OTdiNmJjNmI1ZS5qcGc=",
-      "plot": "For over 40 years Val Kilmer, one of Hollywood's most mercurial and/or misunderstood actors has been documenting his own life and craft through film and video. He has amassed thousands of hours of…",
-      "directors": [
-        "Ting Poo",
-        "Leo Scott"
-      ]
-    },
-    {
-      "id": "still_a_michael_j_fox_movie",
-      "category": "biography",
-      "type": "movie",
-      "title": "Still: A Michael J. Fox Movie",
-      "original_title": "Still: A Michael J. Fox Movie",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 8.2,
-      "votes": 448,
-      "tomatometer": 99,
-      "audience_score": 95,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/u7z6lfmTEQFHE_9ijapCyJSSgME=/300x450/v2/https://resizing.flixster.com/6mKs9mH4cbIbqSZkRVFSwC0dJN8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M1MmY5MTE3LTdmOTQtNDEyMS1iMTA0LWYwYTkyZWEyMDg3ZC5wbmc=",
-      "plot": "The film, which will incorporate documentary, archival and scripted elements, will recount Fox's extraordinary story in his own words -- the improbable tale of an undersized kid from a Canadian army…",
-      "directors": [
-        "Davis Guggenheim"
-      ]
-    },
-    {
-      "id": "skin",
-      "category": "biography",
-      "type": "movie",
-      "title": "Skin",
-      "original_title": "Skin",
-      "year": 2019,
-      "genres": [
-        "Biography",
-        "Drama"
-      ],
-      "rating": 6.6,
-      "votes": 446,
-      "tomatometer": 76,
-      "audience_score": 81,
-      "runtime_minutes": 118,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/9I5nFu4bbfZNKxyjTIUnnno34bI=/300x450/v2/https://resizing.flixster.com/UPdFVCJ6kLjEIGEpTEoc9qMtSpw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4MWQyNzIzLWVhOTUtNGZkOS05YjQwLTA1YzJkMWRkZjdmMy5qcGc=",
-      "plot": "A young man makes the dangerous choice to leave the white supremacist gang he joined as a teenager. With his former friends against him, he is determined to create a new life for himself -- if he can…",
-      "directors": [
-        "Guy Nattiv"
-      ]
-    },
-    {
-      "id": "one_life",
-      "category": "history",
-      "type": "movie",
-      "title": "One Life",
-      "original_title": "One Life",
-      "year": 2024,
-      "genres": [
-        "History",
-        "Drama",
-        "Biography"
-      ],
-      "rating": 7.3,
-      "votes": 427,
-      "tomatometer": 91,
-      "audience_score": 98,
-      "runtime_minutes": 109,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/hZEWQdEhqBGJYCf105KeJ3EgDCI=/300x450/v2/https://resizing.flixster.com/ZkJ-bw3JSue8oe88y-W0wE0nCOg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5ZWM4ODE5LTMwNTMtNDU1NC1iZTdmLWQ0MGNjZTRlNGUyYi5qcGc=",
-      "plot": "Based on the book If It's Not Impossible...: The Life of Sir Nicholas Winton by Barbara Winton, ONE LIFE tells the incredible, emotional true story of Nicholas 'Nicky' Winton (Johnny Flynn), a young…",
-      "directors": [
-        "James Hawes"
-      ]
-    },
-    {
-      "id": "halftime",
-      "category": "biography",
-      "type": "movie",
-      "title": "Halftime",
-      "original_title": "Halftime",
-      "year": 2022,
-      "genres": [
-        "Documentary",
-        "Music",
-        "Biography"
-      ],
-      "rating": 6.4,
-      "votes": 424,
-      "tomatometer": 82,
-      "audience_score": 88,
-      "runtime_minutes": 96,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/_idbkNT-zzGYt7Z4x1giYShBawI=/300x450/v2/https://resizing.flixster.com/JyaqrBVlQY0ML90P6KZA8ug363M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UxMTg1OWNjLWI3MzAtNGUyMC05NjA5LTVhYTY5NjI5ZWFmZi5qcGc=",
-      "plot": "HALFTIME offers an intimate peek behind the curtain revealing the grit and determination that makes Jennifer Lopez the icon she is, from her performances onscreen and on stages around the world, to…",
-      "directors": [
-        "Amanda Micheli"
-      ]
-    },
-    {
-      "id": "the_front_runner_2018",
-      "category": "biography",
-      "type": "movie",
-      "title": "The Front Runner",
-      "original_title": "The Front Runner",
-      "year": 2018,
-      "genres": [
-        "Biography",
-        "Drama"
-      ],
-      "rating": 6.2,
-      "votes": 421,
-      "tomatometer": 58,
-      "audience_score": 41,
-      "runtime_minutes": 113,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ahP0HOkemkpUwyTvxJSwLIOIAmE=/300x450/v2/https://resizing.flixster.com/qBVVvcq2kFcX8pIzxf2k5ft280c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NkZGEzYWM1LTE5NzctNGU1Ny1iYzM3LTI4NzkwODE5N2E2Zi53ZWJw",
-      "plot": "Gary Hart, former senator of Colorado, becomes the front-runner for the Democratic presidential nomination in 1987. Hart's intelligence, charisma and idealism makes him popular with young voters,…",
-      "directors": [
-        "Jason Reitman"
-      ]
-    },
-    {
-      "id": "resistance_2020",
-      "category": "history",
-      "type": "movie",
-      "title": "Resistance",
-      "original_title": "Resistance",
-      "year": 2020,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 5.7,
-      "votes": 408,
-      "tomatometer": 58,
-      "audience_score": 78,
-      "runtime_minutes": 120,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/wXSI1ZJlVFhKUwSL-t9eeKzxAzY=/300x450/v2/https://resizing.flixster.com/rKqL4kyI0YWOz9s2Pdi10TCSgNg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg1MGYyNWY4LTM5ZDAtNGQ4Ny1hOTk3LTkzMTUxNjc5YWEzNy53ZWJw",
-      "plot": "Before he becomes world-famous mime Marcel Marceau, aspiring Jewish actor Marcel Mangel joins the French Resistance to save thousands of orphaned children from the Nazis.",
-      "directors": [
-        "Jonathan Jakubowicz"
-      ]
-    },
-    {
-      "id": "city_of_gold_2016",
-      "category": "biography",
-      "type": "movie",
-      "title": "City of Gold",
-      "original_title": "City of Gold",
-      "year": 2016,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 7.2,
-      "votes": 398,
-      "tomatometer": 89,
-      "audience_score": 81,
-      "runtime_minutes": 89,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/f4XQ7kE8hWQZEQio4rT0BVZ_KRQ=/300x450/v2/https://resizing.flixster.com/KCTp6oojK1bUpS12dRDdkvi7Zrk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxMmQ4NmUzLTM4NDEtNGU3Mi04Yjg0LTMxOTE5NDU2YWZlZS53ZWJw",
-      "plot": "Filmmaker Laura Gabbert follows Pulitzer Prize-winning food critic Jonathan Gold as he explores the culinary culture of Los Angeles.",
-      "directors": [
-        "Laura Gabbert"
-      ]
-    },
-    {
-      "id": "the_seven_five",
-      "category": "biography",
-      "type": "movie",
-      "title": "The Seven Five",
-      "original_title": "The Seven Five",
-      "year": 2015,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 7.5,
-      "votes": 393,
-      "tomatometer": 81,
-      "audience_score": 85,
-      "runtime_minutes": 102,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/rZtmxjUoW56a8D3Y_Hi5_jcnqVI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11579953_p_v10_aa.jpg",
-      "plot": "Former NYPD officer Michael Dowd tells how he and his partner committed a long list of crimes, including running their own cocaine ring, while on the job in the 1980s and early '90s.",
-      "directors": [
-        "Tiller Russell"
-      ]
-    },
-    {
-      "id": "walt_before_mickey_2015",
-      "category": "history",
-      "type": "movie",
-      "title": "Walt Before Mickey",
-      "original_title": "Walt Before Mickey",
-      "year": 2015,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": null,
-      "votes": 386,
-      "tomatometer": null,
-      "audience_score": 40,
-      "runtime_minutes": 120,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/giLp71jUw2-X1Yo_M9x97RP_RVE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11979840_p_v8_ac.jpg",
-      "plot": "In the 10 years before the creation of Mickey Mouse, Walt Disney struggles to master the art and business of animation.",
-      "directors": [
-        "Khoa Lê"
-      ]
-    },
-    {
-      "id": "lewis_capaldi_how_im_feeling_now",
-      "category": "biography",
-      "type": "movie",
-      "title": "Lewis Capaldi: How I'm Feeling Now",
-      "original_title": "Lewis Capaldi: How I'm Feeling Now",
-      "year": 2023,
-      "genres": [
-        "Biography",
-        "Documentary",
-        "Music"
-      ],
-      "rating": 7.2,
-      "votes": 362,
-      "tomatometer": 89,
-      "audience_score": 99,
-      "runtime_minutes": 96,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/dcM6tEHN-HS2ok_njDY8b0jGzu0=/300x450/v2/https://resizing.flixster.com/Mpvmxr0saIEq8Q_1BjQz6ewi9vE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiZjJiMWRiLWNjZmEtNDFhZS05ZWQ0LWU1MzE2YWMxMjdmZi5qcGc=",
-      "plot": "This intimate, all-access documentary chronicles Lewis Capaldi's journey from a scrappy teen with a viral performance to a Grammy-nominated pop star.",
-      "directors": [
-        "Joe Pearlman"
-      ]
-    },
-    {
-      "id": "the_apprentice",
-      "category": "biography",
-      "type": "movie",
-      "title": "The Apprentice",
-      "original_title": "The Apprentice",
-      "year": 2024,
-      "genres": [
-        "Drama",
-        "Biography"
-      ],
-      "rating": 6.9,
-      "votes": 356,
-      "tomatometer": 83,
-      "audience_score": 84,
-      "runtime_minutes": 122,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/AVUIAFjIOmc2dGLH3_ZarsaN8kc=/300x450/v2/https://resizing.flixster.com/g2fvBavkyEv9zgAIoypS2eD0m7Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhlNjYzMTNlLWM3MTItNDM1Yi1hNDg3LTJkZmEyOTg3OWJiNi5qcGc=",
-      "plot": "A young Donald Trump (Sebastian Stan), eager to make his name as a hungry second son of a wealthy family in 1970s New York, comes under the spell of Roy Cohn (Jeremy Strong), the cutthroat attorney…",
-      "directors": [
-        "Ali Abbasi"
-      ]
-    },
-    {
-      "id": "the_letters_2015",
-      "category": "history",
-      "type": "movie",
-      "title": "The Letters",
-      "original_title": "The Letters",
-      "year": 2015,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 4.4,
-      "votes": 355,
-      "tomatometer": 29,
-      "audience_score": 66,
-      "runtime_minutes": 119,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/YEtS0OOQLRn2YQ4NsX6Frd7cEMk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10878116_p_v13_ad.jpg",
-      "plot": "On Sept. 10, 1946, Mother Teresa (Juliet Stevenson) receives a message from God that tells her to help the poor, the sick and the downtrodden. Her new purpose initially causes conflict with the Roman…",
-      "directors": [
-        "William Riead"
-      ]
-    },
-    {
-      "id": "seberg",
-      "category": "history",
-      "type": "movie",
-      "title": "Seberg",
-      "original_title": "Seberg",
-      "year": 2019,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 5.5,
-      "votes": 353,
-      "tomatometer": 36,
-      "audience_score": 49,
-      "runtime_minutes": 103,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ghLbaSKnrIiS8dj9elM7MBSz4QY=/300x450/v2/https://resizing.flixster.com/K-Oe8oWZES9NETNvb-x47mgdyI4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE2YzFkM2Q1LTM2OGQtNGZlZC1iYTdkLWM5YTA1YzBkM2I2Ny53ZWJw",
-      "plot": "In the late 1960s, French new wave actress and Breathless star Jean Seberg becomes the target of the FBI due to her support of the civil rights movement and her romantic involvement with Hakim Jamal…",
-      "directors": [
-        "Benedict Andrews"
-      ]
-    },
-    {
-      "id": "army_of_one_2016",
-      "category": "crime",
-      "type": "movie",
-      "title": "Army of One",
-      "original_title": "Army of One",
-      "year": 2016,
-      "genres": [
-        "Comedy",
-        "Crime",
-        "Drama",
-        "Biography",
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.3,
-      "votes": 351,
-      "tomatometer": 25,
-      "audience_score": 28,
-      "runtime_minutes": 93,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/i18jpBVZ4nCrDLjiZP3Dc1SqCIA=/300x450/v2/https://resizing.flixster.com/4nD3525ZZ5yBEe8ppj8IuErbyak=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhOGY2OTVkLWQ5MTUtNDYxZC05MTQyLTc0ODY5ODFmZjI1YS53ZWJw",
-      "plot": "Gary Faulkner (Nicolas Cage), an ex-con, unemployed handyman, and modern day Don Quixote receives a vision from God telling him to capture Osama bin Laden. Armed with only a single sword purchased…",
-      "directors": [
-        "Larry Charles"
-      ]
-    },
-    {
-      "id": "cromwell",
-      "category": "history",
-      "type": "movie",
-      "title": "Cromwell",
-      "original_title": "Cromwell",
-      "year": 1970,
-      "genres": [
-        "History",
-        "Drama",
-        "Biography"
-      ],
-      "rating": 5.3,
-      "votes": 337,
-      "tomatometer": 33,
-      "audience_score": 70,
-      "runtime_minutes": 145,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/g3i9AKYvkqgz_yHho6lwRvPr0Og=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3126_p_v13_aa.jpg",
-      "plot": "In the 1640s England, King Charles I is engaged in a power struggle with Parliament, and civil war seems imminent to House of Commons member Oliver Cromwell, who's preparing to depart for the…",
-      "directors": [
-        "Ken Hughes"
-      ]
-    },
-    {
-      "id": "the_remarkable_life_of_ibelin",
-      "category": "biography",
-      "type": "movie",
-      "title": "The Remarkable Life of Ibelin",
-      "original_title": "The Remarkable Life of Ibelin",
-      "year": 2024,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 8.0,
-      "votes": 336,
-      "tomatometer": 97,
-      "audience_score": 95,
-      "runtime_minutes": 104,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/qL30bhkhZGfvNg-5g28lTemKLug=/300x450/v2/https://resizing.flixster.com/e_8vr3w5EfMP4ww-ZzTDUXbPYl0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiNTNiZDliLTU1M2YtNGIxYS05YTU4LTdkN2QzMDczYzJlMi5qcGc=",
-      "plot": "Mats Steen, a Norwegian gamer, died of a degenerative muscular disease at the age of 25. His parents mourned what they thought had been a lonely and isolated life, when they started receiving…",
-      "directors": [
-        "Benjamin Ree"
-      ]
-    },
-    {
-      "id": "radioactive",
-      "category": "history",
-      "type": "movie",
-      "title": "Radioactive",
-      "original_title": "Radioactive",
-      "year": 2019,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 6.0,
-      "votes": 334,
-      "tomatometer": 63,
-      "audience_score": 43,
-      "runtime_minutes": 103,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/RHzNrpytbloC36iQyRA4HzpoN18=/300x450/v2/https://resizing.flixster.com/rDDxmXJOefA76xscUg8gx3-KZ8g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjZDVjNGUxLWJlNjMtNDdlMS05YTg4LTgxOTBlMjYyZjZiZC53ZWJw",
-      "plot": "After the death of her beloved husband, Marie Curie's commitment to science remains strong as she tries to explain previously unknown radioactive elements. But it soon becomes terrifyingly evident…",
-      "directors": [
-        "Marjane Satrapi"
-      ]
-    },
-    {
-      "id": "clouds_2020",
-      "category": "biography",
-      "type": "movie",
-      "title": "Clouds",
-      "original_title": "Clouds",
-      "year": 2020,
-      "genres": [
-        "Biography",
-        "Drama",
-        "Music"
-      ],
-      "rating": 6.8,
-      "votes": 331,
-      "tomatometer": 83,
-      "audience_score": 88,
-      "runtime_minutes": 121,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/MBQWEIADCPl-evOhiD_ptVuwVcc=/300x450/v2/https://resizing.flixster.com/sZuyIqTYRtOsqMEDf1hGeyyj60A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZjYzc5ZmFlLWMxMTMtNDcxOC1hZDQyLWE5ZWMzYTk0MDRmMC53ZWJw",
-      "plot": "Teenager Zach Sobiech forms the music group A Firm Handshake and records the inspirational hit single \"Clouds.\"",
-      "directors": [
-        "Justin Baldoni"
-      ]
-    },
-    {
-      "id": "napoleon_1929",
-      "category": "history",
-      "type": "movie",
-      "title": "Napoleon",
-      "original_title": "Napoleon",
-      "year": 1927,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 9.3,
-      "votes": 320,
-      "tomatometer": 87,
-      "audience_score": 90,
-      "runtime_minutes": 235,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/bVNS0QHwJIGngD3BI2mwM8i8Fz4=/300x450/v2/https://resizing.flixster.com/BYOlfXfr3G8-XJ8oHCg8ZaSC7g4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhkYzk0NjU2LTNkYTQtNDg1NS1iYzdlLTRlYmZiMWMzNjczNy5qcGc=",
-      "plot": "This ambitious silent film, renowned for its groundbreaking camerawork and editing, portrays the early life of French ruler Napoleon Bonaparte (Albert Dieudonne), beginning with his childhood and…",
-      "directors": [
-        "Abel Gance"
-      ]
-    },
-    {
-      "id": "princess-kaiulani",
-      "category": "history",
-      "type": "movie",
-      "title": "Princess Kaiulani",
-      "original_title": "Princess Kaiulani",
-      "year": 2010,
-      "genres": [
-        "History",
-        "Drama",
-        "Biography"
-      ],
-      "rating": 4.6,
-      "votes": 302,
-      "tomatometer": 21,
-      "audience_score": 46,
-      "runtime_minutes": 130,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/UE7LlYBqSoS2HETYl9JNgAGkjq0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8039916_p_v10_aa.jpg",
-      "plot": "A Hawaiian princess (Q'orianka Kilcher) attempts to maintain the independence of the islands against the threat of American colonization.",
-      "directors": [
-        "Marc Forby"
-      ]
-    },
-    {
-      "id": "joy_2024",
-      "category": "history",
-      "type": "movie",
-      "title": "Joy",
-      "original_title": "Joy",
-      "year": 2024,
-      "genres": [
-        "Biography",
-        "Drama",
-        "History"
-      ],
-      "rating": 6.6,
-      "votes": 300,
-      "tomatometer": 89,
-      "audience_score": 88,
-      "runtime_minutes": 115,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/JAeFjF0PcU8OJAhu6KwUMADncp0=/300x450/v2/https://resizing.flixster.com/b9Ni7aDy_wlemlIFkxgw_FQlyBY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IyZDg2YzE4LWJkOGItNGI0Yi1hZTQ5LTBlMTU3MGY4MzAyNi5wbmc=",
-      "plot": "Joy tells the remarkable true story behind the ground-breaking birth of Louise Joy Brown in 1978, the world's first 'test-tube- baby', and the tireless 10-year journey to make it possible. Told…",
-      "directors": [
-        "Ben Taylor"
-      ]
-    },
-    {
-      "id": "stephen_curry_underrated",
-      "category": "biography",
-      "type": "movie",
-      "title": "Stephen Curry: Underrated",
-      "original_title": "Stephen Curry: Underrated",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "Sports"
-      ],
-      "rating": 6.8,
-      "votes": 298,
-      "tomatometer": 85,
-      "audience_score": 87,
-      "runtime_minutes": 110,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/y7i-QFaO0qM-AZBCIJKurzfXLS4=/300x450/v2/https://resizing.flixster.com/kkU2d4-Sw7CJUohQUD2VLvvw7Ec=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczZTFmYzkxLWY1NGYtNDc3ZC1hYmQxLTkyYThjMzc2MGVjZS5wbmc=",
-      "plot": "\"Stephen Curry: Underrated\" is the remarkable coming-of-age story of one of the most influential, dynamic and unexpected players in the history of basketball. This feature documentary -- blending…",
-      "directors": [
-        "Peter Nicks"
-      ]
-    },
-    {
-      "id": "trial_by_fire",
-      "category": "biography",
-      "type": "movie",
-      "title": "Trial by Fire",
-      "original_title": "Trial by Fire",
-      "year": 2019,
-      "genres": [
-        "Drama",
-        "Biography"
-      ],
-      "rating": 6.2,
-      "votes": 285,
-      "tomatometer": 63,
-      "audience_score": 75,
-      "runtime_minutes": 127,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/U-PRXnWxi6MRDXRJbE-2mV0rwYw=/300x450/v2/https://resizing.flixster.com/d8ruuY6A0L2X_TUP7wNTfog0OxQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U5Yzc3YmU5LWMwZTUtNGU0MS04NjBjLWFiMGQ5ZjdkMTZkYy53ZWJw",
-      "plot": "Cameron Todd Willingham, a poor, uneducated heavy metal devotee who has a violent streak and a criminal record, is convicted of arson-related triple homicide in 1992. During his 12 years on death…",
-      "directors": [
-        "Edward Zwick"
-      ]
-    },
-    {
-      "id": "bank_of_dave",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Bank of Dave",
-      "original_title": "Bank of Dave",
-      "year": 2023,
-      "genres": [
-        "Comedy",
-        "Biography",
-        "Drama"
-      ],
-      "rating": 6.3,
-      "votes": 280,
-      "tomatometer": 86,
-      "audience_score": 88,
-      "runtime_minutes": 107,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/JfE1ECni98waLYXZ3diGklntJYs=/300x450/v2/https://resizing.flixster.com/NLIUCGbzg8ukFlEzbq2acpfzAuQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZhNjQzYWRjLTFhNmQtNGY4OC1hYjhjLWNlZWI1OGY4ZDU5MS5qcGc=",
-      "plot": "Based on the true-life experiences of Dave Fishwick; 'Bank of Dave' tells the story of how a working class Burnley man and self-made millionaire fought to set up a community bank. Dave Fishwick (Rory…",
-      "directors": [
-        "Chris Foggin"
-      ]
-    },
-    {
-      "id": "my_mom_jayne",
-      "category": "biography",
-      "type": "movie",
-      "title": "My Mom Jayne",
-      "original_title": "My Mom Jayne",
-      "year": 2025,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 8.1,
-      "votes": 269,
-      "tomatometer": 100,
-      "audience_score": 95,
-      "runtime_minutes": 105,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/FjYU-JtlndorZf2TB00rLysCABo=/300x450/v2/https://resizing.flixster.com/69VoxYCbeu5SYA8_DryvMGZVeYI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiOTQ5YmM4LWU5YzItNDAxMC1iMzFkLThmNzg2ZDA3NDVhZi5qcGc=",
-      "plot": "Mariska Hargitay was three years old when her mother, Jayne Mansfield, tragically died in a car accident at the age of 34. The film follows Mariska as she seeks to know, understand, and embrace her…",
-      "directors": [
-        "Mariska Hargitay"
-      ]
-    },
-    {
-      "id": "bettie_page_reveals_all",
-      "category": "biography",
-      "type": "movie",
-      "title": "Bettie Page Reveals All",
-      "original_title": "Bettie Page Reveals All",
-      "year": 2012,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 6.7,
-      "votes": 268,
-      "tomatometer": 72,
-      "audience_score": 61,
-      "runtime_minutes": 90,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/wLMCl0nKb37bdHEdk_O-QX9VE24=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8894820_p_v13_aa.jpg",
-      "plot": "The pinup model and cult icon recounts how her free expression overcame government witch-hunts to help launch America's sexual revolution.",
-      "directors": [
-        "Mark Mori"
-      ]
-    },
-    {
-      "id": "lee",
-      "category": "war",
-      "type": "movie",
-      "title": "Lee",
-      "original_title": "Lee",
-      "year": 2024,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 6.4,
-      "votes": 259,
-      "tomatometer": 67,
-      "audience_score": 94,
-      "runtime_minutes": 117,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/K28QjXIBRT8tsg9arcQoNd9_yP4=/300x450/v2/https://resizing.flixster.com/Upq7Zzb71KwVizCQlHonxImfHxE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFhOWFkOGVkLTRiN2MtNDEwNC04ODk2LWVlZjI5ZTcxMjhiOS5qcGc=",
-      "plot": "Lee, the directorial feature from award-winning Cinematographer Ellen Kuras, portrays a pivotal decade in the life of American war correspondent and photographer, Lee Miller (Kate Winslet).  Miller's…",
-      "directors": [
-        "Ellen Kuras"
-      ]
-    },
-    {
-      "id": "the_deepest_breath",
-      "category": "biography",
-      "type": "movie",
-      "title": "The Deepest Breath",
-      "original_title": "The Deepest Breath",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "Sports"
-      ],
-      "rating": 7.5,
-      "votes": 249,
-      "tomatometer": 84,
-      "audience_score": 93,
-      "runtime_minutes": 108,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/OpC4xP_rC7BHIPdVDsBxr6b4kxg=/300x450/v2/https://resizing.flixster.com/EQMN9O4U87GEcrTrsZxuy7bsP_4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwZGRjM2QzLThmYzgtNDY5My04OTVlLTNiZWY4OTcxMGE4Zi5qcGc=",
-      "plot": "A champion freediver trains to break a world record with the help of an expert safety diver, and the two form an emotional bond that feels like fate. This heart-stopping film follows the paths they…",
-      "directors": [
-        "Laura McGann"
-      ]
-    },
-    {
-      "id": "mystify_michael_hutchence",
-      "category": "biography",
-      "type": "movie",
-      "title": "Mystify: Michael Hutchence",
-      "original_title": "Mystify: Michael Hutchence",
-      "year": 2019,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "Music"
-      ],
-      "rating": 7.4,
-      "votes": 241,
-      "tomatometer": 100,
-      "audience_score": 94,
-      "runtime_minutes": 108,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/6NLf1dfM3lxY4YzXb1p_48kwheM=/300x450/v2/https://resizing.flixster.com/mFvcHnbpTOaI9FTOQ4PjRFP65Us=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM4NDZlYjIzLTEyYzUtNGRlZS04NTJmLWZmNzVmMTRiNmE3Yy53ZWJw",
-      "plot": "Archival footage, private home movies and intimate interviews offer insight into the extraordinary life and career of former INXS singer Michael Hutchence.",
-      "directors": [
-        "Richard Lowenstein"
-      ]
-    },
-    {
-      "id": "unbroken_path_to_redemption",
-      "category": "history",
-      "type": "movie",
-      "title": "Unbroken: Path to Redemption",
-      "original_title": "Unbroken: Path to Redemption",
-      "year": 2018,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 5.4,
-      "votes": 236,
-      "tomatometer": 40,
-      "audience_score": 73,
-      "runtime_minutes": 98,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/UciMyXV0Xk7ijUjLlzeaTc7gywk=/300x450/v2/https://resizing.flixster.com/jfNORRzVAJhrU7D_wamLCQtQc6w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE0MmYzYjRhLTY5YzQtNGFiZi1hZWI3LWQwNjZhY2FmNGE5MS53ZWJw",
-      "plot": "Haunted by nightmares of his horrific experiences, World War II hero Louis Zamperini meets Cynthia Applewhite, a young woman who becomes his wife. Zamperini's personal demons soon threaten to destroy…",
-      "directors": [
-        "Harold Cronk"
-      ]
-    },
-    {
-      "id": "art_spiegelman_disaster_is_my_muse",
-      "category": "biography",
-      "type": "movie",
-      "title": "Art Spiegelman: Disaster Is My Muse",
-      "original_title": "Art Spiegelman: Disaster Is My Muse",
-      "year": 2025,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 8.4,
-      "votes": 227,
-      "tomatometer": 100,
-      "audience_score": 99,
-      "runtime_minutes": 98,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/N5bJZhw8pBRI_y04WGdEylOF-CA=/300x450/v2/https://resizing.flixster.com/4jjF_W2X8FuzI1vzny3hlDoNcbU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UzMDlkYWEyLTM4MjgtNGY1ZC1iMTVkLTQwN2FkOTAyZWMxMS5qcGc=",
-      "plot": "Art Spiegelman's Pulitzer Prize-winning graphic novel Maus is a landmark in reckoning with the Holocaust and breakthrough in serious comic art -- but his full achievements are more remarkable and…",
-      "directors": [
-        "Molly Bernstein",
-        "Philip Dolin"
-      ]
-    },
-    {
-      "id": "circus_of_books",
-      "category": "biography",
-      "type": "movie",
-      "title": "Circus of Books",
-      "original_title": "Circus of Books",
-      "year": 2019,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "LGBTQ+"
-      ],
-      "rating": 7.8,
-      "votes": 226,
-      "tomatometer": 98,
-      "audience_score": 79,
-      "runtime_minutes": 92,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/goMwBhrey9mc1g9swaA7IVSxcAI=/300x450/v2/https://resizing.flixster.com/TwKjx68_EyyJXvKkZcBAjoVJkts=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q3MDA2ODQ3LTE5NGMtNDUyOS1iMDRjLTkxZmNiNzAxNzEzZi53ZWJw",
-      "plot": "In 1976 a couple take over an adult book store, and the store becomes the biggest distributor of gay porn in the United States.",
-      "directors": [
-        "Rachel Mason"
-      ]
-    },
-    {
-      "id": "a_tale_of_love_and_darkness",
-      "category": "history",
-      "type": "movie",
-      "title": "A Tale of Love and Darkness",
-      "original_title": "A Tale of Love and Darkness",
-      "year": 2016,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 6.1,
-      "votes": 198,
-      "tomatometer": 72,
-      "audience_score": 49,
-      "runtime_minutes": 98,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/bNUANnPKJzDcO9pU-3OJlCH9GKI=/300x450/v2/https://resizing.flixster.com/GCC6bft3RSL3Z57Xqk46fleevLA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwNzA1NzhjLWNmYzUtNDlmMy05ZGVmLWQ4OTc2Mzg3NGNjNC53ZWJw",
-      "plot": "Influenced by his mother's stories and poetry readings, young Amos Oz grows up in the 1940s Jerusalem and becomes a famous writer.",
-      "directors": [
-        "Natalie Portman"
-      ]
-    },
-    {
-      "id": "cassandro",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Cassandro",
-      "original_title": "Cassandro",
-      "year": 2023,
-      "genres": [
-        "Drama",
-        "Biography",
-        "Comedy",
-        "LGBTQ+"
-      ],
-      "rating": 7.3,
-      "votes": 194,
-      "tomatometer": 91,
-      "audience_score": 73,
-      "runtime_minutes": 107,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Hy2wtFxJYPXqGgSxqbjEx3R0XlQ=/300x450/v2/https://resizing.flixster.com/P6ovAs0uhZR4OtvxzPE9Hhqh0Rw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY3OTUwYzM0LTk0MTMtNDU1Ny05MTcyLWIxZmQ3NmE3ZWVhNy5qcGc=",
-      "plot": "Saúl Armendáriz, a gay amateur wrestler from El Paso, rises to international stardom after he creates the character Cassandro, the \"Liberace of Lucha Libre.\" In the process, he upends not just the…",
-      "directors": [
-        "Roger Ross Williams"
-      ]
-    },
-    {
-      "id": "rebel_in_the_rye",
-      "category": "history",
-      "type": "movie",
-      "title": "Rebel in the Rye",
-      "original_title": "Rebel in the Rye",
-      "year": 2017,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 5.1,
-      "votes": 194,
-      "tomatometer": 28,
-      "audience_score": 63,
-      "runtime_minutes": 106,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/3cURhftun6Nx95Z1mseyvQHhv54=/300x450/v2/https://resizing.flixster.com/kq0vwu7RqjtPPFZmBcLbazr_OSs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0N2JiOGM4LWZlMWItNDExOS04ZWQzLTMwMGYyMDU3ZGJiOS53ZWJw",
-      "plot": "Author J.D. Salinger leads a reclusive lifestyle after the success of his popular and controversial novel The Catcher in the Rye.",
-      "directors": [
-        "Danny Strong"
-      ]
-    },
-    {
-      "id": "matt_shepard_is_a_friend_of_mine",
-      "category": "biography",
-      "type": "movie",
-      "title": "Matt Shepard Is a Friend of Mine",
-      "original_title": "Matt Shepard Is a Friend of Mine",
-      "year": 2015,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "LGBTQ+"
-      ],
-      "rating": 8.0,
-      "votes": 187,
-      "tomatometer": 100,
-      "audience_score": 86,
-      "runtime_minutes": 89,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/kQEynAD7tLMHviI3UR4pIGceNps=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10316121_p_v8_aa.jpg",
-      "plot": "The life of Matt Shepard and the people who remember him.",
-      "directors": [
-        "Michele Josue"
-      ]
-    },
-    {
-      "id": "all_the_beauty_and_the_bloodshed",
-      "category": "biography",
-      "type": "movie",
-      "title": "All the Beauty and the Bloodshed",
-      "original_title": "All the Beauty and the Bloodshed",
-      "year": 2022,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 8.7,
-      "votes": 185,
-      "tomatometer": 95,
-      "audience_score": 64,
-      "runtime_minutes": 117,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/lB60DJJN7MGwLrHVC0LRpY4PXro=/300x450/v2/https://resizing.flixster.com/lygXoCf_M0WByVqFLAdZ96SdKEk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVjOTY1MmM1LTNjZTgtNDUzYS1hMWQyLWExYzEzMDhiZTNkZi5qcGc=",
-      "plot": "Directed by Academy Award®-winning filmmaker Laura Poitras, All the Beauty and the Bloodshed is an epic, emotional and interconnected story about internationally renowned artist and activist Nan…",
-      "directors": [
-        "Laura Poitras"
-      ]
-    },
-    {
-      "id": "luther_never_too_much",
-      "category": "biography",
-      "type": "movie",
-      "title": "Luther: Never Too Much",
-      "original_title": "Luther: Never Too Much",
-      "year": 2024,
-      "genres": [
-        "Documentary",
-        "Music",
-        "Biography"
-      ],
-      "rating": 7.5,
-      "votes": 183,
-      "tomatometer": 98,
-      "audience_score": 98,
-      "runtime_minutes": 101,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/mXSIonyykPHGo0weowT82oaRaGQ=/300x450/v2/https://resizing.flixster.com/lqrsWfAClH4dr2WP8NjccTUi8kw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E2NzNkOWM4LWFmNjItNDc4OS1iOGVhLTY1YjA2ZjVjMmFiYy5qcGc=",
-      "plot": "The captivating story of Luther Vandross, from his early Sesame Street appearances to becoming the indisputable master of the love song. Using rare archives, Vandross shares his own story with…",
-      "directors": [
-        "Dawn Porter"
-      ]
-    },
-    {
-      "id": "callas_forever",
-      "category": "biography",
-      "type": "movie",
-      "title": "Callas Forever",
-      "original_title": "Callas Forever",
-      "year": 2004,
-      "genres": [
-        "Biography",
-        "Drama",
-        "LGBTQ+"
-      ],
-      "rating": 5.6,
-      "votes": 180,
-      "tomatometer": 40,
-      "audience_score": 55,
-      "runtime_minutes": 108,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/lvk8ZFpGIQ0UmaOZa3eiFXg-l58=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35283_p_v8_ad.jpg",
-      "plot": "Aging opera singer Maria Callas (Fanny Ardant) tries to make a comeback by performing in a production of Bizet's \"Carmen.\"",
-      "directors": [
-        "Franco Zeffirelli"
-      ]
-    },
-    {
-      "id": "sly_2023",
-      "category": "biography",
-      "type": "movie",
-      "title": "Sly",
-      "original_title": "Sly",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "Biography"
-      ],
-      "rating": 6.4,
-      "votes": 172,
-      "tomatometer": 81,
-      "audience_score": 83,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/TyKQ2zPFEHl6fC3dCeauNQOU7AU=/300x450/v2/https://resizing.flixster.com/wr3qOXiI32f5SQze4Wwzq7xImXY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFiNzA3MmU0LTk1MTctNGRkMS05Mjk2LTk0MWNmMGMwN2JiZS5qcGc=",
-      "plot": "For nearly 50 years Sylvester Stallone has entertained millions with iconic characters and blockbuster franchises, from Rocky to Rambo to The Expendables. This retrospective documentary offers an…",
-      "directors": [
-        "Thom Zimny"
-      ]
-    },
-    {
-      "id": "the_last_ride_2011",
-      "category": "history",
-      "type": "movie",
-      "title": "The Last Ride",
-      "original_title": "The Last Ride",
-      "year": 2012,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 5.5,
-      "votes": 168,
-      "tomatometer": 47,
-      "audience_score": 52,
-      "runtime_minutes": 102,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/q7A6ADS4GkLMhLimbw5ivRkoCyA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8869807_p_v10_aa.jpg",
-      "plot": "In the days leading up to his untimely death, singer Hank Williams (Henry Thomas) hires a young man to drive him to West Virginia and Ohio for a pair of comeback performances.",
-      "directors": [
-        "Harry Thomason"
-      ]
-    },
-    {
-      "id": "its_never_over_jeff_buckley",
-      "category": "biography",
-      "type": "movie",
-      "title": "It's Never Over, Jeff Buckley",
-      "original_title": "It's Never Over, Jeff Buckley",
-      "year": 2025,
-      "genres": [
-        "Documentary",
-        "Music",
-        "Biography"
-      ],
-      "rating": 7.3,
-      "votes": 161,
-      "tomatometer": 99,
-      "audience_score": 98,
-      "runtime_minutes": 108,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/-0_bj9TpGKaK_QR1l-TCvyTOEKY=/300x450/v2/https://resizing.flixster.com/44zAUKcx3pTnLsKYTS4BjqbIr-U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc2YWI2MmM5LTJiMWMtNDQ5ZC04MDQyLWYzZDUwMWJjY2UzZS5qcGc=",
-      "plot": "IT'S NEVER OVER: JEFF BUCKLEY, directed by Oscar-nominated filmmaker Amy Berg (DELIVER US FROM EVIL, JANIS: LITTLE GIRL BLUE, WEST OF MEMPHIS), covers the life of the rising young star with an…",
-      "directors": [
-        "Amy Berg"
-      ]
-    },
-    {
-      "id": "music_by_john_williams",
-      "category": "biography",
-      "type": "movie",
-      "title": "Music by John Williams",
-      "original_title": "Music by John Williams",
-      "year": 2024,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "Music"
-      ],
-      "rating": 8.1,
-      "votes": 157,
-      "tomatometer": 100,
-      "audience_score": 97,
-      "runtime_minutes": 105,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/3kPHImYWgOWvGk27cr5YfIkUKW0=/300x450/v2/https://resizing.flixster.com/_dlExpl0yS22JBNedDUyp-6ftHk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkM2ZiMzcyLTRiMTEtNDM1OC05OTNhLTM3MGEwZWNlMWM5Zi5qcGc=",
-      "plot": "From his early days as a jazz pianist to his 54 Oscar® nominations and five wins, the documentary takes an in-depth look at Williams' countless contributions to film, including many iconic…",
-      "directors": [
-        "Laurent Bouzereau"
       ]
     }
   ]

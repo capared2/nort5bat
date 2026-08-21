@@ -1,8 +1,34 @@
 {
   "genre": "drama",
   "name": "Drama",
-  "count": 3920,
+  "count": 5430,
   "titles": [
+    {
+      "id": "300",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "300",
+      "original_title": "300",
+      "year": 2007,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "War"
+      ],
+      "rating": 6.5,
+      "votes": 376485,
+      "tomatometer": 61,
+      "audience_score": 89,
+      "runtime_minutes": 117,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/3WfvNkfTUgW1CeYPQ_zl73_9sXs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p163191_p_v8_al.jpg",
+      "plot": "In 480 B.C. a state of war exists between Persia, led by King Xerxes (Rodrigo Santoro), and Greece. At the Battle of Thermopylae, Leonidas (Gerard Butler), king of the Greek city state of Sparta,…",
+      "directors": [
+        "Zack Snyder"
+      ]
+    },
     {
       "id": "law_abiding_citizen",
       "category": "crime",
@@ -488,6 +514,29 @@
       ]
     },
     {
+      "id": "1032176-goodfellas",
+      "category": "crime",
+      "type": "movie",
+      "title": "Goodfellas",
+      "original_title": "Goodfellas",
+      "year": 1990,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "votes": 122468,
+      "tomatometer": 93,
+      "audience_score": 97,
+      "runtime_minutes": 146,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/qFGNp2BOzLkXG5JRk5L_4yef59Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12720_v_v13_bc.jpg",
+      "plot": "Henry Hill, a poor Irish-Italian growing up in the 1950s New York City, rises through the ranks of his neighborhood's organized crime branch; he ends up in the FBI's witness protection program after…",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
       "id": "saving_private_ryan",
       "category": "war",
       "type": "movie",
@@ -509,6 +558,53 @@
       "plot": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching…",
       "directors": [
         "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "reservoir_dogs",
+      "category": "crime",
+      "type": "movie",
+      "title": "Reservoir Dogs",
+      "original_title": "Reservoir Dogs",
+      "year": 1992,
+      "genres": [
+        "Mystery & Thriller",
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.0,
+      "votes": 117962,
+      "tomatometer": 90,
+      "audience_score": 94,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/1XoJVmn-1X_b7W-rG1zCKpe06vY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13719_p_v8_aa.jpg",
+      "plot": "A group of thieves assembles to pull off the perfect diamond heist. It turns into a bloody ambush when one of the men turns out to be a police informer. As the group begins to question each other's…",
+      "directors": [
+        "Quentin Tarantino"
+      ]
+    },
+    {
+      "id": "pursuit_of_happyness",
+      "category": "drama",
+      "type": "movie",
+      "title": "The Pursuit of Happyness",
+      "original_title": "The Pursuit of Happyness",
+      "year": 2006,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 6.6,
+      "votes": 117395,
+      "tomatometer": 67,
+      "audience_score": 87,
+      "runtime_minutes": 116,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/w-oVMFvIGjqVH05kiQBysQ-WppM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162523_p_v10_aa.jpg",
+      "plot": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+      "directors": [
+        "Gabriele Muccino"
       ]
     },
     {
@@ -583,6 +679,51 @@
       ]
     },
     {
+      "id": "1017776-rocky",
+      "category": "drama",
+      "type": "movie",
+      "title": "Rocky",
+      "original_title": "Rocky",
+      "year": 1976,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.5,
+      "votes": 108040,
+      "tomatometer": 93,
+      "audience_score": 69,
+      "runtime_minutes": 120,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/iVOikBAKt_fROkPAKNgGXgaZBK0=/300x450/v2/https://resizing.flixster.com/85IHctnhkxlG43kXcJY2I20tb2U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NjMzI2NzNlLWNiYWYtNGFmZS04NGJkLTFlZmVkOWYwMjlmMy5qcGc=",
+      "plot": "Rocky Balboa (Sylvester Stallone), a small-time boxer from working-class Philadelphia, is arbitrarily chosen to take on the reigning world heavyweight champion, Apollo Creed (Carl Weathers), when the…",
+      "directors": [
+        "John G. Avildsen"
+      ]
+    },
+    {
+      "id": "snatch",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Snatch",
+      "original_title": "Snatch",
+      "year": 2001,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 6.6,
+      "votes": 106093,
+      "tomatometer": 74,
+      "audience_score": 93,
+      "runtime_minutes": 98,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/HdFLcfMVrzBSortOR1fwnIwbWqw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26335_p_v13_ao.jpg",
+      "plot": "Illegal boxing promoter Turkish (Jason Statham) convinces gangster Brick Top (Alan Ford) to offer bets on bare-knuckle boxer Mickey (Brad Pitt) at his bookie business. When Mickey does not throw his…",
+      "directors": [
+        "Guy Ritchie"
+      ]
+    },
+    {
       "id": "american_beauty",
       "category": "romance",
       "type": "movie",
@@ -604,6 +745,29 @@
       "plot": "Lester Burnham (Kevin Spacey) is a gainfully employed suburban husband and father. Fed up with his boring, stagnant existence, he quits his job and decides to reinvent himself as a pot-smoking,…",
       "directors": [
         "Sam Mendes"
+      ]
+    },
+    {
+      "id": "dirty_dancing",
+      "category": "romance",
+      "type": "movie",
+      "title": "Dirty Dancing",
+      "original_title": "Dirty Dancing",
+      "year": 1987,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 104515,
+      "tomatometer": 73,
+      "audience_score": 90,
+      "runtime_minutes": 100,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/S2jR_HYGtVp5synfnUEIlQnJZco=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/2027/2027_aa.jpg",
+      "plot": "Baby (Jennifer Grey) is one listless summer away from the Peace Corps. Hoping to enjoy her youth while it lasts, she's disappointed when her summer plans deposit her at a sleepy resort in the…",
+      "directors": [
+        "Emile Ardolino"
       ]
     },
     {
@@ -749,6 +913,29 @@
       ]
     },
     {
+      "id": "scarface",
+      "category": "crime",
+      "type": "movie",
+      "title": "Scarface",
+      "original_title": "Scarface",
+      "year": 1983,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.7,
+      "votes": 99091,
+      "tomatometer": 77,
+      "audience_score": 93,
+      "runtime_minutes": 170,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/2m4VPtFeCoj_B413jc9Kgtem95A=/300x450/v2/https://resizing.flixster.com/xqpbVMOd3KhO_ryiETThKCwstxk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUwNzhhMWVhLWQ0YmItNDRiMi04MzE1LTc4ZjBiYWVhOWRmZi5qcGc=",
+      "plot": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana (Al Pacino) stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his…",
+      "directors": [
+        "Brian De Palma"
+      ]
+    },
+    {
       "id": "silver_linings_playbook",
       "category": "romance",
       "type": "movie",
@@ -794,6 +981,29 @@
       "plot": "\"The greatest trick the devil ever pulled was convincing the world he didn't exist,\" says con man Kint, drawing a comparison to the most enigmatic criminal of all time, Keyser Söze. Kint attempts to…",
       "directors": [
         "Bryan Singer"
+      ]
+    },
+    {
+      "id": "the-social-network",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Social Network",
+      "original_title": "The Social Network",
+      "year": 2010,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 9.0,
+      "votes": 95048,
+      "tomatometer": 96,
+      "audience_score": 87,
+      "runtime_minutes": 120,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/yMztQi7VuagcqE0ia3ljP0n1s4w=/300x450/v2/https://resizing.flixster.com/SmUywWzlQcOaUEdbnh6F88PrlxE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRmNjEyZjdmLWM1ZDktNDFjNS1hYWIyLWU1ZjhmOTU2ODk0ZS5qcGc=",
+      "plot": "In 2003, Harvard undergrad and computer genius Mark Zuckerberg (Jesse Eisenberg) begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later,…",
+      "directors": [
+        "David Fincher"
       ]
     },
     {
@@ -872,6 +1082,32 @@
       ]
     },
     {
+      "id": "ghost_rider",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Ghost Rider",
+      "original_title": "Ghost Rider",
+      "year": 2007,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure",
+        "Mystery & Thriller",
+        "Drama"
+      ],
+      "rating": 4.3,
+      "votes": 92307,
+      "tomatometer": 28,
+      "audience_score": 48,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/VqvJzlwLa287OnjnYLMoFhRuG7c=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159753_p_v8_aq.jpg",
+      "plot": "Years ago, motorcycle stuntman Johnny Blaze sold his soul to save the life of a loved one. Now, he transforms into a fiery, avenging agent of justice at night wherever evil roams. As the only one who…",
+      "directors": [
+        "Mark Steven Johnson"
+      ]
+    },
+    {
       "id": "silence_of_the_lambs",
       "category": "horror",
       "type": "movie",
@@ -897,6 +1133,32 @@
       ]
     },
     {
+      "id": "robin_hood_2010",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Robin Hood",
+      "original_title": "Robin Hood",
+      "year": 2010,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy",
+        "History",
+        "Drama"
+      ],
+      "rating": 5.6,
+      "votes": 90120,
+      "tomatometer": 43,
+      "audience_score": 58,
+      "runtime_minutes": 139,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ubQu7qJ1-10s2S-bkk-L9SURNwA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7874392_p_v8_aa.jpg",
+      "plot": "After the death of Richard the Lion-Hearted, a skilled archer named Robin Longstride travels to Nottingham, where villagers suffer under a despotic sheriff and crippling taxation. He meets and falls…",
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
       "id": "godfather_part_ii",
       "category": "crime",
       "type": "movie",
@@ -917,6 +1179,31 @@
       "plot": "The compelling sequel to \"The Godfather,\" contrasting the life of Corleone father and son. Traces the problems of Michael Corleone (Al Pacino) in 1958 and that of a young immigrant Vito Corleone…",
       "directors": [
         "Francis Ford Coppola"
+      ]
+    },
+    {
+      "id": "beautiful_mind",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "A Beautiful Mind",
+      "original_title": "A Beautiful Mind",
+      "year": null,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Mystery & Thriller",
+        "Romance"
+      ],
+      "rating": 7.7,
+      "votes": 88591,
+      "tomatometer": 74,
+      "audience_score": 93,
+      "runtime_minutes": 135,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Z2NFz1A-YCZw8iRKtUhWR4SRJNI=/300x450/v2/https://resizing.flixster.com/QmvY5qbZw45ulZNcSkGgBFF7jeU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJjMGY0MDkwLTA0YjktNGRhMC1iNWMzLTg5OWRhYTc0ZTcyNy5qcGc=",
+      "plot": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all; as a mathematical expert, he made a discovery early in his career and stands on the brink of…",
+      "directors": [
+        "Ron Howard"
       ]
     },
     {
@@ -1012,6 +1299,30 @@
       ]
     },
     {
+      "id": "the_wolf_of_wall_street_2013",
+      "category": "comedy",
+      "type": "movie",
+      "title": "The Wolf of Wall Street",
+      "original_title": "The Wolf of Wall Street",
+      "year": 2013,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 7.9,
+      "votes": 85358,
+      "tomatometer": 79,
+      "audience_score": 83,
+      "runtime_minutes": 179,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/hhVC9s-GCsPgrR3l93hU68nGl3Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9991602_p_v12_aj.jpg",
+      "plot": "In 1987, Jordan Belfort takes an entry-level job at a Wall Street brokerage firm. By the early 1990s, while still in his 20s, Belfort founds his own firm, Stratton Oakmont. Together with his trusted…",
+      "directors": [
+        "Martin Scorsese"
+      ]
+    },
+    {
       "id": "curious_case_of_benjamin_button",
       "category": "fantasy",
       "type": "movie",
@@ -1033,6 +1344,29 @@
       "plot": "Born under unusual circumstances, Benjamin Button (Brad Pitt) springs into being as an elderly man in a New Orleans nursing home and ages in reverse. Twelve years after his birth, he meets Daisy, a…",
       "directors": [
         "David Fincher"
+      ]
+    },
+    {
+      "id": "1212694-blind_side",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Blind Side",
+      "original_title": "The Blind Side",
+      "year": 2009,
+      "genres": [
+        "Drama",
+        "Biography"
+      ],
+      "rating": 6.3,
+      "votes": 84680,
+      "tomatometer": 66,
+      "audience_score": 85,
+      "runtime_minutes": 128,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/GeBHAHaLBFOXzxjHrpBMIsD25ZA=/300x450/v2/https://resizing.flixster.com/p5W6G-TGOMIivxUYWi9xa_z1wI0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlhMWUwOWI5LWI4ZTAtNGFhYS1hNzYzLWI2M2Q5Y2U1ODk4YS5qcGc=",
+      "plot": "Michael Oher (Quinton Aaron), a homeless black teen, has drifted in and out of the school system for years. Then Leigh Anne Tuohy (Sandra Bullock) and her husband, Sean (Tim McGraw), take him in. The…",
+      "directors": [
+        "John Lee Hancock"
       ]
     },
     {
@@ -1200,6 +1534,29 @@
       ]
     },
     {
+      "id": "breakfast_club",
+      "category": "comedy",
+      "type": "movie",
+      "title": "The Breakfast Club",
+      "original_title": "The Breakfast Club",
+      "year": 1985,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "votes": 77779,
+      "tomatometer": 87,
+      "audience_score": 92,
+      "runtime_minutes": 92,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/zMwos8kH2xPHgsjJr3CavZGljAQ=/300x450/v2/https://resizing.flixster.com/p3yTEcKpo05sHKCVu36pH1pfnS4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FhOGI3YWYxLWE0ODctNDRhYy05Y2UxLTdlMDVlN2UxY2ZmMS5qcGc=",
+      "plot": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy…",
+      "directors": [
+        "John Hughes"
+      ]
+    },
+    {
       "id": "shooter",
       "category": "mystery-thriller",
       "type": "movie",
@@ -1245,6 +1602,30 @@
       "plot": "After many years away, television bit part actor Andrew Largeman returns to his small hometown in New Jersey to attend his mother's funeral. There he is confronted by various aspects of the life he…",
       "directors": [
         "Zach Braff"
+      ]
+    },
+    {
+      "id": "the_lion_king_2019",
+      "category": "adventure",
+      "type": "movie",
+      "title": "The Lion King",
+      "original_title": "The Lion King",
+      "year": 2019,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 6.0,
+      "votes": 76474,
+      "tomatometer": 52,
+      "audience_score": 88,
+      "runtime_minutes": 118,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Ww4thWmW3zZkQEN-kxAFagz-ORM=/300x450/v2/https://resizing.flixster.com/HJVz2wWgoDtfWDvX6DT2-bVwFUM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyYWU2MmIwLTE3NDMtNDJlZi04MzQ1LTViNjVjMzA3YTlkMi53ZWJw",
+      "plot": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny on the plains of Africa. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother --…",
+      "directors": [
+        "Jon Favreau"
       ]
     },
     {
@@ -1343,6 +1724,30 @@
       ]
     },
     {
+      "id": "drive_2011",
+      "category": "crime",
+      "type": "movie",
+      "title": "Drive",
+      "original_title": "Drive",
+      "year": 2011,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action"
+      ],
+      "rating": 8.3,
+      "votes": 74944,
+      "tomatometer": 93,
+      "audience_score": 79,
+      "runtime_minutes": 100,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/p803yJTCKGuzEjSOb79BgyhyUAI=/300x450/v2/https://resizing.flixster.com/3fdfZluLLRSURw2fbYgsfqKaWtw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE0ZWFjM2Y1LTYzNTYtNGIwNS1iNGU2LTk0NTA2MGQ3NjY3NC53ZWJw",
+      "plot": "Driver is a skilled Hollywood stuntman who moonlights as a getaway driver for criminals. Though he projects an icy exterior, lately he's been warming up to a pretty neighbor named Irene and her young…",
+      "directors": [
+        "Nicolas Winding Refn"
+      ]
+    },
+    {
       "id": "now_you_see_me",
       "category": "mystery-thriller",
       "type": "movie",
@@ -1411,6 +1816,29 @@
       "plot": "Irving Rosenfeld (Christian Bale) dabbles in forgery and loan-sharking, but when he falls for fellow grifter Sydney Prosser (Amy Adams), things change in a big way. Caught red-handed by FBI agent…",
       "directors": [
         "David O. Russell"
+      ]
+    },
+    {
+      "id": "pride_and_prejudice",
+      "category": "romance",
+      "type": "movie",
+      "title": "Pride & Prejudice",
+      "original_title": "Pride & Prejudice",
+      "year": 2005,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.0,
+      "votes": 72037,
+      "tomatometer": 87,
+      "audience_score": 90,
+      "runtime_minutes": 119,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/AjvytiKwDY2MmHFlHPU2ZQUJCSM=/300x450/v2/https://resizing.flixster.com/x_nl2WNkTAm-VD5YMP-9pWXhsNY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QzM2MyMDBkLWZiYzUtNGI4My1hMTlhLTgxZDkwYzRmMjc3OS5qcGc=",
+      "plot": "In this adaptation of Jane Austen's beloved novel, Elizabeth Bennet (Keira Knightley) lives with her mother, father and sisters in the English countryside. As the eldest, she faces mounting pressure…",
+      "directors": [
+        "Joe Wright"
       ]
     },
     {
@@ -1557,6 +1985,28 @@
       ]
     },
     {
+      "id": "good_will_hunting",
+      "category": "drama",
+      "type": "movie",
+      "title": "Good Will Hunting",
+      "original_title": "Good Will Hunting",
+      "year": 1998,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 68290,
+      "tomatometer": 97,
+      "audience_score": 94,
+      "runtime_minutes": 126,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/AlG4tWTJL6jwcLM9HaYjUNAAa1o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20224_p_v8_aa.jpg",
+      "plot": "Will Hunting (Matt Damon) has a genius-level IQ but chooses to work as a janitor at MIT. When he solves a difficult graduate-level math problem, his talents are discovered by Professor Gerald Lambeau…",
+      "directors": [
+        "Gus Van Sant"
+      ]
+    },
+    {
       "id": "apocalypse_now",
       "category": "war",
       "type": "movie",
@@ -1603,6 +2053,31 @@
       "plot": "Tugg Speedman (Ben Stiller), pampered action superstar, sets out for Southeast Asia to take part in the biggest, most-expensive war movie produced, but soon after filming begins, he and his co-stars,…",
       "directors": [
         "Ben Stiller"
+      ]
+    },
+    {
+      "id": "life-of-pi",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Life of Pi",
+      "original_title": "Life of Pi",
+      "year": 2012,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.9,
+      "votes": 67719,
+      "tomatometer": 86,
+      "audience_score": 84,
+      "runtime_minutes": 125,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/JVjrJWdWQkT60UbuNkCskTFq6_o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9227710_p_v8_af.jpg",
+      "plot": "After deciding to sell their zoo in India and move to Canada, Santosh and Gita Patel board a freighter with their sons and a few remaining animals. Tragedy strikes when a terrible storm sinks the…",
+      "directors": [
+        "Ang Lee"
       ]
     },
     {
@@ -1678,6 +2153,33 @@
       ]
     },
     {
+      "id": "elysium_2013",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Elysium",
+      "original_title": "Elysium",
+      "year": 2013,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure",
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.4,
+      "votes": 66173,
+      "tomatometer": 64,
+      "audience_score": 58,
+      "runtime_minutes": 109,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/9IBLt8IMqbwr5RFof9HJOkefTyk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9360879_p_v8_ar.jpg",
+      "plot": "In 2154, the wealthy live in comfort and luxury aboard a space station, while the poor have a hardscrabble existence on the overpopulated and ruined Earth.",
+      "directors": [
+        "Neill Blomkamp"
+      ]
+    },
+    {
       "id": "captain_phillips",
       "category": "crime",
       "type": "movie",
@@ -1701,6 +2203,30 @@
       "plot": "In April 2009, the U.S. container ship Maersk Alabama sails toward its destination on a day that seems like any other. Suddenly, Somali pirates race toward the vessel, climb aboard and take everyone…",
       "directors": [
         "Paul Greengrass"
+      ]
+    },
+    {
+      "id": "taxi_driver",
+      "category": "crime",
+      "type": "movie",
+      "title": "Taxi Driver",
+      "original_title": "Taxi Driver",
+      "year": 1976,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 9.5,
+      "votes": 64485,
+      "tomatometer": 89,
+      "audience_score": 93,
+      "runtime_minutes": 113,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/g6vUUf8TEBcgO_GAtzX3QM-Pek8=/300x450/v2/https://resizing.flixster.com/39PGj3sXu8dY9N-3Ss4IDLmUUU0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3YmYxNDM4LTZiMWEtNGJkYi04ZmRjLTEyZTNhZWY4NzZhYy5qcGc=",
+      "plot": "Suffering from insomnia, disturbed loner Travis Bickle (Robert De Niro) takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of…",
+      "directors": [
+        "Martin Scorsese"
       ]
     },
     {
@@ -1871,6 +2397,73 @@
       "plot": "Ben Campbell (Jim Sturgess), a brilliant student at Massachusetts Institute of Technology, needs some quick cash to pay his tuition bills. He joins a group of students who, under the leadership of…",
       "directors": [
         "Robert Luketic"
+      ]
+    },
+    {
+      "id": "remember_the_titans",
+      "category": "drama",
+      "type": "movie",
+      "title": "Remember the Titans",
+      "original_title": "Remember the Titans",
+      "year": 2000,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 6.9,
+      "votes": 60834,
+      "tomatometer": 72,
+      "audience_score": 93,
+      "runtime_minutes": 113,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/VHxFV_ZtLpVXTIC0HHufaIVID7k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25848_p_v8_az.jpg",
+      "plot": "In Virginia, high school football is a way of life, an institution revered, each game celebrated more lavishly than Christmas, each playoff distinguished more grandly than any national holiday. And…",
+      "directors": [
+        "Boaz Yakin"
+      ]
+    },
+    {
+      "id": "babel",
+      "category": "drama",
+      "type": "movie",
+      "title": "Babel",
+      "original_title": "Babel",
+      "year": 2006,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 7.1,
+      "votes": 60798,
+      "tomatometer": 68,
+      "audience_score": 77,
+      "runtime_minutes": 142,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/HAZYTq5yXRUAvDY5KyfPE1u5-2Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p161617_p_v10_an.jpg",
+      "plot": "An accident connects four groups of people on three different continents: two young Moroccan goatherds, a vacationing American couple (Brad Pitt, Cate Blanchett), a deaf Japanese teen and her father,…",
+      "directors": [
+        "Alejandro González Iñárritu"
+      ]
+    },
+    {
+      "id": "truman_show",
+      "category": "comedy",
+      "type": "movie",
+      "title": "The Truman Show",
+      "original_title": "The Truman Show",
+      "year": 1998,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "votes": 60529,
+      "tomatometer": 94,
+      "audience_score": 89,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/3JmoajjxX7Bc4ZuNdu-PTtvRz5k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20974_p_v10_aq.jpg",
+      "plot": "He doesn't know it, but everything in Truman Burbank's (Jim Carrey) life is part of a massive TV set. Executive producer Christof (Ed Harris) orchestrates \"The Truman Show,\" a live broadcast of…",
+      "directors": [
+        "Peter Weir"
       ]
     },
     {
@@ -2118,6 +2711,30 @@
       ]
     },
     {
+      "id": "12_years_a_slave",
+      "category": "history",
+      "type": "movie",
+      "title": "12 Years a Slave",
+      "original_title": "12 Years a Slave",
+      "year": 2013,
+      "genres": [
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 9.0,
+      "votes": 55789,
+      "tomatometer": 95,
+      "audience_score": 90,
+      "runtime_minutes": 134,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/CQ-dFhNq6ZISvX2vVQ9Ylt1NNEc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10029562_p_v10_ac.jpg",
+      "plot": "In the years before the Civil War, Solomon Northup (Chiwetel Ejiofor), a free black man from upstate New York, is kidnapped and sold into slavery in the South. Subjected to the cruelty of one…",
+      "directors": [
+        "Steve McQueen"
+      ]
+    },
+    {
       "id": "lucky_number_slevin",
       "category": "crime",
       "type": "movie",
@@ -2236,6 +2853,29 @@
       ]
     },
     {
+      "id": "flight_2012",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Flight",
+      "original_title": "Flight",
+      "year": 2012,
+      "genres": [
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.0,
+      "votes": 52505,
+      "tomatometer": 77,
+      "audience_score": 75,
+      "runtime_minutes": 138,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/GmgZlNP7XT1VEM9PYgn4nn97XK4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9253979_p_v10_aq.jpg",
+      "plot": "Commercial airline pilot Whip Whitaker (Denzel Washington) has a problem with drugs and alcohol, though so far he's managed to complete his flights safely. His luck runs out when a disastrous…",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
       "id": "takers",
       "category": "crime",
       "type": "movie",
@@ -2258,6 +2898,30 @@
       "plot": "Gordon Jennings (Idris Elba) and his friends enjoy a luxurious lifestyle funded by bank robberies, and they avoid capture by sticking to a strict set of rules. As they celebrate the latest job, a…",
       "directors": [
         "John Luessenhop"
+      ]
+    },
+    {
+      "id": "interview_with_the_vampire",
+      "category": "horror",
+      "type": "movie",
+      "title": "Interview With the Vampire",
+      "original_title": "Interview With the Vampire",
+      "year": 1994,
+      "genres": [
+        "Horror",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 6.9,
+      "votes": 52381,
+      "tomatometer": 66,
+      "audience_score": 86,
+      "runtime_minutes": 122,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/cdYJIWkj7qDdeHUKYywYac_bdBY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16165_p_v8_ab.jpg",
+      "plot": "Born as an 18th-century lord, Louis is now a bicentennial vampire, telling his story to an eager biographer. Suicidal after the death of his family, he meets Lestat, a vampire who persuades him to…",
+      "directors": [
+        "Neil Jordan"
       ]
     },
     {
@@ -2695,6 +3359,32 @@
       ]
     },
     {
+      "id": "the_hurt_locker",
+      "category": "war",
+      "type": "movie",
+      "title": "The Hurt Locker",
+      "original_title": "The Hurt Locker",
+      "year": 2009,
+      "genres": [
+        "War",
+        "Drama",
+        "Mystery & Thriller",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.7,
+      "votes": 48244,
+      "tomatometer": 96,
+      "audience_score": 84,
+      "runtime_minutes": 135,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/m7Vaf76Lxo2_TRgapSf2bkp431w=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p197175_p_v10_aa.jpg",
+      "plot": "Staff Sgt. William James (Jeremy Renner), Sgt. J.T. Sanborn (Anthony Mackie) and Specialist Owen Eldridge (Brian Geraghty) are members of a bomb-disposal unit in Baghdad. As their tour of duty enters…",
+      "directors": [
+        "Kathryn Bigelow"
+      ]
+    },
+    {
       "id": "birdman_2014",
       "category": "comedy",
       "type": "movie",
@@ -2981,6 +3671,29 @@
       ]
     },
     {
+      "id": "seven_pounds",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Seven Pounds",
+      "original_title": "Seven Pounds",
+      "year": 2008,
+      "genres": [
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.8,
+      "votes": 46354,
+      "tomatometer": 26,
+      "audience_score": 75,
+      "runtime_minutes": 124,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/6HcDEoia_89Vy7XSMwmH3uPjI7c=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p175217_p_v10_ae.jpg",
+      "plot": "A life-shattering secret torments Ben Thomas (Will Smith). In order to find redemption, he sets out to change the lives of seven strangers. Over the course of his journey, he meets and falls in love…",
+      "directors": [
+        "Gabriele Muccino"
+      ]
+    },
+    {
       "id": "william_shakespeares_romeo_and_juliet",
       "category": "romance",
       "type": "movie",
@@ -3073,6 +3786,31 @@
       "plot": "When Beth Emhoff returns to Minnesota from a Hong Kong business trip, she attributes the malaise she feels to jet lag. However, two days later, Beth is dead, and doctors tell her shocked husband that…",
       "directors": [
         "Steven Soderbergh"
+      ]
+    },
+    {
+      "id": "1098149-patriot",
+      "category": "war",
+      "type": "movie",
+      "title": "The Patriot",
+      "original_title": "The Patriot",
+      "year": 2000,
+      "genres": [
+        "War",
+        "History",
+        "Drama",
+        "Action"
+      ],
+      "rating": 6.4,
+      "votes": 44878,
+      "tomatometer": 61,
+      "audience_score": 81,
+      "runtime_minutes": 165,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Q4oMj5oPLDNInkGmNxLVF51KygI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25745_p_v12_al.jpg",
+      "plot": "Mel Gibson portrays Benjamin Martin, an unassuming man who is forced to join the American Revolution when the British threaten to take his farm away from him. Together with his patriotic son,…",
+      "directors": [
+        "Roland Emmerich"
       ]
     },
     {
@@ -3316,6 +4054,29 @@
       "directors": [
         "Adil El Arbi",
         "Bilall Fallah"
+      ]
+    },
+    {
+      "id": "chocolat",
+      "category": "romance",
+      "type": "movie",
+      "title": "Chocolat",
+      "original_title": "Chocolat",
+      "year": 2001,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 6.5,
+      "votes": 43105,
+      "tomatometer": 63,
+      "audience_score": 83,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/7iuPSd_9AqSNLGoCt2Y3HUaoZw0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26689_p_v8_aa.jpg",
+      "plot": "When mysterious Vianne and her child arrive in a tranquil French town in the winter of 1959, no one could have imagined the impact that she and her spirited daughter would have on the community…",
+      "directors": [
+        "Lasse Hallström"
       ]
     },
     {
@@ -3628,6 +4389,31 @@
       ]
     },
     {
+      "id": "just_like_heaven",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Just Like Heaven",
+      "original_title": "Just Like Heaven",
+      "year": 2005,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 5.8,
+      "votes": 40568,
+      "tomatometer": 54,
+      "audience_score": 75,
+      "runtime_minutes": 95,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/tq-Qtby1ZDxHUQ5Ad8f1ziQa46s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p36303_p_v8_ar.jpg",
+      "plot": "David (Mark Ruffalo) is a recently widowed architect moving into a new apartment in San Francisco. But the apartment isn't entirely empty; it's haunted by the ghost of a woman named Elizabeth (Reese…",
+      "directors": [
+        "Mark Waters"
+      ]
+    },
+    {
       "id": "the_fault_in_our_stars",
       "category": "romance",
       "type": "movie",
@@ -3749,6 +4535,30 @@
       ]
     },
     {
+      "id": "youve_got_mail",
+      "category": "romance",
+      "type": "movie",
+      "title": "You've Got Mail",
+      "original_title": "You've Got Mail",
+      "year": 1998,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 6.9,
+      "votes": 38394,
+      "tomatometer": 69,
+      "audience_score": 73,
+      "runtime_minutes": 119,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/HA4zlDExpaGPiXqxm2lohM-NHLE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22186_p_v11_aq.jpg",
+      "plot": "Struggling boutique bookseller Kathleen Kelly hates Joe Fox, the owner of a corporate Foxbooks chain store that just moved in across the street. When they meet online, however, they begin an intense…",
+      "directors": [
+        "Nora Ephron"
+      ]
+    },
+    {
       "id": "memoirs_of_a_geisha",
       "category": "romance",
       "type": "movie",
@@ -3769,6 +4579,29 @@
       "plot": "In the 1920s, 9-year-old Chiyo gets sold to a geisha house. There, she is forced into servitude, receiving nothing in return until the house's ruling hierarchy determines if she is of high enough…",
       "directors": [
         "Rob Marshall"
+      ]
+    },
+    {
+      "id": "thank_you_for_smoking",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Thank You for Smoking",
+      "original_title": "Thank You for Smoking",
+      "year": 2005,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "votes": 38230,
+      "tomatometer": 86,
+      "audience_score": 87,
+      "runtime_minutes": 92,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/XCtwAVnJ-0E4MXkvTyLmIKz3aNs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159832_p_v8_al.jpg",
+      "plot": "Nick Naylor (Aaron Eckhart), a lobbyist for big tobacco, finds it difficult to balance his duties defending the dangerous substance with those of being a good role model for his young son. Nick's…",
+      "directors": [
+        "Jason Reitman"
       ]
     },
     {
@@ -3794,6 +4627,52 @@
       "plot": "Sebastian (Ryan Gosling) and Mia (Emma Stone) are drawn together by their common desire to do what they love. But as success mounts they are faced with decisions that begin to fray the fragile fabric…",
       "directors": [
         "Damien Chazelle"
+      ]
+    },
+    {
+      "id": "bridge_to_terabithia",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Bridge to Terabithia",
+      "original_title": "Bridge to Terabithia",
+      "year": 2007,
+      "genres": [
+        "Kids & Family",
+        "Fantasy",
+        "Drama"
+      ],
+      "rating": 7.1,
+      "votes": 37867,
+      "tomatometer": 85,
+      "audience_score": 70,
+      "runtime_minutes": 96,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/zcP6Ux1obvtjDMkxV-3CGXejrDI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p163182_p_v8_al.jpg",
+      "plot": "The life of Jesse (Josh Hutcherson), an adolescent, changes when he befriends Leslie (AnnaSophia Robb), the class outsider. The children create an imaginary world called Terabithia, which is…",
+      "directors": [
+        "Gabor Csupo"
+      ]
+    },
+    {
+      "id": "rocky_balboa",
+      "category": "drama",
+      "type": "movie",
+      "title": "Rocky Balboa",
+      "original_title": "Rocky Balboa",
+      "year": 2006,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 6.6,
+      "votes": 37819,
+      "tomatometer": 78,
+      "audience_score": 77,
+      "runtime_minutes": 102,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/op0BfsKTYfYnvGwfEA-EotRefOQ=/300x450/v2/https://resizing.flixster.com/fmEjz8jSpK3QWs3lJdISNE2ziHY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4MmQxYTkzLWViMDMtNDcxYi1hMTg2LWZlZDE5OWIzMjM2Ni5qcGc=",
+      "plot": "Now long-retired, Rocky (Sylvester Stallone) runs a Philadelphia eatery and mourns the loss of his beloved wife, Adrian. Yearning to recapture a bit of his glory days, he plans to re-enter the ring…",
+      "directors": [
+        "Sylvester Stallone"
       ]
     },
     {
@@ -3913,886 +4792,6 @@
       "plot": "In this musical, set at the dawn of the 1990s, a group of New Yorkers struggle with their careers, love lives and the effects of the AIDS epidemic on their community. Mark (Anthony Rapp), an aspiring…",
       "directors": [
         "Chris Columbus"
-      ]
-    },
-    {
-      "id": "the_last_king_of_scotland",
-      "category": "biography",
-      "type": "movie",
-      "title": "The Last King of Scotland",
-      "original_title": "The Last King of Scotland",
-      "year": 2007,
-      "genres": [
-        "Biography",
-        "Drama"
-      ],
-      "rating": 7.6,
-      "votes": 36721,
-      "tomatometer": 87,
-      "audience_score": 89,
-      "runtime_minutes": 121,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/8UwCG2TfShkre7BUQdKH1qqU2OE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162465_p_v8_aa.jpg",
-      "plot": "While in Uganda on a medical mission, Scottish doctor Nicholas Garrigan becomes the personal physician and close confidant of dictator Idi Amin. Although at first Dr. Garrigan feels flattered by his…",
-      "directors": [
-        "Kevin Macdonald"
-      ]
-    },
-    {
-      "id": "sinners_2025",
-      "category": "horror",
-      "type": "movie",
-      "title": "Sinners",
-      "original_title": "Sinners",
-      "year": 2025,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Drama"
-      ],
-      "rating": 8.8,
-      "votes": 36473,
-      "tomatometer": 97,
-      "audience_score": 96,
-      "runtime_minutes": 137,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/4LDoZVwrWDrsUtSN1jtdfV6OPgU=/300x450/v2/https://resizing.flixster.com/VR3Tfr9zpNllsU6RchvnbhGmPkc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhOTdiZDNjLTlmODQtNGNlYi1iZWYwLWNkYjY2YmI5YzZjYS5qcGc=",
-      "plot": "Trying to leave their troubled lives behind, twin brothers (Michael B. Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "directors": [
-        "Ryan Coogler"
-      ]
-    },
-    {
-      "id": "premonition",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Premonition",
-      "original_title": "Premonition",
-      "year": 2007,
-      "genres": [
-        "Mystery & Thriller",
-        "Drama"
-      ],
-      "rating": 4.0,
-      "votes": 36348,
-      "tomatometer": 8,
-      "audience_score": 50,
-      "runtime_minutes": 96,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/EE4W46tyYH9QjUzceS-Vq15xc_0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p163565_p_v13_bj.jpg",
-      "plot": "Linda Hanson (Sandra Bullock) has an idyllic life, until one day she receives word that her husband (Julian McMahon) has died in an auto accident. However, when Linda wakes up the next morning and…",
-      "directors": [
-        "Mennan Yapo"
-      ]
-    },
-    {
-      "id": "creed_2015",
-      "category": "drama",
-      "type": "movie",
-      "title": "Creed",
-      "original_title": "Creed",
-      "year": 2015,
-      "genres": [
-        "Drama"
-      ],
-      "rating": 8.0,
-      "votes": 36242,
-      "tomatometer": 95,
-      "audience_score": 89,
-      "runtime_minutes": 133,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/EXFXZSRljg72MCDuxsIFj_xM4ZQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11491087_p_v8_ad.jpg",
-      "plot": "Adonis Johnson (Michael B. Jordan) never knew his famous father, boxing champion Apollo Creed, who died before Adonis was born. However, boxing is in his blood, so he seeks out Rocky Balboa…",
-      "directors": [
-        "Ryan Coogler"
-      ]
-    },
-    {
-      "id": "funny_people",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Funny People",
-      "original_title": "Funny People",
-      "year": 2009,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "rating": 6.7,
-      "votes": 36104,
-      "tomatometer": 69,
-      "audience_score": 48,
-      "runtime_minutes": 146,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Nw1eyLBinb_Pi6RD8J6wWDMU5S8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p194002_p_v8_ab.jpg",
-      "plot": "Recently learning that he has a fatal disease, comic George Simmons (Adam Sandler) spots a struggling performer named Ira (Seth Rogen) and decides to become his mentor. The men become close friends…",
-      "directors": [
-        "Judd Apatow"
-      ]
-    },
-    {
-      "id": "gangs_of_new_york",
-      "category": "crime",
-      "type": "movie",
-      "title": "Gangs of New York",
-      "original_title": "Gangs of New York",
-      "year": 2002,
-      "genres": [
-        "History",
-        "Drama",
-        "Crime"
-      ],
-      "rating": 7.3,
-      "votes": 35973,
-      "tomatometer": 72,
-      "audience_score": 81,
-      "runtime_minutes": 166,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/1pU6GoqdhsXZjkytV31p5tTvTaM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28877_p_v10_as.jpg",
-      "plot": "Amsterdam Vallon (Leonardo DiCaprio) is a young Irish immigrant released from prison. He returns to the Five Points seeking revenge against his father's killer, William Cutting (Daniel Day-Lewis), a…",
-      "directors": [
-        "Martin Scorsese"
-      ]
-    },
-    {
-      "id": "the_descendants_2011",
-      "category": "romance",
-      "type": "movie",
-      "title": "The Descendants",
-      "original_title": "The Descendants",
-      "year": 2011,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "rating": 8.2,
-      "votes": 35762,
-      "tomatometer": 87,
-      "audience_score": 79,
-      "runtime_minutes": 115,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/aQajQStx53RaC_zbCkyNwV3meIA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8701268_p_v12_aj.jpg",
-      "plot": "Native islander Matt King (George Clooney) lives with his family in Hawaii. Their world shatters when a tragic accident leaves his wife in a coma. Not only must Matt struggle with the stipulation in…",
-      "directors": [
-        "Alexander Payne"
-      ]
-    },
-    {
-      "id": "unstoppable-2010",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Unstoppable",
-      "original_title": "Unstoppable",
-      "year": 2010,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Drama"
-      ],
-      "rating": 6.9,
-      "votes": 35757,
-      "tomatometer": 87,
-      "audience_score": 73,
-      "runtime_minutes": 94,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/5E8xfX7cZkdGuAw9AgjhhnjKNLs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8129775_p_v8_ao.jpg",
-      "plot": "When a massive, unmanned locomotive roars out of control, the threat is more ominous than just a derailment. The train is laden with toxic chemicals, and an accident would decimate human life and…",
-      "directors": [
-        "Tony Scott"
-      ]
-    },
-    {
-      "id": "step_up_2_the_streets",
-      "category": "romance",
-      "type": "movie",
-      "title": "Step Up 2 the Streets",
-      "original_title": "Step Up 2 the Streets",
-      "year": 2008,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "rating": 5.0,
-      "votes": 35639,
-      "tomatometer": 29,
-      "audience_score": 76,
-      "runtime_minutes": 97,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/OdO3FJSR_tTEScLoR-iUenOhbc4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p173591_v_v8_ab.jpg",
-      "plot": "When rebellious street dancer Andie (Briana Evigan) enrolls at the prestigious Maryland School of the Arts, she finds it difficult to adapt. Joining forces with Chase (Robert Hoffman), the hottest…",
-      "directors": [
-        "Jon M. Chu"
-      ]
-    },
-    {
-      "id": "speed_1994",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Speed",
-      "original_title": "Speed",
-      "year": 1994,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Drama"
-      ],
-      "rating": 8.4,
-      "votes": 35604,
-      "tomatometer": 95,
-      "audience_score": 77,
-      "runtime_minutes": 111,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/v7BCLM1An7DTa4VpobMrZ5Kfx3U=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15726_p_v8_aj.jpg",
-      "plot": "Los Angeles police officer Jack (Keanu Reeves) angers retired bomb squad member Howard Payne (Dennis Hopper) by foiling his attempt at taking hostages. In revenge, Payne arms a bus with a bomb that…",
-      "directors": [
-        "Jan de Bont"
-      ]
-    },
-    {
-      "id": "the_big_short",
-      "category": "comedy",
-      "type": "movie",
-      "title": "The Big Short",
-      "original_title": "The Big Short",
-      "year": 2015,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "rating": 7.8,
-      "votes": 35427,
-      "tomatometer": 89,
-      "audience_score": 88,
-      "runtime_minutes": 130,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/wJsFWMyC53vVz0AhB0IWtTc0660=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12157971_p_v13_al.jpg",
-      "plot": "In 2008, Wall Street guru Michael Burry realizes that a number of subprime home loans are in danger of defaulting. Burry bets against the housing market by throwing more than $1 billion of his…",
-      "directors": [
-        "Adam McKay"
-      ]
-    },
-    {
-      "id": "sicario_2015",
-      "category": "crime",
-      "type": "movie",
-      "title": "Sicario",
-      "original_title": "Sicario",
-      "year": 2015,
-      "genres": [
-        "Mystery & Thriller",
-        "Crime",
-        "Drama",
-        "Action"
-      ],
-      "rating": 8.1,
-      "votes": 35369,
-      "tomatometer": 91,
-      "audience_score": 85,
-      "runtime_minutes": 121,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/7O7OztuKJ3NVrEFfLvhVOL4muCg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11539968_p_v8_aa.jpg",
-      "plot": "After rising through the ranks of her male-dominated profession, idealistic FBI agent Kate Macer receives a top assignment. Recruited by mysterious government official Matt Graver, Kate joins a task…",
-      "directors": [
-        "Denis Villeneuve"
-      ]
-    },
-    {
-      "id": "42_2013",
-      "category": "history",
-      "type": "movie",
-      "title": "42",
-      "original_title": "42",
-      "year": 2013,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama"
-      ],
-      "rating": 6.9,
-      "votes": 35260,
-      "tomatometer": 81,
-      "audience_score": 85,
-      "runtime_minutes": 128,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/smZlJy67Nif2-PdtZS1Z7P1WWx4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9491271_p_v8_ai.jpg",
-      "plot": "In 1946, Branch Rickey (Harrison Ford), legendary manager of the Brooklyn Dodgers, defies major league baseball's notorious color barrier by signing Jackie Robinson (Chadwick Boseman) to the team.…",
-      "directors": [
-        "Brian Helgeland"
-      ]
-    },
-    {
-      "id": "dunkirk_2017",
-      "category": "war",
-      "type": "movie",
-      "title": "Dunkirk",
-      "original_title": "Dunkirk",
-      "year": 2017,
-      "genres": [
-        "War",
-        "History",
-        "Drama",
-        "Action"
-      ],
-      "rating": 8.7,
-      "votes": 34968,
-      "tomatometer": 92,
-      "audience_score": 81,
-      "runtime_minutes": 107,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/1seMTuzCnp8gF04udnZKfeOQ4EA=/300x450/v2/https://resizing.flixster.com/Q8brnMSWFLzW9S2nPmfqAYdQRQg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1MWE0NTljLTA3ODgtNDZkYy04NTcwLTgzMzg3ZjRmMzRhNC53ZWJw",
-      "plot": "In May 1940, Germany advanced into France, trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated…",
-      "directors": [
-        "Christopher Nolan"
-      ]
-    },
-    {
-      "id": "secret_window",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Secret Window",
-      "original_title": "Secret Window",
-      "year": 2004,
-      "genres": [
-        "Mystery & Thriller",
-        "Drama"
-      ],
-      "rating": 5.8,
-      "votes": 34873,
-      "tomatometer": 46,
-      "audience_score": 65,
-      "runtime_minutes": 95,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/RE0H_g95XXSdIHVtEWA9PWsbfGg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34136_p_v8_ag.jpg",
-      "plot": "While in the process of an ugly divorce from his wife (Maria Bello), writer Mort Rainey (Johnny Depp) relocates to his remote cabin in upstate New York for solitude. Attempting to recover his mental…",
-      "directors": [
-        "David Koepp"
-      ]
-    },
-    {
-      "id": "1189344-lovely_bones",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Lovely Bones",
-      "original_title": "The Lovely Bones",
-      "year": 2010,
-      "genres": [
-        "Drama",
-        "Mystery & Thriller",
-        "Fantasy"
-      ],
-      "rating": 5.1,
-      "votes": 34815,
-      "tomatometer": 31,
-      "audience_score": 52,
-      "runtime_minutes": 136,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/RkkY2dR6rvLZ_K39rEpIDi27Sa4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176165_p_v8_ag.jpg",
-      "plot": "After being brutally murdered, 14-year-old Susie Salmon (Saoirse Ronan) watches from heaven over her grief-stricken family (Mark Wahlberg, Rachel Weisz) -- and her killer (Stanley Tucci). As she…",
-      "directors": [
-        "Peter Jackson"
-      ]
-    },
-    {
-      "id": "baby_driver",
-      "category": "crime",
-      "type": "movie",
-      "title": "Baby Driver",
-      "original_title": "Baby Driver",
-      "year": 2017,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 8.1,
-      "votes": 34336,
-      "tomatometer": 92,
-      "audience_score": 86,
-      "runtime_minutes": 117,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/995NWluagGJq-fMpewWXghARJQY=/300x450/v2/https://resizing.flixster.com/Vbat7sd_HYgR3_SPcJ3Y8Pcrjl0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QwZmU3ZDZlLTRhMmItNDgxMy04NjM1LWViNmE3ZjkzNjhkNC53ZWJw",
-      "plot": "Talented getaway driver Baby relies on the beat of his personal soundtrack to be the best in the game. After meeting the woman of his dreams, he sees a chance to ditch his shady lifestyle and make a…",
-      "directors": [
-        "Edgar Wright"
-      ]
-    },
-    {
-      "id": "wall_street_money_never_sleeps",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Wall Street: Money Never Sleeps",
-      "original_title": "Wall Street: Money Never Sleeps",
-      "year": 2010,
-      "genres": [
-        "Drama",
-        "Action",
-        "Comedy"
-      ],
-      "rating": 5.9,
-      "votes": 34170,
-      "tomatometer": 54,
-      "audience_score": 44,
-      "runtime_minutes": 130,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/0P46yEfjW2jac2fMj6i-1lbat1E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7880388_p_v12_au.jpg",
-      "plot": "Following a long prison term for insider trading, Gordon Gekko finds himself on the outside looking in at a world he once commanded. Ostensibly hoping to repair his broken relationship with his…",
-      "directors": [
-        "Oliver Stone"
-      ]
-    },
-    {
-      "id": "mud_2013",
-      "category": "adventure",
-      "type": "movie",
-      "title": "Mud",
-      "original_title": "Mud",
-      "year": 2013,
-      "genres": [
-        "Drama",
-        "Adventure"
-      ],
-      "rating": 8.0,
-      "votes": 34161,
-      "tomatometer": 97,
-      "audience_score": 80,
-      "runtime_minutes": 130,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/kqGblcJqEqsbRKi0iMV0AJJc0Tg=/300x450/v2/https://resizing.flixster.com/G_MR70epVodbINHEqMRnGnK45S4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdhNzA3Y2ZkLWZiMDgtNDAxMi05YzFkLTBlZWYwMDg0NTBmYi53ZWJw",
-      "plot": "While exploring a Mississippi River island, Arkansas boys Ellis (Tye Sheridan) and Neckbone (Jacob Lofland) encounter Mud (Matthew McConaughey), a fugitive who needs their help. Though Mud killed a…",
-      "directors": [
-        "Jeff Nichols"
-      ]
-    },
-    {
-      "id": "knives_out",
-      "category": "crime",
-      "type": "movie",
-      "title": "Knives Out",
-      "original_title": "Knives Out",
-      "year": 2019,
-      "genres": [
-        "Mystery & Thriller",
-        "Crime",
-        "Drama",
-        "Comedy"
-      ],
-      "rating": 8.3,
-      "votes": 33941,
-      "tomatometer": 97,
-      "audience_score": 92,
-      "runtime_minutes": 130,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/BzzebKv0T93p-yUcmKWGCcPW_e4=/300x450/v2/https://resizing.flixster.com/9siv752L7VqwwTJVHg1KENr6wlU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhmNTdjMmU2LTczODctNDUzOS05ODhjLWU0MDRhY2M4ZjMxMy53ZWJw",
-      "plot": "The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there's one thing that renowned Detective Benoit Blanc knows for sure -- everyone in the wildly…",
-      "directors": [
-        "Rian Johnson"
-      ]
-    },
-    {
-      "id": "dreamgirls",
-      "category": "musical",
-      "type": "movie",
-      "title": "Dreamgirls",
-      "original_title": "Dreamgirls",
-      "year": 2007,
-      "genres": [
-        "Musical",
-        "Drama"
-      ],
-      "rating": 7.4,
-      "votes": 33822,
-      "tomatometer": 79,
-      "audience_score": 71,
-      "runtime_minutes": 131,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/j7TFdTur4WbvROBAkGJ1Qg_iDn8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162528_p_v10_au.jpg",
-      "plot": "Deena (Beyoncé Knowles), Effie (Jennifer Hudson) and Lorrell (Anika Noni Rose) form a music trio called the Dreamettes. When ambitious manager Curtis Taylor Jr. (Jamie Foxx) spots the act at a talent…",
-      "directors": [
-        "Bill Condon"
-      ]
-    },
-    {
-      "id": "spotlight_2015",
-      "category": "crime",
-      "type": "movie",
-      "title": "Spotlight",
-      "original_title": "Spotlight",
-      "year": 2015,
-      "genres": [
-        "Drama",
-        "Crime",
-        "Action"
-      ],
-      "rating": 8.8,
-      "votes": 33724,
-      "tomatometer": 97,
-      "audience_score": 93,
-      "runtime_minutes": 129,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/7XAjXaqc40HQe18SSLhpnvTfGBk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11897076_p_v7_an.jpg",
-      "plot": "In 2001, editor Marty Baron of The Boston Globe assigns a team of journalists to investigate allegations against John Geoghan, an unfrocked priest accused of molesting more than 80 boys. Led by…",
-      "directors": [
-        "Tom McCarthy"
-      ]
-    },
-    {
-      "id": "rain_man",
-      "category": "drama",
-      "type": "movie",
-      "title": "Rain Man",
-      "original_title": "Rain Man",
-      "year": 1988,
-      "genres": [
-        "Drama"
-      ],
-      "rating": 8.3,
-      "votes": 33694,
-      "tomatometer": 88,
-      "audience_score": 90,
-      "runtime_minutes": 133,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/s4oUCvOHcAeSMEMCruHP2a3MOQs=/300x450/v2/https://resizing.flixster.com/t6dSJuaMoERmIalSxqviItNYK6g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiMzc5ZWNlLTI4OTYtNDBhZS04Njc0LTk2NGJmOGUwYWZiZC5qcGc=",
-      "plot": "When car dealer Charlie Babbitt (Tom Cruise) learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has an autistic older brother named Raymond (Dustin…",
-      "directors": [
-        "Barry Levinson"
-      ]
-    },
-    {
-      "id": "1174278-definitely_maybe",
-      "category": "romance",
-      "type": "movie",
-      "title": "Definitely, Maybe",
-      "original_title": "Definitely, Maybe",
-      "year": 2008,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "rating": 6.7,
-      "votes": 33487,
-      "tomatometer": 71,
-      "audience_score": 72,
-      "runtime_minutes": 111,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/vorWgKnjTKgxEvIvo-iAYe1YCcQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p164697_v_v8_ac.jpg",
-      "plot": "Will Hayes (Ryan Reynolds), a thirtysomething Manhattanite, is in the middle of divorce proceedings when his young daughter (Abigail Breslin) asks him about his life before marriage, including how he…",
-      "directors": [
-        "Adam Brooks"
-      ]
-    },
-    {
-      "id": "lawless_2012",
-      "category": "crime",
-      "type": "movie",
-      "title": "Lawless",
-      "original_title": "Lawless",
-      "year": 2012,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "rating": 6.5,
-      "votes": 33413,
-      "tomatometer": 67,
-      "audience_score": 74,
-      "runtime_minutes": 115,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/6P8yesIYSmxWvQZXAh10I86hDyg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8951853_p_v13_ag.jpg",
-      "plot": "In 1931, the Bondurant brothers of Franklin County, Va., run a multipurpose backwoods establishment that hides their true business, bootlegging. Middle brother Forrest (Tom Hardy) is the brain of the…",
-      "directors": [
-        "John Hillcoat"
-      ]
-    },
-    {
-      "id": "1212910-warrior",
-      "category": "action",
-      "type": "movie",
-      "title": "Warrior",
-      "original_title": "Warrior",
-      "year": 2011,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "rating": 7.3,
-      "votes": 33161,
-      "tomatometer": 84,
-      "audience_score": 92,
-      "runtime_minutes": 139,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/cgHyq0-JnyS0Wq1Ppqu3XrVaT4o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8063104_p_v8_aa.jpg",
-      "plot": "An estranged family finds redemption in the unlikeliest of places: the MMA ring. Tommy (Tom Hardy), an ex-Marine with a tragic past, returns home and enlists his father (Nick Nolte), a recovering…",
-      "directors": [
-        "Gavin O'Connor"
-      ]
-    },
-    {
-      "id": "don_jon",
-      "category": "romance",
-      "type": "movie",
-      "title": "Don Jon",
-      "original_title": "Don Jon",
-      "year": 2013,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
-      ],
-      "rating": 6.8,
-      "votes": 33003,
-      "tomatometer": 80,
-      "audience_score": 58,
-      "runtime_minutes": 89,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/mQz4Twi79CB3PY2_JsnzJRW_Xls=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9720749_p_v8_aa.jpg",
-      "plot": "New Jersey bartender Jon Martello knows what's important: his friends, his family, his car, his church, his sexual conquests -- and porn. In fact, Jon is a porn addict and has never had a genuine…",
-      "directors": [
-        "Joseph Gordon-Levitt"
-      ]
-    },
-    {
-      "id": "1133499-1133499-terminal",
-      "category": "comedy",
-      "type": "movie",
-      "title": "The Terminal",
-      "original_title": "The Terminal",
-      "year": 2004,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "rating": 6.4,
-      "votes": 32973,
-      "tomatometer": 61,
-      "audience_score": 73,
-      "runtime_minutes": 128,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/yF0I8QBB0_DMqXPWHwkhKBEvM1Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34621_p_v13_bc.jpg",
-      "plot": "When Viktor Navorski (Tom Hanks), an Eastern European tourist, arrives at JFK in New York, war breaks out in his country, and he finds himself caught up in international politics. Because of the war,…",
-      "directors": [
-        "Steven Spielberg"
-      ]
-    },
-    {
-      "id": "next",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Next",
-      "original_title": "Next",
-      "year": 2007,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Adventure",
-        "Mystery & Thriller",
-        "Drama"
-      ],
-      "rating": 4.7,
-      "votes": 32852,
-      "tomatometer": 28,
-      "audience_score": 53,
-      "runtime_minutes": 96,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/5j_3f4p7MpPVwEFTJtenHZaItzU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p166715_p_v7_am.jpg",
-      "plot": "Blessed, or cursed, with the ability to see events minutes before they occur, Cris Johnson (Nicolas Cage) earns a living as a magician in Las Vegas and keeps a low profile under an alias. When…",
-      "directors": [
-        "Lee Tamahori"
-      ]
-    },
-    {
-      "id": "sinister_2012",
-      "category": "horror",
-      "type": "movie",
-      "title": "Sinister",
-      "original_title": "Sinister",
-      "year": 2012,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 6.3,
-      "votes": 32850,
-      "tomatometer": 64,
-      "audience_score": 62,
-      "runtime_minutes": 109,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/qm0nTtF6sj5SaWKHP0wk0cycXqg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9086074_p_v12_aj.jpg",
-      "plot": "True-crime writer Ellison Oswald is in a slump; he hasn't had a bestseller in more than 10 years and is becoming increasingly desperate for a hit. So, when he discovers the existence of a snuff film…",
-      "directors": [
-        "Scott Derrickson"
-      ]
-    },
-    {
-      "id": "i_am_sam",
-      "category": "drama",
-      "type": "movie",
-      "title": "I Am Sam",
-      "original_title": "I Am Sam",
-      "year": 2002,
-      "genres": [
-        "Drama"
-      ],
-      "rating": 5.3,
-      "votes": 32824,
-      "tomatometer": 35,
-      "audience_score": 86,
-      "runtime_minutes": 132,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/-EfKSNinm7kKH6N_8WoIxFGqun4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29041_p_v8_am.jpg",
-      "plot": "\"I Am Sam\" is the compelling story of Sam Dawson (Sean Penn), a mentally-challenged father raising his daughter Lucy (Dakota Fanning) with the help of a unique group of friends. As Lucy turns seven…",
-      "directors": [
-        "Jessie Nelson"
-      ]
-    },
-    {
-      "id": "honey",
-      "category": "romance",
-      "type": "movie",
-      "title": "Honey",
-      "original_title": "Honey",
-      "year": 2003,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "rating": 4.3,
-      "votes": 32401,
-      "tomatometer": 19,
-      "audience_score": 71,
-      "runtime_minutes": 93,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/--ZmjwnJdhM-avUSuJY5dG4rqyw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32735_p_v10_ab.jpg",
-      "plot": "Honey Daniels (Jessica Alba) dreams of making a name for herself as a hip-hop choreographer. When she's not busy hitting downtown clubs with her friends, she teaches dance classes at a nearby…",
-      "directors": [
-        "Bille Woodruff"
-      ]
-    },
-    {
-      "id": "other_boleyn_girl",
-      "category": "history",
-      "type": "movie",
-      "title": "The Other Boleyn Girl",
-      "original_title": "The Other Boleyn Girl",
-      "year": 2008,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 5.5,
-      "votes": 32207,
-      "tomatometer": 43,
-      "audience_score": 62,
-      "runtime_minutes": 115,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/hX6uH3rmzRWL5Boce48Ate2y2sU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p168185_p_v12_au.jpg",
-      "plot": "King Henry VIII (Eric Bana) lacks an heir. Seeing this as an opportunity for personal gain, the Duke of Norfolk (David Morrissey) and Sir Thomas Boleyn (Mark Rylance) persuade Thomas' daughter Anne…",
-      "directors": [
-        "Justin Chadwick"
-      ]
-    },
-    {
-      "id": "the_place_beyond_the_pines_2012",
-      "category": "crime",
-      "type": "movie",
-      "title": "The Place Beyond the Pines",
-      "original_title": "The Place Beyond the Pines",
-      "year": 2013,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Mystery & Thriller"
-      ],
-      "rating": 7.3,
-      "votes": 31968,
-      "tomatometer": 79,
-      "audience_score": 75,
-      "runtime_minutes": 140,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/2Yw48QDlh-z60t-a0O3acXBxpKo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9465453_p_v8_ak.jpg",
-      "plot": "In upstate New York, two men (Ryan Gosling, Bradley Cooper), and later, their sons (Dane DeHaan, Emory Cohen) must deal with the unforeseen consequences of their actions.",
-      "directors": [
-        "Derek Cianfrance"
-      ]
-    },
-    {
-      "id": "immortals_2011",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Immortals",
-      "original_title": "Immortals",
-      "year": 2011,
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Action",
-        "Drama",
-        "Romance"
-      ],
-      "rating": 5.4,
-      "votes": 31439,
-      "tomatometer": 50,
-      "audience_score": 49,
-      "runtime_minutes": 110,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/JuJESFNgYqUrRKmRXgTBhPjL67Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8615831_p_v8_ak.jpg",
-      "plot": "Power-hungry King Hyperion (Mickey Rourke) and his ruthless army march across Greece, leaving burned-out villages and the corpses of the innocent in their wake. Hyperion's goal is to find the…",
-      "directors": [
-        "Tarsem Singh"
-      ]
-    },
-    {
-      "id": "the_artist",
-      "category": "romance",
-      "type": "movie",
-      "title": "The Artist",
-      "original_title": "The Artist",
-      "year": 2011,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "rating": 8.8,
-      "votes": 31370,
-      "tomatometer": 95,
-      "audience_score": 87,
-      "runtime_minutes": 100,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/dSnkLIhV7OjWI3KJ6whl6EJJF5s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8725913_p_v8_aa.jpg",
-      "plot": "In the 1920s, actor George Valentin (Jean Dujardin) is a bona fide matinée idol with many adoring fans. While working on his latest film, George finds himself falling in love with an ingénue named…",
-      "directors": [
-        "Michel Hazanavicius"
-      ]
-    },
-    {
-      "id": "it_chapter_two",
-      "category": "horror",
-      "type": "movie",
-      "title": "It: Chapter Two",
-      "original_title": "It: Chapter Two",
-      "year": 2019,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Drama",
-        "Fantasy"
-      ],
-      "rating": 6.2,
-      "votes": 31088,
-      "tomatometer": 62,
-      "audience_score": 78,
-      "runtime_minutes": 169,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ouAq0r9iwOcKydXgqYAU2IhnC4s=/300x450/v2/https://resizing.flixster.com/wZLj6nxr6zR2O58bAJZ_ZSizoW8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwZWJjNzc0LTY4YzAtNDAzZC1iOWExLTkyZTU3NTc3NDNjNy53ZWJw",
-      "plot": "Defeated by members of the Losers' Club, the evil clown Pennywise returns 27 years later to terrorize the town of Derry, Maine, once again. Now adults, the childhood friends have long since gone…",
-      "directors": [
-        "Andy Muschietti"
       ]
     }
   ]

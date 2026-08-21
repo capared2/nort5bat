@@ -1,8 +1,31 @@
 {
   "genre": "nature",
   "name": "Nature",
-  "count": 10,
+  "count": 13,
   "titles": [
+    {
+      "id": "the_story_of_everything",
+      "category": "nature",
+      "type": "movie",
+      "title": "The Story of Everything",
+      "original_title": "The Story of Everything",
+      "year": 2026,
+      "genres": [
+        "Documentary",
+        "Nature"
+      ],
+      "rating": null,
+      "votes": 557,
+      "tomatometer": null,
+      "audience_score": 92,
+      "runtime_minutes": 105,
+      "certificate": "Apr 2026",
+      "poster": "https://resizing.flixster.com/mQjGvgbvpm5iOThQHqA-f-nf3Qw=/300x450/v2/https://resizing.flixster.com/iF3SzI4i1g6a7Ibr6GGtmk2ODnk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzllNzc2NzJkLTA3MzktNDA4Yi04NGY5LWVmYWI1NzBlNWUyOC5wbmc=",
+      "plot": "The Story of Everything is a cinematic exploration of the cosmos that reveals the hidden hand behind our universe. From the precise laws that govern the stars to the intricate patterns found in every…",
+      "directors": [
+        "Eric Esau"
+      ]
+    },
     {
       "id": "every_little_thing_2024",
       "category": "nature",
@@ -213,6 +236,52 @@
       "plot": "The sequel to American Humane's award-winning documentary, Escape from Extinction, introduces rewilding--a proven method for sustainable conservation that has the potential to bring back hundreds of…",
       "directors": [
         "Matthew R. Brady"
+      ]
+    },
+    {
+      "id": "been_here_stay_here",
+      "category": "nature",
+      "type": "movie",
+      "title": "Been Here Stay Here",
+      "original_title": "Been Here Stay Here",
+      "year": null,
+      "genres": [
+        "Documentary",
+        "Nature"
+      ],
+      "rating": 7.9,
+      "votes": 10,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 86,
+      "certificate": "May 2026",
+      "poster": "https://resizing.flixster.com/J3GrZhWkf4-Yby7OVS_M7_n5Nak=/300x450/v2/https://resizing.flixster.com/wPCR3uO31IcMnUN7jFGwUJo7yC4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1ZmRiZjczLTRkZDktNDg0Yy04YWJmLWU3YzY5NDk0MWIyOC5qcGc=",
+      "plot": "Through intimate cinema verité, BEEN HERE STAY HERE, explores the quiet yet profound crisis unfolding on Tangier Island, where climate change isn't an abstract concept but a daily reality threatening…",
+      "directors": [
+        "David Usui"
+      ]
+    },
+    {
+      "id": "river_of_grass_2025",
+      "category": "nature",
+      "type": "movie",
+      "title": "River of Grass",
+      "original_title": "River of Grass",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Nature"
+      ],
+      "rating": 8.0,
+      "votes": 2,
+      "tomatometer": 100,
+      "audience_score": null,
+      "runtime_minutes": 83,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/ovx0iBBLPa5CmMezajXXgSST_Ek=/300x450/v2/https://resizing.flixster.com/ysyFfahnWqxuVi8eHZ4KZunh1jk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkNWE3M2U1LTk1ODItNGEzZC04ZTY5LTk3ZjlhYzIzNDRmMy5qcGc=",
+      "plot": "RIVER OF GRASS is a present-day reimagining of Marjory Stoneman Douglas's groundbreaking book, \"The Everglades: River of Grass,\" (1947), which transformed the public's understanding of the area from…",
+      "directors": [
+        "Sasha Wortzel"
       ]
     },
     {

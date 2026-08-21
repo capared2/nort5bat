@@ -1,8 +1,8 @@
 {
   "genre": "adventure",
   "part": 1,
-  "count": 33,
-  "updated_at": "2026-08-21T08:02:06.688318Z",
+  "count": 58,
+  "updated_at": "2026-08-21T14:08:44.530096Z",
   "titles": [
     {
       "id": "1001425-aviator",
@@ -111,6 +111,562 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T07:46:04.728249Z"
+    },
+    {
+      "id": "1009517-hercules",
+      "url": "https://www.rottentomatoes.com/m/1009517-hercules",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Hercules",
+      "original_title": "Hercules",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1959,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 107,
+      "certificate": "G",
+      "rating": 4.9,
+      "votes": 119,
+      "tomatometer": 38,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": 43,
+      "audience_count": 51,
+      "metascore": null,
+      "plot": "After the quick thinking of Hercules saves Princess Iole, he is tasked with training her irresponsible brother, Iphitus, to assume their father's place as king. Hercules falls for the beautiful Iole, but must perform a series of grueling tasks when Iphitus is killed in a tragic accident. When the mysterious Jason appears and claims to be the rightful king, he, Hercules and the Argonauts set sail for the legendary Golden Fleece.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/n34VZpMt74YRNkrZuJWCRc2PH5Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p157_p_v8_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/n34VZpMt74YRNkrZuJWCRc2PH5Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p157_p_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1UebCThQhrYMZN8Hz8xZFx7bf4Q=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p157_i_h11_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/QuvWSxF-qtDTDxjetUBFqLmkkhU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p157_v_v8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/VHVTtImmNQ-qktDDmQt5HDA1-jM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p157_p_v10_ab.jpg",
+          "caption": "Hercules (1959)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-1nIVIr3y3QPJjcmjpu4C-sj44I=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p157_p_v8_ab.jpg",
+          "caption": "Hercules (1959)"
+        },
+        {
+          "url": "https://resizing.flixster.com/eAGy-9xsZ5ZW7KAyQIKSEPCWNC4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p157_i_h11_aa.jpg",
+          "caption": "Hercules (1959)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "pietro_francisci",
+          "name": "Pietro Francisci"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "steve_reeves",
+          "name": "Steve Reeves",
+          "character": "",
+          "image": "https://resizing.flixster.com/f6TBDjdAazKtSQLNYcQIDoHsQSs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/60413_v9_ba.jpg"
+        },
+        {
+          "id": "sylva_koscina",
+          "name": "Sylva Koscina",
+          "character": "",
+          "image": "https://resizing.flixster.com/90FfRm72w__IGYqNPIolBq5Lb9k=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/61242_v9_ba.jpg"
+        },
+        {
+          "id": "fabrizio_mioni",
+          "name": "Fabrizio Mioni",
+          "character": "",
+          "image": "https://resizing.flixster.com/fCUYu1y2xoZvKe0ZS0yQGxGje5E=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/88105_v9_aa.jpg"
+        },
+        {
+          "id": "ivo_garrani",
+          "name": "Ivo Garrani",
+          "character": "",
+          "image": "https://resizing.flixster.com/SulI4foV8K5ybDcQL_YFOMotUX8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72829_v9_aa.jpg"
+        },
+        {
+          "id": "arturo_dominici",
+          "name": "Arturo Dominici",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:53:52.710608Z"
+    },
+    {
+      "id": "1011512-kidnapped",
+      "url": "https://www.rottentomatoes.com/m/1011512-kidnapped",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Kidnapped",
+      "original_title": "Kidnapped",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1971,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 100,
+      "certificate": "G",
+      "rating": 6.1,
+      "votes": 42,
+      "tomatometer": 100,
+      "tomatometer_count": 5,
+      "tomatometer_certified": false,
+      "audience_score": 40,
+      "audience_count": 13,
+      "metascore": null,
+      "plot": "Robert Louis Stevenson's hero David Balfour (Lawrence Douglas) joins rebel Alan Breck Stewart (Michael Caine) in 18th-century Scotland.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/NcvJl62k42ay1l10Bu9Xj82rCPs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39982_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/NcvJl62k42ay1l10Bu9Xj82rCPs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39982_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/i-cYtxRyR8wJd09k8LbCFEBEO-A=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39982_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/zC6XcGD8U068fd0NToOfz2JrScI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39982_v_v12_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/TOXdlHMDuzdZWvLOQ8K9EqCAL1Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39982_i_h10_ab.jpg",
+          "caption": "Kidnapped (1971)"
+        },
+        {
+          "url": "https://resizing.flixster.com/gGeHwwH1lHFgzRYTIcUC7Diqo2U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39982_p_v10_aa.jpg",
+          "caption": "Kidnapped (1971)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-FRj4Z53UZ8OHKCKKf8Fde_owC8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p39982_p_v8_aa.jpg",
+          "caption": "Kidnapped (1971)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "delbert_mann",
+          "name": "Delbert Mann"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "michael_caine",
+          "name": "Michael Caine",
+          "character": "",
+          "image": "https://resizing.flixster.com/ZO7oU6vTb1a5BQyJzkUput-O-MQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/259_v9_bd.jpg"
+        },
+        {
+          "id": "lawrence_douglas",
+          "name": "Lawrence Douglas",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "trevor_howard",
+          "name": "Trevor Howard",
+          "character": "",
+          "image": "https://resizing.flixster.com/GNK1taqvIAWPVcCX1YbwHnkPkr8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/80844_v9_ba.jpg"
+        },
+        {
+          "id": "jack_hawkins",
+          "name": "Jack Hawkins",
+          "character": "",
+          "image": "https://resizing.flixster.com/nr6IUoVXXQ2EKsW00yGP32fqJA8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75356_v9_ba.jpg"
+        },
+        {
+          "id": "donald_pleasence",
+          "name": "Donald Pleasence",
+          "character": "",
+          "image": "https://resizing.flixster.com/gBx3L2W_Z_Alx8WxFyNcYx9QgHU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1368_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DPND7GN4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:53:51.432556Z"
+    },
+    {
+      "id": "1032182-white_fang",
+      "url": "https://www.rottentomatoes.com/m/1032182-white_fang",
+      "category": "adventure",
+      "type": "movie",
+      "title": "White Fang",
+      "original_title": "White Fang",
+      "genres": [
+        "Kids & Family",
+        "Adventure"
+      ],
+      "year": 1991,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 109,
+      "certificate": "PG",
+      "rating": 6.1,
+      "votes": 1432,
+      "tomatometer": 71,
+      "tomatometer_count": 21,
+      "tomatometer_certified": false,
+      "audience_score": 63,
+      "audience_count": 473,
+      "metascore": null,
+      "plot": "This adaptation of Jack London's wilderness tale focuses on young Jack Conroy (Ethan Hawke), who has arrived in Alaska to search for a gold mine. When Jack encounters White Fang, a dog/wolf hybrid who has been cruelly treated by his owner, Beauty Smith (James Remar), he rescues the canine from the jaws of death during a fight with a fierce bulldog. Aided by his friend Alex Larson (Klaus Maria Brandauer), Jack nurses White Fang back to health, and the animal becomes a close companion to the men.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/M64dwBk8JV0vGdIytjo4ftpzeYA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12976_p_v10_ap.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/M64dwBk8JV0vGdIytjo4ftpzeYA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12976_p_v10_ap.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/UZat5GQhN5eTypbwVGh2LEaX7bM=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12976_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/QhxOOcikXu_M8sYPdfBni181lRw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12976_v_v11_at.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/EiUqwqiDL4W-XoP7Q1m18yB-W0c=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12976_p_v10_ap.jpg",
+          "caption": "White Fang (1991)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Shr4iQY0I7aA-e_vR50vzMVTqnw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12976_p_v8_aa.jpg",
+          "caption": "White Fang (1991)"
+        },
+        {
+          "url": "https://resizing.flixster.com/xTBunIbr3YGUy7Mq9BJZY6GRvtg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12976_i_h10_aa.jpg",
+          "caption": "White Fang (1991)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "randal_kleiser",
+          "name": "Randal Kleiser"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "klaus_maria_brandauer",
+          "name": "Klaus Maria Brandauer",
+          "character": "",
+          "image": "https://resizing.flixster.com/RdBjI0WYSydmN8WW6BsldVCTAD0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37278_v9_bb.jpg"
+        },
+        {
+          "id": "ethan_hawke",
+          "name": "Ethan Hawke",
+          "character": "",
+          "image": "https://resizing.flixster.com/9RX2RyLiKKdblJX6q3aJBs0fHNQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/20237_v9_bb.jpg"
+        },
+        {
+          "id": "seymour_cassel",
+          "name": "Seymour Cassel",
+          "character": "",
+          "image": "https://resizing.flixster.com/2g5IMpUJ1NghAiJCQVATMmhroUQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/58594_v9_ba.jpg"
+        },
+        {
+          "id": "susan_hogan",
+          "name": "Susan Hogan",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "james_remar",
+          "name": "James Remar",
+          "character": "",
+          "image": "https://resizing.flixster.com/pKPmClXas1zw5HFajIuyS7q0uuM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/29306_v9_bc.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/White-Fang/24717?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:48.676749Z"
+    },
+    {
+      "id": "1097046-dinosaur",
+      "url": "https://www.rottentomatoes.com/m/1097046-dinosaur",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Dinosaur",
+      "original_title": "Dinosaur",
+      "genres": [
+        "Kids & Family",
+        "Adventure"
+      ],
+      "year": 2000,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 82,
+      "certificate": "PG",
+      "rating": 6.3,
+      "votes": 4695,
+      "tomatometer": 65,
+      "tomatometer_count": 121,
+      "tomatometer_certified": false,
+      "audience_score": 48,
+      "audience_count": 1513,
+      "metascore": null,
+      "plot": "This is the story of Aladar, an iguanodon dinosaur raised by a family of lemurs. Their world is turned upside-down however, when meteors strike, turning their green world into a desert wasteland. Teaming up with a herd of other herbivores, the trek is on to find the \"Nesting Ground\" where water and vegetation are bountiful... but with carnivores behind them and nothing but desert around for miles, it doesn't look promising!",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/ubFpPZADW2-07zQkU2xm_lCrWGY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24980_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/ubFpPZADW2-07zQkU2xm_lCrWGY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24980_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gtgzOEfh38EX-erYoBDlggMlym0=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24980_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/UEaxVEappT77ZZM2PUVz817o-5c=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23555_ae.jpg",
+          "caption": "A pteranodon soars through a field of grazing dinosaurs in this impressive shot from the opening sequence of Disney's Dinosaur"
+        },
+        {
+          "url": "https://resizing.flixster.com/Uq-aFoMMEUhZ8R-V6uKAEbe9Cc4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23555_af.jpg",
+          "caption": "Aladar, a compassionate iguanodon, gives a boost to his ailing travel-mate, a styrachosaur named Eema, as they trek across the arid desert in Disney's Dinosaur"
+        },
+        {
+          "url": "https://resizing.flixster.com/DQLhemDIkd7bIboZOm4eIt26UOI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23555_ag.jpg",
+          "caption": "Aladar confronts the herd's leader, Kron (right), and his lieutenant, Bruton, as they push the herd relentlessly to their nesting ground in Disney's Dinosaur"
+        },
+        {
+          "url": "https://resizing.flixster.com/4cZ6RB7tEuqo05-kdQc5ygjKAEA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23555_ah.jpg",
+          "caption": "Iguanodons Aladar (left) and Neera discover a mutual attraction as they face the hardships of a trek across the arid desert in Disney's Dinosaur"
+        },
+        {
+          "url": "https://resizing.flixster.com/7G3MRM0eFawB7CHpQ9l8JJe03yM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23555_ab.jpg",
+          "caption": "Two lemurs cautiously watch as a baby dinosaur hatches from its egg in Disney's Dinosaur"
+        },
+        {
+          "url": "https://resizing.flixster.com/lFTpW626kHDAqzPXVE9LbybaSCo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23555_ac.jpg",
+          "caption": "After being left behind by the herd, a group of \"misfit\" dinosaurs finds an alternate route to the lush green nesting grounds"
+        },
+        {
+          "url": "https://resizing.flixster.com/T3T-y9P3tAu7nBuZGJgYXWvOHvg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23555_ad.jpg",
+          "caption": "A brachiosaur named Baylene (top right) and her styrachosaur pal, Eema (bottom left), join iguanodon Aladar (bottom right) and little Url (center) during their trek across an evolving landscape"
+        },
+        {
+          "url": "https://resizing.flixster.com/e08rPVrbfK_hhV37N633QPt2fwo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23555_am.jpg",
+          "caption": "A herd of migrating dinosaurs, including iguanodons Aladar (center right) and Neera, watch in fear as a rampaging carnotaur approaches in Disney's Dinosaur"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "eric-leighton",
+          "name": "Eric Leighton"
+        },
+        {
+          "id": "ralph-zondag",
+          "name": "Ralph Zondag"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dinosaur/19672?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:45.561007Z"
+    },
+    {
+      "id": "1110288-count_of_monte_cristo",
+      "url": "https://www.rottentomatoes.com/m/1110288-count_of_monte_cristo",
+      "category": "adventure",
+      "type": "movie",
+      "title": "The Count of Monte Cristo",
+      "original_title": "The Count of Monte Cristo",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 2002,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 131,
+      "certificate": "PG-13",
+      "rating": 6.8,
+      "votes": 20138,
+      "tomatometer": 74,
+      "tomatometer_count": 142,
+      "tomatometer_certified": false,
+      "audience_score": 88,
+      "audience_count": 8315,
+      "metascore": null,
+      "plot": "The classic story of an innocent man wrongly, but deliberately imprisoned and his brilliant strategy for revenge against those who betrayed him. Dashing young sailor Edmond Dantes is a guileless and honest young man whose peaceful life and plans to marry the beautiful Mercedes are abruptly shattered when his best friend Fernand, who wants Mercedes for himself, deceives him.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/t-z3hebT-r7azOIjbJCi-e11yKw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27461_p_v10_af.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/t-z3hebT-r7azOIjbJCi-e11yKw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27461_p_v10_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bV9nVumdFjT7gVojVaC1OmsmmUs=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/636/551/thumb_E8181EAE-84BF-4CAF-95AB-40A8C8DD6AD7.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/emaAvZRmVjd2SyZ29tZMmnxZFyw=/fit-in/705x460/v2/https://resizing.flixster.com/u1wNtsO1mfciz_CyT9DIz4UgDdU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzllN2EzZDgzLTlmNzctNDE4NC1iZjZhLTkwZDQwZjVjMmRhZS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sIXR6TqNR85yDoh8Qn0q5xovL_o=/fit-in/705x460/v2/https://resizing.flixster.com/ESK9Mk87pzfYB4tHSN947gTtRuc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MxYTRjNDVhLTJiNmQtNDgwNS05YTk2LWJmYmJlNTk2MzQ2NS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/KprLkHYx5GmmHVBcQnRKXQb2vUM=/fit-in/705x460/v2/https://resizing.flixster.com/teY0SPnJnfcVijsiNwirj_HJuVY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyYjYyOWVkLWE5Y2MtNDZiMi04ZjJkLTQyYzNlZDZmYTUxNy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/orrB17KStpnGv0fdsEAp1sCdusU=/fit-in/705x460/v2/https://resizing.flixster.com/Gl2KzVGYVARcZOz3girYvWAHMuM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4MzU1NDZlLTVhZmYtNGE3OC1iZDlhLTcwYjk2NzdhYWIyOS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Gr61G6cCtn7SQfJhuoLT51clS1s=/fit-in/705x460/v2/https://resizing.flixster.com/vdJFvXA6jpMKbKubYGEXKXbdzBs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVlZDRmMTAzLTA1ZjQtNGM5Mi1hOTNmLTI1ZWM3MTNkNmEwNC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/KrHsvzZY8mPF_v0mJka_uEfde_0=/fit-in/705x460/v2/https://resizing.flixster.com/xXKu47U96AHucgHJ4A5gXWXuwfc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0NWM4ZTI3LTY5MzEtNDZhMS05MDE2LTMyMDkxNDA1NTA2MS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/arHflZoFsDSrEFO9x9D_yd6JfX4=/fit-in/705x460/v2/https://resizing.flixster.com/pSOku2h77HxlXDj-hsKt86koRns=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EwZjU1ZjVlLWExMDYtNDI5Ni1hYzRkLWFlNzUwN2UxYzZhYy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tIKBY_R0AAYlJ0pObo8j0ksA3TI=/fit-in/705x460/v2/https://resizing.flixster.com/SZaaCaWaEqXF0PCgbebfc-L1VMI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M5MDRhM2RmLWMxZWUtNDQ3Yy1iYjU5LTRjYTlhNWMzYzg1YS53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "1IzMhvE3G_EG",
+        "title": "The Count of Monte Cristo: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/636/551/thumb_E8181EAE-84BF-4CAF-95AB-40A8C8DD6AD7.jpg",
+        "seconds": 109,
+        "src": "https://link.theplatform.com/s/NGweTC/media/1IzMhvE3G_EG?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "kevin_reynolds",
+          "name": "Kevin Reynolds"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "jim_caviezel",
+          "name": "Jim Caviezel",
+          "character": "",
+          "image": "https://resizing.flixster.com/a6duGXl3trmgtGURZyEHl4EBfIw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/162500_v9_bc.jpg"
+        },
+        {
+          "id": "guy_pearce",
+          "name": "Guy Pearce",
+          "character": "",
+          "image": "https://resizing.flixster.com/aQlG57_JuhWZTa5vXBaUWytAjAY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74054_v9_bc.jpg"
+        },
+        {
+          "id": "dagmara_dominczyk",
+          "name": "Dagmara Domińczyk",
+          "character": "",
+          "image": "https://resizing.flixster.com/yDL_8W7Wz_iVfCe8gDb8C1TW098=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0034ZRJP.jpg"
+        },
+        {
+          "id": "richard_harris",
+          "name": "Richard Harris",
+          "character": "",
+          "image": "https://resizing.flixster.com/L0JlZq5A73Jp7S1aLtvyBnCXfWw=/120x150/v2/https://resizing.flixster.com/V-Wd3N6IXWQL9FGdEL37k0PlaRY=/ems.ZW1zLXByZC1hc3NldHMvY2VsZWJyaXRpZXMvOTg3NzEyODYtNDg0Ny00MzRmLThmNjItYTc3MTRlOGI5Y2Q3LmpwZw=="
+        },
+        {
+          "id": "luis_guzman",
+          "name": "Luis Guzmán",
+          "character": "",
+          "image": "https://resizing.flixster.com/2hW2YEJri-IzriSzC9I-JNOLQ_8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0030Y4WN.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Count-of-Monte-Cristo/27618?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:40:25.629866Z"
     },
     {
       "id": "1147812-warrior",
@@ -485,7 +1041,115 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T07:12:44.860453Z"
+      "scraped_at": "2026-08-21T13:14:57.956626Z"
+    },
+    {
+      "id": "around_the_world_under_the_sea",
+      "url": "https://www.rottentomatoes.com/m/around_the_world_under_the_sea",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Around the World Under the Sea",
+      "original_title": "Around the World Under the Sea",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1966,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 117,
+      "certificate": "G",
+      "rating": 4.0,
+      "votes": 17,
+      "tomatometer": 20,
+      "tomatometer_count": 5,
+      "tomatometer_certified": false,
+      "audience_score": 24,
+      "audience_count": 7,
+      "metascore": null,
+      "plot": "After seismic activity on Earth increases, a group of scientists travels across the world to plant monitors on the ocean floor at different points so they can detect coming earthquakes. The crew, led by Dr. Standish (Lloyd Bridges) and Dr. Mosby (Brian Kelly), frequently has to overcome disasters and sea predators. There is also personal tension on the ship, mostly due to the wandering attention of the beautiful but flirtatious Dr. Maggie Hanford (Shirley Eaton).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/mTCvp3_hqR7139TOSIzbS80DoPU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4084_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/mTCvp3_hqR7139TOSIzbS80DoPU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4084_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/RsMayrmS9wf19Wh6MN9grhASkBc=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4084_i_h8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fZjKzHhsQzRgRezuN3OfhgJ8ANU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4084_p_v10_aa.jpg",
+          "caption": "Around the World Under the Sea (1966)"
+        },
+        {
+          "url": "https://resizing.flixster.com/K5m-y4QE5M-qwWOcC46jC1OZ3I8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4084_p_v8_aa.jpg",
+          "caption": "Around the World Under the Sea (1966)"
+        },
+        {
+          "url": "https://resizing.flixster.com/C-ub90NOoPgoQUGX4Dl8uWq_9vA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4084_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sywm9lTwN9gnZy6nKSjuuWga-WM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4084_i_h8_ac.jpg",
+          "caption": "Around the World Under the Sea (1966)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "andrew_marton",
+          "name": "Andrew Marton"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "lloyd_bridges",
+          "name": "Lloyd Bridges",
+          "character": "",
+          "image": "https://resizing.flixster.com/QtQGHbXNzNyL5xXFNIFjeU9EEC8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/39973_v9_ba.jpg"
+        },
+        {
+          "id": "shirley_eaton",
+          "name": "Shirley Eaton",
+          "character": "",
+          "image": "https://resizing.flixster.com/Mr_Af9UXGDeQ36Wu551o4sOn04Y=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77906_v9_bb.jpg"
+        },
+        {
+          "id": "brian_kelly_9",
+          "name": "Brian Kelly",
+          "character": "",
+          "image": "https://resizing.flixster.com/KdSObO4D2yy2zmZQ5HItgDfd214=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/9288_v9_ba.jpg"
+        },
+        {
+          "id": "david_mccallum",
+          "name": "David McCallum",
+          "character": "",
+          "image": "https://resizing.flixster.com/MFlfHui_c8dNUo8AE5fl8r7SMOg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/85574_v9_ba.jpg"
+        },
+        {
+          "id": "keenan_wynn",
+          "name": "Keenan Wynn",
+          "character": "",
+          "image": "https://resizing.flixster.com/z6QX2mDZKbmKNA4e8lU48paTWuU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/36293_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Around-the-World-under-the-Sea/71894?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:53:48.288158Z"
     },
     {
       "id": "arthur_the_king",
@@ -620,7 +1284,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T07:13:01.254223Z"
+      "scraped_at": "2026-08-21T13:15:21.293469Z"
     },
     {
       "id": "atanarjuat_the_fast_runner_2002",
@@ -740,7 +1404,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T07:13:26.286627Z"
+      "scraped_at": "2026-08-21T13:15:59.786912Z"
     },
     {
       "id": "beach",
@@ -871,7 +1535,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T07:14:52.817636Z"
+      "scraped_at": "2026-08-21T13:18:17.343676Z"
     },
     {
       "id": "benhur",
@@ -993,7 +1657,236 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T07:15:41.239960Z"
+      "scraped_at": "2026-08-21T13:19:27.485135Z"
+    },
+    {
+      "id": "beyond_the_poseidon_adventure",
+      "url": "https://www.rottentomatoes.com/m/beyond_the_poseidon_adventure",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Beyond the Poseidon Adventure",
+      "original_title": "Beyond the Poseidon Adventure",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1979,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 114,
+      "certificate": "PG",
+      "rating": 3.5,
+      "votes": 265,
+      "tomatometer": 10,
+      "tomatometer_count": 10,
+      "tomatometer_certified": false,
+      "audience_score": 21,
+      "audience_count": 108,
+      "metascore": null,
+      "plot": "Disaster movie sequel following two groups of adventurers as they race to salvage a doomed ship's treasure hours after it has been crippled by a tidal wave. When the gold-diggers enter the overturned liner through a hole cut by the coastguard they discover more survivors still trapped on board and struggle to carry out their plans before the ocean finally claims the wrecked vessel.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/jyZ07EouqUsTOOn-q91Ls-SqWlQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p336_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/jyZ07EouqUsTOOn-q91Ls-SqWlQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p336_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3qEBEat-972KaMzPZjnHJXyJ3_c=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p336_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3CNYY9JLZ885B-YMfCdgmg_3ICg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p336_i_h10_ac.jpg",
+          "caption": "Beyond the Poseidon Adventure (1979)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ZVsf5yjCS87l3mP5VpkthGKroIM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p336_p_v8_aa.jpg",
+          "caption": "Beyond the Poseidon Adventure (1979)"
+        },
+        {
+          "url": "https://resizing.flixster.com/FzWcjNgj8VhZu1p62RGO3bIz38w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p336_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "irwin_allen",
+          "name": "Irwin Allen"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "michael_caine",
+          "name": "Michael Caine",
+          "character": "",
+          "image": "https://resizing.flixster.com/ZO7oU6vTb1a5BQyJzkUput-O-MQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/259_v9_bd.jpg"
+        },
+        {
+          "id": "sally_field",
+          "name": "Sally Field",
+          "character": "",
+          "image": "https://resizing.flixster.com/i8uoOjPNvmlxe0M1toszbbhMYOE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/57499_v9_ba.jpg"
+        },
+        {
+          "id": "telly_savalas",
+          "name": "Telly Savalas",
+          "character": "",
+          "image": "https://resizing.flixster.com/K8SnZpbdE7EJlNnG6J7DXL6xFT8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/61817_v9_bc.jpg"
+        },
+        {
+          "id": "1001740-peter_boyle",
+          "name": "Peter Boyle",
+          "character": "",
+          "image": "https://resizing.flixster.com/9NiHMmGeOYuP5ogI9AbbMgRY5_s=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/51216_v9_ba.jpg"
+        },
+        {
+          "id": "jack_warden",
+          "name": "Jack Warden",
+          "character": "",
+          "image": "https://resizing.flixster.com/gPxdfICAa_ZooLl0YByo27rncyw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/28523_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Beyond-the-Poseidon-Adventure/10864?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:23.243406Z"
+    },
+    {
+      "id": "big_miracle",
+      "url": "https://www.rottentomatoes.com/m/big_miracle",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Big Miracle",
+      "original_title": "Big Miracle",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "year": 2012,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "rating": 6.1,
+      "votes": 7084,
+      "tomatometer": 74,
+      "tomatometer_count": 103,
+      "tomatometer_certified": true,
+      "audience_score": 64,
+      "audience_count": 828,
+      "metascore": null,
+      "plot": "Adam Carlson (John Krasinski), a reporter based in a small town in northern Alaska, can't wait to land a job in a bigger market. Then, the story of a lifetime practically lands in his lap: A family of gray whales is discovered near the Arctic Circle, trapped by rapidly forming ice. Along with the descending media comes Rachel Kramer (Drew Barrymore), an environmental activist and Adam's ex-lover. Together, they try to rally an international coalition to save the whales before it's too late.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/35PyFYnaGTeNsX_AYWoycyb8jKg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8780620_p_v11_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/35PyFYnaGTeNsX_AYWoycyb8jKg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8780620_p_v11_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/CgQmUZtAIhpx7zDKCbiEci8KTyY=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8780620_i_h8_ag.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Oo-v1_xZzm6mwQfY9CCeGxxkMnw=/fit-in/705x460/v2/https://resizing.flixster.com/Jmx49HIamCNj5noAHneirsjHNBo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRkMTU3MzExLTY2OTktNDA1OC05NDc4LTNlZGQ5YWEzYTRjMS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/XtIpq-Z5flPb-aItNmJdNZG4GAU=/fit-in/705x460/v2/https://resizing.flixster.com/pzdExVfbPPKRgA5G25btiDFsNNk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFkMDE2NTkzLTU5NWYtNGMxNy04NmY5LTQ4MGUwMjI2NGE1OS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/A953h45nmzJch9j17g7doDa3iwo=/fit-in/705x460/v2/https://resizing.flixster.com/NTHCTq7Ri796Cvfhdd7gdxU655w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiMTM3ZTM1LTE1MTgtNDIyOS05YzA5LTgyYzdiY2I1YTZlMS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/8OZOSfl3lqngYq_7y-DApfAgfJ8=/fit-in/705x460/v2/https://resizing.flixster.com/8cxM1Ez0Y-JyfUnnxk-urP9KS3I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkwMTY5ZGZhLWRiZGEtNDJiMy04OTUxLTI2YmQ1ZjllNTQxMy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wpfXqtAWbyA5bPSjk30v8vqOiwk=/fit-in/705x460/v2/https://resizing.flixster.com/JQPLvb94pp8JakBoyd_Mir4ftVc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyNDNlMjZhLWNmYjUtNDJlNi05OGY0LTlmY2U5NDQ4NDNjZi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/VxKZhBds6jCen_nNebaFKy2bMZE=/fit-in/705x460/v2/https://resizing.flixster.com/edYXZitZD89KTZgDZ-YuSzRI27E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q5ZDlkY2MxLTZhZGUtNDFjZi05YzgxLWQ4YTRlMzA4MjBhOS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/isXS7LDj3hgm1I2u0RcDZdNWOUQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8780620_i_h8_ag.jpg",
+          "caption": "Big Miracle (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-DCYyfVjYKCj_xVkDwOb8RUeaMs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8780620_v_v11_ac.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "ken_kwapis",
+          "name": "Ken Kwapis"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "john_krasinksi",
+          "name": "John Krasinski",
+          "character": "",
+          "image": "https://resizing.flixster.com/bHU1KXAo2eBkBOpY2SaSBsa9YmU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/308909_v9_bc.jpg"
+        },
+        {
+          "id": "drew_barrymore",
+          "name": "Drew Barrymore",
+          "character": "",
+          "image": "https://resizing.flixster.com/dmGMPMoh3s67kTTcGTSThXM2r_k=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/100_v9_bc.jpg"
+        },
+        {
+          "id": "kristen_bell",
+          "name": "Kristen Bell",
+          "character": "",
+          "image": "https://resizing.flixster.com/qU3i8jDx8X9PS3iQ7Ory9DU_2s0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002GB4Z1.jpg"
+        },
+        {
+          "id": "vinessa_shaw",
+          "name": "Vinessa Shaw",
+          "character": "",
+          "image": "https://resizing.flixster.com/FHwUcmtlaxaO7k8a7KwfTQ-6wAs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/150558_v9_ba.jpg"
+        },
+        {
+          "id": "dermot_mulroney",
+          "name": "Dermot Mulroney",
+          "character": "",
+          "image": "https://resizing.flixster.com/8XKifuoflmEqXwiG2POmqdpmsBg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/16541_v9_bc.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Big-Miracle/296201?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:26:24.814506Z"
     },
     {
       "id": "blood_diamond",
@@ -1119,6 +2012,217 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T07:17:35.530823Z"
+    },
+    {
+      "id": "caravan-to-vacares",
+      "url": "https://www.rottentomatoes.com/m/caravan-to-vacares",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Caravan to Vaccares",
+      "original_title": "Caravan to Vaccares",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1974,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "rating": null,
+      "votes": 6,
+      "tomatometer": 0,
+      "tomatometer_count": 5,
+      "tomatometer_certified": false,
+      "audience_score": 33,
+      "audience_count": 1,
+      "metascore": null,
+      "plot": "A British photographer (Charlotte Rampling) joins an American (David Birney) hired by a French duke (Michel Lonsdale) to smuggle an East bloc scientist to freedom.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/jcnyvcmVRMZGR6L1epYvmEhhKd4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p38751_v_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/jcnyvcmVRMZGR6L1epYvmEhhKd4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p38751_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bP3opSXZRLFJy7MsShCzJJiwo8o=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p38751_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/65f_I04vA3-PRBINY3tV9VMYDiA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p38751_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wjZMSmGT9ch4n5rOeKP2REXIPBw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p38751_i_h10_ab.jpg",
+          "caption": "Caravan to Vaccares (1974)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "geoffrey_reeve",
+          "name": "Geoffrey Reeve"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "charlotte_rampling",
+          "name": "Charlotte Rampling",
+          "character": "",
+          "image": "https://resizing.flixster.com/QK7n4j0q3Ew2GLN22xH_rqt7Ai8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/11892_v9_bc.jpg"
+        },
+        {
+          "id": "david_birney",
+          "name": "David Birney",
+          "character": "",
+          "image": "https://resizing.flixster.com/VwAmVSt4S4U_zMtOdrJCb0nvex8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/161_v9_ba.jpg"
+        },
+        {
+          "id": "michel_lonsdale",
+          "name": "Michaël Lonsdale",
+          "character": "",
+          "image": "https://resizing.flixster.com/Wt0mg9gcUtF7CdA_TvuuSeWmKOU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76516_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DFNVL3C4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:19.973511Z"
+    },
+    {
+      "id": "chasing_mavericks",
+      "url": "https://www.rottentomatoes.com/m/chasing_mavericks",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Chasing Mavericks",
+      "original_title": "Chasing Mavericks",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "year": 2012,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 115,
+      "certificate": "PG",
+      "rating": 4.9,
+      "votes": 5702,
+      "tomatometer": 32,
+      "tomatometer_count": 81,
+      "tomatometer_certified": false,
+      "audience_score": 70,
+      "audience_count": 585,
+      "metascore": null,
+      "plot": "When 15-year-old surfing phenomenon Jay Moriarty discovers that the mythic Mavericks surf break, one of the biggest waves on Earth, actually exists near his California home, he becomes determined to conquer it. Jay enlists the aid of local surfing legend Frosty Hesson to train him to ride the Mavericks and live to tell about it. As Jay and Frosty carry on their quest to achieve the impossible, they develop a unique friendship that transforms both their lives.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/2RbxmR3LuNEIei8dPwaZUN8xh-A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9211320_p_v8_ah.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/2RbxmR3LuNEIei8dPwaZUN8xh-A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9211320_p_v8_ah.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/nglEJ4zHVb2G9mK6pKm3lkZFA2g=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9211320_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/VhharMGpfgrLqJrIjPcvwMqYSrg=/fit-in/705x460/v2/https://resizing.flixster.com/DcifIHvTxHEGpVgjJJYQgyRTis0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y3Y2YwZWEyLTE1NDgtNDc5Yy04NzNhLTc2ODIzYmNkOTM5MC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/OdPnji39sUUo2mqgNRZasBc4JZ0=/fit-in/705x460/v2/https://resizing.flixster.com/BUra21pnIG1RAcEwIILxq9hiJ0U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzllZWRjZDZmLWY1NzItNDFiOC1iYjMzLTlkNzc4Y2I2ZjY1My53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sQ6CsPJAu9isyE0NyEg0Z_KqbTw=/fit-in/705x460/v2/https://resizing.flixster.com/ljzw7xSJowiRCFRi6eKkaOHocy4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VlYmRkYWIzLTJhNWItNGZlZC1hZTMzLWY2MmEyODllY2ZmYi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HplQGufKsgPebeVjkI9BfAch2LY=/fit-in/705x460/v2/https://resizing.flixster.com/TnApDTmEzMUe27rgxgTOWm9dBHw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNhYjdjMzhmLTNiYjEtNGI0NS05MDRlLTYwNzQ4NjFlYzc4Yi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FwKEzfnpo2s306jIUpnIXo74HqY=/fit-in/705x460/v2/https://resizing.flixster.com/5XK_f8jQiKvZ-JRJc09wYxWrD8s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MxOWY4MzY2LTEyOTMtNDFhMi04OWM0LTk2ZjU0OWU5Mzk5Yy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wADOi5zsWpg92rAIwzB_JnohiIo=/fit-in/705x460/v2/https://resizing.flixster.com/oi1YKEYDQDjZd4HMRMIWV0wLOUY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzN2JhZjlmLWZkZTAtNDM4OC1hY2E2LWI5ZjE4NDI3MmE1YS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/240YLZS3nbLddcEFKlP5dl0r-VA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9211320_i_h10_ac.jpg",
+          "caption": "Chasing Mavericks (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/jT0Xa_MJZbuwNbzNL-s-Yg73QFo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9211320_v_v8_ah.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "curtis_hanson",
+          "name": "Curtis Hanson"
+        },
+        {
+          "id": "michael_apted",
+          "name": "Michael Apted"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "gerard_butler",
+          "name": "Gerard Butler",
+          "character": "",
+          "image": "https://resizing.flixster.com/cXMTcJ3HAasIVyd9AIV7U1CZmOY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/198908_v9_bc.jpg"
+        },
+        {
+          "id": "jonny_weston",
+          "name": "Jonny Weston",
+          "character": "",
+          "image": "https://resizing.flixster.com/Kc_VtwlrYkEovlMjp6k1Hr49kfI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/650539_v9_ba.jpg"
+        },
+        {
+          "id": "elisabeth_shue",
+          "name": "Elisabeth Shue",
+          "character": "",
+          "image": "https://resizing.flixster.com/IY4QapANYe8rE9JUi3xcR4PiFZY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1620_v9_bc.jpg"
+        },
+        {
+          "id": "abigail_spencer",
+          "name": "Abigail Spencer",
+          "character": "",
+          "image": "https://resizing.flixster.com/rQTcWbzH1zhYTZsKZWOavvTk_sE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/199866_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Chasing-Mavericks/382050?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:26:26.249799Z"
     },
     {
       "id": "deliverance",
@@ -1447,6 +2551,105 @@
       "scraped_at": "2026-08-21T07:46:08.739907Z"
     },
     {
+      "id": "grizzly_falls",
+      "url": "https://www.rottentomatoes.com/m/grizzly_falls",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Grizzly Falls",
+      "original_title": "Grizzly Falls",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1999,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 94,
+      "certificate": "PG",
+      "rating": 5.7,
+      "votes": 34,
+      "tomatometer": 50,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": 35,
+      "audience_count": 8,
+      "metascore": null,
+      "plot": "After a grizzly bear abducts him during a hunting trip, a young boy forms an unexpected bond with the creature, while his father and a tracker embark on a dangerous mission to rescue him.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/ZlVj-ae2vdWgppLZHQ2wLU6s6bc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24269_p_v8_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/ZlVj-ae2vdWgppLZHQ2wLU6s6bc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24269_p_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/km5ieNg7D0Qo0SIEDVBZkvi8Ys8=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24269_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/6ki3ko_Poj_yadqzqvatAEEPkFQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24269_i_h10_ab.jpg",
+          "caption": "Grizzly Falls (2000)"
+        },
+        {
+          "url": "https://resizing.flixster.com/uxNGKDB40bZjxs5oUls3TGQ5rKo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24269_p_v8_ab.jpg",
+          "caption": "Grizzly Falls (2000)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ZPWfA-htNA7rAA1GAksLimivzno=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24269_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "stewart_raffill",
+          "name": "Stewart Raffill"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "daniel_clark",
+          "name": "Daniel Clark",
+          "character": "",
+          "image": "https://resizing.flixster.com/yhHtSHOmjp_LWE9P2jZr5ed6pPw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/170203_v9_ba.jpg"
+        },
+        {
+          "id": "bryan_brown",
+          "name": "Bryan Brown",
+          "character": "",
+          "image": "https://resizing.flixster.com/f0rJe5nHz8F5v02FiQMBP3VhQXU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/9717_v9_bd.jpg"
+        },
+        {
+          "id": "1025639-tom_jackson",
+          "name": "Tom Jackson",
+          "character": "",
+          "image": "https://resizing.flixster.com/pbmXinzVMRFhjx1q4HYK-BQU8wI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/63005_v9_ba.jpg"
+        },
+        {
+          "id": "oliver_tobias",
+          "name": "Oliver Tobias",
+          "character": "",
+          "image": "https://resizing.flixster.com/CuZhTZWsNYWatmsgEKL-AzyyQNU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/49121_v9_aa.jpg"
+        },
+        {
+          "id": "richard_harris",
+          "name": "Richard Harris",
+          "character": "",
+          "image": "https://resizing.flixster.com/L0JlZq5A73Jp7S1aLtvyBnCXfWw=/120x150/v2/https://resizing.flixster.com/V-Wd3N6IXWQL9FGdEL37k0PlaRY=/ems.ZW1zLXByZC1hc3NldHMvY2VsZWJyaXRpZXMvOTg3NzEyODYtNDg0Ny00MzRmLThmNjItYTc3MTRlOGI5Y2Q3LmpwZw=="
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:21.303318Z"
+    },
+    {
       "id": "hellfighters",
       "url": "https://www.rottentomatoes.com/m/hellfighters",
       "category": "adventure",
@@ -1549,6 +2752,131 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T08:01:20.494583Z"
+    },
+    {
+      "id": "i_am_david",
+      "url": "https://www.rottentomatoes.com/m/i_am_david",
+      "category": "adventure",
+      "type": "movie",
+      "title": "I Am David",
+      "original_title": "I Am David",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "year": 2004,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "rating": 5.3,
+      "votes": 1282,
+      "tomatometer": 39,
+      "tomatometer_count": 31,
+      "tomatometer_certified": false,
+      "audience_score": 83,
+      "audience_count": 518,
+      "metascore": null,
+      "plot": "David (Ben Tibber) is a 12-year-old on his own in an Eastern European prison camp. His best friend, Johannes (James Caviezel), protects and looks after him. One day, David is able to escape, and he embarks on a mission to deliver a sealed envelope to Denmark. Along the way, he saves a young girl (Viola Carinci) from a fire, befriends an elderly Swiss woman (Joan Plowright) and learns the value of trusting others. But what David discovers in Denmark truly changes his life forever.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/HNySHA-FY-m9uQb-5EfjsO5Rc4M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34923_p_v11_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/HNySHA-FY-m9uQb-5EfjsO5Rc4M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34923_p_v11_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Xa_Q6i762l9eiZnX1RVE0gsxRFo=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34923_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/i2y9wTqNmJcBUispL-fFG30MhZs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34923_p_v10_ac.jpg",
+          "caption": "I Am David (2004)"
+        },
+        {
+          "url": "https://resizing.flixster.com/XiMDGn83qBa9aA_j-GR0W3KUNvQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34923_p_v11_ac.jpg",
+          "caption": "I Am David (2004)"
+        },
+        {
+          "url": "https://resizing.flixster.com/TUKW4jwzC9fwbrdGMWl0ucN_C6U=/fit-in/705x460/v2/https://resizing.flixster.com/mN7Wn_gLtceKQf34ewNQORUMgoU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkOTZkMGEwLWI0YjQtNGU5Ny1hODE2LWUxOTY2YzhlMTcyYi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/7V3cT1BWAgLFBQzUJFm_boBzS7g=/fit-in/705x460/v2/https://resizing.flixster.com/-6hxYMwlpSMxIISgsp0dTq3kNGE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I0NjZlZTk5LTI3ZTctNDdjMS04NzQ3LTkwMWQ5OGQwNGI5NS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/qNKhFLonPkJ3HrXhSRTG8RiAucg=/fit-in/705x460/v2/https://resizing.flixster.com/cxLVHB-NDayoV7TNyoVuByRVzZM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FmMWYxZjQyLTBhZjMtNDRhYS04ZDE1LTUxMGQ3OGQzYzBiYS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/J6lGa1i7qGwnOvB17BUWEJVwGMA=/fit-in/705x460/v2/https://resizing.flixster.com/lmO_Dv0e-OV00Tcb75yV2rFg05w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzZTAxMjJkLTJlZjctNDljZS04Y2QzLWViN2Q1MjQ4NjM5OS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/LGt7U-GZM-IR4ko9R4K2Vhzcq08=/fit-in/705x460/v2/https://resizing.flixster.com/gHvUNT6jQi9zehKu4qfocdJYqTQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmY2I3MGQxLTkyMjctNDIyNC04OWU0LTcwNTgzMDE5MjlhYS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/IBeIDRUKoO5hivO0lskjqtDcr5A=/fit-in/705x460/v2/https://resizing.flixster.com/86gd5VGLfy2IQ1Ehz4dooAwHlMg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVmNDVkYWNiLTI5NjQtNGUwMy1iMzZiLTVlNDJhMjM3ZTE5Ni53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "paul_feig",
+          "name": "Paul Feig"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "ben-tibber",
+          "name": "Ben Tibber",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "joan_plowright",
+          "name": "Joan Plowright",
+          "character": "",
+          "image": "https://resizing.flixster.com/HNaOBwi-1Pzo34P8Bh1g-JVYyKU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/31961_v9_ba.jpg"
+        },
+        {
+          "id": "jim_caviezel",
+          "name": "Jim Caviezel",
+          "character": "",
+          "image": "https://resizing.flixster.com/a6duGXl3trmgtGURZyEHl4EBfIw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/162500_v9_bc.jpg"
+        },
+        {
+          "id": "maria-bonnevie",
+          "name": "Maria Bonnevie",
+          "character": "",
+          "image": "https://resizing.flixster.com/LtNpeIR6xsfdNGc_fSpxQx4jWME=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/150839_v9_ba.jpg"
+        },
+        {
+          "id": "silvia_de_santis",
+          "name": "Silvia De Santis",
+          "character": "",
+          "image": "https://resizing.flixster.com/sIs6IP7vWgCbg_HekBUbjcOo8zg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/264279_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GYMCSQQY/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T14:01:52.516190Z"
     },
     {
       "id": "in_search_of_fellini",
@@ -1914,6 +3242,110 @@
       "scraped_at": "2026-08-20T23:12:56.793064Z"
     },
     {
+      "id": "krakatoa_east_of_java",
+      "url": "https://www.rottentomatoes.com/m/krakatoa_east_of_java",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Krakatoa, East of Java",
+      "original_title": "Krakatoa, East of Java",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1969,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 101,
+      "certificate": "G",
+      "rating": 3.7,
+      "votes": 53,
+      "tomatometer": 0,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": 26,
+      "audience_count": 30,
+      "metascore": null,
+      "plot": "A widow (Diane Baker), a diver (Brian Keith) and convicts board a captain's (Maximilian Schell) ship bound for volcanic disaster in 1883 Singapore.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/hkpqezp5dLxj6dSMqeVwm6Cw88k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p880_p_v8_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/hkpqezp5dLxj6dSMqeVwm6Cw88k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p880_p_v8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/s_ds6ct58pssKi1YVh-nHGvaSyU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p880_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/UlkSuhBrCOAM5yDWdyyhY3cfyA0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p880_v_v8_ag.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/6vde5EO_7NcPRSUDwNO8R2KGT6o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p880_i_h10_ab.jpg",
+          "caption": "Krakatoa, East of Java (1969)"
+        },
+        {
+          "url": "https://resizing.flixster.com/LFpN2S36-eBgQkg00UOJC5-8KlU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p880_p_v8_ac.jpg",
+          "caption": "Krakatoa, East of Java (1969)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "bernard_l_kowalski",
+          "name": "Bernard L. Kowalski"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "maximilian_schell",
+          "name": "Maximilian Schell",
+          "character": "",
+          "image": "https://resizing.flixster.com/c1CpoCJeRqU6DXOnkS0f_6K-oG0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/44705_v9_ba.jpg"
+        },
+        {
+          "id": "diane_baker",
+          "name": "Diane Baker",
+          "character": "",
+          "image": "https://resizing.flixster.com/Qp4iYwfg_RRocHz7COz_Z0Pjajc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77335_v9_ba.jpg"
+        },
+        {
+          "id": "brian_keith",
+          "name": "Brian Keith",
+          "character": "",
+          "image": "https://resizing.flixster.com/wI1BPNj8WHGFcVjYwoFu4tR9JK0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/899_v9_bb.jpg"
+        },
+        {
+          "id": "barbara-werle",
+          "name": "Barbara Werle",
+          "character": "",
+          "image": "https://resizing.flixster.com/4OwJVc622I5yPIja46JXgN8GoDM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/227693_v9_ba.jpg"
+        },
+        {
+          "id": "john-leyton",
+          "name": "John Leyton",
+          "character": "",
+          "image": "https://resizing.flixster.com/cZYvTAOxfZ8oc13QUTp-NVpgqFg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/101971_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DGSP9WJ7/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:53:49.340143Z"
+    },
+    {
       "id": "lisola_degli_uomini_pesce_1979",
       "url": "https://www.rottentomatoes.com/m/lisola_degli_uomini_pesce_1979",
       "category": "adventure",
@@ -2251,6 +3683,137 @@
       "scraped_at": "2026-08-21T07:46:07.035490Z"
     },
     {
+      "id": "max_2016",
+      "url": "https://www.rottentomatoes.com/m/max_2016",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Max",
+      "original_title": "Max",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "year": 2015,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 111,
+      "certificate": "PG",
+      "rating": 4.7,
+      "votes": 6509,
+      "tomatometer": 37,
+      "tomatometer_count": 97,
+      "tomatometer_certified": false,
+      "audience_score": 70,
+      "audience_count": 644,
+      "metascore": null,
+      "plot": "After U.S. Marine Kyle Wincott is killed in Afghanistan, Max, his highly trained service dog, is too traumatized to remain in service. Back in the U.S., Kyle's family adopts the dog, but teenage brother Justin has problems of his own and doesn't want the animal. However, Max may be Justin's only chance to learn what really happened to his brother. With the help of a dog-savvy friend, Justin and Max begin to bond, and set out to unravel the mystery of Kyle's death.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/NYeK2CsGMSqm7S6O_vU4OWocdYo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132210_p_v10_af.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/NYeK2CsGMSqm7S6O_vU4OWocdYo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132210_p_v10_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/AfW1sk6BCaRorEDQWcfVv2sPxJc=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/40/79/Max_180423_Trailer1.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Cd-rqhlfYwp0N8dcSPf9JzZ_d7k=/fit-in/705x460/v2/https://resizing.flixster.com/hBpJjCLnr8vKOIssI-JQJRDlZZY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VmZWMxZjU1LWE0ZjUtNGFjYy05YWNmLTA2OTYzYTVlNzFhYi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jOfAWDxgxI_BjIH7Np2nQGBk_rA=/fit-in/705x460/v2/https://resizing.flixster.com/XcYdIKciLbGZPY8uTxHJThLjAfQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1ZGJjOTU1LWIwMTItNGNiMS04ZmZhLWEwOTYwNDFjOTJiYi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/I125Vx2MYWHDgXWGl2aJxabBzY8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132210_i_h10_aa.jpg",
+          "caption": "Max (2015)"
+        },
+        {
+          "url": "https://resizing.flixster.com/M47ijjIhhhl-RiSSX9NzkQx6sXg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/143818_ba.jpg",
+          "caption": "Max and Josh Wiggins as Justin Wincott in \"Max.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/Id2Hq1OKDYY40gzfEnAY267wfOc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132210_p_v10_af.jpg",
+          "caption": "Max (2015)"
+        },
+        {
+          "url": "https://resizing.flixster.com/P95G9tWncMKawAQ4jwn1zwfp87I=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132210_p_v8_aa.jpg",
+          "caption": "Max (2015)"
+        },
+        {
+          "url": "https://resizing.flixster.com/z-zOIWfJYXQundnN5hQ9sCX66ew=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132210_p_v8_af.jpg",
+          "caption": "Max (2015)"
+        },
+        {
+          "url": "https://resizing.flixster.com/jOi9R2LxZWjMkRPqMw8pD3Tvf0M=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11132210_v_v8_af.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "JasDl48G_gRh",
+        "title": "Max: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/40/79/Max_180423_Trailer1.jpg",
+        "seconds": 145,
+        "src": "https://link.theplatform.com/s/NGweTC/media/JasDl48G_gRh?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "boaz_yakin",
+          "name": "Boaz Yakin"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "josh_wiggins",
+          "name": "Josh Wiggins",
+          "character": "",
+          "image": "https://resizing.flixster.com/-yZiIGh3pXWv8lW1X9WMwfSJepc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/754413_v9_bb.jpg"
+        },
+        {
+          "id": "lauren_graham",
+          "name": "Lauren Graham",
+          "character": "",
+          "image": "https://resizing.flixster.com/y_1WbVGp_e048y4RTCp0zQmyyfk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/68293_v9_bc.jpg"
+        },
+        {
+          "id": "thomas_haden_church",
+          "name": "Thomas Haden Church",
+          "character": "",
+          "image": "https://resizing.flixster.com/HNZmL4xwmYvo0Nd9cENfTEcIPr8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/62347_v9_bc.jpg"
+        },
+        {
+          "id": "robbie_amell",
+          "name": "Robbie Amell",
+          "character": "",
+          "image": "https://resizing.flixster.com/iVIMnZgD8lt-DwJmeaXPRAVln4E=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/515766_v9_bc.jpg"
+        },
+        {
+          "id": "luke_kleintank",
+          "name": "Luke Kleintank",
+          "character": "",
+          "image": "https://resizing.flixster.com/FrmWPwjU_3ZHSdhqHjd9l9sHkVg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/555491_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Max/673623?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:26:21.830407Z"
+    },
+    {
       "id": "mud_2013",
       "url": "https://www.rottentomatoes.com/m/mud_2013",
       "category": "adventure",
@@ -2485,6 +4048,105 @@
       "scraped_at": "2026-08-20T23:15:20.473930Z"
     },
     {
+      "id": "sammy-going-south",
+      "url": "https://www.rottentomatoes.com/m/sammy-going-south",
+      "category": "adventure",
+      "type": "movie",
+      "title": "A Boy Ten Feet Tall",
+      "original_title": "A Boy Ten Feet Tall",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1963,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 128,
+      "certificate": "G",
+      "rating": 6.0,
+      "votes": 8,
+      "tomatometer": 70,
+      "tomatometer_count": 10,
+      "tomatometer_certified": false,
+      "audience_score": 75,
+      "audience_count": 1,
+      "metascore": null,
+      "plot": "An orphan (Fergus McClelland) leaves Egypt with a toy compass to find his aunt in Durban, South Africa, about 5,000 miles south.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/iMenJlAas1zRq3RhFplC239gsxk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p133_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/iMenJlAas1zRq3RhFplC239gsxk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p133_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/K0gQ839Wp788B2EBiFKZ1a_Ri4I=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p133_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/n-dQOGRRVSRNTfqb2Yl2zkvCodQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p133_p_v10_aa.jpg",
+          "caption": "A Boy Ten Feet Tall (1965)"
+        },
+        {
+          "url": "https://resizing.flixster.com/g7d8bTgZsa9UOEXxF9tpY34Ntyc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p133_p_v8_aa.jpg",
+          "caption": "A Boy Ten Feet Tall (1965)"
+        },
+        {
+          "url": "https://resizing.flixster.com/P6VOYZwxLxStVsj6b9oINCLIrRA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p133_i_h10_ab.jpg",
+          "caption": "A Boy Ten Feet Tall (1965)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "alexander_mackendrick",
+          "name": "Alexander Mackendrick"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "edward_g_robinson",
+          "name": "Edward G. Robinson",
+          "character": "",
+          "image": "https://resizing.flixster.com/klmopZ0XfjB2Kg70FHORCpjQ74I=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/18668_v9_ba.jpg"
+        },
+        {
+          "id": "fergus_mcclelland",
+          "name": "Fergus McClelland",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "constance_cummings",
+          "name": "Constance Cummings",
+          "character": "",
+          "image": "https://resizing.flixster.com/QK4zy4VADrv2WdzsHjk3xmL34OY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/156704_v9_ba.jpg"
+        },
+        {
+          "id": "harry_h_corbett",
+          "name": "Harry H. Corbett",
+          "character": "",
+          "image": "https://resizing.flixster.com/3-9CgCf5fg4oQqngA86i77rdpf0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/25774_v9_ba.jpg"
+        },
+        {
+          "id": "paul_stassino",
+          "name": "Paul Stassino",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:53:50.285835Z"
+    },
+    {
       "id": "sheena",
       "url": "https://www.rottentomatoes.com/m/sheena",
       "category": "adventure",
@@ -2591,6 +4253,229 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T07:46:07.864007Z"
+    },
+    {
+      "id": "space_camp",
+      "url": "https://www.rottentomatoes.com/m/space_camp",
+      "category": "adventure",
+      "type": "movie",
+      "title": "SpaceCamp",
+      "original_title": "SpaceCamp",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1986,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 107,
+      "certificate": "PG",
+      "rating": 5.4,
+      "votes": 1037,
+      "tomatometer": 53,
+      "tomatometer_count": 15,
+      "tomatometer_certified": false,
+      "audience_score": 50,
+      "audience_count": 414,
+      "metascore": null,
+      "plot": "Andie Bergstrom (Kate Capshaw), an astronaut eagerly awaiting her first trip to space, runs a summer camp for teenagers with her NASA-employed husband, Zach (Tom Skerritt). One night during an engine test, Andie and four teenage campers are accidentally shot into space. Together, the group -- which includes Kathryn (Lea Thompson), a pilot-in-training, and Tish (Kelly Preston), a ditz with a perfect memory -- must work together to operate the spacecraft and return home.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/sZOPOk4WJ_VUr5Qr8LnME1rxah0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9315_p_v13_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/sZOPOk4WJ_VUr5Qr8LnME1rxah0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9315_p_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_G-E3yHCN158i0vCpzYv8AiwhsM=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9315_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/G1zupPlnj_2G2w9OVKPjhULo9V0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9315_p_v13_aa.jpg",
+          "caption": "SpaceCamp (1986)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ZaikBFHQ69NNmCLNhm7opOZFxeM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9315_p_v8_aa.jpg",
+          "caption": "SpaceCamp (1986)"
+        },
+        {
+          "url": "https://resizing.flixster.com/5pk2n8FjnbU_a20Fg6I7YRSr56I=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9315_i_h10_ab.jpg",
+          "caption": "SpaceCamp (1986)"
+        },
+        {
+          "url": "https://resizing.flixster.com/TftPgDWagWi4or5T4hmhj96iB8k=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9315_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "harry_winer",
+          "name": "Harry Winer"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "kate_capshaw",
+          "name": "Kate Capshaw",
+          "character": "",
+          "image": "https://resizing.flixster.com/WCC7dvSlowYOK9PalRmzNsG3dFk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/272_v9_bb.jpg"
+        },
+        {
+          "id": "lea_thomson",
+          "name": "Lea Thompson",
+          "character": "",
+          "image": "https://resizing.flixster.com/FB4SpJ6Kntfp0S7Tuk5_qkcYB-o=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/38395_v9_bc.jpg"
+        },
+        {
+          "id": "kelly_preston",
+          "name": "Kelly Preston",
+          "character": "",
+          "image": "https://resizing.flixster.com/hv4ajIMPU7O1FK4w0JkEoWF-tFI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1384_v9_bb.jpg"
+        },
+        {
+          "id": "larry_b_scott",
+          "name": "Larry B. Scott",
+          "character": "",
+          "image": "https://resizing.flixster.com/s6DOIySedI-IygaFRfIvHUuSriQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37901_v9_ba.jpg"
+        },
+        {
+          "id": "leaf_phoenix",
+          "name": "Joaquin Phoenix",
+          "character": "",
+          "image": "https://resizing.flixster.com/w6Xrh_XCYTQLUqGPU-FbsNjKltM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0025DB05.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:18.738764Z"
+    },
+    {
+      "id": "standing_up_2012",
+      "url": "https://www.rottentomatoes.com/m/standing_up_2012",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Standing Up",
+      "original_title": "Standing Up",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "year": 2013,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 93,
+      "certificate": "PG",
+      "rating": 5.8,
+      "votes": 147,
+      "tomatometer": 56,
+      "tomatometer_count": 9,
+      "tomatometer_certified": false,
+      "audience_score": 65,
+      "audience_count": 23,
+      "metascore": null,
+      "plot": "Victims of a vicious prank at summer camp, two kids are left alone and naked on an island in a lake. Deciding not to return to camp and more humiliation, they head into the forest on an odyssey of self-discovery.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/GtgwJV42-2Nyts50rwGDGWq2FsA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10086973_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/GtgwJV42-2Nyts50rwGDGWq2FsA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10086973_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BWh5SKRBzrr0fc7JnIinKtOZ2oo=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10086973_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/t38ZKNPIii-MxCfkNSvtU992rpQ=/fit-in/705x460/v2/https://resizing.flixster.com/anKhp8VZkTQ_PhBGPy4cwJMGndQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3Y2IxN2NjLTJlNWUtNGRhMS04YWVkLWMyMGVhMGNmNzBkYi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Ucj85vayNgfQMDExN1n_GIRCP7c=/fit-in/705x460/v2/https://resizing.flixster.com/AOV2XTFcRKmZAS_xd64tKtwPi5A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FmNjRhNGRiLWE2NTMtNDY0NS1iMTViLTkxNDcyMGFhMDVhNi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/dBqeTI_eMD8aHU0nG0HGLa-hTms=/fit-in/705x460/v2/https://resizing.flixster.com/XPr3FtKybXFA77TfytZmdRymMO4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiYmI0MzQyLTE2OTAtNGYxZC1hODBkLWYwZmViNTg4MTBjNy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/u6j0v6vcHxA9LOmREgbhzOENyuQ=/fit-in/705x460/v2/https://resizing.flixster.com/ZwkxHwIpzZgobZxQ78XazL0Ad60=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI4ZTIwMzAzLWZiODItNDIzZS04NjQwLTI3NWUwYTc4MmY4Ny53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/zSK5cEyXYjQjwEOGfIIgybqNmC0=/fit-in/705x460/v2/https://resizing.flixster.com/4Lp-hmzcA3MGO2cOBrut7pk2MPU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UzNjBlYzIwLTUxYjktNDlkYS04MWE5LTdmYmZiNWE5ODVhZS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0CejR6UJVXKfBqa6g1PPBscMEl8=/fit-in/705x460/v2/https://resizing.flixster.com/DLsS31Sgglw-JaXYS2upotSjU-c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhYzE4MGYzLWY0YjgtNDE3Yi05YTM1LTdlNzczN2EyOTQxOC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/M-kzX26fiK6dZV_vkggk32f1qCc=/fit-in/705x460/v2/https://resizing.flixster.com/ZV_IdrDAIUc92DD0-m2AkUYyPRU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FhNjlmMWE5LTc3MDgtNDdjMy04ODkxLWJiMjM4YmUwNTRmMS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/SJj83Cx7jVcaeAeyCa5XRSBHMq4=/fit-in/705x460/v2/https://resizing.flixster.com/87LQIq4NXlDmCnwY0lHPZ7zyUWQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiNzI4MDA3LWY4ZDgtNDcyYy04ZjJlLWQ2MGVlMTUwYjYwNC53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "dj_caruso",
+          "name": "D.J. Caruso"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "chandler-canterbury",
+          "name": "Chandler Canterbury",
+          "character": "",
+          "image": "https://resizing.flixster.com/Yd0TacNQh_9cAwFufEnrajNMPI0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/508817_v9_ba.jpg"
+        },
+        {
+          "id": "annalise_basso",
+          "name": "Annalise Basso",
+          "character": "",
+          "image": "https://resizing.flixster.com/f6RS2_TBkjmpAHeT8m8giUtO9Ao=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0031LJ1L.jpg"
+        },
+        {
+          "id": "radha_mitchell",
+          "name": "Radha Mitchell",
+          "character": "",
+          "image": "https://resizing.flixster.com/p-859dns-l6VEXq46eT4XxcWhjg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72495_v9_bb.jpg"
+        },
+        {
+          "id": "val_kilmer",
+          "name": "Val Kilmer",
+          "character": "",
+          "image": "https://resizing.flixster.com/LzewhPlhqMd3QJ75sWI9TpAIjDk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/923_v9_ba.jpg"
+        },
+        {
+          "id": "keith_flippen",
+          "name": "Keith Flippen",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T14:01:51.716384Z"
     },
     {
       "id": "tarzan_and_the_lost_city",
@@ -2960,6 +4845,230 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T07:31:14.199293Z"
+    },
+    {
+      "id": "the_great_alaskan_race",
+      "url": "https://www.rottentomatoes.com/m/the_great_alaskan_race",
+      "category": "adventure",
+      "type": "movie",
+      "title": "The Great Alaskan Race",
+      "original_title": "The Great Alaskan Race",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "year": 2019,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 87,
+      "certificate": "PG",
+      "rating": 5.8,
+      "votes": 94,
+      "tomatometer": 22,
+      "tomatometer_count": 9,
+      "tomatometer_certified": false,
+      "audience_score": 84,
+      "audience_count": 30,
+      "metascore": null,
+      "plot": "A group of brave mushers travels 700 miles to save the small children of Nome, Alaska, from a deadly epidemic.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/Vbn8mNk0e1gqIKC3R4uTZj8-vFE=/300x450/v2/https://resizing.flixster.com/pOyrrWBaDQHiUo81nHXgIVIEP58=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4ODJkNTZhLTg3MjAtNDc1ZS1hYjI4LTdlODMxYTg2MzIxNC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/Vbn8mNk0e1gqIKC3R4uTZj8-vFE=/300x450/v2/https://resizing.flixster.com/pOyrrWBaDQHiUo81nHXgIVIEP58=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4ODJkNTZhLTg3MjAtNDc1ZS1hYjI4LTdlODMxYTg2MzIxNC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/14u50eXzOdPffg7sTb35DmsVrcE=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/508/387/thumb_04250027-3820-4F7C-8254-85FAD471C1DA.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/uwQzOoi9qiP2zC2TB2E1LWX9KlI=/fit-in/705x460/v2/https://resizing.flixster.com/pOyrrWBaDQHiUo81nHXgIVIEP58=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4ODJkNTZhLTg3MjAtNDc1ZS1hYjI4LTdlODMxYTg2MzIxNC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/KQG1dq3iLV7Qt1SgeT8Wh38gaVA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17322445_p_v12_ac.jpg",
+          "caption": "The Great Alaskan Race (2019)"
+        },
+        {
+          "url": "https://resizing.flixster.com/iHJYfSiHN_Y12GZ-S6UPCQeQgeM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17322445_v_v12_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/I82Wjbyg90iX2c5rJCZ8k0YPmxQ=/fit-in/705x460/v2/https://resizing.flixster.com/6qb-1iFK6iPi1TvijVOyX_x8PnI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjNmMzMTk1LTlkYjktNDZmNS1iZTg2LTg2ZTIwNTJmMzdiYi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/849HbH-jWgXqbvAV8Suhi7oAe6E=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17322445_i_h10_ab.jpg",
+          "caption": "The Great Alaskan Race (2019)"
+        }
+      ],
+      "trailer": {
+        "id": "Zvf8hIgM_cVj",
+        "title": "The Great Alaskan Race: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/508/387/thumb_04250027-3820-4F7C-8254-85FAD471C1DA.jpg",
+        "seconds": 141,
+        "src": "https://link.theplatform.com/s/NGweTC/media/Zvf8hIgM_cVj?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "1180734-brian_presley",
+          "name": "Brian Presley"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "treat_williams",
+          "name": "Treat Williams",
+          "character": "",
+          "image": "https://resizing.flixster.com/u898l022Y68odiq0KYfv7qMF13o=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73534_v9_bc.jpg"
+        },
+        {
+          "id": "1180734-brian_presley",
+          "name": "Brian Presley",
+          "character": "",
+          "image": "https://resizing.flixster.com/IcDSWYs1bsv29D9mF67kA2V5fZw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/251658_v9_bb.jpg"
+        },
+        {
+          "id": "brad_leland",
+          "name": "Brad Leland",
+          "character": "",
+          "image": "https://resizing.flixster.com/A77KPzpch1GB-n_r_kh_efixiLo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/288377_v9_bb.jpg"
+        },
+        {
+          "id": "henry_thomas",
+          "name": "Henry Thomas",
+          "character": "",
+          "image": "https://resizing.flixster.com/vdXpX-hTKGBvkDP2Te6hRlS-s18=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/26487_v9_bb.jpg"
+        },
+        {
+          "id": "bruce_davison_2",
+          "name": "Bruce Davison",
+          "character": "",
+          "image": "https://resizing.flixster.com/VHixu2MKJ2tbDMCcItTpUqQrOAg=/120x150/v2/https://resizing.flixster.com/08lVCMAldyRV3Z79lsXCTHr77hA=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvZTdmYzFlMmYtNzAwMS00Y2I4LWE0MDYtNDk0MGFiMDdlYzFhLmpwZw=="
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Great-Alaskan-Race/1299434?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:26:24.794186Z"
+    },
+    {
+      "id": "the_lion_king_2019",
+      "url": "https://www.rottentomatoes.com/m/the_lion_king_2019",
+      "category": "adventure",
+      "type": "movie",
+      "title": "The Lion King",
+      "original_title": "The Lion King",
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Drama"
+      ],
+      "year": 2019,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 118,
+      "certificate": "PG",
+      "rating": 6.0,
+      "votes": 76474,
+      "tomatometer": 52,
+      "tomatometer_count": 434,
+      "tomatometer_certified": false,
+      "audience_score": 88,
+      "audience_count": 13329,
+      "metascore": null,
+      "plot": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny on the plains of Africa. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother -- and former heir to the throne -- has plans of his own. The battle for Pride Rock is soon ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. Now, with help from a curious pair of newfound friends, Simba must figure out how to grow up and take back what is rightfully his.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/Ww4thWmW3zZkQEN-kxAFagz-ORM=/300x450/v2/https://resizing.flixster.com/HJVz2wWgoDtfWDvX6DT2-bVwFUM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyYWU2MmIwLTE3NDMtNDJlZi04MzQ1LTViNjVjMzA3YTlkMi53ZWJw",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/Ww4thWmW3zZkQEN-kxAFagz-ORM=/300x450/v2/https://resizing.flixster.com/HJVz2wWgoDtfWDvX6DT2-bVwFUM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyYWU2MmIwLTE3NDMtNDJlZi04MzQ1LTViNjVjMzA3YTlkMi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/U7b5AuwS1yQeBxdFuwsFTwS6gMA=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/141/1023/thumb_962EF687-1BA1-48A7-93AF-2D615FD47438.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/DmsYYsZyPXKNvQCKjJhVHVP8Ko0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14113286_v_h9_bf.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tLGK7iBiCSaxgaqtOUmQPMj78ig=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14113286_v_v9_be.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Z90y3KgOnLmm-0MUH-XBR1OdTaU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14113286_v_v8_be.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jdCUuDj0aJYa7gGlnID7iVUCDRY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14113286_v_h10_be.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/r8ySLFUQqB8ieePoUL6sunsTcQk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14113286_k_h9_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Uucv4obZJwe9m5N8vxboTxNxEJ8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14113286_k_v9_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/yho3HBp1CP1-6pWBS_g1YC43uvo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14113286_k_v8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/EROzZ4fzetxVPE1pSujpNZOqTHs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14113286_k_h10_ac.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "p9_Kovz_TbvJ",
+        "title": "The Lion King: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/141/1023/thumb_962EF687-1BA1-48A7-93AF-2D615FD47438.jpg",
+        "seconds": 108,
+        "src": "https://link.theplatform.com/s/NGweTC/media/p9_Kovz_TbvJ?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "jon_favreau_2",
+          "name": "Jon Favreau"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Lion-King/1172321?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T14:08:26.513007Z"
     },
     {
       "id": "the_red_tent",
@@ -3437,6 +5546,371 @@
       "scraped_at": "2026-08-21T07:31:15.246242Z"
     },
     {
+      "id": "the_water_man",
+      "url": "https://www.rottentomatoes.com/m/the_water_man",
+      "category": "adventure",
+      "type": "movie",
+      "title": "The Water Man",
+      "original_title": "The Water Man",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "year": 2021,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "rating": 6.6,
+      "votes": 39,
+      "tomatometer": 78,
+      "tomatometer_count": 74,
+      "tomatometer_certified": true,
+      "audience_score": 69,
+      "audience_count": 10,
+      "metascore": null,
+      "plot": "Gunner (Lonnie Chavis) sets out on a quest to save his ill mother (Rosario Dawson) by searching for a mythic figure who possesses the secret to immortality, the Water Man. After enlisting the help of a mysterious local girl, Jo (Amiah Miller), they journey together into the remote Wild Horse forest -- but the deeper they venture, the stranger and more dangerous the forest becomes. Their only hope for rescue is Gunner's father (David Oyelowo), who will stop at nothing to find them and in the process will discover who his son really is.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/d9Todqir98bUORCaPz3SqSvR8dA=/300x450/v2/https://resizing.flixster.com/S0vD1b7_zpxkuL9OLwQcrn-u99c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlkNDQzZWRlLTBmNWMtNDBhMS05MDBiLWJlOWFkZmJiODRiMS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/d9Todqir98bUORCaPz3SqSvR8dA=/300x450/v2/https://resizing.flixster.com/S0vD1b7_zpxkuL9OLwQcrn-u99c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlkNDQzZWRlLTBmNWMtNDBhMS05MDBiLWJlOWFkZmJiODRiMS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/OfmbXHVqfw-IU-ZOH5EsUgj56ms=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/542/203/thumb_23D9A130-998A-4199-8BE8-0A3F027C8997.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Pu3pAtXdIXUopFggWk9p2ecSXGU=/fit-in/705x460/v2/https://resizing.flixster.com/KRhlgs2XZY9Tspo6gppXRLxCOvE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwNjQ2YTZiLTc1NzAtNDYxMy1hYTZhLTdjMzBlZjhmY2M3YS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/c_U4c3gGW-hQ8aMNVMn0yDcrYvA=/fit-in/705x460/v2/https://resizing.flixster.com/1_JGcuOje95AATcbyee4cqW7zlU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY4ZmI0ZDI3LTMwODAtNGFiOC1hY2MyLWNiMWZiNmM0Zjg3YS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NAnYsJa7QXlwojk5gHhag4NEQn8=/fit-in/705x460/v2/https://resizing.flixster.com/1QQ4UJWl7ZM7JAmtBlj5aguJ12I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY2ZjRlNDNkLTA3ZjAtNGY4MS1hMDJlLWFkNDY1NWYyZWM0Ni5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_cp5tkpzfC6soviAGGoa3DD8d_Q=/fit-in/705x460/v2/https://resizing.flixster.com/a-oIUOHD6sOuJUgGydBoGfYymV8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyZWFmMmQwLTZkYTUtNDU1NS05MTVmLTFmMTkzZTMyNjdkOC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4BVXysBJQfFp0nMbvuW0d5a33tM=/fit-in/705x460/v2/https://resizing.flixster.com/TD9RPJQbeWGjJvD7PdssvtQMS5w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAzYTljYTAzLWY3OWUtNGZhNS04OTQ5LTQzOWRiNWNhZTkyZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3EFAJrFkItmBVKAIzYSGb80NNKo=/fit-in/705x460/v2/https://resizing.flixster.com/rYxCGquqkUKmD9kFib_W0HHi3Hg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA4YTI0ZDBkLWJiMzYtNGZhNC04MWM2LWI2YjJmOGYxYWQ4Mi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ei0brNq7NQmGIfK4ZXNs9EHGzQg=/fit-in/705x460/v2/https://resizing.flixster.com/dFf2yts-YPOXaCka_4ZvfhNjbC0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5YjA4OWI0LTBhMjctNDQwMy05OTQxLWNkYzI3YmQ5MTU5ZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/hnqJhSx3Sanpq03Pnod77Qu7-aI=/fit-in/705x460/v2/https://resizing.flixster.com/IEuaOsSakYV85_E1Ns0tZa_l2vk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0NTkwZjRkLTNkMTgtNDczNy04N2JiLWFlNTZlZTJkYjY3MS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "AiFnemu2NDTY",
+        "title": "The Water Man: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/542/203/thumb_23D9A130-998A-4199-8BE8-0A3F027C8997.jpg",
+        "seconds": 129,
+        "src": "https://link.theplatform.com/s/NGweTC/media/AiFnemu2NDTY?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "david_oyelowo",
+          "name": "David Oyelowo"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "david_oyelowo",
+          "name": "David Oyelowo",
+          "character": "",
+          "image": "https://resizing.flixster.com/TmWhR6gMHtfm7cz0n9DcydzSuQY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG00377107.jpg"
+        },
+        {
+          "id": "rasario_dawson",
+          "name": "Rosario Dawson",
+          "character": "",
+          "image": "https://resizing.flixster.com/k0nX4cx7NUilcENa8LbauCAaNvA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/172464_v9_bc.jpg"
+        },
+        {
+          "id": "lonnie_chavis",
+          "name": "Lonnie Chavis",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqlgNWiBdNKKKLs7gvKcJoJxI1M=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1054544_v9_bc.jpg"
+        },
+        {
+          "id": "amiah_miller",
+          "name": "Amiah Miller",
+          "character": "",
+          "image": "https://resizing.flixster.com/JwWJGiMg5-nVWqyR7P4_Aa9nJ2M=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002C8FHJ.jpg"
+        },
+        {
+          "id": "alfred_molina",
+          "name": "Alfred Molina",
+          "character": "",
+          "image": "https://resizing.flixster.com/BEQ1gLhTsALHTXA-e-dTKv90tms=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002NGHYE.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Water-Man/1704574?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T14:01:50.759117Z"
+    },
+    {
+      "id": "tom_and_huck",
+      "url": "https://www.rottentomatoes.com/m/tom_and_huck",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Tom and Huck",
+      "original_title": "Tom and Huck",
+      "genres": [
+        "Kids & Family",
+        "Adventure"
+      ],
+      "year": 1995,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "rating": 4.2,
+      "votes": 1096,
+      "tomatometer": 25,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": 42,
+      "audience_count": 600,
+      "metascore": null,
+      "plot": "Sneaking around the cemetery late at night, mischievous pals Tom Sawyer (Jonathan Taylor Thomas) and Huckleberry Finn (Brad Renfro) secretly view local bully Injun Joe (Eric Schweig) murdering the town's undertaker with his knife. The frightened friends swear never to speak to anyone about what they saw, but, when Tom learns that harmless town drunk Muff Potter (Michael McShane) has been charged with the murder, his conscience forces him to intervene and clear Potter's name.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/U0r6E5DursDIfkfl6WLQD9R20XY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17534_p_v8_ah.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/U0r6E5DursDIfkfl6WLQD9R20XY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17534_p_v8_ah.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3rqAVljtQYCElLSh4LyC3rK_5kk=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17534_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/93ORpePTc9ENJvqyueSJxARURD8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17534_p_v8_ah.jpg",
+          "caption": "Tom and Huck (1995)"
+        },
+        {
+          "url": "https://resizing.flixster.com/u5bF1qVGaUQ651YkohWNV5BM2tI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17534_v_v8_aj.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/rKswPmL61AMQBQpx9fY_HYl9SFs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17534_i_h10_aa.jpg",
+          "caption": "Tom and Huck (1995)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "pete_hewitt",
+          "name": "Peter Hewitt"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "jonathan_taylorthomas",
+          "name": "Jonathan Taylor Thomas",
+          "character": "",
+          "image": "https://resizing.flixster.com/6z9DSbKwYAA0RKACSmxCl59GSlc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1768_v9_ba.jpg"
+        },
+        {
+          "id": "brad_renfro",
+          "name": "Brad Renfro",
+          "character": "",
+          "image": "https://resizing.flixster.com/6w1Pm3g20CDpbhDuB8mipjpFRP8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/9041_v9_ba.jpg"
+        },
+        {
+          "id": "eric_schweig",
+          "name": "Eric Schweig",
+          "character": "",
+          "image": "https://resizing.flixster.com/oTjQa9HgJb5pGCUOZJgKjjEaVUE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/19871_v9_ba.jpg"
+        },
+        {
+          "id": "charlie_rocket",
+          "name": "Charles Rocket",
+          "character": "",
+          "image": "https://resizing.flixster.com/T6GAYbF_K58LWL4Sw_r1QBuKFVI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/11717_v9_ba.jpg"
+        },
+        {
+          "id": "amy_wright",
+          "name": "Amy Wright",
+          "character": "",
+          "image": "https://resizing.flixster.com/55JYhRfCCUA1H1LEoDWuLH5E7bc=/120x150/v2/https://resizing.flixster.com/gp4thVoEu1DgLiPp6zKApf8DtxA=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvMzQxY2JhZWMtYTUyNi00MTZlLWIyYTMtZmZlOGZkZjU3ZDcyLmpwZw=="
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Tom-and-Huck/30698?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:49.512163Z"
+    },
+    {
+      "id": "two_brothers",
+      "url": "https://www.rottentomatoes.com/m/two_brothers",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Two Brothers",
+      "original_title": "Two Brothers",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "year": 2004,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 108,
+      "certificate": "PG",
+      "rating": 6.8,
+      "votes": 1786,
+      "tomatometer": 78,
+      "tomatometer_count": 111,
+      "tomatometer_certified": true,
+      "audience_score": 75,
+      "audience_count": 909,
+      "metascore": null,
+      "plot": "Twin tiger cubs Kumal and Sangha are torn apart when their father is killed by hunter Aidan McRory (Guy Pearce). Kumal finds himself in a circus, where his spirits are broken by an abusive trainer (Vincent Scarito), while Sangha is adopted by a politician's son (Freddie Highmore) and cast aside when he attacks the family dog. The brothers struggle to survive in a world where tigers are enslaved or killed for sport, and when they inevitably meet again, it is under the worst of circumstances.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/FGyKWP3eoyQM4DDLQVV-qYp5iEE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34624_p_v8_ad.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/FGyKWP3eoyQM4DDLQVV-qYp5iEE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34624_p_v8_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/9gQMXVvJzP9d8G2mdy8uYhcCXI4=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34624_i_h8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PM_29vr4RFdi5N3t9UypipCSCh8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37556_cb.jpg",
+          "caption": "A Scene from the Film Two Brothers."
+        },
+        {
+          "url": "https://resizing.flixster.com/zqVc7lpSUCkY4U75lix0-kE1RXo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37556_cd.jpg",
+          "caption": "A Scene from the Film Two Brothers."
+        },
+        {
+          "url": "https://resizing.flixster.com/IbCZM3YLEsvOQ_w26KDuqbB0ctI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37556_cf.jpg",
+          "caption": "A Scene from the Film Two Brothers."
+        },
+        {
+          "url": "https://resizing.flixster.com/CxSqw4mLWXyNvOMJYCh82gblwBA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37556_ce.jpg",
+          "caption": "A Scene from the Film Two Brothers."
+        },
+        {
+          "url": "https://resizing.flixster.com/FYzh2XUvg4BHumkIFxcTPg3orIg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37556_ab.jpg",
+          "caption": "Antiquities hunter Aidan McRory (GUY PEARCE) removes one of a set of twin tiger cubs from a looted temple in the adventure drama Two Brothers."
+        },
+        {
+          "url": "https://resizing.flixster.com/5zb-drgW7O4I2S3DrCbuz5sHKow=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37556_ah.jpg",
+          "caption": "A Scene from the Film Two Brothers."
+        },
+        {
+          "url": "https://resizing.flixster.com/dQMQQwp5HCncmylxUZohB_ZPzP4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37556_ag.jpg",
+          "caption": "A Scene from the Film Two Brothers."
+        },
+        {
+          "url": "https://resizing.flixster.com/m_PbVCR790gy4Mpi1BX3bb9oWTs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37556_aj.jpg",
+          "caption": "A Scene from the Film Two Brothers."
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "jeanjacques_annaud",
+          "name": "Jean-Jacques Annaud"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "guy_pearce",
+          "name": "Guy Pearce",
+          "character": "",
+          "image": "https://resizing.flixster.com/aQlG57_JuhWZTa5vXBaUWytAjAY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74054_v9_bc.jpg"
+        },
+        {
+          "id": "jeanclaude_dreyfus",
+          "name": "Jean-Claude Dreyfus",
+          "character": "",
+          "image": "https://resizing.flixster.com/12eIBpeRM8cMneOVY1rwJXTmkoY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/149794_v9_ba.jpg"
+        },
+        {
+          "id": "freddie_highmore",
+          "name": "Freddie Highmore",
+          "character": "",
+          "image": "https://resizing.flixster.com/Uz9rsbGjJQPhoVek7rxf2XeM9vk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0038FE3K.jpg"
+        },
+        {
+          "id": "philippine_leroybeaulieu",
+          "name": "Philippine Leroy-Beaulieu",
+          "character": "",
+          "image": "https://resizing.flixster.com/l1yvUJ66YGOYqhjLukfP3BMXOX0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/152764_v9_bb.jpg"
+        },
+        {
+          "id": "moussa_maaskri",
+          "name": "Moussa Maaskri",
+          "character": "",
+          "image": "https://resizing.flixster.com/lVOddnB0MoQPJzsVhWLQWKgVCVE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76912_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Two-Brothers/5604?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T14:01:54.474488Z"
+    },
+    {
       "id": "walking_out",
       "url": "https://www.rottentomatoes.com/m/walking_out",
       "category": "adventure",
@@ -3665,6 +6139,119 @@
       "scraped_at": "2026-08-21T02:45:08.092159Z"
     },
     {
+      "id": "white_fang_2_myth_of_the_white_wolf",
+      "url": "https://www.rottentomatoes.com/m/white_fang_2_myth_of_the_white_wolf",
+      "category": "adventure",
+      "type": "movie",
+      "title": "White Fang 2: Myth of the White Wolf",
+      "original_title": "White Fang 2: Myth of the White Wolf",
+      "genres": [
+        "Kids & Family",
+        "Adventure"
+      ],
+      "year": 1994,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 106,
+      "certificate": "PG",
+      "rating": 6.1,
+      "votes": 219,
+      "tomatometer": 71,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 47,
+      "audience_count": 53,
+      "metascore": null,
+      "plot": "In this sequel, the hero of the first film, Jack Conroy, passes the torch to adventure-seeker Henry Casey (Scott Bairstow) -- along with his trustworthy wolfhound, White Fang. While transporting gold from his Alaska mine by raft, Henry and White Fang get knocked into the river's current. They're rescued by an Indian princess (Charmaine Craig), whose tribe believe Henry is the embodiment of the \"spirit wolf,\" sent to save them by bringing back the caribou that have vanished from their land.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/HmAMQ6RJY-KCDtQvhECfcTLvjS8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15620_p_v10_af.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/HmAMQ6RJY-KCDtQvhECfcTLvjS8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15620_p_v10_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_rb6ybe--tFkx7p2uGpvm8HlM2w=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15620_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HXF8K_G8teIjCyZd1HplylLgknQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15620_p_v10_af.jpg",
+          "caption": "White Fang 2: Myth of the White Wolf (1994)"
+        },
+        {
+          "url": "https://resizing.flixster.com/7PLJVaIVN2-w5kRdGrWgZRJblY0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15620_p_v8_ai.jpg",
+          "caption": "White Fang 2: Myth of the White Wolf (1994)"
+        },
+        {
+          "url": "https://resizing.flixster.com/PTlZVJKfxLntVoLfeeeuGpYTYw0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15620_v_v12_al.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4GO7-N1kL5OBMkRuIGBZNB__beo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15620_i_h10_ab.jpg",
+          "caption": "White Fang 2: Myth of the White Wolf (1994)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "ken_olin",
+          "name": "Ken Olin"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "scott_bairstow",
+          "name": "Scott Bairstow",
+          "character": "",
+          "image": "https://resizing.flixster.com/nm9PWqKD6fLjvN5wpqQO8yVabfE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72084_v9_ba.jpg"
+        },
+        {
+          "id": "charmaine-craig",
+          "name": "Charmaine Craig",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "al_harrington",
+          "name": "Al Harrington",
+          "character": "",
+          "image": "https://resizing.flixster.com/UaxvXhCRa4NPTl4eVahLliXF-dI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/164151_v9_aa.jpg"
+        },
+        {
+          "id": "anthony_ruivivar",
+          "name": "Anthony Ruivivar",
+          "character": "",
+          "image": "https://resizing.flixster.com/7rZcfKSPk8sveiqjfIK_rBN3CEU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/5765_v9_bb.jpg"
+        },
+        {
+          "id": "victoria_racimo",
+          "name": "Victoria Racimo",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/White-Fang-2-Myth-of-the-White-Wolf/24725?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:46.733538Z"
+    },
+    {
       "id": "white_water_summer",
       "url": "https://www.rottentomatoes.com/m/white_water_summer",
       "category": "adventure",
@@ -3771,6 +6358,245 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T07:46:04.146153Z"
+    },
+    {
+      "id": "wonderstruck",
+      "url": "https://www.rottentomatoes.com/m/wonderstruck",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Wonderstruck",
+      "original_title": "Wonderstruck",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "year": 2017,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 117,
+      "certificate": "PG",
+      "rating": 6.7,
+      "votes": 466,
+      "tomatometer": 68,
+      "tomatometer_count": 227,
+      "tomatometer_certified": false,
+      "audience_score": 55,
+      "audience_count": 88,
+      "metascore": null,
+      "plot": "Ben and Rose are children from two different eras who secretly wish that their lives were different. Ben longs for the father he's never known, while Rose dreams of a mysterious actress whose life she chronicles in a scrapbook. When Ben discovers a puzzling clue and Rose reads an enticing headline, they both set out on epic quests to find what they're missing.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/dasZujqxjbmfA03NoZ31pyU_-rc=/300x450/v2/https://resizing.flixster.com/_ideBmj0wTYJatYUma3kSjwgOSI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlYjNlOTI1LTIyMmItNDdkZC05MDcwLTc1ZWIxMDVjNjEyNy53ZWJw",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/dasZujqxjbmfA03NoZ31pyU_-rc=/300x450/v2/https://resizing.flixster.com/_ideBmj0wTYJatYUma3kSjwgOSI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlYjNlOTI1LTIyMmItNDdkZC05MDcwLTc1ZWIxMDVjNjEyNy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/olzM-zfdQWBWxAu9zstkasl9XY0=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/673/610/thumb_D072457E-BB33-4F20-B578-BE508635763A.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FI7mOUWUFB5U49MZVZfRPetY8Mc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14114129_v_v12_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NoPMtccbwCuJdd8j2B3mwXzDytM=/fit-in/705x460/v2/https://resizing.flixster.com/_ideBmj0wTYJatYUma3kSjwgOSI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlYjNlOTI1LTIyMmItNDdkZC05MDcwLTc1ZWIxMDVjNjEyNy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/qaFfZeOfpMHVFu5W0yFsTVmk94A=/fit-in/705x460/v2/https://resizing.flixster.com/5NH2pJ8SWILGBr7ogjtp7XBnLsQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExZDkyNjhkLTNiM2ItNDlkZS04NDY0LWU4ZTg1YWEyMGFmNS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/j9f07CYT5nK4SvMquyAoRPI18hM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/173827/173827_aa.jpg",
+          "caption": "Poster Art"
+        },
+        {
+          "url": "https://resizing.flixster.com/OTqalgzZBfsIV9SmV50TJEf4b9k=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/173827/173827_ab.jpg",
+          "caption": "Poster Art"
+        },
+        {
+          "url": "https://resizing.flixster.com/7XaOCMYeU7w0Ma2d6NPvzFN5z8M=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14114129_p_v10_ab.jpg",
+          "caption": "Wonderstruck (2017)"
+        },
+        {
+          "url": "https://resizing.flixster.com/uq3YKKOlA1yF65V_aQ6dN8wBI1U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14114129_p_v8_ab.jpg",
+          "caption": "Wonderstruck (2017)"
+        },
+        {
+          "url": "https://resizing.flixster.com/piv_mgGwCeeAT-iku-oyNHIYxhc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/173827_bf.jpg",
+          "caption": "A scene from \"Wonderstruck.\""
+        }
+      ],
+      "trailer": {
+        "id": "33fizNWjT3WC",
+        "title": "Wonderstruck: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/673/610/thumb_D072457E-BB33-4F20-B578-BE508635763A.jpg",
+        "seconds": 144,
+        "src": "https://link.theplatform.com/s/NGweTC/media/33fizNWjT3WC?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "todd_haynes",
+          "name": "Todd Haynes"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "oakes_fegley",
+          "name": "Oakes Fegley",
+          "character": "",
+          "image": "https://resizing.flixster.com/GNtPtvkUv0jLhTxjfHJjmmdRPJQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/813743_v9_bd.jpg"
+        },
+        {
+          "id": "julianne_moore",
+          "name": "Julianne Moore",
+          "character": "",
+          "image": "https://resizing.flixster.com/a0E_eo815dIif-VEls2f9rAtBvk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71083_v9_bb.jpg"
+        },
+        {
+          "id": "millicent_simmonds",
+          "name": "Millicent Simmonds",
+          "character": "",
+          "image": "https://resizing.flixster.com/oKo99y74l5GoQc35cOTRLhjM-PQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1059636_v9_bb.jpg"
+        },
+        {
+          "id": "michelle_williams",
+          "name": "Michelle Williams",
+          "character": "",
+          "image": "https://resizing.flixster.com/jQiVrJndOCSpHeHZGmDNCoDYQ2g=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/79233_v9_bc.jpg"
+        },
+        {
+          "id": "jaden_michael",
+          "name": "Jaden Michael",
+          "character": "",
+          "image": "https://resizing.flixster.com/0QBJXgDJrJIwEV-8ZNxHhhBoPEU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1010393_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H4RZQ8JM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:26:23.115316Z"
+    },
+    {
+      "id": "year_of_living_dangerously",
+      "url": "https://www.rottentomatoes.com/m/year_of_living_dangerously",
+      "category": "adventure",
+      "type": "movie",
+      "title": "The Year of Living Dangerously",
+      "original_title": "The Year of Living Dangerously",
+      "genres": [
+        "Adventure"
+      ],
+      "year": 1982,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 115,
+      "certificate": "PG",
+      "rating": 8.0,
+      "votes": 1330,
+      "tomatometer": 88,
+      "tomatometer_count": 34,
+      "tomatometer_certified": false,
+      "audience_score": 77,
+      "audience_count": 304,
+      "metascore": null,
+      "plot": "When journalist Guy Hamilton (Mel Gibson) arrives in Jakarta, Indonesia, he has difficulty making contacts. He forms a friendship with dwarf photographer Billy Kwan (Linda Hunt), through whom he meets British diplomat Jill Bryant (Sigourney Weaver). Bryant falls for Hamilton, and she gives him key information about an approaching Communist uprising. As the city becomes more dangerous, Hamilton stays to pursue the story. However, he faces more threats as he gets closer to the government.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/H-V_PsU0OpgkKb1WfaSzi66lGD4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6766_p_v10_aq.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/H-V_PsU0OpgkKb1WfaSzi66lGD4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6766_p_v10_aq.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/e8AmWgVQAkItxlXyRPtRLjcO5QE=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6766_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/noHVfuPhpE2T_tfVR93TZ0gvby0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6766_p_v10_aq.jpg",
+          "caption": "The Year of Living Dangerously (1982)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Eg4usVCVZK3rZfH2jq0JPXmM7_I=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6766_p_v8_ab.jpg",
+          "caption": "The Year of Living Dangerously (1982)"
+        },
+        {
+          "url": "https://resizing.flixster.com/oQ2nGau9FvJYb3DQCSy_ZpgzNVA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6766_v_v8_af.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0Xk1Y--6ogSSaxOOP9pzc0k35Zo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6766_i_h10_aa.jpg",
+          "caption": "The Year of Living Dangerously (1982)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "peter_weir",
+          "name": "Peter Weir"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "mel_gibson",
+          "name": "Mel Gibson",
+          "character": "",
+          "image": "https://resizing.flixster.com/3IqwEHIdOSiQs8X-vA7UbB2urdk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002GYKTG.jpg"
+        },
+        {
+          "id": "sigourney_weaver",
+          "name": "Sigourney Weaver",
+          "character": "",
+          "image": "https://resizing.flixster.com/ao360YSZnGP0disSTv-JM_PeF04=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1898_v9_bc.jpg"
+        },
+        {
+          "id": "linda_hunt",
+          "name": "Linda Hunt",
+          "character": "",
+          "image": "https://resizing.flixster.com/SE8xsSsoXLB8PZAUnqoiAqu2TAw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/39520_v9_bb.jpg"
+        },
+        {
+          "id": "michael_murphy_4",
+          "name": "Michael Murphy",
+          "character": "",
+          "image": "https://resizing.flixster.com/aTwiA8S1_LEuu5SiOge6mcm3ZLQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/79663_v9_ba.jpg"
+        },
+        {
+          "id": "bill_kerr",
+          "name": "Bill Kerr",
+          "character": "",
+          "image": "https://resizing.flixster.com/UI3hEF2m6ZRkM_5f2J-U1Tv0Kw0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/8288_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Year-of-Living-Dangerously/9382?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-21T13:41:21.443000Z"
     },
     {
       "id": "yosemite_2016",

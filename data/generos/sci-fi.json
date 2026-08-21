@@ -1,7 +1,7 @@
 {
   "genre": "sci-fi",
   "name": "Sci-Fi",
-  "count": 536,
+  "count": 604,
   "titles": [
     {
       "id": "transformers_the_movie",
@@ -647,6 +647,31 @@
       ]
     },
     {
+      "id": "star_wars_episode_iv_a_new_hope",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Star Wars: Episode IV - A New Hope",
+      "original_title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 9.3,
+      "votes": 124464,
+      "tomatometer": 93,
+      "audience_score": 96,
+      "runtime_minutes": 121,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/leyFc2HBeFQP8X7kJkwrl8sam0g=/300x450/v2/https://resizing.flixster.com/rIic1xQq9hyHMW6OJsCNOCVKRdw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4Y2VkZjJhLWRmMGYtNDljZC1iN2JhLTYzMjk1YzMxNWMwOC53ZWJw",
+      "plot": "The Imperial Forces -- under orders from cruel Darth Vader (David Prowse) -- hold Princess Leia (Carrie Fisher) hostage, in their efforts to quell the rebellion against the Galactic Empire. Luke…",
+      "directors": [
+        "George Lucas"
+      ]
+    },
+    {
       "id": "gravity_2013",
       "category": "sci-fi",
       "type": "movie",
@@ -668,6 +693,30 @@
       "plot": "Dr. Ryan Stone is a medical engineer on her first shuttle mission. Her commander is veteran astronaut Matt Kowalsky, helming his last flight before retirement. Then, during a routine space walk by…",
       "directors": [
         "Alfonso Cuarón"
+      ]
+    },
+    {
+      "id": "et_the_extraterrestrial",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "E.T. the Extra-Terrestrial",
+      "original_title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "genres": [
+        "Kids & Family",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "rating": 9.5,
+      "votes": 115000,
+      "tomatometer": 99,
+      "audience_score": 72,
+      "runtime_minutes": 114,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/xzb8XxvVnazJb3BNyudLPoE_peQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10998_p_v12_au.jpg",
+      "plot": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott…",
+      "directors": [
+        "Steven Spielberg"
       ]
     },
     {
@@ -1678,6 +1727,33 @@
       ]
     },
     {
+      "id": "elysium_2013",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Elysium",
+      "original_title": "Elysium",
+      "year": 2013,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure",
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.4,
+      "votes": 66173,
+      "tomatometer": 64,
+      "audience_score": 58,
+      "runtime_minutes": 109,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/9IBLt8IMqbwr5RFof9HJOkefTyk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9360879_p_v8_ar.jpg",
+      "plot": "In 2154, the wealthy live in comfort and luxury aboard a space station, while the poor have a hardscrabble existence on the overpopulated and ruined Earth.",
+      "directors": [
+        "Neill Blomkamp"
+      ]
+    },
+    {
       "id": "1071806-independence_day",
       "category": "sci-fi",
       "type": "movie",
@@ -2080,6 +2156,29 @@
       ]
     },
     {
+      "id": "12_monkeys",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "12 Monkeys",
+      "original_title": "12 Monkeys",
+      "year": 1995,
+      "genres": [
+        "Mystery & Thriller",
+        "Sci-Fi"
+      ],
+      "rating": 8.0,
+      "votes": 52244,
+      "tomatometer": 88,
+      "audience_score": 88,
+      "runtime_minutes": 131,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/xnp1iuA8xVEFeYFQEfT6HaCL2OU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17517_p_v8_au.jpg",
+      "plot": "Traveling back in time isn't simple, as James Cole (Bruce Willis) learns the hard way. Imprisoned in the 2030s, James is recruited for a mission that will send him back to the 1990s. Once there, he's…",
+      "directors": [
+        "Terry Gilliam"
+      ]
+    },
+    {
       "id": "serenity",
       "category": "sci-fi",
       "type": "movie",
@@ -2101,6 +2200,30 @@
       "plot": "In this continuation of the television series \"Firefly,\" a group of rebels travels the outskirts of space aboard their ship, Serenity, outside the reach of the Alliance, a sinister regime that…",
       "directors": [
         "Joss Whedon"
+      ]
+    },
+    {
+      "id": "hellboy_2_the_golden_army",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Hellboy II: The Golden Army",
+      "original_title": "Hellboy II: The Golden Army",
+      "year": 2008,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "rating": 7.3,
+      "votes": 50148,
+      "tomatometer": 86,
+      "audience_score": 71,
+      "runtime_minutes": 120,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/sKw5-NjJDklwiiI6iiA5ulH9lW4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p172364_p_v10_af.jpg",
+      "plot": "Hellboy (Ron Perlman), his pyrokinetic girlfriend, Liz (Selma Blair), and aquatic empath, Abe Sapien (Doug Jones), face their biggest battle when an underworld prince (Luke Goss) plans to reclaim…",
+      "directors": [
+        "Guillermo del Toro"
       ]
     },
     {
@@ -2446,6 +2569,55 @@
       ]
     },
     {
+      "id": "cowboys_and_aliens",
+      "category": "western",
+      "type": "movie",
+      "title": "Cowboys & Aliens",
+      "original_title": "Cowboys & Aliens",
+      "year": 2011,
+      "genres": [
+        "Sci-Fi",
+        "Western",
+        "Action"
+      ],
+      "rating": 5.6,
+      "votes": 45375,
+      "tomatometer": 44,
+      "audience_score": 43,
+      "runtime_minutes": 118,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/mnPKzbZwVvtJIfA2edQ28cd1qaw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8223393_p_v12_ba.jpg",
+      "plot": "Bearing a mysterious metal shackle on his wrist, an amnesiac gunslinger wanders into a frontier town called Absolution. He quickly finds that strangers are unwelcome, and no one does anything without…",
+      "directors": [
+        "Jon Favreau"
+      ]
+    },
+    {
+      "id": "the_maze_runner",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Maze Runner",
+      "original_title": "The Maze Runner",
+      "year": 2014,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.9,
+      "votes": 44772,
+      "tomatometer": 66,
+      "audience_score": 68,
+      "runtime_minutes": 113,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/Wrcv7D9oe7KZhRhpZi-LS4vLicU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10172717_p_v8_bd.jpg",
+      "plot": "Thomas (Dylan O'Brien), a teenager, arrives in a glade at the center of a giant labyrinth. Like the other youths dumped there before him, he has no memory of his previous life. Thomas quickly becomes…",
+      "directors": [
+        "Wes Ball"
+      ]
+    },
+    {
       "id": "the_fountain",
       "category": "sci-fi",
       "type": "movie",
@@ -2611,6 +2783,31 @@
       "plot": "In the not-too-distant future, Earth's dying sun spells the end for humanity. In a last-ditch effort to save the planet, a crew of eight men and women ventures into space with a device that could…",
       "directors": [
         "Danny Boyle"
+      ]
+    },
+    {
+      "id": "hellboy",
+      "category": "horror",
+      "type": "movie",
+      "title": "Hellboy",
+      "original_title": "Hellboy",
+      "year": 2004,
+      "genres": [
+        "Fantasy",
+        "Sci-Fi",
+        "Action",
+        "Horror"
+      ],
+      "rating": 6.9,
+      "votes": 41261,
+      "tomatometer": 81,
+      "audience_score": 66,
+      "runtime_minutes": 125,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/QNXZ_x7f8ZXm6HX12WJYMSTeMvQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34304_p_v13_ap.jpg",
+      "plot": "At the end of World War II, the Nazis attempt to open a portal to a paranormal dimension in order to defeat the Allies, but are only able to summon a baby demon who is rescued by Allied forces and…",
+      "directors": [
+        "Guillermo del Toro"
       ]
     },
     {
@@ -2858,6 +3055,31 @@
       "plot": "Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation. While investigating one of Drake's experiments, Eddie's body merges with the…",
       "directors": [
         "Ruben Fleischer"
+      ]
+    },
+    {
+      "id": "snowpiercer",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Snowpiercer",
+      "original_title": "Snowpiercer",
+      "year": 2014,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Mystery & Thriller",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "votes": 34415,
+      "tomatometer": 94,
+      "audience_score": 72,
+      "runtime_minutes": 125,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/QPwQfUeLws8TSg-k9FosEt7Hlko=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10106695_p_v13_au.jpg",
+      "plot": "A post-apocalyptic ice age forces humanity's last survivors aboard a globe-spanning supertrain. One man will risk everything to lead a revolt for control of the engine and the future of the world.",
+      "directors": [
+        "Bong Joon Ho"
       ]
     },
     {
@@ -3202,6 +3424,31 @@
       "plot": "Transported to an alternate universe, four young outsiders gain superhuman powers as they alter their physical form in shocking ways. Reed Richards becomes Mr. Fantastic, able to stretch and twist…",
       "directors": [
         "Josh Trank"
+      ]
+    },
+    {
+      "id": "jurassic_park_iii",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Jurassic Park III",
+      "original_title": "Jurassic Park III",
+      "year": 2001,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.8,
+      "votes": 28364,
+      "tomatometer": 49,
+      "audience_score": 37,
+      "runtime_minutes": 91,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/-dpg3l3X2wVCwn9oZFBAmydLrSg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28034_p_v10_ay.jpg",
+      "plot": "After being persuaded by a wealthy businessman to conduct an aerial tour of Isla Sorna, InGen's second site for a failed Jurassic Park experiment, Dr. Alan Grant discovers the true reason for his…",
+      "directors": [
+        "Joe Johnston"
       ]
     },
     {
@@ -3835,6 +4082,33 @@
       ]
     },
     {
+      "id": "the_host_2013",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Host",
+      "original_title": "The Host",
+      "year": 2013,
+      "genres": [
+        "Sci-Fi",
+        "Romance",
+        "Adventure",
+        "Action",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 3.6,
+      "votes": 22705,
+      "tomatometer": 10,
+      "audience_score": 50,
+      "runtime_minutes": 125,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/qgFDB4Nyg3W_DoEI6XapSvd4HC0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9170652_p_v10_ab.jpg",
+      "plot": "When an unseen enemy threatens mankind by taking over humans' bodies and erasing their minds, Melanie Stryder risks everything to protect the people she cares about most, proving that love can…",
+      "directors": [
+        "Andrew Niccol"
+      ]
+    },
+    {
       "id": "war_for_the_planet_of_the_apes",
       "category": "sci-fi",
       "type": "movie",
@@ -3904,6 +4178,31 @@
       "plot": "Galactic criminal Riddick (Vin Diesel) is on the run, with bounty hunters on his tail. He receives guidance from Aereon (Judi Dench), ambassador from the Elemental race, who informs him that a…",
       "directors": [
         "David Twohy"
+      ]
+    },
+    {
+      "id": "superman_the_movie",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Superman: The Movie",
+      "original_title": "Superman: The Movie",
+      "year": 1978,
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 8.3,
+      "votes": 21609,
+      "tomatometer": 87,
+      "audience_score": 86,
+      "runtime_minutes": 143,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/EAmbBNg4jaWJkAp07SSXok9i2VA=/300x450/v2/https://resizing.flixster.com/m7qCQivtoW2D_YyCIOcbDvLtBng=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY5NmQ5NjI2LTI0NjAtNDU4Yy1iZDA1LTY3YTU4NDg4YjMzYi5qcGc=",
+      "plot": "Just before the destruction of the planet Krypton, scientist Jor-El (Marlon Brando) sends his infant son Kal-El on a spaceship to Earth. Raised by kindly farmers Jonathan (Glenn Ford) and Martha Kent…",
+      "directors": [
+        "Richard Donner"
       ]
     },
     {
@@ -4053,6 +4352,31 @@
       ]
     },
     {
+      "id": "jurassic_world_dominion",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Jurassic World Dominion",
+      "original_title": "Jurassic World Dominion",
+      "year": 2022,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.8,
+      "votes": 19769,
+      "tomatometer": 28,
+      "audience_score": 77,
+      "runtime_minutes": 147,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/U1yYPtHfms5YR8yrm0H9TgD0zfg=/300x450/v2/https://resizing.flixster.com/2VPIaCRTElZ2Iwa0u5vdO8Tq_Kw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M5MjdhYzIwLTlhOWYtNDFiYS05YTM0LTkzNTUxNThlZWFkZi5qcGc=",
+      "plot": "This summer, experience the epic conclusion to the Jurassic era as two generations unite for the first time. Chris Pratt and Bryce Dallas Howard are joined by Oscar®-winner Laura Dern, Jeff Goldblum…",
+      "directors": [
+        "Colin Trevorrow"
+      ]
+    },
+    {
       "id": "alien_resurrection",
       "category": "horror",
       "type": "movie",
@@ -4195,6 +4519,30 @@
       "plot": "Careless American military personnel dump chemicals into South Korea's Han River. Several years later, a creature emerges from the tainted waters and sinks its ravenous jaws into local residents.…",
       "directors": [
         "Bong Joon Ho"
+      ]
+    },
+    {
+      "id": "the_giver",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Giver",
+      "original_title": "The Giver",
+      "year": 2014,
+      "genres": [
+        "Drama",
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 5.3,
+      "votes": 18544,
+      "tomatometer": 34,
+      "audience_score": 55,
+      "runtime_minutes": 97,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/mjIpCffk-8Sq5BKyPmRChmqMiI8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10479443_p_v10_al.jpg",
+      "plot": "Jonas (Brenton Thwaites) lives in a seemingly idyllic world of conformity and contentment. When he begins to spend time with The Giver (Jeff Bridges), an old man who is the sole keeper of the…",
+      "directors": [
+        "Phillip Noyce"
       ]
     },
     {
@@ -4493,6 +4841,32 @@
       ]
     },
     {
+      "id": "clone_wars",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Star Wars: The Clone Wars",
+      "original_title": "Star Wars: The Clone Wars",
+      "year": 2008,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Action",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 4.3,
+      "votes": 16032,
+      "tomatometer": 18,
+      "audience_score": 41,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/YqjfyPbpLlZQLbH7T2ncEc8kqGA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p178327_p_v8_ae.jpg",
+      "plot": "As more star systems get swept into the Clone Wars, the valiant Jedi knights struggle to maintain order. Anakin Skywalker and his Padawan learner Ahsoka Tano embark on a mission that brings them…",
+      "directors": [
+        "Dave Filoni"
+      ]
+    },
+    {
       "id": "1090759-deep_blue_sea",
       "category": "sci-fi",
       "type": "movie",
@@ -4538,372 +4912,6 @@
       "plot": "South London teenagers (John Boyega, Alex Esmail, Leeon Jones) defend their neighborhood from malevolent extraterrestrials.",
       "directors": [
         "Joe Cornish"
-      ]
-    },
-    {
-      "id": "dark_phoenix",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Dark Phoenix",
-      "original_title": "Dark Phoenix",
-      "year": 2019,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Fantasy"
-      ],
-      "rating": 4.7,
-      "votes": 15485,
-      "tomatometer": 22,
-      "audience_score": 64,
-      "runtime_minutes": 114,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/N0RMQw34fh7w3u-ntKVHtc0P7bM=/300x450/v2/https://resizing.flixster.com/U_DLv-Mf32lePzmlHomzhnGgt98=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QwYjMwOTZhLTVjM2QtNDI2OS1hZWQ0LTVhNDUxMDcwZDk2Zi53ZWJw",
-      "plot": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit…",
-      "directors": [
-        "Simon Kinberg"
-      ]
-    },
-    {
-      "id": "under_the_skin_2013",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Under the Skin",
-      "original_title": "Under the Skin",
-      "year": 2014,
-      "genres": [
-        "Sci-Fi"
-      ],
-      "rating": 7.9,
-      "votes": 15107,
-      "tomatometer": 83,
-      "audience_score": 55,
-      "runtime_minutes": 108,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/r2y3PZ6U5bU0RppefZcYboTFbBw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10187422_p_v12_ag.jpg",
-      "plot": "Disguising herself as a human female, an extraterrestrial (Scarlett Johansson) drives around Scotland and tries to lure unsuspecting men into her van.",
-      "directors": [
-        "Jonathan Glazer"
-      ]
-    },
-    {
-      "id": "doomsday",
-      "category": "horror",
-      "type": "movie",
-      "title": "Doomsday",
-      "original_title": "Doomsday",
-      "year": 2008,
-      "genres": [
-        "Action",
-        "Sci-Fi",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.2,
-      "votes": 14940,
-      "tomatometer": 50,
-      "audience_score": 44,
-      "runtime_minutes": 109,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/TFRQbb44XpnG3fZ0cSLq_NQIp3s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p177176_p_v10_ab.jpg",
-      "plot": "When the first outbreak of the Reaper virus hit Scotland, Eden Sinclair was one of the last to escape containment and had to leave her mother behind. Twenty-five years later, Maj. Eden Sinclair…",
-      "directors": [
-        "Neil Marshall"
-      ]
-    },
-    {
-      "id": "deep_impact",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Deep Impact",
-      "original_title": "Deep Impact",
-      "year": 1998,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Drama",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.8,
-      "votes": 14913,
-      "tomatometer": 45,
-      "audience_score": 43,
-      "runtime_minutes": 115,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/ntzNAvYPXpm6VgFGYxj6fpPaxcM=/300x450/v2/https://resizing.flixster.com/FN6TuPfrhN340Hve5LomSbntPI0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQxNTFhM2E0LTM5OWMtNGY1My05ZDI3LWY4MTI2YjY3ODY1ZC5qcGc=",
-      "plot": "A comet is hurtling toward Earth and could mean the end of all human life. The U.S. government keeps the crisis under wraps, but crack reporter Jenny Lerner (Tea Leoni) uncovers the truth -- forcing…",
-      "directors": [
-        "Mimi Leder"
-      ]
-    },
-    {
-      "id": "1108704-planet_of_the_apes",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Planet of the Apes",
-      "original_title": "Planet of the Apes",
-      "year": 2001,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Adventure"
-      ],
-      "rating": 6.0,
-      "votes": 14738,
-      "tomatometer": 42,
-      "audience_score": 27,
-      "runtime_minutes": 120,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/ItWPx7GiVzY0PnP0y0P3o2NNvdE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28092_p_v12_ak.jpg",
-      "plot": "Director Tim Burton (\"Batman\") reinvents one of the most acclaimed and beloved works of science fiction, Pierre Boulle's classic novel \"Planet of the Apes.\" Burton's \"Planet of the Apes\" begins with…",
-      "directors": [
-        "Tim Burton"
-      ]
-    },
-    {
-      "id": "ghost_in_the_shell_2017",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Ghost in the Shell",
-      "original_title": "Ghost in the Shell",
-      "year": 2017,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Adventure"
-      ],
-      "rating": 5.5,
-      "votes": 14669,
-      "tomatometer": 42,
-      "audience_score": 51,
-      "runtime_minutes": 107,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/yByDxykPkJeLzWKiX5zumv6xjE8=/300x450/v2/https://resizing.flixster.com/-aBqyziWGNhs-WQAwOCNQUsjvD4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiZDkzYzUwLWJjYjItNGUzMS05OGUyLWZkMDRkZDcyMGUzYi53ZWJw",
-      "plot": "In the near future, Major is the first of her kind: a human who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals. When terrorism reaches a new level…",
-      "directors": [
-        "Rupert Sanders"
-      ]
-    },
-    {
-      "id": "godzilla",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Godzilla",
-      "original_title": "Godzilla",
-      "year": 1998,
-      "genres": [
-        "Sci-Fi",
-        "Action"
-      ],
-      "rating": 4.5,
-      "votes": 14619,
-      "tomatometer": 20,
-      "audience_score": 28,
-      "runtime_minutes": 138,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/RZ40HvODTCH-2PdHJ8NMda9VJkQ=/300x450/v2/https://resizing.flixster.com/TOsJJ2iuBYu_FxeuxwGpwVS1WOg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM2ZDRiNTJiLTRlMWMtNDRhZC04ZTIzLWRiZmE2ZDQwMjQ2Ni5qcGc=",
-      "plot": "During a nuclear test, the French government inadvertently mutates a lizard nest; years later, a giant lizard makes its way to New York City. Dr. Niko Tatopoulos, an expert on the effects of…",
-      "directors": [
-        "Roland Emmerich"
-      ]
-    },
-    {
-      "id": "assassins_creed",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Assassin's Creed",
-      "original_title": "Assassin's Creed",
-      "year": 2016,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy",
-        "Sci-Fi",
-        "History",
-        "Drama"
-      ],
-      "rating": 4.0,
-      "votes": 14570,
-      "tomatometer": 18,
-      "audience_score": 42,
-      "runtime_minutes": 116,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/f277Hj6xo40HexKUG4cOcJn9Eqo=/300x450/v2/https://resizing.flixster.com/Lf4MQ3ZIgr4qb5TW3l0IR_K8LhY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1NDI4NDljLTFjMDUtNDM2NC1hODk4LTAwYWQ1YTczNDgwZS53ZWJw",
-      "plot": "A descendant of the mysterious secret society known as the Assassins uses his newfound knowledge and physical skills to battle the power-hungry Templar Order.",
-      "directors": [
-        "Justin Kurzel"
-      ]
-    },
-    {
-      "id": "10012068-repo_men",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Repo Men",
-      "original_title": "Repo Men",
-      "year": 2010,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.6,
-      "votes": 14525,
-      "tomatometer": 21,
-      "audience_score": 42,
-      "runtime_minutes": 111,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/bAHPFt3tpwoMKQiB1RhLtkwXoUc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7876953_p_v10_ah.jpg",
-      "plot": "In the future, medical technology has advanced to the point where people can buy artificial organs to extend their lives. But if they default on payments, an organization known as the Union sends…",
-      "directors": [
-        "Miguel Sapochnik"
-      ]
-    },
-    {
-      "id": "the_lobster",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "The Lobster",
-      "original_title": "The Lobster",
-      "year": 2016,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Fantasy",
-        "Drama",
-        "Sci-Fi"
-      ],
-      "rating": 7.6,
-      "votes": 14475,
-      "tomatometer": 87,
-      "audience_score": 65,
-      "runtime_minutes": 118,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Qfq-rkey_jtyHVF7d6rjG-qHFJs=/300x450/v2/https://resizing.flixster.com/EcwvV7lPov8nqDjWAFzjlr3p_uw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM4OTI0NjBlLTRlYTQtNGQzMy05OGEzLTAyODcyYWVmODY2My53ZWJw",
-      "plot": "In a dystopian society, single people must find a mate within 45 days or be transformed into an animal of their choice.",
-      "directors": [
-        "Yorgos Lanthimos"
-      ]
-    },
-    {
-      "id": "pandorum",
-      "category": "horror",
-      "type": "movie",
-      "title": "Pandorum",
-      "original_title": "Pandorum",
-      "year": 2009,
-      "genres": [
-        "Sci-Fi",
-        "Horror",
-        "Action"
-      ],
-      "rating": 4.6,
-      "votes": 14452,
-      "tomatometer": 26,
-      "audience_score": 49,
-      "runtime_minutes": 108,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/foYKOoTFYTaM67Nt62jVOEqzIOY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p191800_p_v10_an.jpg",
-      "plot": "Astronauts Payton (Dennis Quaid) and Bower (Ben Foster) awake in a hypersleep chamber with no memory of who they are or what their mission might be. While Payton stays behind to monitor the radio…",
-      "directors": [
-        "Christian Alvart"
-      ]
-    },
-    {
-      "id": "planet_51",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Planet 51",
-      "original_title": "Planet 51",
-      "year": 2009,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Sci-Fi",
-        "Animation"
-      ],
-      "rating": 4.4,
-      "votes": 14231,
-      "tomatometer": 23,
-      "audience_score": 40,
-      "runtime_minutes": 91,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/bSCfQ3hh_wmiZuvZsfp_AoS8rEA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p177954_p_v13_ao.jpg",
-      "plot": "When astronaut Capt. Charles \"Chuck\" Baker lands on Planet 51, he thinks he is the first life form to set foot there. He gets the surprise of his life when he learns that it is inhabited by little…",
-      "directors": [
-        "Jorge Blanco"
-      ]
-    },
-    {
-      "id": "10004504-ultraviolet",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Ultraviolet",
-      "original_title": "Ultraviolet",
-      "year": 2006,
-      "genres": [
-        "Sci-Fi",
-        "Action"
-      ],
-      "rating": 3.0,
-      "votes": 14004,
-      "tomatometer": 9,
-      "audience_score": 30,
-      "runtime_minutes": 88,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/JVyIfSN8ev8ExYKcqswOL0LRB7A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159164_p_v10_ak.jpg",
-      "plot": "In the late 21st-century, a vampiric disease modifies some people, imbuing each of them with superhuman strength, intelligence and speed. Worldwide civil war looms as normal people, feeling…",
-      "directors": [
-        "Kurt Wimmer"
-      ]
-    },
-    {
-      "id": "event_horizon",
-      "category": "horror",
-      "type": "movie",
-      "title": "Event Horizon",
-      "original_title": "Event Horizon",
-      "year": 1997,
-      "genres": [
-        "Sci-Fi",
-        "Horror"
-      ],
-      "rating": 5.4,
-      "votes": 13506,
-      "tomatometer": 36,
-      "audience_score": 62,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/n-VDZmX4KtlTvdpgTWGRbinwfJw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19815_p_v12_az.jpg",
-      "plot": "A spaceship missing for seven years finally re-emerges and sends out a distress signal. But when a team is sent out to investigate, they discover that something sinister has taken over the craft.",
-      "directors": [
-        "Paul W.S. Anderson"
-      ]
-    },
-    {
-      "id": "dark_skies_2013",
-      "category": "horror",
-      "type": "movie",
-      "title": "Dark Skies",
-      "original_title": "Dark Skies",
-      "year": 2013,
-      "genres": [
-        "Sci-Fi",
-        "Mystery & Thriller",
-        "Horror"
-      ],
-      "rating": 4.9,
-      "votes": 13484,
-      "tomatometer": 42,
-      "audience_score": 49,
-      "runtime_minutes": 97,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/M3bXBzf0yr18Gjz38RiZlW73sCw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9500614_p_v7_ai.jpg",
-      "plot": "Lacy (Keri Russell) and Daniel Barrett (Josh Hamilton) share a peaceful life in the suburbs with their sons, Jesse (Dakota Goyo) and Sam (Kadan Rockett). However, that peace soon shatters with a…",
-      "directors": [
-        "Scott Stewart"
       ]
     }
   ]

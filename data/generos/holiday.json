@@ -1,8 +1,32 @@
 {
   "genre": "holiday",
   "name": "Holiday",
-  "count": 30,
+  "count": 41,
   "titles": [
+    {
+      "id": "halloween_2007",
+      "category": "horror",
+      "type": "movie",
+      "title": "Halloween",
+      "original_title": "Halloween",
+      "year": 2007,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.4,
+      "votes": 41851,
+      "tomatometer": 28,
+      "audience_score": 59,
+      "runtime_minutes": 110,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/4vK55lV3LYZOaV-teqYDQjGJ2BI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p167019_p_v10_ay.jpg",
+      "plot": "Nearly two decades after being committed to a mental institution for killing his stepfather and older sister, Michael Myers breaks out, intent on returning to the town of Haddonfield, Ill. He arrives…",
+      "directors": [
+        "Rob Zombie"
+      ]
+    },
     {
       "id": "1009113-halloween",
       "category": "horror",
@@ -28,6 +52,56 @@
       ]
     },
     {
+      "id": "h2_halloween_2",
+      "category": "horror",
+      "type": "movie",
+      "title": "Halloween II",
+      "original_title": "Halloween II",
+      "year": 2009,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 4.6,
+      "votes": 28665,
+      "tomatometer": 25,
+      "audience_score": 44,
+      "runtime_minutes": 105,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/SGinBVelRSg2qaSh6LtKSjXbFZ8=/300x450/v2/https://resizing.flixster.com/GCtH8OzL50Np8AYMZtmgPZIa3qE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4ZTAzOGY1LWQ3MmEtNDAxNC04YWYyLTU4YzAwOTc4YzU2Yy53ZWJw",
+      "plot": "A year after narrowly escaping death at the hands of Michael Myers (Tyler Mane), Laurie Strode is at the breaking point, pushed to the edge by Dr. Loomis' (Malcolm McDowell) revelation that she's…",
+      "directors": [
+        "Rob Zombie"
+      ]
+    },
+    {
+      "id": "10008502-christmas_carol",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Disney's A Christmas Carol",
+      "original_title": "Disney's A Christmas Carol",
+      "year": 2009,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Fantasy",
+        "Drama",
+        "Animation"
+      ],
+      "rating": 6.1,
+      "votes": 25641,
+      "tomatometer": 52,
+      "audience_score": 58,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/-xrPxhwumur_ZrMrXOI2llWh45I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3554929_p_v10_aa.jpg",
+      "plot": "Though London awaits the joyful arrival of Christmas, miserly Ebenezer Scrooge (Jim Carrey) thinks it's all humbug, berating his faithful clerk and cheerful nephew for their view. Later, Scrooge…",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
       "id": "very_harold_and_kumar_christmas",
       "category": "comedy",
       "type": "movie",
@@ -48,6 +122,57 @@
       "plot": "Six years after their last adventure, stoner pals Harold (John Cho) and Kumar (Kal Penn) have grown apart and found new friends. As each is busy making holiday preparations, a mysterious package…",
       "directors": [
         "Todd Strauss-Schulson"
+      ]
+    },
+    {
+      "id": "arthur_christmas",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Arthur Christmas",
+      "original_title": "Arthur Christmas",
+      "year": 2011,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Comedy",
+        "Fantasy",
+        "Drama",
+        "Animation"
+      ],
+      "rating": 7.2,
+      "votes": 15828,
+      "tomatometer": 93,
+      "audience_score": 77,
+      "runtime_minutes": 100,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/AJPATdIfMGa6Yv_pVYBqQQ1e8hY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8718241_p_v8_ae.jpg",
+      "plot": "Everyone knows that, each Christmas, Santa Claus delivers presents to every last child on Earth. What everyone doesn't know is that Santa accomplishes the feat with a very high-tech operation beneath…",
+      "directors": [
+        "Sarah Smith"
+      ]
+    },
+    {
+      "id": "my_bloody_valentine_3_d",
+      "category": "horror",
+      "type": "movie",
+      "title": "My Bloody Valentine",
+      "original_title": "My Bloody Valentine",
+      "year": 2009,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.8,
+      "votes": 12502,
+      "tomatometer": 63,
+      "audience_score": 45,
+      "runtime_minutes": 101,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/x8IPqLrTB-3onknlfoSc-ApaSr4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p182662_p_v8_ah.jpg",
+      "plot": "Ten years ago, an inexperienced coal miner named Tom Hanniger caused an accident that killed five men and put a sixth, Harry Warden, into a coma. A year later, on Valentine's Day, Harry woke up and…",
+      "directors": [
+        "Patrick Lussier"
       ]
     },
     {
@@ -195,6 +320,30 @@
       ]
     },
     {
+      "id": "halloween_resurrection",
+      "category": "horror",
+      "type": "movie",
+      "title": "Halloween: Resurrection",
+      "original_title": "Halloween: Resurrection",
+      "year": 2002,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 3.6,
+      "votes": 6180,
+      "tomatometer": 10,
+      "audience_score": 24,
+      "runtime_minutes": 90,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Cu9Xt8rPZuJd9XqDEwSYn7TQ-I4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30137_p_v8_ac.jpg",
+      "plot": "He's back for more... When a group of teens wins a contest to spend a night in Michael Myers' childhood home to be broadcast live on the Internet, they believe they are in for a little fun and some…",
+      "directors": [
+        "Rick Rosenthal"
+      ]
+    },
+    {
       "id": "red_one",
       "category": "comedy",
       "type": "movie",
@@ -217,6 +366,31 @@
       "plot": "After Santa Claus -- Code Name: RED ONE -- is kidnapped, the North Pole's Head of Security (Dwayne Johnson) must team up with the world's most infamous bounty hunter (Chris Evans) in a…",
       "directors": [
         "Jake Kasdan"
+      ]
+    },
+    {
+      "id": "halloween_iii_season_of_the_witch",
+      "category": "horror",
+      "type": "movie",
+      "title": "Halloween III: Season of the Witch",
+      "original_title": "Halloween III: Season of the Witch",
+      "year": 1982,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller",
+        "Sci-Fi"
+      ],
+      "rating": 5.0,
+      "votes": 5513,
+      "tomatometer": 50,
+      "audience_score": 31,
+      "runtime_minutes": 98,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/wRJscmnnTAzX6T6jO-U-fuSpiMM=/300x450/v2/https://resizing.flixster.com/L-40u5PqARyqapN-e4yl4ywSY2A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQwNjU3MjA1LTJjMjItNDg5MC05N2E1LTk4YTJkY2Q3NmZjMS5qcGc=",
+      "plot": "Hospital emergency room Dr. Daniel \"Dan\" Challis (Tom Atkins) and Ellie Grimbridge (Stacey Nelkin), the daughter of a murder victim, uncover a terrible plot by small-town mask maker Conal Cochran…",
+      "directors": [
+        "Tommy Lee Wallace"
       ]
     },
     {
@@ -367,6 +541,30 @@
       ]
     },
     {
+      "id": "violent_night",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Violent Night",
+      "original_title": "Violent Night",
+      "year": 2022,
+      "genres": [
+        "Holiday",
+        "Action",
+        "Comedy"
+      ],
+      "rating": 6.5,
+      "votes": 2567,
+      "tomatometer": 74,
+      "audience_score": 88,
+      "runtime_minutes": 112,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/mar8-JLD7KUVeEwkDHseiMtuLIc=/300x450/v2/https://resizing.flixster.com/nifeYuz3wPgP583Gtef3bTSwfI0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRjMjhmYTMwLWViM2EtNDZjYy1iMWRmLTAxNmQ3MzZiMTUyNS5qcGc=",
+      "plot": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn't prepared for a surprise combatant: Santa Claus (David Harbour, Black…",
+      "directors": [
+        "Tommy Wirkola"
+      ]
+    },
+    {
       "id": "my_bloody_valentine",
       "category": "horror",
       "type": "movie",
@@ -412,6 +610,31 @@
       "plot": "Five carnival workers are kidnapped the night before Halloween and held hostage in a large compound. At the mercy of their captors, they are forced to play a twisted game of life or death called 31.…",
       "directors": [
         "Rob Zombie"
+      ]
+    },
+    {
+      "id": "happiest_season",
+      "category": "romance",
+      "type": "movie",
+      "title": "Happiest Season",
+      "original_title": "Happiest Season",
+      "year": 2020,
+      "genres": [
+        "Holiday",
+        "Romance",
+        "Comedy",
+        "LGBTQ+"
+      ],
+      "rating": 6.9,
+      "votes": 1356,
+      "tomatometer": 82,
+      "audience_score": 72,
+      "runtime_minutes": 102,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/HZo5XhgkHa7akTQhTe6H_S5B2fE=/300x450/v2/https://resizing.flixster.com/vuVuveCdTlGiVJfp7JACsjjvFJk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkZDc4NmU1LTEzMjQtNDRhZS04ZjUwLTkwODQ4NWI1NzUzZi5qcGc=",
+      "plot": "This romantic comedy is about longtime lesbian couple Abby (Kristen Stewart) and Harper (Mackenzie Davis), who made plans to go home to the latter's family for the Christmas holidays. Aside from…",
+      "directors": [
+        "Clea Duvall"
       ]
     },
     {
@@ -539,6 +762,29 @@
       ]
     },
     {
+      "id": "the_oath_2018",
+      "category": "comedy",
+      "type": "movie",
+      "title": "The Oath",
+      "original_title": "The Oath",
+      "year": 2018,
+      "genres": [
+        "Holiday",
+        "Comedy"
+      ],
+      "rating": 6.0,
+      "votes": 320,
+      "tomatometer": 63,
+      "audience_score": 40,
+      "runtime_minutes": 93,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/8iMPMFhadcadmO4hqC4Ju0kGVD8=/300x450/v2/https://resizing.flixster.com/4GOObIR82XXC5SEpfvhP-LM3714=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5N2M0M2Q5LTI2MzktNDU2NC1iYWYwLTc5ZGUxZTc0MzM2MS53ZWJw",
+      "plot": "When Chris, a high-strung news junkie, and his more levelheaded wife learn that citizens are being asked to sign a loyalty oath to the president, their reaction is disbelief. As the Thanksgiving…",
+      "directors": [
+        "Ike Barinholtz"
+      ]
+    },
+    {
       "id": "detective_knight_rogue",
       "category": "mystery-thriller",
       "type": "movie",
@@ -584,6 +830,31 @@
       "plot": "Detective James Knight's last-minute assignment to the Independence Day shift turns into a race against time to stop an unbalanced EMT worker who's posing as a cop.",
       "directors": [
         "Edward Drake"
+      ]
+    },
+    {
+      "id": "christmas_carol_the_movie",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Christmas Carol: The Movie",
+      "original_title": "Christmas Carol: The Movie",
+      "year": 2001,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 4.3,
+      "votes": 174,
+      "tomatometer": 13,
+      "audience_score": 48,
+      "runtime_minutes": 81,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/g1XFGzx9FiGhR_yXbZ3NlmwkukU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31012_p_v8_aa.jpg",
+      "plot": "In this animated retelling of Charles Dickens' classic tale, Ebenezer Scrooge (Simon Callow) remains the same old curmudgeonly hermit. As he tries to resist the Christmas cheer surrounding him,…",
+      "directors": [
+        "Jimmy T. Murakami"
       ]
     },
     {

@@ -1,8 +1,55 @@
 {
   "genre": "sports",
   "name": "Sports",
-  "count": 29,
+  "count": 35,
   "titles": [
+    {
+      "id": "happy_gilmore",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Happy Gilmore",
+      "original_title": "Happy Gilmore",
+      "year": 1996,
+      "genres": [
+        "Comedy",
+        "Sports"
+      ],
+      "rating": 6.0,
+      "votes": 69181,
+      "tomatometer": 66,
+      "audience_score": 85,
+      "runtime_minutes": 92,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/F2K-iMLdf-VjnL_z64c15vGXhYo=/300x450/v2/https://resizing.flixster.com/5TTt8nMw0rFtddokuXdas62ayzg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1NjEwNGYyLTVhNzctNDcyNi1hNTMzLWM0NmNiZjNjMjliZi5qcGc=",
+      "plot": "All Happy Gilmore (Adam Sandler) has ever wanted is to be a professional hockey player. But he soon discovers he may actually have a talent for playing an entirely different sport: golf. When his…",
+      "directors": [
+        "Dennis Dugan"
+      ]
+    },
+    {
+      "id": "f1_the_movie",
+      "category": "action",
+      "type": "movie",
+      "title": "F1 The Movie",
+      "original_title": "F1 The Movie",
+      "year": 2025,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 7.1,
+      "votes": 18809,
+      "tomatometer": 82,
+      "audience_score": 97,
+      "runtime_minutes": 155,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/GgkiKnBxqNl20oYErFQCpT2AOfw=/300x450/v2/https://resizing.flixster.com/5Q22ZbwHwgkaD60RZvLq-j6oE9c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyYmY3OGU3LWY2ZDgtNGNhYy04NmJhLWFiZGM2YjM3YTI1Zi5qcGc=",
+      "plot": "Dubbed \"the greatest that never was,\" Sonny Hayes (Brad Pitt) was FORMULA 1's most promising phenom of the 1990s until an accident on the track nearly ended his career. Thirty years later, he's a…",
+      "directors": [
+        "Joseph Kosinski"
+      ]
+    },
     {
       "id": "white_men_cant_jump",
       "category": "comedy",
@@ -73,6 +120,54 @@
       "plot": "The Boys in the Boat is a sports drama based on the #1 New York Times bestselling non-fiction novel written by Daniel James Brown. The film, directed by George Clooney, is about the 1936 University…",
       "directors": [
         "George Clooney"
+      ]
+    },
+    {
+      "id": "the_fire_inside",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Fire Inside",
+      "original_title": "The Fire Inside",
+      "year": 2024,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 7.2,
+      "votes": 990,
+      "tomatometer": 93,
+      "audience_score": 93,
+      "runtime_minutes": 109,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/AIxMeTv1b5CpEVsZ_GS9httYTLk=/300x450/v2/https://resizing.flixster.com/az92UhD9AYF4EJousg1vpzBCAyc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyMDU1ZTZmLWY2YmItNDgwNS05ZGUzLTEwOTQ0NzMxMGY2NS5qcGc=",
+      "plot": "THE FIRE INSIDE is the inspirational true story of Claressa Shields, arguably the greatest female boxer of all time. Claressa, a high school Junior from Flint, Michigan, aided by her tough-love…",
+      "directors": [
+        "Rachel Morrison"
+      ]
+    },
+    {
+      "id": "the_hill",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Hill",
+      "original_title": "The Hill",
+      "year": 2023,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 5.5,
+      "votes": 812,
+      "tomatometer": 44,
+      "audience_score": 97,
+      "runtime_minutes": 126,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/HLU4R0W7bUKMGmeUUB6D_qmKLZg=/300x450/v2/https://resizing.flixster.com/6za5GPAoRfJCtuiiGiAvBDkEfR8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmNmZkNDFlLTBlN2YtNDBmNi05YjMxLTI2NGVlMmFkZjEzMy5qcGc=",
+      "plot": "Growing up impoverished in small-town Texas, young Rickey Hill shows an extraordinary ability for hitting a baseball, despite being burdened by leg braces from a degenerative spinal disease. His…",
+      "directors": [
+        "Jeff Celentano"
       ]
     },
     {
@@ -194,6 +289,30 @@
       "plot": "\"Stephen Curry: Underrated\" is the remarkable coming-of-age story of one of the most influential, dynamic and unexpected players in the history of basketball. This feature documentary -- blending…",
       "directors": [
         "Peter Nicks"
+      ]
+    },
+    {
+      "id": "unstoppable_2024_2",
+      "category": "biography",
+      "type": "movie",
+      "title": "Unstoppable",
+      "original_title": "Unstoppable",
+      "year": 2024,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 6.4,
+      "votes": 256,
+      "tomatometer": 76,
+      "audience_score": 86,
+      "runtime_minutes": 116,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/5_6rMUV7Yv0QVbaligh7YQM819k=/300x450/v2/https://resizing.flixster.com/69PYU_eJVglsAx4fUPXf_jyZDbU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1OTA2ZTczLTA0NTktNDM0Ny1iZDNhLTgyNTVhNTk4MGRmMy5qcGc=",
+      "plot": "Unstoppable is the inspiring true story of Anthony Robles (Jharrel Jerome) who was born with one leg but whose indomitable spirit and unbreakable resolve empowered him to defy the odds and pursue his…",
+      "directors": [
+        "William Goldenberg"
       ]
     },
     {
@@ -341,6 +460,30 @@
       "plot": "\"That's a hassle.\" That was second-year high schooler Nagi Seishiro's favorite phrase as he lived his dull life. Until Mikage Reo, a classmate who dreamed of winning the World Cup, discovered Nagi's…",
       "directors": [
         "Shunsuke Ishikawa"
+      ]
+    },
+    {
+      "id": "queen_of_the_ring",
+      "category": "biography",
+      "type": "movie",
+      "title": "Queen of the Ring",
+      "original_title": "Queen of the Ring",
+      "year": 2025,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 6.3,
+      "votes": 127,
+      "tomatometer": 73,
+      "audience_score": 88,
+      "runtime_minutes": 130,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/-cGEdf56rXUZN1-i8LyjGkslWLU=/300x450/v2/https://resizing.flixster.com/HnP-xTliHiApBgPff3iF2dHaR9g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0YmQ4NWQ0LWIyZDYtNDc2YS04Njg2LTE1ZjUwNjlmNDlmMi5wbmc=",
+      "plot": "An extraordinary, true-life tale that follows Mildred Burke, the legendary professional wrestler and single mom who defied incredible odds to become the first million-dollar female athlete and…",
+      "directors": [
+        "Ash Avildsen"
       ]
     },
     {
