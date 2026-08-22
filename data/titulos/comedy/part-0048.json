@@ -1,8 +1,8 @@
 {
   "genre": "comedy",
   "part": 48,
-  "count": 57,
-  "updated_at": "2026-08-22T02:47:53.697936Z",
+  "count": 60,
+  "updated_at": "2026-08-22T07:11:43.517069Z",
   "titles": [
     {
       "id": "1002178-best_of_times",
@@ -792,7 +792,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T02:47:13.182202Z"
+      "scraped_at": "2026-08-22T07:06:20.471330Z"
     },
     {
       "id": "bill_and_teds_excellent_adventure",
@@ -900,7 +900,111 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T02:44:10.606742Z"
+      "scraped_at": "2026-08-22T07:08:36.359120Z"
+    },
+    {
+      "id": "brighton_beach_memoirs",
+      "url": "https://www.rottentomatoes.com/m/brighton_beach_memoirs",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Brighton Beach Memoirs",
+      "original_title": "Brighton Beach Memoirs",
+      "genres": [
+        "Comedy"
+      ],
+      "year": 1986,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 108,
+      "certificate": "PG-13",
+      "rating": 6.1,
+      "votes": 215,
+      "tomatometer": 71,
+      "tomatometer_count": 14,
+      "tomatometer_certified": false,
+      "audience_score": 79,
+      "audience_count": 92,
+      "metascore": null,
+      "plot": "Eugene Jerome (Jonathan Silverman) is a Jewish teen living in an unusually hectic Brooklyn, N.Y., household. His father (Bob Dishy) works two jobs, his mother (Blythe Danner) is a professional worrywart and his widowed aunt (Judith Ivey) has moved in, bringing her two daughters (Stacey Glick, Lisa Waltz). Amidst the constant hurly-burly, Jerome dreams of some day becoming a famous writer, but admits that, in the meantime, he'd settle for seeing his first naked woman.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/oUPAQOsyYcOuY3qDYiNZJkTejXU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9692_p_v8_ad.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/oUPAQOsyYcOuY3qDYiNZJkTejXU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9692_p_v8_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fVCyKH7oeBzQdp1srAb_CkUpUOA=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9692_i_h11_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ANCzmLSNeszcqYYcSilD99NAjrk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9692_p_v8_ad.jpg",
+          "caption": "Brighton Beach Memoirs (1986)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Yz_NFILcFMD4Z9Akn3WzjAh0ZVs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9692_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sVXIaFXIkikomFVcq1jtOcK9g10=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9692_i_h11_ab.jpg",
+          "caption": "Brighton Beach Memoirs (1986)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "gene_saks",
+          "name": "Gene Saks"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "blythe_danner",
+          "name": "Blythe Danner",
+          "character": "",
+          "image": "https://resizing.flixster.com/iexcWTXOJLyEOmc4HqpsWMvojoI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71605_v9_bb.jpg"
+        },
+        {
+          "id": "jonathan_silverman",
+          "name": "Jonathan Silverman",
+          "character": "",
+          "image": "https://resizing.flixster.com/aOrxuVW8l7TW1EqxNu6fm9F2Kf0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/33873_v9_bb.jpg"
+        },
+        {
+          "id": "judith_ivey",
+          "name": "Judith Ivey",
+          "character": "",
+          "image": "https://resizing.flixster.com/8VpyScXRABLbinurQHFxSh0kjy8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/833_v9_bb.jpg"
+        },
+        {
+          "id": "stacey_glick",
+          "name": "Stacey Glick",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "lisa-waltz",
+          "name": "Lisa Waltz",
+          "character": "",
+          "image": "https://resizing.flixster.com/PUOLQ64iflZyq5gAJ25snuUhqz8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/39833_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Brighton-Beach-Memoirs/5326?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:10:26.213218Z"
     },
     {
       "id": "brigsby_bear_2017",
@@ -2535,6 +2639,110 @@
       "scraped_at": "2026-08-22T02:40:38.393315Z"
     },
     {
+      "id": "hot_to_trot",
+      "url": "https://www.rottentomatoes.com/m/hot_to_trot",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Hot to Trot",
+      "original_title": "Hot to Trot",
+      "genres": [
+        "Comedy"
+      ],
+      "year": 1988,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 84,
+      "certificate": "PG",
+      "rating": 2.6,
+      "votes": 251,
+      "tomatometer": 0,
+      "tomatometer_count": 15,
+      "tomatometer_certified": false,
+      "audience_score": 41,
+      "audience_count": 104,
+      "metascore": null,
+      "plot": "A stockbroker (Bob Goldthwait) profits from market tips overheard in the stables by his talking horse, Don.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/rHYrfmnz6m9MhzBbqfhOzO7IBoY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11018_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/rHYrfmnz6m9MhzBbqfhOzO7IBoY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11018_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PAe3iejtVsSImo_x0K8xuVljKHY=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11018_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/yxLOOHD5qaFZ4GQ1QESSBM0JE8A=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11018_i_h10_ac.jpg",
+          "caption": "Hot to Trot (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/c5PIDe5jxHTRcuwYJ6Lszjq-IU0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11018_p_v8_aa.jpg",
+          "caption": "Hot to Trot (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/MOFKfWXihT8oKIZhEWtutUUOCiI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11018_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "michael-dinner",
+          "name": "Michael Dinner"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "bob_goldthwait",
+          "name": "Bobcat Goldthwait",
+          "character": "",
+          "image": "https://resizing.flixster.com/5UQXSUG8DP2N1us4P-LEqOuD5es=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002GYKN2.jpg"
+        },
+        {
+          "id": "dabney_coleman",
+          "name": "Dabney Coleman",
+          "character": "",
+          "image": "https://resizing.flixster.com/lJJGTPoIgcMpt-VVb0NenfEJnyo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/343_v9_ba.jpg"
+        },
+        {
+          "id": "virginia_madsen",
+          "name": "Virginia Madsen",
+          "character": "",
+          "image": "https://resizing.flixster.com/AyvJ01UONvC8tUpyFyux0dKcUg0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002KQE1F.jpg"
+        },
+        {
+          "id": "cindy_pickett",
+          "name": "Cindy Pickett",
+          "character": "",
+          "image": "https://resizing.flixster.com/Z6iNAK5H5VbA9FAg38_uGRGn-Lo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/13007_v9_ba.jpg"
+        },
+        {
+          "id": "jim_metzler",
+          "name": "Jim Metzler",
+          "character": "",
+          "image": "https://resizing.flixster.com/RvYrL9Y5dmdFpgxgs9L8NSze9Ig=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/83862_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Hot-to-Trot/83023?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:10:20.204217Z"
+    },
+    {
       "id": "how_to_be_a_good_wife",
       "url": "https://www.rottentomatoes.com/m/how_to_be_a_good_wife",
       "category": "comedy",
@@ -4071,6 +4279,118 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-22T02:43:57.068241Z"
+    },
+    {
+      "id": "police_academy_5_assignment_miami_beach",
+      "url": "https://www.rottentomatoes.com/m/police_academy_5_assignment_miami_beach",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Police Academy 5: Assignment Miami Beach",
+      "original_title": "Police Academy 5: Assignment Miami Beach",
+      "genres": [
+        "Comedy"
+      ],
+      "year": 1988,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 89,
+      "certificate": "PG",
+      "rating": 2.6,
+      "votes": 1777,
+      "tomatometer": 0,
+      "tomatometer_count": 9,
+      "tomatometer_certified": false,
+      "audience_score": 33,
+      "audience_count": 571,
+      "metascore": null,
+      "plot": "The vacationing rookies rescue their leader (George Gaynes) from jewel thieves, with a local duo (Matt McCoy, Janet Jones) as backup.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/AjwoI2S1fI-o-j-Xe2qsc4ApVPs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10686_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/AjwoI2S1fI-o-j-Xe2qsc4ApVPs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10686_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jae6XW_40CaOE6xieE4ETh1QWQk=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10686_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Wa1mwsTTyvF4_QrNGlXd80uYzG4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10686_p_v10_ab.jpg",
+          "caption": "Police Academy 5: Assignment Miami Beach (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/YU0X2z64SyJ0XZk7hS0guz5oqVc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10686_p_v8_aa.jpg",
+          "caption": "Police Academy 5: Assignment Miami Beach (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/h1tBtT6Cadj7_DNVcIAoHRHppGg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10686_p_v8_ae.jpg",
+          "caption": "Police Academy 5: Assignment Miami Beach (1988)"
+        },
+        {
+          "url": "https://resizing.flixster.com/KHKN3KRFwcmXhjAcDPde6rMo0pc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10686_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1T-pBd8zItKE0Qm0UmIMbCazACk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10686_i_h10_ab.jpg",
+          "caption": "Police Academy 5: Assignment Miami Beach (1988)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "alan_myerson",
+          "name": "Alan Myerson"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "matt_mccoy",
+          "name": "Matt McCoy",
+          "character": "",
+          "image": "https://resizing.flixster.com/CKdV-4YFLA8pi8_iUT2L2F2tGoQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0022HVZZ.jpg"
+        },
+        {
+          "id": "janet_jones_gretzky",
+          "name": "Janet Jones",
+          "character": "",
+          "image": "https://resizing.flixster.com/UsX7xKfqtmjyBFlTllk-n86dQ84=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/29712_v9_ba.jpg"
+        },
+        {
+          "id": "george_gaynes",
+          "name": "George Gaynes",
+          "character": "",
+          "image": "https://resizing.flixster.com/yvX-2rYkZ5pU7WV3OFGhfK6-ufk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/78695_v9_ba.jpg"
+        },
+        {
+          "id": "bubba_smith",
+          "name": "Bubba Smith",
+          "character": "",
+          "image": "https://resizing.flixster.com/TurI7upnxpnShqqihoIFJC-uHvk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/9773_v9_ba.jpg"
+        },
+        {
+          "id": "gw_bailey",
+          "name": "G.W. Bailey",
+          "character": "",
+          "image": "https://resizing.flixster.com/rT3k_m5q-04voMFCtAzKHUVeZc4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/81609_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Police-Academy-5-Assignment-Miami-Beach/9980?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:10:19.212155Z"
     },
     {
       "id": "secret_zoo",

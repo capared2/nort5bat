@@ -1,7 +1,7 @@
 {
   "genre": "sci-fi",
   "name": "Sci-Fi",
-  "count": 758,
+  "count": 828,
   "titles": [
     {
       "id": "transformers_the_movie",
@@ -3815,6 +3815,32 @@
       ]
     },
     {
+      "id": "ai_artificial_intelligence",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "A.I.: Artificial Intelligence",
+      "original_title": "A.I.: Artificial Intelligence",
+      "year": 2001,
+      "genres": [
+        "Sci-Fi",
+        "Fantasy",
+        "Drama",
+        "Adventure",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.6,
+      "votes": 28393,
+      "tomatometer": 76,
+      "audience_score": 64,
+      "runtime_minutes": 145,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/C2htIDCAf8w41Vs6SOfOs-4iQYY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27945_p_v8_bb.jpg",
+      "plot": "A robotic boy, the first programmed to love, David is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances…",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
       "id": "jurassic_park_iii",
       "category": "sci-fi",
       "type": "movie",
@@ -4882,29 +4908,6 @@
       "plot": "Two hundred years have passed since Ellen Ripley died on Fiorina 161. Aboard the medical research vessel USM Auriga, a team of scientists clones Ripley from her extracted DNA and removes the alien…",
       "directors": [
         "Jean-Pierre Jeunet"
-      ]
-    },
-    {
-      "id": "1017712-robocop",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "RoboCop",
-      "original_title": "RoboCop",
-      "year": 1987,
-      "genres": [
-        "Sci-Fi",
-        "Action"
-      ],
-      "rating": 7.7,
-      "votes": 19610,
-      "tomatometer": 84,
-      "audience_score": 84,
-      "runtime_minutes": 102,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ZL72ksQA3qGlaCYffQW8BV3H6hw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10144_p_v13_aw.jpg",
-      "plot": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the…",
-      "directors": [
-        "Paul Verhoeven"
       ]
     }
   ]

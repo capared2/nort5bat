@@ -1,7 +1,7 @@
 {
   "genre": "adventure",
   "name": "Adventure",
-  "count": 1323,
+  "count": 1402,
   "titles": [
     {
       "id": "the_dark_knight",
@@ -4249,6 +4249,30 @@
       ]
     },
     {
+      "id": "labyrinth",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Labyrinth",
+      "original_title": "Labyrinth",
+      "year": 1986,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 6.5,
+      "votes": 58537,
+      "tomatometer": 64,
+      "audience_score": 86,
+      "runtime_minutes": 101,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/fzfeuF5K41yXpslt_ScCgDDNTGQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9355_p_v12_am.jpg",
+      "plot": "Frustrated with babysitting on yet another weekend night, Sarah (Jennifer Connelly), a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby…",
+      "directors": [
+        "Jim Henson"
+      ]
+    },
+    {
       "id": "zootopia",
       "category": "animation",
       "type": "movie",
@@ -4948,31 +4972,6 @@
       "plot": "In need of a vacation from his ordinary life, factory worker Douglas Quaid visits Rekall, a company that can turn dreams into real memories. Thinking that memories of life as a superspy are just the…",
       "directors": [
         "Len Wiseman"
-      ]
-    },
-    {
-      "id": "predator",
-      "category": "horror",
-      "type": "movie",
-      "title": "Predator",
-      "original_title": "Predator",
-      "year": 1987,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Adventure",
-        "Horror"
-      ],
-      "rating": 6.4,
-      "votes": 48933,
-      "tomatometer": 65,
-      "audience_score": 87,
-      "runtime_minutes": 107,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/rCaq6HjBqvZGgRTRiEvAVgaeD8U=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10094_p_v8_az.jpg",
-      "plot": "Dutch, a soldier of fortune, is hired by the U.S. government to secretly rescue a group of politicians trapped in Guatemala. But when Dutch and his team, which includes weapons expert Blain and CIA…",
-      "directors": [
-        "John McTiernan"
       ]
     }
   ]

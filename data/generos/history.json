@@ -1,7 +1,7 @@
 {
   "genre": "history",
   "name": "History",
-  "count": 526,
+  "count": 539,
   "titles": [
     {
       "id": "gladiator",
@@ -2739,6 +2739,31 @@
       ]
     },
     {
+      "id": "first_man",
+      "category": "adventure",
+      "type": "movie",
+      "title": "First Man",
+      "original_title": "First Man",
+      "year": 2018,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama",
+        "Adventure"
+      ],
+      "rating": 8.1,
+      "votes": 6086,
+      "tomatometer": 87,
+      "audience_score": 68,
+      "runtime_minutes": 141,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/TETNLuCklVWJwk4TtH_QajC5cYU=/300x450/v2/https://resizing.flixster.com/ZA8j-90Sc2neM-aO7a4C1rrSRTU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY1YmFmZmIwLWRmNmYtNGYyMS05OGRkLTNmYmE1ZGFhMTZjNi53ZWJw",
+      "plot": "Hoping to reach the moon by the end of the decade, NASA plans a series of extremely dangerous, unprecedented missions in the early 1960s. Engineer Neil Armstrong joins the space program, spending…",
+      "directors": [
+        "Damien Chazelle"
+      ]
+    },
+    {
       "id": "1014027-mission",
       "category": "history",
       "type": "movie",
@@ -2905,6 +2930,31 @@
       "plot": "As royal troops set fire to the Globe Theatre, Elizabethan-era playwright Ben Jonson (Sebastian Armesto) is tortured by Robert Cecil (Edward Hogg), who demands to know if Edward de Vere, the Earl of…",
       "directors": [
         "Roland Emmerich"
+      ]
+    },
+    {
+      "id": "the_lost_city_of_z",
+      "category": "adventure",
+      "type": "movie",
+      "title": "The Lost City of Z",
+      "original_title": "The Lost City of Z",
+      "year": 2017,
+      "genres": [
+        "Adventure",
+        "History",
+        "Drama",
+        "Biography"
+      ],
+      "rating": 7.3,
+      "votes": 5519,
+      "tomatometer": 85,
+      "audience_score": 58,
+      "runtime_minutes": 141,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/m_bDn-glod9_wLxwAdfXPdpnqF8=/300x450/v2/https://resizing.flixster.com/N_ZFFcecKqnRl8kjmm5IlrpuGp4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhOGVmODZiLTdmMWMtNDA5YS05OTRjLTFjMTgwN2M2OWZkNC53ZWJw",
+      "plot": "At the dawn of the 20th century, British explorer Percy Fawcett journeys into the Amazon, where he discovers evidence of a previously unknown, advanced civilization that may have once inhabited the…",
+      "directors": [
+        "James Gray"
       ]
     },
     {
@@ -4815,54 +4865,6 @@
       "plot": "Veronica (Catherine McCormack) is brilliant, gifted and beautiful, but the handsome aristocrat she loves, Marco Venier (Rufus Sewell), cannot marry her because she is penniless and of questionable…",
       "directors": [
         "Marshall Herskovitz"
-      ]
-    },
-    {
-      "id": "testament_of_youth",
-      "category": "war",
-      "type": "movie",
-      "title": "Testament of Youth",
-      "original_title": "Testament of Youth",
-      "year": 2015,
-      "genres": [
-        "Biography",
-        "History",
-        "Drama",
-        "War"
-      ],
-      "rating": 7.0,
-      "votes": 1848,
-      "tomatometer": 84,
-      "audience_score": 78,
-      "runtime_minutes": 129,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/ZNLn6Nfnd97IITpNtxTm6AsTDuo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11007722_p_v12_av.jpg",
-      "plot": "During World War I, Oxford University student Vera Brittain (Alicia Vikander) postpones her studies to serve as a nurse while her suitor, her brother and a secret admirer face death in the trenches.",
-      "directors": [
-        "James Kent"
-      ]
-    },
-    {
-      "id": "stage_beauty",
-      "category": "history",
-      "type": "movie",
-      "title": "Stage Beauty",
-      "original_title": "Stage Beauty",
-      "year": 2004,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 6.7,
-      "votes": 1848,
-      "tomatometer": 64,
-      "audience_score": 78,
-      "runtime_minutes": 110,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/417UN5dSVfmEEoPax0fKxdzW8hQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34926_p_v10_ab.jpg",
-      "plot": "Humble Maria (Claire Danes), who outfits top London theater star Ned Kynaston (Billy Crudup), takes none of the credit for the male actor's success at playing women. And because this is the 17th…",
-      "directors": [
-        "Richard Eyre"
       ]
     }
   ]

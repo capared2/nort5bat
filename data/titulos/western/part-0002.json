@@ -1,8 +1,8 @@
 {
   "genre": "western",
   "part": 2,
-  "count": 44,
-  "updated_at": "2026-08-22T02:29:10.111414Z",
+  "count": 54,
+  "updated_at": "2026-08-22T07:52:24.702322Z",
   "titles": [
     {
       "id": "1014167-monte_walsh",
@@ -102,6 +102,115 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T19:12:48.173105Z"
+    },
+    {
+      "id": "1021312-three_amigos",
+      "url": "https://www.rottentomatoes.com/m/1021312-three_amigos",
+      "category": "western",
+      "type": "movie",
+      "title": "Three Amigos!",
+      "original_title": "Three Amigos!",
+      "genres": [
+        "Western",
+        "Comedy"
+      ],
+      "year": 1986,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 105,
+      "certificate": "PG",
+      "rating": 5.3,
+      "votes": 8214,
+      "tomatometer": 44,
+      "tomatometer_count": 43,
+      "tomatometer_certified": false,
+      "audience_score": 67,
+      "audience_count": 3931,
+      "metascore": null,
+      "plot": "Three cowboy movie stars from the silent era -- Dusty Bottoms (Chevy Chase), Lucky Day (Steve Martin) and Ned Nederlander (Martin Short) -- are fired when one of their movies bombs. In what seems to be a career-saving offer, young Mexican woman Carmen (Patrice Martinez) offers them a high-paying gig in her village. The three jump at the opportunity, expecting to do their typical act, but Carmen believes they are really heroes and asks them to rid her village of bad guy El Guapo (Alfonso Arau).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/AbwxXo6vYoqXXSnNb-_PGsS7z3g=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9674_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/AbwxXo6vYoqXXSnNb-_PGsS7z3g=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9674_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FFiEOru-tNNkLVjpAI59R6neKms=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9674_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_Jn0scI64tXLXk_1JGXH5JMVfsE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9674_p_v8_aa.jpg",
+          "caption": "Three Amigos! (1986)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Xj4OJxZ9sEhGEW3RfPJ_iP0VlW8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9674_i_h10_ab.jpg",
+          "caption": "Three Amigos! (1986)"
+        },
+        {
+          "url": "https://resizing.flixster.com/9_HmUy4IZEIAIDY4E4T3iZk0keM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9674_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "john_landis",
+          "name": "John Landis"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "chevy",
+          "name": "Chevy Chase",
+          "character": "",
+          "image": "https://resizing.flixster.com/qRwapDa_5OnRSOpO1Etvd-U_yD4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/310_v9_ba.jpg"
+        },
+        {
+          "id": "steve_martin_6",
+          "name": "Steve Martin",
+          "character": "",
+          "image": "https://resizing.flixster.com/PdvGB5niR8AOYEahYkN-TYeQFLQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/60385_v9_bc.jpg"
+        },
+        {
+          "id": "martin_short",
+          "name": "Martin Short",
+          "character": "",
+          "image": "https://resizing.flixster.com/Nbo9E-Jbo0BFClLYo04zkU0aPYo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1617_v9_bb.jpg"
+        },
+        {
+          "id": "patrice_martinez",
+          "name": "Patrice Martinez",
+          "character": "",
+          "image": "https://resizing.flixster.com/u0VMBpe0S1orxVT6amJvWiSP8aE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/86487_v9_ba.jpg"
+        },
+        {
+          "id": "alfonso_arau",
+          "name": "Alfonso Arau",
+          "character": "",
+          "image": "https://resizing.flixster.com/7qG73FW4Vi2mJd0PbyaD4JloLWc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/79610_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Three-Amigos/1793237?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/three-amigos--1043772?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:48:39.724146Z"
     },
     {
       "id": "1043958-posse",
@@ -797,7 +906,107 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T01:59:20.408142Z"
+      "scraped_at": "2026-08-22T07:08:06.541438Z"
+    },
+    {
+      "id": "butch_and_sundance_the_early_days",
+      "url": "https://www.rottentomatoes.com/m/butch_and_sundance_the_early_days",
+      "category": "western",
+      "type": "movie",
+      "title": "Butch and Sundance: The Early Days",
+      "original_title": "Butch and Sundance: The Early Days",
+      "genres": [
+        "Western",
+        "Comedy"
+      ],
+      "year": 1979,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 111,
+      "certificate": "PG",
+      "rating": 3.8,
+      "votes": 61,
+      "tomatometer": 33,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": 51,
+      "audience_count": 17,
+      "metascore": null,
+      "plot": "Prequel to the 1969 western Butch Cassidy and the Sundance Kid in which a gang of bank robbers arrives in a small town disguised as preachers. However, their plot is confounded by the presence of a band of Mexican outlaws, and their incompetence at thieving soon shows through.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/XN-x8zsU8WRCt1f4ksmHYVoIjCQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1320_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/XN-x8zsU8WRCt1f4ksmHYVoIjCQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1320_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ZCn6z648kHQweUCt0FqLKC0SxEo=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1320_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/AEPR2Bb8f548mPuh0-IbqHORMSs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1320_i_h10_ab.jpg",
+          "caption": "Butch and Sundance: The Early Days (1979)"
+        },
+        {
+          "url": "https://resizing.flixster.com/9VVuaHtL6aSKEvl_FTNULZsyUgM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1320_p_v8_aa.jpg",
+          "caption": "Butch and Sundance: The Early Days (1979)"
+        },
+        {
+          "url": "https://resizing.flixster.com/yDbi8XeSVXfcTADrIqvQPROnx5Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1320_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "richard_lester",
+          "name": "Richard Lester"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "william_katt",
+          "name": "William Katt",
+          "character": "",
+          "image": "https://resizing.flixster.com/kdMUgqB5L0aZp21unvC9mAqFzc0=/120x150/v2/https://resizing.flixster.com/tIo2zzJEx4zesZm6gnz3jIgFdNg=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvMjU2ZGI1ZjEtOGE1OC00Y2JkLWE0OGEtZDI0OWIyYjhjNDU2LmpwZw=="
+        },
+        {
+          "id": "tom_berenger",
+          "name": "Tom Berenger",
+          "character": "",
+          "image": "https://resizing.flixster.com/29l_8GC6UpaD3_dxPySFq-96_Iw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/135_v9_bc.jpg"
+        },
+        {
+          "id": "jill_eikenberry",
+          "name": "Jill Eikenberry",
+          "character": "",
+          "image": "https://resizing.flixster.com/Y_bUrDzTgGZm9egx7fUyQoDjprg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/494_v9_bb.jpg"
+        },
+        {
+          "id": "jeff_corey",
+          "name": "Jeff Corey",
+          "character": "",
+          "image": "https://resizing.flixster.com/IrqLoRKUTmkpquZVkjHqxm3WN2A=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/88154_v9_ba.jpg"
+        },
+        {
+          "id": "paul_plunkett",
+          "name": "Paul Plunkett",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:48:37.712079Z"
     },
     {
       "id": "dead_man",
@@ -1028,6 +1237,106 @@
       "scraped_at": "2026-08-21T19:38:46.390602Z"
     },
     {
+      "id": "duchess_and_the_dirtwater_fox",
+      "url": "https://www.rottentomatoes.com/m/duchess_and_the_dirtwater_fox",
+      "category": "western",
+      "type": "movie",
+      "title": "The Duchess and the Dirtwater Fox",
+      "original_title": "The Duchess and the Dirtwater Fox",
+      "genres": [
+        "Western",
+        "Comedy"
+      ],
+      "year": 1976,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 104,
+      "certificate": "PG",
+      "rating": 4.0,
+      "votes": 76,
+      "tomatometer": 50,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": 54,
+      "audience_count": 22,
+      "metascore": null,
+      "plot": "Ne'er-do-well Charlie \"Dirtwater Fox\" Malloy (George Segal) helps outlaws steal a cool $40,000, then runs off with all the money. However, he doesn't count on Duchess (Goldie Hawn), a burlesque dancer and prostitute who manages to trick him out of the cash. As the gang Malloy had double-crossed comes looking to retrieve their loot, the pair team up and engage in some wacky shenanigans, including having her pretend to be a real-life duchess, while gradually falling for each other.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/6gFdFbaukVYlPJLikEQQBJb3Byw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p538_p_v8_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/6gFdFbaukVYlPJLikEQQBJb3Byw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p538_p_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wdi1Bp8k_HY3qx8vNsrLZ0Q3QMU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p538_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/XScaKYPbqwBfcBTPVvxX-LSwHdY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p538_v_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/k4lZocDjweQTNn01XjZeD-P7VBM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p538_p_v8_ab.jpg",
+          "caption": "The Duchess and the Dirtwater Fox (1976)"
+        },
+        {
+          "url": "https://resizing.flixster.com/4FoCukTyyYUI4qljtTGE3VO6KrI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p538_i_h10_ab.jpg",
+          "caption": "The Duchess and the Dirtwater Fox (1976)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "melvin_frank",
+          "name": "Melvin Frank"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "1014038-george_segal",
+          "name": "George Segal",
+          "character": "",
+          "image": "https://resizing.flixster.com/TricHeOneOJ5BvxTsOxzSwftEdY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23476_v9_bb.jpg"
+        },
+        {
+          "id": "goldie_hawn",
+          "name": "Goldie Hawn",
+          "character": "",
+          "image": "https://resizing.flixster.com/S8zDFt6zgCIT99bQl5bGt9vE848=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/24530_v9_bc.jpg"
+        },
+        {
+          "id": "roy_jenson",
+          "name": "Roy Jenson",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "conrad_janis",
+          "name": "Conrad Janis",
+          "character": "",
+          "image": "https://resizing.flixster.com/RH57zgRRpYUuXP6inepwpedsLNk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73223_v9_bb.jpg"
+        },
+        {
+          "id": "thayer_david",
+          "name": "Thayer David",
+          "character": "",
+          "image": "https://resizing.flixster.com/AjvJ49DW8UCppJ2LzuKm0k_Onv0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/150562_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:46:22.483190Z"
+    },
+    {
       "id": "echoes_of_war_2015",
       "url": "https://www.rottentomatoes.com/m/echoes_of_war_2015",
       "category": "western",
@@ -1151,6 +1460,110 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T19:14:01.024217Z"
+    },
+    {
+      "id": "electric_horseman",
+      "url": "https://www.rottentomatoes.com/m/electric_horseman",
+      "category": "western",
+      "type": "movie",
+      "title": "The Electric Horseman",
+      "original_title": "The Electric Horseman",
+      "genres": [
+        "Western",
+        "Comedy"
+      ],
+      "year": 1979,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 120,
+      "certificate": "PG",
+      "rating": 6.5,
+      "votes": 363,
+      "tomatometer": 62,
+      "tomatometer_count": 21,
+      "tomatometer_certified": false,
+      "audience_score": 58,
+      "audience_count": 86,
+      "metascore": null,
+      "plot": "A former champion rodeo rider is reduced to using his saddle skills to promote a breakfast cereal in a gaudy Las Vegas show. When he's asked to perform with a $12 million horse that he discovers is being doped to remain docile, he flees into the desert astride the beast in an act of defiance. A story-hungry female reporter gives chase.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/BOsabIvmllYwgv1dKh7wU0BDroE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p301_p_v10_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/BOsabIvmllYwgv1dKh7wU0BDroE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p301_p_v10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1_ltU56mw_H4kC1DdJcbhsLZfCM=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p301_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sJDA_WWFJp5cyfWO5jq6E1nReK0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p301_p_v10_ab.jpg",
+          "caption": "The Electric Horseman (1979)"
+        },
+        {
+          "url": "https://resizing.flixster.com/NPEtE-CP1j0Dpam3CEV_qG5NPDo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p301_p_v8_aa.jpg",
+          "caption": "The Electric Horseman (1979)"
+        },
+        {
+          "url": "https://resizing.flixster.com/DCwOzyR3vKXrGDulTMRVlh5FyWA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p301_v_v7_ai.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Yiqo2jY3msUuqM2vDnCUPnpetK4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p301_i_h10_aa.jpg",
+          "caption": "The Electric Horseman (1979)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "sydney_pollack",
+          "name": "Sydney Pollack"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "robert_redford",
+          "name": "Robert Redford",
+          "character": "",
+          "image": "https://resizing.flixster.com/B5NgpTy5GqMhGMSYbTSgIpY8MLk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/55500_v9_be.jpg"
+        },
+        {
+          "id": "jane_fonda",
+          "name": "Jane Fonda",
+          "character": "",
+          "image": "https://resizing.flixster.com/b33fv4H7-anol_hoq3bwKcXTLlA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/568_v9_bc.jpg"
+        },
+        {
+          "id": "willie_nelson",
+          "name": "Willie Nelson",
+          "character": "",
+          "image": "https://resizing.flixster.com/b_JG0zrsgTWZCK8ojBI9zBfCCMw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/66370_v9_ba.jpg"
+        },
+        {
+          "id": "valerie_perrine",
+          "name": "Valerie Perrine",
+          "character": "",
+          "image": "https://resizing.flixster.com/8KEipEPkLal3Ei0UA1cElzEDupY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75968_v9_ba.jpg"
+        },
+        {
+          "id": "john_saxon",
+          "name": "John Saxon",
+          "character": "",
+          "image": "https://resizing.flixster.com/dEROKNTeBz0Vk4NFoaZkHc4aGYc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/33393_v9_bc.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:50:16.637474Z"
     },
     {
       "id": "forsaken_2016",
@@ -1394,6 +1807,220 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T19:13:07.209051Z"
+    },
+    {
+      "id": "from_noon_till_three",
+      "url": "https://www.rottentomatoes.com/m/from_noon_till_three",
+      "category": "western",
+      "type": "movie",
+      "title": "From Noon Till Three",
+      "original_title": "From Noon Till Three",
+      "genres": [
+        "Western",
+        "Comedy"
+      ],
+      "year": 1976,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "rating": 5.7,
+      "votes": 86,
+      "tomatometer": 43,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 57,
+      "audience_count": 25,
+      "metascore": null,
+      "plot": "Bank robber Graham Dorsey spends a few hours with beautiful widow Amanda Starbuck, in which time his gang takes part in a disastrous holdup. Learning of his comrades' demise, Dorsey goes on the lam. Believing her short-term lover was killed by the law, Amanda decides to make the most of having had a liaison with the supposedly deceased desperado by writing a book about him. Much to his confusion, the still-living Dorsey watches as his name becomes legendary.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/pYYYvvOKtWLngs-gKrw2diDkDTw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5147_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/pYYYvvOKtWLngs-gKrw2diDkDTw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5147_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sd24F_5NTPXx-yJoPODqCZLJ31I=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5147_i_h8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/VdkwxVtutXzoJhJyj5IHVSLmfUo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5147_v_v12_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0reEZ-FRGrrwBhQiTfbQpoUrmzw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5147_p_v8_aa.jpg",
+          "caption": "From Noon Till Three (1976)"
+        },
+        {
+          "url": "https://resizing.flixster.com/9_2a9IhSVcvhOuvcUWikDOid8Dc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5147_i_h8_ac.jpg",
+          "caption": "From Noon Till Three (1976)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "frank_d_gilroy",
+          "name": "Frank D. Gilroy"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "charles_buchinsky",
+          "name": "Charles Bronson",
+          "character": "",
+          "image": "https://resizing.flixster.com/Rvg8-7TcJvrkyqHimnUevzVk39M=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/11485_v9_ba.jpg"
+        },
+        {
+          "id": "jill_ireland",
+          "name": "Jill Ireland",
+          "character": "",
+          "image": "https://resizing.flixster.com/tNs_a4ZpXDTsgC-az4UyrJ-7MZE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/31473_v9_ba.jpg"
+        },
+        {
+          "id": "douglas_v_fowley",
+          "name": "Douglas V. Fowley",
+          "character": "",
+          "image": "https://resizing.flixster.com/73bU6r5YdfKKxxVuM833rVbfTu8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/86532_v9_ba.jpg"
+        },
+        {
+          "id": "stan-haze",
+          "name": "Stan Haze",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "damon_douglas",
+          "name": "Damon Douglas",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/From-Noon-Till-Three/140744?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:48:36.727623Z"
+    },
+    {
+      "id": "goin_south",
+      "url": "https://www.rottentomatoes.com/m/goin_south",
+      "category": "western",
+      "type": "movie",
+      "title": "Goin' South",
+      "original_title": "Goin' South",
+      "genres": [
+        "Western",
+        "Comedy"
+      ],
+      "year": 1978,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 108,
+      "certificate": "PG",
+      "rating": 6.5,
+      "votes": 431,
+      "tomatometer": 69,
+      "tomatometer_count": 16,
+      "tomatometer_certified": false,
+      "audience_score": 50,
+      "audience_count": 121,
+      "metascore": null,
+      "plot": "According to the laws of the Old West town where criminal Henry Lloyd Moon is about to be executed, a death row convict will be spared if a reputable woman promises to mend his ways. To the annoyance of ruthless Deputy Towfield, Julia Tate vouches for Henry and assigns him to search for gold on her land. Their relationship eventually turns romantic, but Towfield and Henry's old criminal buddies threaten their domestic bliss.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/CiSts1r8oLG6ipiRs7nVxUBUK-Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p268_p_v10_ae.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/CiSts1r8oLG6ipiRs7nVxUBUK-Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p268_p_v10_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/kipYoWblcMUQ02lUskwunLvpiIU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p268_i_h10_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/pLYKQ9dpgwI6PztJoqLadfY53C0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p268_i_h10_ad.jpg",
+          "caption": "Goin' South (1978)"
+        },
+        {
+          "url": "https://resizing.flixster.com/r5QJpxwuSEduBgRNFptpS-UVvwg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p268_p_v10_ae.jpg",
+          "caption": "Goin' South (1978)"
+        },
+        {
+          "url": "https://resizing.flixster.com/UA7AjeiOqVELz9jR3n5V2ijhkOU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p268_p_v8_aa.jpg",
+          "caption": "Goin' South (1978)"
+        },
+        {
+          "url": "https://resizing.flixster.com/j15QSfsxitgUxuCtLaebv0KyQR0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p268_v_v12_ae.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "jack_nicholson",
+          "name": "Jack Nicholson"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "jack_nicholson",
+          "name": "Jack Nicholson",
+          "character": "",
+          "image": "https://resizing.flixster.com/2mdn6JvEykbVn2eo5GaYJLnfi4A=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1257_v9_ba.jpg"
+        },
+        {
+          "id": "mary_steenburgen",
+          "name": "Mary Steenburgen",
+          "character": "",
+          "image": "https://resizing.flixster.com/MeOLQTrLedeyiR1hw7abx7PO2Tw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1690_v9_bb.jpg"
+        },
+        {
+          "id": "christopher_lloyd_2",
+          "name": "Christopher Lloyd",
+          "character": "",
+          "image": "https://resizing.flixster.com/Xb2TjyR5sPjRJ9ymvJpoSYpReKY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1033_v9_bc.jpg"
+        },
+        {
+          "id": "john_belushi",
+          "name": "John Belushi",
+          "character": "",
+          "image": "https://resizing.flixster.com/ZGqXKHQd0XdmxGzulsoaaLP6iGU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/32538_v9_ba.jpg"
+        },
+        {
+          "id": "veronica_cartwright",
+          "name": "Veronica Cartwright",
+          "character": "",
+          "image": "https://resizing.flixster.com/udl5C_SAbxHmh5BMSa_yz-xE76g=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG00348Q71.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Goin-South/25972?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:48:35.630713Z"
     },
     {
       "id": "hang_em_high",
@@ -2115,6 +2742,111 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T13:57:02.091412Z"
+    },
+    {
+      "id": "life_and_times_of_judge_roy_bean",
+      "url": "https://www.rottentomatoes.com/m/life_and_times_of_judge_roy_bean",
+      "category": "western",
+      "type": "movie",
+      "title": "The Life and Times of Judge Roy Bean",
+      "original_title": "The Life and Times of Judge Roy Bean",
+      "genres": [
+        "Western",
+        "Comedy"
+      ],
+      "year": 1972,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 120,
+      "certificate": "PG",
+      "rating": 6.1,
+      "votes": 358,
+      "tomatometer": 80,
+      "tomatometer_count": 10,
+      "tomatometer_certified": false,
+      "audience_score": 72,
+      "audience_count": 107,
+      "metascore": null,
+      "plot": "Saved from near death by a young Mexican girl, a former outlaw sets himself up as sole arbiter of the law in a small town. The town prospers as Judge Bean robs and hangs anyone with money that comes through it, but his haven becomes less secure when his Mexican companion dies and the townsfolk begin to turn against him.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/4rVulse60iHe4oFZINrgjOOC1qQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3948_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/4rVulse60iHe4oFZINrgjOOC1qQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3948_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/y-y-qnwI9aQz3X6ntAqlX5iyT5E=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3948_i_h10_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ed6po9n-vako22lK30kM_NNSWWE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3948_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/w2Tv53HWF-T8ygDXMCpLyU4856Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3948_i_h10_ad.jpg",
+          "caption": "The Life and Times of Judge Roy Bean (1972)"
+        },
+        {
+          "url": "https://resizing.flixster.com/l0Jibv7xDqlgXai6odiux8fXyYk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3948_p_v8_aa.jpg",
+          "caption": "The Life and Times of Judge Roy Bean (1972)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "john_huston",
+          "name": "John Huston"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "paul_newman",
+          "name": "Paul Newman",
+          "character": "",
+          "image": "https://resizing.flixster.com/wWx4UIoifIP8YPVPkLvOb-OkISI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1248_v9_ba.jpg"
+        },
+        {
+          "id": "victoria_principal",
+          "name": "Victoria Principal",
+          "character": "",
+          "image": "https://resizing.flixster.com/37GVOLO4OReLUa17sReLeYaKAPQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1389_v9_ba.jpg"
+        },
+        {
+          "id": "anthony_perkins",
+          "name": "Anthony Perkins",
+          "character": "",
+          "image": "https://resizing.flixster.com/1wlVyZvNUeaKpBwI9iptt5TS210=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/5779_v9_bb.jpg"
+        },
+        {
+          "id": "jacqueline_bisset",
+          "name": "Jacqueline Bisset",
+          "character": "",
+          "image": "https://resizing.flixster.com/4EFyEmK74XvL8DP_rI6G8qJ3NQA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/28661_v9_bc.jpg"
+        },
+        {
+          "id": "ava_gardner",
+          "name": "Ava Gardner",
+          "character": "",
+          "image": "https://resizing.flixster.com/vUGO_ZVPeEMe4o4mqFqfW6rWqqI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/6741_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Life-and-Times-of-Judge-Roy-Bean/9803?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:51:32.990326Z"
     },
     {
       "id": "little_big_man",
@@ -3331,6 +4063,120 @@
       "scraped_at": "2026-08-22T02:07:55.385627Z"
     },
     {
+      "id": "pedro_paramo_2024",
+      "url": "https://www.rottentomatoes.com/m/pedro_paramo_2024",
+      "category": "western",
+      "type": "movie",
+      "title": "Pedro Páramo",
+      "original_title": "Pedro Páramo",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Fantasy",
+        "Mystery & Thriller",
+        "Western"
+      ],
+      "year": 2024,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 130,
+      "certificate": null,
+      "rating": 5.7,
+      "votes": 159,
+      "tomatometer": 76,
+      "tomatometer_count": 21,
+      "tomatometer_certified": false,
+      "audience_score": 74,
+      "audience_count": 40,
+      "metascore": null,
+      "plot": "Based on Juan Rulfo’s masterpiece novel, considered one of the most important books in the history of Mexico and Latin America, the novel narrates the story of Juan Preciado, who upon his mother’s death, goes to the remote village where he was born in search of his father, Pedro Páramo. He encounters a ghost town, where he meets a series of mysterious people and learns about his dead father’s ruthless quest for wealth and power. The past makes itself present as we learn the truth behind Pedro Páramo’s own search for the love he once knew as a child. The line between the dead and the living and the past and the present is constantly blurred in this surreal tale of desire, hope, regret and resentment.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/RCwiu5X9ntE_QhnvKpam685o-JA=/300x450/v2/https://resizing.flixster.com/33Z1ys4EJNAxqdQmASKoF3bh0QM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiMzQ5YjgwLTkxNmItNDQ0ZC1hZWZiLTA5OTBjMTQxODYyNy5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/RCwiu5X9ntE_QhnvKpam685o-JA=/300x450/v2/https://resizing.flixster.com/33Z1ys4EJNAxqdQmASKoF3bh0QM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiMzQ5YjgwLTkxNmItNDQ0ZC1hZWZiLTA5OTBjMTQxODYyNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HvV0zPXJ4l83n_KRIdJTlkaRMqs=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/477/151/thumb_D2D64849-B5BF-4012-8001-60381E6F3A90.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/DEVJK4os_6feWph22ZcxLseuqak=/fit-in/705x460/v2/https://resizing.flixster.com/OmTdiFzAgqyCJ5ssFeDqT30vpM0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQyMjQ3Y2EwLTVmNTgtNDMxNi04MzViLTk2MjhjOWU2YWVmOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wa62BXJ8SGfHQyIyIp81ZR-R2Hg=/fit-in/705x460/v2/https://resizing.flixster.com/33Z1ys4EJNAxqdQmASKoF3bh0QM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiMzQ5YjgwLTkxNmItNDQ0ZC1hZWZiLTA5OTBjMTQxODYyNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Q4Ykdy9JifNM3yupE19SVmA9suk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28511186_i_h10_aa.jpg",
+          "caption": "Pedro Páramo (2024)"
+        }
+      ],
+      "trailer": {
+        "id": "w_4SLw92Hh5h",
+        "title": "Pedro Páramo: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/477/151/thumb_D2D64849-B5BF-4012-8001-60381E6F3A90.jpg",
+        "seconds": 111,
+        "src": "https://link.theplatform.com/s/NGweTC/media/w_4SLw92Hh5h?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "rodrigo_prieto",
+          "name": "Rodrigo Prieto"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "manuel_garcia_rulfo",
+          "name": "Manuel García-Rulfo",
+          "character": "",
+          "image": "https://resizing.flixster.com/pJvBzMOStbHWao0XcDM5HQl5Hv4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0022HYYT.jpg"
+        },
+        {
+          "id": "tenoch_huerta",
+          "name": "Tenoch Huerta",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ktj4lii2j4vpuIWmF78vfQvUTrY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/556463_v9_bb.jpg"
+        },
+        {
+          "id": "dolores_heredia",
+          "name": "Dolores Heredia",
+          "character": "",
+          "image": "https://resizing.flixster.com/W5wAreVacPoa0CtHQk4IT3kbNZg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/217845_v9_bb.jpg"
+        },
+        {
+          "id": "ilse_salas",
+          "name": "Ilse Salas",
+          "character": "",
+          "image": "https://resizing.flixster.com/SX0wUkkCTdmkrr2DlOk7uuQatMo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/713428_v9_ba.jpg"
+        },
+        {
+          "id": "hector_kotsifakis",
+          "name": "Héctor Kotsifakis",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ebcr9PALQNUwVvm5kTopi6F7EOg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/620372_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/81322606?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:11:25.267962Z"
+    },
+    {
       "id": "quigley_down_under",
       "url": "https://www.rottentomatoes.com/m/quigley_down_under",
       "category": "western",
@@ -3441,6 +4287,115 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T19:12:46.311541Z"
+    },
+    {
+      "id": "rustlers_rhapsody",
+      "url": "https://www.rottentomatoes.com/m/rustlers_rhapsody",
+      "category": "western",
+      "type": "movie",
+      "title": "Rustlers' Rhapsody",
+      "original_title": "Rustlers' Rhapsody",
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "year": 1985,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "rating": 4.5,
+      "votes": 157,
+      "tomatometer": 15,
+      "tomatometer_count": 13,
+      "tomatometer_certified": false,
+      "audience_score": 83,
+      "audience_count": 75,
+      "metascore": null,
+      "plot": "A singing cowboy (Tom Berenger) roams the Wild West with his sidekick (G.W. Bailey), dancing horse and fancy wardrobe.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/gkSFTL3mZVTfRboWvmSn_7Sas6o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8686_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/gkSFTL3mZVTfRboWvmSn_7Sas6o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8686_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5ySpVxjoj5-5p4T_W1KrXinx1Xo=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8686_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/kjL0FtK0mRRdud6J0-SQmqcHTrw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8686_i_h10_ab.jpg",
+          "caption": "Rustlers' Rhapsody (1985)"
+        },
+        {
+          "url": "https://resizing.flixster.com/jDcKQLJA9ggwlo7hcaIXW-s7I6M=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8686_p_v10_aa.jpg",
+          "caption": "Rustlers' Rhapsody (1985)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Ru8zP8CTgRSRUQ5gfWTF35ybQTg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8686_p_v8_aa.jpg",
+          "caption": "Rustlers' Rhapsody (1985)"
+        },
+        {
+          "url": "https://resizing.flixster.com/8cyvh-P0ky2KvhK3wOCLGmz9mp0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8686_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "hugh_wilson_2",
+          "name": "Hugh Wilson"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "tom_berenger",
+          "name": "Tom Berenger",
+          "character": "",
+          "image": "https://resizing.flixster.com/29l_8GC6UpaD3_dxPySFq-96_Iw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/135_v9_bc.jpg"
+        },
+        {
+          "id": "gw_bailey",
+          "name": "G.W. Bailey",
+          "character": "",
+          "image": "https://resizing.flixster.com/rT3k_m5q-04voMFCtAzKHUVeZc4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/81609_v9_bb.jpg"
+        },
+        {
+          "id": "marilu_henner",
+          "name": "Marilu Henner",
+          "character": "",
+          "image": "https://resizing.flixster.com/e4IKaiaYlHYQhTndZ4TIMfpN6t4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0030Y4GD.jpg"
+        },
+        {
+          "id": "fernando_rey",
+          "name": "Fernando Rey",
+          "character": "",
+          "image": "https://resizing.flixster.com/o1lK4YI-zpQK0GrnV5ySm_UsQj8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/21012_v9_ba.jpg"
+        },
+        {
+          "id": "1006226-andy_griffith",
+          "name": "Andy Griffith",
+          "character": "",
+          "image": "https://resizing.flixster.com/la4lYtgiiTdFp_6SN8tTwsmp1M0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77346_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Rustlers-Rhapsody/39783?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:50:15.822763Z"
     },
     {
       "id": "seraphim_falls",
@@ -3876,6 +4831,117 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T19:38:37.112817Z"
+    },
+    {
+      "id": "the_frisco_kid",
+      "url": "https://www.rottentomatoes.com/m/the_frisco_kid",
+      "category": "western",
+      "type": "movie",
+      "title": "The Frisco Kid",
+      "original_title": "The Frisco Kid",
+      "genres": [
+        "Western",
+        "Comedy"
+      ],
+      "year": 1979,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 122,
+      "certificate": "PG",
+      "rating": 5.8,
+      "votes": 716,
+      "tomatometer": 54,
+      "tomatometer_count": 28,
+      "tomatometer_certified": false,
+      "audience_score": 67,
+      "audience_count": 217,
+      "metascore": null,
+      "plot": "Rabbi Avram Belinsky (Gene Wilder) lands in Philadelphia intending to travel to San Francisco, where he plans on starting a synagogue. Quickly relieved of his belongings by a group of con artists, Avram optimistically sets out alone on foot toward the Wild West. He gets into one scrape after another until he is rescued, in a way, by a compassionate horseman named Tommy Lillard (Harrison Ford). Unfortunately, Tommy may not be quite as heroic as he seems, and it is still a long way to California.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/KL2f-0JUOeH5xvXTq6RgNejC_Yo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p77_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/KL2f-0JUOeH5xvXTq6RgNejC_Yo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p77_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/cOVOkQP21rMeulLd1Fydu1LHlHU=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/924/31/thumb_B9B4E3DC-E909-4AC9-8F6D-7B39C2B007A9.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/zFuC9ahnfMMHP6W3igrBEr42pOo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p77_i_h9_ac.jpg",
+          "caption": "The Frisco Kid (1979)"
+        },
+        {
+          "url": "https://resizing.flixster.com/_epH0_YE0PlCbeONw3ERXN5BaG4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p77_p_v8_aa.jpg",
+          "caption": "The Frisco Kid (1979)"
+        },
+        {
+          "url": "https://resizing.flixster.com/KmnJXSQRyexZtZ2P2ALC5PUrqrQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p77_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "8sN09ds4PMVt",
+        "title": "The Frisco Kid: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/924/31/thumb_B9B4E3DC-E909-4AC9-8F6D-7B39C2B007A9.jpg",
+        "seconds": 131,
+        "src": "https://link.theplatform.com/s/NGweTC/media/8sN09ds4PMVt?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "robert_aldrich",
+          "name": "Robert Aldrich"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "gene_wilder",
+          "name": "Gene Wilder",
+          "character": "",
+          "image": "https://resizing.flixster.com/BAz5DM4HEwVzkK5xOGbMgDJ2I_U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/22999_v9_ba.jpg"
+        },
+        {
+          "id": "harrison_ford",
+          "name": "Harrison Ford",
+          "character": "",
+          "image": "https://resizing.flixster.com/I0ur3Bl44sDoKNPipEJenc3jR80=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/25704_v9_bc.jpg"
+        },
+        {
+          "id": "ramon_bieri",
+          "name": "Ramon Bieri",
+          "character": "",
+          "image": "https://resizing.flixster.com/cZpHUmO6bTW31wo0zAgJZ5sFfmY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/52886_v9_ba.jpg"
+        },
+        {
+          "id": "val_bisoglio",
+          "name": "Val Bisoglio",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "george_dicenzo",
+          "name": "George Di Cenzo",
+          "character": "",
+          "image": "https://resizing.flixster.com/Tly9hj6yFxAs9ktbLx99Auk1FMg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23236_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Frisco-Kid/10561?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:48:38.666698Z"
     },
     {
       "id": "the_good_the_bad_and_the_ugly",

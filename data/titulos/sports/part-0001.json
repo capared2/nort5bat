@@ -1,8 +1,8 @@
 {
   "genre": "sports",
   "part": 1,
-  "count": 22,
-  "updated_at": "2026-08-22T02:31:50.230376Z",
+  "count": 34,
+  "updated_at": "2026-08-22T07:50:24.101254Z",
   "titles": [
     {
       "id": "air_2023",
@@ -444,7 +444,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T02:00:49.621091Z"
+      "scraped_at": "2026-08-22T07:09:50.337704Z"
     },
     {
       "id": "breakin_on_the_one",
@@ -678,6 +678,80 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T19:44:40.682911Z"
+    },
+    {
+      "id": "concussed_the_american_dream",
+      "url": "https://www.rottentomatoes.com/m/concussed_the_american_dream",
+      "category": "sports",
+      "type": "movie",
+      "title": "Concussed: The American Dream",
+      "original_title": "Concussed: The American Dream",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2024,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 88,
+      "certificate": null,
+      "rating": null,
+      "votes": 4,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "Tyler Sash was drafted by the New York Giants and became a part of the 2012 Super Bowl winning team; concussions would cut Sash's career short and the film is paralleled by NFL Hall of Famer Brett Favre's CTE experience.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/qKErluUz08aPfaSf-VlY6Pb60jg=/300x450/v2/https://resizing.flixster.com/NRnYQkpejbGzjh2IOtkj2mUzU-c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAwNGIzOTFkLTBmMDItNDUzOS04NjE0LTliNDFjNzZmYjI5Ny5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/qKErluUz08aPfaSf-VlY6Pb60jg=/300x450/v2/https://resizing.flixster.com/NRnYQkpejbGzjh2IOtkj2mUzU-c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAwNGIzOTFkLTBmMDItNDUzOS04NjE0LTliNDFjNzZmYjI5Ny5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/uFOFwX1G31D_BQNp_mXmaXo7LIs=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27966454_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BvB2CqZGtgf-KpE3rcOg9xcSs3s=/fit-in/705x460/v2/https://resizing.flixster.com/NRnYQkpejbGzjh2IOtkj2mUzU-c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAwNGIzOTFkLTBmMDItNDUzOS04NjE0LTliNDFjNzZmYjI5Ny5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3e-zXozRLvWrd_WnBNk7cGRCHuc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27966454_i_h10_aa.jpg",
+          "caption": "Concussed: The American Dream (2024)"
+        },
+        {
+          "url": "https://resizing.flixster.com/W59GyOhT_J5coO8Id-nSbf8jyHM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27966454_v_v12_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "david_kano",
+          "name": "David Kano"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Concussed-The-American-Dream/3326670?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:35:58.461586Z"
     },
     {
       "id": "day_of_the_fight_2023",
@@ -1541,6 +1615,106 @@
       "scraped_at": "2026-08-20T23:12:01.837495Z"
     },
     {
+      "id": "reggie_2023",
+      "url": "https://www.rottentomatoes.com/m/reggie_2023",
+      "category": "sports",
+      "type": "movie",
+      "title": "Reggie",
+      "original_title": "Reggie",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2023,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 104,
+      "certificate": "PG-13",
+      "rating": 8.2,
+      "votes": 75,
+      "tomatometer": 100,
+      "tomatometer_count": 12,
+      "tomatometer_certified": false,
+      "audience_score": 91,
+      "audience_count": 6,
+      "metascore": null,
+      "plot": "One of sport's first and most influential megastars, beloved baseball icon and 5-time World Series champion Reggie Jackson contemplates his legacy as a trailblazing Black athlete fighting for dignity, respect, and a seat at the table in this intimate and revealing new documentary exploring his life and barrier-busting career.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/XDnGNpheqMvg2Hme9bQpOVK28LY=/300x450/v2/https://resizing.flixster.com/5kshKSlP4EkZTXJxvf05s50PDYI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwOWJhNGUzLWMyMTctNGZhMy05MTViLTkwNDc0ZDNkY2MwZS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/XDnGNpheqMvg2Hme9bQpOVK28LY=/300x450/v2/https://resizing.flixster.com/5kshKSlP4EkZTXJxvf05s50PDYI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwOWJhNGUzLWMyMTctNGZhMy05MTViLTkwNDc0ZDNkY2MwZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/A4rv90nYtz46Q4ubIPyS2_Cx3vY=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/37/347/thumb_3DF465BD-DE9B-48D7-8B10-C6ED50CF9F44.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/QvQXrwy9YIpld4zv_BbQN2EOMus=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24147524_k_v12_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_BYRmTWpj2Hyc4K49bcYsI7hGD4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24147524_v_v12_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/nmg8wCrdPVa1Bo9BuMIpmtSWwik=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24147524_v_v12_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/rxIXe3F52FRFOyxNbE4uWROI044=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24147524_i_h9_aa.jpg",
+          "caption": "Reggie (2023)"
+        },
+        {
+          "url": "https://resizing.flixster.com/RC0dHwpYmAqmqT-EsICHRBYub0w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24147524_i_v9_aa.jpg",
+          "caption": "Reggie (2023)"
+        },
+        {
+          "url": "https://resizing.flixster.com/6RKAFvSBY0EYnxlYIzrzxINrrVM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24147524_i_v8_aa.jpg",
+          "caption": "Reggie (2023)"
+        },
+        {
+          "url": "https://resizing.flixster.com/l_934dHD8tm8mS4vU68lOm8Lo-g=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p24147524_i_h10_aa.jpg",
+          "caption": "Reggie (2023)"
+        },
+        {
+          "url": "https://resizing.flixster.com/7Y9HVO1TbPhyDTWsV6yZ-C0888I=/fit-in/705x460/v2/https://resizing.flixster.com/5kshKSlP4EkZTXJxvf05s50PDYI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwOWJhNGUzLWMyMTctNGZhMy05MTViLTkwNDc0ZDNkY2MwZS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "qGgbxgobtdxL",
+        "title": "Reggie: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/37/347/thumb_3DF465BD-DE9B-48D7-8B10-C6ED50CF9F44.jpg",
+        "seconds": 92,
+        "src": "https://link.theplatform.com/s/NGweTC/media/qGgbxgobtdxL?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "alex_stapleton",
+          "name": "Alex Stapleton"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B8P7M3FT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:31:28.376133Z"
+    },
+    {
       "id": "rez_ball",
       "url": "https://www.rottentomatoes.com/m/rez_ball",
       "category": "sports",
@@ -2264,6 +2438,533 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-22T02:13:13.144639Z"
+    },
+    {
+      "id": "ufc_313_pereira_vs_ankalaev",
+      "url": "https://www.rottentomatoes.com/m/ufc_313_pereira_vs_ankalaev",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 313: Pereira vs. Ankalaev",
+      "original_title": "UFC 313: Pereira vs. Ankalaev",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 19,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 2,
+      "metascore": null,
+      "plot": "After a historic 2024 campaign that saw him step into the Octagon three times in defense of his UFC light heavyweight title and emerge with three knockout victories, Brazilian superstar Alex Pereira begins the new year in Las Vegas with a UFC 313 main event clash against number one contender Magomed Ankalaev on March 8. A Russian powerhouse who is unbeaten for over six years, Ankalaev will now try to decipher the puzzle presented by \"Poatan,\" one of the most dominant champions in the world. Plus, high-level action is guaranteed when lightweights Justin Gaethje and Dan Hooker meet in a highly anticipated co-main event.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/iOetyp9ho0fQgoi6Vsepp9pMp0Y=/300x450/v2/https://resizing.flixster.com/dILwyIosGyghxekom4BBtBnRhS0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M4ODlkOGQ5LTFhMDktNDUyOC1hZTFmLTM2NmI1NzgwYmY2MS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/iOetyp9ho0fQgoi6Vsepp9pMp0Y=/300x450/v2/https://resizing.flixster.com/dILwyIosGyghxekom4BBtBnRhS0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M4ODlkOGQ5LTFhMDktNDUyOC1hZTFmLTM2NmI1NzgwYmY2MS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/9nk8sH7PunsoLsp3adQlFf0vRMY=/fit-in/705x460/v2/https://resizing.flixster.com/dILwyIosGyghxekom4BBtBnRhS0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M4ODlkOGQ5LTFhMDktNDUyOC1hZTFmLTM2NmI1NzgwYmY2MS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:42:08.406310Z"
+    },
+    {
+      "id": "ufc_314_volkanovski_vs_lopes",
+      "url": "https://www.rottentomatoes.com/m/ufc_314_volkanovski_vs_lopes",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 314: Volkanovski vs. Lopes",
+      "original_title": "UFC 314: Volkanovski vs. Lopes",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 25,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 4,
+      "metascore": null,
+      "plot": "One of the greatest featherweights of all-time gets the chance to regain his crown on April 12 when Alexander Volkanovski faces streaking Brazilian contender Diego Lopes for the vacant UFC featherweight championship in the main event of UFC 314 at Kaseya Center in Miami, Florida. Plus, it's one of the most highly anticipated bouts of 2025 when British star Paddy Pimblett meets up with \"Iron\" Michael Chandler in a five-round co-main event showdown, and international sensation Patricio Pitbull battles former interim featherweight king Yair Rodriguez.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/6bcs-Ir4xX93U5EiDeq8dbhH8g4=/300x450/v2/https://resizing.flixster.com/3gCdlb5MN7kNOpgUAzwsdYJGXsw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3ODM1MDRhLTg1ZmItNDZlZC05MDAxLWYwN2QwYTFjZmQyZC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/6bcs-Ir4xX93U5EiDeq8dbhH8g4=/300x450/v2/https://resizing.flixster.com/3gCdlb5MN7kNOpgUAzwsdYJGXsw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3ODM1MDRhLTg1ZmItNDZlZC05MDAxLWYwN2QwYTFjZmQyZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/RrIJmKlS3UtwW6Q7A4g2XRwSU3Y=/fit-in/705x460/v2/https://resizing.flixster.com/3gCdlb5MN7kNOpgUAzwsdYJGXsw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3ODM1MDRhLTg1ZmItNDZlZC05MDAxLWYwN2QwYTFjZmQyZC5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:42:07.486159Z"
+    },
+    {
+      "id": "ufc_315_muhammad_vs_della_maddalena",
+      "url": "https://www.rottentomatoes.com/m/ufc_315_muhammad_vs_della_maddalena",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 315: Muhammad vs. Della Maddalena",
+      "original_title": "UFC 315: Muhammad vs. Della Maddalena",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 7,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 3,
+      "metascore": null,
+      "plot": "The Octagon returns to Montreal, Quebec, Canada for the first time since 2015, and on May 10, fans at the Bell Centre will be treated to a stacked card headlined by a championship doubleheader. In the main event of UFC 315, Belal Muhammad defends his welterweight crown for the first time against Australian powerhouse Jack Della Maddalena. Perfect in seven trips to the Octagon, including five post-fight bonus- winning efforts, Della Maddalena is determined to bring a title down under, but in Muhammad, he will be facing a fighter who is undefeated for over six years while beating the best of the best at 170 pounds. In the co-main event, Valentina Shevchenko begins her second reign atop the flyweight division when she tackles top French contender Manon Fiorot.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/EWIiyGxXcdTwr909DBG2qPkaUiY=/300x450/v2/https://resizing.flixster.com/l0G2pkszz4YetIlxzIbIqb63ums=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI4OTI0MDRhLTc1YzktNDk3MC1iYTBjLTdmMTllYjk5MWViNS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/EWIiyGxXcdTwr909DBG2qPkaUiY=/300x450/v2/https://resizing.flixster.com/l0G2pkszz4YetIlxzIbIqb63ums=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI4OTI0MDRhLTc1YzktNDk3MC1iYTBjLTdmMTllYjk5MWViNS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PU9kvRhaTEaDorQaK6b3lY3WyIU=/fit-in/705x460/v2/https://resizing.flixster.com/l0G2pkszz4YetIlxzIbIqb63ums=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI4OTI0MDRhLTc1YzktNDk3MC1iYTBjLTdmMTllYjk5MWViNS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:44:37.428142Z"
+    },
+    {
+      "id": "ufc_316_dvalishvili_vs_omalley_2",
+      "url": "https://www.rottentomatoes.com/m/ufc_316_dvalishvili_vs_omalley_2",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "original_title": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 16,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 4,
+      "metascore": null,
+      "plot": "A championship doubleheader will headline the Octagon's return to the Prudential Center in Newark, New Jersey for UFC 316 on June 7. In the main event, it's a highly-anticipated rematch when relentless force Merab Dvalishvili defends his bantamweight crown against the man he took it from, \"Suga\" Sean O'Malley. Plus, the women's bantamweight title will be on the line in the co-main event as Julianna Peña faces off with two-time Olympic gold medal winning judoka Kayla Harrison.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/_ZDHueoRMig9Kisi7xuH7BTH2I8=/300x450/v2/https://resizing.flixster.com/4UQd8wnGkC-tThu-c_PECPl0ISY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0NzA1MzJmLTc2ZGQtNDIyOS1iOTRhLTcxOTJiMTdiOGRjNi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/_ZDHueoRMig9Kisi7xuH7BTH2I8=/300x450/v2/https://resizing.flixster.com/4UQd8wnGkC-tThu-c_PECPl0ISY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0NzA1MzJmLTc2ZGQtNDIyOS1iOTRhLTcxOTJiMTdiOGRjNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/45gI27TKoAEzPsNEOZwK9Vk-CqE=/fit-in/705x460/v2/https://resizing.flixster.com/4UQd8wnGkC-tThu-c_PECPl0ISY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0NzA1MzJmLTc2ZGQtNDIyOS1iOTRhLTcxOTJiMTdiOGRjNi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [
+        {
+          "id": "kayla_harrison",
+          "name": "Kayla Harrison",
+          "character": "",
+          "image": "https://resizing.flixster.com/dSceRn12_uTvsi4GY_KVMMQTDvE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/963117_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:48:58.628600Z"
+    },
+    {
+      "id": "ufc_318_holloway_vs_poirier_3",
+      "url": "https://www.rottentomatoes.com/m/ufc_318_holloway_vs_poirier_3",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 318: Holloway vs. Poirier 3",
+      "original_title": "UFC 318: Holloway vs. Poirier 3",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 30,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 7,
+      "metascore": null,
+      "plot": "It will be a memorable night at Smoothie King Center in New Orleans, Louisiana, on July 19 when Lafayette's Dustin Poirier makes his final walk to the Octagon to face off with Max Holloway for the third time in the UFC 318 main event, with the BMF title on the line. A former interim lightweight champion, Poirier has beaten the best of the best over the course of his storied career, and now he will close it with a showdown against longtime featherweight champion and current BMF king Holloway in a battle for the ages.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/FpbZrBKFHP2u-LzQv7TiOA4F34Y=/300x450/v2/https://resizing.flixster.com/SKpu0rsy3yjESgF1t5XHJ4j8ra4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg5MmZiNzliLTVmY2MtNGYwMS05MDYyLWRhOWM2NDY1YzU5Yy5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/FpbZrBKFHP2u-LzQv7TiOA4F34Y=/300x450/v2/https://resizing.flixster.com/SKpu0rsy3yjESgF1t5XHJ4j8ra4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg5MmZiNzliLTVmY2MtNGYwMS05MDYyLWRhOWM2NDY1YzU5Yy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Fv2JgIOD1p7s1ANCgy7hPImL6DQ=/fit-in/705x460/v2/https://resizing.flixster.com/SKpu0rsy3yjESgF1t5XHJ4j8ra4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg5MmZiNzliLTVmY2MtNGYwMS05MDYyLWRhOWM2NDY1YzU5Yy5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:42:05.476162Z"
+    },
+    {
+      "id": "ufc_319_du_plessis_vs_chimaev",
+      "url": "https://www.rottentomatoes.com/m/ufc_319_du_plessis_vs_chimaev",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 319: Du Plessis vs. Chimaev",
+      "original_title": "UFC 319: Du Plessis vs. Chimaev",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 28,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 9,
+      "metascore": null,
+      "plot": "The UFC returns to United Center in the Windy City of Chicago on August 16 with a stacked UFC 319 event featuring one of the most highly anticipated middleweight title fights in years. South Africa's Dricus Du Plessis has taken the UFC by storm since arriving in the Octagon in 2020, and after winning the UFC middleweight crown against Sean Strickland, he's continued to dominate with wins over Israel Adesanya and Strickland in their February rematch. But many believe his toughest test to date will be unbeaten challenger Khamzat Chimaev, whose list of UFC victories includes the names of Robert Whittaker, Kamaru Usman and Gilbert Burns.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/UT4KMqav9p53MqtP-2dWO8hadDg=/300x450/v2/https://resizing.flixster.com/SK_5wuL815E2p7EoBCoXaLlG56s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ5OTI3ZmNiLWE4ODAtNDMyMy1hZTJjLWVlM2NmYmJmZjUyNi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/UT4KMqav9p53MqtP-2dWO8hadDg=/300x450/v2/https://resizing.flixster.com/SK_5wuL815E2p7EoBCoXaLlG56s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ5OTI3ZmNiLWE4ODAtNDMyMy1hZTJjLWVlM2NmYmJmZjUyNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/F8ULkNDSHi7nBekKoCsNmnUdOts=/fit-in/705x460/v2/https://resizing.flixster.com/SK_5wuL815E2p7EoBCoXaLlG56s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ5OTI3ZmNiLWE4ODAtNDMyMy1hZTJjLWVlM2NmYmJmZjUyNi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:39:15.449091Z"
+    },
+    {
+      "id": "ufc_320_ankalaev_vs_pereira_2",
+      "url": "https://www.rottentomatoes.com/m/ufc_320_ankalaev_vs_pereira_2",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 320: Ankalaev vs. Pereira 2",
+      "original_title": "UFC 320: Ankalaev vs. Pereira 2",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 23,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 5,
+      "metascore": null,
+      "plot": "The undisputed UFC light heavyweight title will be on the line on October 4 at T-Mobile Arena when Russian powerhouse Magomed Ankalaev defends his crown against the man he took it from, Brazilian banger Alex Pereira, in the main event of UFC 320. Plus, this highly anticipated championship doubleheader begins with dominant bantamweight champion Merab \"The Machine\" Dvalishvili, risking his title against surging contender Cory Sandhagen.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/Q_NtuOwU25neSJ6B-8OCMPJ3AJI=/300x450/v2/https://resizing.flixster.com/XOCmNTBy4q3sIJB7O1tLqn7tIBI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhZWEwZjc1LTVjN2MtNDc1MS05OGZiLWNiZmEyNWU5ZWZhMy5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/Q_NtuOwU25neSJ6B-8OCMPJ3AJI=/300x450/v2/https://resizing.flixster.com/XOCmNTBy4q3sIJB7O1tLqn7tIBI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhZWEwZjc1LTVjN2MtNDc1MS05OGZiLWNiZmEyNWU5ZWZhMy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wrfyX9YFPLYHa4FE3KUzX8MKSDk=/fit-in/705x460/v2/https://resizing.flixster.com/XOCmNTBy4q3sIJB7O1tLqn7tIBI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhZWEwZjc1LTVjN2MtNDc1MS05OGZiLWNiZmEyNWU5ZWZhMy5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:44:36.660067Z"
+    },
+    {
+      "id": "ufc_321_aspinall_vs_gane",
+      "url": "https://www.rottentomatoes.com/m/ufc_321_aspinall_vs_gane",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 321: Aspinall vs. Gane",
+      "original_title": "UFC 321: Aspinall vs. Gane",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 1,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 1,
+      "metascore": null,
+      "plot": "The UFC heavyweight world championship will be on the line on October 25 at Etihad Arena in Abu Dhabi when Tom Aspinall defends his undisputed crown for the first time against Ciryl Gane in the main event of UFC 321.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/CzBSC5G_13-bJ7d_9cVNoX3Cz9g=/300x450/v2/https://resizing.flixster.com/oaF0nnVgfBv0N94_315qNvAxRx0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMwMTdhMTM2LTA3NTMtNGNlOC04Y2MxLTJhMTFjMjZiZDY3Zi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/CzBSC5G_13-bJ7d_9cVNoX3Cz9g=/300x450/v2/https://resizing.flixster.com/oaF0nnVgfBv0N94_315qNvAxRx0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMwMTdhMTM2LTA3NTMtNGNlOC04Y2MxLTJhMTFjMjZiZDY3Zi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ewN6Z4Dng5giTet8gb6fXd_tr-s=/fit-in/705x460/v2/https://resizing.flixster.com/oaF0nnVgfBv0N94_315qNvAxRx0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMwMTdhMTM2LTA3NTMtNGNlOC04Y2MxLTJhMTFjMjZiZDY3Zi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:46:56.576825Z"
+    },
+    {
+      "id": "ufc_322_della_maddalena_vs_makhachev",
+      "url": "https://www.rottentomatoes.com/m/ufc_322_della_maddalena_vs_makhachev",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 322: Della Maddalena vs. Makhachev",
+      "original_title": "UFC 322: Della Maddalena vs. Makhachev",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 23,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 4,
+      "metascore": null,
+      "plot": "UFC superstars will dare to be great at New York City's Madison Square Garden on November 15, as VeChain UFC 322 presents a championship doubleheader for the ages. In the main event, longtime lightweight champion Islam Makhachev makes his highly anticipated move to 170 pounds to challenge for Jack Della Maddalena's welterweight title. Plus, China's Zhang Weili has proven to be perhaps the greatest strawweight of all-time, but this November, she will face the sport’s greatest flyweight, Valentina Shevchenko, for the 125-pound crown in a long-awaited Super Fight.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/gv12I5OLyhdvnSmH7ZU1T7bqjEM=/300x450/v2/https://resizing.flixster.com/8V00Oohcw187MQXKT_PjBZ7Bbt8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyZDE4ODM0LTkyNTUtNDZjZC05ZTVhLWYwNzFkMmUxZDhhOS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/gv12I5OLyhdvnSmH7ZU1T7bqjEM=/300x450/v2/https://resizing.flixster.com/8V00Oohcw187MQXKT_PjBZ7Bbt8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyZDE4ODM0LTkyNTUtNDZjZC05ZTVhLWYwNzFkMmUxZDhhOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/MBvkAtXAr8iF_8-RjZrOqzIkGeI=/fit-in/705x460/v2/https://resizing.flixster.com/8V00Oohcw187MQXKT_PjBZ7Bbt8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyZDE4ODM0LTkyNTUtNDZjZC05ZTVhLWYwNzFkMmUxZDhhOS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:42:06.417409Z"
+    },
+    {
+      "id": "ufc_323_dvalishvili_vs_yan_2",
+      "url": "https://www.rottentomatoes.com/m/ufc_323_dvalishvili_vs_yan_2",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 323: Dvalishvili vs. Yan 2",
+      "original_title": "UFC 323: Dvalishvili vs. Yan 2",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "rating": null,
+      "votes": 10,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 2,
+      "metascore": null,
+      "plot": "The UFC's final pay-per-view of the year wraps with a captivating clash for the bantamweight title as champion Merab \"The Machine\" Dvalishvili seeks to make his fourth successful title defense of the year as takes on former titleholder Petr \"No Mercy\" Yan, who has won three straight, in the main event of UFC 323 on Saturday, December 6 at T-Mobile Arena in Las Vegas. In the co-main event, flyweight ruler Alexandre \"The Cannibal\" Pantoja put his belt and eight-fight winning streak on the line against surging challenger Joshua \"The Fearless\" Van, who earned impressive victories over Bruno Silva and Brandon Royval in June to cement his standing as the No. 1 contender in the 125-pound weight class.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/GL7nh77zUGIcszp_KUdqLy7dbvU=/300x450/v2/https://resizing.flixster.com/D3ART_rfLl1ZOjm2I7QfKg1nZrY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzOGZhYzhjLWU1OTItNGRjOS05ZmUwLWUxMjQzMmVlZjc3YS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/GL7nh77zUGIcszp_KUdqLy7dbvU=/300x450/v2/https://resizing.flixster.com/D3ART_rfLl1ZOjm2I7QfKg1nZrY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzOGZhYzhjLWU1OTItNGRjOS05ZmUwLWUxMjQzMmVlZjc3YS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PyqJzYW2x5z4Pjdy5sXm7i-VSbk=/fit-in/705x460/v2/https://resizing.flixster.com/D3ART_rfLl1ZOjm2I7QfKg1nZrY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzOGZhYzhjLWU1OTItNGRjOS05ZmUwLWUxMjQzMmVlZjc3YS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:46:55.381542Z"
     },
     {
       "id": "unfightable",

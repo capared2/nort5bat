@@ -1,8 +1,8 @@
 {
   "genre": "history",
   "part": 6,
-  "count": 18,
-  "updated_at": "2026-08-22T02:45:53.781621Z",
+  "count": 19,
+  "updated_at": "2026-08-22T07:32:23.823196Z",
   "titles": [
     {
       "id": "1153570-fateless",
@@ -402,10 +402,10 @@
       "release_date": null,
       "runtime_minutes": 161,
       "certificate": "R",
-      "rating": null,
+      "rating": 6.5,
       "votes": 992,
-      "tomatometer": null,
-      "tomatometer_count": null,
+      "tomatometer": 81,
+      "tomatometer_count": 26,
       "tomatometer_certified": false,
       "audience_score": 79,
       "audience_count": 231,
@@ -489,7 +489,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T02:25:37.606493Z"
+      "scraped_at": "2026-08-22T07:08:55.825021Z"
     },
     {
       "id": "bolden",
@@ -1464,6 +1464,102 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-22T02:45:53.210223Z"
+    },
+    {
+      "id": "raymond_lewis_la_legend",
+      "url": "https://www.rottentomatoes.com/m/raymond_lewis_la_legend",
+      "category": "history",
+      "type": "movie",
+      "title": "Raymond Lewis: L.A. Legend",
+      "original_title": "Raymond Lewis: L.A. Legend",
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Sports",
+        "History"
+      ],
+      "year": 2022,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 82,
+      "certificate": null,
+      "rating": 7.7,
+      "votes": 11,
+      "tomatometer": 100,
+      "tomatometer_count": 10,
+      "tomatometer_certified": false,
+      "audience_score": 82,
+      "audience_count": 1,
+      "metascore": null,
+      "plot": "RAYMOND LEWIS: L.A. LEGEND is a critically acclaimed documentary that tells the incredible story of a basketball phenom from Watts, California whom many believe was blackballed from the NBA in the '70s -- and his unlikely and heartbreaking journey in becoming a hoops legend.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/cXCBBYWMJWOX1ReyhKpNPkXWeco=/300x450/v2/https://resizing.flixster.com/R8ysoMZEL9u1y2HJ01Fj_mlifYc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5YzFhNzMxLWRkNDgtNDZkYi05OGY3LTdjOTEyYzk4Zjk4Mi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/cXCBBYWMJWOX1ReyhKpNPkXWeco=/300x450/v2/https://resizing.flixster.com/R8ysoMZEL9u1y2HJ01Fj_mlifYc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5YzFhNzMxLWRkNDgtNDZkYi05OGY3LTdjOTEyYzk4Zjk4Mi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Oe7Hl7jvXlsNu4uebnxyaLX1nqQ=/620x336/v2/https://resizing.flixster.com/Kf0vwKUnImfiuH24YhpyRyaFjR0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiODgxYjU4LTg3YjktNGIwNC04NmI3LTE0YmM3ODhiMGZiOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fD-ZUJgOt2oiTUFRA8cG1y313g4=/fit-in/705x460/v2/https://resizing.flixster.com/Kf0vwKUnImfiuH24YhpyRyaFjR0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiODgxYjU4LTg3YjktNGIwNC04NmI3LTE0YmM3ODhiMGZiOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/eyjBur-lG5ZVReMDmfwZKm3dOgA=/fit-in/705x460/v2/https://resizing.flixster.com/NWbrMdX3CwfmuJL-27u0nQYoe4A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiZjY4NmVlLWNiZGQtNDRkMS1iYzRjLWQ0ZWEwNzEzN2QzYi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tlbPERK1qBRfnlKcPYLV4cKjxAc=/fit-in/705x460/v2/https://resizing.flixster.com/2LEgHdsDdUePTPIUrPfS45jgkho=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1M2MxZTA5LTZlOWMtNGFhMy04YWY5LTZjZDlmM2JkNWNlMy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BpGreXNaoxm_jL8vJfQfDpg8948=/fit-in/705x460/v2/https://resizing.flixster.com/MmoBI6h8qxrmkLyUJRQ6ag_d2yo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczOWZiY2Q0LWFmYTktNGEwOC05YTk4LTNjOTBhNmYxMGMwOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/84l7zH9SrfO0c-W7UmpEI7mgZ38=/fit-in/705x460/v2/https://resizing.flixster.com/fYjuU9XPRJQ1YfEjYBCFENdoyI8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwODA2ZTk1LTc0NjEtNGYwNC1hNGU4LTI4YjJiNDYwMWEyOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ki8QytWi3QGYxsiJC9suzTi-NYA=/fit-in/705x460/v2/https://resizing.flixster.com/7Di4hu1q_Dj9MqNBzSbUbCvPIwo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiYTRmYTk2LWY3MjEtNDI0NC1hNTA2LWQ1MzU0ZTU4OTE3Ni5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ZlCFQsFfItwSIA0XEmTIBtB6WNk=/fit-in/705x460/v2/https://resizing.flixster.com/Amp9Dvc3Rg-PcfY_28xaLn2HUOA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczOTBiOWQxLTdjYjQtNDMyYy05YjY0LTc3N2MwOWRiODA1Yi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0SHNSdWtVx83tpQXdPG3sR96TWc=/fit-in/705x460/v2/https://resizing.flixster.com/xJq-VMWQP7nOz_F-7i9Vs9ac1t4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiOGQyNDIwLTE4ZDYtNDM5ZS1iYzNmLTI1ODNhYTk1OTYxZi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "ryan_polomski",
+          "name": "Ryan Polomski"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Raymond-Lewis-LA-Legend/2129441?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T07:31:27.429793Z"
     },
     {
       "id": "remember_this",

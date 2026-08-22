@@ -1,7 +1,7 @@
 {
   "genre": "sports",
   "name": "Sports",
-  "count": 48,
+  "count": 63,
   "titles": [
     {
       "id": "happy_gilmore",
@@ -289,6 +289,30 @@
       "plot": "Minute for minute, you won't find a more romantic gay film this year than British rugby drama IN FROM THE SIDE, a surprisingly moving sports-team story slathered in sweat, streaked with mud, and…",
       "directors": [
         "Matt Carter"
+      ]
+    },
+    {
+      "id": "the_senior",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Senior",
+      "original_title": "The Senior",
+      "year": 2025,
+      "genres": [
+        "Drama",
+        "Biography",
+        "Sports"
+      ],
+      "rating": 6.7,
+      "votes": 324,
+      "tomatometer": 79,
+      "audience_score": 93,
+      "runtime_minutes": 99,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/5lH1UwJb5uoIeMGPEsqQ1NBJDCM=/300x450/v2/https://resizing.flixster.com/-lJR6lrblkx5LG3Wyh2Qjxp6DQA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RhOWRmNGQyLTZmZmItNGFmYS05OTY1LTc4NTYxZDIzNDYyNC5qcGc=",
+      "plot": "At 59, Mike Flynt may be too old to be on a college football field, but not too old to feel the weight of unfinished business. After nearly four decades, he returns to his alma mater to take the hit…",
+      "directors": [
+        "Rod Lurie"
       ]
     },
     {
@@ -629,6 +653,29 @@
       ]
     },
     {
+      "id": "reggie_2023",
+      "category": "sports",
+      "type": "movie",
+      "title": "Reggie",
+      "original_title": "Reggie",
+      "year": 2023,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": 8.2,
+      "votes": 75,
+      "tomatometer": 100,
+      "audience_score": 91,
+      "runtime_minutes": 104,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/XDnGNpheqMvg2Hme9bQpOVK28LY=/300x450/v2/https://resizing.flixster.com/5kshKSlP4EkZTXJxvf05s50PDYI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwOWJhNGUzLWMyMTctNGZhMy05MTViLTkwNDc0ZDNkY2MwZS5qcGc=",
+      "plot": "One of sport's first and most influential megastars, beloved baseball icon and 5-time World Series champion Reggie Jackson contemplates his legacy as a trailblazing Black athlete fighting for…",
+      "directors": [
+        "Alex Stapleton"
+      ]
+    },
+    {
       "id": "the_mighty_oaks",
       "category": "sports",
       "type": "movie",
@@ -866,6 +913,111 @@
       ]
     },
     {
+      "id": "ufc_318_holloway_vs_poirier_3",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 318: Holloway vs. Poirier 3",
+      "original_title": "UFC 318: Holloway vs. Poirier 3",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 30,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/FpbZrBKFHP2u-LzQv7TiOA4F34Y=/300x450/v2/https://resizing.flixster.com/SKpu0rsy3yjESgF1t5XHJ4j8ra4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg5MmZiNzliLTVmY2MtNGYwMS05MDYyLWRhOWM2NDY1YzU5Yy5qcGc=",
+      "plot": "It will be a memorable night at Smoothie King Center in New Orleans, Louisiana, on July 19 when Lafayette's Dustin Poirier makes his final walk to the Octagon to face off with Max Holloway for the…",
+      "directors": []
+    },
+    {
+      "id": "ufc_319_du_plessis_vs_chimaev",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 319: Du Plessis vs. Chimaev",
+      "original_title": "UFC 319: Du Plessis vs. Chimaev",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 28,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/UT4KMqav9p53MqtP-2dWO8hadDg=/300x450/v2/https://resizing.flixster.com/SK_5wuL815E2p7EoBCoXaLlG56s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ5OTI3ZmNiLWE4ODAtNDMyMy1hZTJjLWVlM2NmYmJmZjUyNi5qcGc=",
+      "plot": "The UFC returns to United Center in the Windy City of Chicago on August 16 with a stacked UFC 319 event featuring one of the most highly anticipated middleweight title fights in years. South Africa's…",
+      "directors": []
+    },
+    {
+      "id": "ufc_314_volkanovski_vs_lopes",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 314: Volkanovski vs. Lopes",
+      "original_title": "UFC 314: Volkanovski vs. Lopes",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 25,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/6bcs-Ir4xX93U5EiDeq8dbhH8g4=/300x450/v2/https://resizing.flixster.com/3gCdlb5MN7kNOpgUAzwsdYJGXsw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg3ODM1MDRhLTg1ZmItNDZlZC05MDAxLWYwN2QwYTFjZmQyZC5qcGc=",
+      "plot": "One of the greatest featherweights of all-time gets the chance to regain his crown on April 12 when Alexander Volkanovski faces streaking Brazilian contender Diego Lopes for the vacant UFC…",
+      "directors": []
+    },
+    {
+      "id": "ufc_320_ankalaev_vs_pereira_2",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 320: Ankalaev vs. Pereira 2",
+      "original_title": "UFC 320: Ankalaev vs. Pereira 2",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 23,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Q_NtuOwU25neSJ6B-8OCMPJ3AJI=/300x450/v2/https://resizing.flixster.com/XOCmNTBy4q3sIJB7O1tLqn7tIBI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhZWEwZjc1LTVjN2MtNDc1MS05OGZiLWNiZmEyNWU5ZWZhMy5qcGc=",
+      "plot": "The undisputed UFC light heavyweight title will be on the line on October 4 at T-Mobile Arena when Russian powerhouse Magomed Ankalaev defends his crown against the man he took it from, Brazilian…",
+      "directors": []
+    },
+    {
+      "id": "ufc_322_della_maddalena_vs_makhachev",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 322: Della Maddalena vs. Makhachev",
+      "original_title": "UFC 322: Della Maddalena vs. Makhachev",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 23,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/gv12I5OLyhdvnSmH7ZU1T7bqjEM=/300x450/v2/https://resizing.flixster.com/8V00Oohcw187MQXKT_PjBZ7Bbt8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyZDE4ODM0LTkyNTUtNDZjZC05ZTVhLWYwNzFkMmUxZDhhOS5qcGc=",
+      "plot": "UFC superstars will dare to be great at New York City's Madison Square Garden on November 15, as VeChain UFC 322 presents a championship doubleheader for the ages. In the main event, longtime…",
+      "directors": []
+    },
+    {
       "id": "backspot",
       "category": "sports",
       "type": "movie",
@@ -912,6 +1064,52 @@
       ]
     },
     {
+      "id": "luv_ya_bum",
+      "category": "biography",
+      "type": "movie",
+      "title": "Luv Ya, Bum!",
+      "original_title": "Luv Ya, Bum!",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 21,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 85,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Fl9WJFWDYj7B-ER_t1FSkc0C3KU=/300x450/v2/https://resizing.flixster.com/YXpsFWYzXCI7i0zsAsWP22CF10A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRjMGQ1MjNiLTFmYjYtNDY5MC1iZWQ5LTc5M2Q2NzE3OWNjOC53ZWJw",
+      "plot": "In booming 1970s Houston, one thing wasn't thriving -- the city's pro football team. That was until Bum Phillips arrived, bringing with him a blend of cowboy charm and coaching genius. By embracing a…",
+      "directors": [
+        "Sam Wainwright Douglas",
+        "David Hartstein"
+      ]
+    },
+    {
+      "id": "ufc_313_pereira_vs_ankalaev",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 313: Pereira vs. Ankalaev",
+      "original_title": "UFC 313: Pereira vs. Ankalaev",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 19,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/iOetyp9ho0fQgoi6Vsepp9pMp0Y=/300x450/v2/https://resizing.flixster.com/dILwyIosGyghxekom4BBtBnRhS0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M4ODlkOGQ5LTFhMDktNDUyOC1hZTFmLTM2NmI1NzgwYmY2MS5qcGc=",
+      "plot": "After a historic 2024 campaign that saw him step into the Octagon three times in defense of his UFC light heavyweight title and emerge with three knockout victories, Brazilian superstar Alex Pereira…",
+      "directors": []
+    },
+    {
       "id": "julie_keeps_quiet",
       "category": "sports",
       "type": "movie",
@@ -933,6 +1131,73 @@
       "directors": [
         "Leonardo Van Dijl"
       ]
+    },
+    {
+      "id": "ufc_316_dvalishvili_vs_omalley_2",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "original_title": "UFC 316: Dvalishvili vs. O'Malley 2",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 16,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/_ZDHueoRMig9Kisi7xuH7BTH2I8=/300x450/v2/https://resizing.flixster.com/4UQd8wnGkC-tThu-c_PECPl0ISY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0NzA1MzJmLTc2ZGQtNDIyOS1iOTRhLTcxOTJiMTdiOGRjNi5qcGc=",
+      "plot": "A championship doubleheader will headline the Octagon's return to the Prudential Center in Newark, New Jersey for UFC 316 on June 7. In the main event, it's a highly-anticipated rematch when…",
+      "directors": []
+    },
+    {
+      "id": "raymond_lewis_la_legend",
+      "category": "history",
+      "type": "movie",
+      "title": "Raymond Lewis: L.A. Legend",
+      "original_title": "Raymond Lewis: L.A. Legend",
+      "year": 2022,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Sports",
+        "History"
+      ],
+      "rating": 7.7,
+      "votes": 11,
+      "tomatometer": 100,
+      "audience_score": 82,
+      "runtime_minutes": 82,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/cXCBBYWMJWOX1ReyhKpNPkXWeco=/300x450/v2/https://resizing.flixster.com/R8ysoMZEL9u1y2HJ01Fj_mlifYc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5YzFhNzMxLWRkNDgtNDZkYi05OGY3LTdjOTEyYzk4Zjk4Mi5qcGc=",
+      "plot": "RAYMOND LEWIS: L.A. LEGEND is a critically acclaimed documentary that tells the incredible story of a basketball phenom from Watts, California whom many believe was blackballed from the NBA in the…",
+      "directors": [
+        "Ryan Polomski"
+      ]
+    },
+    {
+      "id": "ufc_323_dvalishvili_vs_yan_2",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 323: Dvalishvili vs. Yan 2",
+      "original_title": "UFC 323: Dvalishvili vs. Yan 2",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 10,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/GL7nh77zUGIcszp_KUdqLy7dbvU=/300x450/v2/https://resizing.flixster.com/D3ART_rfLl1ZOjm2I7QfKg1nZrY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzOGZhYzhjLWU1OTItNGRjOS05ZmUwLWUxMjQzMmVlZjc3YS5qcGc=",
+      "plot": "The UFC's final pay-per-view of the year wraps with a captivating clash for the bantamweight title as champion Merab \"The Machine\" Dvalishvili seeks to make his fourth successful title defense of the…",
+      "directors": []
     },
     {
       "id": "celebrity_boxing_the_16th_minute",
@@ -980,6 +1245,27 @@
       "directors": [
         "Carlos Armella"
       ]
+    },
+    {
+      "id": "ufc_315_muhammad_vs_della_maddalena",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 315: Muhammad vs. Della Maddalena",
+      "original_title": "UFC 315: Muhammad vs. Della Maddalena",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 7,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/EWIiyGxXcdTwr909DBG2qPkaUiY=/300x450/v2/https://resizing.flixster.com/l0G2pkszz4YetIlxzIbIqb63ums=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI4OTI0MDRhLTc1YzktNDk3MC1iYTBjLTdmMTllYjk5MWViNS5qcGc=",
+      "plot": "The Octagon returns to Montreal, Quebec, Canada for the first time since 2015, and on May 10, fans at the Bell Centre will be treated to a stacked card headlined by a championship doubleheader. In…",
+      "directors": []
     },
     {
       "id": "breakin_on_the_one",
@@ -1049,6 +1335,29 @@
       "plot": "A group of women came together in the 1970s to form a professional football team called the Houston Herricanes. These groundbreaking ladies came to the field with little to no experience and left…",
       "directors": [
         "Olivia Kuan"
+      ]
+    },
+    {
+      "id": "concussed_the_american_dream",
+      "category": "sports",
+      "type": "movie",
+      "title": "Concussed: The American Dream",
+      "original_title": "Concussed: The American Dream",
+      "year": 2024,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 4,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 88,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/qKErluUz08aPfaSf-VlY6Pb60jg=/300x450/v2/https://resizing.flixster.com/NRnYQkpejbGzjh2IOtkj2mUzU-c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAwNGIzOTFkLTBmMDItNDUzOS04NjE0LTliNDFjNzZmYjI5Ny5qcGc=",
+      "plot": "Tyler Sash was drafted by the New York Giants and became a part of the 2012 Super Bowl winning team; concussions would cut Sash's career short and the film is paralleled by NFL Hall of Famer Brett…",
+      "directors": [
+        "David Kano"
       ]
     },
     {
@@ -1142,6 +1451,27 @@
       "directors": [
         "Ben Sturgulewski"
       ]
+    },
+    {
+      "id": "ufc_321_aspinall_vs_gane",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 321: Aspinall vs. Gane",
+      "original_title": "UFC 321: Aspinall vs. Gane",
+      "year": 2025,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": 1,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/CzBSC5G_13-bJ7d_9cVNoX3Cz9g=/300x450/v2/https://resizing.flixster.com/oaF0nnVgfBv0N94_315qNvAxRx0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMwMTdhMTM2LTA3NTMtNGNlOC04Y2MxLTJhMTFjMjZiZDY3Zi5qcGc=",
+      "plot": "The UFC heavyweight world championship will be on the line on October 25 at Etihad Arena in Abu Dhabi when Tom Aspinall defends his undisputed crown for the first time against Ciryl Gane in the main…",
+      "directors": []
     }
   ]
 }

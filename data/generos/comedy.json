@@ -1,7 +1,7 @@
 {
   "genre": "comedy",
   "name": "Comedy",
-  "count": 4848,
+  "count": 5290,
   "titles": [
     {
       "id": "finding_nemo",
@@ -2649,6 +2649,29 @@
       ]
     },
     {
+      "id": "beetlejuice",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Beetlejuice",
+      "original_title": "Beetlejuice",
+      "year": 1988,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 7.1,
+      "votes": 67673,
+      "tomatometer": 83,
+      "audience_score": 82,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/wxC8M6p9Br7BozQLEdi7bW9FBPs=/300x450/v2/https://resizing.flixster.com/TSXIwVS-Bt-y39e-4n7i-YTptB4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QwNTMzNjgyLWM0YjktNDBhZC04ZDRlLTczOGE2ZmJjODJkZS5qcGc=",
+      "plot": "After Barbara and Adam Maitland die in a car accident, they find themselves stuck haunting their country residence, unable to leave the house. When the unbearable Deetzes and teen daughter Lydia buy…",
+      "directors": [
+        "Tim Burton"
+      ]
+    },
+    {
       "id": "john_tucker_must_die",
       "category": "romance",
       "type": "movie",
@@ -2987,6 +3010,30 @@
       "directors": [
         "Phil Lord",
         "Christopher Miller"
+      ]
+    },
+    {
+      "id": "hop_2011",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Hop",
+      "original_title": "Hop",
+      "year": 2011,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Comedy"
+      ],
+      "rating": 4.3,
+      "votes": 61442,
+      "tomatometer": 25,
+      "audience_score": 53,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/BPdUPCJnOYcIOfr-MVUePXsA1A4=/300x450/v2/https://resizing.flixster.com/SRP6B-AwJW_gYgqwyASPJyXcB9I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJhNjM0YmNiLWE1N2UtNGEwMC1hMDcyLTZjYjEzZDM3MGMzZi5qcGc=",
+      "plot": "Beneath Easter Island, in a giant factory that manufactures the world's Easter candy, the popular rabbit is preparing to pass the mantle to his son, E.B. (Russell Brand). But E.B. has no interest in…",
+      "directors": [
+        "Tim Hill"
       ]
     },
     {
@@ -3690,6 +3737,31 @@
       "plot": "Magic flows freely through the walls and toys within the Wonder Emporium. But when Mr. Magorium (Dustin Hoffman), the store's 243-year-old proprietor, decides to turn the reins over to his manager…",
       "directors": [
         "Zach Helm"
+      ]
+    },
+    {
+      "id": "fargo",
+      "category": "crime",
+      "type": "movie",
+      "title": "Fargo",
+      "original_title": "Fargo",
+      "year": 1996,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 9.2,
+      "votes": 53027,
+      "tomatometer": 95,
+      "audience_score": 92,
+      "runtime_minutes": 97,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/7PxXoFMUbSR2TZ6J8LOJyeaz3k8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17672_p_v7_aa.jpg",
+      "plot": "\"Fargo\" is a reality-based crime drama set in Minnesota in 1987. Jerry Lundegaard (William H. Macy) is a car salesman in Minneapolis who has gotten himself into debt and is so desperate for money…",
+      "directors": [
+        "Joel Coen"
       ]
     },
     {
@@ -4750,73 +4822,6 @@
       "plot": "Dory (Ellen DeGeneres) is a wide-eyed, blue tang fish who suffers from memory loss every 10 seconds or so. The one thing she can remember is that she somehow became separated from her parents as a…",
       "directors": [
         "Andrew Stanton"
-      ]
-    },
-    {
-      "id": "harold_and_kumar_go_to_white_castle",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Harold & Kumar Go to White Castle",
-      "original_title": "Harold & Kumar Go to White Castle",
-      "year": 2004,
-      "genres": [
-        "Comedy"
-      ],
-      "rating": 6.5,
-      "votes": 44909,
-      "tomatometer": 75,
-      "audience_score": 80,
-      "runtime_minutes": 88,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/veogtL3wOeFfaskbKPCQTmC1-9I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34664_p_v8_ak.jpg",
-      "plot": "Nerdy accountant Harold (John Cho) and his irrepressible friend, Kumar (Kal Penn), get stoned watching television and find themselves utterly bewitched by a commercial for White Castle. Convinced…",
-      "directors": [
-        "Danny Leiner"
-      ]
-    },
-    {
-      "id": "being_john_malkovich",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Being John Malkovich",
-      "original_title": "Being John Malkovich",
-      "year": 1999,
-      "genres": [
-        "Comedy"
-      ],
-      "rating": 8.9,
-      "votes": 44885,
-      "tomatometer": 94,
-      "audience_score": 87,
-      "runtime_minutes": 112,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/ufG3SRmZM--VVkEJB4uZK4C6Jpo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p23903_p_v8_ae.jpg",
-      "plot": "In this quirky cult-favorite comedy, unemployed New York City puppeteer Craig Schwartz (John Cusack) reluctantly takes a temp job as a filing clerk for the eccentric Dr. Lester (Orson Bean). While at…",
-      "directors": [
-        "Spike Jonze"
-      ]
-    },
-    {
-      "id": "ace_ventura_when_nature_calls",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Ace Ventura: When Nature Calls",
-      "original_title": "Ace Ventura: When Nature Calls",
-      "year": 1995,
-      "genres": [
-        "Comedy",
-        "Adventure"
-      ],
-      "rating": 4.0,
-      "votes": 44844,
-      "tomatometer": 23,
-      "audience_score": 72,
-      "runtime_minutes": 92,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/x5pCJKXV9P3pBB20jYHtSNhiWPg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17379_p_v12_ap.jpg",
-      "plot": "Legendary pet detective Ace Ventura returns for another adventure when he's coerced out of retirement while on a soul-searching retreat in the Himalayas. He must now retrieve an endangered white bat…",
-      "directors": [
-        "Steve Oedekerk"
       ]
     }
   ]
