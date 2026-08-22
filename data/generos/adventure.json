@@ -1,7 +1,7 @@
 {
   "genre": "adventure",
   "name": "Adventure",
-  "count": 1222,
+  "count": 1323,
   "titles": [
     {
       "id": "the_dark_knight",
@@ -557,7 +557,7 @@
         "Adventure"
       ],
       "rating": 8.1,
-      "votes": 182919,
+      "votes": 182922,
       "tomatometer": 85,
       "audience_score": 94,
       "runtime_minutes": 140,
@@ -3571,6 +3571,33 @@
       ]
     },
     {
+      "id": "knights_tale",
+      "category": "romance",
+      "type": "movie",
+      "title": "A Knight's Tale",
+      "original_title": "A Knight's Tale",
+      "year": 2001,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.3,
+      "votes": 66910,
+      "tomatometer": 60,
+      "audience_score": 79,
+      "runtime_minutes": 132,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/_r89dcxE-q9KMcf-vlrCzTLjAYs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27593_p_v10_ag.jpg",
+      "plot": "Peasant-born William Thatcher (Heath Ledger) begins a quest to change his stars, win the heart of an exceedingly fair maiden (Shanynn Sossamon) and rock his medieval world. With the help of friends…",
+      "directors": [
+        "Brian Helgeland"
+      ]
+    },
+    {
       "id": "pirates_of_the_caribbean_on_stranger_tides",
       "category": "fantasy",
       "type": "movie",
@@ -3779,7 +3806,7 @@
         "Fantasy"
       ],
       "rating": 7.2,
-      "votes": 64644,
+      "votes": 64645,
       "tomatometer": 77,
       "audience_score": 84,
       "runtime_minutes": 126,
@@ -3906,7 +3933,7 @@
         "Animation"
       ],
       "rating": 7.4,
-      "votes": 63711,
+      "votes": 63713,
       "tomatometer": 90,
       "audience_score": 91,
       "runtime_minutes": 102,
@@ -4946,33 +4973,6 @@
       "plot": "Dutch, a soldier of fortune, is hired by the U.S. government to secretly rescue a group of politicians trapped in Guatemala. But when Dutch and his team, which includes weapons expert Blain and CIA…",
       "directors": [
         "John McTiernan"
-      ]
-    },
-    {
-      "id": "frozen_ii",
-      "category": "musical",
-      "type": "movie",
-      "title": "Frozen II",
-      "original_title": "Frozen II",
-      "year": 2019,
-      "genres": [
-        "Kids & Family",
-        "Musical",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 6.8,
-      "votes": 48932,
-      "tomatometer": 77,
-      "audience_score": 92,
-      "runtime_minutes": 103,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/urlUkMGA9XgsnX2Tn6yVD1E4A5Q=/300x450/v2/https://resizing.flixster.com/R10FsECn4L0xGZWqktgVG583ErU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiYmIwOTg4LThhZGMtNGJlYy05YjQ4LTJkYmVkMmU3YjJkZC53ZWJw",
-      "plot": "Elsa the Snow Queen has an extraordinary gift -- the power to create ice and snow. But no matter how happy she is to be surrounded by the people of Arendelle, Elsa finds herself strangely unsettled.…",
-      "directors": [
-        "Chris Buck",
-        "Jennifer Lee"
       ]
     }
   ]

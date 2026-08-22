@@ -1,10 +1,18 @@
 {
   "bucket": "co",
-  "count": 7,
+  "count": 12,
   "titles": {
+    "arco": [
+      "sci-fi",
+      10
+    ],
     "dario_argento_panico": [
       "biography",
       3
+    ],
+    "disco": [
+      "drama",
+      45
     ],
     "donnie_brasco": [
       "crime",
@@ -14,6 +22,10 @@
       "documentary",
       31
     ],
+    "gods_of_mexico": [
+      "documentary",
+      38
+    ],
     "homeward_bound_2_lost_in_san_francisco": [
       "adventure",
       2
@@ -21,6 +33,14 @@
     "once_upon_a_time_in_mexico": [
       "action",
       5
+    ],
+    "romantico": [
+      "documentary",
+      37
+    ],
+    "simpatico": [
+      "comedy",
+      46
     ],
     "the_last_black_man_in_san_francisco": [
       "drama",

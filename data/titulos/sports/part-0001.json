@@ -1,8 +1,8 @@
 {
   "genre": "sports",
   "part": 1,
-  "count": 20,
-  "updated_at": "2026-08-21T19:45:54.887222Z",
+  "count": 22,
+  "updated_at": "2026-08-22T02:31:50.230376Z",
   "titles": [
     {
       "id": "air_2023",
@@ -344,7 +344,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:01:22.718566Z"
+      "scraped_at": "2026-08-22T01:53:47.619765Z"
     },
     {
       "id": "black_ice_2022",
@@ -444,7 +444,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:07:02.911450Z"
+      "scraped_at": "2026-08-22T02:00:49.621091Z"
     },
     {
       "id": "breakin_on_the_one",
@@ -1764,6 +1764,95 @@
       "scraped_at": "2026-08-21T02:49:38.122645Z"
     },
     {
+      "id": "seasons_of_glory",
+      "url": "https://www.rottentomatoes.com/m/seasons_of_glory",
+      "category": "sports",
+      "type": "movie",
+      "title": "Seasons of Glory",
+      "original_title": "Seasons of Glory",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 90,
+      "certificate": "Mar 2026",
+      "rating": 7.9,
+      "votes": 1,
+      "tomatometer": 83,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 2,
+      "metascore": null,
+      "plot": "In the 1950s, legendary high school basketball coach Lofton Greene led the recently racially integrated River Rouge High School Panthers to a record number of state championships in a league of otherwise segregated schools. Now, almost 70 years later, LaMonta Stone, a former Panther himself, has returned to the struggling industrial town of River Rouge, Michigan, to help the Panthers chase the school's 15th State Championship. In this coming of age story, Stone and four of his student-athletes, including Seniors Brent Darby Jr. and Ahmoni Weston, and junior Legend Geeter strive on their quest to fulfill generations worth of work on and off the court by preparing for their next chapter of life.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/jMJZbeTm4WqkHj_hwV4987ce6yM=/300x450/v2/https://resizing.flixster.com/fje0vqVBSBS8wnMMUNgM6ObmVy8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNjZDk4ZjExLTkyYTQtNDdkNS1iNmYzLTI2Zjc4OTliZTgxNC5wbmc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/jMJZbeTm4WqkHj_hwV4987ce6yM=/300x450/v2/https://resizing.flixster.com/fje0vqVBSBS8wnMMUNgM6ObmVy8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNjZDk4ZjExLTkyYTQtNDdkNS1iNmYzLTI2Zjc4OTliZTgxNC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jIy42tqta9vKSkIWXcWa3gqdFzY=/620x336/v2/https://resizing.flixster.com/CmzYZv7ypnjKIVw8VezTPB6trlc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliZmYzODZiLTAyZDAtNDVjYy04NWYwLWQyYzU5ZjRiYTAxZS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/6JbSjBFsIhxq8RsjmhcmobaMk5A=/fit-in/705x460/v2/https://resizing.flixster.com/V1Be3lAvrs0fA0eucPXEZuOccqE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3MWQ5NjE1LWJlODgtNGQxMy05YjA1LWRjZTI5ZGNiODc0Zi5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/JZKL7L8QYA1VugMqDX1MMLQ7OZs=/fit-in/705x460/v2/https://resizing.flixster.com/vnzBuF_60eR3DlZuBSag-0ATyl4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1ZWUzODM1LWE3MmUtNGIwMS04YjA1LThhNjAwN2QwMzRkOS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5aLecqd5RTHddJWTz_6sXypOSvg=/fit-in/705x460/v2/https://resizing.flixster.com/sIqwWP49Aha_PrgXso1QblEiz_8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4ZmJhMzE2LThhYzctNGM5NS05ZjcxLTA5ZWUyYTkzZWQ0OS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/DFlf-YzJ-F-YSez6GdY2ckgyN9g=/fit-in/705x460/v2/https://resizing.flixster.com/1quNLDUo0Dkx6TESMNE3oFR9_no=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4OWQ3ZWZhLWVjODItNDI5MC05YzYxLWMzMDhmZWZjNjRkNy5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FM_acAyTeRHCedjpIDRBWDwlfM4=/fit-in/705x460/v2/https://resizing.flixster.com/QS7cdZEJIFTq5YBVX6rRgM7eje0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExODk0YmNiLTFjMzAtNGMyZC1hMmZmLWU3ZTlmMzgyNzQ5YS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/J-4Alag1Ylyo6yJ0NP7vGYGEBFs=/fit-in/705x460/v2/https://resizing.flixster.com/HsXnRy4WOeQPiaQo1Bx5FrYJXqw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg1NGZkMGUxLTU2OWQtNDZlZS05OTFkLTZiYTk1OWFhMjIxMS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1eDVw4TdzxnMZbVqojLmQbc7oXs=/fit-in/705x460/v2/https://resizing.flixster.com/d0rOPSm7OYGJ5bkhgSNMzotUORc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkMjk5YzFmLTE2MjItNGZkNi04ZmQ1LWQxMzlmODI0YWRiMC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/IysX6tIBtLxiF2cOwm3b4BqA5Mw=/fit-in/705x460/v2/https://resizing.flixster.com/GoJglCe5KcD704oHPpoIz5c3Z4k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyYjdlNzNmLTI5MjItNGZhOS04ZjdkLTk2NTYwYzk1Yjk1NC5wbmc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "hamoody_jaafar",
+          "name": "Hamoody Jaafar"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T02:31:14.870055Z"
+    },
+    {
       "id": "the_beautiful_game",
       "url": "https://www.rottentomatoes.com/m/the_beautiful_game",
       "category": "sports",
@@ -2081,6 +2170,100 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-21T02:43:12.925605Z"
+    },
+    {
+      "id": "the_mighty_oaks",
+      "url": "https://www.rottentomatoes.com/m/the_mighty_oaks",
+      "category": "sports",
+      "type": "movie",
+      "title": "The Mighty Oaks",
+      "original_title": "The Mighty Oaks",
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "year": 2025,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 105,
+      "certificate": null,
+      "rating": null,
+      "votes": 67,
+      "tomatometer": null,
+      "tomatometer_count": 1,
+      "tomatometer_certified": false,
+      "audience_score": 99,
+      "audience_count": 55,
+      "metascore": null,
+      "plot": "In Morgan Hill, California, a small but determined group of parents and young athletes set out to build something from the ground up--a thriving lacrosse community where none had existed before. What began as a grassroots passion project soon grew into a full-fledged movement, culminating in the creation of both boys' and girls' high school varsity programs. The Mighty Oaks follows the boys' high school varsity team through the 2024 season, as the original players who helped establish the program in 2015 take one last shot at a championship. But beyond the wins and losses, the film dives into the unique personal stories that shape this extraordinary team. From overcoming obstacles to chasing dreams, each player's journey is woven into the fabric of a team that is about more than just the game--it's about resilience, friendship, and a shared sense of purpose. Through on-field battles and heartfelt moments off the field, The Mighty Oaks captures the essence of what makes team sports so powerful. It's not just about the final score--it's about the personal growth, the lasting bonds, and the unbreakable spirit of a community that dared to believe in something bigger than themselves.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/b4TWY3G94E--LBcEoAjbZo7Wj9E=/300x450/v2/https://resizing.flixster.com/KKgqCE9rft6hOCy5TOLyLXsMJew=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I2ZjlkZjhhLTEyNjMtNGQ4MC1hMWJhLWMwYmQ0YzZiMTIyNC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/b4TWY3G94E--LBcEoAjbZo7Wj9E=/300x450/v2/https://resizing.flixster.com/KKgqCE9rft6hOCy5TOLyLXsMJew=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I2ZjlkZjhhLTEyNjMtNGQ4MC1hMWJhLWMwYmQ0YzZiMTIyNC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/peC5OFJkgZZlDiq9V8LQmhy9FjE=/620x336/v2/https://resizing.flixster.com/JFzEOHfl7Hd_5oSHk31WxpUyRWw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QwZDU2MDE1LWE0MTQtNGY0NC04NGU3LTNlNmQyNzBiOTdiMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tNzOZt65zGzrtK9FXAqoTsh8qaA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31702661_i_h9_aa.jpg",
+          "caption": "The Mighty Oaks (2025)"
+        },
+        {
+          "url": "https://resizing.flixster.com/7pfXL2g65mPWbnF9aoYqBzjN2F0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31702661_i_v9_aa.jpg",
+          "caption": "The Mighty Oaks (2025)"
+        },
+        {
+          "url": "https://resizing.flixster.com/0VkC9HrMGr3oLiaXB-ulHgPkF8Y=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31702661_i_v8_aa.jpg",
+          "caption": "The Mighty Oaks (2025)"
+        },
+        {
+          "url": "https://resizing.flixster.com/FFae6-vqxv6EcCLN_Mi7oPwlS38=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31702661_i_h10_aa.jpg",
+          "caption": "The Mighty Oaks (2025)"
+        },
+        {
+          "url": "https://resizing.flixster.com/0ou_xES3F6re3_AGMAnU91o2Ve4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31702661_k_h9_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/RX4ysKtqu8fsf1-m1XLvjQRC4fY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31702661_k_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0jIgBCXfGmWWrtJuM7jJYJqAd3g=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31702661_k_v12_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/RYexjuW2CupS1ZJ9sCMr69SPBOg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31702661_k_h8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "brendan_harty_2",
+          "name": "Brendan Harty"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Mighty-Oaks/4598465?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-22T02:13:13.144639Z"
     },
     {
       "id": "unfightable",
