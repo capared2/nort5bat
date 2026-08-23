@@ -1,7 +1,7 @@
 {
   "genre": "animation",
   "name": "Animation",
-  "count": 428,
+  "count": 434,
   "titles": [
     {
       "id": "finding_nemo",
@@ -612,7 +612,7 @@
         "Animation"
       ],
       "rating": 7.2,
-      "votes": 77854,
+      "votes": 77855,
       "tomatometer": 74,
       "audience_score": 80,
       "runtime_minutes": 117,
@@ -1645,7 +1645,7 @@
         "Animation"
       ],
       "rating": 5.5,
-      "votes": 32274,
+      "votes": 32278,
       "tomatometer": 40,
       "audience_score": 50,
       "runtime_minutes": 107,
@@ -3210,7 +3210,7 @@
         "Animation"
       ],
       "rating": 5.6,
-      "votes": 13734,
+      "votes": 13735,
       "tomatometer": 36,
       "audience_score": 47,
       "runtime_minutes": 81,
@@ -3426,6 +3426,32 @@
       "directors": [
         "Pierre Coffin",
         "Kyle Balda"
+      ]
+    },
+    {
+      "id": "sonic_the_hedgehog_3",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Sonic the Hedgehog 3",
+      "original_title": "Sonic the Hedgehog 3",
+      "year": 2024,
+      "genres": [
+        "Kids & Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "rating": 6.7,
+      "votes": 12483,
+      "tomatometer": 86,
+      "audience_score": 95,
+      "runtime_minutes": 109,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ZMsueM3tcvxbZD8eLfETyRN0S-A=/300x450/v2/https://resizing.flixster.com/5yCDU3YndW2EIWaEwH1FydaMwZI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E0MGM5YTk5LTdhY2UtNGYzNS04NGVmLTJlNjRkYjljNjQ4ZS5qcGc=",
+      "plot": "Sonic the Hedgehog returns to the big screen this holiday season in his most thrilling adventure yet. Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain…",
+      "directors": [
+        "Jeff Fowler"
       ]
     },
     {
@@ -3871,7 +3897,7 @@
         "Animation"
       ],
       "rating": 6.2,
-      "votes": 9704,
+      "votes": 9705,
       "tomatometer": 70,
       "audience_score": 69,
       "runtime_minutes": 102,
@@ -4856,7 +4882,7 @@
         "Animation"
       ],
       "rating": 7.0,
-      "votes": 5354,
+      "votes": 5359,
       "tomatometer": 87,
       "audience_score": 63,
       "runtime_minutes": 89,
@@ -5092,32 +5118,6 @@
       "directors": [
         "John Musker",
         "Ron Clements"
-      ]
-    },
-    {
-      "id": "mars_needs_moms",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Mars Needs Moms",
-      "original_title": "Mars Needs Moms",
-      "year": 2011,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Sci-Fi",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 4.9,
-      "votes": 4852,
-      "tomatometer": 34,
-      "audience_score": 40,
-      "runtime_minutes": 88,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/YQ2f5GF-PHpyXVpY8uhw5c2zPbw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8329439_p_v8_ae.jpg",
-      "plot": "Milo is a 9-year-old boy who has a lot on his mind; he has monster movies to watch, comic books to read and all other kinds of fun stuff to accomplish. He definitely does not have time to do homework…",
-      "directors": [
-        "Simon Wells"
       ]
     }
   ]

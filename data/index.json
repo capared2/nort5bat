@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-08-22T07:53:56.972717Z",
-  "total_titles": 19821,
+  "generated_at": "2026-08-23T02:12:24.626687Z",
+  "total_titles": 19955,
   "total_genres": 27,
   "genres": [
     {
@@ -230,7 +230,7 @@
           "count": 43
         }
       ],
-      "tagged": 8752
+      "tagged": 8774
     },
     {
       "genre": "comedy",
@@ -450,12 +450,12 @@
           "count": 12
         }
       ],
-      "tagged": 5290
+      "tagged": 5299
     },
     {
       "genre": "mystery-thriller",
       "name": "Mystery & Thriller",
-      "titles": 1875,
+      "titles": 1876,
       "files": [
         {
           "file": "titulos/mystery-thriller/part-0001.json",
@@ -583,10 +583,10 @@
         },
         {
           "file": "titulos/mystery-thriller/part-0032.json",
-          "count": 15
+          "count": 16
         }
       ],
-      "tagged": 3911
+      "tagged": 3920
     },
     {
       "genre": "documentary",
@@ -814,12 +814,12 @@
           "count": 12
         }
       ],
-      "tagged": 2142
+      "tagged": 2158
     },
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 1978,
+      "titles": 1982,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
@@ -951,15 +951,19 @@
         },
         {
           "file": "titulos/horror/part-0033.json",
-          "count": 58
+          "count": 60
+        },
+        {
+          "file": "titulos/horror/part-0034.json",
+          "count": 2
         }
       ],
-      "tagged": 1983
+      "tagged": 1987
     },
     {
       "genre": "romance",
       "name": "Romance",
-      "titles": 1534,
+      "titles": 1535,
       "files": [
         {
           "file": "titulos/romance/part-0001.json",
@@ -1063,10 +1067,10 @@
         },
         {
           "file": "titulos/romance/part-0026.json",
-          "count": 34
+          "count": 35
         }
       ],
-      "tagged": 1789
+      "tagged": 1791
     },
     {
       "genre": "adventure",
@@ -1086,7 +1090,7 @@
           "count": 22
         }
       ],
-      "tagged": 1402
+      "tagged": 1412
     },
     {
       "genre": "crime",
@@ -1178,12 +1182,12 @@
           "count": 10
         }
       ],
-      "tagged": 1260
+      "tagged": 1262
     },
     {
       "genre": "fantasy",
       "name": "Fantasy",
-      "titles": 678,
+      "titles": 684,
       "files": [
         {
           "file": "titulos/fantasy/part-0001.json",
@@ -1231,27 +1235,15 @@
         },
         {
           "file": "titulos/fantasy/part-0012.json",
-          "count": 18
+          "count": 24
         }
       ],
-      "tagged": 938
-    },
-    {
-      "genre": "kids-family",
-      "name": "Kids & Family",
-      "titles": 41,
-      "files": [
-        {
-          "file": "titulos/kids-family/part-0001.json",
-          "count": 41
-        }
-      ],
-      "tagged": 873
+      "tagged": 963
     },
     {
       "genre": "sci-fi",
       "name": "Sci-Fi",
-      "titles": 681,
+      "titles": 802,
       "files": [
         {
           "file": "titulos/sci-fi/part-0001.json",
@@ -1299,10 +1291,30 @@
         },
         {
           "file": "titulos/sci-fi/part-0012.json",
-          "count": 21
+          "count": 60
+        },
+        {
+          "file": "titulos/sci-fi/part-0013.json",
+          "count": 60
+        },
+        {
+          "file": "titulos/sci-fi/part-0014.json",
+          "count": 22
         }
       ],
-      "tagged": 828
+      "tagged": 951
+    },
+    {
+      "genre": "kids-family",
+      "name": "Kids & Family",
+      "titles": 41,
+      "files": [
+        {
+          "file": "titulos/kids-family/part-0001.json",
+          "count": 41
+        }
+      ],
+      "tagged": 875
     },
     {
       "genre": "biography",
@@ -1347,7 +1359,7 @@
     {
       "genre": "history",
       "name": "History",
-      "titles": 319,
+      "titles": 320,
       "files": [
         {
           "file": "titulos/history/part-0001.json",
@@ -1371,10 +1383,10 @@
         },
         {
           "file": "titulos/history/part-0006.json",
-          "count": 19
+          "count": 20
         }
       ],
-      "tagged": 539
+      "tagged": 540
     },
     {
       "genre": "lgbtq",
@@ -1398,7 +1410,7 @@
           "count": 33
         }
       ],
-      "tagged": 495
+      "tagged": 503
     },
     {
       "genre": "music",
@@ -1430,7 +1442,7 @@
           "count": 18
         }
       ],
-      "tagged": 491
+      "tagged": 492
     },
     {
       "genre": "animation",
@@ -1454,7 +1466,7 @@
           "count": 50
         }
       ],
-      "tagged": 428
+      "tagged": 434
     },
     {
       "genre": "war",

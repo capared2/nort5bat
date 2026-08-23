@@ -1,7 +1,7 @@
 {
   "genre": "music",
   "name": "Music",
-  "count": 491,
+  "count": 492,
   "titles": [
     {
       "id": "8_mile",
@@ -3299,6 +3299,30 @@
       ]
     },
     {
+      "id": "mother_mary",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Mother Mary",
+      "original_title": "Mother Mary",
+      "year": 2026,
+      "genres": [
+        "Mystery & Thriller",
+        "Drama",
+        "Music"
+      ],
+      "rating": 6.5,
+      "votes": 287,
+      "tomatometer": 69,
+      "audience_score": 60,
+      "runtime_minutes": 111,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/q7FIl8_4aI_pMhiQ29yO2yzerTs=/300x450/v2/https://resizing.flixster.com/uQho2faU1Uf3OouLtjT7Wb75LEs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4YjdhYWYxLTMzNzktNGFlOC1hOWE5LTlhZGVjZmM1MDhhNi5qcGc=",
+      "plot": "Long-buried wounds rise to the surface when iconic pop star Mother Mary (Anne Hathaway) reunites with her estranged best friend and former costume designer Sam Anselm (Michaela Coel) on the eve of…",
+      "directors": [
+        "David Lowery"
+      ]
+    },
+    {
       "id": "the_piano_lesson",
       "category": "music",
       "type": "movie",
@@ -4728,31 +4752,6 @@
       "plot": "When fate brings Belfast schoolteacher JJ into the orbit of self-confessed 'low life scum' Naoise and Liam Og, the needle drops on a hip hop act like no other. Rapping in their native Irish language,…",
       "directors": [
         "Rich Peppiatt"
-      ]
-    },
-    {
-      "id": "the_lost_weekend_a_love_story",
-      "category": "biography",
-      "type": "movie",
-      "title": "The Lost Weekend: A Love Story",
-      "original_title": "The Lost Weekend: A Love Story",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "Music"
-      ],
-      "rating": 8.1,
-      "votes": 96,
-      "tomatometer": 88,
-      "audience_score": 91,
-      "runtime_minutes": 97,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/-dzSRui80Owjk_cplQWh3OXqFHs=/300x450/v2/https://resizing.flixster.com/rRgCbHor42A9KJKXXHRw-bp106g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMwMzU1NGE2LTM0OWMtNDczMy1iOTg0LWE0YTIxMzExYzJjYi5qcGc=",
-      "plot": "\"The Lost Weekend: A Love Story\" explores the 18-month relationship (1973-1975) that John Lennon spent with May Pang, his Chinese American assistant turned lover (on Yoko Ono's insistence). With…",
-      "directors": [
-        "Eve Brandstein",
-        "Richard Kaufman"
       ]
     }
   ]

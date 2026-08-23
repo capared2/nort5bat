@@ -1,7 +1,7 @@
 {
   "genre": "sci-fi",
   "name": "Sci-Fi",
-  "count": 828,
+  "count": 951,
   "titles": [
     {
       "id": "transformers_the_movie",
@@ -1227,7 +1227,7 @@
         "Mystery & Thriller"
       ],
       "rating": 8.3,
-      "votes": 92393,
+      "votes": 92394,
       "tomatometer": 92,
       "audience_score": 85,
       "runtime_minutes": 109,
@@ -2362,7 +2362,7 @@
         "Mystery & Thriller"
       ],
       "rating": 7.1,
-      "votes": 52668,
+      "votes": 52669,
       "tomatometer": 85,
       "audience_score": 72,
       "runtime_minutes": 84,
@@ -3645,6 +3645,28 @@
       ]
     },
     {
+      "id": "gattaca",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Gattaca",
+      "original_title": "Gattaca",
+      "year": 1997,
+      "genres": [
+        "Sci-Fi"
+      ],
+      "rating": 7.4,
+      "votes": 30257,
+      "tomatometer": 82,
+      "audience_score": 87,
+      "runtime_minutes": 112,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/AVXMO3L-eSWVoHDAAGiQ1tC1mWw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19880_p_v8_aa.jpg",
+      "plot": "Vincent Freeman has always fantasized about traveling into outer space, but is grounded by his status as a genetically inferior in-valid. He decides to fight his fate by purchasing the genes of…",
+      "directors": [
+        "Andrew Niccol"
+      ]
+    },
+    {
       "id": "riddick",
       "category": "sci-fi",
       "type": "movie",
@@ -3692,6 +3714,32 @@
       "plot": "Young Han Solo finds adventure when he joins forces with a gang of galactic smugglers and a 190-year-old Wookiee named Chewbacca. Indebted to the gangster Dryden Vos, the crew devises a daring plan…",
       "directors": [
         "Ron Howard"
+      ]
+    },
+    {
+      "id": "day_the_earth_stood_still",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Day the Earth Stood Still",
+      "original_title": "The Day the Earth Stood Still",
+      "year": 2008,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure",
+        "Mystery & Thriller",
+        "Drama"
+      ],
+      "rating": 4.4,
+      "votes": 29115,
+      "tomatometer": 21,
+      "audience_score": 27,
+      "runtime_minutes": 104,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/qTzNuQYnM6ANMtMdonmfUxVaQn8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p176378_p_v12_ay.jpg",
+      "plot": "Klaatu, an extraterrestrial visitor to planet Earth, becomes the herald of upheaval on a global scale. As the world's governments and scientists race to understand what is happening and how to stop…",
+      "directors": [
+        "Scott Derrickson"
       ]
     },
     {
@@ -4520,6 +4568,32 @@
       ]
     },
     {
+      "id": "everything_everywhere_all_at_once",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Everything Everywhere All at Once",
+      "original_title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "genres": [
+        "Comedy",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "rating": 8.6,
+      "votes": 22903,
+      "tomatometer": 93,
+      "audience_score": 79,
+      "runtime_minutes": 132,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/t2X4_ne-xip_aA7fbh41Jh42TYo=/300x450/v2/https://resizing.flixster.com/mx-agGjjsUK1QMyuv3AJhHI3hgo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3ZjU2MGU1LWMxODItNDlkMC1hYzJhLTY2YzMwOGZkMDhiZi5qcGc=",
+      "plot": "Directed by Daniel Kwan and Daniel Scheinert, collectively known as Daniels, the film is a hilarious and big-hearted sci-fi action adventure about an exhausted Chinese American woman (Michelle Yeoh)…",
+      "directors": [
+        "Daniel Kwan",
+        "Daniel Scheinert"
+      ]
+    },
+    {
       "id": "the_host_2013",
       "category": "sci-fi",
       "type": "movie",
@@ -4837,77 +4911,6 @@
       "plot": "Washington, D.C. psychologist Carol Bennell and her colleague Dr. Ben Driscoll are the only two people on Earth who are aware of an epidemic running rampant through the city. They discover an alien…",
       "directors": [
         "Oliver Hirschbiegel"
-      ]
-    },
-    {
-      "id": "demolition_man",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Demolition Man",
-      "original_title": "Demolition Man",
-      "year": 1993,
-      "genres": [
-        "Sci-Fi",
-        "Action"
-      ],
-      "rating": 6.1,
-      "votes": 19969,
-      "tomatometer": 67,
-      "audience_score": 67,
-      "runtime_minutes": 114,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/jo-by2fAU9JDR4KHD004MHpCqQU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15098_p_v10_ab.jpg",
-      "plot": "With innocent victims caught in the crossfire in Los Angeles' intensifying war on crime, both cop John Spartan (Sylvester Stallone) and violent thug Simon Phoenix (Wesley Snipes) are sentenced to a…",
-      "directors": [
-        "Marco Brambilla"
-      ]
-    },
-    {
-      "id": "jurassic_world_dominion",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Jurassic World Dominion",
-      "original_title": "Jurassic World Dominion",
-      "year": 2022,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi",
-        "Mystery & Thriller"
-      ],
-      "rating": 4.8,
-      "votes": 19769,
-      "tomatometer": 28,
-      "audience_score": 77,
-      "runtime_minutes": 147,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/U1yYPtHfms5YR8yrm0H9TgD0zfg=/300x450/v2/https://resizing.flixster.com/2VPIaCRTElZ2Iwa0u5vdO8Tq_Kw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M5MjdhYzIwLTlhOWYtNDFiYS05YTM0LTkzNTUxNThlZWFkZi5qcGc=",
-      "plot": "This summer, experience the epic conclusion to the Jurassic era as two generations unite for the first time. Chris Pratt and Bryce Dallas Howard are joined by Oscar®-winner Laura Dern, Jeff Goldblum…",
-      "directors": [
-        "Colin Trevorrow"
-      ]
-    },
-    {
-      "id": "alien_resurrection",
-      "category": "horror",
-      "type": "movie",
-      "title": "Alien Resurrection",
-      "original_title": "Alien Resurrection",
-      "year": 1997,
-      "genres": [
-        "Sci-Fi",
-        "Horror"
-      ],
-      "rating": 5.9,
-      "votes": 19751,
-      "tomatometer": 55,
-      "audience_score": 39,
-      "runtime_minutes": 109,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/qGfMKI0l9g2aiNJCplzk4D2H0SA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20180_p_v13_bn.jpg",
-      "plot": "Two hundred years have passed since Ellen Ripley died on Fiorina 161. Aboard the medical research vessel USM Auriga, a team of scientists clones Ripley from her extracted DNA and removes the alien…",
-      "directors": [
-        "Jean-Pierre Jeunet"
       ]
     }
   ]
