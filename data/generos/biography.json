@@ -1,7 +1,7 @@
 {
   "genre": "biography",
   "name": "Biography",
-  "count": 723,
+  "count": 725,
   "titles": [
     {
       "id": "1065684-braveheart",
@@ -1346,7 +1346,7 @@
         "Drama"
       ],
       "rating": 8.1,
-      "votes": 14041,
+      "votes": 14042,
       "tomatometer": 94,
       "audience_score": 87,
       "runtime_minutes": 85,
@@ -2015,7 +2015,7 @@
         "Drama"
       ],
       "rating": 7.1,
-      "votes": 9259,
+      "votes": 9260,
       "tomatometer": 73,
       "audience_score": 68,
       "runtime_minutes": 99,
@@ -2734,7 +2734,7 @@
         "Drama"
       ],
       "rating": 6.9,
-      "votes": 6532,
+      "votes": 6533,
       "tomatometer": 80,
       "audience_score": 68,
       "runtime_minutes": 138,
@@ -4195,6 +4195,30 @@
       ]
     },
     {
+      "id": "megan_leavey",
+      "category": "war",
+      "type": "movie",
+      "title": "Megan Leavey",
+      "original_title": "Megan Leavey",
+      "year": 2017,
+      "genres": [
+        "War",
+        "Biography",
+        "Drama"
+      ],
+      "rating": 6.8,
+      "votes": 2562,
+      "tomatometer": 86,
+      "audience_score": 82,
+      "runtime_minutes": 116,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/qaquue41SZO5TGWO4g97NkNULYY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13712899_p_v8_ab.jpg",
+      "plot": "The true life story of Megan Leavey, a young Marine corporal whose unique discipline and bond with a military combat dog saved many lives during her deployment in Iraq. Assigned to clean up the K-9…",
+      "directors": [
+        "Gabriela Cowperthwaite"
+      ]
+    },
+    {
       "id": "coal_miners_daughter",
       "category": "biography",
       "type": "movie",
@@ -4782,31 +4806,6 @@
       "directors": [
         "Andrew Erwin",
         "Jon Erwin"
-      ]
-    },
-    {
-      "id": "reds",
-      "category": "romance",
-      "type": "movie",
-      "title": "Reds",
-      "original_title": "Reds",
-      "year": 1981,
-      "genres": [
-        "History",
-        "Drama",
-        "Romance",
-        "Biography"
-      ],
-      "rating": 8.1,
-      "votes": 2045,
-      "tomatometer": 90,
-      "audience_score": 82,
-      "runtime_minutes": 195,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/_pFH0EsGptwuiUdelC_BYVDszq8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5293_p_v10_ab.jpg",
-      "plot": "American journalist John Reed (Warren Beatty) journeys to Russia to document the Bolshevik Revolution and returns a revolutionary. His fervor for left-wing politics leads him to Louise Bryant (Diane…",
-      "directors": [
-        "Warren Beatty"
       ]
     }
   ]

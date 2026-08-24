@@ -1,8 +1,8 @@
 {
   "genre": "mystery-thriller",
   "part": 32,
-  "count": 16,
-  "updated_at": "2026-08-23T02:11:54.597345Z",
+  "count": 18,
+  "updated_at": "2026-08-24T13:25:56.739957Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -182,7 +182,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T07:52:25.145589Z"
+      "scraped_at": "2026-08-24T13:18:18.169101Z"
     },
     {
       "id": "gone_2012",
@@ -308,7 +308,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T07:51:53.748342Z"
+      "scraped_at": "2026-08-24T13:23:07.009473Z"
     },
     {
       "id": "hanna",
@@ -1244,6 +1244,131 @@
       "scraped_at": "2026-08-22T07:51:36.815358Z"
     },
     {
+      "id": "premium_rush",
+      "url": "https://www.rottentomatoes.com/m/premium_rush",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Premium Rush",
+      "original_title": "Premium Rush",
+      "genres": [
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "year": 2011,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 91,
+      "certificate": "PG-13",
+      "rating": 6.3,
+      "votes": 28411,
+      "tomatometer": 75,
+      "tomatometer_count": 164,
+      "tomatometer_certified": true,
+      "audience_score": 60,
+      "audience_count": 3263,
+      "metascore": null,
+      "plot": "For bike messenger Wilee (Joseph Gordon-Levitt), dodging speeding cars, evading crazy cabdrivers, and blowing by millions of cranky pedestrians is all in a day's work. Wilee is one of the best in a dangerous job, and his bike of choice is a Fixie, a lightweight, single-gear unit without brakes. Though Wilee knows that one day he may end up as a smear on the pavement -- he is unprepared for what happens after his last run of the day turns into a life-or-death chase through Manhattan.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/yY1Z0GCrEO-8y5eKb6OtDjThLQk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8786097_p_v12_ba.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/yY1Z0GCrEO-8y5eKb6OtDjThLQk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8786097_p_v12_ba.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wBnOqWb98bVZbrbGcJXXDQIDX3M=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8786097_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5fOFZABvjpYAlE5RgDFUHMMjsjU=/fit-in/705x460/v2/https://resizing.flixster.com/vZLcZrGwKq0-q1LwtQWCtfazNlE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIzMzQ1MmMxLWI5MzctNGJmNi1hZWJlLTEwZTY1M2IzNjU4My53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/kwQ5gEBKQc08mzhP8RkwivXvupM=/fit-in/705x460/v2/https://resizing.flixster.com/Fu8bAhRgemEEAAMoDHzhGkTESpI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc2OGQ0ZTkyLTYxOGMtNDM4OS05NTAzLWZkNjY4NzRiMGQ1NS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tRuNRXGNoyZ0qCtPXqvpudSJwJ8=/fit-in/705x460/v2/https://resizing.flixster.com/SGc58revvXv9bXEz83yHvPSokVE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFkMjBkYTQ5LTBmMDktNGY4Ni05YjljLTA5Y2Y5ZTRhMDExNS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FZo8DG0LQfh5uVKuS6VtoyU5hz8=/fit-in/705x460/v2/https://resizing.flixster.com/T1hTW7LtjeeDfVq76prXgMtagAU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0NDA3NzUxLWNkMDgtNGEzOS04N2Q0LTg1MWEyZTM2MGUwMS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/LZbqAh14kFPjtkmMyXv8zWZK-jU=/fit-in/705x460/v2/https://resizing.flixster.com/hx2AvUrrc978GhvGvu8hmtUZeTY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QyM2VjOWMyLWJlMTEtNGFhNy1hYTBhLTQyYWM1ZGEyYTgzOC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BjlswIdXVFWh1zogU6G_n2jzpSs=/fit-in/705x460/v2/https://resizing.flixster.com/Bhn0kKk9cgxhohtfU12uH33CewY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJkOGMyZTcyLTIxOGItNDZkMy05ZGQ2LTBlMThlMTk2YmYyMi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ogbueGWn5G3Be6wYp0Ih5bHjyUA=/fit-in/705x460/v2/https://resizing.flixster.com/hxrhfZbM5LSDqU0HgqFUys67NA8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EyMGFkYjZlLWVjZWQtNDg4NS1iZmQ0LTQ3NTVjYTNjZWNjZS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/uUNk-NupPwt_OeNYlLU_PPwJcF0=/fit-in/705x460/v2/https://resizing.flixster.com/apHCluvycYlB6_Wol3TNlw9ydXA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYyY2VjOWE5LTNlNGMtNDZmNC04MWIwLWU1MDg0ZmMwNjZiZi53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "david_koepp",
+          "name": "David Koepp"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "joseph_gordonlevitt",
+          "name": "Joseph Gordon-Levitt",
+          "character": "",
+          "image": "https://resizing.flixster.com/nDuspvnmKFfMVw9Vc-2YqzxVYl4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0031CGY4.jpg"
+        },
+        {
+          "id": "mike_shannon",
+          "name": "Michael Shannon",
+          "character": "",
+          "image": "https://resizing.flixster.com/Aj-wbMXZQLjKjGzMYNlGfKApnog=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/225797_v9_bb.jpg"
+        },
+        {
+          "id": "dania_ramirez",
+          "name": "Dania Ramirez",
+          "character": "",
+          "image": "https://resizing.flixster.com/5Cy65QMqEzO3ySCORTamQBskiLc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/268804_v9_bb.jpg"
+        },
+        {
+          "id": "jamie-chung",
+          "name": "Jamie Chung",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ex9ZzCK-UrGW0LJ29PwhEEXpqaA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0028CSDS.jpg"
+        },
+        {
+          "id": "wole_parks",
+          "name": "Wole Parks",
+          "character": "",
+          "image": "https://resizing.flixster.com/S7adYfDmUNfjVr4trQBPSQodBCM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/520994_v9_bf.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Premium-Rush/363517?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-24T13:25:05.805764Z"
+    },
+    {
       "id": "rondo_2018",
       "url": "https://www.rottentomatoes.com/m/rondo_2018",
       "category": "mystery-thriller",
@@ -1357,6 +1482,125 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-22T07:52:59.212742Z"
+    },
+    {
+      "id": "runner_2026",
+      "url": "https://www.rottentomatoes.com/m/runner_2026",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Runner",
+      "original_title": "Runner",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mystery & Thriller"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 97,
+      "certificate": "PG-13",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "A former soldier (Alan Ritchson) is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner (Owen Wilson) the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/eT-63BlNH1ykC3dPUrsNY2hciLo=/300x450/v2/https://resizing.flixster.com/SqeO7biIEgLsJcRFZu3CLJw4JCM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4NjJlZGY0LTE4ODYtNGI1Ni1hOGM1LThkZjM0NmEyNDFkZi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/eT-63BlNH1ykC3dPUrsNY2hciLo=/300x450/v2/https://resizing.flixster.com/SqeO7biIEgLsJcRFZu3CLJw4JCM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4NjJlZGY0LTE4ODYtNGI1Ni1hOGM1LThkZjM0NmEyNDFkZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/xnQaXnfP4bJQPnmHZCjVTdTSKro=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/609/91/thumb_B041D65A-203C-444C-A158-BED640626D5F.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/lHLQQ8dDabfqBkR3v_EShy9m07o=/fit-in/705x460/v2/https://resizing.flixster.com/NXg0kaehQCKpJ4cXVoCdXHynqgQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5YmY5ODk3LTk5YTYtNDVmYi1iMTcwLTVkNGRiNWRhNjFhMS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/8lT84P4yGBZ008eCZoK-qImjgc4=/fit-in/705x460/v2/https://resizing.flixster.com/Gbs7hmb8Li5Ps90MYLaFQ5n3hVs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EwMGM4MWE3LWM3YTYtNDJhOC05Y2MxLWZhZWY2ODJiNGYxNC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ILH6UfNa75QZ1tVWtJ7B15aJvFU=/fit-in/705x460/v2/https://resizing.flixster.com/suVF2uWidPqls25X9xIb0taEmrk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxODYxNzE1LWUyZWYtNDk2Zi1hZjViLTkzZTllZDRiZjJkMC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wDiGo-BlSLs0YmKYK3KynLCKD3A=/fit-in/705x460/v2/https://resizing.flixster.com/7fkdwYeWcrWl006bSWMt-502S74=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcyNGRiZWRhLTZmNjYtNDhjNi05MmZkLThlYWFjNTZjZjAyZi5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/uWB3cvIS-Ou-kVlSzYSR9pUTlOo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32904652_i_h10_aa.jpg",
+          "caption": "Runner (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/LgYfCI3bSq0PiwGy72YRyML_54o=/fit-in/705x460/v2/https://resizing.flixster.com/SqeO7biIEgLsJcRFZu3CLJw4JCM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4NjJlZGY0LTE4ODYtNGI1Ni1hOGM1LThkZjM0NmEyNDFkZi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "9y2R5doF0O_6",
+        "title": "Runner: Final Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/609/91/thumb_B041D65A-203C-444C-A158-BED640626D5F.jpg",
+        "seconds": 142,
+        "src": "https://link.theplatform.com/s/NGweTC/media/9y2R5doF0O_6?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "scott_waugh",
+          "name": "Scott Waugh"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "alan_ritchson",
+          "name": "Alan Ritchson",
+          "character": "",
+          "image": "https://resizing.flixster.com/TCS6ET9kLmP_P7WJP2xr_2WPHNw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/484933_v9_bb.jpg"
+        },
+        {
+          "id": "owen_wilson",
+          "name": "Owen Wilson",
+          "character": "",
+          "image": "https://resizing.flixster.com/oj9RUgGm77tu7l0r0SgBQJBW4TQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74682_v9_bb.jpg"
+        },
+        {
+          "id": "leila_george",
+          "name": "Leila George",
+          "character": "",
+          "image": "https://resizing.flixster.com/qQMYcK34XyG7B4l-CXTlAoKsD_8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/959591_v9_bb.jpg"
+        },
+        {
+          "id": "rodrigo_santoro",
+          "name": "Rodrigo Santoro",
+          "character": "",
+          "image": "https://resizing.flixster.com/4fVZ0EAl-8agJ8N3xacQlI9QgQY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/274162_v9_bc.jpg"
+        },
+        {
+          "id": "peta_sergeant",
+          "name": "Peta Sergeant",
+          "character": "",
+          "image": "https://resizing.flixster.com/EQ9uV74jOKkraa3SFr3mjsGuks4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/667214_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-24T13:24:55.082607Z"
     },
     {
       "id": "runway_34",
