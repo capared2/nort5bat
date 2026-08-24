@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-08-23T02:12:24.626687Z",
-  "total_titles": 19955,
+  "generated_at": "2026-08-24T02:08:18.074255Z",
+  "total_titles": 19959,
   "total_genres": 27,
   "genres": [
     {
@@ -230,7 +230,7 @@
           "count": 43
         }
       ],
-      "tagged": 8774
+      "tagged": 8775
     },
     {
       "genre": "comedy",
@@ -450,7 +450,7 @@
           "count": 12
         }
       ],
-      "tagged": 5299
+      "tagged": 5300
     },
     {
       "genre": "mystery-thriller",
@@ -586,7 +586,7 @@
           "count": 16
         }
       ],
-      "tagged": 3920
+      "tagged": 3922
     },
     {
       "genre": "documentary",
@@ -814,12 +814,12 @@
           "count": 12
         }
       ],
-      "tagged": 2158
+      "tagged": 2159
     },
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 1982,
+      "titles": 1985,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
@@ -955,10 +955,10 @@
         },
         {
           "file": "titulos/horror/part-0034.json",
-          "count": 2
+          "count": 5
         }
       ],
-      "tagged": 1987
+      "tagged": 1990
     },
     {
       "genre": "romance",
@@ -1095,7 +1095,7 @@
     {
       "genre": "crime",
       "name": "Crime",
-      "titles": 1210,
+      "titles": 1211,
       "files": [
         {
           "file": "titulos/crime/part-0001.json",
@@ -1179,10 +1179,10 @@
         },
         {
           "file": "titulos/crime/part-0021.json",
-          "count": 10
+          "count": 11
         }
       ],
-      "tagged": 1262
+      "tagged": 1263
     },
     {
       "genre": "fantasy",
