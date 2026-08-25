@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-08-25T01:58:59.780190Z",
+  "updated_at": "2026-08-25T07:19:01.464878Z",
   "titles": [
     {
       "id": "28_years_later_the_bone_temple",
@@ -2995,7 +2995,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:08:39.327197Z"
+      "scraped_at": "2026-08-25T07:13:09.548686Z"
     },
     {
       "id": "insidious_out_of_the_further",
@@ -3008,18 +3008,18 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 106,
       "certificate": "PG-13",
       "rating": 5.6,
-      "votes": 3,
+      "votes": 1048,
       "tomatometer": 58,
-      "tomatometer_count": 59,
+      "tomatometer_count": 99,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 1,
+      "audience_score": 71,
+      "audience_count": 204,
       "metascore": null,
       "plot": "In Insidious: Out of the Further, Amelia Eve stars as Gemma, a young mother raising her daughter in the house she grew up in who discovers she can travel into The Further, the purgatorial realm of lost souls at the heart of the Insidious universe. When something evil comes after her, Gemma discovers an ability that changes everything: she doesn't just enter The Further, she can bring what lives there back to the real world. Once the demons realize her power, our world becomes their playground.",
       "tagline": "",
@@ -3106,10 +3106,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Insidious-Out-of-the-Further/5113829?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:06:03.809626Z"
+      "scraped_at": "2026-08-25T07:16:37.564132Z"
     },
     {
       "id": "it_ends",
@@ -3123,18 +3128,18 @@
         "Mystery & Thriller",
         "Comedy"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 7.3,
-      "votes": 1,
+      "votes": 76,
       "tomatometer": 94,
-      "tomatometer_count": 53,
+      "tomatometer_count": 77,
       "tomatometer_certified": true,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 46,
+      "audience_count": 36,
       "metascore": null,
       "plot": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
       "tagline": "",
@@ -3207,10 +3212,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/It-Ends/5090641?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:05:30.983076Z"
+      "scraped_at": "2026-08-25T07:18:43.848648Z"
     },
     {
       "id": "leviticus",
