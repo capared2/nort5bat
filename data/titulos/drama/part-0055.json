@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 55,
   "count": 46,
-  "updated_at": "2026-08-24T19:07:08.646368Z",
+  "updated_at": "2026-08-25T01:56:59.448491Z",
   "titles": [
     {
       "id": "10012426-lottery",
@@ -2858,10 +2858,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/heroine/umc.cmc.4b4h3pl9vo9uxid8i03tsbihs?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T07:47:58.636911Z"
+      "scraped_at": "2026-08-25T01:55:17.727852Z"
     },
     {
       "id": "ilo_ilo",
