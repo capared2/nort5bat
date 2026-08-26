@@ -274,3 +274,69 @@ def test_los_generos_retirados_se_borran_solos(tmp_path):
     assert [g["genre"] for g in indice["genres"]] == ["horror"]
     # Lo que si es un genero de verdad no se toca.
     assert (tmp_path / "titulos" / "horror").is_dir()
+
+
+def test_una_pelicula_que_cambia_de_genero_no_se_queda_duplicada(tmp_path):
+    """El genero principal cambia entre pasadas y la copia vieja se quedaba.
+
+    ``_append`` solo mira la carpeta del genero que le toca, asi que la ficha
+    acababa en dos sitios: la direccion publica servia la copia caducada, el
+    recuento salia inflado y la URL se repetia en el sitemap.
+    """
+    almacen = TitleStore(tmp_path, shard_size=10)
+
+    # Primera pasada: la pagina no traia generos y cayo en "other".
+    vieja = ficha("light_from_light", "other", ())
+    vieja["scraped_at"] = "2026-08-22T02:19:12Z"
+    vieja["rating"] = 6.0
+    almacen.add(vieja)
+    almacen.flush()
+    almacen.rebuild_index()
+
+    # Segunda pasada: ya viene como drama, con la nota al dia.
+    nueva = ficha("light_from_light", "drama", ("Drama",))
+    nueva["scraped_at"] = "2026-08-26T02:02:12Z"
+    nueva["rating"] = 7.4
+    almacen.add(nueva)
+    almacen.flush()
+    indice = almacen.rebuild_index()
+
+    assert indice["total_titles"] == 1
+    assert not (tmp_path / "titulos" / "other").exists()
+
+    guardadas = json.loads((tmp_path / "titulos" / "drama" / "part-0001.json").read_text())
+    assert [t["id"] for t in guardadas["titles"]] == ["light_from_light"]
+    assert guardadas["titles"][0]["rating"] == 7.4
+
+    # Y la direccion publica lleva a la copia que se conserva, no a la vieja.
+    cubo = json.loads((tmp_path / "rutas" / "ht.json").read_text())
+    assert cubo["titles"] == {"light_from_light": ["drama", 1]}
+
+    # Una sola entrada en el sitemap: antes salia dos veces.
+    assert [e["id"] for e in almacen.sitemap_entries] == ["light_from_light"]
+
+
+def test_la_purga_conserva_la_copia_mas_reciente_y_respeta_el_resto(tmp_path):
+    """Repara tambien los duplicados que ya estuvieran en el archivo."""
+    almacen = TitleStore(tmp_path, shard_size=10)
+    almacen.add(ficha("network", "drama", ("Drama",)))
+    almacen.add(ficha("alien", "horror", ("Horror",)))
+    almacen.flush()
+
+    # Un duplicado colado a mano, como los que dejaba la version anterior.
+    fantasma = ficha("alien", "sci-fi", ("Sci-Fi",))
+    fantasma["scraped_at"] = "2026-01-01T00:00:00Z"
+    fantasma["rating"] = 1.0
+    destino = tmp_path / "titulos" / "sci-fi"
+    destino.mkdir(parents=True)
+    (destino / "part-0001.json").write_text(
+        json.dumps({"genre": "sci-fi", "part": 1, "count": 1, "titles": [fantasma]}),
+        encoding="utf-8",
+    )
+
+    indice = almacen.rebuild_index()
+
+    assert indice["total_titles"] == 2
+    assert not (destino / "part-0001.json").exists()
+    supervivientes = json.loads((tmp_path / "titulos" / "horror" / "part-0001.json").read_text())
+    assert supervivientes["titles"][0]["rating"] == 7.0

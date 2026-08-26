@@ -5,7 +5,6 @@ import json
 import logging
 import os
 import re
-import re
 import shutil
 import threading
 import unicodedata
@@ -243,6 +242,7 @@ class TitleStore:
         # Primero se limpia y despues se indexa lo que queda: al reves, un
         # genero retirado seguiria colandose en el indice de esta pasada.
         self._limpiar_restos()
+        self._purgar_duplicados()
 
         generos: list[dict] = []
         lookups: dict[str, dict[str, int]] = {}
@@ -325,6 +325,81 @@ class TitleStore:
         }
         _write_json(self.data_dir / "index.json", indice, volatiles=("generated_at",))
         return indice
+
+    def _purgar_duplicados(self) -> int:
+        """Deja una sola copia de cada ficha, la mas reciente.
+
+        Una ficha vive en la carpeta de su genero principal, y ese genero puede
+        cambiar entre ejecuciones: basta con que la pagina añada o quite un
+        genero, o con que la anterior viniera sin ninguno y cayera en "other".
+        ``_append`` solo mira la carpeta del genero que le toca, asi que la
+        copia vieja se quedaba donde estaba y el archivo acababa con la misma
+        pelicula dos veces.
+
+        No era un adorno: ``_escribir_rutas`` resuelve el id contra el ultimo
+        genero que lo declara, de modo que la direccion publica podia acabar
+        sirviendo justo la copia caducada, con los datos de hace dias. Ademas
+        inflaba ``total_titles``, repetia la URL en el sitemap y colaba la
+        pelicula en un genero al que ya no pertenece.
+
+        Se hace aqui, antes de indexar, para que rutas, portada, listas de
+        genero, busqueda y sitemaps se construyan ya sobre el archivo limpio, y
+        para que una ejecucion repare de paso los duplicados que quedaran de
+        antes.
+        """
+        raiz = self.data_dir / TITLES_DIR
+        if not raiz.is_dir():
+            return 0
+
+        # identificador -> [(fecha de scrapeo, fichero, posicion en el fichero)]
+        copias: dict[str, list[tuple[str, Path, int]]] = {}
+        contenidos: dict[Path, dict] = {}
+        for parte in sorted(raiz.rglob("part-*.json")):
+            payload = _read_json(parte, None)
+            if not isinstance(payload, dict):
+                continue
+            contenidos[parte] = payload
+            for posicion, ficha in enumerate(payload.get("titles", [])):
+                if ficha.get("id"):
+                    copias.setdefault(ficha["id"], []).append(
+                        (ficha.get("scraped_at") or "", parte, posicion)
+                    )
+
+        # La copia buena es la ultima que se guardo. El fichero desempata para
+        # que dos ejecuciones sobre el mismo archivo decidan igual.
+        sobran: dict[Path, set[int]] = {}
+        for identificador, entradas in copias.items():
+            if len(entradas) < 2:
+                continue
+            entradas.sort(key=lambda entrada: (entrada[0], entrada[1].as_posix()), reverse=True)
+            log.info(
+                "ficha duplicada %s: se conserva %s y se retiran %s",
+                identificador,
+                entradas[0][1].relative_to(self.data_dir).as_posix(),
+                ", ".join(e[1].relative_to(self.data_dir).as_posix() for e in entradas[1:]),
+            )
+            for _, parte, posicion in entradas[1:]:
+                sobran.setdefault(parte, set()).add(posicion)
+
+        for parte, descartadas in sobran.items():
+            fichas = contenidos[parte].get("titles", [])
+            quedan = [f for i, f in enumerate(fichas) if i not in descartadas]
+            if quedan:
+                self._save_part(
+                    parte,
+                    contenidos[parte].get("genre") or parte.parent.name,
+                    int(parte.stem.split("-")[-1]),
+                    quedan,
+                )
+            else:
+                # Un trozo vacio solo seria ruido en el indice y en git.
+                parte.unlink()
+                # Y si era el ultimo del genero, la carpeta se va con el: si no,
+                # quedaria con su lookup.json de la pasada anterior y nada mas.
+                if not any(parte.parent.glob("part-*.json")):
+                    shutil.rmtree(parte.parent, ignore_errors=True)
+
+        return sum(len(descartadas) for descartadas in sobran.values())
 
     def _limpiar_restos(self) -> None:
         """Borra las carpetas de generos que ya no existen.
