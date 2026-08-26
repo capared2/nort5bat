@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-08-26T13:22:45.873412Z",
+  "updated_at": "2026-08-26T20:14:06.038975Z",
   "titles": [
     {
       "id": "30_years_to_life",
@@ -3091,7 +3091,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:09:18.213101Z"
+      "scraped_at": "2026-08-26T20:10:32.715810Z"
     },
     {
       "id": "neal_brennan_blocks",
@@ -3191,7 +3191,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:05:40.009896Z"
+      "scraped_at": "2026-08-26T20:11:05.655716Z"
     },
     {
       "id": "nimrods",
@@ -3210,13 +3210,13 @@
       "release_date": null,
       "runtime_minutes": 103,
       "certificate": "R",
-      "rating": 6.2,
-      "votes": 88,
-      "tomatometer": 73,
-      "tomatometer_count": 63,
+      "rating": 6.1,
+      "votes": 110,
+      "tomatometer": 71,
+      "tomatometer_count": 66,
       "tomatometer_certified": false,
-      "audience_score": 88,
-      "audience_count": 16,
+      "audience_score": 86,
+      "audience_count": 21,
       "metascore": null,
       "plot": "When Tommy receives a phone call inviting his band to open for Green Day on New Years Eve, he doesn't realize it's an elaborate prank by his older brother, Wayne. Desperate to believe his life is about to change, Tommy steals Wayne's car and begins driving his band from Kansas City to Los Angeles, hell bent on getting there in three days. What follows is a rowdy and uproarious road trip across America, inspired by Green Day's early days of touring in a van, years before the release of their breakout record Dookie.",
       "tagline": "",
@@ -3315,10 +3315,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Nimrods/5101113?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:06:08.083468Z"
+      "scraped_at": "2026-08-26T20:13:43.777716Z"
     },
     {
       "id": "nirvanna_the_band_the_show_the_movie",
@@ -3336,9 +3341,9 @@
       "runtime_minutes": 99,
       "certificate": "R",
       "rating": 8.4,
-      "votes": 320,
+      "votes": 321,
       "tomatometer": 95,
-      "tomatometer_count": 123,
+      "tomatometer_count": 126,
       "tomatometer_certified": true,
       "audience_score": 95,
       "audience_count": 49,
@@ -3456,7 +3461,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:10:08.300364Z"
+      "scraped_at": "2026-08-26T20:13:56.089818Z"
     },
     {
       "id": "off_track_2022",

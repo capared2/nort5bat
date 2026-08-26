@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-08-26T13:24:48.830391Z",
+  "updated_at": "2026-08-26T20:08:02.593612Z",
   "titles": [
     {
       "id": "1008085-game_of_death",
@@ -4366,10 +4366,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0F9TDSTBN/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T07:47:23.575461Z"
+      "scraped_at": "2026-08-26T20:06:41.286015Z"
     },
     {
       "id": "operation_condor",

@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-08-26T13:24:47.414828Z",
+  "updated_at": "2026-08-26T20:08:01.712023Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -3663,18 +3663,18 @@
         "Action",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 95,
       "certificate": "R",
-      "rating": 5.3,
-      "votes": null,
-      "tomatometer": 49,
-      "tomatometer_count": 47,
+      "rating": 5.4,
+      "votes": 675,
+      "tomatometer": 50,
+      "tomatometer_count": 103,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 86,
+      "audience_count": 217,
       "metascore": null,
       "plot": "In MUTINY, after witnessing his billionaire boss's murder and being framed for the crime, Cole Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge his boss's death only to discover an international conspiracy.",
       "tagline": "",
@@ -3749,16 +3749,16 @@
           "image": "https://resizing.flixster.com/Nog0MQYt5miB8iiUo-fvQbxs0d8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/545092_v9_bc.jpg"
         },
         {
+          "id": "jason_wong",
+          "name": "Jason Wong",
+          "character": "",
+          "image": "https://resizing.flixster.com/wSivRXxzZLOKfi2Q7nCFxAfFYt8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002HWNHZ.jpg"
+        },
+        {
           "id": "roland_moller",
           "name": "Roland Møller",
           "character": "",
           "image": "https://resizing.flixster.com/LQItRMTr5nrbFqWPxi3RW3OE28o=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/571613_v9_bc.jpg"
-        },
-        {
-          "id": "adrian_lester",
-          "name": "Adrian Lester",
-          "character": "",
-          "image": "https://resizing.flixster.com/dMtsQGsltbELqINbaq1UGT5fRHc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/82346_v9_bb.jpg"
         },
         {
           "id": "arnas_fedaravicius",
@@ -3773,10 +3773,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Mutiny/5054129?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:06:07.060371Z"
+      "scraped_at": "2026-08-26T20:07:27.726353Z"
     },
     {
       "id": "nobody_2",

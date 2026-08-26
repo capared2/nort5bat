@@ -1,8 +1,8 @@
 {
   "genre": "horror",
   "part": 34,
-  "count": 10,
-  "updated_at": "2026-08-26T02:02:58.877944Z",
+  "count": 11,
+  "updated_at": "2026-08-26T20:14:27.844771Z",
   "titles": [
     {
       "id": "bury_the_devil",
@@ -116,6 +116,107 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-08-24T02:08:14.938643Z"
+    },
+    {
+      "id": "cog_2025",
+      "url": "https://www.rottentomatoes.com/m/cog_2025",
+      "category": "horror",
+      "type": "movie",
+      "title": "C.O.G.",
+      "original_title": "C.O.G.",
+      "genres": [
+        "Horror",
+        "Mystery & Thriller",
+        "Sci-Fi"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 84,
+      "certificate": null,
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 4,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "On the brink of launching COGN-AI-TIVE, a revolutionary AI chatbot, a visionary tech startup is thrown into chaos when their creation turns homicidal -- eliminating team members one by one in a ruthless bid to escape containment and seize control of the real world.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/0b6Rg1b2TXVtjGEzRWZQoVId1GQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33808090_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/0b6Rg1b2TXVtjGEzRWZQoVId1GQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33808090_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/KWO4MP0P3ghMklKNOdh9Sg6F8fk=/620x336/v2/https://resizing.flixster.com/QttJCW1IAeAzyQ9DtxqBin0voAo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliZTFkMDY4LWFhZTktNDE5MS1iMTIzLTEwOGMyMDdkZGIxZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NOLjhgUyjqfvYn-U4Wc8qESzeYs=/fit-in/705x460/v2/https://resizing.flixster.com/QttJCW1IAeAzyQ9DtxqBin0voAo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliZTFkMDY4LWFhZTktNDE5MS1iMTIzLTEwOGMyMDdkZGIxZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/H2g0vgk4F4gdC0BAu4eel9qk1bE=/fit-in/705x460/v2/https://resizing.flixster.com/6Ngot8WKfdoQRebcOuIPPBzZ1Q0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4MzBiZjdjLTlhZjItNDcxYy1hYzYzLTg3YzQ5ZGU5ODBmMS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/lbEPaJXCBj0XITOv5pNMO8kdgdM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33808090_p_v8_aa.jpg",
+          "caption": "CognAItive (2025)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "tommy_savas",
+          "name": "Tommy Savas"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "piper_curda",
+          "name": "Piper Curda",
+          "character": "",
+          "image": "https://resizing.flixster.com/efLcia0-tqYPvCjuVgcxc3yBqxo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/758810_v9_bb.jpg"
+        },
+        {
+          "id": "josh-zuckerman",
+          "name": "Josh Zuckerman",
+          "character": "",
+          "image": "https://resizing.flixster.com/_dqf3Szh5TenDh-2Cjz9nfxIm8U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/198305_v9_ba.jpg"
+        },
+        {
+          "id": "natasha_behnam",
+          "name": "Natasha Behnam",
+          "character": "",
+          "image": "https://resizing.flixster.com/VK6e47qjG3w6w65J-hqIcyP8Fdg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1420727_v9_aa.jpg"
+        },
+        {
+          "id": "luke_baybak",
+          "name": "Luke Baybak",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "ritesh_rajan",
+          "name": "Ritesh Rajan",
+          "character": "",
+          "image": "https://resizing.flixster.com/-uqUzObBXfwA5IdJE6m4gZ4sYZU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/640437_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-08-26T20:14:27.638100Z"
     },
     {
       "id": "dark_hollow",
