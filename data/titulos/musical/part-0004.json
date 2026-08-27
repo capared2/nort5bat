@@ -2,7 +2,7 @@
   "genre": "musical",
   "part": 4,
   "count": 43,
-  "updated_at": "2026-08-27T10:00:03.098970Z",
+  "updated_at": "2026-08-27T22:26:16.273199Z",
   "titles": [
     {
       "id": "1077332-pippi_longstocking",
@@ -2855,11 +2855,21 @@
           "caption": ""
         },
         {
+          "url": "https://resizing.flixster.com/EhG-RJBs9gQwiG8k-hD14HlqJCM=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/501/303/thumb_E6AA56B7-08AD-4293-83F3-22A2D674F3A6.jpg",
+          "caption": ""
+        },
+        {
           "url": "https://resizing.flixster.com/2Urfnb_Ah4tbOQ3uvOc6apiL9Q8=/fit-in/705x460/v2/https://resizing.flixster.com/5a1tLEPhGnmdsQJVFJIp57oEdIo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM3YzYzZmM5LWI4MDMtNDJmMS05Yzk4LTVjY2ZiODFmYzFhMC5wbmc=",
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "ac5fSodvatda",
+        "title": "P31: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/501/303/thumb_E6AA56B7-08AD-4293-83F3-22A2D674F3A6.jpg",
+        "seconds": 131,
+        "src": "https://link.theplatform.com/s/NGweTC/media/ac5fSodvatda?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "carl_jackson",
@@ -2884,7 +2894,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T13:24:48.316929Z"
+      "scraped_at": "2026-08-27T22:18:29.669768Z"
     },
     {
       "id": "pink_floyd_the_wall",
@@ -2992,7 +3002,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T02:47:10.951833Z"
+      "scraped_at": "2026-08-27T22:24:36.613153Z"
     },
     {
       "id": "quadrophenia",
