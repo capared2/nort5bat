@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-08-28T11:32:12.536088Z",
+  "updated_at": "2026-08-28T22:31:56.434977Z",
   "titles": [
     {
       "id": "12_rounds",
@@ -4713,7 +4713,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:15:44.537834Z"
+      "scraped_at": "2026-08-28T22:26:43.753264Z"
     },
     {
       "id": "run_2020",
@@ -4731,12 +4731,12 @@
       "runtime_minutes": 90,
       "certificate": "PG-13",
       "rating": 7.1,
-      "votes": 1854,
+      "votes": 1857,
       "tomatometer": 88,
       "tomatometer_count": 138,
       "tomatometer_certified": true,
       "audience_score": 73,
-      "audience_count": 361,
+      "audience_count": 362,
       "metascore": null,
       "plot": "An isolated teen discovers her mother's sinister secret.",
       "tagline": "",
@@ -4837,13 +4837,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Hulu",
           "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:16:29.966043Z"
+      "scraped_at": "2026-08-28T22:30:41.640296Z"
     },
     {
       "id": "sentinel",
