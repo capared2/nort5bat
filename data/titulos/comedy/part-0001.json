@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-08-29T07:16:13.251194Z",
+  "updated_at": "2026-08-29T16:53:30.611316Z",
   "titles": [
     {
       "id": "30_years_to_life",
@@ -4653,7 +4653,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:10:10.774394Z"
+      "scraped_at": "2026-08-29T16:49:30.816247Z"
     },
     {
       "id": "spa_weekend",
@@ -4665,18 +4665,18 @@
       "genres": [
         "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 97,
       "certificate": "R",
-      "rating": null,
-      "votes": 4,
-      "tomatometer": null,
-      "tomatometer_count": 5,
+      "rating": 4.3,
+      "votes": 337,
+      "tomatometer": 35,
+      "tomatometer_count": 40,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 2,
+      "audience_score": 74,
+      "audience_count": 121,
       "metascore": null,
       "plot": "Spa Weekend follows three best friends, Jane, Coco and Sophie, as they embark on some much-needed pampering during a luxury spa break in Palm Springs. But when their trainwreck friend, Mel, turns up, the relaxation quickly descends into chaos with hilarious consequences.",
       "tagline": "",
@@ -4711,15 +4711,15 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/iW1rh_NJH2YtRy6dr1aaXfWOhSc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p32950974_v_v8_ac.jpg",
-          "caption": ""
-        },
-        {
           "url": "https://resizing.flixster.com/g1-fCn_M4c1RKs8x2Rlh0P2Vwjs=/fit-in/705x460/v2/https://resizing.flixster.com/SszomoxkfKqXMvkEoAPKNznt2ME=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FiOTBhNTUyLTg5YzItNDVhNi05ZTE3LThjOGZkZTQ3YzBkZS5qcGc=",
           "caption": ""
         },
         {
           "url": "https://resizing.flixster.com/zHnMSMxJR36L1GuML-h4_rGA-fI=/fit-in/705x460/v2/https://resizing.flixster.com/ogBA-RLQVW1pq9fwNFZV7ENuK3M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NlOTlmNDcwLTFiMDItNDgwOS1iYjA3LWI3MjhkNzBlYTE1ZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/9UV2I7JTqX8DCOZtrTHF2eF0kIE=/fit-in/705x460/v2/https://resizing.flixster.com/GY8Z6eTtfx_E2yIkyrmSI1tspCg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0ZTkwNjFkLThmYjItNGYxZi1hZGE5LWQzNGM0Njk1Y2JlZi5qcGc=",
           "caption": ""
         }
       ],
@@ -4769,10 +4769,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Spa-Weekend/5134956?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:06:10.393125Z"
+      "scraped_at": "2026-08-29T16:52:56.068234Z"
     },
     {
       "id": "steve_trevino_simple_man",
