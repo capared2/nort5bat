@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-08-29T21:05:45.162103Z",
+  "updated_at": "2026-08-30T05:34:18.430184Z",
   "titles": [
     {
       "id": "1200731-robocop",
@@ -6169,12 +6169,12 @@
       "runtime_minutes": 107,
       "certificate": "R",
       "rating": 8.0,
-      "votes": 57976,
+      "votes": 57985,
       "tomatometer": 90,
       "tomatometer_count": 133,
       "tomatometer_certified": true,
       "audience_score": 89,
-      "audience_count": 19879,
+      "audience_count": 19882,
       "metascore": null,
       "plot": "Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent to protect Sarah is Kyle Reese (Michael Biehn), who divulges the coming of Skynet, an artificial intelligence system that will spark a nuclear holocaust. Sarah is targeted because Skynet knows that her unborn son will lead the fight against them. With the virtually unstoppable Terminator in hot pursuit, she and Kyle attempt to escape.",
       "tagline": "",
@@ -6279,7 +6279,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:11:10.538359Z"
+      "scraped_at": "2026-08-30T05:32:45.560483Z"
     },
     {
       "id": "terminator_2_judgment_day",
@@ -6293,18 +6293,18 @@
         "Action",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 1991,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 137,
       "certificate": "R",
       "rating": 8.3,
-      "votes": 67715,
+      "votes": 67821,
       "tomatometer": 90,
       "tomatometer_count": 175,
       "tomatometer_certified": true,
       "audience_score": 95,
-      "audience_count": 25649,
+      "audience_count": 25674,
       "metascore": null,
       "plot": "In this sequel set eleven years after \"The Terminator,\" young John Connor (Edward Furlong), the key to civilization's victory over a future robot uprising, is the target of the shape-shifting T-1000 (Robert Patrick), a Terminator sent from the future to kill him. Another Terminator, the revamped T-800 (Arnold Schwarzenegger), has been sent back to protect the boy. As John and his mother (Linda Hamilton) go on the run with the T-800, the boy forms an unexpected bond with the robot.",
       "tagline": "",
@@ -6403,10 +6403,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Terminator-2-Judgment-Day-Theatrical/7363?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:06:33.460281Z"
+      "scraped_at": "2026-08-30T05:32:46.722105Z"
     },
     {
       "id": "terminator_genisys",
@@ -6425,12 +6434,12 @@
       "runtime_minutes": 126,
       "certificate": "PG-13",
       "rating": 4.7,
-      "votes": 32258,
+      "votes": 32259,
       "tomatometer": 26,
-      "tomatometer_count": 275,
+      "tomatometer_count": 277,
       "tomatometer_certified": false,
       "audience_score": 52,
-      "audience_count": 4981,
+      "audience_count": 4982,
       "metascore": null,
       "plot": "When John Connor (Jason Clarke), leader of the human resistance against Skynet, sends Kyle Reese (Jai Courtney) back to 1984 to protect his mother, Sarah (Emilia Clarke), from a Terminator assassin, an unexpected turn of events creates an altered timeline. Instead of a scared waitress, Sarah is a skilled fighter and has a Terminator guardian (Arnold Schwarzenegger) by her side. Faced with unlikely allies and dangerous new enemies, Reese sets out on an unexpected new mission: reset the future.",
       "tagline": "",
@@ -6541,7 +6550,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:13:03.321330Z"
+      "scraped_at": "2026-08-30T05:32:50.336543Z"
     },
     {
       "id": "the_circle_2017",

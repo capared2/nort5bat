@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-08-29T21:05:44.230558Z",
+  "updated_at": "2026-08-30T05:36:18.743567Z",
   "titles": [
     {
       "id": "1193303-1193303-trumbo",
@@ -4271,13 +4271,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Hulu",
           "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T07:48:05.044451Z"
+      "scraped_at": "2026-08-30T05:35:36.772587Z"
     },
     {
       "id": "the_anthropologist",
@@ -4373,7 +4377,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T07:40:00.395466Z"
+      "scraped_at": "2026-08-30T05:35:53.977111Z"
     },
     {
       "id": "the_bad_patriots",

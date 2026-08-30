@@ -1,7 +1,7 @@
 {
   "genre": "comedy",
   "name": "Comedy",
-  "count": 5308,
+  "count": 5310,
   "titles": [
     {
       "id": "finding_nemo",
@@ -693,7 +693,7 @@
         "Fantasy"
       ],
       "rating": 6.4,
-      "votes": 120746,
+      "votes": 120750,
       "tomatometer": 68,
       "audience_score": 73,
       "runtime_minutes": 106,
@@ -1098,7 +1098,7 @@
         "Comedy"
       ],
       "rating": 7.5,
-      "votes": 103166,
+      "votes": 103168,
       "tomatometer": 85,
       "audience_score": 84,
       "runtime_minutes": 116,
@@ -2205,7 +2205,7 @@
         "Action"
       ],
       "rating": 6.6,
-      "votes": 76798,
+      "votes": 76800,
       "tomatometer": 71,
       "audience_score": 73,
       "runtime_minutes": 110,
@@ -3013,6 +3013,34 @@
       ]
     },
     {
+      "id": "tangled",
+      "category": "musical",
+      "type": "movie",
+      "title": "Tangled",
+      "original_title": "Tangled",
+      "year": 2010,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 7.5,
+      "votes": 61444,
+      "tomatometer": 89,
+      "audience_score": 87,
+      "runtime_minutes": 101,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/UPNPrHCWrAyua7xHCnFqeIV2KYg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8033989_p_v11_ae.jpg",
+      "plot": "When the kingdom's most-wanted bandit, Flynn Rider (Zachary Levi), hides in a convenient tower, he immediately becomes a captive of Rapunzel (Mandy Moore), the spire's longtime resident. Crowned with…",
+      "directors": [
+        "Nathan Greno",
+        "Byron Howard"
+      ]
+    },
+    {
       "id": "hop_2011",
       "category": "comedy",
       "type": "movie",
@@ -3034,34 +3062,6 @@
       "plot": "Beneath Easter Island, in a giant factory that manufactures the world's Easter candy, the popular rabbit is preparing to pass the mantle to his son, E.B. (Russell Brand). But E.B. has no interest in…",
       "directors": [
         "Tim Hill"
-      ]
-    },
-    {
-      "id": "tangled",
-      "category": "musical",
-      "type": "movie",
-      "title": "Tangled",
-      "original_title": "Tangled",
-      "year": 2010,
-      "genres": [
-        "Kids & Family",
-        "Musical",
-        "Comedy",
-        "Fantasy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 7.5,
-      "votes": 61435,
-      "tomatometer": 89,
-      "audience_score": 87,
-      "runtime_minutes": 101,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/UPNPrHCWrAyua7xHCnFqeIV2KYg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8033989_p_v11_ae.jpg",
-      "plot": "When the kingdom's most-wanted bandit, Flynn Rider (Zachary Levi), hides in a convenient tower, he immediately becomes a captive of Rapunzel (Mandy Moore), the spire's longtime resident. Crowned with…",
-      "directors": [
-        "Nathan Greno",
-        "Byron Howard"
       ]
     },
     {
@@ -4115,7 +4115,7 @@
         "Animation"
       ],
       "rating": 6.6,
-      "votes": 49923,
+      "votes": 49925,
       "tomatometer": 71,
       "audience_score": 77,
       "runtime_minutes": 98,
