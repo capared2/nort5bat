@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-08-31T14:06:38.870034Z",
-  "total_titles": 20125,
+  "generated_at": "2026-08-31T23:02:09.935104Z",
+  "total_titles": 20129,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3289,
+      "titles": 3290,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -227,10 +227,10 @@
         },
         {
           "file": "titulos/drama/part-0055.json",
-          "count": 49
+          "count": 50
         }
       ],
-      "tagged": 8876
+      "tagged": 8877
     },
     {
       "genre": "comedy",
@@ -591,7 +591,7 @@
     {
       "genre": "documentary",
       "name": "Documentary",
-      "titles": 2601,
+      "titles": 2602,
       "files": [
         {
           "file": "titulos/documentary/part-0001.json",
@@ -767,10 +767,10 @@
         },
         {
           "file": "titulos/documentary/part-0044.json",
-          "count": 21
+          "count": 22
         }
       ],
-      "tagged": 3525
+      "tagged": 3528
     },
     {
       "genre": "action",
@@ -1359,7 +1359,7 @@
     {
       "genre": "history",
       "name": "History",
-      "titles": 320,
+      "titles": 321,
       "files": [
         {
           "file": "titulos/history/part-0001.json",
@@ -1383,10 +1383,10 @@
         },
         {
           "file": "titulos/history/part-0006.json",
-          "count": 20
+          "count": 21
         }
       ],
-      "tagged": 561
+      "tagged": 562
     },
     {
       "genre": "lgbtq",
@@ -1415,7 +1415,7 @@
     {
       "genre": "music",
       "name": "Music",
-      "titles": 320,
+      "titles": 321,
       "files": [
         {
           "file": "titulos/music/part-0001.json",
@@ -1439,10 +1439,10 @@
         },
         {
           "file": "titulos/music/part-0006.json",
-          "count": 20
+          "count": 21
         }
       ],
-      "tagged": 496
+      "tagged": 497
     },
     {
       "genre": "animation",
