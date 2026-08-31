@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-08-31T05:50:01.903219Z",
-  "total_titles": 20072,
+  "generated_at": "2026-08-31T14:06:38.870034Z",
+  "total_titles": 20125,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3288,
+      "titles": 3289,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -227,15 +227,15 @@
         },
         {
           "file": "titulos/drama/part-0055.json",
-          "count": 48
+          "count": 49
         }
       ],
-      "tagged": 8870
+      "tagged": 8876
     },
     {
       "genre": "comedy",
       "name": "Comedy",
-      "titles": 3134,
+      "titles": 3138,
       "files": [
         {
           "file": "titulos/comedy/part-0001.json",
@@ -447,15 +447,15 @@
         },
         {
           "file": "titulos/comedy/part-0053.json",
-          "count": 14
+          "count": 18
         }
       ],
-      "tagged": 5311
+      "tagged": 5319
     },
     {
       "genre": "mystery-thriller",
       "name": "Mystery & Thriller",
-      "titles": 1880,
+      "titles": 1884,
       "files": [
         {
           "file": "titulos/mystery-thriller/part-0001.json",
@@ -583,15 +583,15 @@
         },
         {
           "file": "titulos/mystery-thriller/part-0032.json",
-          "count": 20
+          "count": 24
         }
       ],
-      "tagged": 3939
+      "tagged": 3952
     },
     {
       "genre": "documentary",
       "name": "Documentary",
-      "titles": 2599,
+      "titles": 2601,
       "files": [
         {
           "file": "titulos/documentary/part-0001.json",
@@ -767,10 +767,10 @@
         },
         {
           "file": "titulos/documentary/part-0044.json",
-          "count": 19
+          "count": 21
         }
       ],
-      "tagged": 3519
+      "tagged": 3525
     },
     {
       "genre": "action",
@@ -814,12 +814,12 @@
           "count": 12
         }
       ],
-      "tagged": 2170
+      "tagged": 2202
     },
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 1992,
+      "titles": 2024,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
@@ -955,15 +955,15 @@
         },
         {
           "file": "titulos/horror/part-0034.json",
-          "count": 12
+          "count": 44
         }
       ],
-      "tagged": 1997
+      "tagged": 2029
     },
     {
       "genre": "romance",
       "name": "Romance",
-      "titles": 1557,
+      "titles": 1558,
       "files": [
         {
           "file": "titulos/romance/part-0001.json",
@@ -1067,10 +1067,10 @@
         },
         {
           "file": "titulos/romance/part-0026.json",
-          "count": 57
+          "count": 58
         }
       ],
-      "tagged": 1816
+      "tagged": 1817
     },
     {
       "genre": "adventure",
@@ -1090,7 +1090,7 @@
           "count": 22
         }
       ],
-      "tagged": 1416
+      "tagged": 1424
     },
     {
       "genre": "crime",
@@ -1238,12 +1238,12 @@
           "count": 26
         }
       ],
-      "tagged": 965
+      "tagged": 967
     },
     {
       "genre": "sci-fi",
       "name": "Sci-Fi",
-      "titles": 804,
+      "titles": 811,
       "files": [
         {
           "file": "titulos/sci-fi/part-0001.json",
@@ -1299,10 +1299,10 @@
         },
         {
           "file": "titulos/sci-fi/part-0014.json",
-          "count": 24
+          "count": 31
         }
       ],
-      "tagged": 957
+      "tagged": 964
     },
     {
       "genre": "kids-family",
@@ -1314,7 +1314,7 @@
           "count": 41
         }
       ],
-      "tagged": 878
+      "tagged": 880
     },
     {
       "genre": "biography",
@@ -1415,7 +1415,7 @@
     {
       "genre": "music",
       "name": "Music",
-      "titles": 319,
+      "titles": 320,
       "files": [
         {
           "file": "titulos/music/part-0001.json",
@@ -1439,10 +1439,10 @@
         },
         {
           "file": "titulos/music/part-0006.json",
-          "count": 19
+          "count": 20
         }
       ],
-      "tagged": 494
+      "tagged": 496
     },
     {
       "genre": "animation",
@@ -1466,7 +1466,7 @@
           "count": 53
         }
       ],
-      "tagged": 437
+      "tagged": 444
     },
     {
       "genre": "war",
@@ -1546,14 +1546,14 @@
     {
       "genre": "sports",
       "name": "Sports",
-      "titles": 34,
+      "titles": 35,
       "files": [
         {
           "file": "titulos/sports/part-0001.json",
-          "count": 34
+          "count": 35
         }
       ],
-      "tagged": 63
+      "tagged": 64
     },
     {
       "genre": "stand-up",
@@ -1572,7 +1572,7 @@
           "count": 15
         }
       ],
-      "tagged": 23
+      "tagged": 25
     },
     {
       "genre": "nature",

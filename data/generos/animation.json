@@ -1,7 +1,7 @@
 {
   "genre": "animation",
   "name": "Animation",
-  "count": 437,
+  "count": 444,
   "titles": [
     {
       "id": "finding_nemo",
@@ -3148,6 +3148,31 @@
       ]
     },
     {
+      "id": "transformers_the_the_movie",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Transformers: The Movie",
+      "original_title": "The Transformers: The Movie",
+      "year": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Animation"
+      ],
+      "rating": 5.7,
+      "votes": 14501,
+      "tomatometer": 62,
+      "audience_score": 88,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/WU_PashljSrr14yWtLxh2oxNL34=/300x450/v2/https://resizing.flixster.com/JVzrvZb6YoORXqu-bTUux-zLz-I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg2NzVkZmNjLWZmMmMtNDI0ZS1iNDYyLTU3ZjYzNzg4Yzg1Yi5qcGc=",
+      "plot": "Ultra Magnus and the Transformers fight planet Unicron and the Decepticons in 2005.",
+      "directors": [
+        "Nelson Shin"
+      ]
+    },
+    {
       "id": "planet_51",
       "category": "sci-fi",
       "type": "movie",
@@ -4243,6 +4268,32 @@
       ]
     },
     {
+      "id": "titan_ae",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Titan A.E.",
+      "original_title": "Titan A.E.",
+      "year": 2000,
+      "genres": [
+        "Sci-Fi",
+        "Adventure",
+        "Action",
+        "Animation"
+      ],
+      "rating": 6.0,
+      "votes": 7984,
+      "tomatometer": 51,
+      "audience_score": 61,
+      "runtime_minutes": 95,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/3DN4LoyIHgfmy0eAr3azQXVEKyU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25075_p_v8_ad.jpg",
+      "plot": "A science-fiction film that combines traditional animation with computer-generated images, \"Titan A.E.\" takes place in the distant future, after Earth has been obliterated by a mysterious alien race…",
+      "directors": [
+        "Don Bluth",
+        "Gary Goldman"
+      ]
+    },
+    {
       "id": "all_dogs_go_to_heaven",
       "category": "fantasy",
       "type": "movie",
@@ -5066,58 +5117,6 @@
       "plot": "Crysta is a fairy who lives in FernGully, a rainforest in Australia, and has never seen a human before. In fact, she is told they are extinct. But when a logging company comes near the rainforest,…",
       "directors": [
         "Bill Kroyer"
-      ]
-    },
-    {
-      "id": "the_return_of_jafar",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "The Return of Jafar",
-      "original_title": "The Return of Jafar",
-      "year": 1994,
-      "genres": [
-        "Kids & Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy",
-        "Animation"
-      ],
-      "rating": 4.3,
-      "votes": 4997,
-      "tomatometer": 33,
-      "audience_score": 40,
-      "runtime_minutes": 66,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/OH63S71WuV5yGlHq6Jp1NlCCsv4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15627_p_v8_ad.jpg",
-      "plot": "In this animated Disney tale, Aladdin (Scott Weinger), Princess Jasmine (Linda Larkin) and the gang are not as free of the menacing sorcerer Jafar (Jonathan Freeman) as they think. Since their last…",
-      "directors": [
-        "Toby Shelton",
-        "Tad Stones"
-      ]
-    },
-    {
-      "id": "the-great-mouse-detective",
-      "category": "animation",
-      "type": "movie",
-      "title": "The Great Mouse Detective",
-      "original_title": "The Great Mouse Detective",
-      "year": 1986,
-      "genres": [
-        "Kids & Family",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 7.3,
-      "votes": 4926,
-      "tomatometer": 79,
-      "audience_score": 79,
-      "runtime_minutes": 80,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/49dkT2Zb8a02j3oziX7IGZSKz0E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9387_p_v8_al.jpg",
-      "plot": "Rodent supersleuth Basil and his bumbling partner must thwart evil Ratigan's plot to depose the Mouse Queen.",
-      "directors": [
-        "John Musker",
-        "Ron Clements"
       ]
     }
   ]

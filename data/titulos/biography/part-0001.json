@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-08-30T21:18:11.456912Z",
+  "updated_at": "2026-08-31T14:06:36.625754Z",
   "titles": [
     {
       "id": "1211483-howl",
@@ -6259,18 +6259,18 @@
         "Biography",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 106,
       "certificate": "R",
-      "rating": 7.6,
-      "votes": 71,
-      "tomatometer": 95,
-      "tomatometer_count": 166,
+      "rating": 7.7,
+      "votes": 734,
+      "tomatometer": 94,
+      "tomatometer_count": 209,
       "tomatometer_certified": true,
-      "audience_score": 89,
-      "audience_count": 13,
+      "audience_score": 92,
+      "audience_count": 123,
       "metascore": null,
       "plot": "Nineteen-year-old Anthony Bourdain stumbles into the chaotic world of a restaurant kitchen, setting off a summer that shapes the course of his life.",
       "tagline": "",
@@ -6361,10 +6361,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Tony/5125477?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-20T23:05:30.143406Z"
+      "scraped_at": "2026-08-31T14:05:30.823149Z"
     },
     {
       "id": "trial_by_fire",

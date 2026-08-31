@@ -2,7 +2,7 @@
   "genre": "animation",
   "part": 4,
   "count": 53,
-  "updated_at": "2026-08-31T05:43:10.999885Z",
+  "updated_at": "2026-08-31T14:05:22.525460Z",
   "titles": [
     {
       "id": "1017699-robin_hood",
@@ -4618,7 +4618,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T07:14:34.181216Z"
+      "scraped_at": "2026-08-31T14:04:17.781128Z"
     },
     {
       "id": "tom_and_jerry_forbidden_compass",
@@ -4655,7 +4655,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/mhzI9-3brntcFmj3Jlxg2c-l0_g=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30580511_i_h10_ab.jpg",
+          "url": "https://resizing.flixster.com/9rm3g291yEUJQ6ooqzyA-15-vdw=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/721/523/thumb_FBAA7B9E-5D46-4D14-8467-C0BB7212346D.jpg",
           "caption": ""
         },
         {
@@ -4691,7 +4691,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "fwpSjf69kv0m",
+        "title": "Tom and Jerry: Forbidden Compass: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/721/523/thumb_FBAA7B9E-5D46-4D14-8467-C0BB7212346D.jpg",
+        "seconds": 95,
+        "src": "https://link.theplatform.com/s/NGweTC/media/fwpSjf69kv0m?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "gang_zhang",
@@ -4709,7 +4715,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T13:24:52.109547Z"
+      "scraped_at": "2026-08-31T14:05:00.968270Z"
     },
     {
       "id": "valiant",

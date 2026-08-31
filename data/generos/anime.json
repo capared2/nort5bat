@@ -1,8 +1,32 @@
 {
   "genre": "anime",
   "name": "Anime",
-  "count": 23,
+  "count": 25,
   "titles": [
+    {
+      "id": "ghost_in_the_shell",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Ghost in the Shell",
+      "original_title": "Ghost in the Shell",
+      "year": null,
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Anime"
+      ],
+      "rating": 7.8,
+      "votes": 17653,
+      "tomatometer": 95,
+      "audience_score": 89,
+      "runtime_minutes": 83,
+      "certificate": "In Theaters Sep 18",
+      "poster": "https://resizing.flixster.com/JlqXZ5sm0pfdeqeIZhsWSP5nQ-Y=/300x450/v2/https://resizing.flixster.com/WhvjQiLGM_2r_l_FzV0XeCvJCpU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4Mzg3ZWMzLThlNDktNGViMi1hOTc5LWM3MmE0MmZkOThjOS5qcGc=",
+      "plot": "In this Japanese animation, cyborg federal agent Maj. Motoko Kusanagi (Mimi Woods) trails \"The Puppet Master\" (Abe Lasser), who illegally hacks into the computerized minds of cyborg-human hybrids.…",
+      "directors": [
+        "Mamoru Oshii"
+      ]
+    },
     {
       "id": "demon_slayer_kimetsu_no_yaiba_infinity_castle",
       "category": "fantasy",
@@ -138,7 +162,7 @@
         "Anime"
       ],
       "rating": 7.3,
-      "votes": 3367,
+      "votes": 3369,
       "tomatometer": 92,
       "audience_score": 91,
       "runtime_minutes": 90,
@@ -245,6 +269,35 @@
       "plot": "Solo Leveling -ReAwakening- features a catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous…",
       "directors": [
         "Shunsuke Nakashige"
+      ]
+    },
+    {
+      "id": "ultraman_rising",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Ultraman: Rising",
+      "original_title": "Ultraman: Rising",
+      "year": 2024,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Action",
+        "Sci-Fi",
+        "Fantasy",
+        "Animation",
+        "Anime"
+      ],
+      "rating": 7.2,
+      "votes": 538,
+      "tomatometer": 85,
+      "audience_score": 91,
+      "runtime_minutes": 117,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/n6Ept4T5UUkidIvEbV17VBrlx7o=/300x450/v2/https://resizing.flixster.com/n727LMyt8AkxZEGjkCvvcKP48hg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxYjQwMTQ3LWQ4MDktNGIyYy1iOGQxLWVlNzM0YWNkN2U2Yi5qcGc=",
+      "plot": "With Tokyo under siege from rising monster attacks, baseball star Ken Sato reluctantly returns home to take on the mantle of Ultraman. But the titanic superhero meets his match when he is forced to…",
+      "directors": [
+        "Shannon Tindle",
+        "John Aoshima"
       ]
     },
     {
