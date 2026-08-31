@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-08-30T16:45:48.065779Z",
+  "updated_at": "2026-08-31T05:47:12.563022Z",
   "titles": [
     {
       "id": "1006416-east_of_eden",
@@ -5948,7 +5948,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:48:29.236606Z"
+      "scraped_at": "2026-08-31T05:41:43.388529Z"
     },
     {
       "id": "the_representative",
@@ -6040,10 +6040,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H9K7B4FX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:48:43.331400Z"
+      "scraped_at": "2026-08-31T05:42:28.755663Z"
     },
     {
       "id": "the_school_of_flesh",
@@ -6146,7 +6151,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:48:09.184098Z"
+      "scraped_at": "2026-08-31T05:43:54.813818Z"
     },
     {
       "id": "the_spook_who_sat_by_the_door",
@@ -6245,7 +6250,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:50:42.307238Z"
+      "scraped_at": "2026-08-31T05:45:48.226245Z"
     },
     {
       "id": "the_super_husband",
@@ -6349,7 +6354,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:48:32.359205Z"
+      "scraped_at": "2026-08-31T05:46:50.407129Z"
     },
     {
       "id": "up_tight",

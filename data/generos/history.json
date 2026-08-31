@@ -1,8 +1,32 @@
 {
   "genre": "history",
   "name": "History",
-  "count": 547,
+  "count": 561,
   "titles": [
+    {
+      "id": "titanic",
+      "category": "romance",
+      "type": "movie",
+      "title": "Titanic",
+      "original_title": "Titanic",
+      "year": 1997,
+      "genres": [
+        "History",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.4,
+      "votes": 426012,
+      "tomatometer": 88,
+      "audience_score": 69,
+      "runtime_minutes": 195,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ewhAd0gCqHL3mg899AwnrI6ZDDA=/300x450/v2/https://resizing.flixster.com/j1q6PHK0ZtbdABMQcflU-wH5-eE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y1NGZmNWMyLTczMGUtNDViMS04NzdmLTRiODZiMDM0YWMwOS5qcGc=",
+      "plot": "Two young lovers from different backgrounds meet and fall in love on the ill-fated maiden voyage of the unsinkable R.M.S. Titanic.",
+      "directors": [
+        "James Cameron"
+      ]
+    },
     {
       "id": "gladiator",
       "category": "action",
@@ -1241,7 +1265,7 @@
         "History"
       ],
       "rating": 8.7,
-      "votes": 21236,
+      "votes": 21237,
       "tomatometer": 97,
       "audience_score": 76,
       "runtime_minutes": 101,
@@ -1471,6 +1495,30 @@
       "plot": "In 1942, Private Witt (Jim Caviezel) is a U.S. Army absconder living peacefully with the locals of a small South Pacific island. Discovered by his commanding officer, Sgt. Welsh (Sean Penn), Witt is…",
       "directors": [
         "Terrence Malick"
+      ]
+    },
+    {
+      "id": "brooklyn",
+      "category": "romance",
+      "type": "movie",
+      "title": "Brooklyn",
+      "original_title": "Brooklyn",
+      "year": 2015,
+      "genres": [
+        "Romance",
+        "History",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "votes": 17988,
+      "tomatometer": 97,
+      "audience_score": 87,
+      "runtime_minutes": 112,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/R0N-HiE2a836NmBfUZ73yr0ZmLM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11436766_p_v8_ak.jpg",
+      "plot": "Young Irish immigrant Eilis Lace navigates her way through 1950s Brooklyn. Lured by the promise of America, Eilis departs Ireland and the comfort of her mother's home for the shores of New York City.…",
+      "directors": [
+        "John Crowley"
       ]
     },
     {
@@ -2813,6 +2861,30 @@
       ]
     },
     {
+      "id": "the_promise_2017",
+      "category": "romance",
+      "type": "movie",
+      "title": "The Promise",
+      "original_title": "The Promise",
+      "year": 2017,
+      "genres": [
+        "History",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 5.6,
+      "votes": 6027,
+      "tomatometer": 51,
+      "audience_score": 91,
+      "runtime_minutes": 134,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/i_uPUSaN7dDY-SQS4FRHIeSDeck=/300x450/v2/https://resizing.flixster.com/7GopIOmXRkL3o8FkYGGVeBJvFPc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg4MTg1NTYxLWQ4YWMtNGQ4MC05ZWM1LTBkNjZjM2RmNjk0MC53ZWJw",
+      "plot": "Brilliant medical student Michael (Oscar Isaac) meets beautiful dance instructor Ana (Charlotte Le Bon) in late 1914. Their shared Armenian heritage sparks an attraction that explodes into a romantic…",
+      "directors": [
+        "Terry George"
+      ]
+    },
+    {
       "id": "darkest_hour_2017",
       "category": "war",
       "type": "movie",
@@ -3754,7 +3826,7 @@
         "Drama"
       ],
       "rating": 7.0,
-      "votes": 3457,
+      "votes": 3458,
       "tomatometer": 84,
       "audience_score": 75,
       "runtime_minutes": 117,
@@ -4794,77 +4866,6 @@
       "plot": "\"Napoleon\" is a spectacle-filled action epic that details the checkered rise and fall of the iconic French Emperor Napoleon Bonaparte, played by Oscar winner Joaquin Phoenix. Against a stunning…",
       "directors": [
         "Ridley Scott"
-      ]
-    },
-    {
-      "id": "mudbound",
-      "category": "history",
-      "type": "movie",
-      "title": "Mudbound",
-      "original_title": "Mudbound",
-      "year": 2017,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 8.3,
-      "votes": 2026,
-      "tomatometer": 97,
-      "audience_score": 85,
-      "runtime_minutes": 134,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/HwKi_CyKnCs7bohHZSlwFXanGYo=/300x450/v2/https://resizing.flixster.com/vdH3l2bg3QNYzOnoLt23ltZlevU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZhMGU3MDk1LWIyN2YtNDI1Yy1iNTlkLTNkMjNlN2I4YzI5OS53ZWJw",
-      "plot": "Set in the rural American South during World War II, Dee Rees' Mudbound is an epic story of two families pitted against one another by a ruthless social hierarchy, yet bound together by the shared…",
-      "directors": [
-        "Dee Rees"
-      ]
-    },
-    {
-      "id": "anthropoid",
-      "category": "war",
-      "type": "movie",
-      "title": "Anthropoid",
-      "original_title": "Anthropoid",
-      "year": 2016,
-      "genres": [
-        "History",
-        "Drama",
-        "War",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.4,
-      "votes": 2007,
-      "tomatometer": 67,
-      "audience_score": 72,
-      "runtime_minutes": 120,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/LCA2VqFKThPcElT9QCoMCvKDV94=/300x450/v2/https://resizing.flixster.com/FodqJ0bYfkxv9K1CMEU794CDngE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFiMTA3ZmQzLTY2YjktNDhhMy04YmQ5LTUxZTM5ZDg2NzU2MC53ZWJw",
-      "plot": "In December 1941, two Czech soldiers (Cillian Murphy, Jamie Dornan) parachute into their occupied homeland to assassinate Nazi officer Reinhard Heydrich (Detlef Bothe).",
-      "directors": [
-        "Sean Ellis"
-      ]
-    },
-    {
-      "id": "eight_men_out",
-      "category": "history",
-      "type": "movie",
-      "title": "Eight Men Out",
-      "original_title": "Eight Men Out",
-      "year": 1988,
-      "genres": [
-        "History",
-        "Drama"
-      ],
-      "rating": 7.6,
-      "votes": 1981,
-      "tomatometer": 87,
-      "audience_score": 80,
-      "runtime_minutes": 119,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/-P-UB4_TG2ku_yraMQaQLECQD_k=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11015_p_v13_ae.jpg",
-      "plot": "The Chicago White Sox, who are set to play the Cincinnati Reds in the World Series of 1919, are at odds with their team's owner, Charles Comiskey, who pays his players unsatisfactory wages despite…",
-      "directors": [
-        "John Sayles"
       ]
     }
   ]

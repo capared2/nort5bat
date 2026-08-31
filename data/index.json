@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-08-30T21:18:36.032996Z",
-  "total_titles": 20049,
+  "generated_at": "2026-08-31T05:50:01.903219Z",
+  "total_titles": 20072,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3287,
+      "titles": 3288,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -227,10 +227,10 @@
         },
         {
           "file": "titulos/drama/part-0055.json",
-          "count": 47
+          "count": 48
         }
       ],
-      "tagged": 8847
+      "tagged": 8870
     },
     {
       "genre": "comedy",
@@ -963,7 +963,7 @@
     {
       "genre": "romance",
       "name": "Romance",
-      "titles": 1536,
+      "titles": 1557,
       "files": [
         {
           "file": "titulos/romance/part-0001.json",
@@ -1067,10 +1067,10 @@
         },
         {
           "file": "titulos/romance/part-0026.json",
-          "count": 36
+          "count": 57
         }
       ],
-      "tagged": 1795
+      "tagged": 1816
     },
     {
       "genre": "adventure",
@@ -1243,7 +1243,7 @@
     {
       "genre": "sci-fi",
       "name": "Sci-Fi",
-      "titles": 803,
+      "titles": 804,
       "files": [
         {
           "file": "titulos/sci-fi/part-0001.json",
@@ -1299,10 +1299,10 @@
         },
         {
           "file": "titulos/sci-fi/part-0014.json",
-          "count": 23
+          "count": 24
         }
       ],
-      "tagged": 956
+      "tagged": 957
     },
     {
       "genre": "kids-family",
@@ -1354,7 +1354,7 @@
           "count": 36
         }
       ],
-      "tagged": 727
+      "tagged": 740
     },
     {
       "genre": "history",
@@ -1386,7 +1386,7 @@
           "count": 20
         }
       ],
-      "tagged": 547
+      "tagged": 561
     },
     {
       "genre": "lgbtq",
