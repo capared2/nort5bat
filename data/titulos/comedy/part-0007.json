@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-09-01T11:48:57.526798Z",
+  "updated_at": "2026-09-01T16:48:44.538306Z",
   "titles": [
     {
       "id": "10004352-going_the_distance",
@@ -98,10 +98,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GPCB9S8D/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T01:59:57.698045Z"
+      "scraped_at": "2026-09-01T16:45:23.956789Z"
     },
     {
       "id": "1001115-apartment",
@@ -120,12 +125,12 @@
       "runtime_minutes": 125,
       "certificate": null,
       "rating": 9.0,
-      "votes": 9083,
-      "tomatometer": 93,
-      "tomatometer_count": 107,
+      "votes": 9084,
+      "tomatometer": 94,
+      "tomatometer_count": 108,
       "tomatometer_certified": true,
       "audience_score": 94,
-      "audience_count": 2381,
+      "audience_count": 2382,
       "metascore": null,
       "plot": "Insurance worker C.C. Baxter (Jack Lemmon) lends his Upper West Side apartment to company bosses to use for extramarital affairs. When his manager Mr. Sheldrake (Fred MacMurray) begins using Baxter's apartment in exchange for promoting him, Baxter is disappointed to learn that Sheldrake's mistress is Fran Kubelik (Shirley MacLaine), the elevator girl at work whom Baxter is interested in himself. Soon Baxter must decide between the girl he loves and the advancement of his career.",
       "tagline": "",
@@ -210,7 +215,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T02:00:17.500063Z"
+      "scraped_at": "2026-09-01T16:47:57.239585Z"
     },
     {
       "id": "1013912-milky_way",

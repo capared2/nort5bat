@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-09-01T11:48:58.682096Z",
+  "updated_at": "2026-09-01T16:48:45.416462Z",
   "titles": [
     {
       "id": "10009632-notorious",
@@ -127,7 +127,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T02:40:51.922861Z"
+      "scraped_at": "2026-09-01T16:47:18.610976Z"
     },
     {
       "id": "all_the_beauty_and_the_bloodshed",
@@ -6026,7 +6026,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T02:48:06.135967Z"
+      "scraped_at": "2026-09-01T16:42:53.696278Z"
     },
     {
       "id": "your_fat_friend",
@@ -6119,10 +6119,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H7BZT997/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/your-fat-friend/umc.cmc.2jr2h07c45xg3369tbxj68ag2?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T02:47:28.195578Z"
+      "scraped_at": "2026-09-01T16:43:36.244186Z"
     }
   ]
 }
