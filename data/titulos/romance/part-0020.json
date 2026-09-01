@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 20,
   "count": 60,
-  "updated_at": "2026-09-01T16:44:42.246465Z",
+  "updated_at": "2026-09-01T21:13:10.361299Z",
   "titles": [
     {
       "id": "1046435-beverly_hillbillies",
@@ -104,10 +104,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FXRBC5YS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T02:05:05.696614Z"
+      "scraped_at": "2026-09-01T21:09:31.574167Z"
     },
     {
       "id": "1054344-it_could_happen_to_you",
@@ -217,7 +222,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:53:20.434882Z"
+      "scraped_at": "2026-09-01T21:09:52.744712Z"
     },
     {
       "id": "1068832-sense_and_sensibility",
@@ -237,7 +242,7 @@
       "runtime_minutes": 135,
       "certificate": "PG",
       "rating": 8.7,
-      "votes": 21178,
+      "votes": 21179,
       "tomatometer": 97,
       "tomatometer_count": 140,
       "tomatometer_certified": true,
@@ -349,7 +354,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:53:21.177277Z"
+      "scraped_at": "2026-09-01T21:10:46.633203Z"
     },
     {
       "id": "1073316-emma",
@@ -471,7 +476,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:53:19.298890Z"
+      "scraped_at": "2026-09-01T21:11:25.554711Z"
     },
     {
       "id": "1077847-george_of_the_jungle",
@@ -491,12 +496,12 @@
       "runtime_minutes": 91,
       "certificate": "PG",
       "rating": 5.3,
-      "votes": 9186,
+      "votes": 9187,
       "tomatometer": 56,
       "tomatometer_count": 52,
       "tomatometer_certified": false,
       "audience_score": 42,
-      "audience_count": 9984,
+      "audience_count": 9985,
       "metascore": null,
       "plot": "George (Brendan Fraser) has raised himself since he was a baby and a plane crash stranded him in an African jungle. Now an adult, George has his first human contact in years when he rescues explorer Ursula Stanhope (Leslie Mann) from a lion. George and Ursula connect, and she leaves her fiancé, Lyle (Thomas Haden Church), and takes George back to San Francisco. But when George learns that his gorilla buddy has been captured, he and Ursula return on a rescue mission.",
       "tagline": "",
@@ -571,7 +576,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T02:05:05.223816Z"
+      "scraped_at": "2026-09-01T21:11:59.434656Z"
     },
     {
       "id": "1096783-coming_soon",
