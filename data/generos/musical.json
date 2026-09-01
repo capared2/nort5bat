@@ -371,13 +371,13 @@
         "Comedy",
         "Fantasy"
       ],
-      "rating": 8.1,
-      "votes": 45826,
+      "rating": 8.0,
+      "votes": 45830,
       "tomatometer": 84,
       "audience_score": 87,
       "runtime_minutes": 100,
       "certificate": "G",
-      "poster": "https://resizing.flixster.com/O7J2QvnIew0WS1eqa3RepG2UaEk=/300x450/v2/https://resizing.flixster.com/t2ia_in4akPK_z12FkWrL-Kep-Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RlMDQ3MDM3LWVkNTQtNDhlMC04YWQ0LTIzOThmZjcwMzkzMy5qcGc=",
+      "poster": "https://resizing.flixster.com/jGBlvpJRlrfB7oKfpb8Dvbsym6w=/300x450/v2/https://resizing.flixster.com/OL-smXFs9HBkZeg318Iof6g8PkY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyMjE5ZmIxLWFlYzAtNGI2NS04ZGE1LWY0ZGZlMTM2MzYwMS5qcGc=",
       "plot": "The last of five coveted \"golden tickets\" falls into the hands of a sweet but very poor boy. He and his grandpa then get a tour of the strangest chocolate factory in the world. The owner leads five…",
       "directors": [
         "Mel Stuart"
@@ -494,7 +494,7 @@
         "Adventure"
       ],
       "rating": 7.8,
-      "votes": 40807,
+      "votes": 40808,
       "tomatometer": 88,
       "audience_score": 95,
       "runtime_minutes": 160,
@@ -901,6 +901,31 @@
       ]
     },
     {
+      "id": "wicked_for_good",
+      "category": "musical",
+      "type": "movie",
+      "title": "Wicked: For Good",
+      "original_title": "Wicked: For Good",
+      "year": 2025,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 6.5,
+      "votes": 20712,
+      "tomatometer": 65,
+      "audience_score": 92,
+      "runtime_minutes": 137,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/ZpLLT-Rohf5tjhhHimIr4H1j7yQ=/300x450/v2/https://resizing.flixster.com/73vo2mteKuX4jKAnDsTUBankCtQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwNTY3YjgzLTUyYjctNGM0NS1hNjhjLWMxM2NlYzZlNzQ1MC5qcGc=",
+      "plot": "Elphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz's silenced Animals and…",
+      "directors": [
+        "Jon M. Chu"
+      ]
+    },
+    {
       "id": "monster_in_law",
       "category": "musical",
       "type": "movie",
@@ -923,31 +948,6 @@
       "plot": "Charlotte (Jennifer Lopez) is smitten when she meets Dr. Kevin Fields (Michael Vartan). So when Kevin pops the question after they start dating, Charlotte happily accepts. But she soon realizes that…",
       "directors": [
         "Robert Luketic"
-      ]
-    },
-    {
-      "id": "wicked_for_good",
-      "category": "musical",
-      "type": "movie",
-      "title": "Wicked: For Good",
-      "original_title": "Wicked: For Good",
-      "year": 2025,
-      "genres": [
-        "Kids & Family",
-        "Musical",
-        "Fantasy",
-        "Adventure"
-      ],
-      "rating": 6.5,
-      "votes": 20679,
-      "tomatometer": 65,
-      "audience_score": 92,
-      "runtime_minutes": 137,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/ZpLLT-Rohf5tjhhHimIr4H1j7yQ=/300x450/v2/https://resizing.flixster.com/73vo2mteKuX4jKAnDsTUBankCtQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwNTY3YjgzLTUyYjctNGM0NS1hNjhjLWMxM2NlYzZlNzQ1MC5qcGc=",
-      "plot": "Elphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz's silenced Animals and…",
-      "directors": [
-        "Jon M. Chu"
       ]
     },
     {
@@ -3128,7 +3128,7 @@
       ],
       "rating": 5.9,
       "votes": 972,
-      "tomatometer": 64,
+      "tomatometer": 69,
       "audience_score": 65,
       "runtime_minutes": 160,
       "certificate": null,
