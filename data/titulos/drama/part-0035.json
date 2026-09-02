@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-09-01T11:51:20.835437Z",
+  "updated_at": "2026-09-02T11:31:25.436937Z",
   "titles": [
     {
       "id": "a_good_enough_day",
@@ -124,10 +124,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CMMNPBTT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/a-good-enough-day/umc.cmc.4e7qaok0z6nrdnrctnromkdbg?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:30:51.646908Z"
+      "scraped_at": "2026-09-02T11:28:02.583430Z"
     },
     {
       "id": "about_a_teacher",
@@ -257,7 +266,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:29:23.290663Z"
+      "scraped_at": "2026-09-02T11:31:22.393777Z"
     },
     {
       "id": "amateur_2018",

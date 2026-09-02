@@ -2,7 +2,7 @@
   "genre": "kids-family",
   "part": 1,
   "count": 41,
-  "updated_at": "2026-09-02T04:45:55.982077Z",
+  "updated_at": "2026-09-02T11:27:22.640346Z",
   "titles": [
     {
       "id": "1009437-heidi",
@@ -919,10 +919,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H7QRMNXP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T07:12:13.872749Z"
+      "scraped_at": "2026-09-02T11:25:40.398630Z"
     },
     {
       "id": "akeelah_and_the_bee",

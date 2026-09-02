@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-09-02T04:47:56.541584Z",
+  "updated_at": "2026-09-02T11:25:20.402859Z",
   "titles": [
     {
       "id": "1069419-black_sheep",
@@ -504,7 +504,7 @@
       "runtime_minutes": 110,
       "certificate": "R",
       "rating": 7.2,
-      "votes": 96235,
+      "votes": 96241,
       "tomatometer": 85,
       "tomatometer_count": 224,
       "tomatometer_certified": true,
@@ -618,11 +618,15 @@
         {
           "name": "Starz",
           "url": "https://www.starz.com/us/en/play/50555?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T02:19:20.472130Z"
+      "scraped_at": "2026-09-02T11:23:49.333415Z"
     },
     {
       "id": "28_days",
@@ -747,7 +751,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T02:18:38.060817Z"
+      "scraped_at": "2026-09-02T11:24:02.061671Z"
     },
     {
       "id": "adventures_in_public_school",
