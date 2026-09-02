@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-09-02T16:41:53.681706Z",
+  "updated_at": "2026-09-02T21:12:14.456253Z",
   "titles": [
     {
       "id": "28_years_later",
@@ -535,7 +535,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:14:06.804465Z"
+      "scraped_at": "2026-09-02T21:08:03.604828Z"
     },
     {
       "id": "area_51",
@@ -555,7 +555,7 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 3.7,
-      "votes": 818,
+      "votes": 819,
       "tomatometer": 13,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
@@ -657,11 +657,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Area-51/665528?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T13:15:03.954467Z"
+      "scraped_at": "2026-09-02T21:10:07.847272Z"
     },
     {
       "id": "ash_2025",
@@ -790,6 +794,10 @@
           "url": "https://athome.fandango.com/content/browse/details/Ash/4111604?cmp=rt_where_to_watch"
         },
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Hulu",
           "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         },
@@ -800,7 +808,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T18:59:24.638680Z"
+      "scraped_at": "2026-09-02T21:11:14.296683Z"
     },
     {
       "id": "barbarian_2022",

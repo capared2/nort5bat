@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-09-02T16:45:56.604142Z",
+  "updated_at": "2026-09-02T21:12:14.241966Z",
   "titles": [
     {
       "id": "1065684-braveheart",
@@ -1059,25 +1059,21 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Anthropoid/813185?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/80114667?cmp=rt_where_to_watch"
         },
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0B8J49286/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        },
-        {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Apple TV",
-          "url": "https://tv.apple.com/us/movie/anthropoid/umc.cmc.2thf2p7zgw1jakr1aywrj689m?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:36:45.002760Z"
+      "scraped_at": "2026-09-02T21:08:50.219067Z"
     },
     {
       "id": "armadillo_2010",
@@ -1096,7 +1092,7 @@
       "runtime_minutes": 100,
       "certificate": null,
       "rating": 7.6,
-      "votes": 687,
+      "votes": 688,
       "tomatometer": 89,
       "tomatometer_count": 54,
       "tomatometer_certified": true,
@@ -1171,7 +1167,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T02:06:57.616397Z"
+      "scraped_at": "2026-09-02T21:10:23.017290Z"
     },
     {
       "id": "black_book",
