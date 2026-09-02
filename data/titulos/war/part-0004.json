@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-09-01T21:11:27.840948Z",
+  "updated_at": "2026-09-02T04:47:56.934791Z",
   "titles": [
     {
       "id": "1065684-braveheart",
@@ -267,7 +267,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:27:18.058109Z"
+      "scraped_at": "2026-09-02T04:46:07.460004Z"
     },
     {
       "id": "1213999-brothers",
@@ -289,7 +289,7 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 6.5,
-      "votes": 20716,
+      "votes": 20718,
       "tomatometer": 63,
       "tomatometer_count": 156,
       "tomatometer_certified": false,
@@ -387,10 +387,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DYNRNK7V/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:27:17.026136Z"
+      "scraped_at": "2026-09-02T04:47:14.251681Z"
     },
     {
       "id": "13_hours_the_secret_soldiers_of_benghazi",
@@ -410,12 +415,12 @@
       "runtime_minutes": 144,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 15179,
+      "votes": 15181,
       "tomatometer": 52,
       "tomatometer_count": 223,
       "tomatometer_certified": false,
       "audience_score": 83,
-      "audience_count": 2211,
+      "audience_count": 2212,
       "metascore": null,
       "plot": "On Sept. 11, 2012, Islamic militants attack the U.S. Consulate in Benghazi, Libya, killing Ambassador J. Christopher Stevens and Sean Smith, an officer for the Foreign Service. Stationed less than one mile away are members (James Badge Dale, John Krasinski, Max Martini) of the Annex Security Team, former soldiers assigned to protect operatives and diplomats in the city. As the assault rages on, the six men engage the combatants in a fierce firefight to save the lives of the remaining Americans.",
       "tagline": "",
@@ -522,7 +527,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-21T19:50:33.770627Z"
+      "scraped_at": "2026-09-02T04:47:47.419753Z"
     },
     {
       "id": "a_private_war",
