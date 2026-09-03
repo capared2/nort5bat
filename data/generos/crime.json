@@ -333,7 +333,7 @@
         "Comedy"
       ],
       "rating": 4.8,
-      "votes": 94984,
+      "votes": 94987,
       "tomatometer": 26,
       "audience_score": 91,
       "runtime_minutes": 110,
@@ -405,7 +405,7 @@
         "Biography"
       ],
       "rating": 6.4,
-      "votes": 83424,
+      "votes": 83425,
       "tomatometer": 56,
       "audience_score": 87,
       "runtime_minutes": 124,
@@ -1916,7 +1916,7 @@
         "Drama"
       ],
       "rating": 5.8,
-      "votes": 26331,
+      "votes": 26332,
       "tomatometer": 43,
       "audience_score": 64,
       "runtime_minutes": 122,
@@ -2258,7 +2258,7 @@
         "Action"
       ],
       "rating": 7.1,
-      "votes": 22021,
+      "votes": 22022,
       "tomatometer": 83,
       "audience_score": 67,
       "runtime_minutes": 110,
@@ -2500,7 +2500,7 @@
         "Drama"
       ],
       "rating": 6.7,
-      "votes": 19804,
+      "votes": 19807,
       "tomatometer": 74,
       "audience_score": 68,
       "runtime_minutes": 122,
@@ -3341,7 +3341,7 @@
         "Action"
       ],
       "rating": 5.4,
-      "votes": 13690,
+      "votes": 13694,
       "tomatometer": 30,
       "audience_score": 63,
       "runtime_minutes": 113,
@@ -3999,7 +3999,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.3,
-      "votes": 11383,
+      "votes": 11384,
       "tomatometer": 23,
       "audience_score": 58,
       "runtime_minutes": 115,
@@ -4619,6 +4619,30 @@
       ]
     },
     {
+      "id": "blood_simple",
+      "category": "crime",
+      "type": "movie",
+      "title": "Blood Simple",
+      "original_title": "Blood Simple",
+      "year": 1984,
+      "genres": [
+        "Mystery & Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "votes": 8723,
+      "tomatometer": 94,
+      "audience_score": 88,
+      "runtime_minutes": 97,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/SuvwAoJU4ox7dqBwsLdzIYexAhY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8584_p_v13_ah.jpg",
+      "plot": "\"Blood Simple\" was the first feature film from Joel and Ethan Coen. This is the newly restored and re-edited director's cut of the film, introduced by Mortimer Young. The stylish crime thriller…",
+      "directors": [
+        "Joel Coen"
+      ]
+    },
+    {
       "id": "1012611-lolita",
       "category": "crime",
       "type": "movie",
@@ -4643,27 +4667,26 @@
       ]
     },
     {
-      "id": "blood_simple",
+      "id": "bonnie_and_clyde",
       "category": "crime",
       "type": "movie",
-      "title": "Blood Simple",
-      "original_title": "Blood Simple",
-      "year": 1984,
+      "title": "Bonnie and Clyde",
+      "original_title": "Bonnie and Clyde",
+      "year": 1967,
       "genres": [
-        "Mystery & Thriller",
         "Crime",
         "Drama"
       ],
-      "rating": 8.5,
-      "votes": 8722,
-      "tomatometer": 94,
+      "rating": 9.0,
+      "votes": 8681,
+      "tomatometer": 91,
       "audience_score": 88,
-      "runtime_minutes": 97,
+      "runtime_minutes": 111,
       "certificate": "R",
-      "poster": "https://resizing.flixster.com/SuvwAoJU4ox7dqBwsLdzIYexAhY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8584_p_v13_ah.jpg",
-      "plot": "\"Blood Simple\" was the first feature film from Joel and Ethan Coen. This is the newly restored and re-edited director's cut of the film, introduced by Mortimer Young. The stylish crime thriller…",
+      "poster": "https://resizing.flixster.com/vBiSRq24B0pzn_pUOvoTHxpaWJ4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1434_p_v10_ar.jpg",
+      "plot": "Small-time crook Clyde Barrow (Warren Beatty) tries to steal a car and winds up with its owner's daughter, dissatisfied small-town girl Bonnie Parker (Faye Dunaway). Their crimes quickly spiral from…",
       "directors": [
-        "Joel Coen"
+        "Arthur Penn"
       ]
     },
     {
@@ -4688,29 +4711,6 @@
       "plot": "In 1981 New York, a fuel supplier (Oscar Isaac) tries to adhere to his own moral compass amid the rampant violence, corruption and decay that threaten his family and his business.",
       "directors": [
         "J.C. Chandor"
-      ]
-    },
-    {
-      "id": "bonnie_and_clyde",
-      "category": "crime",
-      "type": "movie",
-      "title": "Bonnie and Clyde",
-      "original_title": "Bonnie and Clyde",
-      "year": 1967,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "rating": 9.0,
-      "votes": 8679,
-      "tomatometer": 91,
-      "audience_score": 88,
-      "runtime_minutes": 111,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/vBiSRq24B0pzn_pUOvoTHxpaWJ4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1434_p_v10_ar.jpg",
-      "plot": "Small-time crook Clyde Barrow (Warren Beatty) tries to steal a car and winds up with its owner's daughter, dissatisfied small-town girl Bonnie Parker (Faye Dunaway). Their crimes quickly spiral from…",
-      "directors": [
-        "Arthur Penn"
       ]
     },
     {
@@ -4821,7 +4821,7 @@
         "Crime"
       ],
       "rating": 8.3,
-      "votes": 8564,
+      "votes": 8569,
       "tomatometer": 95,
       "audience_score": 83,
       "runtime_minutes": 134,
