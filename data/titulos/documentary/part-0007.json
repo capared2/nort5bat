@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-09-03T16:36:59.877367Z",
+  "updated_at": "2026-09-03T21:11:14.434662Z",
   "titles": [
     {
       "id": "1208128-tyson",
@@ -1103,7 +1103,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T02:07:28.458891Z"
+      "scraped_at": "2026-09-03T21:05:47.269083Z"
     },
     {
       "id": "coexistence_my_ass",
@@ -1120,10 +1120,10 @@
       "release_date": null,
       "runtime_minutes": 95,
       "certificate": null,
-      "rating": 7.3,
+      "rating": 7.4,
       "votes": 6,
       "tomatometer": 92,
-      "tomatometer_count": 25,
+      "tomatometer_count": 26,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 2,
@@ -1184,10 +1184,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/coexistence-my-ass/umc.cmc.2da8042ol4jstg2o3r1yfd79n?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:06:38.364721Z"
+      "scraped_at": "2026-09-03T21:11:01.466941Z"
     },
     {
       "id": "cormans_world_exploits_of_a_hollywood_rebel",

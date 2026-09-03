@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-03T16:32:55.568483Z",
+  "updated_at": "2026-09-03T21:13:15.425380Z",
   "titles": [
     {
       "id": "28_years_later_the_bone_temple",
@@ -1177,18 +1177,18 @@
         "Horror",
         "Action"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 122,
       "certificate": "R",
-      "rating": 6.7,
-      "votes": null,
-      "tomatometer": 72,
-      "tomatometer_count": 50,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "rating": 6.8,
+      "votes": 204,
+      "tomatometer": 80,
+      "tomatometer_count": 101,
+      "tomatometer_certified": true,
+      "audience_score": 95,
+      "audience_count": 53,
       "metascore": null,
       "plot": "Horror master Yeon Sang-ho (Train to Busan) directs a new Korean zombie thriller starring Gianna Jun and Koo Kyo-hwan. Professor Se-jeong (Jun) is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
       "tagline": "",
@@ -1287,10 +1287,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Colony/5147664?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:07:06.797266Z"
+      "scraped_at": "2026-09-03T21:11:31.722889Z"
     },
     {
       "id": "companion_2025",
@@ -1427,7 +1432,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:07:47.954498Z"
+      "scraped_at": "2026-09-03T21:12:14.421468Z"
     },
     {
       "id": "doctor_jekyll",

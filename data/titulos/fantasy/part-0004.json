@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-09-03T16:30:55.248423Z",
+  "updated_at": "2026-09-03T21:13:15.933749Z",
   "titles": [
     {
       "id": "1077027-batman_and_robin",
@@ -1029,7 +1029,7 @@
       "runtime_minutes": 118,
       "certificate": "PG",
       "rating": 6.1,
-      "votes": 6045,
+      "votes": 6048,
       "tomatometer": 65,
       "tomatometer_count": 108,
       "tomatometer_certified": false,
@@ -1135,7 +1135,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:05:05.235504Z"
+      "scraped_at": "2026-09-03T21:09:27.595305Z"
     },
     {
       "id": "collateral_beauty",
@@ -1154,7 +1154,7 @@
       "runtime_minutes": 97,
       "certificate": "PG-13",
       "rating": 3.7,
-      "votes": 6639,
+      "votes": 6640,
       "tomatometer": 14,
       "tomatometer_count": 184,
       "tomatometer_certified": false,
@@ -1266,7 +1266,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:06:57.743909Z"
+      "scraped_at": "2026-09-03T21:11:23.161121Z"
     },
     {
       "id": "colossal",
@@ -1394,15 +1394,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Colossal/874740?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Netflix",
-          "url": "https://www.netflix.com/watch/80158202?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:07:13.924104Z"
+      "scraped_at": "2026-09-03T21:11:38.848817Z"
     },
     {
       "id": "conan_the_destroyer",
@@ -1422,7 +1418,7 @@
       "runtime_minutes": 101,
       "certificate": "PG",
       "rating": 4.5,
-      "votes": 5205,
+      "votes": 5206,
       "tomatometer": 29,
       "tomatometer_count": 28,
       "tomatometer_certified": false,
@@ -1508,11 +1504,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Conan-the-Destroyer/4806?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/conan-the-destroyer--1072105?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:08:06.147934Z"
+      "scraped_at": "2026-09-03T21:12:31.065663Z"
     },
     {
       "id": "dragonball",
