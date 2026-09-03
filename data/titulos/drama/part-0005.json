@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-09-03T11:25:39.047900Z",
+  "updated_at": "2026-09-03T16:36:59.536448Z",
   "titles": [
     {
       "id": "1123295-homecoming",
@@ -1029,10 +1029,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T18:58:30.674718Z"
+      "scraped_at": "2026-09-03T16:31:11.068192Z"
     },
     {
       "id": "cassandras_dream",
@@ -1156,7 +1165,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T02:05:12.337095Z"
+      "scraped_at": "2026-09-03T16:35:36.920353Z"
     },
     {
       "id": "clean_up_2018",

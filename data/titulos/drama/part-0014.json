@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 14,
   "count": 60,
-  "updated_at": "2026-09-03T11:27:38.990242Z",
+  "updated_at": "2026-09-03T16:32:55.441430Z",
   "titles": [
     {
       "id": "1005199-dangerous_liaisons",
@@ -1169,7 +1169,7 @@
           "id": "lili_taylor",
           "name": "Lili Taylor",
           "character": "",
-          "image": "https://resizing.flixster.com/3v8z1njx31mF8fPe4kItoY7gm14=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/39327_v9_bb.jpg"
+          "image": "https://resizing.flixster.com/y6QhF-Rp0LWF1CKE0XJU24rykJ8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG003FH2P2.jpg"
         },
         {
           "id": "sam_shepard",
@@ -1196,10 +1196,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DLFQPWKR/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T18:57:02.850021Z"
+      "scraped_at": "2026-09-03T16:29:40.554801Z"
     },
     {
       "id": "bruised",
@@ -1329,7 +1334,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T18:58:15.530741Z"
+      "scraped_at": "2026-09-03T16:30:56.103537Z"
     },
     {
       "id": "chattahoochee",

@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-03T11:21:37.519963Z",
+  "updated_at": "2026-09-03T16:32:55.568483Z",
   "titles": [
     {
       "id": "28_years_later_the_bone_temple",
@@ -1069,7 +1069,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T18:57:17.266351Z"
+      "scraped_at": "2026-09-03T16:29:55.146177Z"
     },
     {
       "id": "buddy_2026",
@@ -1079,20 +1079,21 @@
       "title": "Buddy",
       "original_title": "Buddy",
       "genres": [
-        "Horror"
+        "Horror",
+        "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 95,
       "certificate": "R",
-      "rating": 6.7,
-      "votes": null,
-      "tomatometer": 83,
-      "tomatometer_count": 35,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "rating": 7.0,
+      "votes": 846,
+      "tomatometer": 89,
+      "tomatometer_count": 114,
+      "tomatometer_certified": true,
+      "audience_score": 76,
+      "audience_count": 195,
       "metascore": null,
       "plot": "Remember BUDDY--the bright orange unicorn and star of that classic children's television show who brought joy and life lessons into your living room? Inside the colorful world of \"It's Buddy!\", a group of children spend their days singing, dancing, and helping Buddy spread happiness. But when one child refuses to play along, Buddy is not pleased and cracks begin to appear in this seemingly perfect world.",
       "tagline": "",
@@ -1147,12 +1148,6 @@
           "name": "Topher Grace",
           "character": "",
           "image": "https://resizing.flixster.com/kQEwEtttxrvTjL3QqCHv9L-NrTs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0025D35R.jpg"
-        },
-        {
-          "id": "mike_shannon",
-          "name": "Michael Shannon",
-          "character": "",
-          "image": "https://resizing.flixster.com/Aj-wbMXZQLjKjGzMYNlGfKApnog=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/225797_v9_bb.jpg"
         }
       ],
       "keywords": [],
@@ -1161,10 +1156,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Buddy/5116346?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T18:58:24.179027Z"
+      "scraped_at": "2026-09-03T16:31:04.476843Z"
     },
     {
       "id": "colony",
