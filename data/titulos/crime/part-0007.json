@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-09-02T21:14:16.377925Z",
+  "updated_at": "2026-09-03T04:43:22.762725Z",
   "titles": [
     {
       "id": "1010249-hustle",
@@ -843,12 +843,12 @@
       "runtime_minutes": 116,
       "certificate": "R",
       "rating": 8.1,
-      "votes": 18061,
+      "votes": 18065,
       "tomatometer": 89,
       "tomatometer_count": 180,
       "tomatometer_certified": true,
       "audience_score": 72,
-      "audience_count": 7885,
+      "audience_count": 7886,
       "metascore": null,
       "plot": "Andy (Philip Seymour Hoffman), a debt-ridden broker, needs some quick cash. He ropes his younger brother, Hank (Ethan Hawke), into a scheme to commit the perfect crime: to rob their parents' (Albert Finney, Rosemary Harris) jewelry store. The scheme goes horribly awry, and the family patriarch takes justice into his own hands, unaware that the criminals he is hunting are his own sons.",
       "tagline": "",
@@ -917,12 +917,6 @@
           "image": "https://resizing.flixster.com/9RX2RyLiKKdblJX6q3aJBs0fHNQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/20237_v9_bb.jpg"
         },
         {
-          "id": "marisa_tomei",
-          "name": "Marisa Tomei",
-          "character": "",
-          "image": "https://resizing.flixster.com/CIo3clrYFFdR9Qyb_d0eOEqaJgc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG003F4MC3.jpg"
-        },
-        {
           "id": "albert_finney",
           "name": "Albert Finney",
           "character": "",
@@ -933,6 +927,12 @@
           "name": "Rosemary Harris",
           "character": "",
           "image": "https://resizing.flixster.com/bSRPrBf4mxoATECouH9uvVL6AdU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/85608_v9_bb.jpg"
+        },
+        {
+          "id": "brian-f-obyrne",
+          "name": "Brian F. O'Byrne",
+          "character": "",
+          "image": "https://resizing.flixster.com/xTulU5Xs7C8JZNVCkgsn2QRGkTo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/230533_v9_bb.jpg"
         }
       ],
       "keywords": [],
@@ -947,13 +947,17 @@
           "url": "https://athome.fandango.com/content/browse/details/Before-the-Devil-Knows-Youre-Dead/132170?cmp=rt_where_to_watch"
         },
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Hulu",
           "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-22T13:05:15.598006Z"
+      "scraped_at": "2026-09-03T04:42:13.930477Z"
     },
     {
       "id": "boon",

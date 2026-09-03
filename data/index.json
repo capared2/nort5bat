@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-01T21:13:13.018026Z",
-  "total_titles": 20130,
+  "generated_at": "2026-09-03T04:45:49.153969Z",
+  "total_titles": 20132,
   "total_genres": 27,
   "genres": [
     {
@@ -591,7 +591,7 @@
     {
       "genre": "documentary",
       "name": "Documentary",
-      "titles": 2602,
+      "titles": 2603,
       "files": [
         {
           "file": "titulos/documentary/part-0001.json",
@@ -767,10 +767,10 @@
         },
         {
           "file": "titulos/documentary/part-0044.json",
-          "count": 22
+          "count": 23
         }
       ],
-      "tagged": 3528
+      "tagged": 3529
     },
     {
       "genre": "action",
@@ -1095,7 +1095,7 @@
     {
       "genre": "crime",
       "name": "Crime",
-      "titles": 1216,
+      "titles": 1217,
       "files": [
         {
           "file": "titulos/crime/part-0001.json",
@@ -1179,7 +1179,7 @@
         },
         {
           "file": "titulos/crime/part-0021.json",
-          "count": 16
+          "count": 17
         }
       ],
       "tagged": 1269
