@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-09-04T11:26:56.878790Z",
+  "updated_at": "2026-09-04T16:33:16.259819Z",
   "titles": [
     {
       "id": "1200743-wrecking_crew",
@@ -1791,10 +1791,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Everything-The-Real-Thing-Story/5124872?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T02:05:01.356732Z"
+      "scraped_at": "2026-09-04T16:33:10.296391Z"
     },
     {
       "id": "folklore_the_long_pond_studio_sessions",

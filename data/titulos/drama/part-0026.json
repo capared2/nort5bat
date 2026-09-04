@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-09-04T11:28:57.678264Z",
+  "updated_at": "2026-09-04T16:30:54.285200Z",
   "titles": [
     {
       "id": "10007886-the_tigers_tail",
@@ -2265,10 +2265,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HG3H65VV/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T18:57:43.513528Z"
+      "scraped_at": "2026-09-04T16:26:49.181549Z"
     },
     {
       "id": "enactment",
@@ -2344,7 +2349,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T02:02:13.249506Z"
+      "scraped_at": "2026-09-04T16:30:18.986135Z"
     },
     {
       "id": "governess",
