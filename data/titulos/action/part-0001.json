@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-03T21:11:14.514891Z",
+  "updated_at": "2026-09-04T04:40:26.782059Z",
   "titles": [
     {
       "id": "10000_bc",
@@ -1777,7 +1777,7 @@
       "runtime_minutes": 130,
       "certificate": "PG-13",
       "rating": 6.9,
-      "votes": 4900,
+      "votes": 4901,
       "tomatometer": 83,
       "tomatometer_count": 311,
       "tomatometer_certified": true,
@@ -1883,11 +1883,23 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/80999009?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:10:50.012569Z"
+      "scraped_at": "2026-09-04T04:40:05.929076Z"
     },
     {
       "id": "eternal_code",

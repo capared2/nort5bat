@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 45,
-  "updated_at": "2026-09-03T21:11:15.619410Z",
+  "updated_at": "2026-09-04T04:46:28.970609Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -810,7 +810,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:06:19.933351Z"
+      "scraped_at": "2026-09-04T04:38:37.538805Z"
     },
     {
       "id": "dark_hollow",
@@ -823,25 +823,25 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": null,
-      "certificate": "In Theaters Sep 4",
+      "runtime_minutes": 95,
+      "certificate": "Sep 2026",
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
       "metascore": null,
       "plot": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family.",
       "tagline": "",
-      "poster": "https://resizing.flixster.com/AHBrZJqpNJ5E8A5r6FNgPawQc_s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33523872_p_v8_aa.jpg",
+      "poster": "https://resizing.flixster.com/gFne3f6hbWeGf_zSDstAnx8Y_Xk=/300x450/v2/https://resizing.flixster.com/M3-AkyGgCkdePuM1fx9l-Jm9aQI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiOWE4NmQ3LWQ3ZTctNGNhYi1hMzBiLWE1MjBjZDgxNTRjMS5qcGc=",
       "images": [
         {
-          "url": "https://resizing.flixster.com/AHBrZJqpNJ5E8A5r6FNgPawQc_s=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33523872_p_v8_aa.jpg",
+          "url": "https://resizing.flixster.com/gFne3f6hbWeGf_zSDstAnx8Y_Xk=/300x450/v2/https://resizing.flixster.com/M3-AkyGgCkdePuM1fx9l-Jm9aQI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiOWE4NmQ3LWQ3ZTctNGNhYi1hMzBiLWE1MjBjZDgxNTRjMS5qcGc=",
           "caption": ""
         },
         {
@@ -849,11 +849,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/nUIksvtBP_p57jiU0WBzofaTnNg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33523872_p_v8_aa.jpg",
-          "caption": "Dark Hollow (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/AuEciHNXHJ5cvuFNEizMqlIHVa0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33523872_v_v8_aa.jpg",
+          "url": "https://resizing.flixster.com/mK-LAYGYVSifYc8omDxmtPWLFlM=/fit-in/705x460/v2/https://resizing.flixster.com/M3-AkyGgCkdePuM1fx9l-Jm9aQI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiOWE4NmQ3LWQ3ZTctNGNhYi1hMzBiLWE1MjBjZDgxNTRjMS5qcGc=",
           "caption": ""
         },
         {
@@ -889,14 +885,14 @@
           "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         },
         {
-          "id": "jonathan_spivey",
-          "name": "Jonathan Spivey",
+          "id": "undefined",
+          "name": "Brennon Weese",
           "character": "",
           "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         },
         {
-          "id": "sean_michael_wilkinson",
-          "name": "Sean-Michael Wilkinson",
+          "id": "undefined",
+          "name": "Ian Deighan",
           "character": "",
           "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         }
@@ -907,10 +903,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dark-Hollow/5016375?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T02:03:23.058506Z"
+      "scraped_at": "2026-09-04T04:43:47.264483Z"
     },
     {
       "id": "dark_match",
@@ -1046,7 +1047,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:06:23.110730Z"
+      "scraped_at": "2026-09-04T04:43:50.596893Z"
     },
     {
       "id": "day_of_the_wicked",
@@ -1111,7 +1112,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:06:27.072692Z"
+      "scraped_at": "2026-09-04T04:45:05.964229Z"
     },
     {
       "id": "death_bitch",

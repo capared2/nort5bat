@@ -2,7 +2,7 @@
   "genre": "animation",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-03T16:34:58.732520Z",
+  "updated_at": "2026-09-04T04:40:26.814616Z",
   "titles": [
     {
       "id": "abominable",
@@ -331,18 +331,18 @@
         "Adventure",
         "Animation"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 101,
       "certificate": "PG",
-      "rating": 7.8,
-      "votes": null,
+      "rating": 7.9,
+      "votes": 2006,
       "tomatometer": 96,
-      "tomatometer_count": 90,
+      "tomatometer_count": 238,
       "tomatometer_certified": true,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 95,
+      "audience_count": 576,
       "metascore": null,
       "plot": "After decades of being blown to bits by bombs, demolished by dynamite, mangled by magnets, battered by boulders, trampled by trains, tricked by tunnels, sprung by springs, steamrolled by steamrollers, maligned by misfires, bedeviled by bungees, rattled by rockets, backstabbed by bat suits, rocked by rocket skates, upended by unicycles, quaked by quake pills, rubberized by rogue bands, and hurled headlong off every cliff in the Southwest, Wile E. Coyote (Genius) finally fights back. Teaming up with billboard accident lawyer Kevin Avery (Will Forte), he takes on slick corporate counsel Buddy Crane (John Cena) and ACME, Inc., the profit-obsessed conglomerate behind every one of the Coyote's chaotic catastrophes.",
       "tagline": "",
@@ -410,10 +410,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Coyote-vs-Acme/5151200?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T07:10:08.876197Z"
+      "scraped_at": "2026-09-04T04:39:25.806476Z"
     },
     {
       "id": "despicable_me_2",

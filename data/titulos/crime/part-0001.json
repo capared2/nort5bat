@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-03T16:36:59.381739Z",
+  "updated_at": "2026-09-04T04:46:30.129993Z",
   "titles": [
     {
       "id": "1002531-black_widow",
@@ -1429,18 +1429,18 @@
         "Drama",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 120,
-      "certificate": null,
+      "certificate": "Aug 2026",
       "rating": null,
-      "votes": null,
+      "votes": 11,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 9,
       "metascore": null,
       "plot": "After toiling for minimum wage at a porn shop, Jeff gets an unexpected offer to join a new, illegal, crime scene cleanup company. The upside? A chance to make quick cash in a field with little competition. The downside? Everything else....",
       "tagline": "",
@@ -1452,10 +1452,6 @@
         },
         {
           "url": "https://resizing.flixster.com/qfrMcLK9as_eo1OC5Zi-iBCYD6w=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/528/35/thumb_1F3C25DC-4D3E-4716-9AEB-F5447904EBC4.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/0s-je3NHwACaG_TNayBDydD9i1o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33521047_v_v12_aa.jpg",
           "caption": ""
         },
         {
@@ -1517,10 +1513,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HC81KY2N/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/dead-janitors-club/umc.cmc.158vrjh7htg1eejt2x6ncrn3d?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T13:08:28.251655Z"
+      "scraped_at": "2026-09-04T04:45:40.766093Z"
     },
     {
       "id": "delias_gone",
