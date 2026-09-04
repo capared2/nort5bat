@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-09-03T21:09:14.677468Z",
+  "updated_at": "2026-09-04T11:26:57.494074Z",
   "titles": [
     {
       "id": "10010153-bitch_slap",
@@ -2199,10 +2199,10 @@
       "release_date": null,
       "runtime_minutes": 89,
       "certificate": "R",
-      "rating": 3.4,
+      "rating": 3.6,
       "votes": 1001,
       "tomatometer": 0,
-      "tomatometer_count": 7,
+      "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": 35,
       "audience_count": 265,
@@ -2300,7 +2300,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T13:09:56.338451Z"
+      "scraped_at": "2026-09-04T11:23:16.749676Z"
     },
     {
       "id": "desert_heat",
@@ -2402,13 +2402,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HF8JQ9Z1/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/inferno/umc.cmc.7a1a5wlx3cns30l58jw75bwld?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-23T13:11:49.062856Z"
+      "scraped_at": "2026-09-04T11:25:08.619328Z"
     },
     {
       "id": "drop_zone",
