@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 21,
   "count": 17,
-  "updated_at": "2026-09-03T21:13:15.894322Z",
+  "updated_at": "2026-09-04T20:50:13.016094Z",
   "titles": [
     {
       "id": "by_any_means_2026",
@@ -261,14 +261,14 @@
       "runtime_minutes": 91,
       "certificate": null,
       "rating": null,
-      "votes": 24,
+      "votes": 87,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 5,
+      "audience_score": 77,
+      "audience_count": 23,
       "metascore": null,
-      "plot": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss in this crime drama based on true events.",
+      "plot": "Mexico, 2016. A routine night patrol explodes into chaos when two cops collide with an enemy, one of the world's most feared cartel leaders.",
       "tagline": "",
       "poster": "https://resizing.flixster.com/-8yGCjTNiTPTzJ3zMyiEq2syESw=/300x450/v2/https://resizing.flixster.com/2uXvuAJPcg0h7E5MwKKiyLcqiuA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzExYmM0ZGEyLTMwM2ItNDIwNy1hZWEyLWQ0MDllMTE4ZDQ3My5qcGc=",
       "images": [
@@ -323,6 +323,18 @@
           "name": "Héctor Kotsifakis",
           "character": "",
           "image": "https://resizing.flixster.com/Ebcr9PALQNUwVvm5kTopi6F7EOg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/620372_v9_ba.jpg"
+        },
+        {
+          "id": "antonio_fortier",
+          "name": "Antonio Fortier",
+          "character": "",
+          "image": "https://resizing.flixster.com/JaXsUD61y2fhu0aRrwJ2-P-ksi8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1302416_v9_aa.jpg"
+        },
+        {
+          "id": "fernando_cuautle",
+          "name": "Fernando Cuautle",
+          "character": "",
+          "image": "https://resizing.flixster.com/XmKfB2VAPbobewSxeqA_63xgMAI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1545042_v9_aa.jpg"
         }
       ],
       "keywords": [],
@@ -334,12 +346,12 @@
       "streaming": [
         {
           "name": "Netflix",
-          "url": "https://www.netflix.com/title/82048151?cmp=rt_where_to_watch"
+          "url": "https://www.netflix.com/watch/82048151?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T02:08:12.748795Z"
+      "scraped_at": "2026-09-04T20:49:41.714315Z"
     },
     {
       "id": "im_game",

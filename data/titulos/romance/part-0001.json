@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-04T16:32:55.204223Z",
+  "updated_at": "2026-09-04T20:56:14.039452Z",
   "titles": [
     {
       "id": "a_family_affair_2024_2",
@@ -1667,18 +1667,18 @@
         "Romance",
         "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 111,
       "certificate": "PG-13",
-      "rating": 7.2,
-      "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 31,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "rating": 7.0,
+      "votes": 115,
+      "tomatometer": 89,
+      "tomatometer_count": 71,
+      "tomatometer_certified": true,
+      "audience_score": 88,
+      "audience_count": 24,
       "metascore": null,
       "plot": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along the way.",
       "tagline": "",
@@ -1773,10 +1773,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Finding-Emily/5145394?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T07:33:51.768404Z"
+      "scraped_at": "2026-09-04T20:53:59.894688Z"
     },
     {
       "id": "firebird_2022",
@@ -1909,7 +1914,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T07:34:27.582892Z"
+      "scraped_at": "2026-09-04T20:54:36.214019Z"
     },
     {
       "id": "french_girl",

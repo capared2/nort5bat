@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-09-04T16:28:53.137082Z",
+  "updated_at": "2026-09-04T20:56:14.340793Z",
   "titles": [
     {
       "id": "1006416-east_of_eden",
@@ -2300,10 +2300,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HGYCDZPR/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T07:31:36.834071Z"
+      "scraped_at": "2026-09-04T20:51:45.784703Z"
     },
     {
       "id": "five_days_one_summer",
@@ -2407,7 +2412,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T07:35:14.379471Z"
+      "scraped_at": "2026-09-04T20:55:22.865636Z"
     },
     {
       "id": "friday_night_lights",

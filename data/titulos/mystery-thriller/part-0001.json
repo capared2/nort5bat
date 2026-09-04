@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-04T16:32:55.868705Z",
+  "updated_at": "2026-09-04T20:52:12.480763Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -1828,8 +1828,8 @@
       "certificate": "PG-13",
       "rating": 6.4,
       "votes": 529,
-      "tomatometer": 79,
-      "tomatometer_count": 150,
+      "tomatometer": 80,
+      "tomatometer_count": 153,
       "tomatometer_certified": true,
       "audience_score": 79,
       "audience_count": 268,
@@ -1935,15 +1935,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Fall/2067973?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Netflix",
-          "url": "https://www.netflix.com/watch/81619345?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T02:07:07.512414Z"
+      "scraped_at": "2026-09-04T20:50:11.708716Z"
     },
     {
       "id": "fall_2_deadpoint",
@@ -1957,18 +1953,18 @@
         "Adventure",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": null,
+      "runtime_minutes": 97,
       "certificate": "PG-13",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
+      "rating": 5.2,
+      "votes": 70,
+      "tomatometer": 58,
+      "tomatometer_count": 24,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 25,
       "metascore": null,
       "plot": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
       "tagline": "",
@@ -2057,10 +2053,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Fall-2-Deadpoint/5134780?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T02:07:08.514403Z"
+      "scraped_at": "2026-09-04T20:50:13.231749Z"
     },
     {
       "id": "glass_onion_a_knives_out_mystery",
