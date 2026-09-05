@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 20,
   "count": 60,
-  "updated_at": "2026-09-05T10:47:45.719941Z",
+  "updated_at": "2026-09-05T15:25:42.940992Z",
   "titles": [
     {
       "id": "10008706-house",
@@ -3206,7 +3206,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T19:08:10.312729Z"
+      "scraped_at": "2026-09-05T15:18:19.804666Z"
     },
     {
       "id": "hills_have_eyes_the_pt_2",
@@ -3224,12 +3224,12 @@
       "runtime_minutes": 88,
       "certificate": "R",
       "rating": 2.9,
-      "votes": 743,
+      "votes": 747,
       "tomatometer": 13,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": 19,
-      "audience_count": 312,
+      "audience_count": 313,
       "metascore": null,
       "plot": "It's been eight years since Bobby (John Laughlin) barely survived being terrorized and held captive by a group of desert-dwelling cannibals. The rest of his family weren't as lucky. Bobby now runs a Motocross shop with Ruby (Willard Pugh), one of the cannibals who kept him captive but later turned on her family. Both have tried to heal their pain. But the past comes raging back when Bobby and Ruby return to the desert with bikers they're sponsoring, and Ruby's family reappear to kill again.",
       "tagline": "",
@@ -3306,10 +3306,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Hills-Have-Eyes-Part-II/5024797?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T01:56:26.842413Z"
+      "scraped_at": "2026-09-05T15:21:52.237990Z"
     },
     {
       "id": "horror_express",
@@ -3417,7 +3422,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T01:58:58.863489Z"
+      "scraped_at": "2026-09-05T15:24:24.281253Z"
     },
     {
       "id": "howling",

@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-09-05T10:41:42.772922Z",
+  "updated_at": "2026-09-05T15:23:41.537672Z",
   "titles": [
     {
       "id": "a_classic_horror_story",
@@ -2238,7 +2238,7 @@
       "runtime_minutes": 97,
       "certificate": null,
       "rating": 5.1,
-      "votes": 1789,
+      "votes": 1790,
       "tomatometer": 47,
       "tomatometer_count": 38,
       "tomatometer_certified": false,
@@ -2339,7 +2339,11 @@
       "streaming": [
         {
           "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0DPFWDPHD/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+          "url": "http://www.amazon.com/gp/product/B0D6NV4D45/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         },
         {
           "name": "Apple TV",
@@ -2348,7 +2352,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T19:07:41.147489Z"
+      "scraped_at": "2026-09-05T15:17:50.296736Z"
     },
     {
       "id": "headspace",
@@ -2449,7 +2453,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T19:08:15.552209Z"
+      "scraped_at": "2026-09-05T15:18:24.926512Z"
     },
     {
       "id": "held",
@@ -2578,7 +2582,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T19:09:08.163772Z"
+      "scraped_at": "2026-09-05T15:19:16.840940Z"
     },
     {
       "id": "history_of_evil",
@@ -2713,7 +2717,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T01:56:43.959510Z"
+      "scraped_at": "2026-09-05T15:22:09.058658Z"
     },
     {
       "id": "invoking_yell",
