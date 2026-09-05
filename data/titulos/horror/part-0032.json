@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 32,
   "count": 60,
-  "updated_at": "2026-09-04T16:32:56.463533Z",
+  "updated_at": "2026-09-05T10:45:44.831617Z",
   "titles": [
     {
       "id": "10004697-eternal",
@@ -2514,12 +2514,12 @@
       "runtime_minutes": 87,
       "certificate": "R",
       "rating": 6.6,
-      "votes": 586,
+      "votes": 587,
       "tomatometer": 60,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
       "audience_score": 49,
-      "audience_count": 217,
+      "audience_count": 218,
       "metascore": null,
       "plot": "On a warm summer night in 1816 at the Swiss lakeside château of Lord Byron (Gabriel Byrne), the poet and his guests -- Percy Bysshe Shelley (Julian Sands) ; his fiancée, Mary Wollstonecraft (Natasha Richardson) ; her half-sister, Claire (Myriam Cyr) ; and his private doctor John Polidori (Timothy Spall) -- spend the evening sharing ghost stories while under the influence of experimental compounds provided by the doctor. As the night goes on, reality and the horrific tales begin to commingle.",
       "tagline": "",
@@ -2596,10 +2596,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Gothic/7214?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T19:02:04.669875Z"
+      "scraped_at": "2026-09-05T10:42:41.625652Z"
     },
     {
       "id": "greywoods_plot",
@@ -2715,7 +2720,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-24T19:03:29.353949Z"
+      "scraped_at": "2026-09-05T10:44:07.562936Z"
     },
     {
       "id": "hosts",
