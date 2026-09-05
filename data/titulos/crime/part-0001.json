@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-05T15:23:42.251551Z",
+  "updated_at": "2026-09-05T20:31:36.821140Z",
   "titles": [
     {
       "id": "1002531-black_widow",
@@ -2629,18 +2629,18 @@
         "Comedy",
         "Crime"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 98,
       "certificate": "R",
-      "rating": 6.5,
-      "votes": null,
-      "tomatometer": 68,
-      "tomatometer_count": 31,
+      "rating": 6.1,
+      "votes": 142,
+      "tomatometer": 61,
+      "tomatometer_count": 72,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 58,
+      "audience_count": 31,
       "metascore": null,
       "plot": "Two unqualified bozos (Dave Franco and O'Shea Jackson Jr.) are hired to transfer a rich teen (Mason Thames) to rehab when their straightforward gig quickly spirals into dangerous mayhem.",
       "tagline": "",
@@ -2739,10 +2739,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Idiots/5094241?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T07:12:12.393239Z"
+      "scraped_at": "2026-09-05T20:29:37.538732Z"
     },
     {
       "id": "illusions_for_sale_the_rise_and_fall_of_generation_zoe",
@@ -2812,7 +2817,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T07:12:49.356752Z"
+      "scraped_at": "2026-09-05T20:30:15.982076Z"
     },
     {
       "id": "john_wick_chapter_3_parabellum",
