@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-06T11:05:38.300886Z",
+  "updated_at": "2026-09-06T15:38:39.037618Z",
   "titles": [
     {
       "id": "1200731-robocop",
@@ -3720,18 +3720,18 @@
         "Fantasy",
         "Sci-Fi"
       ],
-      "year": null,
+      "year": 2024,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 97,
       "certificate": "R",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 1,
+      "rating": 4.4,
+      "votes": 189,
+      "tomatometer": 10,
+      "tomatometer_count": 10,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 77,
+      "audience_count": 92,
       "metascore": null,
       "plot": "Jason David Frank is the White Dragon. Forced to hide in the shadows, fugitive hero Erik Reed must clear his name to reunite with his family. Standing in his way is a mysterious villain obsessed with destroying the White Dragon for good.",
       "tagline": "",
@@ -3785,6 +3785,10 @@
         {
           "id": "aaron_schoenke",
           "name": "Aaron Schoenke"
+        },
+        {
+          "id": "sean_schoenke",
+          "name": "Sean Schoenke"
         }
       ],
       "writers": [],
@@ -3812,12 +3816,6 @@
           "name": "Rachele Brooke Smith",
           "character": "",
           "image": "https://resizing.flixster.com/0grdVTSJRQUjNTwdkqMGMrd-mFY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/539902_v9_bd.jpg"
-        },
-        {
-          "id": "michael_madsen",
-          "name": "Michael Madsen",
-          "character": "",
-          "image": "https://resizing.flixster.com/fX0aem-QixOo490y6iyxa542zXU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71912_v9_bb.jpg"
         }
       ],
       "keywords": [],
@@ -3826,10 +3824,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Legend-of-the-White-Dragon/5070010?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T19:06:58.917225Z"
+      "scraped_at": "2026-09-06T15:32:02.996063Z"
     },
     {
       "id": "light_years",
@@ -3842,15 +3845,15 @@
         "Sci-Fi",
         "Animation"
       ],
-      "year": null,
+      "year": 1987,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 78,
       "certificate": "PG",
       "rating": null,
-      "votes": 227,
+      "votes": 228,
       "tomatometer": null,
-      "tomatometer_count": 3,
+      "tomatometer_count": 4,
       "tomatometer_certified": false,
       "audience_score": 72,
       "audience_count": 68,
@@ -3919,10 +3922,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DGB2Y47B/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T02:02:16.755896Z"
+      "scraped_at": "2026-09-06T15:34:45.250790Z"
     },
     {
       "id": "lilo_and_stitch_2025",
@@ -4054,7 +4062,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T02:02:42.366848Z"
+      "scraped_at": "2026-09-06T15:35:10.831852Z"
     },
     {
       "id": "live_die_repeat_edge_of_tomorrow",
@@ -4074,12 +4082,12 @@
       "runtime_minutes": 113,
       "certificate": "PG-13",
       "rating": 7.5,
-      "votes": 73663,
+      "votes": 73670,
       "tomatometer": 91,
-      "tomatometer_count": 339,
+      "tomatometer_count": 340,
       "tomatometer_certified": true,
       "audience_score": 90,
-      "audience_count": 8651,
+      "audience_count": 8650,
       "metascore": null,
       "plot": "When Earth falls under attack from invincible aliens, no military unit in the world is able to beat them. Maj. William Cage (Tom Cruise), an officer who has never seen combat, is assigned to a suicide mission. Killed within moments, Cage finds himself thrown into a time loop, in which he relives the same brutal fight -- and his death -- over and over again. However, Cage's fighting skills improve with each encore, bringing him and a comrade (Emily Blunt) ever closer to defeating the aliens.",
       "tagline": "",
@@ -4182,11 +4190,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Live-Die-Repeat-Edge-of-Tomorrow/538453?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T02:04:20.635677Z"
+      "scraped_at": "2026-09-06T15:36:50.664676Z"
     },
     {
       "id": "mad_max_fury_road",

@@ -1,7 +1,7 @@
 {
   "genre": "drama",
   "name": "Drama",
-  "count": 8881,
+  "count": 8880,
   "titles": [
     {
       "id": "titanic",
@@ -66,7 +66,7 @@
         "Drama"
       ],
       "rating": 4.6,
-      "votes": 298840,
+      "votes": 298844,
       "tomatometer": 26,
       "audience_score": 75,
       "runtime_minutes": 108,
@@ -457,7 +457,7 @@
         "Drama"
       ],
       "rating": 8.0,
-      "votes": 132122,
+      "votes": 132127,
       "tomatometer": 91,
       "audience_score": 91,
       "runtime_minutes": 102,
@@ -2285,7 +2285,7 @@
         "Mystery & Thriller"
       ],
       "rating": 7.9,
-      "votes": 67719,
+      "votes": 67722,
       "tomatometer": 86,
       "audience_score": 84,
       "runtime_minutes": 125,
@@ -2888,7 +2888,7 @@
         "Biography"
       ],
       "rating": 8.1,
-      "votes": 60520,
+      "votes": 60521,
       "tomatometer": 90,
       "audience_score": 80,
       "runtime_minutes": 149,
@@ -4181,29 +4181,6 @@
       ]
     },
     {
-      "id": "lone_survivor",
-      "category": "war",
-      "type": "movie",
-      "title": "Lone Survivor",
-      "original_title": "Lone Survivor",
-      "year": 2014,
-      "genres": [
-        "War",
-        "Drama"
-      ],
-      "rating": 6.6,
-      "votes": 46844,
-      "tomatometer": 75,
-      "audience_score": 87,
-      "runtime_minutes": 121,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/B9-e0biZaT0t60nT_-tqWE81KtA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10020958_p_v11_aa.jpg",
-      "plot": "In 2005 Afghanistan, Navy SEALs Marcus Luttrell (Mark Wahlberg), Michael Murphy (Taylor Kitsch), Danny Dietz (Emile Hirsch) and Matthew \"Axe\" Axelson (Ben Foster) deploy on a mission of surveillance…",
-      "directors": [
-        "Peter Berg"
-      ]
-    },
-    {
       "id": "hugo",
       "category": "fantasy",
       "type": "movie",
@@ -4805,6 +4782,30 @@
       "plot": "Just as he is on the brink of winning a Senate seat, politician David Norris meets a ballerina named Elise Sellas. Though David is instantly smitten, mysterious men conspire to keep him away from the…",
       "directors": [
         "George Nolfi"
+      ]
+    },
+    {
+      "id": "hotel_rwanda",
+      "category": "history",
+      "type": "movie",
+      "title": "Hotel Rwanda",
+      "original_title": "Hotel Rwanda",
+      "year": 2004,
+      "genres": [
+        "Biography",
+        "History",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "votes": 42635,
+      "tomatometer": 91,
+      "audience_score": 94,
+      "runtime_minutes": 121,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/g924D2G7QIsGPGbvwuj9MXssAJY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p35240_p_v10_at.jpg",
+      "plot": "Hutu Paul Rusesabagina manages the Hôtel des Mille Collines and lives a happy life with his Tutsi wife and their three children, but when Hutu military forces initiate a campaign of ethnic cleansing…",
+      "directors": [
+        "Terry George"
       ]
     }
   ]

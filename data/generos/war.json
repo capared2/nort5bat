@@ -1,7 +1,7 @@
 {
   "genre": "war",
   "name": "War",
-  "count": 305,
+  "count": 304,
   "titles": [
     {
       "id": "300",
@@ -504,29 +504,6 @@
       ]
     },
     {
-      "id": "lone_survivor",
-      "category": "war",
-      "type": "movie",
-      "title": "Lone Survivor",
-      "original_title": "Lone Survivor",
-      "year": 2014,
-      "genres": [
-        "War",
-        "Drama"
-      ],
-      "rating": 6.6,
-      "votes": 46844,
-      "tomatometer": 75,
-      "audience_score": 87,
-      "runtime_minutes": 121,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/B9-e0biZaT0t60nT_-tqWE81KtA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10020958_p_v11_aa.jpg",
-      "plot": "In 2005 Afghanistan, Navy SEALs Marcus Luttrell (Mark Wahlberg), Michael Murphy (Taylor Kitsch), Danny Dietz (Emile Hirsch) and Matthew \"Axe\" Axelson (Ben Foster) deploy on a mission of surveillance…",
-      "directors": [
-        "Peter Berg"
-      ]
-    },
-    {
       "id": "1098149-patriot",
       "category": "war",
       "type": "movie",
@@ -688,7 +665,7 @@
         "Drama"
       ],
       "rating": 8.5,
-      "votes": 28373,
+      "votes": 28374,
       "tomatometer": 91,
       "audience_score": 86,
       "runtime_minutes": 141,
@@ -1007,7 +984,7 @@
         "War"
       ],
       "rating": 6.4,
-      "votes": 20056,
+      "votes": 20059,
       "tomatometer": 61,
       "audience_score": 87,
       "runtime_minutes": 134,
@@ -1771,7 +1748,7 @@
         "Drama"
       ],
       "rating": 7.5,
-      "votes": 4470,
+      "votes": 4472,
       "tomatometer": 83,
       "audience_score": 90,
       "runtime_minutes": 180,
@@ -4847,6 +4824,30 @@
       "directors": [
         "David Salzberg",
         "Christian Tureaud"
+      ]
+    },
+    {
+      "id": "the_eight_hundred",
+      "category": "war",
+      "type": "movie",
+      "title": "The Eight Hundred",
+      "original_title": "The Eight Hundred",
+      "year": 2021,
+      "genres": [
+        "War",
+        "History",
+        "Drama"
+      ],
+      "rating": 6.7,
+      "votes": 143,
+      "tomatometer": 89,
+      "audience_score": 78,
+      "runtime_minutes": 147,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Qyz4maTQEpir2Zo8OvxCYSDT3HU=/300x450/v2/https://resizing.flixster.com/C9w_dJck7nCN8nJ4NPb8bDmQAoM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzNDI4NzEwLWVlMmYtNDY5ZC1iZTM5LTRjNzI3NWZlODRmOC5qcGc=",
+      "plot": "In 1937 a group of Chinese soldiers and draft dodgers puts up a four-day defense of a Shanghai warehouse complex just as Japanese forces are overwhelming China.",
+      "directors": [
+        "Hu Guan"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-06T04:52:22.158070Z",
+  "generated_at": "2026-09-06T15:39:02.371409Z",
   "total_titles": 20137,
   "total_genres": 27,
   "genres": [
@@ -230,7 +230,7 @@
           "count": 50
         }
       ],
-      "tagged": 8881
+      "tagged": 8880
     },
     {
       "genre": "comedy",
@@ -1471,7 +1471,7 @@
     {
       "genre": "war",
       "name": "War",
-      "titles": 296,
+      "titles": 295,
       "files": [
         {
           "file": "titulos/war/part-0001.json",
@@ -1479,7 +1479,7 @@
         },
         {
           "file": "titulos/war/part-0002.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/war/part-0003.json",
@@ -1494,7 +1494,7 @@
           "count": 56
         }
       ],
-      "tagged": 305
+      "tagged": 304
     },
     {
       "genre": "musical",
@@ -1589,8 +1589,13 @@
     {
       "genre": "other",
       "name": "Other",
-      "titles": 0,
-      "files": [],
+      "titles": 1,
+      "files": [
+        {
+          "file": "titulos/other/part-0001.json",
+          "count": 1
+        }
+      ],
       "tagged": 19
     },
     {
