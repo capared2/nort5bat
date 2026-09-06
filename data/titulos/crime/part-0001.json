@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-06T04:52:19.962219Z",
+  "updated_at": "2026-09-06T11:07:40.343266Z",
   "titles": [
     {
       "id": "1002531-black_widow",
@@ -3105,18 +3105,18 @@
         "Crime",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": 116,
-      "certificate": null,
+      "runtime_minutes": 96,
+      "certificate": "R",
       "rating": null,
-      "votes": null,
+      "votes": 14,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 4,
       "metascore": null,
       "plot": "Wealthy criminal mastermind Jack Wolfe (Samuel L. Jackson) is cornered by the Feds, but you can't arrest a dead man. His plan? Fake his death, claim a $30 million insurance payout with his grieving wife Nora (Eva Green), and frame her surfer lover Chad. But Nora, suffocated by Jack's ruthless control, has her own scheme: kill Jack for real, frame Chad, and keep the fortune for herself. Jack, always a step ahead, sets a deadly trap, turning the unsuspecting lovers against each other.",
       "tagline": "",
@@ -3211,10 +3211,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Just-Play-Dead/5069846?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T13:19:52.245105Z"
+      "scraped_at": "2026-09-06T11:01:53.832264Z"
     },
     {
       "id": "killers_of_the_flower_moon",
@@ -3235,7 +3240,7 @@
       "rating": 8.5,
       "votes": 3231,
       "tomatometer": 93,
-      "tomatometer_count": 474,
+      "tomatometer_count": 475,
       "tomatometer_certified": true,
       "audience_score": 84,
       "audience_count": 1570,
@@ -3349,7 +3354,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T13:22:16.207242Z"
+      "scraped_at": "2026-09-06T11:04:17.446907Z"
     },
     {
       "id": "knives_out",
@@ -3482,7 +3487,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T19:01:18.921073Z"
+      "scraped_at": "2026-09-06T11:05:48.003806Z"
     },
     {
       "id": "lifehack",
