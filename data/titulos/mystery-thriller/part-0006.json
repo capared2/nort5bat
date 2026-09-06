@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-09-06T04:47:53.719130Z",
+  "updated_at": "2026-09-06T20:29:13.116518Z",
   "titles": [
     {
       "id": "1046129-fugitive",
@@ -3961,7 +3961,12 @@
         }
       ],
       "trailer": null,
-      "directors": [],
+      "directors": [
+        {
+          "id": "peter_sehr",
+          "name": "Peter Sehr"
+        }
+      ],
       "writers": [],
       "cast": [
         {
@@ -4004,7 +4009,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T02:08:22.212043Z"
+      "scraped_at": "2026-09-06T20:29:02.955296Z"
     },
     {
       "id": "mechanic",

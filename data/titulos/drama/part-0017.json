@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-09-06T11:05:38.571865Z",
+  "updated_at": "2026-09-06T20:33:14.499177Z",
   "titles": [
     {
       "id": "10008618-return",
@@ -4196,10 +4196,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GY4DJXR9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T02:08:17.695499Z"
+      "scraped_at": "2026-09-06T20:28:59.465150Z"
     },
     {
       "id": "lucky_you",
@@ -4323,7 +4328,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T02:09:21.115604Z"
+      "scraped_at": "2026-09-06T20:29:59.793289Z"
     },
     {
       "id": "man_from_elysian_fields",
@@ -4341,7 +4346,7 @@
       "runtime_minutes": 105,
       "certificate": "R",
       "rating": 6.1,
-      "votes": 236,
+      "votes": 237,
       "tomatometer": 52,
       "tomatometer_count": 69,
       "tomatometer_certified": false,
@@ -4447,7 +4452,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T07:14:33.784173Z"
+      "scraped_at": "2026-09-06T20:33:12.766122Z"
     },
     {
       "id": "midnight_cowboy",
