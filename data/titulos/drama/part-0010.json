@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-09-05T15:25:42.431535Z",
+  "updated_at": "2026-09-06T04:47:53.096231Z",
   "titles": [
     {
       "id": "10008703-rails_and_ties",
@@ -2542,10 +2542,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/james-white--1028857?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T13:14:56.073890Z"
+      "scraped_at": "2026-09-06T04:47:36.828112Z"
     },
     {
       "id": "la_familia",

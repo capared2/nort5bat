@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-05T20:31:37.831345Z",
+  "updated_at": "2026-09-06T04:51:56.670668Z",
   "titles": [
     {
       "id": "1211483-howl",
@@ -2935,7 +2935,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/TQja_K0L3XLNv5q8BbM-45OVCew=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p21674973_i_h10_aa.jpg",
+          "url": "https://resizing.flixster.com/mYU2sEQFY0gsdU3ekj2dR_kIqwA=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/334/735/thumb_4B3385F6-C446-4502-8A2F-BC877115076E.jpg",
           "caption": ""
         },
         {
@@ -2955,7 +2955,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "qshFcqEt6XLA",
+        "title": "José Feliciano: Behind This Guitar: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/334/735/thumb_4B3385F6-C446-4502-8A2F-BC877115076E.jpg",
+        "seconds": 147,
+        "src": "https://link.theplatform.com/s/NGweTC/media/qshFcqEt6XLA?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "frank_licari",
@@ -2980,13 +2986,13 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Prime Video",
-          "url": "https://www.amazon.com/gp/video/detail/B0FHDHR6LV?cmp=rt_where_to_watch&tag=rottetomao-20"
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Jos-Feliciano-Behind-This-Guitar/5054136?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T13:18:02.570215Z"
+      "scraped_at": "2026-09-06T04:50:42.515379Z"
     },
     {
       "id": "let_the_canary_sing",

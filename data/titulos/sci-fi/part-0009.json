@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-09-05T20:33:39.466570Z",
+  "updated_at": "2026-09-06T04:52:19.651506Z",
   "titles": [
     {
       "id": "1016397-planet_of_the_apes",
@@ -2644,15 +2644,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Stream",
-          "url": "https://athome.fandango.com/content/browse/details/Invaders-from-Proxima-B/3031681?cmp=rt_where_to_watch"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T07:17:29.485551Z"
+      "scraped_at": "2026-09-06T04:44:46.817915Z"
     },
     {
       "id": "jonah_2024",
@@ -2772,7 +2767,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T13:17:54.027937Z"
+      "scraped_at": "2026-09-06T04:50:34.971275Z"
     },
     {
       "id": "jurassic_park",
@@ -2793,12 +2788,12 @@
       "runtime_minutes": 126,
       "certificate": "PG-13",
       "rating": 8.6,
-      "votes": 93153,
+      "votes": 93160,
       "tomatometer": 91,
       "tomatometer_count": 203,
       "tomatometer_certified": true,
       "audience_score": 91,
-      "audience_count": 38395,
+      "audience_count": 38399,
       "metascore": null,
       "plot": "In Steven Spielberg's massive blockbuster, paleontologists Alan Grant (Sam Neill) and Ellie Sattler (Laura Dern) and mathematician Ian Malcolm (Jeff Goldblum) are among a select group chosen to tour an island theme park populated by dinosaurs created from prehistoric DNA. While the park's mastermind, billionaire John Hammond (Richard Attenborough), assures everyone that the facility is safe, they find out otherwise when various ferocious predators break free and go on the hunt.",
       "tagline": "",
@@ -2907,13 +2902,21 @@
           "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
         },
         {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/43795?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Hulu",
           "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/jurassic-park--1072196?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-25T13:19:25.189578Z"
+      "scraped_at": "2026-09-06T04:52:05.720748Z"
     },
     {
       "id": "kin_2018",
