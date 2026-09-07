@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 19,
-  "updated_at": "2026-09-05T20:29:36.697380Z",
+  "updated_at": "2026-09-07T04:53:22.604274Z",
   "titles": [
     {
       "id": "american_summer_2026",
@@ -757,12 +757,12 @@
       "runtime_minutes": 110,
       "certificate": "PG-13",
       "rating": 6.3,
-      "votes": null,
-      "tomatometer": 87,
-      "tomatometer_count": 45,
+      "votes": 394,
+      "tomatometer": 81,
+      "tomatometer_count": 80,
       "tomatometer_certified": true,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 66,
+      "audience_count": 153,
       "metascore": null,
       "plot": "Ryan Reynolds and Kenneth Branagh team up in \"Mayday,\" a genre-bending, action-packed buddy comedy that flips the spy thriller on its head. When hotshot U.S. Navy pilot Lieutenant Troy \"Assassin\" Kelly (Reynolds) is sent on a top-secret mission into Russian territory at the height of the Cold War, the operation implodes, leaving him stranded behind enemy lines. Discovered by Nikolai Ustinov (Branagh), a gruff ex-KGB agent with a penchant for American culture, Troy thinks he's toast -- but could an unlikely alliance between the two lead to Troy's rescue and a bond neither saw coming?",
       "tagline": "",
@@ -843,10 +843,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/mayday/umc.cmc.shin43vzfoz3h4ggx41z8rf?cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:13:36.817452Z"
+      "scraped_at": "2026-09-07T04:48:59.923022Z"
     },
     {
       "id": "millennium_bugs",
@@ -976,7 +981,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T13:21:23.088849Z"
+      "scraped_at": "2026-09-07T04:52:53.345247Z"
     },
     {
       "id": "moonwalkers_2016",
