@@ -1,7 +1,7 @@
 {
   "genre": "sports",
   "name": "Sports",
-  "count": 64,
+  "count": 65,
   "titles": [
     {
       "id": "happy_gilmore",
@@ -1495,6 +1495,27 @@
       "directors": [
         "Greg Browning"
       ]
+    },
+    {
+      "id": "ufc_331_van_vs_pantoja_2",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 331: Van vs. Pantoja 2",
+      "original_title": "UFC 331: Van vs. Pantoja 2",
+      "year": null,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": null,
+      "certificate": "In Theaters Sep 19",
+      "poster": "https://resizing.flixster.com/WVSG3FVAEEbbbK_SpyBAiEYNopU=/300x450/v2/https://resizing.flixster.com/2xsJ5Alxi_iC3rSyeeuuub0wtG8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5MzVhOTBmLWQ0NmUtNGU5Yi05YzNmLWFhNDRkNDczMDRlMi5qcGc=",
+      "plot": "UFC 331: Van vs. Pantoja 2 takes over the Crypto.com Arena in Los Angeles on Saturday, September 19, 2026. The night is headlined by a highly anticipated UFC Flyweight Championship rematch between…",
+      "directors": []
     }
   ]
 }

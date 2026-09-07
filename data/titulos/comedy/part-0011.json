@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 11,
   "count": 60,
-  "updated_at": "2026-09-07T04:55:22.755907Z",
+  "updated_at": "2026-09-07T12:45:54.697377Z",
   "titles": [
     {
       "id": "1008942-greetings",
@@ -5098,10 +5098,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GVC6R781/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-26T20:08:22.409514Z"
+      "scraped_at": "2026-09-07T12:45:09.384296Z"
     },
     {
       "id": "parole_officer",
