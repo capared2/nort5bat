@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 33,
   "count": 60,
-  "updated_at": "2026-09-08T11:29:57.767368Z",
+  "updated_at": "2026-09-08T16:49:56.691613Z",
   "titles": [
     {
       "id": "10009419-mommas_man",
@@ -5102,7 +5102,7 @@
       "runtime_minutes": 119,
       "certificate": "PG",
       "rating": 6.4,
-      "votes": 23560,
+      "votes": 23563,
       "tomatometer": 68,
       "tomatometer_count": 34,
       "tomatometer_certified": false,
@@ -5176,12 +5176,6 @@
           "image": "https://resizing.flixster.com/XKIKFlzC0ML8BQyydXf67AjUD2I=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/61451_v9_bb.jpg"
         },
         {
-          "id": "burgess_meredith",
-          "name": "Burgess Meredith",
-          "character": "",
-          "image": "https://resizing.flixster.com/CesafCLrzrJdYrJO-HSW1s5QVOo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1161_v9_ba.jpg"
-        },
-        {
           "id": "burt_young",
           "name": "Burt Young",
           "character": "",
@@ -5192,6 +5186,12 @@
           "name": "Carl Weathers",
           "character": "",
           "image": "https://resizing.flixster.com/G-T9SR6Di9aTFjDEfoPDxkdQQJc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/10339_v9_bc.jpg"
+        },
+        {
+          "id": "burgess_meredith",
+          "name": "Burgess Meredith",
+          "character": "",
+          "image": "https://resizing.flixster.com/CesafCLrzrJdYrJO-HSW1s5QVOo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1161_v9_ba.jpg"
         }
       ],
       "keywords": [],
@@ -5208,11 +5208,19 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/916043?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/rocky-ii--1054032?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-28T22:28:45.180081Z"
+      "scraped_at": "2026-09-08T16:49:48.318009Z"
     },
     {
       "id": "rocky_iii",
@@ -5230,7 +5238,7 @@
       "runtime_minutes": 99,
       "certificate": "PG",
       "rating": 5.7,
-      "votes": 22879,
+      "votes": 22882,
       "tomatometer": 66,
       "tomatometer_count": 44,
       "tomatometer_certified": false,
@@ -5328,11 +5336,19 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/60010836?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/rocky-iii--1054033?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-28T22:28:45.242329Z"
+      "scraped_at": "2026-09-08T16:49:48.075611Z"
     },
     {
       "id": "seeking_haven_for_mr_rambo",
