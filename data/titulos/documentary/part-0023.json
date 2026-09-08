@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 23,
   "count": 60,
-  "updated_at": "2026-09-07T21:37:27.364257Z",
+  "updated_at": "2026-09-08T11:31:58.969001Z",
   "titles": [
     {
       "id": "1140725-celsius_4111",
@@ -2906,10 +2906,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GYNM3CYZ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-27T22:24:03.558397Z"
+      "scraped_at": "2026-09-08T11:24:41.252731Z"
     },
     {
       "id": "porn_star_the_legend_of_ron_jeremy",
@@ -2973,7 +2978,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-28T11:28:23.866193Z"
+      "scraped_at": "2026-09-08T11:27:25.566311Z"
     },
     {
       "id": "project_nim",
@@ -3092,7 +3097,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-28T11:30:47.813648Z"
+      "scraped_at": "2026-09-08T11:29:50.963645Z"
     },
     {
       "id": "ptsd_the_walking_wounded",
@@ -3191,7 +3196,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-28T11:31:27.168146Z"
+      "scraped_at": "2026-09-08T11:30:30.394864Z"
     },
     {
       "id": "raiders_the_story_of_the_greatest_fan_film_ever_made",
