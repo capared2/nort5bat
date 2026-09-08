@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-07T12:48:45.388151Z",
-  "total_titles": 20163,
+  "generated_at": "2026-09-08T21:21:20.065421Z",
+  "total_titles": 20164,
   "total_genres": 27,
   "genres": [
     {
@@ -239,7 +239,7 @@
     {
       "genre": "comedy",
       "name": "Comedy",
-      "titles": 3139,
+      "titles": 3138,
       "files": [
         {
           "file": "titulos/comedy/part-0001.json",
@@ -275,7 +275,7 @@
         },
         {
           "file": "titulos/comedy/part-0009.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/comedy/part-0010.json",
@@ -818,12 +818,12 @@
           "count": 12
         }
       ],
-      "tagged": 2207
+      "tagged": 2206
     },
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 2025,
+      "titles": 2026,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
@@ -959,10 +959,10 @@
         },
         {
           "file": "titulos/horror/part-0034.json",
-          "count": 45
+          "count": 46
         }
       ],
-      "tagged": 2030
+      "tagged": 2031
     },
     {
       "genre": "romance",
@@ -1593,11 +1593,11 @@
     {
       "genre": "other",
       "name": "Other",
-      "titles": 1,
+      "titles": 2,
       "files": [
         {
           "file": "titulos/other/part-0001.json",
-          "count": 1
+          "count": 2
         }
       ],
       "tagged": 19

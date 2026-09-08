@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:49:58.895333Z",
+  "generated_at": "2026-09-08T21:21:19.606706Z",
   "populares": [
     {
       "id": "the_dark_knight",
@@ -1264,7 +1264,7 @@
         "Drama"
       ],
       "rating": 9.3,
-      "votes": 86163,
+      "votes": 86169,
       "tomatometer": 98,
       "audience_score": 97,
       "runtime_minutes": 195,
@@ -1719,7 +1719,7 @@
         "Drama"
       ],
       "rating": 9.0,
-      "votes": 120804,
+      "votes": 120816,
       "tomatometer": 94,
       "audience_score": 95,
       "runtime_minutes": 169,
@@ -2241,6 +2241,29 @@
       ]
     },
     {
+      "id": "scary_movie_2026",
+      "category": "horror",
+      "type": "movie",
+      "title": "Scary Movie",
+      "original_title": "Scary Movie",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 4.1,
+      "votes": 6627,
+      "tomatometer": 24,
+      "audience_score": 64,
+      "runtime_minutes": 96,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/a6I5y4QA1axIjJ3GnRSTVTokT4I=/300x450/v2/https://resizing.flixster.com/zCdAQoqRDqC8T6W4nTYy0HiVubs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VhNzk3ZjNiLTJhMmYtNGI5MC05MTMwLTdiNmRkYzRiN2RkMC5qcGc=",
+      "plot": "Twenty-six years after outrunning a suspiciously familiar masked killer, Shorty, Ray, Cindy and Brenda find themselves targeted by another mad slasher.",
+      "directors": [
+        "Mike Tiddes"
+      ]
+    },
+    {
       "id": "hoppers",
       "category": "animation",
       "type": "movie",
@@ -2278,7 +2301,7 @@
         "Mystery & Thriller"
       ],
       "rating": 7.4,
-      "votes": 4914,
+      "votes": 4933,
       "tomatometer": 92,
       "audience_score": 86,
       "runtime_minutes": 113,
@@ -2857,29 +2880,6 @@
       "directors": [
         "James Cameron",
         "Billie Eilish"
-      ]
-    },
-    {
-      "id": "mutiny_2026",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Mutiny",
-      "original_title": "Mutiny",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.4,
-      "votes": 1016,
-      "tomatometer": 50,
-      "audience_score": 86,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/6kfLfci485wIrGgLgBnYRt4vyno=/300x450/v2/https://resizing.flixster.com/2KR3Tzc0443EU9OK5YtfNu2BG2s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmYTJmNjg5LWNlMzQtNGEzNC05YjRhLWMwNGFlNjk0Yjg5Yy5qcGc=",
-      "plot": "In MUTINY, after witnessing his billionaire boss's murder and being framed for the crime, Cole Reed (Jason Statham) boards a cargo ship on a one-man crusade to avenge his boss's death only to…",
-      "directors": [
-        "Jean-François Richet"
       ]
     }
   ],
