@@ -1,8 +1,8 @@
 {
   "genre": "biography",
   "part": 8,
-  "count": 37,
-  "updated_at": "2026-09-08T21:18:53.031222Z",
+  "count": 38,
+  "updated_at": "2026-09-09T04:55:37.007886Z",
   "titles": [
     {
       "id": "1041055-ned_kelly",
@@ -1429,6 +1429,63 @@
       "scraped_at": "2026-09-06T04:45:45.829057Z"
     },
     {
+      "id": "james_mcneill_whistler",
+      "url": "https://www.rottentomatoes.com/m/james_mcneill_whistler",
+      "category": "biography",
+      "type": "movie",
+      "title": "James McNeill Whistler",
+      "original_title": "James McNeill Whistler",
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 90,
+      "certificate": "In Theaters Sep 15",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "Explores James McNeill Whistler's revolutionary \"art for art's sake\" philosophy, his witty disruption of Victorian standards and iconic works like Whistler's Mother.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/rpEcgmrN-Zolt3JKM9CJnS5Pj2M=/300x450/v2/https://resizing.flixster.com/IcwuwWvbnh9L3VT-aO9YFH6o7Go=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhNGZmNjBkLTBjMzEtNGQzZS04NzFjLTI4NDRlYjFlMDM5Yi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/rpEcgmrN-Zolt3JKM9CJnS5Pj2M=/300x450/v2/https://resizing.flixster.com/IcwuwWvbnh9L3VT-aO9YFH6o7Go=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhNGZmNjBkLTBjMzEtNGQzZS04NzFjLTI4NDRlYjFlMDM5Yi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HCQnlDz1FNS390RY_19cmwsvA1w=/fit-in/705x460/v2/https://resizing.flixster.com/IcwuwWvbnh9L3VT-aO9YFH6o7Go=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhNGZmNjBkLTBjMzEtNGQzZS04NzFjLTI4NDRlYjFlMDM5Yi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "david_bickerstaff",
+          "name": "David Bickerstaff"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-09T04:55:36.424031Z"
+    },
+    {
       "id": "joe-hill",
       "url": "https://www.rottentomatoes.com/m/joe-hill",
       "category": "biography",
@@ -2667,7 +2724,7 @@
       "runtime_minutes": 109,
       "certificate": null,
       "rating": 7.1,
-      "votes": 50,
+      "votes": 51,
       "tomatometer": 100,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
@@ -2729,7 +2786,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-29T16:47:01.784430Z"
+      "scraped_at": "2026-09-09T04:52:13.008756Z"
     },
     {
       "id": "soul_on_fire",
