@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 19,
-  "updated_at": "2026-09-08T04:50:48.252664Z",
+  "updated_at": "2026-09-09T16:49:51.636322Z",
   "titles": [
     {
       "id": "american_summer_2026",
@@ -1453,7 +1453,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-29T21:03:17.546166Z"
+      "scraped_at": "2026-09-09T16:42:30.442064Z"
     },
     {
       "id": "summer_03",
@@ -1583,7 +1583,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-29T21:04:33.303311Z"
+      "scraped_at": "2026-09-09T16:43:44.936493Z"
     },
     {
       "id": "take_off_2025",
@@ -1618,7 +1618,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/ideB4qbKDTC2Qtghzt7Bw6tc4hk=/620x336/v2/https://resizing.flixster.com/cvJ4BrtLFw14RyVqNML9sMLXPu0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExYzRlYTU5LTMyZWMtNGY4ZS04YzRiLTQyOTc1ZDZhNGZmOS5qcGc=",
+          "url": "https://resizing.flixster.com/y_r0NrLmqsa3qzeZVcBAkOn40yk=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/114/15/thumb_F55ED90F-C5AB-4082-8A43-A44357046157.jpg",
           "caption": ""
         },
         {
@@ -1642,7 +1642,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "XXAmsLpCDghE",
+        "title": "Take Off (Fei Xing Jia): Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/114/15/thumb_F55ED90F-C5AB-4082-8A43-A44357046157.jpg",
+        "seconds": 118,
+        "src": "https://link.theplatform.com/s/NGweTC/media/XXAmsLpCDghE?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "peng_fei_song",
@@ -1691,7 +1697,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:05:55.109814Z"
+      "scraped_at": "2026-09-09T16:47:19.192840Z"
     },
     {
       "id": "tere_bin_laden_dead_or_alive",
@@ -1811,7 +1817,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T05:32:42.908518Z"
+      "scraped_at": "2026-09-09T16:49:50.667056Z"
     },
     {
       "id": "the_baytown_outlaws",
