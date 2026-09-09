@@ -1,8 +1,8 @@
 {
   "genre": "sci-fi",
   "part": 14,
-  "count": 32,
-  "updated_at": "2026-09-09T04:51:12.071505Z",
+  "count": 33,
+  "updated_at": "2026-09-09T11:36:53.963279Z",
   "titles": [
     {
       "id": "1017991-runaway",
@@ -111,6 +111,86 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-01T21:06:20.136019Z"
+    },
+    {
+      "id": "akira",
+      "url": "https://www.rottentomatoes.com/m/akira",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Akira",
+      "original_title": "Akira",
+      "genres": [
+        "Sci-Fi",
+        "Anime"
+      ],
+      "year": 1989,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 124,
+      "certificate": "R",
+      "rating": 7.9,
+      "votes": 25422,
+      "tomatometer": 88,
+      "tomatometer_count": 103,
+      "tomatometer_certified": true,
+      "audience_score": 90,
+      "audience_count": 8634,
+      "metascore": null,
+      "plot": "In 1988 the Japanese government drops an atomic bomb on Tokyo after ESP experiments on children go awry. In 2019, 31 years after nuking the city, Kaneda, a bike gang leader, tries to save his friend Tetsuo from a secret government project. He battles against anti-government activists, greedy politicians, irresponsible scientists and a powerful military leader until Tetsuo's supernatural power suddenly manifests. A final battle is fought in Tokyo Olympiad exposing the experiment's secrets.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/oZudCbosm2OEpWwnXMLuxccRco0=/300x450/v2/https://resizing.flixster.com/L6hZagOiIh9C-0hFkMpwQzpV66c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkMDI2ZGE2LTViZGMtNDQ1NS1iNDkyLTFkMWNhZTIyMWE1My5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/oZudCbosm2OEpWwnXMLuxccRco0=/300x450/v2/https://resizing.flixster.com/L6hZagOiIh9C-0hFkMpwQzpV66c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkMDI2ZGE2LTViZGMtNDQ1NS1iNDkyLTFkMWNhZTIyMWE1My5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/JcdBKruKYQNSWGxYlL9Abq0nQEM=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/394/39/thumb_228AAEE5-F448-49D1-847F-2EA36E31601E.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/IEiX3EmH1f1js-EdH5NbRql7Q7I=/fit-in/705x460/v2/https://resizing.flixster.com/L6hZagOiIh9C-0hFkMpwQzpV66c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkMDI2ZGE2LTViZGMtNDQ1NS1iNDkyLTFkMWNhZTIyMWE1My5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/LTm9qt4mC4_3pty0usgdPrcaZZg=/fit-in/705x460/v2/https://resizing.flixster.com/UdqfvsxvtlSzFQnvwUaOyif7-DE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M1NWExNjYwLTBlMDAtNGI3Yi05ZjkzLWNkNzEwMjVhZDRmYS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/cmndJYFrICydtSHyAsJpUaBdVJQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16852_i_h10_aa.jpg",
+          "caption": "Akira (1988)"
+        }
+      ],
+      "trailer": {
+        "id": "q8x5hGV4RIB0",
+        "title": "Akira: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/394/39/thumb_228AAEE5-F448-49D1-847F-2EA36E31601E.jpg",
+        "seconds": 55,
+        "src": "https://link.theplatform.com/s/NGweTC/media/q8x5hGV4RIB0?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "katsuhiro_ohtomo",
+          "name": "Katsuhiro Ohtomo"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://www.vudu.com/content/movies/details/Akira-English-Dubbed/22457?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-09T11:36:53.366182Z"
     },
     {
       "id": "april_and_the_extraordinary_world_2016",
@@ -2724,12 +2804,12 @@
       "runtime_minutes": 132,
       "certificate": "PG-13",
       "rating": 5.8,
-      "votes": 14878,
-      "tomatometer": 61,
-      "tomatometer_count": 327,
+      "votes": 14908,
+      "tomatometer": 60,
+      "tomatometer_count": 330,
       "tomatometer_certified": false,
       "audience_score": 86,
-      "audience_count": 5442,
+      "audience_count": 5445,
       "metascore": null,
       "plot": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin (Pedro Pascal) and his young apprentice Grogu.",
       "tagline": "",
@@ -2828,7 +2908,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:13:37.811391Z"
+      "scraped_at": "2026-09-09T11:34:03.251862Z"
     },
     {
       "id": "the_infinite_husk",

@@ -1,8 +1,31 @@
 {
   "genre": "anime",
   "name": "Anime",
-  "count": 26,
+  "count": 27,
   "titles": [
+    {
+      "id": "akira",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Akira",
+      "original_title": "Akira",
+      "year": 1989,
+      "genres": [
+        "Sci-Fi",
+        "Anime"
+      ],
+      "rating": 7.9,
+      "votes": 25422,
+      "tomatometer": 88,
+      "audience_score": 90,
+      "runtime_minutes": 124,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/oZudCbosm2OEpWwnXMLuxccRco0=/300x450/v2/https://resizing.flixster.com/L6hZagOiIh9C-0hFkMpwQzpV66c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkMDI2ZGE2LTViZGMtNDQ1NS1iNDkyLTFkMWNhZTIyMWE1My5qcGc=",
+      "plot": "In 1988 the Japanese government drops an atomic bomb on Tokyo after ESP experiments on children go awry. In 2019, 31 years after nuking the city, Kaneda, a bike gang leader, tries to save his friend…",
+      "directors": [
+        "Katsuhiro Ohtomo"
+      ]
+    },
     {
       "id": "ghost_in_the_shell",
       "category": "sci-fi",
