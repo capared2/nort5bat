@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-09T11:36:56.578480Z",
-  "total_titles": 20167,
+  "generated_at": "2026-09-09T21:06:56.036707Z",
+  "total_titles": 20169,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3301,
+      "titles": 3303,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -231,10 +231,10 @@
         },
         {
           "file": "titulos/drama/part-0056.json",
-          "count": 1
+          "count": 3
         }
       ],
-      "tagged": 8896
+      "tagged": 8898
     },
     {
       "genre": "comedy",
