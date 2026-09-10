@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 21,
   "count": 60,
-  "updated_at": "2026-09-10T04:56:44.710564Z",
+  "updated_at": "2026-09-10T16:35:37.071597Z",
   "titles": [
     {
       "id": "40_years_a_prisoner",
@@ -4482,7 +4482,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T21:16:54.122813Z"
+      "scraped_at": "2026-09-10T16:29:42.903490Z"
     },
     {
       "id": "the_price_of_free",
@@ -4542,7 +4542,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T21:18:24.312238Z"
+      "scraped_at": "2026-09-10T16:31:12.002970Z"
     },
     {
       "id": "the_prison_in_twelve_landscapes",
@@ -4639,7 +4639,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T05:41:10.415525Z"
+      "scraped_at": "2026-09-10T16:31:21.259451Z"
     },
     {
       "id": "the_quest_of_alain_ducasse",
@@ -4738,7 +4738,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T05:41:37.078422Z"
+      "scraped_at": "2026-09-10T16:31:48.631249Z"
     },
     {
       "id": "the_revisionaries_2012",
@@ -4826,7 +4826,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T05:42:52.329663Z"
+      "scraped_at": "2026-09-10T16:33:03.499397Z"
     },
     {
       "id": "the_shepherd_and_the_bear",
@@ -4899,10 +4899,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/the-shepherd-and-the-bear/umc.cmc.3zwquhmoa0lg6iiks6l7dhsre?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T05:44:47.083981Z"
+      "scraped_at": "2026-09-10T16:35:00.550952Z"
     },
     {
       "id": "twist_of_faith",

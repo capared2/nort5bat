@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 29,
   "count": 60,
-  "updated_at": "2026-09-10T04:56:45.156554Z",
+  "updated_at": "2026-09-10T16:29:33.373535Z",
   "titles": [
     {
       "id": "1002571-blind_date",
@@ -6598,7 +6598,7 @@
       "tomatometer_count": 228,
       "tomatometer_certified": true,
       "audience_score": 80,
-      "audience_count": 7320,
+      "audience_count": 7319,
       "metascore": null,
       "plot": "Walter, the world's biggest Muppet fan, is on vacation in Los Angeles with his brother Gary (Jason Segel) and Gary's girlfriend, Mary (Amy Adams). They discover that greedy Tex Richman (Chris Cooper) plans to raze Muppet Studios and drill for oil on the spot. Desperate to save The Muppets' former stomping grounds, the three friends join forces with Kermit to reunite Miss Piggy, Fozzie and the rest of the gang to hold a telethon to raise the $10 million they need to save the studio.",
       "tagline": "",
@@ -6703,7 +6703,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T21:15:03.051585Z"
+      "scraped_at": "2026-09-10T16:27:50.622150Z"
     },
     {
       "id": "the_nutty_professor_1996",
@@ -6715,18 +6715,18 @@
       "genres": [
         "Comedy"
       ],
-      "year": null,
+      "year": 1996,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 95,
       "certificate": "PG-13",
       "rating": 5.8,
-      "votes": 11439,
+      "votes": 11450,
       "tomatometer": 64,
       "tomatometer_count": 56,
       "tomatometer_certified": false,
       "audience_score": 44,
-      "audience_count": 8043,
+      "audience_count": 8045,
       "metascore": null,
       "plot": "Brilliant and obese scientist Sherman Klump (Eddie Murphy) invents a miraculous weight-loss solution. After a date with chemistry student Carla Purty (Jada Pinkett) goes badly, a depressed Klump tries the solution on himself. Though he instantly loses 250 pounds, the side effects include a second personality: an obnoxiously self-assertive braggart who calls himself Buddy Love. Buddy proves to be more popular than Sherman, but his arrogance and bad behavior quickly spiral out of control.",
       "tagline": "",
@@ -6799,10 +6799,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Nutty-Professor/4978?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T21:15:58.509703Z"
+      "scraped_at": "2026-09-10T16:28:46.950391Z"
     },
     {
       "id": "the_wolf_of_wall_street_2013",

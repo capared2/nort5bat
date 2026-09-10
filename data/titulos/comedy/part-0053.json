@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 19,
-  "updated_at": "2026-09-09T21:04:30.423705Z",
+  "updated_at": "2026-09-10T16:29:33.431086Z",
   "titles": [
     {
       "id": "american_summer_2026",
@@ -2064,7 +2064,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T21:14:46.632382Z"
+      "scraped_at": "2026-09-10T16:27:34.387350Z"
     },
     {
       "id": "the_musical",
@@ -2084,16 +2084,20 @@
       "certificate": "In Theaters Sep 18",
       "rating": 6.0,
       "votes": null,
-      "tomatometer": 62,
-      "tomatometer_count": 37,
+      "tomatometer": 63,
+      "tomatometer_count": 38,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
       "metascore": null,
       "plot": "Doug, a frustrated playwright and middle school theater teacher, learns his ex is dating his nemesis, the school principal. To get revenge and cost him a Blue Ribbon Award, Doug secretly stages the most inappropriate play imaginable.",
       "tagline": "",
-      "poster": null,
+      "poster": "https://resizing.flixster.com/3oOKeJy2moITMh6kUq66hbI_3IU=/300x450/v2/https://resizing.flixster.com/9WH1Maqt8wkS1qRXuouf6t16P80=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiOGExZmM4LWRkMDEtNDk5Yi1iYzk4LTEwN2VhODVjYWJmZi5qcGc=",
       "images": [
+        {
+          "url": "https://resizing.flixster.com/3oOKeJy2moITMh6kUq66hbI_3IU=/300x450/v2/https://resizing.flixster.com/9WH1Maqt8wkS1qRXuouf6t16P80=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiOGExZmM4LWRkMDEtNDk5Yi1iYzk4LTEwN2VhODVjYWJmZi5qcGc=",
+          "caption": ""
+        },
         {
           "url": "https://resizing.flixster.com/fRNBTRqZ5zg-shP1lGbwhQRhg0s=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/600/1003/thumb_CE7CE5B8-92E7-4013-BDA6-D609FE719E10.jpg",
           "caption": ""
@@ -2147,16 +2151,10 @@
       "writers": [],
       "cast": [
         {
-          "id": "undefined",
-          "name": "Nevada Jose",
+          "id": "will_brill",
+          "name": "Will Brill",
           "character": "",
-          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
-        },
-        {
-          "id": "rob_lowe",
-          "name": "Rob Lowe",
-          "character": "",
-          "image": "https://resizing.flixster.com/LGs4AKXulqYOVXNzU6G2EQf4yEc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG00337RJZ.jpg"
+          "image": "https://resizing.flixster.com/YeV1OJ-YEfCOolgVFe95atwFmIQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/677388_v9_bb.jpg"
         },
         {
           "id": "gillian-jacobs",
@@ -2165,16 +2163,22 @@
           "image": "https://resizing.flixster.com/6UAJ1jhvW1tjzlswuXazjxr5X3M=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/514481_v9_bb.jpg"
         },
         {
-          "id": "will_brill",
-          "name": "Will Brill",
+          "id": "rob_lowe",
+          "name": "Rob Lowe",
           "character": "",
-          "image": "https://resizing.flixster.com/YeV1OJ-YEfCOolgVFe95atwFmIQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/677388_v9_bb.jpg"
+          "image": "https://resizing.flixster.com/LGs4AKXulqYOVXNzU6G2EQf4yEc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG00337RJZ.jpg"
         },
         {
-          "id": "michael_strassner",
-          "name": "Michael Strassner",
+          "id": "undefined",
+          "name": "Nevada Jose",
           "character": "",
-          "image": "https://resizing.flixster.com/oD6WGLB2EqaA6oZP61a49UqHFeI=/120x150/v2/https://resizing.flixster.com/W8JtZPgGbfh2HJTfKYZsgoDzu94=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvMzBmZGQ5NDgtYTI4MS00N2FkLWJjZGUtYTk2ZTg3M2ZlZjMyLmpwZw=="
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "melanie_herrera",
+          "name": "Melanie Herrera",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         }
       ],
       "keywords": [],
@@ -2186,7 +2190,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:06:00.125352Z"
+      "scraped_at": "2026-09-10T16:27:52.765140Z"
     },
     {
       "id": "tiny_fugitives",
