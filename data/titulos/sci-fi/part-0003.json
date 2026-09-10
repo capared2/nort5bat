@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-09-10T04:52:43.229472Z",
+  "updated_at": "2026-09-10T11:30:42.400499Z",
   "titles": [
     {
       "id": "10004504-ultraviolet",
@@ -6499,18 +6499,18 @@
         "Action",
         "Adventure"
       ],
-      "year": null,
+      "year": 2015,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 137,
       "certificate": "PG-13",
       "rating": 6.5,
-      "votes": 46126,
+      "votes": 46165,
       "tomatometer": 70,
       "tomatometer_count": 291,
       "tomatometer_certified": false,
       "audience_score": 66,
-      "audience_count": 3839,
+      "audience_count": 3842,
       "metascore": null,
       "plot": "Realizing the stakes are no longer just for survival, Katniss Everdeen (Jennifer Lawrence) teams up with her closest friends, including Peeta (Josh Hutcherson), Gale (Liam Hemsworth) and Finnick for the ultimate mission. Together, they leave District 13 to liberate the citizens of war-torn Panem and assassinate President Snow, who's obsessed with destroying Katniss. What lies ahead are mortal traps, dangerous enemies and moral choices that will ultimately determine the future of millions.",
       "tagline": "",
@@ -6609,10 +6609,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Hunger-Games-Mockingjay-Part-2/720333?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/80057972?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T16:49:29.887343Z"
+      "scraped_at": "2026-09-10T11:25:42.674530Z"
     },
     {
       "id": "the_life_of_chuck",
@@ -6752,7 +6761,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T21:11:56.483526Z"
+      "scraped_at": "2026-09-10T11:30:15.224542Z"
     },
     {
       "id": "the_wave_2020",

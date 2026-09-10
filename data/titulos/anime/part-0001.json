@@ -2,7 +2,7 @@
   "genre": "anime",
   "part": 1,
   "count": 16,
-  "updated_at": "2026-09-10T04:54:44.343512Z",
+  "updated_at": "2026-09-10T11:28:41.418996Z",
   "titles": [
     {
       "id": "100_meters_2025",
@@ -1142,14 +1142,14 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 90,
-      "certificate": "Now Playing",
+      "certificate": "Aug 2026",
       "rating": null,
-      "votes": null,
+      "votes": 19,
       "tomatometer": null,
-      "tomatometer_count": 7,
+      "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 10,
       "metascore": null,
       "plot": "Former yakuza Akutsu is serving life in prison after a middling career in the underworld. On the night he lays dying in his cell, he reminisces with his only companion, a smart-mouthed flower growing out of a can, about the choices that brought him here, the woman he loved, and a child he would give everything to protect. Is redemption out of reach? From director Baku Kinoshita and writer Kazuya Konomoto, creators of ODDTAXI, and award-winning Studio CLAP (Pompo the Cinephile), THE LAST BLOSSOM is a thrillingly original work from animation's most inventive new talent. Moving across time and memory, the film is an unforgettable meditation on found family, sacrifice, and the complicated pieces that join together to make a life.",
       "tagline": "",
@@ -1217,10 +1217,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Last-Blossom/5151167?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T21:10:11.684562Z"
+      "scraped_at": "2026-09-10T11:28:28.261089Z"
     },
     {
       "id": "tokyo_godfathers",

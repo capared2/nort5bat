@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 14,
   "count": 60,
-  "updated_at": "2026-09-09T21:06:30.892946Z",
+  "updated_at": "2026-09-10T11:30:41.617511Z",
   "titles": [
     {
       "id": "20_feet_from_stardom",
@@ -4845,7 +4845,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T16:50:59.279938Z"
+      "scraped_at": "2026-09-10T11:27:10.300945Z"
     },
     {
       "id": "the_librarians",
@@ -4955,10 +4955,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Librarians/5173544?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T21:11:50.051751Z"
+      "scraped_at": "2026-09-10T11:30:07.952093Z"
     },
     {
       "id": "theater_of_life",
