@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 21,
   "count": 19,
-  "updated_at": "2026-09-09T21:06:31.815547Z",
+  "updated_at": "2026-09-10T04:56:45.058800Z",
   "titles": [
     {
       "id": "by_any_means_2026",
@@ -1833,18 +1833,18 @@
         "Drama",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": null,
-      "certificate": "In Theaters Sep 4",
+      "runtime_minutes": 92,
+      "certificate": "Sep 2026",
       "rating": null,
-      "votes": null,
+      "votes": 14,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 9,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 8,
       "metascore": null,
       "plot": "After twin teenage sisters are abducted -- one's body recovered from the Mississippi River, the other nowhere to be found -- veteran criminologist Alan Kramer (Devon Sawa) is drawn into a town suffocating under suspicion and fear. Working under relentless Police Captain Erica Graysmith (Tiffany Haddish), and forced to partner with Amelia Pembrock (Maggie Grace), a brilliant but untested profiler, Kramer quickly discovers this is no ordinary abduction. What begins as a local manhunt erupts into a media firestorm as chilling clues reveal a meticulous killer who plans every move with surgical precision and may be hiding in plain sight. Kramer and Pembrock must crawl inside the mind of a predator in a relentless race against time before another child is lost forever.",
       "tagline": "",
@@ -1915,10 +1915,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Girl-in-the-River/5097179?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-30T16:46:42.269784Z"
+      "scraped_at": "2026-09-10T04:55:18.723736Z"
     },
     {
       "id": "the_whisper_man",
