@@ -2,7 +2,7 @@
   "genre": "adventure",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-11T11:35:23.387810Z",
+  "updated_at": "2026-09-11T16:38:10.108336Z",
   "titles": [
     {
       "id": "1001425-aviator",
@@ -6341,10 +6341,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CHP5JCPL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T11:44:29.391492Z"
+      "scraped_at": "2026-09-11T16:36:34.968408Z"
     },
     {
       "id": "white_fang_2_myth_of_the_white_wolf",
@@ -6457,7 +6462,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T11:44:59.797281Z"
+      "scraped_at": "2026-09-11T16:37:03.663880Z"
     },
     {
       "id": "white_water_summer",
@@ -6565,7 +6570,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T11:45:21.147536Z"
+      "scraped_at": "2026-09-11T16:37:24.769280Z"
     },
     {
       "id": "wonderstruck",

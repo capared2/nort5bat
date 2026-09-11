@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-11T11:35:22.845016Z",
+  "updated_at": "2026-09-11T16:40:11.064385Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -7478,12 +7478,12 @@
       "runtime_minutes": 106,
       "certificate": "R",
       "rating": 8.6,
-      "votes": 42616,
+      "votes": 42626,
       "tomatometer": 94,
       "tomatometer_count": 302,
       "tomatometer_certified": true,
       "audience_score": 94,
-      "audience_count": 5082,
+      "audience_count": 5077,
       "metascore": null,
       "plot": "Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble, forever changing the young man's life. But Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher pushes him to the brink of his ability and his sanity.",
       "tagline": "",
@@ -7590,7 +7590,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T11:44:47.003345Z"
+      "scraped_at": "2026-09-11T16:36:52.378008Z"
     },
     {
       "id": "wildcards",
@@ -7625,7 +7625,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/VzQTE5nnNOaUqjOgbcuVMNDnzIs=/620x336/v2/https://resizing.flixster.com/d8Kp-vJuYoqmaIjgKNtQnGyGXIY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViMWFjYmYyLTNmODQtNDE1OS05M2Y1LWY1MjJhMWEwNjc2Yy5qcGc=",
+          "url": "https://resizing.flixster.com/vNm3DzJln6dE88DFyBn4ML8_qdA=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/354/755/thumb_7D7BA928-AC1A-470C-BBC3-A469CBB8A5F3.jpg",
           "caption": ""
         },
         {
@@ -7661,7 +7661,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "aX9qBwTKSeTZ",
+        "title": "Wildcards: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/354/755/thumb_7D7BA928-AC1A-470C-BBC3-A469CBB8A5F3.jpg",
+        "seconds": 105,
+        "src": "https://link.theplatform.com/s/NGweTC/media/aX9qBwTKSeTZ?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "wes_miller_2",
@@ -7710,7 +7716,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T11:46:53.869304Z"
+      "scraped_at": "2026-09-11T16:39:00.724166Z"
     },
     {
       "id": "zola",
