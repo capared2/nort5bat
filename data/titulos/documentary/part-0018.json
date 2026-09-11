@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-09-10T21:02:31.751141Z",
+  "updated_at": "2026-09-11T04:53:39.603960Z",
   "titles": [
     {
       "id": "10007729-screamers",
@@ -4707,7 +4707,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:02:25.186027Z"
+      "scraped_at": "2026-09-11T04:45:52.976049Z"
     },
     {
       "id": "til_kingdom_come",
@@ -4810,7 +4810,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:03:29.278780Z"
+      "scraped_at": "2026-09-11T04:46:57.233536Z"
     },
     {
       "id": "timestamp",
@@ -4901,10 +4901,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FSMFRN1D/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:03:57.459968Z"
+      "scraped_at": "2026-09-11T04:47:25.251904Z"
     },
     {
       "id": "true_haunted_tales",
@@ -4963,7 +4968,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T22:57:23.280212Z"
+      "scraped_at": "2026-09-11T04:52:15.190273Z"
     },
     {
       "id": "ultraviolence",

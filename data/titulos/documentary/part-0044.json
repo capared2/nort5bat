@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 44,
   "count": 27,
-  "updated_at": "2026-09-10T16:29:33.806313Z",
+  "updated_at": "2026-09-11T04:53:39.618346Z",
   "titles": [
     {
       "id": "a_girl_and_a_gun_2012",
@@ -2150,7 +2150,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:02:46.264470Z"
+      "scraped_at": "2026-09-11T04:46:14.049750Z"
     },
     {
       "id": "to_be_heard_2011",
@@ -2247,10 +2247,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HHMD3BZW/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T14:04:21.183726Z"
+      "scraped_at": "2026-09-11T04:47:52.161714Z"
     },
     {
       "id": "tt3d_closer_to_the_edge_2011",
@@ -2306,7 +2311,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-08-31T22:57:52.342171Z"
+      "scraped_at": "2026-09-11T04:52:42.968590Z"
     },
     {
       "id": "who_moves_america",
