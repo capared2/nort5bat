@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-09-11T16:40:11.162837Z",
+  "updated_at": "2026-09-11T21:08:38.447663Z",
   "titles": [
     {
       "id": "10007985-happening",
@@ -21,12 +21,12 @@
       "runtime_minutes": 91,
       "certificate": "R",
       "rating": 4.2,
-      "votes": 48770,
+      "votes": 48775,
       "tomatometer": 17,
       "tomatometer_count": 188,
       "tomatometer_certified": false,
       "audience_score": 24,
-      "audience_count": 28187,
+      "audience_count": 28185,
       "metascore": null,
       "plot": "An apocalyptic threat to humanity arrives out of the clear blue sky with a series of violent, inexplicable deaths spreading across the country. The cause of the terrifying phenomenon remains unknown, prompting science teacher Elliot Moore (Mark Wahlberg), his wife Alma (Zooey Deschanel) and his colleague Julian (John Leguizamo) to try to elude the invisible killer in Pennsylvania's farmland. Soon it becomes clear that no one is safe.",
       "tagline": "",
@@ -121,13 +121,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000397794_01/35cde8c4-fb84-3edf-8b42-3cb268edff10?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/the-happening/umc.cmc.2brp9vyvz9phnzup1yzfty9p8?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:46:11.804115Z"
+      "scraped_at": "2026-09-11T21:06:59.761119Z"
     },
     {
       "id": "1085867-virus",
@@ -7052,7 +7056,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T11:50:15.899159Z"
+      "scraped_at": "2026-09-11T21:02:16.095499Z"
     },
     {
       "id": "zathura_a_space_adventure",
@@ -7073,7 +7077,7 @@
       "runtime_minutes": 101,
       "certificate": "PG",
       "rating": 6.7,
-      "votes": 10237,
+      "votes": 10238,
       "tomatometer": 77,
       "tomatometer_count": 159,
       "tomatometer_certified": true,
@@ -7183,7 +7187,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:44:17.608065Z"
+      "scraped_at": "2026-09-11T21:05:06.007719Z"
     },
     {
       "id": "zoe_2018",
@@ -7204,12 +7208,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 4.6,
-      "votes": 161,
+      "votes": 162,
       "tomatometer": 35,
       "tomatometer_count": 26,
       "tomatometer_certified": false,
       "audience_score": 59,
-      "audience_count": 45,
+      "audience_count": 46,
       "metascore": null,
       "plot": "Two colleagues at a research lab work to improve and perfect romantic relationships.",
       "tagline": "",
@@ -7310,7 +7314,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:44:34.771381Z"
+      "scraped_at": "2026-09-11T21:05:23.090144Z"
     },
     {
       "id": "zone_414",
@@ -7429,7 +7433,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:44:45.307530Z"
+      "scraped_at": "2026-09-11T21:05:32.072001Z"
     }
   ]
 }

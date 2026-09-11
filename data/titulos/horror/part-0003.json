@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-09-11T16:36:07.893801Z",
+  "updated_at": "2026-09-11T21:08:37.931643Z",
   "titles": [
     {
       "id": "10009132-rec",
@@ -21,7 +21,7 @@
       "runtime_minutes": 78,
       "certificate": "R",
       "rating": 7.7,
-      "votes": 16054,
+      "votes": 16058,
       "tomatometer": 90,
       "tomatometer_count": 41,
       "tomatometer_certified": true,
@@ -125,7 +125,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:46:54.859065Z"
+      "scraped_at": "2026-09-11T21:07:41.791525Z"
     },
     {
       "id": "10010658-orphan",
@@ -144,7 +144,7 @@
       "runtime_minutes": 123,
       "certificate": "R",
       "rating": 5.8,
-      "votes": 26159,
+      "votes": 26161,
       "tomatometer": 59,
       "tomatometer_count": 164,
       "tomatometer_certified": false,
@@ -260,7 +260,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:47:44.853777Z"
+      "scraped_at": "2026-09-11T21:08:33.135901Z"
     },
     {
       "id": "a_cure_for_wellness",
@@ -7684,13 +7684,17 @@
           "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
         },
         {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        },
+        {
           "name": "Hulu",
           "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T11:50:06.190025Z"
+      "scraped_at": "2026-09-11T21:02:07.009559Z"
     },
     {
       "id": "youre_next_2011",
@@ -7710,12 +7714,12 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 6.6,
-      "votes": 18227,
+      "votes": 18228,
       "tomatometer": 79,
       "tomatometer_count": 160,
       "tomatometer_certified": true,
       "audience_score": 60,
-      "audience_count": 2532,
+      "audience_count": 2530,
       "metascore": null,
       "plot": "The Davisons, an upper-class family, are extremely wealthy -- but also estranged. In an attempt to mend their broken family ties, Aubrey and Paul Davison decide to celebrate their wedding anniversary by inviting their four children and their children's significant others to their weekend estate. The celebration gets off to a rocky start, but when crossbow-wielding assailants in animal masks suddenly attack, the Davisons must pull together or die.",
       "tagline": "",
@@ -7816,7 +7820,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:43:47.075551Z"
+      "scraped_at": "2026-09-11T21:04:34.834932Z"
     }
   ]
 }

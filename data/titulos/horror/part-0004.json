@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-09-11T16:40:11.521375Z",
+  "updated_at": "2026-09-11T21:06:37.423404Z",
   "titles": [
     {
       "id": "1000617-aliens",
@@ -23,12 +23,12 @@
       "runtime_minutes": 137,
       "certificate": "R",
       "rating": 8.9,
-      "votes": 74096,
+      "votes": 74112,
       "tomatometer": 93,
       "tomatometer_count": 172,
       "tomatometer_certified": true,
       "audience_score": 94,
-      "audience_count": 22872,
+      "audience_count": 22873,
       "metascore": null,
       "plot": "After floating in space for 57 years, Lt. Ripley's shuttle is found by a deep space salvage team. Upon arriving at LV-426, the marines find only one survivor, a nine-year-old girl named Newt. But even these battle-hardened marines with all the latest weaponry are no match for the hundreds of aliens that have invaded the colony.",
       "tagline": "",
@@ -131,11 +131,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Aliens-Theatrical/8874?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/60029358?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:45:42.792309Z"
+      "scraped_at": "2026-09-11T21:06:29.600798Z"
     },
     {
       "id": "1021211-shivers",
@@ -7668,7 +7672,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:43:05.007602Z"
+      "scraped_at": "2026-09-11T21:03:53.441925Z"
     }
   ]
 }
