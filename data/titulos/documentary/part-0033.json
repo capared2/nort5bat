@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 33,
   "count": 60,
-  "updated_at": "2026-09-12T10:59:43.218488Z",
+  "updated_at": "2026-09-12T15:40:59.936241Z",
   "titles": [
     {
       "id": "1136634-journey",
@@ -210,7 +210,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-02T04:46:30.419905Z"
+      "scraped_at": "2026-09-12T15:36:07.330456Z"
     },
     {
       "id": "1970",
@@ -271,10 +271,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FYKX6NV3/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-02T04:48:16.013215Z"
+      "scraped_at": "2026-09-12T15:37:52.853961Z"
     },
     {
       "id": "4_little_girls",
@@ -355,7 +360,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-02T11:25:01.997418Z"
+      "scraped_at": "2026-09-12T15:39:37.777916Z"
     },
     {
       "id": "behind_the_curve",
