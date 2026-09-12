@@ -1,8 +1,8 @@
 {
   "genre": "crime",
   "part": 21,
-  "count": 19,
-  "updated_at": "2026-09-11T11:29:11.407248Z",
+  "count": 21,
+  "updated_at": "2026-09-12T04:48:16.950217Z",
   "titles": [
     {
       "id": "by_any_means_2026",
@@ -984,6 +984,96 @@
       "scraped_at": "2026-09-06T20:27:30.710888Z"
     },
     {
+      "id": "mirzapur_the_movie",
+      "url": "https://www.rottentomatoes.com/m/mirzapur_the_movie",
+      "category": "crime",
+      "type": "movie",
+      "title": "Mirzapur: The Movie",
+      "original_title": "Mirzapur: The Movie",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "year": 2026,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 195,
+      "certificate": "Now Playing",
+      "rating": 6.5,
+      "votes": 64,
+      "tomatometer": 75,
+      "tomatometer_count": 16,
+      "tomatometer_certified": false,
+      "audience_score": 89,
+      "audience_count": 9,
+      "metascore": null,
+      "plot": "",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/CGNXL1cfmKB5fjlxxOs5Yoh3W68=/300x450/v2/https://resizing.flixster.com/timBZulYStoi3k7cbfo7rHRxZYk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA5YzYwN2FlLTMxOTEtNDgxNS1iNzNhLTQ5ODRkNTkyY2Q4Mi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/CGNXL1cfmKB5fjlxxOs5Yoh3W68=/300x450/v2/https://resizing.flixster.com/timBZulYStoi3k7cbfo7rHRxZYk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA5YzYwN2FlLTMxOTEtNDgxNS1iNzNhLTQ5ODRkNTkyY2Q4Mi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/6ErWrbWpwCuqf-lnLjKjBFGfij8=/fit-in/705x460/v2/https://resizing.flixster.com/timBZulYStoi3k7cbfo7rHRxZYk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA5YzYwN2FlLTMxOTEtNDgxNS1iNzNhLTQ5ODRkNTkyY2Q4Mi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "gurmmeet_singh",
+          "name": "Gurmmeet Singh"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "pankaj_tripathy",
+          "name": "Pankaj Tripathy",
+          "character": "",
+          "image": "https://resizing.flixster.com/ouBJ77kFwCjowvMEXqYorBAknPA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/658822_v9_aa.jpg"
+        },
+        {
+          "id": "ali_fazal",
+          "name": "Ali Fazal",
+          "character": "",
+          "image": "https://resizing.flixster.com/PkTM3LWVPMF99JoZv91waZGBPLA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG00268R70.jpg"
+        },
+        {
+          "id": "divyendu_sharma",
+          "name": "Divyendu Sharma",
+          "character": "",
+          "image": "https://resizing.flixster.com/IvICB4nrNl1eWl81PfFIiRyZVqg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/628677_v9_ba.jpg"
+        },
+        {
+          "id": "ravi_kissen",
+          "name": "Ravi Kishan",
+          "character": "",
+          "image": "https://resizing.flixster.com/8ErXbyx-hTHlQrVjAxxxIzeUXQ8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/263182_v9_ba.jpg"
+        },
+        {
+          "id": "jitendra_kumar",
+          "name": "Jitendra Kumar",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ij3E6RJv-sNE_so9-C4u6NIugJQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG003CVQT4.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-12T04:48:14.297604Z"
+    },
+    {
       "id": "no_man_of_god",
       "url": "https://www.rottentomatoes.com/m/no_man_of_god",
       "category": "crime",
@@ -1924,6 +2014,141 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-10T04:55:18.723736Z"
+    },
+    {
+      "id": "the_godfather_part_ii",
+      "url": "https://www.rottentomatoes.com/m/the_godfather_part_ii",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Godfather Part II",
+      "original_title": "The Godfather Part II",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1974,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 202,
+      "certificate": "R",
+      "rating": 9.8,
+      "votes": 89551,
+      "tomatometer": 96,
+      "tomatometer_count": 129,
+      "tomatometer_certified": true,
+      "audience_score": 97,
+      "audience_count": 18717,
+      "metascore": null,
+      "plot": "The compelling sequel to \"The Godfather,\" contrasting the life of Corleone father and son. Traces the problems of Michael Corleone (Al Pacino) in 1958 and that of a young immigrant Vito Corleone (Robert De Niro) in 1917's Hell's Kitchen. Michael survives many misfortunes and Vito is introduced to a life of crime.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/DETx1e9PMGs2GfqaWoAXfa4-ZJY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6319_p_v8_bc.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/DETx1e9PMGs2GfqaWoAXfa4-ZJY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6319_p_v8_bc.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/xk2Fo1TQohKAbd-1iLbWNWYbPpw=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/480/643/thumb_65B9B2EF-4085-47D0-8273-B343AFE875D0.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/8ZZ1TxHwaMCKmCb__po2WrvaJRI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/45852/45852_aa.jpg",
+          "caption": "Poster Art"
+        },
+        {
+          "url": "https://resizing.flixster.com/StSnxJZpqqkkKrKS-g5m5uTrCCY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6319_p_v8_bc.jpg",
+          "caption": "The Godfather, Part II (1974)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ZSc16awnAWpxgZuoHrBzub9K3W4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6319_i_h10_ac.jpg",
+          "caption": "The Godfather, Part II (1974)"
+        },
+        {
+          "url": "https://resizing.flixster.com/1GRIb7Z1a79fSX1Q1Faz4JlmBnQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/45852_ae.jpg",
+          "caption": "A scene from the film \"The Godfather Part II.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/6RlGRo7_5rgoV9v0R_wFm9dD9HA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/45852_af.jpg",
+          "caption": "A scene from the film \"The Godfather Part II.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/sdzltylY8lQI_R71KdsSkf-AqCY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/45852_ag.jpg",
+          "caption": "A scene from the film \"The Godfather Part II.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/Df4nkaOdifih3KEBlPOR-AUTQvY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/45852_ab.jpg",
+          "caption": "A scene from the film \"The Godfather Part II.\""
+        },
+        {
+          "url": "https://resizing.flixster.com/lp2m9v6KYo7inmzhrFLuhf3Yu5M=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/45852_ad.jpg",
+          "caption": "A scene from the film \"The Godfather Part II.\""
+        }
+      ],
+      "trailer": {
+        "id": "UXEdzwvdXAVz",
+        "title": "The Godfather: Part II: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/480/643/thumb_65B9B2EF-4085-47D0-8273-B343AFE875D0.jpg",
+        "seconds": 250,
+        "src": "https://link.theplatform.com/s/NGweTC/media/UXEdzwvdXAVz?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "francis_ford_coppola",
+          "name": "Francis Ford Coppola"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "al_pacino",
+          "name": "Al Pacino",
+          "character": "",
+          "image": "https://resizing.flixster.com/CwoXI3Wv77d65yfJ21YaR3LZVhY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/2657_v9_bb.jpg"
+        },
+        {
+          "id": "robert_duvall",
+          "name": "Robert Duvall",
+          "character": "",
+          "image": "https://resizing.flixster.com/AMlNYSUPanGGE1wvO6MiTGj9Id0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/481_v9_bb.jpg"
+        },
+        {
+          "id": "diane_keaton",
+          "name": "Diane Keaton",
+          "character": "",
+          "image": "https://resizing.flixster.com/RaBg9MnZXVaHARr_ny4TlmF61nI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/895_v9_bb.jpg"
+        },
+        {
+          "id": "robert_de_niro",
+          "name": "Robert De Niro",
+          "character": "",
+          "image": "https://resizing.flixster.com/C7n6hOb1bGNvM-VU26qEbVSMSCY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/55052_v9_bc.jpg"
+        },
+        {
+          "id": "john_cazale",
+          "name": "John Cazale",
+          "character": "",
+          "image": "https://resizing.flixster.com/28UL1sEXI18v4A_xkjurIVR22Qw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/86198_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Godfather-Part-II/140980?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-12T04:48:15.426896Z"
     },
     {
       "id": "the_whisper_man",

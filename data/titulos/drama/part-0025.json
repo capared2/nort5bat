@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 25,
   "count": 60,
-  "updated_at": "2026-09-11T21:06:36.162163Z",
+  "updated_at": "2026-09-12T04:47:53.851945Z",
   "titles": [
     {
       "id": "1002361-big_town",
@@ -99,7 +99,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:48:52.055818Z"
+      "scraped_at": "2026-09-12T04:40:31.276111Z"
     },
     {
       "id": "1007107-far_north",
@@ -195,10 +195,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DSRR59LC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T16:49:56.784360Z"
+      "scraped_at": "2026-09-12T04:41:35.110066Z"
     },
     {
       "id": "1037017-paradise",
@@ -302,7 +307,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T21:08:17.838722Z"
+      "scraped_at": "2026-09-12T04:46:19.082435Z"
     },
     {
       "id": "1067214-white_mans_burden",
