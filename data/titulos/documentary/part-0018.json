@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-09-11T21:08:37.756596Z",
+  "updated_at": "2026-09-12T10:59:43.240477Z",
   "titles": [
     {
       "id": "10007729-screamers",
@@ -155,7 +155,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-01T21:13:05.134862Z"
+      "scraped_at": "2026-09-12T10:54:33.111905Z"
     },
     {
       "id": "1169498-bridge",
@@ -232,7 +232,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-02T04:44:24.744133Z"
+      "scraped_at": "2026-09-12T10:59:09.657646Z"
     },
     {
       "id": "1183735-1183735-michael_moore_hates_america",
@@ -279,7 +279,12 @@
         }
       ],
       "trailer": null,
-      "directors": [],
+      "directors": [
+        {
+          "id": "michael_wilson_7",
+          "name": "Michael Wilson"
+        }
+      ],
       "writers": [],
       "cast": [],
       "keywords": [],
@@ -291,7 +296,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-02T04:44:52.858756Z"
+      "scraped_at": "2026-09-12T10:59:37.664256Z"
     },
     {
       "id": "a_disturbance_in_the_force",
