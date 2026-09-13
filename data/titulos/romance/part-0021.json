@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 21,
   "count": 60,
-  "updated_at": "2026-09-12T20:42:19.784194Z",
+  "updated_at": "2026-09-13T04:59:11.861884Z",
   "titles": [
     {
       "id": "1007105-far_from_the_madding_crowd",
@@ -998,12 +998,12 @@
       "runtime_minutes": 105,
       "certificate": "PG",
       "rating": 5.0,
-      "votes": 165,
+      "votes": 166,
       "tomatometer": 29,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
       "audience_score": 84,
-      "audience_count": 68,
+      "audience_count": 67,
       "metascore": null,
       "plot": "An Ohio housewife/mystery writer (JoBeth Williams) wins a trip to Paris, where a bump on the head brings adventure.",
       "tagline": "",
@@ -1088,7 +1088,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-02T16:44:52.597285Z"
+      "scraped_at": "2026-09-13T04:54:44.070335Z"
     },
     {
       "id": "angelfish_2019",
@@ -1201,7 +1201,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-02T21:07:35.489186Z"
+      "scraped_at": "2026-09-13T04:57:33.627832Z"
     },
     {
       "id": "another_man_another_chance",
@@ -1301,10 +1301,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DNTTYMH5/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-02T21:08:32.234285Z"
+      "scraped_at": "2026-09-13T04:58:30.297512Z"
     },
     {
       "id": "better_than_sex",
