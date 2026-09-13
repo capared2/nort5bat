@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-09-13T05:01:13.070107Z",
+  "updated_at": "2026-09-13T16:30:17.776563Z",
   "titles": [
     {
       "id": "10006188-rise",
@@ -636,7 +636,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T11:21:13.312444Z"
+      "scraped_at": "2026-09-13T16:26:46.342913Z"
     },
     {
       "id": "blumhouses_truth_or_dare",
@@ -655,12 +655,12 @@
       "runtime_minutes": 100,
       "certificate": "PG-13",
       "rating": 3.8,
-      "votes": 2161,
+      "votes": 2165,
       "tomatometer": 16,
       "tomatometer_count": 157,
       "tomatometer_certified": false,
       "audience_score": 23,
-      "audience_count": 616,
+      "audience_count": 618,
       "metascore": null,
       "plot": "A game of truth or dare results in fatalities when an unknown entity penalizes participants for lying or declining challenges.",
       "tagline": "",
@@ -718,6 +718,10 @@
         {
           "id": "jeff-wadlow",
           "name": "Jeff Wadlow"
+        },
+        {
+          "id": "nick_simon",
+          "name": "Nick Simon"
         }
       ],
       "writers": [],
@@ -745,12 +749,6 @@
           "name": "Sophia Ali",
           "character": "",
           "image": "https://resizing.flixster.com/CB1UV6JHehn1w5JNbKd-oCHAkX8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/609607_v9_bb.jpg"
-        },
-        {
-          "id": "landon_liboiron",
-          "name": "Landon Liboiron",
-          "character": "",
-          "image": "https://resizing.flixster.com/TPiKW-psCIZVf0G-Mf7KlhblHfg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/503642_v9_bc.jpg"
         }
       ],
       "keywords": [],
@@ -767,7 +765,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T11:24:30.007110Z"
+      "scraped_at": "2026-09-13T16:30:06.040745Z"
     },
     {
       "id": "bruiser",
