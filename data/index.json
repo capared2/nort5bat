@@ -1,6 +1,6 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-13T05:01:37.743952Z",
+  "generated_at": "2026-09-13T21:01:36.628779Z",
   "total_titles": 20173,
   "total_genres": 27,
   "genres": [
@@ -454,7 +454,7 @@
           "count": 19
         }
       ],
-      "tagged": 5322
+      "tagged": 5321
     },
     {
       "genre": "mystery-thriller",
@@ -823,11 +823,11 @@
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 2026,
+      "titles": 2025,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/horror/part-0002.json",
@@ -962,7 +962,7 @@
           "count": 46
         }
       ],
-      "tagged": 2031
+      "tagged": 2030
     },
     {
       "genre": "romance",
@@ -1593,11 +1593,11 @@
     {
       "genre": "other",
       "name": "Other",
-      "titles": 2,
+      "titles": 3,
       "files": [
         {
           "file": "titulos/other/part-0001.json",
-          "count": 2
+          "count": 3
         }
       ],
       "tagged": 19
