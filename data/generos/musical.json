@@ -1,7 +1,7 @@
 {
   "genre": "musical",
   "name": "Musical",
-  "count": 225,
+  "count": 226,
   "titles": [
     {
       "id": "the_lion_king",
@@ -1830,7 +1830,7 @@
         "Animation"
       ],
       "rating": 6.5,
-      "votes": 3602,
+      "votes": 3604,
       "tomatometer": 80,
       "audience_score": 98,
       "runtime_minutes": 115,
@@ -2210,6 +2210,31 @@
       "plot": "In this bittersweet, classic musical drama, the vibrant and beautiful young Fanny Brice (Barbra Streisand) starts out as a bit player on the New York City vaudeville stage, but works her way up to…",
       "directors": [
         "William Wyler"
+      ]
+    },
+    {
+      "id": "moana_2026",
+      "category": "musical",
+      "type": "movie",
+      "title": "Moana",
+      "original_title": "Moana",
+      "year": 2026,
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 4.8,
+      "votes": 2211,
+      "tomatometer": 33,
+      "audience_score": 88,
+      "runtime_minutes": 115,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Qg98671RZTDgLIe_zXzxusVUq_4=/300x450/v2/https://resizing.flixster.com/c67Ksj9Qk9BDVNnS5qEYU88zf3g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxMmU4YTNhLTg0MGEtNGQxMi05NzJmLTA0Nzc0NzM3NWJmZS5qcGc=",
+      "plot": "In Disney's live-action reimagining of the beloved Oscar®-nominated animated adventure, Moana (Catherine Laga'aia) answers the Ocean's call and, for the first time, voyages beyond the reef of her…",
+      "directors": [
+        "Thomas Kail"
       ]
     },
     {
@@ -4738,28 +4763,6 @@
       "plot": "Popular singer Jenny Bowman (Judy Garland) travels to London for a big show and while there arranges a meeting with old flame David Donne (Dirk Bogarde), with whom -- 15 years earlier -- she produced…",
       "directors": [
         "Ronald Neame"
-      ]
-    },
-    {
-      "id": "captain_january",
-      "category": "musical",
-      "type": "movie",
-      "title": "Captain January",
-      "original_title": "Captain January",
-      "year": 1936,
-      "genres": [
-        "Musical"
-      ],
-      "rating": 6.7,
-      "votes": 97,
-      "tomatometer": 83,
-      "audience_score": 75,
-      "runtime_minutes": 75,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/YkEDyITPLN86anboGfFRS617a-8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1500_p_v10_aa.jpg",
-      "plot": "Star (Shirley Temple) is a shipwrecked orphan girl growing up with a gentle lighthouse-keeper named Captain January (Guy Kibbee), who rescued her from the waves when she was just a baby. While she…",
-      "directors": [
-        "David Butler"
       ]
     }
   ]

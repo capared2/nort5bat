@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-14T13:03:10.760578Z",
-  "total_titles": 20195,
+  "generated_at": "2026-09-14T22:00:45.961457Z",
+  "total_titles": 20198,
   "total_genres": 27,
   "genres": [
     {
@@ -234,7 +234,7 @@
           "count": 7
         }
       ],
-      "tagged": 8914
+      "tagged": 8916
     },
     {
       "genre": "comedy",
@@ -454,12 +454,12 @@
           "count": 22
         }
       ],
-      "tagged": 5329
+      "tagged": 5331
     },
     {
       "genre": "mystery-thriller",
       "name": "Mystery & Thriller",
-      "titles": 1889,
+      "titles": 1890,
       "files": [
         {
           "file": "titulos/mystery-thriller/part-0001.json",
@@ -587,10 +587,10 @@
         },
         {
           "file": "titulos/mystery-thriller/part-0032.json",
-          "count": 29
+          "count": 30
         }
       ],
-      "tagged": 3962
+      "tagged": 3963
     },
     {
       "genre": "documentary",
@@ -818,7 +818,7 @@
           "count": 13
         }
       ],
-      "tagged": 2212
+      "tagged": 2213
     },
     {
       "genre": "horror",
@@ -967,7 +967,7 @@
     {
       "genre": "romance",
       "name": "Romance",
-      "titles": 1560,
+      "titles": 1561,
       "files": [
         {
           "file": "titulos/romance/part-0001.json",
@@ -1072,9 +1072,13 @@
         {
           "file": "titulos/romance/part-0026.json",
           "count": 60
+        },
+        {
+          "file": "titulos/romance/part-0027.json",
+          "count": 1
         }
       ],
-      "tagged": 1820
+      "tagged": 1822
     },
     {
       "genre": "adventure",
@@ -1094,7 +1098,7 @@
           "count": 22
         }
       ],
-      "tagged": 1430
+      "tagged": 1431
     },
     {
       "genre": "crime",
@@ -1318,7 +1322,7 @@
           "count": 41
         }
       ],
-      "tagged": 881
+      "tagged": 882
     },
     {
       "genre": "biography",
@@ -1503,7 +1507,7 @@
     {
       "genre": "musical",
       "name": "Musical",
-      "titles": 224,
+      "titles": 225,
       "files": [
         {
           "file": "titulos/musical/part-0001.json",
@@ -1519,10 +1523,10 @@
         },
         {
           "file": "titulos/musical/part-0004.json",
-          "count": 44
+          "count": 45
         }
       ],
-      "tagged": 225
+      "tagged": 226
     },
     {
       "genre": "holiday",

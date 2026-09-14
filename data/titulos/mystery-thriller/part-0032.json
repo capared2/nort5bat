@@ -1,8 +1,8 @@
 {
   "genre": "mystery-thriller",
   "part": 32,
-  "count": 29,
-  "updated_at": "2026-09-14T13:03:08.453583Z",
+  "count": 30,
+  "updated_at": "2026-09-14T22:00:43.578848Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -178,6 +178,113 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-13T12:00:11.787200Z"
+    },
+    {
+      "id": "drawn_together",
+      "url": "https://www.rottentomatoes.com/m/drawn_together",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Drawn Together",
+      "original_title": "Drawn Together",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Mystery & Thriller",
+        "Action"
+      ],
+      "year": 2026,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 104,
+      "certificate": null,
+      "rating": null,
+      "votes": 12,
+      "tomatometer": null,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 4,
+      "metascore": null,
+      "plot": "Following her mysterious kidnapping in New York, Marfil Cortés—the daughter of a Spanish tycoon—is under the protection of bodyguard Sebastián Moore. Despite their opposing personalities, an attraction develops between them.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/cxfF9wAPMLK0U7Cr9UHB8EPlAbc=/300x450/v2/https://resizing.flixster.com/y0zXXX6vRO7CS4wIkk-mSspFbfQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FiNzhhMGQ3LWZlMDEtNDI4OC1iNTE5LThlZGJjODQ3NThjYi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/cxfF9wAPMLK0U7Cr9UHB8EPlAbc=/300x450/v2/https://resizing.flixster.com/y0zXXX6vRO7CS4wIkk-mSspFbfQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FiNzhhMGQ3LWZlMDEtNDI4OC1iNTE5LThlZGJjODQ3NThjYi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tmnFHBpP8Av9F7YQtulScGZ4BXA=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33851478_i_h8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/h6wmfgK4Xsh5jOsngk8qKbSeiqU=/fit-in/705x460/v2/https://resizing.flixster.com/y0zXXX6vRO7CS4wIkk-mSspFbfQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FiNzhhMGQ3LWZlMDEtNDI4OC1iNTE5LThlZGJjODQ3NThjYi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wVeNIdX1AZjQjmZy12J-DOtsNnI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33851478_v_v12_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wGyS177QwfsVDrWof6OL-ilCNS8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33851478_i_h8_aa.jpg",
+          "caption": "Drawn Together (2026)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "oscar_pedraza",
+          "name": "Óscar Pedraza"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "ester_exposito",
+          "name": "Ester Expósito",
+          "character": "",
+          "image": "https://resizing.flixster.com/ALqR3IU8soTHjkzrS07uwaLkNck=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1190751_v9_ba.jpg"
+        },
+        {
+          "id": "hugo_diego_garcia",
+          "name": "Hugo Diego Garcia",
+          "character": "",
+          "image": "https://resizing.flixster.com/EqXUS_L6Jg-Bijr2Phrqe8-KCcU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1407538_v9_bb.jpg"
+        },
+        {
+          "id": "pablo_molinero",
+          "name": "Pablo Molinero",
+          "character": "",
+          "image": "https://resizing.flixster.com/AMyl2F6VChCpGy9dQf-9Oxk_XHo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/658140_v9_aa.jpg"
+        },
+        {
+          "id": "lluis_homar",
+          "name": "Lluís Homar",
+          "character": "",
+          "image": "https://resizing.flixster.com/GbJqqshpop7c5ikbX7ShzqKqfFs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/488891_v9_bb.jpg"
+        },
+        {
+          "id": "joaquin_ferreira",
+          "name": "Joaquín Ferreira",
+          "character": "",
+          "image": "https://resizing.flixster.com/3aev79qr984tck-6UVS-kXuTHOw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1054704_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HCJ1X15M/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-14T22:00:41.006859Z"
     },
     {
       "id": "game_over_2019",

@@ -1,8 +1,8 @@
 {
   "genre": "musical",
   "part": 4,
-  "count": 44,
-  "updated_at": "2026-09-14T13:00:26.252797Z",
+  "count": 45,
+  "updated_at": "2026-09-14T22:00:43.658458Z",
   "titles": [
     {
       "id": "1077332-pippi_longstocking",
@@ -1281,7 +1281,7 @@
       "runtime_minutes": 115,
       "certificate": "PG",
       "rating": 6.5,
-      "votes": 3602,
+      "votes": 3604,
       "tomatometer": 80,
       "tomatometer_count": 56,
       "tomatometer_certified": false,
@@ -1370,7 +1370,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-04T04:44:45.311340Z"
+      "scraped_at": "2026-09-14T21:53:12.323516Z"
     },
     {
       "id": "doctor_dolittle",
@@ -2366,6 +2366,139 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-06T20:33:02.874582Z"
+    },
+    {
+      "id": "moana_2026",
+      "url": "https://www.rottentomatoes.com/m/moana_2026",
+      "category": "musical",
+      "type": "movie",
+      "title": "Moana",
+      "original_title": "Moana",
+      "genres": [
+        "Kids & Family",
+        "Musical",
+        "Comedy",
+        "Adventure"
+      ],
+      "year": 2026,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 115,
+      "certificate": "PG",
+      "rating": 4.8,
+      "votes": 2211,
+      "tomatometer": 33,
+      "tomatometer_count": 197,
+      "tomatometer_certified": false,
+      "audience_score": 88,
+      "audience_count": 490,
+      "metascore": null,
+      "plot": "In Disney's live-action reimagining of the beloved Oscar®-nominated animated adventure, Moana (Catherine Laga'aia) answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui (Dwayne Johnson) on an unforgettable journey to restore prosperity to her people.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/Qg98671RZTDgLIe_zXzxusVUq_4=/300x450/v2/https://resizing.flixster.com/c67Ksj9Qk9BDVNnS5qEYU88zf3g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxMmU4YTNhLTg0MGEtNGQxMi05NzJmLTA0Nzc0NzM3NWJmZS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/Qg98671RZTDgLIe_zXzxusVUq_4=/300x450/v2/https://resizing.flixster.com/c67Ksj9Qk9BDVNnS5qEYU88zf3g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxMmU4YTNhLTg0MGEtNGQxMi05NzJmLTA0Nzc0NzM3NWJmZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/m9cH_JaMaXVjCiqD79EEBWcqMtg=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/280/215/thumb_7fd2eead-64e9-11f1-a916-022bbbb30d69.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FIaHmkgGB_a57AUzE-15DwBj9J8=/fit-in/705x460/v2/https://resizing.flixster.com/c67Ksj9Qk9BDVNnS5qEYU88zf3g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgxMmU4YTNhLTg0MGEtNGQxMi05NzJmLTA0Nzc0NzM3NWJmZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/WmWv_IYONOXI7WUnfIaL2QduOII=/fit-in/705x460/v2/https://resizing.flixster.com/WCskB3QT2RCsltkvGq_B09JVsY4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkYjU3ZDMwLWQzMzQtNDBhMS05ZGQxLWI3MjFiMjczNjFiZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/w1PRn20cS-5wIIqU41-U_i_uQXE=/fit-in/705x460/v2/https://resizing.flixster.com/BCFmfSnEElPN7mgxo3ysgjon6rk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RiMDY2YTgzLTk5YmQtNDVkNi04MjFhLWVkOWY1MjI1MjA3MS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/LObNRq9IfvFZxPKqnyl8GYZuJWE=/fit-in/705x460/v2/https://resizing.flixster.com/aonX64P8AEaAUBYgq9eaOEcaJCA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IzYTUwODM2LTFlZDAtNDE4My04YTg0LTM4ZGI4MmM4ZTIwNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/vywwjpvrkSlNeCKZM5qS3EvrSjg=/fit-in/705x460/v2/https://resizing.flixster.com/C7xmzljohWmvbaBnvJLsKIwiLuA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5MWQyNDM4LWY1YTEtNDhjYy1hNmMyLWFmZTQ1ODJmNGI4MC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jSvHxzS33GJrYn5PyDEYzdDYTC8=/fit-in/705x460/v2/https://resizing.flixster.com/P5lftURLuED7ix6z5l1gP1AYHWA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEyYTcyM2I5LThmMzktNDdhYy04NWMwLTI1NGQxYjZkYTI1My5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/nk8fuf9h154ysfU_HB7xgzFIACc=/fit-in/705x460/v2/https://resizing.flixster.com/fQ-_LG3baZW1rOvXxHCoj00bBOE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBmNmQyZTk4LTUzOWQtNGZkNS04YmY2LWU1ZmUxY2M3OTc4Ny5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wwVZE7MfXIkp2uTTksvCZYJzOQA=/fit-in/705x460/v2/https://resizing.flixster.com/a_HThYkia8eu-uo_FuFfywixr1g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdlNTI2NzU2LTZjZjQtNDJmYy1iYzFjLTJlOWUyYmViZjNkYS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "GKgNO8ArnMJA",
+        "title": "Moana (2026): Final Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/280/215/thumb_7fd2eead-64e9-11f1-a916-022bbbb30d69.jpg",
+        "seconds": 129,
+        "src": "https://link.theplatform.com/s/NGweTC/media/GKgNO8ArnMJA?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "thomas_kail",
+          "name": "Thomas Kail"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "catherine_lagaaia",
+          "name": "Catherine Laga'aia",
+          "character": "",
+          "image": "https://resizing.flixster.com/SKEnMQnWCmZ8b1PhpkayW4Ww7m4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG00396145.jpg"
+        },
+        {
+          "id": "dwayne_johnson",
+          "name": "Dwayne Johnson",
+          "character": "",
+          "image": "https://resizing.flixster.com/oFQq6NDzvVpMiXGQFmudfTr5Ua4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/235135_v9_bc.jpg"
+        },
+        {
+          "id": "rena_owen",
+          "name": "Rena Owen",
+          "character": "",
+          "image": "https://resizing.flixster.com/Q7WDnRFkEzT70K-Fpu2D-iVQYGo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG00365DBK.jpg"
+        },
+        {
+          "id": "john_tui",
+          "name": "John Tui",
+          "character": "",
+          "image": "https://resizing.flixster.com/cmof7sDyN_OXq3kjtdtB9MNlCIA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/433320_v9_ba.jpg"
+        },
+        {
+          "id": "frankie_adams",
+          "name": "Frankie Adams",
+          "character": "",
+          "image": "https://resizing.flixster.com/_JNGmC5cMiPugdM520UPoAy-3go=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1029892_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Moana-2026/5100835?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-14T22:00:43.020255Z"
     },
     {
       "id": "mulan",
