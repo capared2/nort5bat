@@ -1,8 +1,32 @@
 {
   "genre": "anime",
   "name": "Anime",
-  "count": 27,
+  "count": 28,
   "titles": [
+    {
+      "id": "princess_mononoke",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Princess Mononoke",
+      "original_title": "Princess Mononoke",
+      "year": null,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Anime"
+      ],
+      "rating": 8.6,
+      "votes": 44640,
+      "tomatometer": 93,
+      "audience_score": 94,
+      "runtime_minutes": 133,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/SyA0W4pztTJEQNPlUwh6_gkVRkU=/300x450/v2/https://resizing.flixster.com/Upfr2Fw5HFttfNRjkh_ShHL-LIs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwNmM3NDcyLWVlMmItNGE3Yy05ZjllLTkzYjkyMTA4ZTU1OC5qcGc=",
+      "plot": "A prince becomes involved in the struggle between a forest princess and the encroachment of mechanization.",
+      "directors": [
+        "Hayao Miyazaki"
+      ]
+    },
     {
       "id": "akira",
       "category": "sci-fi",
@@ -590,6 +614,30 @@
       ]
     },
     {
+      "id": "cocoon_one_summer_of_girlhood",
+      "category": "anime",
+      "type": "movie",
+      "title": "Cocoon: One Summer of Girlhood",
+      "original_title": "Cocoon: One Summer of Girlhood",
+      "year": null,
+      "genres": [
+        "Drama",
+        "War",
+        "Anime"
+      ],
+      "rating": null,
+      "votes": 31,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 85,
+      "certificate": "Sep 2026",
+      "poster": "https://resizing.flixster.com/vrtMnB3jtKHAHXhJp8M7JaANFi0=/300x450/v2/https://resizing.flixster.com/6aGFNMBzllRQ_tHohN4ICxVHMuY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyMmUyNmI0LTVjMWEtNDUxMS1hMWE0LTNkYzBmZjljZTY0MC5qcGc=",
+      "plot": "San and Mayu attend an all-girls school on a warm and tranquil island. When war reaches their shores, they are ordered to help nurse the wounded in a military hospital hidden away in a cave. Amidst…",
+      "directors": [
+        "Yukimitsu Ina"
+      ]
+    },
+    {
       "id": "the_last_blossom_2025",
       "category": "anime",
       "type": "movie",
@@ -614,30 +662,6 @@
     },
     {
       "id": "cocoon_aru_natsu_no_shoujo_tachi_yori",
-      "category": "anime",
-      "type": "movie",
-      "title": "Cocoon: One Summer of Girlhood",
-      "original_title": "Cocoon: One Summer of Girlhood",
-      "year": null,
-      "genres": [
-        "Drama",
-        "War",
-        "Anime"
-      ],
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "audience_score": null,
-      "runtime_minutes": 85,
-      "certificate": "In Theaters Sep 4",
-      "poster": "https://resizing.flixster.com/vrtMnB3jtKHAHXhJp8M7JaANFi0=/300x450/v2/https://resizing.flixster.com/6aGFNMBzllRQ_tHohN4ICxVHMuY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyMmUyNmI0LTVjMWEtNDUxMS1hMWE0LTNkYzBmZjljZTY0MC5qcGc=",
-      "plot": "San and Mayu attend an all-girls school on a warm and tranquil island. When war reaches their shores, they are ordered to help nurse the wounded in a military hospital hidden away in a cave. Amidst…",
-      "directors": [
-        "Yukimitsu Ina"
-      ]
-    },
-    {
-      "id": "cocoon_one_summer_of_girlhood",
       "category": "anime",
       "type": "movie",
       "title": "Cocoon: One Summer of Girlhood",

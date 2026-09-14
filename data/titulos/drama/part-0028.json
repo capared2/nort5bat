@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 28,
   "count": 60,
-  "updated_at": "2026-09-14T05:09:20.037417Z",
+  "updated_at": "2026-09-14T13:02:26.294676Z",
   "titles": [
     {
       "id": "1002203-betrayal",
@@ -2005,7 +2005,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-04T04:40:36.873839Z"
+      "scraped_at": "2026-09-14T12:59:33.001743Z"
     },
     {
       "id": "dallas-362",
@@ -2097,10 +2097,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HGL7H6LR/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-04T04:42:43.683964Z"
+      "scraped_at": "2026-09-14T13:01:40.838625Z"
     },
     {
       "id": "dangerous_lives_of_altar_boys",
@@ -2224,7 +2229,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-04T04:43:14.755368Z"
+      "scraped_at": "2026-09-14T13:02:11.862605Z"
     },
     {
       "id": "dangerous_minds",
@@ -2332,7 +2337,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-04T04:43:15.425777Z"
+      "scraped_at": "2026-09-14T13:02:12.830824Z"
     },
     {
       "id": "daniel",
@@ -2440,7 +2445,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-04T04:43:18.832695Z"
+      "scraped_at": "2026-09-14T13:02:16.116806Z"
     },
     {
       "id": "death_of_a_president",

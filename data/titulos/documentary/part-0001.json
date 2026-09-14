@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-14T05:05:16.397724Z",
+  "updated_at": "2026-09-14T12:58:23.245916Z",
   "titles": [
     {
       "id": "a_beautiful_planet",
@@ -1048,7 +1048,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:10:58.347415Z"
+      "scraped_at": "2026-09-14T12:54:43.840060Z"
     },
     {
       "id": "confessions_of_a_good_samaritan",
@@ -1149,7 +1149,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:12:46.606067Z"
+      "scraped_at": "2026-09-14T12:56:31.521570Z"
     },
     {
       "id": "convergence_courage_in_a_crisis",
@@ -1242,7 +1242,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:13:19.441248Z"
+      "scraped_at": "2026-09-14T12:57:03.659475Z"
     },
     {
       "id": "cookie_queens",
@@ -1260,12 +1260,12 @@
       "runtime_minutes": 91,
       "certificate": "G",
       "rating": 7.3,
-      "votes": 105,
+      "votes": 115,
       "tomatometer": 91,
       "tomatometer_count": 56,
       "tomatometer_certified": true,
-      "audience_score": 63,
-      "audience_count": 43,
+      "audience_score": 66,
+      "audience_count": 52,
       "metascore": null,
       "plot": "A celebration of girlhood and the complexities that come with it, Cookie Queens is a coming-of-age story about the joys, pressures, and tensions woven into one of America's most cherished rituals: Girl Scout Cookie season.",
       "tagline": "",
@@ -1333,10 +1333,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Cookie-Queens/5069853?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:13:25.111702Z"
+      "scraped_at": "2026-09-14T12:57:09.553253Z"
     },
     {
       "id": "disneynature_bears",

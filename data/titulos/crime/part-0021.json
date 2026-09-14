@@ -1,8 +1,8 @@
 {
   "genre": "crime",
   "part": 21,
-  "count": 21,
-  "updated_at": "2026-09-13T21:01:13.183010Z",
+  "count": 22,
+  "updated_at": "2026-09-14T13:03:08.731264Z",
   "titles": [
     {
       "id": "by_any_means_2026",
@@ -149,18 +149,18 @@
         "Crime",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 109,
-      "certificate": "In Theaters Sep 4",
-      "rating": 7.4,
-      "votes": null,
+      "certificate": "Sep 2026",
+      "rating": 7.5,
+      "votes": 20,
       "tomatometer": 100,
-      "tomatometer_count": 10,
+      "tomatometer_count": 14,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 11,
       "metascore": null,
       "plot": "COME WITH ME follows Simon, a working class man who finds his life upended after suffering a traumatic home invasion. Compounded by trouble at his job and the loss of his best friend, and fueled by a rhetoric-spewing radio host, Simon begins a deadly descent into his own mind, trying to rectify the perceived wrongs and cleanse the injustice he starts to see in the world around him.",
       "tagline": "",
@@ -247,10 +247,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Come-With-Me/5069857?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:11:55.712931Z"
+      "scraped_at": "2026-09-14T12:55:40.577332Z"
     },
     {
       "id": "daayra",
@@ -327,7 +332,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T12:48:21.124006Z"
+      "scraped_at": "2026-09-14T13:01:20.098729Z"
     },
     {
       "id": "facing_el_chapo",
@@ -1919,6 +1924,135 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-09T21:05:58.964376Z"
+    },
+    {
+      "id": "the_deputy_2026",
+      "url": "https://www.rottentomatoes.com/m/the_deputy_2026",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Deputy",
+      "original_title": "The Deputy",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Comedy",
+        "Mystery & Thriller"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 98,
+      "certificate": "R",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "Chief Kreuger (William H. Macy) assigns rookie Deputy Toby Sawyer (Duke Nicholson) to guard a dead body. But when the corpse vanishes, Toby launches a frantic search that unearths decades of small-town rot. Pressured to look the other way, Toby finds a lone ally in Deputy Amanda Jackson (Tiffany Haddish) and sets his sights to unravel a lethal web of corruption to clear his name in a town where secrets stay buried.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/SP1Z7_AVb4eSrMnKx3Y6ZeAeGKc=/300x450/v2/https://resizing.flixster.com/F9QggVlicz3soKGn_uIMQLGImXk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczNmQ2ZjA4LTc4NWItNDY2Zi1iYzFiLTE3MmI0ZDM3Yjg5Mi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/SP1Z7_AVb4eSrMnKx3Y6ZeAeGKc=/300x450/v2/https://resizing.flixster.com/F9QggVlicz3soKGn_uIMQLGImXk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczNmQ2ZjA4LTc4NWItNDY2Zi1iYzFiLTE3MmI0ZDM3Yjg5Mi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/xPfkMWduUTJsvZUnN2r6hMAlnqM=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/543/947/thumb_6CED2F8C-DE3E-4842-9DE4-42111A39A906.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NhOfLvJyV_gegf108WA3hIIiocc=/fit-in/705x460/v2/https://resizing.flixster.com/bwxdEQaTEsTCJOZL2EVPg7FtQsY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1MmEzMDFiLWMzMmItNGY1NC1hNjhhLTQyNTM2ZjI4NjJmNC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/j8jgjGvh97T_3mt4TR7hzECNNvU=/fit-in/705x460/v2/https://resizing.flixster.com/_yPPlT-8aeKCCY8lNwXWfxb5PdM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc2OTQyYmJjLTBiNzctNGNlZC1hMmZiLTc4N2JlOTFmZDM3MS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Hla1pj_YyuEW9oqbhMOND1kOQa0=/fit-in/705x460/v2/https://resizing.flixster.com/l5PaATROxESCCMHTd7eEf9clFHM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFmMjdjMDE4LTZmYmItNGIxNi05Njg1LWNmN2IyZmUyZGY5OC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/mU_JF31SLojpvu4VTXvg2L2kFeA=/fit-in/705x460/v2/https://resizing.flixster.com/8Yo1ax8vhFT0iC8f3b0g6oTKlio=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBkMjQ2MzlkLWNjMDktNDliYi1iYjJlLTEwNGVkNWI1ZGQyNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/xP2Bil3ATbrhzyVWs7x0eT0wai8=/fit-in/705x460/v2/https://resizing.flixster.com/XQE1WyUPLYlYIuYU0WNKNQ8vpow=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRmZWNlOTJlLTdhMWMtNGFlNC04ZDhlLTU0NDg4YjcyMGIxNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/R_uNmLAxCtHQqsEsZn9sj5BlsiU=/fit-in/705x460/v2/https://resizing.flixster.com/hfXX-cBCCU5MYhts3VlmRSjjWiw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiYmRkNWQwLTI0MGUtNGY2OS04N2RjLWY1MmQzNTUwMTRmMi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BURoKBJAqfD3dLCD-k-MhX9GiAM=/fit-in/705x460/v2/https://resizing.flixster.com/YoJSRpxY3MEgtlMBD34ZXHHHA88=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViMTA1M2M1LTFkOTAtNGFhYi1hZjY3LTcwNzJhMTZkZGEzNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1d3jjxOZGfP2S0pdVeW1sSNnNh0=/fit-in/705x460/v2/https://resizing.flixster.com/Gfv_xkKiJJpChY1epVa8mT8H-hY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdlYzhkMjRkLTk0MzgtNDM3Zi04OGI3LTkwYTU1ZmIwMGVlNi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "lFHTbnLGE1zn",
+        "title": "The Deputy: Exclusive Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/543/947/thumb_6CED2F8C-DE3E-4842-9DE4-42111A39A906.jpg",
+        "seconds": 110,
+        "src": "https://link.theplatform.com/s/NGweTC/media/lFHTbnLGE1zn?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "matt_sukkar_2",
+          "name": "Matt Sukkar"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "duke_nicholson",
+          "name": "Duke Nicholson",
+          "character": "",
+          "image": "https://resizing.flixster.com/DSpA4O3XqMHCGhA2-u7PiPItYbY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1189695_v9_ba.jpg"
+        },
+        {
+          "id": "stephen_dorff",
+          "name": "Stephen Dorff",
+          "character": "",
+          "image": "https://resizing.flixster.com/VnsVlMoncUBJyAYUp1qd_jfLPdg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/60142_v9_bd.jpg"
+        },
+        {
+          "id": "william_h_macy",
+          "name": "William H. Macy",
+          "character": "",
+          "image": "https://resizing.flixster.com/ERpyRjdnYYcP_0AK347bqKTXsug=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/66104_v9_bc.jpg"
+        },
+        {
+          "id": "tiffany-haddish",
+          "name": "Tiffany Haddish",
+          "character": "",
+          "image": "https://resizing.flixster.com/vCi-VeBJ1Pp1e1MI-rSIpIBoRKU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/513704_v9_bb.jpg"
+        },
+        {
+          "id": "colleen_camp",
+          "name": "Colleen Camp",
+          "character": "",
+          "image": "https://resizing.flixster.com/_-jr4QAi9UpkH85eM5VhvzHGZ3w=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/13614_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-14T13:02:55.372339Z"
     },
     {
       "id": "the_girl_in_the_river",

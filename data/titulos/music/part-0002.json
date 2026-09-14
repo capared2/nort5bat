@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-09-14T05:05:17.871487Z",
+  "updated_at": "2026-09-14T13:00:26.296594Z",
   "titles": [
     {
       "id": "1200743-wrecking_crew",
@@ -1324,12 +1324,12 @@
       "runtime_minutes": 115,
       "certificate": null,
       "rating": 6.3,
-      "votes": 66,
+      "votes": 65,
       "tomatometer": 50,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 88,
-      "audience_count": 20,
+      "audience_score": 89,
+      "audience_count": 19,
       "metascore": null,
       "plot": "A portrait of rock band Coldplay's rise to fame, from playing in pubs to selling out stadiums across the world. Members of the band reflect upon their two decades together.",
       "tagline": "",
@@ -1385,10 +1385,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GYBNV5FR/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:11:19.596849Z"
+      "scraped_at": "2026-09-14T12:55:03.809529Z"
     },
     {
       "id": "contemporary_color",
@@ -1492,7 +1497,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:13:09.136666Z"
+      "scraped_at": "2026-09-14T12:56:55.150099Z"
     },
     {
       "id": "crock_of_gold",
@@ -1592,7 +1597,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-04T04:40:40.730028Z"
+      "scraped_at": "2026-09-14T12:59:36.656787Z"
     },
     {
       "id": "devo",
