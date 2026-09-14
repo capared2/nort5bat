@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 43,
   "count": 60,
-  "updated_at": "2026-09-13T20:59:11.338494Z",
+  "updated_at": "2026-09-14T05:09:19.763815Z",
   "titles": [
     {
       "id": "10009186-skippy",
@@ -1366,10 +1366,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Cecil-B-Demented/7091?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T16:36:30.426464Z"
+      "scraped_at": "2026-09-14T05:03:25.629515Z"
     },
     {
       "id": "chasers",
@@ -1474,7 +1479,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:05:50.756684Z"
+      "scraped_at": "2026-09-14T05:04:52.697105Z"
     },
     {
       "id": "city_slickers",
@@ -1598,7 +1603,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-03T21:09:10.942857Z"
+      "scraped_at": "2026-09-14T05:08:14.067265Z"
     },
     {
       "id": "crazy_as_hell",
