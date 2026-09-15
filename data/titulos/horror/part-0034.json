@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 48,
-  "updated_at": "2026-09-15T11:52:55.506137Z",
+  "updated_at": "2026-09-15T21:26:48.076187Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -1452,18 +1452,18 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 80,
-      "certificate": "In Theaters Sep 11",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 4,
+      "certificate": "Sep 2026",
+      "rating": 6.1,
+      "votes": 6,
+      "tomatometer": 86,
+      "tomatometer_count": 14,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 5,
       "metascore": null,
       "plot": "A Florida vacation becomes a blood-soaked fight for survival when a group of friends are hunted through the swamps by a savage cult that feeds its victims to ravenous alligators in the name of an ancient reptilian god.",
       "tagline": "",
@@ -1498,11 +1498,15 @@
           "caption": ""
         },
         {
+          "url": "https://resizing.flixster.com/ie-ZiSDacYV8J5exDKu9zLrzXnE=/fit-in/705x460/v2/https://resizing.flixster.com/f4Mb7KF4jHXpwLZMgU14TuwBh0A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QzZjRhZjU2LTkzZjgtNDFhZC05ZTVhLTkwYWMwZDY5OTM1ZC5qcGc=",
+          "caption": ""
+        },
+        {
           "url": "https://resizing.flixster.com/CbcY45_lfV0Vsuj_a97ztMVW8Wg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33281381_i_h10_aa.jpg",
           "caption": "Gator Face (2026)"
         },
         {
-          "url": "https://resizing.flixster.com/ie-ZiSDacYV8J5exDKu9zLrzXnE=/fit-in/705x460/v2/https://resizing.flixster.com/f4Mb7KF4jHXpwLZMgU14TuwBh0A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QzZjRhZjU2LTkzZjgtNDFhZC05ZTVhLTkwYWMwZDY5OTM1ZC5qcGc=",
+          "url": "https://resizing.flixster.com/fgoxtVzDbBHK3oU0SKd3ZlHapc0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33281381_v_v12_ac.jpg",
           "caption": ""
         }
       ],
@@ -1558,10 +1562,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Gator-Face/5007808?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T04:40:27.091065Z"
+      "scraped_at": "2026-09-15T21:25:19.395784Z"
     },
     {
       "id": "haunted_heist",
