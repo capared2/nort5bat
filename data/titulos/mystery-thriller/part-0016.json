@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 16,
   "count": 60,
-  "updated_at": "2026-09-15T11:52:55.056635Z",
+  "updated_at": "2026-09-15T17:11:16.680684Z",
   "titles": [
     {
       "id": "10009225-body_of_lies",
@@ -1958,10 +1958,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HDY77DM9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T04:38:25.357967Z"
+      "scraped_at": "2026-09-15T17:10:06.544811Z"
     },
     {
       "id": "gods_creatures",
