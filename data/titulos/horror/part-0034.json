@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 48,
-  "updated_at": "2026-09-16T04:59:38.348838Z",
+  "updated_at": "2026-09-16T11:47:16.626262Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -1955,18 +1955,18 @@
         "Mystery & Thriller",
         "Sci-Fi"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 160,
       "certificate": "R",
-      "rating": 6.4,
-      "votes": null,
-      "tomatometer": 73,
-      "tomatometer_count": 60,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "rating": 6.9,
+      "votes": 666,
+      "tomatometer": 79,
+      "tomatometer_count": 143,
+      "tomatometer_certified": true,
+      "audience_score": 79,
+      "audience_count": 206,
       "metascore": null,
       "plot": "A police chief, a policewoman and a group of hunters try to track down and kill a mysterious creature that's laying waste to a Korean village.",
       "tagline": "",
@@ -2065,10 +2065,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Hope/5134919?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T15:24:08.560799Z"
+      "scraped_at": "2026-09-16T11:42:34.692600Z"
     },
     {
       "id": "how_to_make_a_werewolf",
@@ -2152,7 +2157,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T20:25:51.323560Z"
+      "scraped_at": "2026-09-16T11:44:45.838666Z"
     },
     {
       "id": "huntress_2024",
@@ -2234,7 +2239,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T20:26:46.332402Z"
+      "scraped_at": "2026-09-16T11:45:42.077261Z"
     },
     {
       "id": "kwaidan",

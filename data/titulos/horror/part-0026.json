@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-09-15T05:02:52.071029Z",
+  "updated_at": "2026-09-16T11:49:18.825354Z",
   "titles": [
     {
       "id": "1015710-other",
@@ -2365,7 +2365,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T20:26:22.375561Z"
+      "scraped_at": "2026-09-16T11:45:18.236860Z"
     },
     {
       "id": "hunter_of_the_night",
@@ -2390,7 +2390,7 @@
       "audience_score": null,
       "audience_count": 0,
       "metascore": null,
-      "plot": "When five friends accidentally stumble upon a man with a deranged promise, they start to realize this college get away is a deadly trap.",
+      "plot": "When five friends accidentally stumble upon a man with a deranged promise, they start to realize this college getaway is a deadly trap.",
       "tagline": "",
       "poster": "https://resizing.flixster.com/32jAqFErnHetoyl7jTwc0Oujr0M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28472121_v_v7_aa.jpg",
       "images": [
@@ -2457,10 +2457,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D7N88Q4S/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T20:26:40.312109Z"
+      "scraped_at": "2026-09-16T11:45:36.199652Z"
     },
     {
       "id": "ilsa_she_wolf_of_the_ss",
@@ -2555,7 +2560,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T20:30:17.767980Z"
+      "scraped_at": "2026-09-16T11:49:13.065391Z"
     },
     {
       "id": "inherit_the_witch",

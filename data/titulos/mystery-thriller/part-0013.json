@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-09-16T05:01:38.993219Z",
+  "updated_at": "2026-09-16T11:47:17.309196Z",
   "titles": [
     {
       "id": "1011319-juggernaut",
@@ -4034,7 +4034,7 @@
       "runtime_minutes": 135,
       "certificate": "PG",
       "rating": 7.8,
-      "votes": 15435,
+      "votes": 15437,
       "tomatometer": 88,
       "tomatometer_count": 76,
       "tomatometer_certified": true,
@@ -4050,7 +4050,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/Lmi3cNn6yzGjWnYid5CFAJbP3Z4=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12153_i_h10_af.jpg",
+          "url": "https://resizing.flixster.com/-yXOLqcCWbhzHysL6i4bvdaX49k=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/934/835/thumb_6ECE5605-4ABC-4CE6-BF19-6F8F1E581529.jpg",
           "caption": ""
         },
         {
@@ -4086,7 +4086,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "bIWy0ihqfodm",
+        "title": "The Hunt for Red October: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/934/835/thumb_6ECE5605-4ABC-4CE6-BF19-6F8F1E581529.jpg",
+        "seconds": 94,
+        "src": "https://link.theplatform.com/s/NGweTC/media/bIWy0ihqfodm?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "john_mctiernan",
@@ -4140,7 +4146,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T20:26:34.379741Z"
+      "scraped_at": "2026-09-16T11:45:30.912372Z"
     },
     {
       "id": "irresistible",
