@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-09-16T11:49:18.644348Z",
+  "updated_at": "2026-09-16T17:07:53.544803Z",
   "titles": [
     {
       "id": "1003033-brazil",
@@ -3733,22 +3733,12 @@
           "name": "Tom McKeith"
         },
         {
-          "id": "will_howarth_2",
-          "name": "Will Howarth"
-        },
-        {
           "id": "will_howarth",
           "name": "Will Howarth"
         }
       ],
       "writers": [],
       "cast": [
-        {
-          "id": "will_howarth_2",
-          "name": "Will Howarth",
-          "character": "",
-          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
-        },
         {
           "id": "talia-zucker",
           "name": "Talia Zucker",
@@ -3760,6 +3750,12 @@
           "name": "Ashley Zukerman",
           "character": "",
           "image": "https://resizing.flixster.com/G3AOLz8asOhBXi9zeVsyWKMjA2Y=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/637544_v9_bb.jpg"
+        },
+        {
+          "id": "will_howarth",
+          "name": "Will Howarth",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         }
       ],
       "keywords": [],
@@ -3772,11 +3768,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/In-Vitro/4216170?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0F61LFDG1/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T20:32:31.559271Z"
+      "scraped_at": "2026-09-16T17:03:38.922930Z"
     },
     {
       "id": "invasion",
@@ -3795,12 +3795,12 @@
       "runtime_minutes": 99,
       "certificate": "PG-13",
       "rating": 4.7,
-      "votes": 20052,
+      "votes": 20055,
       "tomatometer": 20,
       "tomatometer_count": 163,
       "tomatometer_certified": false,
       "audience_score": 40,
-      "audience_count": 9352,
+      "audience_count": 9353,
       "metascore": null,
       "plot": "Washington, D.C. psychologist Carol Bennell and her colleague Dr. Ben Driscoll are the only two people on Earth who are aware of an epidemic running rampant through the city. They discover an alien virus aboard a crashed space shuttle that transforms anyone who comes into contact with it into unfeeling drones while they sleep. Carol realizes her son holds the key to stopping the spread of the plague, and she races to find him before it is too late.",
       "tagline": "",
@@ -3901,7 +3901,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T04:44:47.646945Z"
+      "scraped_at": "2026-09-16T17:06:05.638098Z"
     },
     {
       "id": "knowing",

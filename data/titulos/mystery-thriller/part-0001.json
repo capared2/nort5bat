@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-16T11:49:18.281228Z",
+  "updated_at": "2026-09-16T17:07:52.268554Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -2444,11 +2444,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/81556191?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CVNK918F/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-05T20:32:06.419441Z"
+      "scraped_at": "2026-09-16T17:03:13.697234Z"
     },
     {
       "id": "it_was_just_an_accident",
@@ -2469,7 +2473,7 @@
       "rating": 8.7,
       "votes": 94,
       "tomatometer": 98,
-      "tomatometer_count": 220,
+      "tomatometer_count": 221,
       "tomatometer_certified": true,
       "audience_score": 93,
       "audience_count": 8,
@@ -2587,7 +2591,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T04:46:15.561514Z"
+      "scraped_at": "2026-09-16T17:07:31.920197Z"
     },
     {
       "id": "john_wick_chapter_4",
