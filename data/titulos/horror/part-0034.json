@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 48,
-  "updated_at": "2026-09-16T11:47:16.626262Z",
+  "updated_at": "2026-09-17T05:04:57.233087Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -2252,18 +2252,18 @@
         "Horror",
         "Fantasy"
       ],
-      "year": null,
+      "year": 1965,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 164,
-      "certificate": "In Theaters Sep 11",
+      "certificate": null,
       "rating": 7.9,
-      "votes": 1053,
+      "votes": 1057,
       "tomatometer": 91,
       "tomatometer_count": 46,
       "tomatometer_certified": true,
       "audience_score": 89,
-      "audience_count": 339,
+      "audience_count": 341,
       "metascore": null,
       "plot": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai (Rentarô Mikuni) marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden (Keiko Kishi), but his rescue comes at a cost. Blind musician Hoichi (Katsuo Nakamura) is forced to perform for an audience of ghosts. An author (Osamu Takizawa) relates the story of a samurai who sees another warrior's reflection in his teacup.",
       "tagline": "",
@@ -2344,10 +2344,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Kwaidan/16862?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T11:06:46.204798Z"
+      "scraped_at": "2026-09-17T04:56:56.606618Z"
     },
     {
       "id": "light_2024",
@@ -2371,7 +2380,7 @@
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": 22,
-      "audience_count": 20,
+      "audience_count": 19,
       "metascore": null,
       "plot": "After crash-landing in an escape pod on a dark and misty planet, a mother is hunted by an alien creature which is drawn to the lights she must use to find her missing son.",
       "tagline": "",
@@ -2458,11 +2467,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Light/2896158?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CW9W77WX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T15:34:39.285637Z"
+      "scraped_at": "2026-09-17T05:04:17.858070Z"
     },
     {
       "id": "mayhem_2017",

@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-09-16T21:27:25.794203Z",
+  "updated_at": "2026-09-17T05:02:56.221431Z",
   "titles": [
     {
       "id": "1072156-island_of_dr_moreau",
@@ -2721,10 +2721,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B68X955N/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T11:09:07.061187Z"
+      "scraped_at": "2026-09-17T04:59:16.619952Z"
     },
     {
       "id": "lawnmower_man_2_jobes_war",
@@ -2828,11 +2833,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Lawnmower-Man-2-Beyond-Cyberspace/1564916?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B5N1FLLC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T15:30:58.787734Z"
+      "scraped_at": "2026-09-17T05:00:37.109508Z"
     },
     {
       "id": "let_us_in",
@@ -2851,12 +2860,12 @@
       "runtime_minutes": 79,
       "certificate": null,
       "rating": 4.3,
-      "votes": 25,
+      "votes": 26,
       "tomatometer": 22,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 16,
-      "audience_count": 11,
+      "audience_score": 15,
+      "audience_count": 12,
       "metascore": null,
       "plot": "A spirited twelve year old girl and her best friend look to uncover the sudden disappearances of several missing teens in their small town. Realizing there might be something deeper happening, Emily and Christopher might be up against forces they can't even imagine. Based on the urban legend \"The Black Eyed Kids.\"",
       "tagline": "",
@@ -2967,7 +2976,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T15:33:06.027422Z"
+      "scraped_at": "2026-09-17T05:02:44.278008Z"
     },
     {
       "id": "lost_in_space",

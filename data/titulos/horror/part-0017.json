@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-09-16T17:05:51.477873Z",
+  "updated_at": "2026-09-17T05:02:55.940646Z",
   "titles": [
     {
       "id": "1008015-fury",
@@ -4442,7 +4442,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T11:07:26.374427Z"
+      "scraped_at": "2026-09-17T04:57:38.143368Z"
     },
     {
       "id": "legion-of-the-dead",
@@ -4461,17 +4461,26 @@
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 3.3,
-      "votes": 81,
+      "votes": 82,
       "tomatometer": 17,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 19,
-      "audience_count": 38,
+      "audience_score": 18,
+      "audience_count": 39,
       "metascore": null,
       "plot": "William (Michael Carr) and Luke (Russell Friedenberg) take a trip through the desert and are kidnapped by Psycho Mike, a notorious killer. They escape from his clutches and arrive in a town run by a sadistic gang who are creating an army of the dead.",
       "tagline": "",
-      "poster": null,
-      "images": [],
+      "poster": "https://resizing.flixster.com/6I5hfI2OFJxcuUKHHmnrhotpmXA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8598257_v_v8_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/6I5hfI2OFJxcuUKHHmnrhotpmXA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8598257_v_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/I9oGyfLIsQH7gma25nAT-0KstEw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8598257_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
       "trailer": null,
       "directors": [
         {
@@ -4518,10 +4527,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HBHBGBG2/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T15:32:07.368966Z"
+      "scraped_at": "2026-09-17T05:01:47.510837Z"
     },
     {
       "id": "living_with_chucky",
