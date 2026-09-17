@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-09-17T05:04:57.288915Z",
+  "updated_at": "2026-09-17T11:54:55.512145Z",
   "titles": [
     {
       "id": "10011721-broken_hill",
@@ -2717,7 +2717,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T15:37:53.216956Z"
+      "scraped_at": "2026-09-17T11:49:02.003446Z"
     },
     {
       "id": "lost_in_france",
@@ -2791,10 +2791,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B69RBFNL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T20:27:24.832435Z"
+      "scraped_at": "2026-09-17T11:50:18.937921Z"
     },
     {
       "id": "madame_x_2021",
@@ -2883,7 +2888,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-06T20:31:11.342504Z"
+      "scraped_at": "2026-09-17T11:54:17.813413Z"
     },
     {
       "id": "max_roach_the_drum_also_waltzes",

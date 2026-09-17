@@ -1,7 +1,7 @@
 {
   "genre": "drama",
   "name": "Drama",
-  "count": 8919,
+  "count": 8920,
   "titles": [
     {
       "id": "titanic",
@@ -457,7 +457,7 @@
         "Drama"
       ],
       "rating": 8.0,
-      "votes": 132127,
+      "votes": 132132,
       "tomatometer": 91,
       "audience_score": 91,
       "runtime_minutes": 102,
@@ -1645,7 +1645,7 @@
         "Drama"
       ],
       "rating": 8.8,
-      "votes": 81945,
+      "votes": 81950,
       "tomatometer": 95,
       "audience_score": 85,
       "runtime_minutes": 102,
@@ -2652,12 +2652,12 @@
         "Crime"
       ],
       "rating": 7.1,
-      "votes": 62844,
+      "votes": 62847,
       "tomatometer": 75,
       "audience_score": 93,
       "runtime_minutes": 105,
       "certificate": "R",
-      "poster": "https://resizing.flixster.com/4m1qjswYDFKOUa2xPMKkp4YIxoA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22639_p_v10_ab.jpg",
+      "poster": "https://resizing.flixster.com/Un6i6bXnXxiyTH2j1a_-8sbnckw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22639_p_v13_an.jpg",
       "plot": "Eddy (Nick Moran) convinces three friends to pool funds for a high-stakes poker game against local crime boss Hatchet Harry (P.H. Moriarty). Harry cheats and Eddy loses, giving him a week to pay back…",
       "directors": [
         "Guy Ritchie"
@@ -3179,7 +3179,7 @@
         "Mystery & Thriller"
       ],
       "rating": 6.1,
-      "votes": 55718,
+      "votes": 55720,
       "tomatometer": 52,
       "audience_score": 87,
       "runtime_minutes": 110,
@@ -4204,6 +4204,29 @@
       ]
     },
     {
+      "id": "lone_survivor",
+      "category": "war",
+      "type": "movie",
+      "title": "Lone Survivor",
+      "original_title": "Lone Survivor",
+      "year": 2014,
+      "genres": [
+        "War",
+        "Drama"
+      ],
+      "rating": 6.6,
+      "votes": 46846,
+      "tomatometer": 75,
+      "audience_score": 87,
+      "runtime_minutes": 121,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/B9-e0biZaT0t60nT_-tqWE81KtA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10020958_p_v11_aa.jpg",
+      "plot": "In 2005 Afghanistan, Navy SEALs Marcus Luttrell (Mark Wahlberg), Michael Murphy (Taylor Kitsch), Danny Dietz (Emile Hirsch) and Matthew \"Axe\" Axelson (Ben Foster) deploy on a mission of surveillance…",
+      "directors": [
+        "Peter Berg"
+      ]
+    },
+    {
       "id": "hugo",
       "category": "fantasy",
       "type": "movie",
@@ -4779,32 +4802,6 @@
       "plot": "Capitol police officer John Cale has just been denied his dream job of protecting President James Sawyer as a member of the Secret Service. Not wanting to disappoint his young daughter with the bad…",
       "directors": [
         "Roland Emmerich"
-      ]
-    },
-    {
-      "id": "adjustment_bureau",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "The Adjustment Bureau",
-      "original_title": "The Adjustment Bureau",
-      "year": 2011,
-      "genres": [
-        "Mystery & Thriller",
-        "Romance",
-        "Sci-Fi",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 6.6,
-      "votes": 42680,
-      "tomatometer": 71,
-      "audience_score": 67,
-      "runtime_minutes": 105,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/PhYR47K0dzQw9hlYB3CycjUsD8A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8012384_p_v10_ab.jpg",
-      "plot": "Just as he is on the brink of winning a Senate seat, politician David Norris meets a ballerina named Elise Sellas. Though David is instantly smitten, mysterious men conspire to keep him away from the…",
-      "directors": [
-        "George Nolfi"
       ]
     }
   ]
