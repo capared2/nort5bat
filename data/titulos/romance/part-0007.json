@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-09-17T17:11:17.804404Z",
+  "updated_at": "2026-09-17T21:34:12.547244Z",
   "titles": [
     {
       "id": "10010552-gigantic",
@@ -4263,7 +4263,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T04:54:04.467117Z"
+      "scraped_at": "2026-09-17T21:27:37.598691Z"
     },
     {
       "id": "my_blueberry_nights",
@@ -4380,10 +4380,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GYJF182G/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T12:44:37.755473Z"
+      "scraped_at": "2026-09-17T21:34:07.724238Z"
     },
     {
       "id": "painted_veil",

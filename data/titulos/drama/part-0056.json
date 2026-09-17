@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 56,
   "count": 9,
-  "updated_at": "2026-09-17T11:54:55.205613Z",
+  "updated_at": "2026-09-17T21:31:49.808999Z",
   "titles": [
     {
       "id": "10009445-my_brothers_wedding",
@@ -722,7 +722,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/Dfym2hUNoJyzRjpouGEMkchI-a0=/620x336/v2/https://resizing.flixster.com/jOiK2nLA5tAF9IuUzjf-Y6N-b2M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RkYWU2MGVlLTUzZGYtNGQ3NS1iZDFiLWEzNTk5NDZlMDk2OS5wbmc=",
+          "url": "https://resizing.flixster.com/oCiZ39k5lTZocFERoRKec3okwn8=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/757/1007/thumb_E69313CA-B306-4258-A231-87D161640760.jpg",
           "caption": ""
         },
         {
@@ -758,7 +758,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "FvZCeRIBStsR",
+        "title": "Mouse: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/757/1007/thumb_E69313CA-B306-4258-A231-87D161640760.jpg",
+        "seconds": 111,
+        "src": "https://link.theplatform.com/s/NGweTC/media/FvZCeRIBStsR?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "kenny_riches",
@@ -807,7 +813,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T05:07:15.657257Z"
+      "scraped_at": "2026-09-17T21:31:27.061690Z"
     },
     {
       "id": "salaam_venky",

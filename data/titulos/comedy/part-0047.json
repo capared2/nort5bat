@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 47,
   "count": 60,
-  "updated_at": "2026-09-17T17:09:16.821673Z",
+  "updated_at": "2026-09-17T21:31:49.987731Z",
   "titles": [
     {
       "id": "1012813-love_bug",
@@ -3722,10 +3722,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CVTTMH7P/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T04:53:10.518010Z"
+      "scraped_at": "2026-09-17T21:26:43.521818Z"
     },
     {
       "id": "motherhood",
@@ -3845,11 +3850,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Motherhood/197206?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GN2N4LVM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T12:41:30.021226Z"
+      "scraped_at": "2026-09-17T21:30:58.695168Z"
     },
     {
       "id": "natural_selection_2011",
