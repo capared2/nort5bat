@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 20,
   "count": 60,
-  "updated_at": "2026-09-17T11:52:54.185849Z",
+  "updated_at": "2026-09-17T17:09:17.379284Z",
   "titles": [
     {
       "id": "10002709-undercover_man",
@@ -3052,10 +3052,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HG9TDFK3/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T04:49:39.609769Z"
+      "scraped_at": "2026-09-17T17:09:03.831499Z"
     },
     {
       "id": "mom_2017",
