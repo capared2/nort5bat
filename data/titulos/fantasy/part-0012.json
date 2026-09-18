@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 33,
-  "updated_at": "2026-09-17T17:11:38.377846Z",
+  "updated_at": "2026-09-18T16:35:58.273655Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -1540,7 +1540,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T04:50:02.683178Z"
+      "scraped_at": "2026-09-18T16:30:10.115339Z"
     },
     {
       "id": "practical_magic_2",
@@ -1554,18 +1554,18 @@
         "Fantasy",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": 110,
+      "runtime_minutes": 130,
       "certificate": "PG-13",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
+      "rating": 5.0,
+      "votes": 1988,
+      "tomatometer": 37,
+      "tomatometer_count": 150,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 92,
+      "audience_count": 727,
       "metascore": null,
       "plot": "PRACTICAL MAGIC 2 returns to a world steeped in moonlit mischief and powerful ancestral magic, as the Owens sisters must confront the dark curse that threatens to unravel their family once and for all in a must-see cinematic event of fun, magic and mayhem.",
       "tagline": "",
@@ -1640,22 +1640,22 @@
           "image": "https://resizing.flixster.com/XMS_PGqb6LIma2M9w9s576XZsoY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/922_v9_bd.jpg"
         },
         {
-          "id": "dianne_wiest",
-          "name": "Dianne Wiest",
-          "character": "",
-          "image": "https://resizing.flixster.com/oH6fPO7uNXOldUVfdgRNrKl1SIE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/16815_v9_bc.jpg"
-        },
-        {
-          "id": "stockard_channing",
-          "name": "Stockard Channing",
-          "character": "",
-          "image": "https://resizing.flixster.com/2Df_J8gnOEMnKpEiLqb7kH_dGBA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75458_v9_ba.jpg"
-        },
-        {
           "id": "joey_king",
           "name": "Joey King",
           "character": "",
           "image": "https://resizing.flixster.com/IgTIj4_yTWSR7nbKBAJeVSXJ31E=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/494620_v9_bd.jpg"
+        },
+        {
+          "id": "lee_pace",
+          "name": "Lee Pace",
+          "character": "",
+          "image": "https://resizing.flixster.com/_jmPyrqCvga4LU7baKzwZLiApLM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0025D363.jpg"
+        },
+        {
+          "id": "maisie_williams",
+          "name": "Maisie Williams",
+          "character": "",
+          "image": "https://resizing.flixster.com/m6x3Z9drZB9LpyGQuQtedBvpSOQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/613078_v9_bc.jpg"
         }
       ],
       "keywords": [],
@@ -1664,10 +1664,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Practical-Magic-2/5056560?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T11:28:01.144722Z"
+      "scraped_at": "2026-09-18T16:35:18.828901Z"
     },
     {
       "id": "prestige",
@@ -1687,12 +1692,12 @@
       "runtime_minutes": 130,
       "certificate": "PG-13",
       "rating": 7.4,
-      "votes": 114464,
+      "votes": 114478,
       "tomatometer": 77,
       "tomatometer_count": 209,
       "tomatometer_certified": true,
       "audience_score": 92,
-      "audience_count": 43687,
+      "audience_count": 43690,
       "metascore": null,
       "plot": "An illusion gone horribly wrong pits two 19th-century magicians, Alfred Borden (Christian Bale) and Rupert Angier (Hugh Jackman), against each other in a bitter battle for supremacy. Terrible consequences loom when the pair escalate their feud, each seeking not just to outwit -- but to destroy -- the other man.",
       "tagline": "",
@@ -1799,7 +1804,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T11:28:34.193032Z"
+      "scraped_at": "2026-09-18T16:35:51.930307Z"
     },
     {
       "id": "princess_mononoke",
