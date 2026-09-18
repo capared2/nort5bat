@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 8,
   "count": 40,
-  "updated_at": "2026-09-17T21:29:49.647043Z",
+  "updated_at": "2026-09-18T04:56:35.228955Z",
   "titles": [
     {
       "id": "1041055-ned_kelly",
@@ -2197,11 +2197,11 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 102,
-      "certificate": null,
+      "certificate": "In Theaters Sep 25",
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -2247,7 +2247,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-14T13:03:00.708127Z"
+      "scraped_at": "2026-09-18T04:54:55.409271Z"
     },
     {
       "id": "noble_2014",
@@ -2368,11 +2368,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Noble/690505?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GW7BLLD5/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T21:37:04.240220Z"
+      "scraped_at": "2026-09-18T04:55:29.886312Z"
     },
     {
       "id": "pantani_the_accidental_death_of_a_cyclist",

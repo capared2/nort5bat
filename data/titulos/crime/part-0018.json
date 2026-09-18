@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-09-17T21:33:51.445086Z",
+  "updated_at": "2026-09-18T04:52:31.260727Z",
   "titles": [
     {
       "id": "ab_tak_chhappan_2",
@@ -4405,10 +4405,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/akira/umc.cmc.7jam1rhb8vl28gyojviy0tcax?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T12:46:32.651485Z"
+      "scraped_at": "2026-09-18T04:50:19.523500Z"
     },
     {
       "id": "nameless_gangster",
@@ -4529,7 +4534,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T12:46:48.465476Z"
+      "scraped_at": "2026-09-18T04:50:36.155610Z"
     },
     {
       "id": "o-homem-do-ano-the-man-of-the-year",

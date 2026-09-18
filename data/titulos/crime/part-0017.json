@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-09-17T21:33:51.454594Z",
+  "updated_at": "2026-09-18T04:56:34.382313Z",
   "titles": [
     {
       "id": "1010230-hunter",
@@ -4884,10 +4884,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CH5HQBPM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-07T21:37:48.473434Z"
+      "scraped_at": "2026-09-18T04:56:12.351514Z"
     },
     {
       "id": "pop_the_pickel",
