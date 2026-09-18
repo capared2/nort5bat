@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 46,
   "count": 60,
-  "updated_at": "2026-09-18T11:22:49.864813Z",
+  "updated_at": "2026-09-18T21:05:08.148202Z",
   "titles": [
     {
       "id": "10004226-wild_side",
@@ -4042,7 +4042,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T11:29:14.444234Z"
+      "scraped_at": "2026-09-18T20:57:18.748858Z"
     },
     {
       "id": "reinas",
@@ -4072,11 +4072,11 @@
       "poster": null,
       "images": [
         {
-          "url": "https://resizing.flixster.com/vpUZs54cSbXVFGvcyahrNcVZYGM=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26837558_i_h10_aa.jpg",
+          "url": "https://resizing.flixster.com/w5ngVp6KW7ZR4wcrPtPTVRWnVVM=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26837558_i_h8_ab.jpg",
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/T9BbDqCCroKC1t2j3VaCQefmld0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26837558_i_h10_aa.jpg",
+          "url": "https://resizing.flixster.com/sBhQ-rb18xBQvorEqJkWeS2X8Pk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26837558_i_h8_ab.jpg",
           "caption": "Queens (Reinas) (2024)"
         }
       ],
@@ -4126,10 +4126,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Queens/5090628?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T16:45:16.739020Z"
+      "scraped_at": "2026-09-18T21:04:11.004065Z"
     },
     {
       "id": "roise_and_frank",

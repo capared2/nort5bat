@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-09-18T11:28:57.550419Z",
+  "updated_at": "2026-09-18T21:05:07.901760Z",
   "titles": [
     {
       "id": "1004743-corrupt",
@@ -4384,7 +4384,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T11:29:12.213665Z"
+      "scraped_at": "2026-09-18T20:57:16.033246Z"
     },
     {
       "id": "queenpins",
@@ -4505,15 +4505,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Starz",
-          "url": "https://www.starz.com/us/en/play/74417?cmp=rt_where_to_watch"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T11:31:58.216464Z"
+      "scraped_at": "2026-09-18T21:00:05.397913Z"
     },
     {
       "id": "red_rooms",
@@ -4533,11 +4528,11 @@
       "runtime_minutes": 118,
       "certificate": null,
       "rating": 8.1,
-      "votes": 313,
+      "votes": 316,
       "tomatometer": 96,
       "tomatometer_count": 93,
       "tomatometer_certified": true,
-      "audience_score": 73,
+      "audience_score": 74,
       "audience_count": 83,
       "metascore": null,
       "plot": "The high-profile case of serial killer Ludovic Chevalier has just gone to trial, and Kelly-Anne is obsessed. When reality blurs with her morbid fantasies, she goes down a dark path to seek the final piece of the puzzle: the missing video of a murdered 13-year-old girl, to whom Kelly-Anne bears a disturbing resemblance.",
@@ -4643,13 +4638,17 @@
           "url": "https://athome.fandango.com/content/browse/details/Red-Rooms/3549454?cmp=rt_where_to_watch"
         },
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D1VCM9JY/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "AMC+",
           "url": "https://www.amcplus.com/movies/red-rooms--1071610?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T16:44:37.333632Z"
+      "scraped_at": "2026-09-18T21:03:32.159533Z"
     },
     {
       "id": "ride_2024",

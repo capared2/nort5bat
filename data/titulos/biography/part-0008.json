@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 8,
   "count": 40,
-  "updated_at": "2026-09-18T11:28:58.617289Z",
+  "updated_at": "2026-09-18T21:03:06.684644Z",
   "titles": [
     {
       "id": "1041055-ned_kelly",
@@ -2484,10 +2484,10 @@
       "release_date": null,
       "runtime_minutes": 99,
       "certificate": "In Theaters Sep 24",
-      "rating": null,
+      "rating": 7.3,
       "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer": 100,
+      "tomatometer_count": 11,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -2523,7 +2523,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T11:30:38.444566Z"
+      "scraped_at": "2026-09-18T20:58:43.488290Z"
     },
     {
       "id": "quant",
@@ -2596,7 +2596,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T11:31:36.657757Z"
+      "scraped_at": "2026-09-18T20:59:42.655872Z"
     },
     {
       "id": "raging_bull",
@@ -2615,12 +2615,12 @@
       "runtime_minutes": 128,
       "certificate": "R",
       "rating": 9.3,
-      "votes": 28935,
+      "votes": 28938,
       "tomatometer": 92,
       "tomatometer_count": 151,
       "tomatometer_certified": true,
       "audience_score": 93,
-      "audience_count": 7168,
+      "audience_count": 7167,
       "metascore": null,
       "plot": "The story of a middleweight boxer as he rises through ranks to earn his first shot at the middleweight crown. He falls in love with a gorgeous girl from the Bronx. The inability to express his feelings enters into the ring and eventually takes over his life. He eventually is sent into a downward spiral that costs him everything.",
       "tagline": "",
@@ -2705,11 +2705,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Raging-Bull/12454?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H5QZ7HWP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T16:42:14.870940Z"
+      "scraped_at": "2026-09-18T21:01:10.215654Z"
     },
     {
       "id": "robby_robinsons_blueprint",
