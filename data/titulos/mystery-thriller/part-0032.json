@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 32,
   "count": 30,
-  "updated_at": "2026-09-18T20:59:05.380566Z",
+  "updated_at": "2026-09-19T04:49:50.375628Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -2169,7 +2169,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T21:13:29.953730Z"
+      "scraped_at": "2026-09-19T04:45:46.651601Z"
     },
     {
       "id": "runner_2026",
@@ -2183,18 +2183,18 @@
         "Mystery & Thriller",
         "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 97,
       "certificate": "PG-13",
-      "rating": 5.7,
-      "votes": null,
-      "tomatometer": 60,
-      "tomatometer_count": 15,
+      "rating": 6.1,
+      "votes": 400,
+      "tomatometer": 76,
+      "tomatometer_count": 59,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 89,
+      "audience_count": 135,
       "metascore": null,
       "plot": "A former soldier (Alan Ritchson) is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner (Owen Wilson) the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
       "tagline": "",
@@ -2285,10 +2285,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Runner/5175547?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T21:14:54.643225Z"
+      "scraped_at": "2026-09-19T04:47:11.099082Z"
     },
     {
       "id": "runway_34",
@@ -2419,7 +2424,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T21:15:08.061234Z"
+      "scraped_at": "2026-09-19T04:47:24.501604Z"
     },
     {
       "id": "sardar_2",
@@ -2436,14 +2441,14 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": null,
-      "certificate": null,
+      "certificate": "Sep 2026",
       "rating": null,
-      "votes": null,
+      "votes": 13,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 2,
       "metascore": null,
       "plot": "",
       "tagline": "",
@@ -2507,7 +2512,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T21:17:03.611975Z"
+      "scraped_at": "2026-09-19T04:49:21.116788Z"
     },
     {
       "id": "the_fix_2026",
