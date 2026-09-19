@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 29,
   "count": 60,
-  "updated_at": "2026-09-18T20:59:04.775509Z",
+  "updated_at": "2026-09-19T11:10:49.010632Z",
   "titles": [
     {
       "id": "1002571-blind_date",
@@ -5871,10 +5871,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Scorched/5125507?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HGWW9QXB/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T21:18:20.869839Z"
+      "scraped_at": "2026-09-19T11:05:13.524430Z"
     },
     {
       "id": "shadows_and_fog",
@@ -5978,7 +5987,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T04:47:39.782787Z"
+      "scraped_at": "2026-09-19T11:08:37.852972Z"
     },
     {
       "id": "shaolin_soccer",
@@ -5998,7 +6007,7 @@
       "runtime_minutes": 111,
       "certificate": null,
       "rating": 7.0,
-      "votes": 12480,
+      "votes": 12481,
       "tomatometer": 89,
       "tomatometer_count": 93,
       "tomatometer_certified": true,
@@ -6102,7 +6111,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T04:48:11.930591Z"
+      "scraped_at": "2026-09-19T11:09:09.240445Z"
     },
     {
       "id": "son_of_rambow",

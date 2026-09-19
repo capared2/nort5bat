@@ -1,6 +1,6 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-19T04:50:14.404670Z",
+  "generated_at": "2026-09-19T11:13:16.918676Z",
   "total_titles": 20202,
   "total_genres": 27,
   "genres": [
@@ -234,12 +234,12 @@
           "count": 9
         }
       ],
-      "tagged": 8920
+      "tagged": 8919
     },
     {
       "genre": "comedy",
       "name": "Comedy",
-      "titles": 3141,
+      "titles": 3142,
       "files": [
         {
           "file": "titulos/comedy/part-0001.json",
@@ -451,7 +451,7 @@
         },
         {
           "file": "titulos/comedy/part-0053.json",
-          "count": 22
+          "count": 23
         }
       ],
       "tagged": 5331
@@ -1450,7 +1450,7 @@
           "count": 25
         }
       ],
-      "tagged": 502
+      "tagged": 503
     },
     {
       "genre": "animation",
@@ -1507,11 +1507,11 @@
     {
       "genre": "musical",
       "name": "Musical",
-      "titles": 225,
+      "titles": 224,
       "files": [
         {
           "file": "titulos/musical/part-0001.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/musical/part-0002.json",
@@ -1526,14 +1526,14 @@
           "count": 45
         }
       ],
-      "tagged": 226
+      "tagged": 225
     },
     {
       "genre": "holiday",
       "name": "Holiday",
       "titles": 0,
       "files": [],
-      "tagged": 133
+      "tagged": 134
     },
     {
       "genre": "western",

@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 48,
-  "updated_at": "2026-09-19T04:49:50.528586Z",
+  "updated_at": "2026-09-19T11:10:49.214154Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -3769,12 +3769,12 @@
       "runtime_minutes": 96,
       "certificate": "R",
       "rating": 4.1,
-      "votes": 6627,
+      "votes": 6656,
       "tomatometer": 24,
       "tomatometer_count": 136,
       "tomatometer_certified": false,
       "audience_score": 64,
-      "audience_count": 1678,
+      "audience_count": 1679,
       "metascore": null,
       "plot": "Twenty-six years after outrunning a suspiciously familiar masked killer, Shorty, Ray, Cindy and Brenda find themselves targeted by another mad slasher.",
       "tagline": "",
@@ -3879,7 +3879,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-08T21:21:17.156981Z"
+      "scraped_at": "2026-09-19T11:04:52.947968Z"
     },
     {
       "id": "shaun_the_sheep_the_beast_of_mossy_bottom",
@@ -3890,23 +3890,24 @@
       "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "genres": [
         "Kids & Family",
+        "Holiday",
         "Comedy",
         "Adventure",
         "Animation",
         "Horror"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 80,
       "certificate": "PG",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
+      "rating": 8.0,
+      "votes": 19,
+      "tomatometer": 98,
+      "tomatometer_count": 59,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 7,
       "metascore": null,
       "plot": "SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM sees the residents of Mossy Bottom Farm looking forward to Halloween -- until the clumsy Farmer trashes the Flock's beloved pumpkin patch! When Shaun turns MAD SCIENTIST to fix the problem, things rapidly spiral out of control... With The Farmer missing and a wild beast roaming the woods of Mossingham, all the ingredients are in place for a monstrously fun family adventure.",
       "tagline": "",
@@ -3958,10 +3959,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Shaun-the-Sheep-The-Beast-of-Mossy-Bottom/5170989?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T04:48:32.173789Z"
+      "scraped_at": "2026-09-19T11:09:29.908065Z"
     },
     {
       "id": "spider_island",
