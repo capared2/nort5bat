@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-09-19T16:01:16.298029Z",
+  "updated_at": "2026-09-19T20:52:47.272587Z",
   "titles": [
     {
       "id": "1032970-awakenings",
@@ -4865,7 +4865,7 @@
         "Documentary",
         "Biography"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 98,
@@ -4924,10 +4924,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Steal-This-Story-Please/5191835?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T11:35:00.556068Z"
+      "scraped_at": "2026-09-19T20:46:10.604751Z"
     },
     {
       "id": "steve_schapiro_being_everywhere",
@@ -5015,7 +5020,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T11:35:35.724852Z"
+      "scraped_at": "2026-09-19T20:46:46.793033Z"
     },
     {
       "id": "stoned",
@@ -5034,7 +5039,7 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 4.5,
-      "votes": 622,
+      "votes": 623,
       "tomatometer": 16,
       "tomatometer_count": 51,
       "tomatometer_certified": false,
@@ -5132,7 +5137,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T11:36:22.198766Z"
+      "scraped_at": "2026-09-19T20:47:33.389388Z"
     },
     {
       "id": "stormy_2024",
@@ -5232,7 +5237,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T11:36:37.571216Z"
+      "scraped_at": "2026-09-19T20:47:47.948244Z"
     },
     {
       "id": "super_man_the_christopher_reeve_story",
@@ -5340,7 +5345,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T16:44:36.941083Z"
+      "scraped_at": "2026-09-19T20:50:56.855090Z"
     },
     {
       "id": "talk_to_me",

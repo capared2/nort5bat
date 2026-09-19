@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-19T16:01:15.213848Z",
+  "updated_at": "2026-09-19T20:52:46.508036Z",
   "titles": [
     {
       "id": "30_years_to_life",
@@ -4853,7 +4853,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T11:35:36.736023Z"
+      "scraped_at": "2026-09-19T20:46:47.753697Z"
     },
     {
       "id": "super_troopers_3",
@@ -4865,18 +4865,18 @@
       "genres": [
         "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 4.9,
-      "votes": 391,
+      "votes": 402,
       "tomatometer": 51,
       "tomatometer_count": 47,
       "tomatometer_certified": false,
       "audience_score": 69,
-      "audience_count": 93,
+      "audience_count": 97,
       "metascore": null,
       "plot": "Everyone's favorite cops are back with the third installment of the cult comedy classic from the Broken Lizard crew: SUPER TROOPERS 3. When Farva's wildly over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, while trying to crack a pernicious new drug ring -- all to save the day and maybe the wedding itself.",
       "tagline": "",
@@ -4975,10 +4975,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Super-Troopers-3/5152783?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T16:44:41.639266Z"
+      "scraped_at": "2026-09-19T20:51:01.831872Z"
     },
     {
       "id": "swap_me_baby",
@@ -5098,11 +5103,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Swap-Me-Baby/2055064?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B09R6YCDV8/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T16:45:50.221685Z"
+      "scraped_at": "2026-09-19T20:52:05.408493Z"
     },
     {
       "id": "the_baltimorons",
