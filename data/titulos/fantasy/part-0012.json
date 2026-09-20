@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 33,
-  "updated_at": "2026-09-20T11:33:21.593186Z",
+  "updated_at": "2026-09-20T16:17:17.392713Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -2493,11 +2493,11 @@
         "Comedy",
         "Fantasy"
       ],
-      "year": null,
+      "year": 2024,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 108,
-      "certificate": "In Theaters Sep 18",
+      "certificate": "Now Playing",
       "rating": null,
       "votes": null,
       "tomatometer": null,
@@ -2531,7 +2531,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "bHo9Vz1b3DeD",
+        "title": "The Fisherman: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/59/259/thumb_601183B6-7D63-4C77-ADCA-79409687286E.jpg",
+        "seconds": 104,
+        "src": "https://link.theplatform.com/s/NGweTC/media/bHo9Vz1b3DeD?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "zoey_martinson",
@@ -2580,7 +2586,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-10T04:53:52.861244Z"
+      "scraped_at": "2026-09-20T16:11:22.288024Z"
     },
     {
       "id": "the_imaginarium_of_doctor_parnassus",
@@ -2706,7 +2712,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-10T11:26:07.300440Z"
+      "scraped_at": "2026-09-20T16:16:04.624768Z"
     },
     {
       "id": "the_incomer",
@@ -2746,15 +2752,35 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/dK6NIiMvtlxpBlvlEAJQhfdVBgY=/fit-in/705x460/v2/https://resizing.flixster.com/qtZvRQ7jPu_BaOnYRVFER7i3ldo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU4ZDg1MjA1LTVmN2YtNGIzMy04MzE3LWU2Mzk1YjY5NjZjMy5qcGc=",
+          "url": "https://resizing.flixster.com/SPfhILdWjVZt-H8DTFZce_aFn7s=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33608610_i_h9_ab.jpg",
+          "caption": "The Incomer (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-rc1t5g0A6VCOj0BVtAhvXzsXMk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33608610_i_v9_ac.jpg",
+          "caption": "The Incomer (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/sNEo5GuV2LjO4S1Nmsq5xZhWO94=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33608610_i_v12_ac.jpg",
+          "caption": "The Incomer (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/uKu37jADR1UOkQ_MZvyN-G6Vu90=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33608610_i_h8_ab.jpg",
+          "caption": "The Incomer (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/dFHKF4x5L4kNUHRSxTeBYQqmtaw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33608610_v_h9_ac.jpg",
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/_fjvnnLsAu2mJPAITl9DZanGidg=/fit-in/705x460/v2/https://resizing.flixster.com/1evnDFBg85Ag65k9K42HUDaqxbY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlZTM5NzVhLTQxMWQtNGQ0OS04ODJkLTg1MjY5OTlhYzMyMi5qcGc=",
+          "url": "https://resizing.flixster.com/1fGRZpBtW3sDpfjWs1D-y_mfOrs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33608610_v_v10_ac.jpg",
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/usTQtlmrkq5oy5d897xID5U6KeY=/fit-in/705x460/v2/https://resizing.flixster.com/KVMYWiVYFiiCZGZJSaG2uh6Twac=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QxZDRhZGMyLTg3YjEtNDY1Mi04ZTc5LTdlYTE1YzZiOTNiYi5qcGc=",
+          "url": "https://resizing.flixster.com/zvdFY5AxtbsE0PTl0LR2KW8cGOc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33608610_v_v11_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fXVn5fdxDt6qtOgluEk8ps0vHc4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33608610_v_h8_ac.jpg",
           "caption": ""
         }
       ],
@@ -2813,7 +2839,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-14T13:02:49.347862Z"
+      "scraped_at": "2026-09-20T16:16:14.420088Z"
     },
     {
       "id": "the_little_mermaid_2_return_to_the_sea",

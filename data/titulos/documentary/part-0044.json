@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 44,
   "count": 27,
-  "updated_at": "2026-09-19T16:01:15.523558Z",
+  "updated_at": "2026-09-20T16:15:16.439772Z",
   "titles": [
     {
       "id": "a_girl_and_a_gun_2012",
@@ -1924,7 +1924,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-10T04:55:12.451311Z"
+      "scraped_at": "2026-09-20T16:12:40.820968Z"
     },
     {
       "id": "the_history_of_concrete",
@@ -1936,16 +1936,16 @@
       "genres": [
         "Documentary"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 101,
-      "certificate": "In Theaters Sep 18",
-      "rating": 7.9,
-      "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 24,
-      "tomatometer_certified": false,
+      "certificate": "Now Playing",
+      "rating": 7.6,
+      "votes": 1,
+      "tomatometer": 98,
+      "tomatometer_count": 45,
+      "tomatometer_certified": true,
       "audience_score": null,
       "audience_count": 0,
       "metascore": null,
@@ -2011,10 +2011,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-History-of-Concrete/5187721?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-10T11:24:51.789176Z"
+      "scraped_at": "2026-09-20T16:14:47.071840Z"
     },
     {
       "id": "the_oldest_person_in_the_world",
