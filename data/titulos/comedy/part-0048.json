@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 48,
   "count": 60,
-  "updated_at": "2026-09-19T20:53:08.243376Z",
+  "updated_at": "2026-09-20T05:05:41.319724Z",
   "titles": [
     {
       "id": "1002178-best_of_times",
@@ -5405,7 +5405,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T16:48:59.613240Z"
+      "scraped_at": "2026-09-20T04:59:45.616123Z"
     },
     {
       "id": "the-lightkeepers",
@@ -5521,10 +5521,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0G3LRFMCS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T20:59:53.519446Z"
+      "scraped_at": "2026-09-20T05:02:23.759674Z"
     },
     {
       "id": "the_annihilation_of_fish_2000",
@@ -5643,7 +5648,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T21:01:17.262339Z"
+      "scraped_at": "2026-09-20T05:03:48.011416Z"
     },
     {
       "id": "the_babymakers_2012",
@@ -5767,7 +5772,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T21:02:00.719886Z"
+      "scraped_at": "2026-09-20T05:04:30.985485Z"
     },
     {
       "id": "the_bad_news_bears",
@@ -5878,7 +5883,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-09T21:02:10.753953Z"
+      "scraped_at": "2026-09-20T05:04:41.527218Z"
     },
     {
       "id": "the_layover",
