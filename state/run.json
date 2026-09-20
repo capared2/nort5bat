@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-20T16:20:13.614016Z",
+  "updated_at": "2026-09-20T21:00:46.301838Z",
   "seen": 20205,
   "pending": 0,
   "failed": 17,
   "abandoned": 15,
-  "refresh_cursor": 17193,
+  "refresh_cursor": 17693,
   "last_run": {
     "mode": "incremental",
-    "discovered": 123,
+    "discovered": 125,
     "queued": 0,
     "refreshed": 500,
     "fetched": 500,
@@ -15,31 +15,29 @@
     "skipped_thin": 0,
     "failed": 0,
     "genres": {
+      "action": 0,
       "documentary": 0,
-      "horror": 0,
-      "anime": 0,
-      "romance": 0,
-      "fantasy": 0,
       "drama": 0,
+      "fantasy": 0,
+      "horror": 0,
+      "western": 0,
+      "sci-fi": 0,
+      "animation": 0,
+      "comedy": 0,
+      "history": 0,
+      "romance": 0,
       "mystery-thriller": 0,
       "war": 0,
-      "comedy": 0,
-      "adventure": 0,
-      "action": 0,
-      "biography": 0,
       "crime": 0,
-      "history": 0,
-      "sci-fi": 0,
-      "kids-family": 0,
-      "lgbtq": 0,
-      "western": 0,
-      "music": 0,
-      "animation": 0,
+      "biography": 0,
       "musical": 0,
-      "sports": 0
+      "adventure": 0,
+      "music": 0,
+      "sports": 0,
+      "lgbtq": 0
     },
     "seo": {
-      "generated_at": "2026-09-20T16:20:13.601837Z",
+      "generated_at": "2026-09-20T21:00:46.288788Z",
       "site_url": "https://nort5.com",
       "total_urls": 20232,
       "sitemaps": [
@@ -49,15 +47,13 @@
     },
     "total_titles": 20202,
     "total_genres": 27,
-    "duration_seconds": 546.0,
+    "duration_seconds": 515.5,
     "http": {
-      "requests": 511,
+      "requests": 508,
       "errors": 0,
       "blocked": 0,
       "statuses": {
-        "200": 507,
-        "ReadTimeout": 2,
-        "ConnectionError": 1
+        "200": 507
       }
     }
   }
