@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-09-21T05:05:36.385993Z",
+  "updated_at": "2026-09-21T13:00:04.658709Z",
   "titles": [
     {
       "id": "1194818-encounters_at_the_end_of_the_world",
@@ -4603,10 +4603,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/There-Was-There-Was-Not/5151158?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-10T21:00:58.684789Z"
+      "scraped_at": "2026-09-21T12:55:34.282404Z"
     },
     {
       "id": "this_place_rules",
@@ -4692,7 +4697,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-10T21:02:27.746245Z"
+      "scraped_at": "2026-09-21T12:57:04.069328Z"
     },
     {
       "id": "to_kill_a_tiger",
@@ -4765,7 +4770,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T04:48:00.860481Z"
+      "scraped_at": "2026-09-21T12:59:52.373377Z"
     },
     {
       "id": "troll_storm",

@@ -1,8 +1,8 @@
 {
   "genre": "animation",
   "part": 4,
-  "count": 53,
-  "updated_at": "2026-09-21T05:03:36.245180Z",
+  "count": 60,
+  "updated_at": "2026-09-21T13:03:17.493695Z",
   "titles": [
     {
       "id": "1017699-robin_hood",
@@ -1111,6 +1111,84 @@
       "scraped_at": "2026-09-13T12:01:29.976473Z"
     },
     {
+      "id": "batman_bad_blood",
+      "url": "https://www.rottentomatoes.com/m/batman_bad_blood",
+      "category": "animation",
+      "type": "movie",
+      "title": "Batman: Bad Blood",
+      "original_title": "Batman: Bad Blood",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "year": 2016,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 72,
+      "certificate": "PG-13",
+      "rating": 7.6,
+      "votes": 1088,
+      "tomatometer": 100,
+      "tomatometer_count": 5,
+      "tomatometer_certified": false,
+      "audience_score": 65,
+      "audience_count": 153,
+      "metascore": null,
+      "plot": "With Batman missing, it's up to Dick Grayson to put on the cowl and protect Gotham.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/aUfmQ9c-ukptXFaIHePzBTjVFuA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12462349_p_v10_am.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/aUfmQ9c-ukptXFaIHePzBTjVFuA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12462349_p_v10_am.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/hGrUeYs8XHj81pkO4JBHYWNJfBk=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12462349_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5DdEviX_AxHW2nEFkmEDw32Dz0Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12462349_i_h10_ab.jpg",
+          "caption": "Batman: Bad Blood (2016)"
+        },
+        {
+          "url": "https://resizing.flixster.com/idC_yzxufSM5NpyiWlehzSz66P4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12462349_p_v10_am.jpg",
+          "caption": "Batman: Bad Blood (2016)"
+        },
+        {
+          "url": "https://resizing.flixster.com/TvjVXbCnImRSzK3bC6gKu6QNP4M=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12462349_p_v8_am.jpg",
+          "caption": "Batman: Bad Blood (2016)"
+        },
+        {
+          "url": "https://resizing.flixster.com/hO7Ujklfn283PVpme-yan8njR3Y=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12462349_v_v8_am.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "jay_oliva",
+          "name": "Jay Oliva"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Batman-Bad-Blood/729577?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-21T13:02:53.630115Z"
+    },
+    {
       "id": "batman_knightfall_part_1_knightfall",
       "url": "https://www.rottentomatoes.com/m/batman_knightfall_part_1_knightfall",
       "category": "animation",
@@ -1402,6 +1480,84 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-13T12:02:46.902659Z"
+    },
+    {
+      "id": "batman_the_dark_knight_returns_part_1_2012",
+      "url": "https://www.rottentomatoes.com/m/batman_the_dark_knight_returns_part_1_2012",
+      "category": "animation",
+      "type": "movie",
+      "title": "Batman: The Dark Knight Returns, Part 1",
+      "original_title": "Batman: The Dark Knight Returns, Part 1",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "year": 2012,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 76,
+      "certificate": "PG-13",
+      "rating": 8.1,
+      "votes": 7414,
+      "tomatometer": 100,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": 93,
+      "audience_count": 902,
+      "metascore": null,
+      "plot": "Bruce Wayne, now 55-years-old, comes out of retirement to don the cape and cowl. As Batman, he fights his old enemies, the Joker and Two-Face, for the final time. Then, an old ally arrives and is looking for one last fight.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/ym3hHCIgXJRw4lnq02ysX2PMnRw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9410706_p_v8_ag.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/ym3hHCIgXJRw4lnq02ysX2PMnRw=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9410706_p_v8_ag.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/h9tflJ5KD5R0-CSxPRcSa5EZ1VE=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9410706_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/UKaLSwGzo6VpCHTHi2XHL66mpnw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9410706_p_v10_ac.jpg",
+          "caption": "Batman: The Dark Knight Returns, Part 1 (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/VE8pHDdqOQ7nPfxfjrrP7vUN13I=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9410706_p_v8_ag.jpg",
+          "caption": "Batman: The Dark Knight Returns, Part 1 (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/tZ2lsdnBvKN4qLgJKqBLJ8wYIEY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9410706_i_h10_ab.jpg",
+          "caption": "Batman: The Dark Knight Returns, Part 1 (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/wUBe2528TzPa9xKu3_JGU0MPkIw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9410706_v_v8_ac.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "jay_oliva",
+          "name": "Jay Oliva"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Batman-The-Dark-Knight-Returns-Part-1/370033?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-21T13:02:49.762451Z"
     },
     {
       "id": "batman_vs_two_face",
@@ -2419,6 +2575,166 @@
       "scraped_at": "2026-09-16T21:24:19.417867Z"
     },
     {
+      "id": "justice_league_doom",
+      "url": "https://www.rottentomatoes.com/m/justice_league_doom",
+      "category": "animation",
+      "type": "movie",
+      "title": "Justice League: Doom",
+      "original_title": "Justice League: Doom",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "year": 2012,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 77,
+      "certificate": "PG-13",
+      "rating": 7.7,
+      "votes": 4937,
+      "tomatometer": 100,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": 87,
+      "audience_count": 502,
+      "metascore": null,
+      "plot": "Vandal Savage uses stolen information from Batman's secret files to mastermind a plan to exterminate the Justice League.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/t8GtUbvxXnDQuJoX5UzVSZxyPRI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8995463_p_v8_ah.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/t8GtUbvxXnDQuJoX5UzVSZxyPRI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8995463_p_v8_ah.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/mZLBWdme5KDqOH08QO9_nvxiSPc=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8995463_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/nqRB3jK0gOAC7fz6JepEwwcQHlA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8995463_p_v10_ae.jpg",
+          "caption": "Justice League: Doom (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/657IZQCT4WMwNnogkvumgkPG2Xo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8995463_p_v8_ah.jpg",
+          "caption": "Justice League: Doom (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/yqWe7NNLx_LVKCvDewiRl6_TOAw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8995463_i_h10_ac.jpg",
+          "caption": "Justice League: Doom (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/oo5C4gHAL1CmOmrxt8q3mu8pWL8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8995463_v_v8_ad.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "lauren_montgomery",
+          "name": "Lauren Montgomery"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Justice-League-Doom/289061?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-21T13:02:55.346770Z"
+    },
+    {
+      "id": "justice_league_gods_and_monsters",
+      "url": "https://www.rottentomatoes.com/m/justice_league_gods_and_monsters",
+      "category": "animation",
+      "type": "movie",
+      "title": "Justice League: Gods and Monsters",
+      "original_title": "Justice League: Gods and Monsters",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "year": 2015,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 72,
+      "certificate": "PG-13",
+      "rating": 8.1,
+      "votes": 940,
+      "tomatometer": 88,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": 71,
+      "audience_count": 158,
+      "metascore": null,
+      "plot": "In an alternate universe, the Justice League uses brutal force to maintain order on Earth. When scientists begin dying, the world's governments challenge the League's dominance.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/GGDyUO44D74uqN04Iny--UUDpbM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11804130_p_v10_am.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/GGDyUO44D74uqN04Iny--UUDpbM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11804130_p_v10_am.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/SJnvSSv2CUUTVNFh2KO4scII7r8=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11804130_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ue5RgtPwmfmKCNGqKj_8Ormqvlg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11804130_v_v8_ao.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/KCMpMcAbrjt2EAzD24ImQLxEL8g=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11804130_p_v10_am.jpg",
+          "caption": "Justice League: Gods and Monsters (2015)"
+        },
+        {
+          "url": "https://resizing.flixster.com/uVjzU-2Up3FVClIcZcFWfxXumwA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11804130_p_v8_am.jpg",
+          "caption": "Justice League: Gods and Monsters (2015)"
+        },
+        {
+          "url": "https://resizing.flixster.com/_QjxpEUvFZ-NgGncvdUtCTJ2lv4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11804130_i_h10_aa.jpg",
+          "caption": "Justice League: Gods and Monsters (2015)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "sam-liu",
+          "name": "Sam Liu"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Justice-League-Gods-and-Monsters/665869?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-21T13:02:53.268823Z"
+    },
+    {
       "id": "lady_and_the_tramp_ii_scamps_adventure",
       "url": "https://www.rottentomatoes.com/m/lady_and_the_tramp_ii_scamps_adventure",
       "category": "animation",
@@ -3051,6 +3367,79 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-18T04:54:21.434586Z"
+    },
+    {
+      "id": "ninja-scroll",
+      "url": "https://www.rottentomatoes.com/m/ninja-scroll",
+      "category": "animation",
+      "type": "movie",
+      "title": "Ninja Scroll",
+      "original_title": "Ninja Scroll",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 90,
+      "certificate": "In Theaters Oct 4",
+      "rating": 7.3,
+      "votes": 6741,
+      "tomatometer": 90,
+      "tomatometer_count": 21,
+      "tomatometer_certified": false,
+      "audience_score": 89,
+      "audience_count": 2210,
+      "metascore": null,
+      "plot": "In this anime film, Jubei, a highly skilled ninja, is coerced into slaying his own clan of warriors. After begrudgingly killing his fellow swordsmen, he becomes a roving hired assassin. During his travels, he must face off against an organization of demonic ninjas known as the Devils of Kimon, who are plotting to take power of Japan's government. The Devils will stop at nothing, and have the power to annihilate entire villages. Now, only Jubei and a shogun spy named Dakuan can stop them.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/X3M8-aJUnllMESAo-C6ulnF5E-4=/300x450/v2/https://resizing.flixster.com/-ihHO-rPBDXixBnR8fWqxIfqQiA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3ZWEyYzllLWQzMWMtNDI4Yi05YTZlLTgyOWJiZjI4NTllMC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/X3M8-aJUnllMESAo-C6ulnF5E-4=/300x450/v2/https://resizing.flixster.com/-ihHO-rPBDXixBnR8fWqxIfqQiA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3ZWEyYzllLWQzMWMtNDI4Yi05YTZlLTgyOWJiZjI4NTllMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wdxU3cJOF0V29t1GCgMpcmG7qm0=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18789_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0U5Up_dE8DniZhiXnd1RSV-mDzk=/fit-in/705x460/v2/https://resizing.flixster.com/-ihHO-rPBDXixBnR8fWqxIfqQiA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3ZWEyYzllLWQzMWMtNDI4Yi05YTZlLTgyOWJiZjI4NTllMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NZDPhDIMNO5gg0Z3FvogGuNmX2I=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18789_p_v8_aa.jpg",
+          "caption": "Ninja Scroll (1993)"
+        },
+        {
+          "url": "https://resizing.flixster.com/_ZiCRR64jEFcA-LG5VsCE8T66VQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18789_i_h10_aa.jpg",
+          "caption": "Ninja Scroll (1993)"
+        },
+        {
+          "url": "https://resizing.flixster.com/lqtmnBOoGnoRNSxLnCepZ0hmvIU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18789_v_v12_af.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "yoshiaki-kawajiri",
+          "name": "Yoshiaki Kawajiri"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-21T13:02:42.671885Z"
     },
     {
       "id": "oliver_and_company",
@@ -3707,6 +4096,84 @@
       "scraped_at": "2026-09-19T20:49:58.058480Z"
     },
     {
+      "id": "superman_vs_the_elite",
+      "url": "https://www.rottentomatoes.com/m/superman_vs_the_elite",
+      "category": "animation",
+      "type": "movie",
+      "title": "Superman vs. the Elite",
+      "original_title": "Superman vs. the Elite",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "year": 2012,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 74,
+      "certificate": "PG-13",
+      "rating": 7.2,
+      "votes": 1978,
+      "tomatometer": 83,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": 75,
+      "audience_count": 277,
+      "metascore": null,
+      "plot": "New super powerful heroes appear on the scene, but they soon run afoul of the Man of Steel when they show their willingness to kill to stop crime.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/Pqn32efDgMySyc-Qps61TTQugnE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9269052_p_v8_ae.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/Pqn32efDgMySyc-Qps61TTQugnE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9269052_p_v8_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ta57JfyTGOcWdQMnDMs9TxM1VRU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9269052_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FuKlEXQEFRSY31myIAjPbKhxFUY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9269052_p_v10_ac.jpg",
+          "caption": "Superman vs. the Elite (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/oILpUy8OMzjdnvdPDRFVbicibA4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9269052_p_v8_ae.jpg",
+          "caption": "Superman vs. the Elite (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/s-aTxAp-fXWN9yR07EMQ7GKn7XU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9269052_i_h10_ac.jpg",
+          "caption": "Superman vs. the Elite (2012)"
+        },
+        {
+          "url": "https://resizing.flixster.com/pskMoYBShjdZ8t7xrLYM2lw1_Ac=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9269052_v_v12_ah.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "michael_chang",
+          "name": "Michael Chang"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Superman-vs-the-Elite/324977?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-21T13:02:51.958258Z"
+    },
+    {
       "id": "tarzan_and_jane",
       "url": "https://www.rottentomatoes.com/m/tarzan_and_jane",
       "category": "animation",
@@ -3792,6 +4259,84 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-20T04:59:14.557756Z"
+    },
+    {
+      "id": "teen_titans_the_judas_contract",
+      "url": "https://www.rottentomatoes.com/m/teen_titans_the_judas_contract",
+      "category": "animation",
+      "type": "movie",
+      "title": "Teen Titans: The Judas Contract",
+      "original_title": "Teen Titans: The Judas Contract",
+      "genres": [
+        "Action",
+        "Animation"
+      ],
+      "year": 2017,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 76,
+      "certificate": "PG-13",
+      "rating": 7.3,
+      "votes": 670,
+      "tomatometer": 71,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 73,
+      "audience_count": 91,
+      "metascore": null,
+      "plot": "The young super groups get a new member who seems to have ulterior motives as they take on the mercenary Deathstroke.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/oa_qo9-AWq_H2QDwrDOqPwouOtQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13867381_p_v8_an.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/oa_qo9-AWq_H2QDwrDOqPwouOtQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13867381_p_v8_an.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0hx2t7RC9wPP7yvw2iiKd8D76hI=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13867381_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/VOkJqfZHKn_hZsHNPwxknai-Nv8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13867381_p_v10_aj.jpg",
+          "caption": "Teen Titans: The Judas Contract (2017)"
+        },
+        {
+          "url": "https://resizing.flixster.com/mfNcKRxAgXTU3rIXgUi1wz5onJE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13867381_p_v8_an.jpg",
+          "caption": "Teen Titans: The Judas Contract (2017)"
+        },
+        {
+          "url": "https://resizing.flixster.com/xhc83kUGG8FLn8YB6N-PiMPDxgo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13867381_v_v8_ap.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/OehqursTo5fdPA3A9KZLXKwDgus=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13867381_i_h10_aa.jpg",
+          "caption": "Teen Titans: The Judas Contract (2017)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "sam-liu",
+          "name": "Sam Liu"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Teen-Titans-The-Judas-Contract/858864?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-21T13:02:50.960949Z"
     },
     {
       "id": "the-great-mouse-detective",
@@ -4623,7 +5168,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T04:47:47.534749Z"
+      "scraped_at": "2026-09-21T12:59:40.183808Z"
     },
     {
       "id": "tom_and_jerry_forbidden_compass",
@@ -4638,18 +5183,18 @@
         "Adventure",
         "Animation"
       ],
-      "year": 2025,
+      "year": null,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 94,
       "certificate": "PG",
-      "rating": 3.0,
-      "votes": 53,
+      "rating": 3.2,
+      "votes": 56,
       "tomatometer": 0,
-      "tomatometer_count": 10,
+      "tomatometer_count": 11,
       "tomatometer_certified": false,
       "audience_score": 38,
-      "audience_count": 20,
+      "audience_count": 22,
       "metascore": null,
       "plot": "When Tom and Jerry are transported through time to a distant era, they must work together to find a way back home.",
       "tagline": "",
@@ -4708,7 +5253,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T04:48:31.706774Z"
+      "scraped_at": "2026-09-21T13:00:23.959552Z"
     },
     {
       "id": "valiant",
