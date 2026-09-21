@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 14,
   "count": 36,
-  "updated_at": "2026-09-21T13:03:17.445425Z",
+  "updated_at": "2026-09-21T22:06:51.165932Z",
   "titles": [
     {
       "id": "1017991-runaway",
@@ -3675,7 +3675,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T13:02:26.614910Z"
+      "scraped_at": "2026-09-21T22:01:28.173060Z"
     },
     {
       "id": "transformers_the_the_movie",
@@ -3690,18 +3690,18 @@
         "Sci-Fi",
         "Animation"
       ],
-      "year": null,
+      "year": 1986,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 86,
       "certificate": "PG",
-      "rating": 5.7,
-      "votes": 14505,
-      "tomatometer": 62,
-      "tomatometer_count": 26,
+      "rating": 5.8,
+      "votes": 569,
+      "tomatometer": 63,
+      "tomatometer_count": 27,
       "tomatometer_certified": false,
-      "audience_score": 88,
-      "audience_count": 7640,
+      "audience_score": 97,
+      "audience_count": 213,
       "metascore": null,
       "plot": "Ultra Magnus and the Transformers fight planet Unicron and the Decepticons in 2005.",
       "tagline": "",
@@ -3753,10 +3753,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Transformers-The-Movie/16893?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T04:50:37.761174Z"
+      "scraped_at": "2026-09-21T22:01:32.955506Z"
     },
     {
       "id": "ultraman_rising",
@@ -3865,7 +3870,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T11:27:56.284421Z"
+      "scraped_at": "2026-09-21T22:05:45.757408Z"
     }
   ]
 }

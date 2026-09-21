@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 2,
   "count": 59,
-  "updated_at": "2026-09-21T13:00:04.631443Z",
+  "updated_at": "2026-09-21T22:08:51.090070Z",
   "titles": [
     {
       "id": "aftershock_2022",
@@ -4888,15 +4888,15 @@
       "genres": [
         "Documentary"
       ],
-      "year": null,
+      "year": 2024,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 94,
-      "certificate": "In Theaters Sep 22",
-      "rating": 6.9,
-      "votes": null,
+      "certificate": null,
+      "rating": 7.2,
+      "votes": 2,
       "tomatometer": 100,
-      "tomatometer_count": 16,
+      "tomatometer_count": 18,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -4945,10 +4945,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Twiggy/4989370?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T04:53:25.012566Z"
+      "scraped_at": "2026-09-21T22:04:25.560550Z"
     },
     {
       "id": "under_the_gun_2016",
@@ -5024,7 +5029,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T11:28:44.305289Z"
+      "scraped_at": "2026-09-21T22:06:34.531899Z"
     },
     {
       "id": "untitled_eliot_spitzer_project",
@@ -5142,7 +5147,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T11:30:26.548917Z"
+      "scraped_at": "2026-09-21T22:08:15.935028Z"
     },
     {
       "id": "wait_for_your_laugh",
