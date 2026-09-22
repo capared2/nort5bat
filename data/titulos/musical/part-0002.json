@@ -2,7 +2,7 @@
   "genre": "musical",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-09-21T22:06:51.271295Z",
+  "updated_at": "2026-09-22T11:52:13.819276Z",
   "titles": [
     {
       "id": "1006080-don_giovanni",
@@ -6643,7 +6643,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:36:23.688591Z"
+      "scraped_at": "2026-09-22T11:44:24.942620Z"
     },
     {
       "id": "wicked_2024",
@@ -6774,13 +6774,21 @@
           "url": "https://athome.fandango.com/content/browse/details/Wicked/3324643?cmp=rt_where_to_watch"
         },
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Peacock",
           "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000243022_02_HDSDR/07cbd2a1-92f7-3810-b1d0-c80a9b29fb08?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:38:20.044754Z"
+      "scraped_at": "2026-09-22T11:46:20.303229Z"
     },
     {
       "id": "wicked_for_good",
@@ -6801,7 +6809,7 @@
       "runtime_minutes": 137,
       "certificate": "PG",
       "rating": 6.5,
-      "votes": 20728,
+      "votes": 20755,
       "tomatometer": 65,
       "tomatometer_count": 356,
       "tomatometer_certified": false,
@@ -6917,7 +6925,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:38:21.342121Z"
+      "scraped_at": "2026-09-22T11:46:21.171419Z"
     },
     {
       "id": "yentl",
@@ -7039,7 +7047,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T21:03:05.105378Z"
+      "scraped_at": "2026-09-22T11:51:09.801568Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 9,
   "count": 14,
-  "updated_at": "2026-09-22T05:04:10.824257Z",
+  "updated_at": "2026-09-22T11:52:33.542448Z",
   "titles": [
     {
       "id": "1017818-rolling_thunder",
@@ -1456,10 +1456,10 @@
       "release_date": null,
       "runtime_minutes": 111,
       "certificate": "R",
-      "rating": 7.6,
+      "rating": 7.7,
       "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 17,
+      "tomatometer": 97,
+      "tomatometer_count": 30,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -1537,6 +1537,12 @@
           "image": "https://resizing.flixster.com/f8g2pumHOuSiww25k4J6LNynwCI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002QZ42N.jpg"
         },
         {
+          "id": "giancarlo_esposito",
+          "name": "Giancarlo Esposito",
+          "character": "",
+          "image": "https://resizing.flixster.com/942dQdA_S8RkWWLglQAHomtZhl4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73215_v9_bd.jpg"
+        },
+        {
           "id": "abubakr_ali",
           "name": "Abubakr Ali",
           "character": "",
@@ -1547,12 +1553,6 @@
           "name": "Laith Nakli",
           "character": "",
           "image": "https://resizing.flixster.com/x2ID8YLbEY8kRuPy3sXZjIgDV1U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/518342_v9_bb.jpg"
-        },
-        {
-          "id": "tramell_tillman",
-          "name": "Tramell Tillman",
-          "character": "",
-          "image": "https://resizing.flixster.com/WVqLj-eyfMUzCobVuhFvtOWxMk4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1138461_v9_bb.jpg"
         }
       ],
       "keywords": [],
@@ -1564,7 +1564,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-14T13:02:48.384634Z"
+      "scraped_at": "2026-09-22T11:52:30.120682Z"
     }
   ]
 }

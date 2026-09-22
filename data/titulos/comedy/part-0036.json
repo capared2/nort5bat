@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 36,
   "count": 60,
-  "updated_at": "2026-09-22T05:10:13.149639Z",
+  "updated_at": "2026-09-22T11:52:33.467539Z",
   "titles": [
     {
       "id": "1007195-feds",
@@ -6621,11 +6621,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Whos-Harry-Crumb/15427?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CH9DQNNH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:38:01.887518Z"
+      "scraped_at": "2026-09-22T11:46:02.347579Z"
     },
     {
       "id": "woman_in_red",
@@ -6643,7 +6647,7 @@
       "runtime_minutes": 87,
       "certificate": "PG-13",
       "rating": 4.3,
-      "votes": 705,
+      "votes": 707,
       "tomatometer": 32,
       "tomatometer_count": 19,
       "tomatometer_certified": false,
@@ -6733,11 +6737,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Woman-in-Red/141024?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GQJLKPYP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T21:00:42.266306Z"
+      "scraped_at": "2026-09-22T11:48:49.439924Z"
     },
     {
       "id": "your_friends_and_neighbors",
@@ -6847,7 +6855,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T21:04:25.212862Z"
+      "scraped_at": "2026-09-22T11:52:26.148784Z"
     }
   ]
 }
