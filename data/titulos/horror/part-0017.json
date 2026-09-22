@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-09-21T22:02:41.924241Z",
+  "updated_at": "2026-09-22T05:08:13.158630Z",
   "titles": [
     {
       "id": "1008015-fury",
@@ -6978,7 +6978,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T11:31:57.950448Z"
+      "scraped_at": "2026-09-22T05:02:39.187458Z"
     },
     {
       "id": "warlock",
@@ -6998,7 +6998,7 @@
       "runtime_minutes": 103,
       "certificate": "R",
       "rating": 5.1,
-      "votes": 1023,
+      "votes": 1024,
       "tomatometer": 56,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
@@ -7090,11 +7090,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Warlock/6101?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GX45G4J8/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:32:29.044427Z"
+      "scraped_at": "2026-09-22T05:06:48.601937Z"
     },
     {
       "id": "warm_bodies",
@@ -7115,7 +7119,7 @@
       "runtime_minutes": 98,
       "certificate": "PG-13",
       "rating": 6.8,
-      "votes": 57323,
+      "votes": 57324,
       "tomatometer": 81,
       "tomatometer_count": 209,
       "tomatometer_certified": true,
@@ -7221,7 +7225,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:32:32.359709Z"
+      "scraped_at": "2026-09-22T05:06:51.035607Z"
     }
   ]
 }

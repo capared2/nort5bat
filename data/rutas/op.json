@@ -1,6 +1,6 @@
 {
   "bucket": "op",
-  "count": 40,
+  "count": 42,
   "titles": {
     "1003296-bus_stop": [
       "comedy",
@@ -17,6 +17,10 @@
     "1200731-robocop": [
       "sci-fi",
       1
+    ],
+    "another_wolfcop": [
+      "horror",
+      34
     ],
     "barbershop": [
       "comedy",
@@ -161,6 +165,10 @@
     "village_barbershop": [
       "drama",
       11
+    ],
+    "wolfcop": [
+      "horror",
+      34
     ]
   }
 }

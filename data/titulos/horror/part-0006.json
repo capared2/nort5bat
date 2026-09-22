@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-09-21T22:08:51.597189Z",
+  "updated_at": "2026-09-22T05:08:13.166379Z",
   "titles": [
     {
       "id": "10006188-rise",
@@ -7532,11 +7532,11 @@
       "runtime_minutes": 90,
       "certificate": null,
       "rating": null,
-      "votes": 56,
+      "votes": 57,
       "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 91,
+      "audience_score": 89,
       "audience_count": 12,
       "metascore": null,
       "plot": "A young working class woman stands to inherit an estate if she and her boyfriend abide by a set of bizarre stipulations.",
@@ -7624,11 +7624,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Voice-of-Shadows/3326706?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D1CWS162/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T11:34:19.773373Z"
+      "scraped_at": "2026-09-22T05:05:01.216026Z"
     },
     {
       "id": "we_are_what_we_are_2013",
@@ -7754,7 +7758,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:33:23.888955Z"
+      "scraped_at": "2026-09-22T05:07:43.262660Z"
     }
   ]
 }

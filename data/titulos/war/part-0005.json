@@ -1,8 +1,8 @@
 {
   "genre": "war",
   "part": 5,
-  "count": 58,
-  "updated_at": "2026-09-21T22:09:12.520232Z",
+  "count": 59,
+  "updated_at": "2026-09-22T05:10:44.844854Z",
   "titles": [
     {
       "id": "10010331-ascent",
@@ -3881,6 +3881,75 @@
       "scraped_at": "2026-09-17T21:32:03.764655Z"
     },
     {
+      "id": "naza",
+      "url": "https://www.rottentomatoes.com/m/naza",
+      "category": "war",
+      "type": "movie",
+      "title": "Naza",
+      "original_title": "Naza",
+      "genres": [
+        "Documentary",
+        "War"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 80,
+      "certificate": "In Theaters Sep 30",
+      "rating": 9.0,
+      "votes": null,
+      "tomatometer": 100,
+      "tomatometer_count": 17,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/_m9xC6RoRAETBZ-jrwzKWfQUj-g=/300x450/v2/https://resizing.flixster.com/FE8rAEruJOYpFqK1gB80odBImOY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjMDQ3ZjlkLTdhMDEtNGMyNS1iMjdkLTM3YWM5YTYwZDVhZi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/_m9xC6RoRAETBZ-jrwzKWfQUj-g=/300x450/v2/https://resizing.flixster.com/FE8rAEruJOYpFqK1gB80odBImOY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjMDQ3ZjlkLTdhMDEtNGMyNS1iMjdkLTM3YWM5YTYwZDVhZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_50tPuIhdWzHQMkyIZzQZgLvs8k=/620x336/v2/https://resizing.flixster.com/wAQUgAPYoj9iWqdaPLD1usIv9RU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzNzI3MmE1LTU2MTctNDQ2YS1iYTM5LTEwMjY0NDQ2MTYwNS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/6qFsX57k1NoXppIE0g_JnaWNgYQ=/fit-in/705x460/v2/https://resizing.flixster.com/FE8rAEruJOYpFqK1gB80odBImOY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjMDQ3ZjlkLTdhMDEtNGMyNS1iMjdkLTM3YWM5YTYwZDVhZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gG1H_G1B_MjmL1vhHjMHuTsjCJM=/fit-in/705x460/v2/https://resizing.flixster.com/wAQUgAPYoj9iWqdaPLD1usIv9RU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzNzI3MmE1LTU2MTctNDQ2YS1iYTM5LTEwMjY0NDQ2MTYwNS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "yuval_abraham",
+          "name": "Yuval Abraham"
+        },
+        {
+          "id": "rachel_szor",
+          "name": "Rachel Szor"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-22T05:10:35.292970Z"
+    },
+    {
       "id": "nezouh",
       "url": "https://www.rottentomatoes.com/m/nezouh",
       "category": "war",
@@ -6273,7 +6342,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T11:34:26.531830Z"
+      "scraped_at": "2026-09-22T05:05:07.500962Z"
     },
     {
       "id": "war_witch",
@@ -6398,7 +6467,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:32:20.150156Z"
+      "scraped_at": "2026-09-22T05:06:39.936749Z"
     },
     {
       "id": "warsaw_uprising",
@@ -6518,7 +6587,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:32:37.230438Z"
+      "scraped_at": "2026-09-22T05:06:56.864448Z"
     },
     {
       "id": "white_material",

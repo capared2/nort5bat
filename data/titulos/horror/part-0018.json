@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-09-21T22:08:51.581446Z",
+  "updated_at": "2026-09-22T05:10:12.974606Z",
   "titles": [
     {
       "id": "10004684-malevolence",
@@ -6702,10 +6702,10 @@
       "year": 1983,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": 90,
+      "runtime_minutes": 87,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 8564,
+      "votes": 8568,
       "tomatometer": 83,
       "tomatometer_count": 60,
       "tomatometer_certified": true,
@@ -6795,11 +6795,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Videodrome/4867?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FTDY2K5V/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T11:33:14.016668Z"
+      "scraped_at": "2026-09-22T05:03:56.205394Z"
     },
     {
       "id": "visiting_hours",
@@ -6817,7 +6821,7 @@
       "runtime_minutes": 105,
       "certificate": "R",
       "rating": 4.1,
-      "votes": 202,
+      "votes": 203,
       "tomatometer": 15,
       "tomatometer_count": 13,
       "tomatometer_certified": false,
@@ -6886,7 +6890,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T11:34:05.880436Z"
+      "scraped_at": "2026-09-22T05:04:47.061245Z"
     },
     {
       "id": "what_we_do_in_the_shadows",
@@ -6905,7 +6909,7 @@
       "runtime_minutes": 86,
       "certificate": "R",
       "rating": 7.9,
-      "votes": 12942,
+      "votes": 12943,
       "tomatometer": 96,
       "tomatometer_count": 190,
       "tomatometer_certified": true,
@@ -7015,7 +7019,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T16:35:34.598163Z"
+      "scraped_at": "2026-09-22T05:09:53.826996Z"
     }
   ]
 }
