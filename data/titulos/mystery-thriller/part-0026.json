@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-09-22T17:08:09.504483Z",
+  "updated_at": "2026-09-22T21:30:55.799308Z",
   "titles": [
     {
       "id": "1006299-dressed_to_kill",
@@ -347,10 +347,10 @@
       "release_date": null,
       "runtime_minutes": 130,
       "certificate": "R",
-      "rating": 6.1,
+      "rating": 6.0,
       "votes": 499,
-      "tomatometer": 71,
-      "tomatometer_count": 28,
+      "tomatometer": 69,
+      "tomatometer_count": 29,
       "tomatometer_certified": false,
       "audience_score": 50,
       "audience_count": 123,
@@ -433,7 +433,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-12T04:45:41.483440Z"
+      "scraped_at": "2026-09-22T21:24:47.087899Z"
     },
     {
       "id": "1080990-fallen",
@@ -451,12 +451,12 @@
       "runtime_minutes": 124,
       "certificate": "R",
       "rating": 5.6,
-      "votes": 6442,
+      "votes": 6443,
       "tomatometer": 43,
       "tomatometer_count": 56,
       "tomatometer_certified": false,
       "audience_score": 72,
-      "audience_count": 1942,
+      "audience_count": 1941,
       "metascore": null,
       "plot": "After witnessing the execution of serial killer Edgar Reese (Elias Koteas), whom he arrested, police detective John Hobbes (Denzel Washington), and his partner, Jonesy (John Goodman), are soon investigating another murderer whose mode of operation is eerily similar to Reese's. In the course of the investigation, Hobbes meets theology professor Gretta Milano (Embeth Davidtz), who introduces him to the world of the occult and the possibility that an evil spirit is behind the killings.",
       "tagline": "",
@@ -545,7 +545,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-12T10:53:44.656729Z"
+      "scraped_at": "2026-09-22T21:29:22.715401Z"
     },
     {
       "id": "1094646-eye_of_the_beholder",
@@ -564,8 +564,8 @@
       "certificate": "R",
       "rating": 3.6,
       "votes": 1084,
-      "tomatometer": 9,
-      "tomatometer_count": 88,
+      "tomatometer": 10,
+      "tomatometer_count": 89,
       "tomatometer_certified": false,
       "audience_score": 32,
       "audience_count": 355,
@@ -665,11 +665,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Eye-of-the-Beholder/15922?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CWD2R7D9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-12T10:55:03.444287Z"
+      "scraped_at": "2026-09-22T21:30:42.603440Z"
     },
     {
       "id": "1116004-brothers_keeper",
