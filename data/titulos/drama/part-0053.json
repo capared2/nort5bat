@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 53,
   "count": 60,
-  "updated_at": "2026-09-22T11:52:12.847251Z",
+  "updated_at": "2026-09-22T17:02:06.904177Z",
   "titles": [
     {
       "id": "10002848-at_five_in_the_afternoon",
@@ -104,13 +104,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GV4HTDQ9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/qissa-panjab/umc.cmc.17kxws8wn2jdmdtr0cczpesqn?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-11T21:06:00.754971Z"
+      "scraped_at": "2026-09-22T17:01:35.455415Z"
     },
     {
       "id": "1122708-sea",

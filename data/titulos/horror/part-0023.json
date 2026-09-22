@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 23,
   "count": 60,
-  "updated_at": "2026-09-22T11:48:10.858250Z",
+  "updated_at": "2026-09-22T17:08:09.568414Z",
   "titles": [
     {
       "id": "1001428-awakening",
@@ -106,7 +106,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-12T04:40:19.413796Z"
+      "scraped_at": "2026-09-22T17:05:04.544081Z"
     },
     {
       "id": "1002734-bluebeard",
@@ -200,10 +200,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Bluebeard/5151143?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-12T04:40:36.649140Z"
+      "scraped_at": "2026-09-22T17:05:21.213703Z"
     },
     {
       "id": "1015100-nightmare",
@@ -307,7 +312,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-12T04:43:22.732434Z"
+      "scraped_at": "2026-09-22T17:08:06.620011Z"
     },
     {
       "id": "2193fcec-d533-36d1-ad66-9e675d8180ed",
