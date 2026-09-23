@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 25,
-  "updated_at": "2026-09-21T13:03:17.014391Z",
+  "updated_at": "2026-09-23T17:14:42.656885Z",
   "titles": [
     {
       "id": "american_summer_2026",
@@ -14,13 +14,13 @@
       "genres": [
         "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 83,
       "certificate": "PG",
       "rating": null,
-      "votes": 99,
+      "votes": 100,
       "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
@@ -112,10 +112,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/American-Summer/5069579?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-13T04:55:37.352726Z"
+      "scraped_at": "2026-09-23T17:13:35.162244Z"
     },
     {
       "id": "best_of_the_best_2026",
