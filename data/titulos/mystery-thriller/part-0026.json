@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-09-22T21:30:55.799308Z",
+  "updated_at": "2026-09-23T04:51:19.142280Z",
   "titles": [
     {
       "id": "1006299-dressed_to_kill",
@@ -777,7 +777,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-12T10:56:37.803462Z"
+      "scraped_at": "2026-09-23T04:50:18.442119Z"
     },
     {
       "id": "1118216-femme_fatale",
@@ -795,12 +795,12 @@
       "runtime_minutes": 110,
       "certificate": "R",
       "rating": 5.6,
-      "votes": 2162,
+      "votes": 2163,
       "tomatometer": 49,
       "tomatometer_count": 138,
       "tomatometer_certified": false,
       "audience_score": 49,
-      "audience_count": 542,
+      "audience_count": 543,
       "metascore": null,
       "plot": "Laure (Rebecca Romijn-Stamos), a member of a crime ring, lifts an extravagant set of jewels from a model at a red carpet event. But instead of splitting the loot with her partners, Laure flees. While running from the crooks she betrayed, she comes across Lily (also Romijn-Stamos), a woman nearly identical to herself. When Lily kills herself, Laure assumes her identity and starts life anew. But paparazzo Nicolas (Antonio Banderas) has been tracking her, and may reveal all her dark secrets.",
       "tagline": "",
@@ -893,10 +893,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H4P48SXQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-12T10:56:43.771299Z"
+      "scraped_at": "2026-09-23T04:50:24.215035Z"
     },
     {
       "id": "a_nanny_to_die_for",
