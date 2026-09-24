@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-24T05:00:51.794931Z",
+  "updated_at": "2026-09-24T11:57:22.320793Z",
   "titles": [
     {
       "id": "a_beautiful_planet",
@@ -752,7 +752,7 @@
       "rating": 8.2,
       "votes": 8,
       "tomatometer": 98,
-      "tomatometer_count": 46,
+      "tomatometer_count": 53,
       "tomatometer_certified": true,
       "audience_score": null,
       "audience_count": 2,
@@ -785,10 +785,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Boorman-and-the-Devil/5187725?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-13T20:54:02.283661Z"
+      "scraped_at": "2026-09-24T11:56:58.873039Z"
     },
     {
       "id": "bring_your_own_brigade",
