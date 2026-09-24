@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-09-23T17:10:41.948633Z",
+  "updated_at": "2026-09-24T05:05:15.028187Z",
   "titles": [
     {
       "id": "1000617-aliens",
@@ -893,7 +893,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-13T12:03:29.991462Z"
+      "scraped_at": "2026-09-24T04:59:33.528283Z"
     },
     {
       "id": "beast_mode",
@@ -1014,10 +1014,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B679N2QB/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-13T12:03:31.600852Z"
+      "scraped_at": "2026-09-24T04:59:35.982023Z"
     },
     {
       "id": "before_i_wake",
@@ -1149,7 +1154,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-13T12:04:49.915126Z"
+      "scraped_at": "2026-09-24T05:00:55.120522Z"
     },
     {
       "id": "bird_box",
@@ -1170,7 +1175,7 @@
       "runtime_minutes": 124,
       "certificate": "R",
       "rating": 5.9,
-      "votes": 7896,
+      "votes": 7899,
       "tomatometer": 64,
       "tomatometer_count": 169,
       "tomatometer_certified": false,
@@ -1282,7 +1287,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-13T16:25:48.673776Z"
+      "scraped_at": "2026-09-24T05:05:14.429125Z"
     },
     {
       "id": "bunker_2022",
