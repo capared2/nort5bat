@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-09-25T05:10:10.373566Z",
+  "updated_at": "2026-09-25T12:03:08.584118Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -1840,20 +1840,21 @@
       "original_title": "Don't Move",
       "genres": [
         "Horror",
-        "Mystery & Thriller"
+        "Mystery & Thriller",
+        "Comedy"
       ],
       "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 94,
-      "certificate": "Now Playing",
+      "certificate": "R",
       "rating": null,
-      "votes": 110,
+      "votes": 174,
       "tomatometer": null,
       "tomatometer_count": 2,
       "tomatometer_certified": false,
-      "audience_score": 82,
-      "audience_count": 77,
+      "audience_score": 80,
+      "audience_count": 112,
       "metascore": null,
       "plot": "A church group's annual retreat turns deadly when they wander into the wrong part of the Ozark wilderness, and something starts picking them off one by one. Suspicion falls on Ricky (Russell \"Russ\" Vitale), the troublemaker of the group. But the real threat is far worse. Deep in the forest, wrapped in a labyrinth of webs, the group is pursued by a terrifying prehistoric arachnid that hunts by vibration. When every step could be their last, they only have one choice: Don't Move. It's up to Megan (Lyndsy Fonseca) to hold what's left of the group together and get them out alive.",
       "tagline": "",
@@ -1922,10 +1923,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dont-Move/5147668?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T05:00:31.980773Z"
+      "scraped_at": "2026-09-25T12:01:36.945549Z"
     },
     {
       "id": "ever_after_2025",
