@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 25,
   "count": 60,
-  "updated_at": "2026-09-25T11:59:04.993297Z",
+  "updated_at": "2026-09-25T17:19:44.384058Z",
   "titles": [
     {
       "id": "10008701-laaga_chunari_mein_daag",
@@ -1940,11 +1940,11 @@
       "runtime_minutes": 88,
       "certificate": null,
       "rating": null,
-      "votes": 11,
+      "votes": 12,
       "tomatometer": null,
       "tomatometer_count": 4,
       "tomatometer_certified": false,
-      "audience_score": 36,
+      "audience_score": 33,
       "audience_count": 3,
       "metascore": null,
       "plot": "After their partner swap experiment takes a turn, four friends arrive at a remote beach hut to face the fallout and purge themselves of deeper truths.",
@@ -2046,7 +2046,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T05:03:28.076978Z"
+      "scraped_at": "2026-09-25T17:16:43.597424Z"
     },
     {
       "id": "dum_laga_ke_haisha",
@@ -2066,12 +2066,12 @@
       "runtime_minutes": 110,
       "certificate": null,
       "rating": 6.8,
-      "votes": 133,
+      "votes": 134,
       "tomatometer": 94,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
       "audience_score": 69,
-      "audience_count": 16,
+      "audience_count": 17,
       "metascore": null,
       "plot": "Prem, a school dropout, hesitantly marries an educated but overweight girl, Sandhya. The two come closer when they take part in a race, which involves Prem carrying Sandhya on his back.",
       "tagline": "",
@@ -2160,7 +2160,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T05:03:44.074480Z"
+      "scraped_at": "2026-09-25T17:16:59.324864Z"
     },
     {
       "id": "el_rey_del_once",
@@ -2277,10 +2277,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GLF7VYTN/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T05:05:55.132844Z"
+      "scraped_at": "2026-09-25T17:19:10.341564Z"
     },
     {
       "id": "exploding_girl",
