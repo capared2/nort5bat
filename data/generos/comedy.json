@@ -1,7 +1,7 @@
 {
   "genre": "comedy",
   "name": "Comedy",
-  "count": 5345,
+  "count": 5344,
   "titles": [
     {
       "id": "finding_nemo",
@@ -810,7 +810,7 @@
         "Animation"
       ],
       "rating": 7.8,
-      "votes": 113865,
+      "votes": 113868,
       "tomatometer": 89,
       "audience_score": 85,
       "runtime_minutes": 102,
@@ -2181,7 +2181,7 @@
         "Drama"
       ],
       "rating": 7.7,
-      "votes": 77129,
+      "votes": 77133,
       "tomatometer": 86,
       "audience_score": 88,
       "runtime_minutes": 109,
@@ -2781,7 +2781,7 @@
         "Adventure"
       ],
       "rating": 8.2,
-      "votes": 64745,
+      "votes": 64750,
       "tomatometer": 95,
       "audience_score": 88,
       "runtime_minutes": 107,
@@ -3099,7 +3099,7 @@
         "Drama"
       ],
       "rating": 7.2,
-      "votes": 60353,
+      "votes": 60356,
       "tomatometer": 84,
       "audience_score": 76,
       "runtime_minutes": 112,
@@ -3512,7 +3512,7 @@
         "Action"
       ],
       "rating": 5.7,
-      "votes": 56774,
+      "votes": 56775,
       "tomatometer": 51,
       "audience_score": 67,
       "runtime_minutes": 111,
@@ -4475,7 +4475,7 @@
         "Action"
       ],
       "rating": 6.5,
-      "votes": 47284,
+      "votes": 47291,
       "tomatometer": 74,
       "audience_score": 48,
       "runtime_minutes": 117,
@@ -4702,30 +4702,6 @@
       ]
     },
     {
-      "id": "get_out",
-      "category": "horror",
-      "type": "movie",
-      "title": "Get Out",
-      "original_title": "Get Out",
-      "year": 2017,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller",
-        "Comedy"
-      ],
-      "rating": 8.4,
-      "votes": 45736,
-      "tomatometer": 98,
-      "audience_score": 86,
-      "runtime_minutes": 104,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Oey1aJfROCBArHjcFjOrZIW1Bo0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13365032_p_v8_bb.jpg",
-      "plot": "Now that Chris and his girlfriend, Rose, have reached the meet-the-parents milestone of dating, she invites him for a weekend getaway with Missy and Dean. At first, Chris reads the family's overly…",
-      "directors": [
-        "Jordan Peele"
-      ]
-    },
-    {
       "id": "red",
       "category": "comedy",
       "type": "movie",
@@ -4821,6 +4797,28 @@
       "plot": "Dory (Ellen DeGeneres) is a wide-eyed, blue tang fish who suffers from memory loss every 10 seconds or so. The one thing she can remember is that she somehow became separated from her parents as a…",
       "directors": [
         "Andrew Stanton"
+      ]
+    },
+    {
+      "id": "harold_and_kumar_go_to_white_castle",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Harold & Kumar Go to White Castle",
+      "original_title": "Harold & Kumar Go to White Castle",
+      "year": 2004,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 6.5,
+      "votes": 44912,
+      "tomatometer": 75,
+      "audience_score": 80,
+      "runtime_minutes": 88,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/veogtL3wOeFfaskbKPCQTmC1-9I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34664_p_v8_ak.jpg",
+      "plot": "Nerdy accountant Harold (John Cho) and his irrepressible friend, Kumar (Kal Penn), get stoned watching television and find themselves utterly bewitched by a commercial for White Castle. Convinced…",
+      "directors": [
+        "Danny Leiner"
       ]
     }
   ]

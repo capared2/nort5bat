@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-09-25T21:45:49.731581Z",
+  "updated_at": "2026-09-26T05:10:00.377213Z",
   "titles": [
     {
       "id": "a_beautiful_planet",
@@ -2507,7 +2507,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T17:10:15.781964Z"
+      "scraped_at": "2026-09-26T05:07:23.053431Z"
     },
     {
       "id": "gaucho_gaucho",
@@ -2596,10 +2596,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HKGNMYKH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/gaucho-gaucho/umc.cmc.7dy9ipq3ryasu0ea3zh8m2vhd?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T21:25:21.843716Z"
+      "scraped_at": "2026-09-26T05:09:19.974551Z"
     },
     {
       "id": "generation_wealth",
@@ -2729,7 +2738,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T21:25:43.115723Z"
+      "scraped_at": "2026-09-26T05:09:40.837655Z"
     },
     {
       "id": "goddess_of_slide_the_forgotten_story_of_ellen_mcilwaine",

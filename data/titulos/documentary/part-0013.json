@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-09-25T17:17:43.323777Z",
+  "updated_at": "2026-09-26T05:10:00.361557Z",
   "titles": [
     {
       "id": "1193303-1193303-trumbo",
@@ -1649,7 +1649,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T17:07:25.830897Z"
+      "scraped_at": "2026-09-26T05:04:32.048181Z"
     },
     {
       "id": "freedom_shred",
@@ -1713,7 +1713,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T17:09:08.964910Z"
+      "scraped_at": "2026-09-26T05:06:17.300197Z"
     },
     {
       "id": "gerhard_richter_painting",
@@ -1829,10 +1829,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/gerhard-richter-painting/umc.cmc.5ryssdfudgidw97qejs4mumdx?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-15T21:25:58.131860Z"
+      "scraped_at": "2026-09-26T05:09:56.619519Z"
     },
     {
       "id": "greedy_lying_bastards_2012",
