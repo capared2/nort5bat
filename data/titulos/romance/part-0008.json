@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-09-26T11:37:34.233546Z",
+  "updated_at": "2026-09-26T16:35:16.495417Z",
   "titles": [
     {
       "id": "10008760-what_happens_in_vegas",
@@ -2929,10 +2929,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Head-Over-Heels/5158373?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-16T04:57:30.289077Z"
+      "scraped_at": "2026-09-26T16:27:36.167147Z"
     },
     {
       "id": "hot_rod",
@@ -2954,7 +2959,7 @@
       "runtime_minutes": 88,
       "certificate": "PG-13",
       "rating": 5.2,
-      "votes": 28723,
+      "votes": 28724,
       "tomatometer": 39,
       "tomatometer_count": 118,
       "tomatometer_certified": false,
@@ -3066,7 +3071,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-16T11:43:13.633221Z"
+      "scraped_at": "2026-09-26T16:34:03.374605Z"
     },
     {
       "id": "i_love_america_2022",

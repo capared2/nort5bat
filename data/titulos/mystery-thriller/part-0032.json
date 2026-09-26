@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 32,
   "count": 31,
-  "updated_at": "2026-09-26T11:37:35.431842Z",
+  "updated_at": "2026-09-26T16:31:14.583911Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -756,20 +756,20 @@
         "Action",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 101,
       "certificate": "PG-13",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "rating": 7.0,
+      "votes": 483,
+      "tomatometer": 87,
+      "tomatometer_count": 137,
+      "tomatometer_certified": true,
+      "audience_score": 95,
+      "audience_count": 182,
       "metascore": null,
-      "plot": "After surviving a plane crash, a former special forces soldier finds himself trapped in the unforgiving Alaskan wilderness with his combat dog. Together, they battle the elements and other animals in a harsh landscape that would likely kill any other man or dog.",
+      "plot": "After a harrowing plane crash, Special Forces veteran James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
       "tagline": "",
       "poster": "https://resizing.flixster.com/shq_5zL9oG014dTqA84n9_XQmDI=/300x450/v2/https://resizing.flixster.com/5-RB3KvgawbdBwrtPER-lHLG3jk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4NGNkZDM2LWQ3NGEtNGFmNS05NzE3LTE1ZjJkZjA3OTA2ZC5qcGc=",
       "images": [
@@ -825,10 +825,6 @@
         {
           "id": "david_ayer",
           "name": "David Ayer"
-        },
-        {
-          "id": "mauro_fiore",
-          "name": "Mauro Fiore"
         }
       ],
       "writers": [],
@@ -858,10 +854,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Heart-of-the-Beast/5171052?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-16T04:57:49.171163Z"
+      "scraped_at": "2026-09-26T16:27:52.936285Z"
     },
     {
       "id": "high_forces",
@@ -985,7 +986,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-16T05:00:32.182346Z"
+      "scraped_at": "2026-09-26T16:30:36.287993Z"
     },
     {
       "id": "in_the_grey",
