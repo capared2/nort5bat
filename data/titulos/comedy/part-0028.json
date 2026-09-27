@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 28,
   "count": 60,
-  "updated_at": "2026-09-26T21:17:57.805832Z",
+  "updated_at": "2026-09-27T05:24:29.441307Z",
   "titles": [
     {
       "id": "1001180-armed_and_dangerous",
@@ -3971,7 +3971,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-16T17:05:32.338844Z"
+      "scraped_at": "2026-09-27T05:22:39.098134Z"
     },
     {
       "id": "irina_palm",
@@ -4088,10 +4088,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GVGLQ84P/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-16T17:06:36.380043Z"
+      "scraped_at": "2026-09-27T05:23:41.982598Z"
     },
     {
       "id": "juwanna_mann",
