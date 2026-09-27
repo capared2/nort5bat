@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 31,
   "count": 60,
-  "updated_at": "2026-09-27T05:30:36.179714Z",
+  "updated_at": "2026-09-27T12:13:32.517412Z",
   "titles": [
     {
       "id": "a_christmas_murder_mystery",
@@ -2793,10 +2793,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/70134537?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-16T21:25:51.826687Z"
+      "scraped_at": "2026-09-27T12:08:31.479930Z"
     },
     {
       "id": "killer_beat",
@@ -2882,7 +2887,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-16T21:27:11.944472Z"
+      "scraped_at": "2026-09-27T12:09:52.156393Z"
     },
     {
       "id": "la_piel_del_tambor",
@@ -3004,7 +3009,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-17T04:57:30.020592Z"
+      "scraped_at": "2026-09-27T12:13:03.623695Z"
     },
     {
       "id": "mania_2024",
