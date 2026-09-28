@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 6,
   "count": 28,
-  "updated_at": "2026-09-27T17:06:44.312917Z",
+  "updated_at": "2026-09-28T05:37:05.603548Z",
   "titles": [
     {
       "id": "1215016-anita_oday_the_life_of_a_jazz_singer",
@@ -1233,7 +1233,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-17T17:07:03.232631Z"
+      "scraped_at": "2026-09-28T05:29:27.193445Z"
     },
     {
       "id": "misfit_mentor",
@@ -1246,15 +1246,15 @@
         "Documentary",
         "Music"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 81,
       "certificate": "Sep 2026",
       "rating": null,
-      "votes": null,
+      "votes": 1,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -1319,10 +1319,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HHR6R374/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/misfit-mentor/umc.cmc.4fv3fm8rkezcftj183juufdic?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-17T21:27:16.420099Z"
+      "scraped_at": "2026-09-28T05:35:32.625390Z"
     },
     {
       "id": "nct_127_5th_tour_neo_city_seoul_the_redline_in_cinemas",
