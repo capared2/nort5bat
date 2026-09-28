@@ -1,8 +1,8 @@
 {
   "genre": "mystery-thriller",
   "part": 32,
-  "count": 31,
-  "updated_at": "2026-09-27T17:06:43.466286Z",
+  "count": 34,
+  "updated_at": "2026-09-28T14:11:12.004215Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -182,6 +182,137 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-23T21:40:39.808808Z"
+    },
+    {
+      "id": "detective_dee_and_the_mystery_of_the_phantom_flame",
+      "url": "https://www.rottentomatoes.com/m/detective_dee_and_the_mystery_of_the_phantom_flame",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Detective Dee and the Mystery of the Phantom Flame",
+      "original_title": "Detective Dee and the Mystery of the Phantom Flame",
+      "genres": [
+        "Mystery & Thriller",
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "year": 2011,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 123,
+      "certificate": "PG-13",
+      "rating": 6.8,
+      "votes": 1749,
+      "tomatometer": 80,
+      "tomatometer_count": 55,
+      "tomatometer_certified": true,
+      "audience_score": 62,
+      "audience_count": 455,
+      "metascore": null,
+      "plot": "During the Tang Dynasty, China's future empress (Carina Lau) frees an imprisoned detective (Andy Lau) to solve the deaths of two courtiers who burst into flame upon exposure to sunlight.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/67PZLVM5S9GwNzpPQufZf1Q8g3E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8547895_p_v8_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/67PZLVM5S9GwNzpPQufZf1Q8g3E=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8547895_p_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gP5iZ-pIgwDRN_LNpL8lg4wlCNw=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8547895_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/WC5_XN3GLDEJu3k6oJOdtVG-0uc=/fit-in/705x460/v2/https://resizing.flixster.com/K2rS4j9DIvvpzGxDt-SgHe-WMs0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEwZmQxYWMxLWI3ZDYtNDNkZC04N2I1LTNkNmM5OTNlMzVkMi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1Oo_05oLhzxIKJY_PW2M13laPdQ=/fit-in/705x460/v2/https://resizing.flixster.com/tef8Xf_HH_rXziI3ozDuFkTRlnw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y0MDc1NzM0LWRlNmQtNDBmZS05MDA2LTIwMDNlNDczYTYyMi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/V5qIiUuqoc2ezE3EOij7sOot6RU=/fit-in/705x460/v2/https://resizing.flixster.com/3Wwy0YlzrC19Ku_GdReITN39oTw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E3MDliMGNlLTM5YTAtNGY2MS1hY2U2LWUyNThlMTk3ZTJkNC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5WHkvvnuMTKBgwox1epV08sMEXo=/fit-in/705x460/v2/https://resizing.flixster.com/vTtmsIP9KqKNTUw7fOzspERyuoU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UxMjQ5ODAyLTg2MmQtNGEzMS05ZWU0LThiNGYwOTI1NjNhYy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/dzzP3xKV9EhQlq4cOrWXYDg0qFM=/fit-in/705x460/v2/https://resizing.flixster.com/nhcamukSmwBlqeKoUCCYkTeQSNs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM1Nzc4YjZmLTExZTUtNGQ3ZC04YjdmLWU0ZWNiZDE3Njg2Yi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/mrBqRc9iHvpkWs0WM8bVrX0SgLo=/fit-in/705x460/v2/https://resizing.flixster.com/aes7rAmftOnHb4nR2YlOOpq-pII=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UxOWE0YjQ5LTA5MWMtNGMwZC04NjhhLTQwOTExZGQ2ODQwYy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/d2KB3he2Gokpxsk5s_6vz14yBSQ=/fit-in/705x460/v2/https://resizing.flixster.com/zBL2NIh5gHG8ozEYNup6Gy-g73g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhYTBjZmI3LWFlZjktNDg3Mi1hMjNkLTA4YTE5YTk4YjBhOC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ape0npTHUXBJYnHTwT7OktbotJg=/fit-in/705x460/v2/https://resizing.flixster.com/F8CiHWpIPpFtH3KzbX3-FSD1c_s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyMjhhZmRlLWVlZGYtNDIwYS1hYmMzLTI5ZmExODcwOTA5NS53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "771391916",
+          "name": "Hark Tsui"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "andy_lau",
+          "name": "Andy Lau",
+          "character": "",
+          "image": "https://resizing.flixster.com/asNxTpVhN9qUWtqqg39Yb9PCY-0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77217_v9_bb.jpg"
+        },
+        {
+          "id": "carina_lau",
+          "name": "Carina Lau",
+          "character": "",
+          "image": "https://resizing.flixster.com/gGCH7jF-Y_YwxJ3dKnbf5qUBtvw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76890_v9_bb.jpg"
+        },
+        {
+          "id": "bingbing_li",
+          "name": "Li Bingbing",
+          "character": "",
+          "image": "https://resizing.flixster.com/9ma3mH6R68Pms0YZ-YKXDp4K8_I=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/284510_v9_bb.jpg"
+        },
+        {
+          "id": "chao_deng",
+          "name": "Chao Deng",
+          "character": "",
+          "image": "https://resizing.flixster.com/xA-qYERGCsnFKORV_GsZoN7XcxU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/612307_v9_ba.jpg"
+        },
+        {
+          "id": "tony_leung_ka_fai",
+          "name": "Tony Leung Ka Fai",
+          "character": "",
+          "image": "https://resizing.flixster.com/SHNnEfYuswDodgiWN6TXilMNXw8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/290218_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Detective-Dee-and-the-Mystery-of-the-Phantom-Flame/251645?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DR6YZQB2/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-28T14:11:09.332063Z"
     },
     {
       "id": "drawn_together",
@@ -1456,9 +1587,9 @@
       "runtime_minutes": 111,
       "certificate": "R",
       "rating": 6.4,
-      "votes": 288,
+      "votes": 290,
       "tomatometer": 69,
-      "tomatometer_count": 204,
+      "tomatometer_count": 205,
       "tomatometer_certified": false,
       "audience_score": 60,
       "audience_count": 87,
@@ -1572,7 +1703,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-17T21:30:53.084558Z"
+      "scraped_at": "2026-09-28T14:03:33.793189Z"
     },
     {
       "id": "nickels",
@@ -2618,6 +2749,91 @@
       "scraped_at": "2026-09-19T04:49:21.116788Z"
     },
     {
+      "id": "the_beast_2026",
+      "url": "https://www.rottentomatoes.com/m/the_beast_2026",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "The Beast",
+      "original_title": "The Beast",
+      "genres": [
+        "Drama",
+        "Action",
+        "Mystery & Thriller"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 99,
+      "certificate": "In Theaters Oct 9",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "The most secure presidential vehicle ever built becomes the center of a fight for America. When unidentified hostiles coordinate a coup against the United States, the president uncovers the extent of The Beast's highly classified offensive capabilities. Separated from his wife, the president must learn to control The Beast--and the monster inside himself--to save his life, Secret Service agent Taft, and the country.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/BrLjsKKjTJ6gks49TKGqNg7gTnE=/300x450/v2/https://resizing.flixster.com/gXfbWBNPjN_mg4IKWNPoimQz3x4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5OGZjOTc1LWI3ZTEtNGFhMC1iZWFkLTEzMzM5ZTUzYWFlMC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/BrLjsKKjTJ6gks49TKGqNg7gTnE=/300x450/v2/https://resizing.flixster.com/gXfbWBNPjN_mg4IKWNPoimQz3x4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5OGZjOTc1LWI3ZTEtNGFhMC1iZWFkLTEzMzM5ZTUzYWFlMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jSID5tj48wpnpxvTbajTVg3Q6aw=/fit-in/705x460/v2/https://resizing.flixster.com/gXfbWBNPjN_mg4IKWNPoimQz3x4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5OGZjOTc1LWI3ZTEtNGFhMC1iZWFkLTEzMzM5ZTUzYWFlMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Za4cC7ioNXHCil4dt1v-nTU7ctk=/fit-in/705x460/v2/https://resizing.flixster.com/HTN-QvRXgnD0OWqgs83pLhYxSP0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzllMzI0ZWM2LWZhMDYtNDRhMS1hZWVmLWNkMThiZjQ4N2Q0ZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/KFzjZiNfXouC4P6Gqm9yeTtX9Mw=/fit-in/705x460/v2/https://resizing.flixster.com/KcRn-ATMxfJUfpf8j6dgfRwgvkA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzMjAyZjRjLWRkODktNDA1Ny04NTU4LWNlMjkzYTNmZmNiNi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "renny_harlin",
+          "name": "Renny Harlin"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "samuel_l_jackson",
+          "name": "Samuel L. Jackson",
+          "character": "",
+          "image": "https://resizing.flixster.com/iaYriVoR-Ap4tKMnvgYdrtI49LY=/120x150/v2/https://resizing.flixster.com/K1vfoLYndGgbR28IyyzRkBIeyuY=/ems.ZW1zLXByZC1hc3NldHMvY2VsZWJyaXRpZXMvYmM5MDczZWYtNTJiMC00YmE0LTg1YmUtZWYzMDA2MTFmODk5LmpwZw=="
+        },
+        {
+          "id": "joel_kinnaman",
+          "name": "Joel Kinnaman",
+          "character": "",
+          "image": "https://resizing.flixster.com/4LRcjAfPa_OZuuS8n6DKYiOU698=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/385324_v9_bc.jpg"
+        },
+        {
+          "id": "guy_burnet",
+          "name": "Guy Burnet",
+          "character": "",
+          "image": "https://resizing.flixster.com/3ls6aqN6L9oFsfvxKupGrjeoQRE=/120x150/v2/https://resizing.flixster.com/iTDGFPvbnRxk4eg-uzts5U4pv1g=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvOTE3YTE1ODctNTc5YS00YWFjLWIwNDYtYmE3MWNiNzQ0MjRkLmpwZw=="
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-28T14:10:32.018050Z"
+    },
+    {
       "id": "the_fix_2026",
       "url": "https://www.rottentomatoes.com/m/the_fix_2026",
       "category": "mystery-thriller",
@@ -3188,6 +3404,129 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-21T05:03:31.302863Z"
+    },
+    {
+      "id": "the_social_reckoning",
+      "url": "https://www.rottentomatoes.com/m/the_social_reckoning",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "The Social Reckoning",
+      "original_title": "The Social Reckoning",
+      "genres": [
+        "Drama",
+        "Biography",
+        "Mystery & Thriller"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 112,
+      "certificate": "R",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "A companion piece to the hit film, The Social Network, Sorkin's original screenplay tells the true story of how Frances Haugen (Mikey Madison), a young Facebook engineer, enlists the help of Jeff Horwitz (Jeremy Allen White), a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/umNuqE_gOIwpwQFQi6fSh9bz6KE=/300x450/v2/https://resizing.flixster.com/_pzHu68v-2AL8VkJ2UMJYYQ3gFA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViMGEzZWNlLTBiNzYtNDY2NS1hMTI1LTkwMWM4NGM5YjQ3Ny5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/umNuqE_gOIwpwQFQi6fSh9bz6KE=/300x450/v2/https://resizing.flixster.com/_pzHu68v-2AL8VkJ2UMJYYQ3gFA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViMGEzZWNlLTBiNzYtNDY2NS1hMTI1LTkwMWM4NGM5YjQ3Ny5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/T0XngMdnGdo1tQ8H4hQCgSiOfhs=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/734/211/thumb_5a334e4b-a193-11f1-a916-022bbbb30d69.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/dPK1k5wS6wt92uDrJ9epPQIlzNU=/fit-in/705x460/v2/https://resizing.flixster.com/MHULRpf1KI0zvRvzbY0FE1PisFI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUxM2M1YjU0LTQxNjMtNGQ1Ny1iMjUyLTAxOGM1MmJkNGQyNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3kHtcd-cOX_IL3kZ7HRwd3Sii6g=/fit-in/705x460/v2/https://resizing.flixster.com/88rDxL1hnLy44MYtILamwBP5YyI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY2MDI0ZDViLWQ4NjYtNDFlNS1iYTQ3LWM1ZTc1OTY0MDVmYS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/7oHYDKb-31KaC7mQAJZ34GAWVcQ=/fit-in/705x460/v2/https://resizing.flixster.com/9DLiT11ZTctH88M9H3Cylbfk_O4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM5MGZlNzBlLTdlMTUtNDhkOS1iMDBjLTIwN2Q4MDBiZjA4MC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/pRU3b3Xb1B59YgrU-2uoXnC9UKY=/fit-in/705x460/v2/https://resizing.flixster.com/P3rZYy1xocFvy4e1Du_olorZP5o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M4Y2U4M2E1LWUxNDctNDI1Yy04NDJiLTU0ZWFjMzhmZTE1ZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PDlEYipWwXOdgNIKtmQ1s47Migc=/fit-in/705x460/v2/https://resizing.flixster.com/_pzHu68v-2AL8VkJ2UMJYYQ3gFA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ViMGEzZWNlLTBiNzYtNDY2NS1hMTI1LTkwMWM4NGM5YjQ3Ny5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/v7I6LnRaVHSLp5kHSfUS-ISa8dI=/fit-in/705x460/v2/https://resizing.flixster.com/PtOl08oYBniw5V-7XPBHucjQYWg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1Yjk0NDFhLTVmN2ItNDBkMy05NTdiLWE2MWUzNGNiNjYzOC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PfK6-h3zjqIyhWk9uTeAz3atqO8=/fit-in/705x460/v2/https://resizing.flixster.com/zxx-6_WzxEqaNZnsRw6K3Rz3oe8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzYWFmMzFlLTc1NDAtNDA3OC05OWZhLTM0YzNmZDg3NmEwNC5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "81qfcT3aoXqf",
+        "title": "The Social Reckoning: New Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/734/211/thumb_5a334e4b-a193-11f1-a916-022bbbb30d69.jpg",
+        "seconds": 150,
+        "src": "https://link.theplatform.com/s/NGweTC/media/81qfcT3aoXqf?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "aaron_sorkin",
+          "name": "Aaron Sorkin"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "mikey_madison",
+          "name": "Mikey Madison",
+          "character": "",
+          "image": "https://resizing.flixster.com/duL-jHEthtHna5TqOG_1TW22TDE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/902608_v9_ba.jpg"
+        },
+        {
+          "id": "jeremy_white_3",
+          "name": "Jeremy Allen White",
+          "character": "",
+          "image": "https://resizing.flixster.com/3yRqGctYQTUTpI3cPqrNVxzlfQ4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/156040_v9_bc.jpg"
+        },
+        {
+          "id": "wunmi_mosaku",
+          "name": "Wunmi Mosaku",
+          "character": "",
+          "image": "https://resizing.flixster.com/zqp5sErt6arOasE39X5kqL-2BFI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/561365_v9_bb.jpg"
+        },
+        {
+          "id": "betty-gilpin",
+          "name": "Betty Gilpin",
+          "character": "",
+          "image": "https://resizing.flixster.com/M0_E1fGFSWE5tfaZWx0wki-uXSo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/515489_v9_bd.jpg"
+        },
+        {
+          "id": "billy_magnussen",
+          "name": "Billy Magnussen",
+          "character": "",
+          "image": "https://resizing.flixster.com/lXdFfNLi8CYMRDV8dkNzYpeSrvU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/520992_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-28T14:10:20.501456Z"
     },
     {
       "id": "the_weight_2026",

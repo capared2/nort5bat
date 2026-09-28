@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-26T21:22:27.924379Z",
-  "total_titles": 20267,
+  "generated_at": "2026-09-28T14:11:14.715432Z",
+  "total_titles": 20318,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3312,
+      "titles": 3320,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -231,15 +231,15 @@
         },
         {
           "file": "titulos/drama/part-0056.json",
-          "count": 12
+          "count": 20
         }
       ],
-      "tagged": 8929
+      "tagged": 8972
     },
     {
       "genre": "comedy",
       "name": "Comedy",
-      "titles": 3144,
+      "titles": 3145,
       "files": [
         {
           "file": "titulos/comedy/part-0001.json",
@@ -451,15 +451,15 @@
         },
         {
           "file": "titulos/comedy/part-0053.json",
-          "count": 25
+          "count": 26
         }
       ],
-      "tagged": 5344
+      "tagged": 5348
     },
     {
       "genre": "mystery-thriller",
       "name": "Mystery & Thriller",
-      "titles": 1891,
+      "titles": 1894,
       "files": [
         {
           "file": "titulos/mystery-thriller/part-0001.json",
@@ -587,15 +587,15 @@
         },
         {
           "file": "titulos/mystery-thriller/part-0032.json",
-          "count": 31
+          "count": 34
         }
       ],
-      "tagged": 3972
+      "tagged": 3978
     },
     {
       "genre": "documentary",
       "name": "Documentary",
-      "titles": 2606,
+      "titles": 2608,
       "files": [
         {
           "file": "titulos/documentary/part-0001.json",
@@ -771,15 +771,15 @@
         },
         {
           "file": "titulos/documentary/part-0044.json",
-          "count": 27
+          "count": 29
         }
       ],
-      "tagged": 3549
+      "tagged": 3553
     },
     {
       "genre": "action",
       "name": "Action",
-      "titles": 495,
+      "titles": 498,
       "files": [
         {
           "file": "titulos/action/part-0001.json",
@@ -815,10 +815,10 @@
         },
         {
           "file": "titulos/action/part-0009.json",
-          "count": 15
+          "count": 18
         }
       ],
-      "tagged": 2246
+      "tagged": 2258
     },
     {
       "genre": "horror",
@@ -1082,12 +1082,12 @@
           "count": 5
         }
       ],
-      "tagged": 1826
+      "tagged": 1827
     },
     {
       "genre": "adventure",
       "name": "Adventure",
-      "titles": 143,
+      "titles": 150,
       "files": [
         {
           "file": "titulos/adventure/part-0001.json",
@@ -1099,15 +1099,15 @@
         },
         {
           "file": "titulos/adventure/part-0003.json",
-          "count": 23
+          "count": 30
         }
       ],
-      "tagged": 1455
+      "tagged": 1471
     },
     {
       "genre": "crime",
       "name": "Crime",
-      "titles": 1223,
+      "titles": 1226,
       "files": [
         {
           "file": "titulos/crime/part-0001.json",
@@ -1191,15 +1191,15 @@
         },
         {
           "file": "titulos/crime/part-0021.json",
-          "count": 23
+          "count": 26
         }
       ],
-      "tagged": 1275
+      "tagged": 1278
     },
     {
       "genre": "fantasy",
       "name": "Fantasy",
-      "titles": 699,
+      "titles": 701,
       "files": [
         {
           "file": "titulos/fantasy/part-0001.json",
@@ -1247,10 +1247,10 @@
         },
         {
           "file": "titulos/fantasy/part-0012.json",
-          "count": 39
+          "count": 41
         }
       ],
-      "tagged": 982
+      "tagged": 984
     },
     {
       "genre": "sci-fi",
@@ -1326,12 +1326,12 @@
           "count": 41
         }
       ],
-      "tagged": 883
+      "tagged": 885
     },
     {
       "genre": "biography",
       "name": "Biography",
-      "titles": 460,
+      "titles": 462,
       "files": [
         {
           "file": "titulos/biography/part-0001.json",
@@ -1363,15 +1363,15 @@
         },
         {
           "file": "titulos/biography/part-0008.json",
-          "count": 40
+          "count": 42
         }
       ],
-      "tagged": 744
+      "tagged": 749
     },
     {
       "genre": "history",
       "name": "History",
-      "titles": 321,
+      "titles": 323,
       "files": [
         {
           "file": "titulos/history/part-0001.json",
@@ -1395,10 +1395,10 @@
         },
         {
           "file": "titulos/history/part-0006.json",
-          "count": 21
+          "count": 23
         }
       ],
-      "tagged": 562
+      "tagged": 570
     },
     {
       "genre": "music",
@@ -1430,12 +1430,12 @@
           "count": 28
         }
       ],
-      "tagged": 506
+      "tagged": 508
     },
     {
       "genre": "lgbtq",
       "name": "LGBTQ+",
-      "titles": 213,
+      "titles": 214,
       "files": [
         {
           "file": "titulos/lgbtq/part-0001.json",
@@ -1451,15 +1451,15 @@
         },
         {
           "file": "titulos/lgbtq/part-0004.json",
-          "count": 33
+          "count": 34
         }
       ],
-      "tagged": 505
+      "tagged": 506
     },
     {
       "genre": "animation",
       "name": "Animation",
-      "titles": 257,
+      "titles": 258,
       "files": [
         {
           "file": "titulos/animation/part-0001.json",
@@ -1479,15 +1479,15 @@
         },
         {
           "file": "titulos/animation/part-0005.json",
-          "count": 17
+          "count": 18
         }
       ],
-      "tagged": 474
+      "tagged": 476
     },
     {
       "genre": "war",
       "name": "War",
-      "titles": 298,
+      "titles": 301,
       "files": [
         {
           "file": "titulos/war/part-0001.json",
@@ -1507,10 +1507,14 @@
         },
         {
           "file": "titulos/war/part-0005.json",
-          "count": 59
+          "count": 60
+        },
+        {
+          "file": "titulos/war/part-0006.json",
+          "count": 2
         }
       ],
-      "tagged": 307
+      "tagged": 310
     },
     {
       "genre": "musical",
@@ -1541,12 +1545,12 @@
       "name": "Holiday",
       "titles": 0,
       "files": [],
-      "tagged": 134
+      "tagged": 136
     },
     {
       "genre": "western",
       "name": "Western",
-      "titles": 115,
+      "titles": 128,
       "files": [
         {
           "file": "titulos/western/part-0001.json",
@@ -1554,10 +1558,14 @@
         },
         {
           "file": "titulos/western/part-0002.json",
-          "count": 55
+          "count": 60
+        },
+        {
+          "file": "titulos/western/part-0003.json",
+          "count": 8
         }
       ],
-      "tagged": 115
+      "tagged": 128
     },
     {
       "genre": "sports",
