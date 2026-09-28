@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-09-28T05:30:59.338937Z",
+  "updated_at": "2026-09-28T23:21:19.248699Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -3479,27 +3479,28 @@
       "title": "Never After Dark",
       "original_title": "Never After Dark",
       "genres": [
-        "Horror"
+        "Horror",
+        "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 104,
-      "certificate": "In Theaters Sep 25",
-      "rating": 7.3,
-      "votes": null,
+      "certificate": "Now Playing",
+      "rating": 7.4,
+      "votes": 8,
       "tomatometer": 100,
-      "tomatometer_count": 25,
-      "tomatometer_certified": false,
+      "tomatometer_count": 42,
+      "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 3,
       "metascore": null,
       "plot": "A wandering medium, Airi spends her life guiding restless spirits out of the world of the living. Summoned to an isolated country house, she comes face to face with a grotesque apparition with powers that defy Airi's experience. As she digs deeper into the house's past, a secret comes to light -- and Airi finds herself hunted by a far more unpredictable force. For the first time, her greatest adversary is not the supernatural, but the living.",
       "tagline": "",
-      "poster": "https://resizing.flixster.com/AvWKYKurmY8qHS0dosgxPxVxGug=/300x450/v2/https://resizing.flixster.com/aME4315K-0E7ZOzj5K6alm46GUU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExMjU2MzdlLThjZTAtNGNiNC1hMjU0LWUzOWI2ZjdjZjM3ZC5qcGc=",
+      "poster": "https://resizing.flixster.com/22afnPu0Z9ulFWSbZeKgnp-ej0A=/300x450/v2/https://resizing.flixster.com/dnxCdKJhfxPBwFBoCGymcRbPIJ0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhZmI1YjRjLTM3NTEtNDA2YS1iN2FhLWJkY2JiM2JhOWRhMi5qcGc=",
       "images": [
         {
-          "url": "https://resizing.flixster.com/AvWKYKurmY8qHS0dosgxPxVxGug=/300x450/v2/https://resizing.flixster.com/aME4315K-0E7ZOzj5K6alm46GUU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExMjU2MzdlLThjZTAtNGNiNC1hMjU0LWUzOWI2ZjdjZjM3ZC5qcGc=",
+          "url": "https://resizing.flixster.com/22afnPu0Z9ulFWSbZeKgnp-ej0A=/300x450/v2/https://resizing.flixster.com/dnxCdKJhfxPBwFBoCGymcRbPIJ0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhZmI1YjRjLTM3NTEtNDA2YS1iN2FhLWJkY2JiM2JhOWRhMi5qcGc=",
           "caption": ""
         },
         {
@@ -3535,7 +3536,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/_fpU2rFF6UZ7GPsnM79wXlfStbU=/fit-in/705x460/v2/https://resizing.flixster.com/aME4315K-0E7ZOzj5K6alm46GUU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExMjU2MzdlLThjZTAtNGNiNC1hMjU0LWUzOWI2ZjdjZjM3ZC5qcGc=",
+          "url": "https://resizing.flixster.com/Ghj1WAugIKLqFUu4wTo_rYe215g=/fit-in/705x460/v2/https://resizing.flixster.com/dnxCdKJhfxPBwFBoCGymcRbPIJ0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhZmI1YjRjLTM3NTEtNDA2YS1iN2FhLWJkY2JiM2JhOWRhMi5qcGc=",
           "caption": ""
         }
       ],
@@ -3591,10 +3592,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Never-After-Dark/5125423?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T04:52:09.753894Z"
+      "scraped_at": "2026-09-28T23:20:08.559753Z"
     },
     {
       "id": "onslaught",
