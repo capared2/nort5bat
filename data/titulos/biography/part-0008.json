@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 8,
   "count": 42,
-  "updated_at": "2026-09-29T05:53:58.545854Z",
+  "updated_at": "2026-09-29T13:06:43.227252Z",
   "titles": [
     {
       "id": "1041055-ned_kelly",
@@ -2688,18 +2688,18 @@
         "Biography",
         "Music"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 99,
-      "certificate": "In Theaters Sep 24",
-      "rating": 7.3,
-      "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 11,
+      "certificate": "Sep 2026",
+      "rating": 7.5,
+      "votes": 5,
+      "tomatometer": 94,
+      "tomatometer_count": 18,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 2,
       "metascore": null,
       "plot": "Charting the Sheffield band's extraordinary journey from obscurity to cultural touchstone. Fusing footage from Pulp's biggest ever arena show -- part of the global tour for 'More', the band's first album in 24 years -- with four decades of colorful, never-seen-before archival material.",
       "tagline": "",
@@ -2729,10 +2729,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Pulp-What-Do-You-Do-for-an-Encore/5101175?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T20:58:43.488290Z"
+      "scraped_at": "2026-09-29T13:05:37.480965Z"
     },
     {
       "id": "quant",
@@ -2805,7 +2810,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T20:59:42.655872Z"
+      "scraped_at": "2026-09-29T13:06:38.706602Z"
     },
     {
       "id": "raging_bull",

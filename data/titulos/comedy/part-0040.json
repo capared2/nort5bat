@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 40,
   "count": 60,
-  "updated_at": "2026-09-29T05:55:59.746211Z",
+  "updated_at": "2026-09-29T13:04:17.237608Z",
   "titles": [
     {
       "id": "1059858-man_of_the_house",
@@ -4406,7 +4406,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T16:31:13.834920Z"
+      "scraped_at": "2026-09-29T12:58:51.812374Z"
     },
     {
       "id": "plastic_2014",
@@ -4528,7 +4528,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T16:33:17.119359Z"
+      "scraped_at": "2026-09-29T13:00:55.401373Z"
     },
     {
       "id": "plunkett_and_macleane",
@@ -4629,10 +4629,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Plunkett-Macleane/5159981?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T16:33:51.772116Z"
+      "scraped_at": "2026-09-29T13:01:29.856963Z"
     },
     {
       "id": "pretty_persuasion",
@@ -4761,7 +4766,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T16:36:00.086568Z"
+      "scraped_at": "2026-09-29T13:03:38.351765Z"
     },
     {
       "id": "racing_stripes",

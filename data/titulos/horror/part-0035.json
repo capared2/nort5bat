@@ -1,8 +1,8 @@
 {
   "genre": "horror",
   "part": 35,
-  "count": 2,
-  "updated_at": "2026-09-25T05:10:31.438936Z",
+  "count": 3,
+  "updated_at": "2026-09-29T13:06:42.714370Z",
   "titles": [
     {
       "id": "deathgasm_ii_goremageddon",
@@ -199,6 +199,92 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-22T05:10:44.275607Z"
+    },
+    {
+      "id": "vampire_carnival",
+      "url": "https://www.rottentomatoes.com/m/vampire_carnival",
+      "category": "horror",
+      "type": "movie",
+      "title": "Vampire Carnival",
+      "original_title": "Vampire Carnival",
+      "genres": [
+        "Horror",
+        "Romance"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 106,
+      "certificate": "R",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "A mysterious carnival lures a directionless young woman from her broken home, but a secret about its troupe forces her to face her demons.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/V5sWrvxs_ez7oGiHP81IugEMMYc=/300x450/v2/https://resizing.flixster.com/mZMWaHuy0lIdyi953LMz0kA277E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE5N2FhMjI5LWVjMzctNDYyZC04NjEyLTk4OGM1ZTQ0Njk4Ny5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/V5sWrvxs_ez7oGiHP81IugEMMYc=/300x450/v2/https://resizing.flixster.com/mZMWaHuy0lIdyi953LMz0kA277E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE5N2FhMjI5LWVjMzctNDYyZC04NjEyLTk4OGM1ZTQ0Njk4Ny5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HoiSLXIrZBJYLGr26M0KP9fDrUk=/fit-in/705x460/v2/https://resizing.flixster.com/mZMWaHuy0lIdyi953LMz0kA277E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE5N2FhMjI5LWVjMzctNDYyZC04NjEyLTk4OGM1ZTQ0Njk4Ny5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "david_charbonier",
+          "name": "David Charbonier"
+        },
+        {
+          "id": "undefined",
+          "name": "Justin Douglas Powell"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "undefined",
+          "name": "Corrado Martini",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "jason_isaacs",
+          "name": "Jason Isaacs",
+          "character": "",
+          "image": "https://resizing.flixster.com/pkKEprZnMuEUC3BjeppvNK9cYsY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0036PFKQ.jpg"
+        },
+        {
+          "id": "nell_verlaque",
+          "name": "Nell Verlaque",
+          "character": "",
+          "image": "https://resizing.flixster.com/fYR-D6TYQntQVnl6z4I2cKMi6gU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1089396_v9_aa.jpg"
+        },
+        {
+          "id": "kieron_moore_2",
+          "name": "Kieron Moore",
+          "character": "",
+          "image": "https://resizing.flixster.com/8mPTJO2wJmMpkMP_ocax4g_mDhY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1844425_v9_aa.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-09-29T13:06:40.670449Z"
     }
   ]
 }

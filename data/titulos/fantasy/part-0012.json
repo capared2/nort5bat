@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 41,
-  "updated_at": "2026-09-29T05:55:59.918358Z",
+  "updated_at": "2026-09-29T13:06:19.028631Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -1991,12 +1991,12 @@
       "runtime_minutes": 130,
       "certificate": "PG-13",
       "rating": 5.0,
-      "votes": 1988,
-      "tomatometer": 37,
-      "tomatometer_count": 150,
+      "votes": 2727,
+      "tomatometer": 36,
+      "tomatometer_count": 165,
       "tomatometer_certified": false,
-      "audience_score": 92,
-      "audience_count": 727,
+      "audience_score": 91,
+      "audience_count": 949,
       "metascore": null,
       "plot": "PRACTICAL MAGIC 2 returns to a world steeped in moonlit mischief and powerful ancestral magic, as the Owens sisters must confront the dark curse that threatens to unravel their family once and for all in a must-see cinematic event of fun, magic and mayhem.",
       "tagline": "",
@@ -2103,7 +2103,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T16:35:18.828901Z"
+      "scraped_at": "2026-09-29T13:02:58.266247Z"
     },
     {
       "id": "prestige",
@@ -2123,12 +2123,12 @@
       "runtime_minutes": 130,
       "certificate": "PG-13",
       "rating": 7.4,
-      "votes": 114478,
+      "votes": 114491,
       "tomatometer": 77,
       "tomatometer_count": 209,
       "tomatometer_certified": true,
       "audience_score": 92,
-      "audience_count": 43690,
+      "audience_count": 43692,
       "metascore": null,
       "plot": "An illusion gone horribly wrong pits two 19th-century magicians, Alfred Borden (Christian Bale) and Rupert Angier (Hugh Jackman), against each other in a bitter battle for supremacy. Terrible consequences loom when the pair escalate their feud, each seeking not just to outwit -- but to destroy -- the other man.",
       "tagline": "",
@@ -2235,7 +2235,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T16:35:51.930307Z"
+      "scraped_at": "2026-09-29T13:03:31.627380Z"
     },
     {
       "id": "princess_mononoke",
@@ -2249,18 +2249,18 @@
         "Fantasy",
         "Anime"
       ],
-      "year": null,
+      "year": 1997,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 133,
       "certificate": "PG-13",
       "rating": 8.6,
-      "votes": 44645,
+      "votes": 799,
       "tomatometer": 93,
       "tomatometer_count": 123,
       "tomatometer_certified": true,
-      "audience_score": 94,
-      "audience_count": 12004,
+      "audience_score": 99,
+      "audience_count": 180,
       "metascore": null,
       "plot": "A prince becomes involved in the struggle between a forest princess and the encroachment of mechanization.",
       "tagline": "",
@@ -2320,10 +2320,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Princess-Mononoke-English-Language/15777?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-18T20:57:24.860244Z"
+      "scraped_at": "2026-09-29T13:04:19.603337Z"
     },
     {
       "id": "sonic_the_hedgehog_3",
