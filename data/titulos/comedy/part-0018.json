@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-09-30T05:45:46.616792Z",
+  "updated_at": "2026-09-30T12:48:16.158414Z",
   "titles": [
     {
       "id": "10007139-park",
@@ -5478,10 +5478,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Sixty-6/5162769?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T15:55:47.304684Z"
+      "scraped_at": "2026-09-30T12:46:35.365573Z"
     },
     {
       "id": "step_brothers",

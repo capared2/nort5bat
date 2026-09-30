@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 30,
   "count": 60,
-  "updated_at": "2026-09-30T05:41:23.221135Z",
+  "updated_at": "2026-09-30T12:46:13.775166Z",
   "titles": [
     {
       "id": "1019017-silver_streak",
@@ -4222,10 +4222,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Sinister-Surgeon/5134886?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T11:13:09.711488Z"
+      "scraped_at": "2026-09-30T12:45:54.980795Z"
     },
     {
       "id": "sins_of_the_bride",
@@ -4325,7 +4330,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T11:13:11.393661Z"
+      "scraped_at": "2026-09-30T12:45:57.475771Z"
     },
     {
       "id": "suburban_nightmare_2024_2",
