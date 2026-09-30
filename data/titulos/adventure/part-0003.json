@@ -2,7 +2,7 @@
   "genre": "adventure",
   "part": 3,
   "count": 30,
-  "updated_at": "2026-09-28T23:27:23.808228Z",
+  "updated_at": "2026-09-30T05:43:24.989736Z",
   "titles": [
     {
       "id": "1017238-razors_edge",
@@ -1645,12 +1645,12 @@
       "runtime_minutes": 182,
       "certificate": "PG-13",
       "rating": 7.2,
-      "votes": 789,
+      "votes": 790,
       "tomatometer": 86,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
       "audience_score": 87,
-      "audience_count": 262,
+      "audience_count": 263,
       "metascore": null,
       "plot": "In 1926, the USS San Pablo patrols the Yangtze River during the clashes between Chiang Kai-shek's communists and Chinese warlords. Eight-year veteran machinist Jake Holman (Steve McQueen), new to the self-named sand pebbles crew, immediately draws deep suspicion due to his independent streak. Ordered to protect Americans, including schoolteacher Shirley Eckhart (Candice Bergen), Jake and the gunboat crew are unwittingly drawn into a bitter nationalistic feud that holds grim consequences.",
       "tagline": "",
@@ -1731,18 +1731,18 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T04:49:00.989902Z"
+      "scraped_at": "2026-09-30T05:42:00.445815Z"
     },
     {
       "id": "satu_year_of_the_rabbit",
       "url": "https://www.rottentomatoes.com/m/satu_year_of_the_rabbit",
       "category": "adventure",
       "type": "movie",
-      "title": "Satu - Year of the Rabbit",
-      "original_title": "Satu - Year of the Rabbit",
+      "title": "Satu: Year of the Rabbit",
+      "original_title": "Satu: Year of the Rabbit",
       "genres": [
-        "Adventure",
-        "Drama"
+        "Drama",
+        "Adventure"
       ],
       "year": 2024,
       "end_year": null,
@@ -1842,10 +1842,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0F79T6KWS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T14:10:54.034433Z"
+      "scraped_at": "2026-09-30T05:42:30.869836Z"
     },
     {
       "id": "saving-shiloh",
@@ -1865,7 +1870,7 @@
       "runtime_minutes": 90,
       "certificate": "PG",
       "rating": 5.2,
-      "votes": 144,
+      "votes": 145,
       "tomatometer": 41,
       "tomatometer_count": 22,
       "tomatometer_certified": false,
@@ -1971,7 +1976,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T04:49:44.947635Z"
+      "scraped_at": "2026-09-30T05:42:45.656247Z"
     },
     {
       "id": "the_eight_mountains",

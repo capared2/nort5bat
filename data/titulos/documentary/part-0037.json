@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 37,
   "count": 60,
-  "updated_at": "2026-09-29T22:25:38.761446Z",
+  "updated_at": "2026-09-30T05:45:46.734714Z",
   "titles": [
     {
       "id": "10004617-letter",
@@ -3631,10 +3631,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Romantico/5151140?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T04:45:37.131105Z"
+      "scraped_at": "2026-09-30T05:38:34.483375Z"
     },
     {
       "id": "semper_fi_always_faithful",
@@ -3735,7 +3740,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T11:07:06.085865Z"
+      "scraped_at": "2026-09-30T05:45:35.630737Z"
     },
     {
       "id": "small_town_gay_bar",
