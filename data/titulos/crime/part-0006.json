@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-09-30T05:43:24.608880Z",
+  "updated_at": "2026-10-01T06:09:22.844340Z",
   "titles": [
     {
       "id": "1002830-body_heat",
@@ -5371,7 +5371,7 @@
         "Documentary",
         "Crime"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 74,
@@ -5430,10 +5430,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HFJRML4Q/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/stolen-kingdom/umc.cmc.6bec8jdzv959cve6kleau7j0p?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T20:47:25.985305Z"
+      "scraped_at": "2026-10-01T06:01:29.914474Z"
     },
     {
       "id": "suburbicon",
@@ -5566,7 +5575,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-19T20:49:40.655789Z"
+      "scraped_at": "2026-10-01T06:03:45.021887Z"
     },
     {
       "id": "talented_mr_ripley",
@@ -5587,7 +5596,7 @@
       "runtime_minutes": 139,
       "certificate": "R",
       "rating": 7.8,
-      "votes": 15517,
+      "votes": 15518,
       "tomatometer": 85,
       "tomatometer_count": 139,
       "tomatometer_certified": true,
@@ -5707,7 +5716,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T04:58:25.979661Z"
+      "scraped_at": "2026-10-01T06:08:05.134677Z"
     },
     {
       "id": "the_corrupted_2020",
