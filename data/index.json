@@ -1,6 +1,6 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-09-30T12:48:39.370818Z",
+  "generated_at": "2026-10-01T13:31:49.607081Z",
   "total_titles": 20321,
   "total_genres": 27,
   "genres": [
@@ -779,7 +779,7 @@
     {
       "genre": "action",
       "name": "Action",
-      "titles": 498,
+      "titles": 497,
       "files": [
         {
           "file": "titulos/action/part-0001.json",
@@ -815,10 +815,10 @@
         },
         {
           "file": "titulos/action/part-0009.json",
-          "count": 18
+          "count": 17
         }
       ],
-      "tagged": 2258
+      "tagged": 2257
     },
     {
       "genre": "horror",
@@ -1087,7 +1087,7 @@
     {
       "genre": "adventure",
       "name": "Adventure",
-      "titles": 150,
+      "titles": 151,
       "files": [
         {
           "file": "titulos/adventure/part-0001.json",
@@ -1099,7 +1099,7 @@
         },
         {
           "file": "titulos/adventure/part-0003.json",
-          "count": 30
+          "count": 31
         }
       ],
       "tagged": 1471
