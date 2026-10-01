@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 41,
-  "updated_at": "2026-10-01T13:27:22.014717Z",
+  "updated_at": "2026-10-01T22:52:02.789965Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -3189,7 +3189,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T11:33:08.226512Z"
+      "scraped_at": "2026-10-01T22:45:22.113788Z"
     },
     {
       "id": "the_fisherman_2024",
@@ -3206,11 +3206,11 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 108,
-      "certificate": "Now Playing",
+      "certificate": "Sep 2026",
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -3292,10 +3292,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HB4SRQM4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T16:11:22.288024Z"
+      "scraped_at": "2026-10-01T22:50:10.246832Z"
     },
     {
       "id": "the_imaginarium_of_doctor_parnassus",

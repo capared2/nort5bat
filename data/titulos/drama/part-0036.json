@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 36,
   "count": 60,
-  "updated_at": "2026-10-01T13:31:46.744101Z",
+  "updated_at": "2026-10-01T22:52:02.133829Z",
   "titles": [
     {
       "id": "10006281-nana",
@@ -5523,12 +5523,12 @@
       "runtime_minutes": 120,
       "certificate": "R",
       "rating": 7.6,
-      "votes": 4237,
+      "votes": 4238,
       "tomatometer": 87,
       "tomatometer_count": 53,
       "tomatometer_certified": true,
       "audience_score": 88,
-      "audience_count": 1193,
+      "audience_count": 1194,
       "metascore": null,
       "plot": "When churlish mobster Albert Spica (Michael Gambon) acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina (Helen Mirren), is especially disgusted by him, and soon begins an affair with another restaurant guest, Michael (Alan Howard). Despite their efforts to keep it a secret, however, Spica finds out about their trysts, and he plans to exact a terrible revenge.",
       "tagline": "",
@@ -5605,10 +5605,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B6SVYV6V/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T11:32:57.983034Z"
+      "scraped_at": "2026-10-01T22:45:12.871605Z"
     },
     {
       "id": "the_fireflies_are_gone",
@@ -5715,7 +5720,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T11:37:42.465264Z"
+      "scraped_at": "2026-10-01T22:50:02.310016Z"
     },
     {
       "id": "the_forgotten_battle",
@@ -5849,7 +5854,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T16:11:51.396041Z"
+      "scraped_at": "2026-10-01T22:50:38.993055Z"
     },
     {
       "id": "the_little_girl_who_was_too_fond_of_matches",

@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-10-01T13:31:49.607081Z",
-  "total_titles": 20321,
+  "generated_at": "2026-10-01T22:52:27.213289Z",
+  "total_titles": 20322,
   "total_genres": 27,
   "genres": [
     {
@@ -234,12 +234,12 @@
           "count": 21
         }
       ],
-      "tagged": 8972
+      "tagged": 8973
     },
     {
       "genre": "comedy",
       "name": "Comedy",
-      "titles": 3146,
+      "titles": 3147,
       "files": [
         {
           "file": "titulos/comedy/part-0001.json",
@@ -451,19 +451,19 @@
         },
         {
           "file": "titulos/comedy/part-0053.json",
-          "count": 28
+          "count": 29
         }
       ],
-      "tagged": 5349
+      "tagged": 5350
     },
     {
       "genre": "mystery-thriller",
       "name": "Mystery & Thriller",
-      "titles": 1894,
+      "titles": 1893,
       "files": [
         {
           "file": "titulos/mystery-thriller/part-0001.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/mystery-thriller/part-0002.json",
@@ -1255,7 +1255,7 @@
     {
       "genre": "sci-fi",
       "name": "Sci-Fi",
-      "titles": 816,
+      "titles": 817,
       "files": [
         {
           "file": "titulos/sci-fi/part-0001.json",
@@ -1311,10 +1311,10 @@
         },
         {
           "file": "titulos/sci-fi/part-0014.json",
-          "count": 36
+          "count": 37
         }
       ],
-      "tagged": 969
+      "tagged": 970
     },
     {
       "genre": "kids-family",
