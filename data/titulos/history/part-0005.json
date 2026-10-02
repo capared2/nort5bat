@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-10-01T22:50:01.415401Z",
+  "updated_at": "2026-10-02T05:49:47.389412Z",
   "titles": [
     {
       "id": "1162559-bobby",
@@ -6536,10 +6536,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FGC8T6V3/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T16:17:24.210965Z"
+      "scraped_at": "2026-10-02T05:47:35.984835Z"
     },
     {
       "id": "the_king_2019",
@@ -6559,12 +6564,12 @@
       "runtime_minutes": 140,
       "certificate": "R",
       "rating": 6.6,
-      "votes": 3211,
+      "votes": 3216,
       "tomatometer": 71,
       "tomatometer_count": 146,
       "tomatometer_certified": false,
       "audience_score": 84,
-      "audience_count": 687,
+      "audience_count": 690,
       "metascore": null,
       "plot": "Young Henry V encounters deceit, war and treachery after becoming king of England in the 15th century.",
       "tagline": "",
@@ -6671,7 +6676,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T16:17:57.837608Z"
+      "scraped_at": "2026-10-02T05:48:10.085363Z"
     },
     {
       "id": "the_white_crow",

@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-10-01T13:31:25.484766Z",
+  "updated_at": "2026-10-02T05:52:08.329104Z",
   "titles": [
     {
       "id": "10006630-life_of_reilly",
@@ -3985,7 +3985,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T20:53:19.287204Z"
+      "scraped_at": "2026-10-02T05:50:54.293648Z"
     },
     {
       "id": "the_man_who_saves_the_world",
@@ -4076,10 +4076,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HKCYZNNB/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T20:54:22.620098Z"
+      "scraped_at": "2026-10-02T05:51:59.461302Z"
     },
     {
       "id": "the_most_dangerous_year",
