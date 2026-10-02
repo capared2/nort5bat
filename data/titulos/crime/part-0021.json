@@ -1,8 +1,8 @@
 {
   "genre": "crime",
   "part": 21,
-  "count": 26,
-  "updated_at": "2026-10-01T22:52:03.427388Z",
+  "count": 27,
+  "updated_at": "2026-10-02T22:25:48.758811Z",
   "titles": [
     {
       "id": "animals_2026",
@@ -461,6 +461,84 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-09-25T05:05:24.193881Z"
+    },
+    {
+      "id": "dorothy_2026",
+      "url": "https://www.rottentomatoes.com/m/dorothy_2026",
+      "category": "crime",
+      "type": "movie",
+      "title": "Dorothy",
+      "original_title": "Dorothy",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "year": 2026,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 146,
+      "certificate": "Now Playing",
+      "rating": 8.3,
+      "votes": 38,
+      "tomatometer": 91,
+      "tomatometer_count": 11,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 6,
+      "metascore": null,
+      "plot": "Set against the backdrop of rural Tamil Nadu, Dorothy explores friendship, love, violence, caste, patriarchy, and the emotions men are taught to suppress. When Karthi and Subbu are brought back together on a road journey, buried secrets from their past begin to surface -- and Dorothy changes everything.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/9LqodwtaTar4JUjiyL7kGfoHlBE=/300x450/v2/https://resizing.flixster.com/FTBktHTlakXKgft4RxeQiUft85U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcyOGVmZTZiLWU0NDYtNGQ2Yi04MmRjLWYwY2I4MzRjMzJiNS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/9LqodwtaTar4JUjiyL7kGfoHlBE=/300x450/v2/https://resizing.flixster.com/FTBktHTlakXKgft4RxeQiUft85U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcyOGVmZTZiLWU0NDYtNGQ2Yi04MmRjLWYwY2I4MzRjMzJiNS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5-VpE5Zi-F-R6XOUTfaiAOYzC0g=/fit-in/705x460/v2/https://resizing.flixster.com/FTBktHTlakXKgft4RxeQiUft85U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcyOGVmZTZiLWU0NDYtNGQ2Yi04MmRjLWYwY2I4MzRjMzJiNS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "karthik_subbaraj",
+          "name": "Karthik Subbaraj"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "keerthi_suresh",
+          "name": "Keerthy Suresh",
+          "character": "",
+          "image": "https://resizing.flixster.com/hNr8fSCj7p7TRj4RW4SVhVA9ZOI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/903882_v9_aa.jpg"
+        },
+        {
+          "id": "sananth",
+          "name": "Sananth",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "rishikanth",
+          "name": "Rishikanth",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-02T22:25:48.317140Z"
     },
     {
       "id": "double_trouble_2026",
@@ -2570,12 +2648,12 @@
       "runtime_minutes": 111,
       "certificate": "R",
       "rating": 5.0,
-      "votes": 1071,
+      "votes": 1145,
       "tomatometer": 46,
       "tomatometer_count": 81,
       "tomatometer_certified": false,
-      "audience_score": 38,
-      "audience_count": 429,
+      "audience_score": 37,
+      "audience_count": 449,
       "metascore": null,
       "plot": "Based on the New York Times bestselling novel by Alex North. When his eight-year-old son is abducted, a widowed crime writer looks to his estranged father, a retired former police detective, for help, only to discover a connection with the decades-old case of a convicted serial killer known as \"The Whisper Man.\"",
       "tagline": "",
@@ -2682,7 +2760,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T05:09:46.522496Z"
+      "scraped_at": "2026-10-02T22:23:26.814126Z"
     },
     {
       "id": "udta_punjab",

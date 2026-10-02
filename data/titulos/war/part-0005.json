@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-10-02T05:51:48.698884Z",
+  "updated_at": "2026-10-02T22:23:27.571090Z",
   "titles": [
     {
       "id": "10010331-ascent",
@@ -5725,7 +5725,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T05:06:13.077451Z"
+      "scraped_at": "2026-10-02T22:19:53.538408Z"
     },
     {
       "id": "the_uprising_2026",
@@ -5744,13 +5744,13 @@
       "release_date": null,
       "runtime_minutes": 128,
       "certificate": "R",
-      "rating": 6.0,
-      "votes": 486,
-      "tomatometer": 54,
-      "tomatometer_count": 90,
+      "rating": 5.9,
+      "votes": 554,
+      "tomatometer": 56,
+      "tomatometer_count": 99,
       "tomatometer_certified": false,
-      "audience_score": 63,
-      "audience_count": 150,
+      "audience_score": 65,
+      "audience_count": 165,
       "metascore": null,
       "plot": "Andrew Garfield stars as the leader of a ferocious rebellion against the tyranny of King Richard II. Set against the true events of the Uprising that helped inspire the legend of Robin Hood, he forms an army of the people to face the King's might in a fight for justice.",
       "tagline": "",
@@ -5849,10 +5849,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Uprising/5134776?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T05:08:03.535469Z"
+      "scraped_at": "2026-10-02T22:21:44.998937Z"
     },
     {
       "id": "the_voice_of_hind_rajab",
@@ -5873,7 +5878,7 @@
       "rating": 8.5,
       "votes": 66,
       "tomatometer": 93,
-      "tomatometer_count": 140,
+      "tomatometer_count": 141,
       "tomatometer_certified": true,
       "audience_score": 100,
       "audience_count": 16,
@@ -5979,7 +5984,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T05:08:38.598943Z"
+      "scraped_at": "2026-10-02T22:22:20.409166Z"
     },
     {
       "id": "tommy_guns",
