@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-10-02T05:51:48.689306Z",
+  "updated_at": "2026-10-02T12:49:54.733748Z",
   "titles": [
     {
       "id": "1022314-uncommon_valor",
@@ -5826,7 +5826,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T20:57:40.739743Z"
+      "scraped_at": "2026-10-02T12:45:02.474343Z"
     },
     {
       "id": "the_railway_man",
@@ -5848,12 +5848,12 @@
       "runtime_minutes": 108,
       "certificate": "R",
       "rating": 6.4,
-      "votes": 4102,
+      "votes": 4103,
       "tomatometer": 67,
       "tomatometer_count": 126,
       "tomatometer_certified": false,
       "audience_score": 68,
-      "audience_count": 590,
+      "audience_count": 591,
       "metascore": null,
       "plot": "Eric Lomax (Colin Firth), a former British army officer and POW, discovers that the Japanese interpreter who tortured him is still alive. He and his new wife (Nicole Kidman) set out to confront the man who caused him so much pain.",
       "tagline": "",
@@ -5950,15 +5950,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Railway-Man/547360?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0DJVB3RBG/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T21:00:06.814148Z"
+      "scraped_at": "2026-10-02T12:47:29.977958Z"
     },
     {
       "id": "the_road_between_us_the_ultimate_rescue",
@@ -5977,12 +5973,12 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 8.0,
-      "votes": 16,
+      "votes": 19,
       "tomatometer": 81,
       "tomatometer_count": 16,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 8,
+      "audience_count": 11,
       "metascore": null,
       "plot": "Retired Israeli general Noam Tibon rescues his family from Hamas terrorists who invaded their home during a massacre, sparking an ongoing conflict.",
       "tagline": "",
@@ -6032,10 +6028,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T05:02:25.715687Z"
+      "scraped_at": "2026-10-02T12:48:53.630034Z"
     },
     {
       "id": "the_russian_woodpecker",
@@ -6126,7 +6127,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T05:02:49.519700Z"
+      "scraped_at": "2026-10-02T12:49:17.892598Z"
     },
     {
       "id": "the_warlords_2007",

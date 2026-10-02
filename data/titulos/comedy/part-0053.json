@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 29,
-  "updated_at": "2026-10-01T22:52:24.763201Z",
+  "updated_at": "2026-10-02T12:49:54.586203Z",
   "titles": [
     {
       "id": "american_summer_2026",
@@ -2939,7 +2939,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T20:55:39.621553Z"
+      "scraped_at": "2026-10-02T12:42:59.751836Z"
     },
     {
       "id": "the_musical",
@@ -2957,13 +2957,13 @@
       "release_date": null,
       "runtime_minutes": 84,
       "certificate": "Now Playing",
-      "rating": 5.8,
-      "votes": 12,
-      "tomatometer": 63,
-      "tomatometer_count": 43,
+      "rating": 5.9,
+      "votes": 67,
+      "tomatometer": 64,
+      "tomatometer_count": 47,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 4,
+      "audience_score": 66,
+      "audience_count": 30,
       "metascore": null,
       "plot": "Doug, a frustrated playwright and middle school theater teacher, learns his ex is dating his nemesis, the school principal. To get revenge and cost him a Blue Ribbon Award, Doug secretly stages the most inappropriate play imaginable.",
       "tagline": "",
@@ -3065,7 +3065,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-20T20:55:58.028414Z"
+      "scraped_at": "2026-10-02T12:43:19.234066Z"
     },
     {
       "id": "the_scout_2025",
@@ -3078,18 +3078,18 @@
         "Drama",
         "Comedy"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 89,
-      "certificate": "In Theaters Sep 25",
-      "rating": 7.2,
-      "votes": null,
-      "tomatometer": 93,
-      "tomatometer_count": 14,
+      "certificate": "Now Playing",
+      "rating": 7.0,
+      "votes": 3,
+      "tomatometer": 91,
+      "tomatometer_count": 23,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 2,
       "metascore": null,
       "plot": "Sofia works as a location scout for a network TV show shooting in New York City. It's her job to find the homes, businesses, and exteriors where the soon-to-be-shot show will take place. This means a daily journey into the private spaces and lives of numerous city residents, photographing their properties and briefly stepping into the fabric of their lives. Over the course of a day filled with these encounters, Sofia plays witness to moments of curiosity, vulnerability, and quiet tension, until her work takes a sudden, personal turn. THE SCOUT is a contemplative exploration of urban disconnection, following one woman’s quiet journey through other people's worlds as she struggles to find her own.",
       "tagline": "",
@@ -3188,10 +3188,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Scout/5173820?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T05:03:10.761501Z"
+      "scraped_at": "2026-10-02T12:49:39.048321Z"
     },
     {
       "id": "the_stunt_driver",
