@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 32,
   "count": 34,
-  "updated_at": "2026-10-02T22:25:27.228715Z",
+  "updated_at": "2026-10-03T11:51:42.383615Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -3774,18 +3774,18 @@
         "Mystery & Thriller",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 114,
       "certificate": "R",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
+      "rating": 5.0,
+      "votes": 325,
+      "tomatometer": 34,
+      "tomatometer_count": 126,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 71,
+      "audience_count": 78,
       "metascore": null,
       "plot": "Adapted from Colleen Hoover's best-selling novel, this seductive, psychological thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowen Ashleigh (Dakota Johnson), a struggling writer who relocates to the remote Crawford estate to ghostwrite for Verity. After Lowen uncovers what appears to be Verity's chilling autobiographical notes, she wrestles with the disturbing and twisted confessions about Verity's husband Jeremy (Josh Hartnett), and finds it hard to separate fiction from reality, manipulation from attraction, and opportunity from obsession.",
       "tagline": "",
@@ -3880,10 +3880,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Verity/5209189?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T05:03:14.786351Z"
+      "scraped_at": "2026-10-03T11:50:17.917567Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-10-02T22:25:27.733620Z",
+  "updated_at": "2026-10-03T11:52:02.590019Z",
   "titles": [
     {
       "id": "10004684-malevolence",
@@ -6210,12 +6210,12 @@
       "runtime_minutes": 121,
       "certificate": "R",
       "rating": 4.9,
-      "votes": 63947,
+      "votes": 63951,
       "tomatometer": 31,
       "tomatometer_count": 160,
       "tomatometer_certified": false,
       "audience_score": 79,
-      "audience_count": 21761,
+      "audience_count": 21762,
       "metascore": null,
       "plot": "Under cover of night, vampires engage in an age-old battle with their sworn enemies, the Lycans, a clan of violent werewolves. Selene, a vampire orphaned in the wake of a bloody Lycan attack, works for the vampire clan as a trained killer. When the Lycans take a mysterious interest in Michael Corvin, an exceptional mortal doctor, Selene struggles to save him from Lucian, a ruthless Lycan leader hell-bent on ending the vampire bloodline.",
       "tagline": "",
@@ -6320,7 +6320,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T22:06:59.774968Z"
+      "scraped_at": "2026-10-03T11:46:57.077167Z"
     },
     {
       "id": "underworld_evolution",
@@ -6452,7 +6452,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T22:07:02.731244Z"
+      "scraped_at": "2026-10-03T11:47:00.901091Z"
     },
     {
       "id": "underworld_rise_of_the_lycans",
@@ -6473,7 +6473,7 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 4.4,
-      "votes": 22918,
+      "votes": 22919,
       "tomatometer": 30,
       "tomatometer_count": 77,
       "tomatometer_certified": false,
@@ -6583,7 +6583,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T22:07:04.579950Z"
+      "scraped_at": "2026-10-03T11:47:01.363774Z"
     },
     {
       "id": "urban_legends_final_cut",
@@ -6707,7 +6707,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T22:08:49.753619Z"
+      "scraped_at": "2026-10-03T11:48:48.631157Z"
     },
     {
       "id": "videodrome",
@@ -6725,7 +6725,7 @@
       "runtime_minutes": 87,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 8568,
+      "votes": 8569,
       "tomatometer": 83,
       "tomatometer_count": 60,
       "tomatometer_certified": true,
@@ -6823,7 +6823,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T05:03:56.205394Z"
+      "scraped_at": "2026-10-03T11:50:59.780714Z"
     },
     {
       "id": "visiting_hours",
@@ -6907,10 +6907,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CV2RCMC6/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T05:04:47.061245Z"
+      "scraped_at": "2026-10-03T11:51:50.179785Z"
     },
     {
       "id": "what_we_do_in_the_shadows",
