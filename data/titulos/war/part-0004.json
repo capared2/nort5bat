@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-10-03T16:28:49.736509Z",
+  "updated_at": "2026-10-03T21:29:16.223227Z",
   "titles": [
     {
       "id": "1065684-braveheart",
@@ -6892,15 +6892,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Wolf-Hound/2007802?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0BX35X1RW/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T11:48:33.975365Z"
+      "scraped_at": "2026-10-03T21:22:39.874030Z"
     },
     {
       "id": "zero_dark_thirty",
@@ -6920,7 +6916,7 @@
       "runtime_minutes": 157,
       "certificate": "R",
       "rating": 8.6,
-      "votes": 67540,
+      "votes": 67545,
       "tomatometer": 91,
       "tomatometer_count": 303,
       "tomatometer_certified": true,
@@ -7036,11 +7032,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/70251669?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T17:00:45.144023Z"
+      "scraped_at": "2026-10-03T21:27:21.194007Z"
     },
     {
       "id": "zeros_and_ones",
@@ -7176,7 +7176,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T17:00:48.750839Z"
+      "scraped_at": "2026-10-03T21:27:24.491920Z"
     }
   ]
 }
