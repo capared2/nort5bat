@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 29,
-  "updated_at": "2026-10-02T22:19:26.677071Z",
+  "updated_at": "2026-10-03T05:26:55.449730Z",
   "titles": [
     {
       "id": "american_summer_2026",
@@ -3324,13 +3324,13 @@
       "release_date": null,
       "runtime_minutes": 99,
       "certificate": "R",
-      "rating": 5.5,
-      "votes": 31,
-      "tomatometer": 58,
-      "tomatometer_count": 12,
+      "rating": 5.3,
+      "votes": 66,
+      "tomatometer": 50,
+      "tomatometer_count": 18,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 16,
+      "audience_score": 82,
+      "audience_count": 33,
       "metascore": null,
       "plot": "Tiny Fugitives follows a reckless, fiercely determined group of twelve-year-olds who hatch a chaotic plot to escape reality and spend the rest of their lives at sleepaway camp. Standing between them and permanent freedom is Bob (Johnny Knoxville), the camp's deranged, relentless, 50-year-old lifer counselor who will stop at nothing to thwart their plans.",
       "tagline": "",
@@ -3429,10 +3429,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Tiny-Fugitives/5247724?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-21T12:59:28.349070Z"
+      "scraped_at": "2026-10-03T05:26:10.596343Z"
     },
     {
       "id": "vampires_suck",
