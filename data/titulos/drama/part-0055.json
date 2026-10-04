@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 55,
   "count": 60,
-  "updated_at": "2026-10-04T12:34:29.653577Z",
+  "updated_at": "2026-10-04T21:39:44.145478Z",
   "titles": [
     {
       "id": "10012426-lottery",
@@ -413,7 +413,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-23T04:54:18.061500Z"
+      "scraped_at": "2026-10-04T21:33:50.051571Z"
     },
     {
       "id": "771370679",
@@ -529,10 +529,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FYKHGY9Y/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-23T11:44:09.119380Z"
+      "scraped_at": "2026-10-04T21:38:33.249090Z"
     },
     {
       "id": "a_screaming_man",
