@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 19,
   "count": 60,
-  "updated_at": "2026-10-03T21:29:15.982975Z",
+  "updated_at": "2026-10-04T06:06:47.616986Z",
   "titles": [
     {
       "id": "10",
@@ -220,7 +220,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T17:07:13.328860Z"
+      "scraped_at": "2026-10-04T06:02:57.454158Z"
     },
     {
       "id": "1012861-loverboy",
@@ -320,7 +320,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T17:07:42.382479Z"
+      "scraped_at": "2026-10-04T06:03:27.857433Z"
     },
     {
       "id": "1020639-surrender",
@@ -417,10 +417,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CGMLWBXH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T21:23:57.027323Z"
+      "scraped_at": "2026-10-04T06:05:21.264026Z"
     },
     {
       "id": "1087999-friends_and_lovers",

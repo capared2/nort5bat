@@ -2,7 +2,7 @@
   "genre": "western",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-10-03T21:27:15.903453Z",
+  "updated_at": "2026-10-04T06:00:44.731414Z",
   "titles": [
     {
       "id": "10008785-appaloosa",
@@ -21,12 +21,12 @@
       "runtime_minutes": 116,
       "certificate": "R",
       "rating": 6.9,
-      "votes": 9191,
+      "votes": 9193,
       "tomatometer": 77,
       "tomatometer_count": 163,
       "tomatometer_certified": true,
       "audience_score": 55,
-      "audience_count": 4084,
+      "audience_count": 4085,
       "metascore": null,
       "plot": "Virgil Cole (Ed Harris) and his longtime friend and partner Everett Hitch (Viggo Mortensen) travel the 1880s Southwest, bringing justice to lawless towns desperate enough to hire them. In the mining town of Appaloosa, malevolent rancher Randall Bragg and his cronies ride roughshod over the frightened citizens. As Cole and Hitch work to end Bragg's reign of terror, an unconventional widow (Renee Zellweger) arrives, complicating the job and threatening their bond.",
       "tagline": "",
@@ -81,7 +81,38 @@
         }
       ],
       "writers": [],
-      "cast": [],
+      "cast": [
+        {
+          "id": "ed_harris",
+          "name": "Ed Harris",
+          "character": "",
+          "image": "https://resizing.flixster.com/FV8MMQEwFAZcaeNJ0PlbtWLs7ZE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71839_v9_bb.jpg"
+        },
+        {
+          "id": "viggo_mortensen",
+          "name": "Viggo Mortensen",
+          "character": "",
+          "image": "https://resizing.flixster.com/NqwjYkr5IktGMCRC3TV7I_S5k0I=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71706_v9_bb.jpg"
+        },
+        {
+          "id": "renee_zellweger",
+          "name": "Renée Zellweger",
+          "character": "",
+          "image": "https://resizing.flixster.com/-D2G8bZkgV0VigYjGlZCCyB1Qwc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/287279_v9_bd.jpg"
+        },
+        {
+          "id": "jeremy_irons",
+          "name": "Jeremy Irons",
+          "character": "",
+          "image": "https://resizing.flixster.com/tBAdIjpaTbRVuGjgBjOThSye86k=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/78702_v9_bd.jpg"
+        },
+        {
+          "id": "timothy_spall",
+          "name": "Timothy Spall",
+          "character": "",
+          "image": "https://resizing.flixster.com/hx0-4paRRQskx8WoGCOmkdc4hDA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/62647_v9_bc.jpg"
+        }
+      ],
       "keywords": [],
       "countries": [],
       "languages": [],
@@ -96,7 +127,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-22T17:03:12.457924Z"
+      "scraped_at": "2026-10-04T05:58:51.215942Z"
     },
     {
       "id": "1041911-unforgiven",
