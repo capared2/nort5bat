@@ -1,7 +1,7 @@
 {
   "genre": "horror",
   "name": "Horror",
-  "count": 2050,
+  "count": 2054,
   "titles": [
     {
       "id": "cloverfield",
@@ -312,6 +312,29 @@
       ]
     },
     {
+      "id": "alien",
+      "category": "horror",
+      "type": "movie",
+      "title": "Alien",
+      "original_title": "Alien",
+      "year": 1979,
+      "genres": [
+        "Sci-Fi",
+        "Horror"
+      ],
+      "rating": 9.3,
+      "votes": 79699,
+      "tomatometer": 93,
+      "audience_score": 94,
+      "runtime_minutes": 116,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/mcG8IUI9ENVzeb3vb_WX3kf0AOY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2571_p_v8_aw.jpg",
+      "plot": "In deep space, the crew of the commercial starship Nostromo is awakened from their cryo-sleep capsules halfway through their journey home to investigate a distress call from an alien vessel. The…",
+      "directors": [
+        "Ridley Scott"
+      ]
+    },
+    {
       "id": "sixth_sense",
       "category": "horror",
       "type": "movie",
@@ -333,29 +356,6 @@
       "plot": "Young Cole Sear (Haley Joel Osment) is haunted by a dark secret: he is visited by ghosts. Cole is frightened by visitations from those with unresolved problems who appear from the shadows. He is too…",
       "directors": [
         "M. Night Shyamalan"
-      ]
-    },
-    {
-      "id": "alien",
-      "category": "horror",
-      "type": "movie",
-      "title": "Alien",
-      "original_title": "Alien",
-      "year": 1979,
-      "genres": [
-        "Sci-Fi",
-        "Horror"
-      ],
-      "rating": 9.3,
-      "votes": 79683,
-      "tomatometer": 93,
-      "audience_score": 94,
-      "runtime_minutes": 116,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/mcG8IUI9ENVzeb3vb_WX3kf0AOY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2571_p_v8_aw.jpg",
-      "plot": "In deep space, the crew of the commercial starship Nostromo is awakened from their cryo-sleep capsules halfway through their journey home to investigate a distress call from an alien vessel. The…",
-      "directors": [
-        "Ridley Scott"
       ]
     },
     {
@@ -589,7 +589,7 @@
         "Horror"
       ],
       "rating": 6.8,
-      "votes": 59215,
+      "votes": 59238,
       "tomatometer": 69,
       "audience_score": 85,
       "runtime_minutes": 102,
@@ -2228,7 +2228,7 @@
         "Mystery & Thriller"
       ],
       "rating": 6.3,
-      "votes": 25720,
+      "votes": 25739,
       "tomatometer": 65,
       "audience_score": 55,
       "runtime_minutes": 122,
@@ -2415,7 +2415,7 @@
         "Horror"
       ],
       "rating": 5.7,
-      "votes": 24052,
+      "votes": 24057,
       "tomatometer": 43,
       "audience_score": 46,
       "runtime_minutes": 115,
@@ -2914,7 +2914,7 @@
         "Horror"
       ],
       "rating": 5.9,
-      "votes": 19765,
+      "votes": 19770,
       "tomatometer": 55,
       "audience_score": 39,
       "runtime_minutes": 109,
@@ -3355,7 +3355,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.4,
-      "votes": 17458,
+      "votes": 17463,
       "tomatometer": 28,
       "audience_score": 35,
       "runtime_minutes": 98,

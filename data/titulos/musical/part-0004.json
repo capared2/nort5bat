@@ -1,8 +1,8 @@
 {
   "genre": "musical",
   "part": 4,
-  "count": 46,
-  "updated_at": "2026-10-04T21:33:41.370673Z",
+  "count": 47,
+  "updated_at": "2026-10-05T14:56:17.629116Z",
   "titles": [
     {
       "id": "1077332-pippi_longstocking",
@@ -398,7 +398,7 @@
       "runtime_minutes": 123,
       "certificate": "R",
       "rating": 8.1,
-      "votes": 2563,
+      "votes": 2566,
       "tomatometer": 88,
       "tomatometer_count": 48,
       "tomatometer_certified": true,
@@ -499,7 +499,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-23T17:10:35.835480Z"
+      "scraped_at": "2026-10-05T14:48:24.768563Z"
     },
     {
       "id": "beauty-and-the-beast-the-enchanted-christmas",
@@ -4584,6 +4584,88 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-02T12:42:17.916745Z"
+    },
+    {
+      "id": "the_metropolitan_opera_macbeth",
+      "url": "https://www.rottentomatoes.com/m/the_metropolitan_opera_macbeth",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Metropolitan Opera: Macbeth",
+      "original_title": "The Metropolitan Opera: Macbeth",
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 209,
+      "certificate": "In Theaters Oct 17",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "Two of opera's most extraordinary artists return to The Met: Live in HD for Verdi's thrilling take on the immortal Shakespearean tale of the scheming couple determined to seize power at any cost. Baritone Quinn Kelsey is the Scottish king haunted by the ghosts of his murderous ascent to the throne, opposite soprano Lise Davidsen as the power-mad Lady Macbeth, whose ruinous ambition damns them both. Met Music Director Yannick Nézet-Séguin takes the podium for a penetrating production by Louisa Proske. Rounding out the all-star cast are tenor Freddie De Tommaso as Macduff and bass-baritone Ryan Speedo Green as Banquo.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/DbLPtUTjG2smF0l_Bm2KlLX-aEM=/300x450/v2/https://resizing.flixster.com/hTt3G3b1UfajtifDUCy8urtCEsQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwZDRmODM3LTQyNTUtNGMxNy04YWNjLTM2ZjFkZTRiNTA4Mi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/DbLPtUTjG2smF0l_Bm2KlLX-aEM=/300x450/v2/https://resizing.flixster.com/hTt3G3b1UfajtifDUCy8urtCEsQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwZDRmODM3LTQyNTUtNGMxNy04YWNjLTM2ZjFkZTRiNTA4Mi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/If-WDFloSLkT9aew8wvDQHPGiic=/fit-in/705x460/v2/https://resizing.flixster.com/hTt3G3b1UfajtifDUCy8urtCEsQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwZDRmODM3LTQyNTUtNGMxNy04YWNjLTM2ZjFkZTRiNTA4Mi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "louisa_proske",
+          "name": "Louisa Proske"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "lise_davidsen",
+          "name": "Lise Davidsen",
+          "character": "",
+          "image": "https://resizing.flixster.com/mLdC6Q6yxqSPL0nCRkrYvZPtezY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1145237_v9_aa.jpg"
+        },
+        {
+          "id": "freddie_de_tommaso",
+          "name": "Freddie De Tommaso",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "quinn_kelsey",
+          "name": "Quinn Kelsey",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "ryan_speedo_green",
+          "name": "Ryan Speedo Green",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-05T14:56:08.798236Z"
     },
     {
       "id": "the_three_caballeros",
