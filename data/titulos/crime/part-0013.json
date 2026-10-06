@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-10-06T06:32:19.188048Z",
+  "updated_at": "2026-10-06T18:33:58.978324Z",
   "titles": [
     {
       "id": "1005865-dillinger",
@@ -1258,7 +1258,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T11:56:02.829101Z"
+      "scraped_at": "2026-10-06T18:27:52.863941Z"
     },
     {
       "id": "browns_requiem",
@@ -1354,7 +1354,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T17:16:38.301144Z"
+      "scraped_at": "2026-10-06T18:32:57.536482Z"
     },
     {
       "id": "bugsy",
@@ -1374,7 +1374,7 @@
       "runtime_minutes": 135,
       "certificate": "R",
       "rating": 7.1,
-      "votes": 1644,
+      "votes": 1645,
       "tomatometer": 84,
       "tomatometer_count": 64,
       "tomatometer_certified": true,
@@ -1430,7 +1430,38 @@
         }
       ],
       "writers": [],
-      "cast": [],
+      "cast": [
+        {
+          "id": "warren_beatty",
+          "name": "Warren Beatty",
+          "character": "",
+          "image": "https://resizing.flixster.com/efJ4Fq1BnD3f5GTz7D83cXwkX8E=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/113_v9_bc.jpg"
+        },
+        {
+          "id": "annette_bening",
+          "name": "Annette Bening",
+          "character": "",
+          "image": "https://resizing.flixster.com/mnKqKwYJdYxgVqYNv37vra6dq0k=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002GB4VR.jpg"
+        },
+        {
+          "id": "harvey_keitel",
+          "name": "Harvey Keitel",
+          "character": "",
+          "image": "https://resizing.flixster.com/He-ztXf3B_VSLwXoVnKXcTrSlx4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/25891_v9_bb.jpg"
+        },
+        {
+          "id": "ben_kingsley",
+          "name": "Ben Kingsley",
+          "character": "",
+          "image": "https://resizing.flixster.com/hCcbdMY9WqSw_i0mBF7a-sWF0f0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/7576_v9_bc.jpg"
+        },
+        {
+          "id": "elliott_gould",
+          "name": "Elliott Gould",
+          "character": "",
+          "image": "https://resizing.flixster.com/csX16qhezWkN3M0jqj1pZJE3YCY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/671_v9_bb.jpg"
+        }
+      ],
       "keywords": [],
       "countries": [],
       "languages": [],
@@ -1445,7 +1476,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T17:17:07.221418Z"
+      "scraped_at": "2026-10-06T18:33:27.126375Z"
     },
     {
       "id": "cidade_dos_homens",

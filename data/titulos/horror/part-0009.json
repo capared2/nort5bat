@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-10-06T06:34:20.270066Z",
+  "updated_at": "2026-10-06T18:29:55.632780Z",
   "titles": [
     {
       "id": "10010329-splinter",
@@ -1367,7 +1367,7 @@
       "runtime_minutes": 86,
       "certificate": "PG-13",
       "rating": 3.2,
-      "votes": 4052,
+      "votes": 4053,
       "tomatometer": 11,
       "tomatometer_count": 84,
       "tomatometer_certified": false,
@@ -1471,10 +1471,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GYQGDFX9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000001043822_01/28114216-3e4e-3afc-92d7-f39d1c939b07?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T11:56:42.127245Z"
+      "scraped_at": "2026-10-06T18:28:32.422663Z"
     },
     {
       "id": "children_of_the_corn",

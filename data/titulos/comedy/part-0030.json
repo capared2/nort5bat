@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 30,
   "count": 60,
-  "updated_at": "2026-10-06T06:30:17.089971Z",
+  "updated_at": "2026-10-06T18:31:58.076238Z",
   "titles": [
     {
       "id": "10005178-saint_ralph",
@@ -1291,7 +1291,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T11:55:40.137271Z"
+      "scraped_at": "2026-10-06T18:27:30.861081Z"
     },
     {
       "id": "bob_funk",
@@ -1410,7 +1410,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T11:55:41.111975Z"
+      "scraped_at": "2026-10-06T18:27:31.623389Z"
     },
     {
       "id": "bride_wars",
@@ -1427,10 +1427,10 @@
       "release_date": null,
       "runtime_minutes": 89,
       "certificate": "PG",
-      "rating": null,
+      "rating": 3.5,
       "votes": 58901,
-      "tomatometer": null,
-      "tomatometer_count": null,
+      "tomatometer": 10,
+      "tomatometer_count": 144,
       "tomatometer_certified": false,
       "audience_score": 51,
       "audience_count": 10122,
@@ -1536,11 +1536,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Bride-Wars/143602?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T11:59:36.396782Z"
+      "scraped_at": "2026-10-06T18:31:27.571007Z"
     },
     {
       "id": "cedar_rapids_2010",

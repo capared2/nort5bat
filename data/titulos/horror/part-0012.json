@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 12,
   "count": 60,
-  "updated_at": "2026-10-05T05:52:57.476342Z",
+  "updated_at": "2026-10-06T18:31:58.335426Z",
   "titles": [
     {
       "id": "10009254-shutter",
@@ -1126,7 +1126,7 @@
       "runtime_minutes": 96,
       "certificate": "R",
       "rating": 4.2,
-      "votes": 994,
+      "votes": 995,
       "tomatometer": 29,
       "tomatometer_count": 73,
       "tomatometer_certified": false,
@@ -1236,7 +1236,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T11:56:30.488300Z"
+      "scraped_at": "2026-10-06T18:28:22.233471Z"
     },
     {
       "id": "bride_of_chucky",
@@ -1362,11 +1362,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/17670193?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/bride-of-chucky--1070683?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T11:59:34.509274Z"
+      "scraped_at": "2026-10-06T18:31:25.493159Z"
     },
     {
       "id": "cherry_falls",
