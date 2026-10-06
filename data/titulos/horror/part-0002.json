@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-10-05T14:55:27.075769Z",
+  "updated_at": "2026-10-06T00:14:31.346688Z",
   "titles": [
     {
       "id": "28_years_later",
@@ -563,12 +563,12 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 3.7,
-      "votes": 820,
+      "votes": 821,
       "tomatometer": 13,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": 33,
-      "audience_count": 144,
+      "audience_count": 145,
       "metascore": null,
       "plot": "Obsessed with UFOs, a man (Reid Warner) and two friends find evidence of an alien presence at Area 51 in Nevada.",
       "tagline": "",
@@ -661,19 +661,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Stream",
-          "url": "https://athome.fandango.com/content/browse/details/Area-51/665528?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Paramount+",
-          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-23T21:36:02.780501Z"
+      "scraped_at": "2026-10-06T00:06:25.271077Z"
     },
     {
       "id": "ash_2025",
@@ -816,7 +807,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-23T21:37:08.903397Z"
+      "scraped_at": "2026-10-06T00:07:30.860280Z"
     },
     {
       "id": "barbarian_2022",
@@ -941,13 +932,21 @@
           "url": "https://athome.fandango.com/content/browse/details/Barbarian/2122582?cmp=rt_where_to_watch"
         },
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
           "name": "HBO Max",
           "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T04:57:55.688610Z"
+      "scraped_at": "2026-10-06T00:12:54.604027Z"
     },
     {
       "id": "black_phone_2",

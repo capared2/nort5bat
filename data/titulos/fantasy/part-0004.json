@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-10-04T21:33:41.122196Z",
+  "updated_at": "2026-10-06T00:14:32.200171Z",
   "titles": [
     {
       "id": "1077027-batman_and_robin",
@@ -258,12 +258,12 @@
       "runtime_minutes": 126,
       "certificate": "PG-13",
       "rating": 7.2,
-      "votes": 64712,
+      "votes": 64722,
       "tomatometer": 77,
       "tomatometer_count": 143,
       "tomatometer_certified": true,
       "audience_score": 84,
-      "audience_count": 29001,
+      "audience_count": 29003,
       "metascore": null,
       "plot": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne (Michael Keaton) fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman who calls himself The Joker (Jack Nicholson) seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale (Kim Basinger).",
       "tagline": "",
@@ -368,7 +368,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T04:58:35.727674Z"
+      "scraped_at": "2026-10-06T00:13:33.965758Z"
     },
     {
       "id": "batman_forever",
@@ -388,7 +388,7 @@
       "runtime_minutes": 121,
       "certificate": "PG-13",
       "rating": 5.3,
-      "votes": 32011,
+      "votes": 32016,
       "tomatometer": 41,
       "tomatometer_count": 73,
       "tomatometer_certified": false,
@@ -482,7 +482,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T04:58:39.820547Z"
+      "scraped_at": "2026-10-06T00:13:39.543144Z"
     },
     {
       "id": "batman_returns",
@@ -502,12 +502,12 @@
       "runtime_minutes": 126,
       "certificate": "PG-13",
       "rating": 7.0,
-      "votes": 44862,
+      "votes": 44869,
       "tomatometer": 81,
       "tomatometer_count": 95,
       "tomatometer_certified": true,
       "audience_score": 73,
-      "audience_count": 18861,
+      "audience_count": 18862,
       "metascore": null,
       "plot": "The monstrous Penguin (Danny DeVito), who lives in the sewers beneath Gotham, joins up with wicked shock-headed businessman Max Shreck (Christopher Walken) to topple the Batman (Michael Keaton) once and for all. But when Shreck's timid assistant, Selina Kyle (Michelle Pfeiffer), finds out, and Shreck tries to kill her, she is transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader.",
       "tagline": "",
@@ -518,7 +518,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/PQRU5H05pbAmgykBx4Na94l-1-E=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12631_i_h10_al.jpg",
+          "url": "https://resizing.flixster.com/eXb8uPT34YGKf-gUsoUpxxLEDGM=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/304/787/thumb_0D980622-A6D6-41FB-99C7-1F7762080C12.jpg",
           "caption": ""
         },
         {
@@ -554,7 +554,13 @@
           "caption": "Michael Keaton as Batman in \"Batman Returns.\""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "zSoXnKaN7EY7",
+        "title": "Batman Returns: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/304/787/thumb_0D980622-A6D6-41FB-99C7-1F7762080C12.jpg",
+        "seconds": 148,
+        "src": "https://link.theplatform.com/s/NGweTC/media/zSoXnKaN7EY7?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "tim_burton",
@@ -612,7 +618,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T04:58:50.074276Z"
+      "scraped_at": "2026-10-06T00:13:44.528353Z"
     },
     {
       "id": "beasts_of_the_southern_wild",

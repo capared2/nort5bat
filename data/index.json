@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-10-05T14:56:20.022943Z",
-  "total_titles": 20357,
+  "generated_at": "2026-10-06T00:14:34.328740Z",
+  "total_titles": 20358,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3322,
+      "titles": 3321,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -231,10 +231,10 @@
         },
         {
           "file": "titulos/drama/part-0056.json",
-          "count": 22
+          "count": 21
         }
       ],
-      "tagged": 8988
+      "tagged": 8989
     },
     {
       "genre": "comedy",
@@ -590,7 +590,7 @@
           "count": 37
         }
       ],
-      "tagged": 3989
+      "tagged": 3990
     },
     {
       "genre": "documentary",
@@ -818,12 +818,12 @@
           "count": 20
         }
       ],
-      "tagged": 2263
+      "tagged": 2264
     },
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 2049,
+      "titles": 2050,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
@@ -963,10 +963,10 @@
         },
         {
           "file": "titulos/horror/part-0035.json",
-          "count": 10
+          "count": 11
         }
       ],
-      "tagged": 2054
+      "tagged": 2055
     },
     {
       "genre": "romance",
@@ -1194,7 +1194,7 @@
           "count": 30
         }
       ],
-      "tagged": 1284
+      "tagged": 1285
     },
     {
       "genre": "fantasy",
@@ -1487,7 +1487,7 @@
     {
       "genre": "war",
       "name": "War",
-      "titles": 301,
+      "titles": 302,
       "files": [
         {
           "file": "titulos/war/part-0001.json",
@@ -1511,10 +1511,10 @@
         },
         {
           "file": "titulos/war/part-0006.json",
-          "count": 2
+          "count": 3
         }
       ],
-      "tagged": 310
+      "tagged": 311
     },
     {
       "genre": "musical",
