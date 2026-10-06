@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-10-06T00:14:34.328740Z",
+  "generated_at": "2026-10-06T06:34:43.162420Z",
   "total_titles": 20358,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3321,
+      "titles": 3320,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -231,10 +231,10 @@
         },
         {
           "file": "titulos/drama/part-0056.json",
-          "count": 21
+          "count": 20
         }
       ],
-      "tagged": 8989
+      "tagged": 8988
     },
     {
       "genre": "comedy",
@@ -459,7 +459,7 @@
     {
       "genre": "mystery-thriller",
       "name": "Mystery & Thriller",
-      "titles": 1896,
+      "titles": 1895,
       "files": [
         {
           "file": "titulos/mystery-thriller/part-0001.json",
@@ -519,7 +519,7 @@
         },
         {
           "file": "titulos/mystery-thriller/part-0015.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/mystery-thriller/part-0016.json",
@@ -823,7 +823,7 @@
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 2050,
+      "titles": 2051,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
@@ -963,10 +963,10 @@
         },
         {
           "file": "titulos/horror/part-0035.json",
-          "count": 11
+          "count": 12
         }
       ],
-      "tagged": 2055
+      "tagged": 2056
     },
     {
       "genre": "romance",
@@ -1102,7 +1102,7 @@
           "count": 31
         }
       ],
-      "tagged": 1474
+      "tagged": 1475
     },
     {
       "genre": "crime",
@@ -1487,7 +1487,7 @@
     {
       "genre": "war",
       "name": "War",
-      "titles": 302,
+      "titles": 303,
       "files": [
         {
           "file": "titulos/war/part-0001.json",
@@ -1511,10 +1511,10 @@
         },
         {
           "file": "titulos/war/part-0006.json",
-          "count": 3
+          "count": 4
         }
       ],
-      "tagged": 311
+      "tagged": 312
     },
     {
       "genre": "musical",
