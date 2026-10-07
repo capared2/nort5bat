@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 15,
   "count": 60,
-  "updated_at": "2026-10-06T06:34:20.211437Z",
+  "updated_at": "2026-10-07T06:13:23.027475Z",
   "titles": [
     {
       "id": "10012050-final",
@@ -1717,7 +1717,7 @@
       "runtime_minutes": 98,
       "certificate": "R",
       "rating": 6.7,
-      "votes": 6500,
+      "votes": 6505,
       "tomatometer": 79,
       "tomatometer_count": 82,
       "tomatometer_certified": true,
@@ -1827,13 +1827,17 @@
           "url": "https://athome.fandango.com/content/browse/details/Candyman/16834?cmp=rt_where_to_watch"
         },
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DQYSTK44/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Peacock",
           "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000307740_01/00f6fade-22d4-372a-85db-5ca532ad5f39?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T17:19:37.249800Z"
+      "scraped_at": "2026-10-07T06:06:57.464543Z"
     },
     {
       "id": "cave",
@@ -1852,12 +1856,12 @@
       "runtime_minutes": 97,
       "certificate": "PG-13",
       "rating": 3.8,
-      "votes": 4076,
+      "votes": 4078,
       "tomatometer": 13,
       "tomatometer_count": 111,
       "tomatometer_certified": false,
       "audience_score": 28,
-      "audience_count": 2104,
+      "audience_count": 2105,
       "metascore": null,
       "plot": "Deadly monsters hunt members (Cole Hauser, Morris Chestnut, Eddie Cibrian) of an exploration team within a vast network of caverns beneath the Carpathian Mountains.",
       "tagline": "",
@@ -1958,7 +1962,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T17:22:05.987855Z"
+      "scraped_at": "2026-10-07T06:09:26.046792Z"
     },
     {
       "id": "childs_play_2",
@@ -2077,11 +2081,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/372203?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/child-s-play-2--1070685?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T21:35:03.397636Z"
+      "scraped_at": "2026-10-07T06:12:20.066204Z"
     },
     {
       "id": "childs_play_3",
@@ -2205,11 +2213,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/70102800?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/child-s-play-3--1070684?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-24T21:35:04.854713Z"
+      "scraped_at": "2026-10-07T06:12:22.197437Z"
     },
     {
       "id": "cujo",
