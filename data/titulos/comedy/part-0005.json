@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-10-07T13:31:57.829086Z",
+  "updated_at": "2026-10-07T23:16:43.132271Z",
   "titles": [
     {
       "id": "action_point",
@@ -1324,7 +1324,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T05:09:38.630109Z"
+      "scraped_at": "2026-10-07T23:13:14.881074Z"
     },
     {
       "id": "death_do_us_part_2024",
@@ -1393,10 +1393,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D9KRGMPX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T05:09:59.070100Z"
+      "scraped_at": "2026-10-07T23:13:34.460150Z"
     },
     {
       "id": "deuce_bigelow_european_gigolo",
@@ -1414,12 +1419,12 @@
       "runtime_minutes": 83,
       "certificate": "R",
       "rating": 3.2,
-      "votes": 5773,
+      "votes": 5775,
       "tomatometer": 9,
       "tomatometer_count": 98,
       "tomatometer_certified": false,
       "audience_score": 34,
-      "audience_count": 2840,
+      "audience_count": 2841,
       "metascore": null,
       "plot": "Unlikely gigolo Deuce Bigalow (Rob Schneider) resumes his sex-related antics when his friend and former pimp, T.J. Hicks (Eddie Griffin), invites him to Amsterdam. After T.J. becomes the prime suspect in a string of murders of male prostitutes, Deuce springs into action to aid his incarcerated buddy. As he tries to figure out the identity of the real killer, he gets into encounters with several quirky ladies and also faces an uptight Dutch police inspector, Gaspar Voorsboch (Jeroen Krabbé).",
       "tagline": "",
@@ -1520,7 +1525,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T11:57:30.382914Z"
+      "scraped_at": "2026-10-07T23:16:34.586109Z"
     },
     {
       "id": "dirty_grandpa",

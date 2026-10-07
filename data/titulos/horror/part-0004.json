@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-10-07T06:13:23.091075Z",
+  "updated_at": "2026-10-07T23:12:18.212760Z",
   "titles": [
     {
       "id": "1000617-aliens",
@@ -1577,7 +1577,7 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 6.2,
-      "votes": 2213,
+      "votes": 2214,
       "tomatometer": 81,
       "tomatometer_count": 26,
       "tomatometer_certified": false,
@@ -1661,11 +1661,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/80199767?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/cult-of-chucky--1070894?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T05:04:45.736332Z"
+      "scraped_at": "2026-10-07T23:08:21.009055Z"
     },
     {
       "id": "dashcam",
@@ -1683,7 +1687,7 @@
       "runtime_minutes": 77,
       "certificate": "R",
       "rating": 5.1,
-      "votes": 250,
+      "votes": 251,
       "tomatometer": 46,
       "tomatometer_count": 90,
       "tomatometer_certified": false,
@@ -1795,7 +1799,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T05:07:33.343883Z"
+      "scraped_at": "2026-10-07T23:11:08.312077Z"
     },
     {
       "id": "daybreakers",
@@ -1815,7 +1819,7 @@
       "runtime_minutes": 98,
       "certificate": "R",
       "rating": 6.2,
-      "votes": 28288,
+      "votes": 28289,
       "tomatometer": 69,
       "tomatometer_count": 155,
       "tomatometer_certified": false,
@@ -1925,7 +1929,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T05:08:14.990639Z"
+      "scraped_at": "2026-10-07T23:11:49.288893Z"
     },
     {
       "id": "doom",

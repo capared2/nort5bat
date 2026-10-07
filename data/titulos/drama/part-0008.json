@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-10-07T13:37:59.650847Z",
+  "updated_at": "2026-10-07T23:12:17.459396Z",
   "titles": [
     {
       "id": "1000224-accused",
@@ -2247,7 +2247,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T05:05:42.885702Z"
+      "scraped_at": "2026-10-07T23:09:18.964884Z"
     },
     {
       "id": "dance_with_a_stranger",
@@ -2347,10 +2347,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DP9HJKRT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T05:05:57.793027Z"
+      "scraped_at": "2026-10-07T23:09:33.513156Z"
     },
     {
       "id": "day_of_the_locust",
@@ -2454,7 +2459,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T05:08:07.748329Z"
+      "scraped_at": "2026-10-07T23:11:43.458515Z"
     },
     {
       "id": "dinner_with_friends",
