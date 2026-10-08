@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-10-07T23:12:17.745657Z",
+  "updated_at": "2026-10-08T06:18:55.004528Z",
   "titles": [
     {
       "id": "1003033-brazil",
@@ -2637,7 +2637,7 @@
         "Sci-Fi",
         "Fantasy"
       ],
-      "year": null,
+      "year": 2001,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 113,
@@ -2747,10 +2747,27 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CJF4Q6JZ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000485645_01/4f12538b-0a3d-3aff-be15-73559d6b6df1?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T12:01:16.123797Z"
+      "scraped_at": "2026-10-08T06:14:31.543323Z"
     },
     {
       "id": "dual_2022",
@@ -2886,7 +2903,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T17:16:44.044879Z"
+      "scraped_at": "2026-10-08T06:17:49.959130Z"
     },
     {
       "id": "encounter_2021",

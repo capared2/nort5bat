@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-10-07T13:37:59.678323Z",
+  "updated_at": "2026-10-08T06:18:54.349166Z",
   "titles": [
     {
       "id": "10008618-return",
@@ -2535,7 +2535,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T11:59:48.036814Z"
+      "scraped_at": "2026-10-08T06:13:03.192585Z"
     },
     {
       "id": "down_to_the_bone",
@@ -2553,7 +2553,7 @@
       "runtime_minutes": 101,
       "certificate": "R",
       "rating": 7.9,
-      "votes": 336,
+      "votes": 337,
       "tomatometer": 94,
       "tomatometer_count": 32,
       "tomatometer_certified": false,
@@ -2645,10 +2645,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GWYSKB4F/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T12:02:38.897503Z"
+      "scraped_at": "2026-10-08T06:15:55.913491Z"
     },
     {
       "id": "dreamland_2006",
@@ -2772,7 +2777,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T17:15:56.500012Z"
+      "scraped_at": "2026-10-08T06:17:00.897930Z"
     },
     {
       "id": "education_of_charlie_banks",
