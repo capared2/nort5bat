@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-10-08T06:14:53.364346Z",
+  "updated_at": "2026-10-08T13:42:12.684696Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -1987,7 +1987,7 @@
         "Mystery & Thriller",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 125,
@@ -2085,10 +2085,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Ever-After/5069686?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-25T17:22:53.404740Z"
+      "scraped_at": "2026-10-08T13:40:51.026147Z"
     },
     {
       "id": "gator_face",
