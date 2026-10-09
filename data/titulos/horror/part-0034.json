@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-10-08T13:42:12.684696Z",
+  "updated_at": "2026-10-09T06:20:24.078295Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -2111,13 +2111,13 @@
       "release_date": null,
       "runtime_minutes": 80,
       "certificate": "Sep 2026",
-      "rating": 5.9,
-      "votes": 18,
-      "tomatometer": 79,
-      "tomatometer_count": 19,
+      "rating": 6.0,
+      "votes": 19,
+      "tomatometer": 80,
+      "tomatometer_count": 20,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 14,
+      "audience_count": 15,
       "metascore": null,
       "plot": "A Florida vacation becomes a blood-soaked fight for survival when a group of friends are hunted through the swamps by a savage cult that feeds its victims to ravenous alligators in the name of an ancient reptilian god.",
       "tagline": "",
@@ -2224,7 +2224,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-26T05:09:17.412429Z"
+      "scraped_at": "2026-10-09T06:17:22.835884Z"
     },
     {
       "id": "ghost_in_the_cell",
@@ -2236,18 +2236,18 @@
       "genres": [
         "Horror"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 106,
-      "certificate": "In Theaters Oct 2",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 8,
+      "certificate": "Oct 2026",
+      "rating": 7.8,
+      "votes": 58,
+      "tomatometer": 100,
+      "tomatometer_count": 26,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 86,
+      "audience_count": 17,
       "metascore": null,
       "plot": "Director Joko Anwar plunges viewers into a high-security prison ruled by feuding gangs and a tyrannical warden. The arrival of a new inmate kicks off a series of mysterious gruesome murders that leave its victims on morbid display. The hapless inmates trapped in the prison must overcome their rivalries to unmask an invisible, otherworldly enemy. No one is safe as the cells cage in the horrors and a ghost roams the prison with murderous intent.",
       "tagline": "",
@@ -2346,10 +2346,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Ghost-in-the-Cell/5147672?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-26T05:10:35.700108Z"
+      "scraped_at": "2026-10-09T06:18:39.897890Z"
     },
     {
       "id": "haunted_heist",

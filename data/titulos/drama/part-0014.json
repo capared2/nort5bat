@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 14,
   "count": 60,
-  "updated_at": "2026-10-08T23:31:56.422047Z",
+  "updated_at": "2026-10-09T06:22:25.893649Z",
   "titles": [
     {
       "id": "1005199-dangerous_liaisons",
@@ -2451,10 +2451,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DJ22GHDZ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-26T05:07:52.054690Z"
+      "scraped_at": "2026-10-09T06:15:57.551518Z"
     },
     {
       "id": "girl_6",
@@ -2553,7 +2558,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-26T05:11:30.715846Z"
+      "scraped_at": "2026-10-09T06:19:35.693852Z"
     },
     {
       "id": "golden_bowl",
@@ -2672,7 +2677,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-26T11:30:30.073836Z"
+      "scraped_at": "2026-10-09T06:21:31.068872Z"
     },
     {
       "id": "green_street_hooligans",
