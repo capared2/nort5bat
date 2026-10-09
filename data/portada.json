@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:22:49.685739Z",
+  "generated_at": "2026-10-09T13:31:11.784134Z",
   "populares": [
     {
       "id": "the_dark_knight",
@@ -160,7 +160,7 @@
         "Mystery & Thriller"
       ],
       "rating": 7.1,
-      "votes": 346524,
+      "votes": 346535,
       "tomatometer": 78,
       "audience_score": 81,
       "runtime_minutes": 138,
@@ -1718,7 +1718,7 @@
         "Mystery & Thriller"
       ],
       "rating": 9.0,
-      "votes": 123299,
+      "votes": 123308,
       "tomatometer": 96,
       "audience_score": 79,
       "runtime_minutes": 91,
@@ -2479,6 +2479,31 @@
       ]
     },
     {
+      "id": "heart_of_the_beast",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Heart of the Beast",
+      "original_title": "Heart of the Beast",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Mystery & Thriller",
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.0,
+      "votes": 2775,
+      "tomatometer": 84,
+      "audience_score": 94,
+      "runtime_minutes": 101,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/shq_5zL9oG014dTqA84n9_XQmDI=/300x450/v2/https://resizing.flixster.com/5-RB3KvgawbdBwrtPER-lHLG3jk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4NGNkZDM2LWQ3NGEtNGFmNS05NzE3LTE1ZjJkZjA3OTA2ZC5qcGc=",
+      "plot": "After a harrowing plane crash, Special Forces veteran James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a…",
+      "directors": [
+        "David Ayer"
+      ]
+    },
+    {
       "id": "practical_magic_2",
       "category": "fantasy",
       "type": "movie",
@@ -2844,7 +2869,7 @@
         "Romance"
       ],
       "rating": 9.0,
-      "votes": 1594,
+      "votes": 1603,
       "tomatometer": 97,
       "audience_score": 98,
       "runtime_minutes": 141,
@@ -2853,29 +2878,6 @@
       "plot": "The live theater capture of the hit musical Hadestown, which won eight Tony Awards in 2019 including Best Musical and the 2020 Grammy Award for Best Musical Theater Album, featuring the five original…",
       "directors": [
         "Brett Sullivan"
-      ]
-    },
-    {
-      "id": "passenger_2026",
-      "category": "horror",
-      "type": "movie",
-      "title": "Passenger",
-      "original_title": "Passenger",
-      "year": 2026,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.3,
-      "votes": 1589,
-      "tomatometer": 45,
-      "audience_score": 54,
-      "runtime_minutes": 94,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/pa9AjiaK2VQVew7mPiFtegU9VQY=/300x450/v2/https://resizing.flixster.com/gZU12u7tSxIDDfIa3K1r2Fr0uao=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwNjJmOWVkLTYyZTEtNGY3Mi05ODBhLThhMzgyZDAwNzAwOC5qcGc=",
-      "plot": "After stopping at the scene of a gruesome accident on a remote highway, a couple soon realize they didn't leave alone. A demonic presence known as the Passenger has hitched a ride, turning their…",
-      "directors": [
-        "André Øvredal"
       ]
     }
   ],

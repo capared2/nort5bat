@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 48,
   "count": 60,
-  "updated_at": "2026-10-09T06:18:21.944087Z",
+  "updated_at": "2026-10-09T13:30:49.035195Z",
   "titles": [
     {
       "id": "1096098-la_cucaracha",
@@ -2097,9 +2097,39 @@
         }
       ],
       "trailer": null,
-      "directors": [],
+      "directors": [
+        {
+          "id": "tyler_sansom",
+          "name": "Tyler Sansom"
+        }
+      ],
       "writers": [],
-      "cast": [],
+      "cast": [
+        {
+          "id": "dan_roebuck",
+          "name": "Daniel Roebuck",
+          "character": "",
+          "image": "https://resizing.flixster.com/xTbKsZYWGlOHSaYl5UQJp18V-5o=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/14742_v9_ba.jpg"
+        },
+        {
+          "id": "brett_varvel",
+          "name": "Brett Varvel",
+          "character": "",
+          "image": "https://resizing.flixster.com/REQvdoTQjVCUjPMAJFrIk9qr4-4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/797812_v9_aa.jpg"
+        },
+        {
+          "id": "joseph_moreland",
+          "name": "Joseph Moreland",
+          "character": "",
+          "image": "https://resizing.flixster.com/s4DOaGWY04Rs78gcV1Bl-tP3MPE=/120x150/v2/https://resizing.flixster.com/ZjizdUtjNnjb78TGaREpJikLfBk=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvNjhhNThkYzAtNTg5Zi00YmRmLWFkNDItNDg3MmZmODc5NDQwLmpwZw=="
+        },
+        {
+          "id": "sarah_cleveland",
+          "name": "Sarah Cleveland",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
       "keywords": [],
       "countries": [],
       "languages": [],
@@ -2109,7 +2139,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-26T11:33:31.479344Z"
+      "scraped_at": "2026-10-09T13:24:27.924596Z"
     },
     {
       "id": "hears_my_voice",
@@ -2234,7 +2264,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-26T16:27:43.344258Z"
+      "scraped_at": "2026-10-09T13:29:22.284064Z"
     },
     {
       "id": "heavy",
@@ -2333,7 +2363,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-26T16:28:20.043814Z"
+      "scraped_at": "2026-10-09T13:29:59.295078Z"
     },
     {
       "id": "hidden_lies",
