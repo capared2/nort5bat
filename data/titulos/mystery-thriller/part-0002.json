@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-10-10T06:03:30.108216Z",
+  "updated_at": "2026-10-10T12:41:27.201004Z",
   "titles": [
     {
       "id": "12_rounds",
@@ -2869,7 +2869,7 @@
       "runtime_minutes": 123,
       "certificate": "PG-13",
       "rating": 5.9,
-      "votes": 23606,
+      "votes": 23611,
       "tomatometer": 55,
       "tomatometer_count": 327,
       "tomatometer_certified": false,
@@ -2977,11 +2977,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Jason-Bourne/788290?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/80098202?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T05:26:25.301512Z"
+      "scraped_at": "2026-10-10T12:39:12.917606Z"
     },
     {
       "id": "john_wick_chapter_2",
@@ -3000,7 +3004,7 @@
       "runtime_minutes": 122,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 28566,
+      "votes": 28568,
       "tomatometer": 89,
       "tomatometer_count": 283,
       "tomatometer_certified": true,
@@ -3112,7 +3116,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T05:28:36.756853Z"
+      "scraped_at": "2026-10-10T12:41:22.413486Z"
     },
     {
       "id": "madame_web",

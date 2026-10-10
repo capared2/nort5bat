@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 25,
   "count": 60,
-  "updated_at": "2026-10-09T22:45:47.593895Z",
+  "updated_at": "2026-10-10T12:43:27.731839Z",
   "titles": [
     {
       "id": "1002361-big_town",
@@ -2989,7 +2989,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T05:28:06.196470Z"
+      "scraped_at": "2026-10-10T12:40:53.352326Z"
     },
     {
       "id": "joe_the_king",
@@ -3093,7 +3093,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T05:28:18.960305Z"
+      "scraped_at": "2026-10-10T12:41:05.989760Z"
     },
     {
       "id": "joseph_conrads_the_secret_agent",
@@ -3185,10 +3185,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DR9G3XWT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T05:29:07.225578Z"
+      "scraped_at": "2026-10-10T12:41:54.036560Z"
     },
     {
       "id": "king_of_the_jungle",
