@@ -2,7 +2,7 @@
   "genre": "sports",
   "part": 1,
   "count": 37,
-  "updated_at": "2026-10-10T12:43:28.368243Z",
+  "updated_at": "2026-10-10T21:54:22.868128Z",
   "titles": [
     {
       "id": "a_marble_in_the_jar",
@@ -1351,11 +1351,11 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 105,
-      "certificate": "In Theaters Oct 2",
+      "certificate": "Oct 2026",
       "rating": null,
-      "votes": null,
+      "votes": 2,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 3,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -1369,11 +1369,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/xjNCSh_oTEPgMRgCFpreLHvgXDE=/620x336/v2/https://resizing.flixster.com/yih1LoRcK0oK0nkpIy96SzmQ_ZQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MwNGYyMTUxLWFhZTYtNGM0Ny05YTFkLTY4MmM1ZGFjZDhmMy5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/4IkNOILeF7LInJUH0OTkzriP2j0=/fit-in/705x460/v2/https://resizing.flixster.com/onUck4Q4pClgzm2mZJAsPXviQKs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM3ODY4ZDNiLWQ3ZjYtNGI5Mi1iZDFiLWIwNzM4MzAzNjE4MS5qcGc=",
+          "url": "https://resizing.flixster.com/lYUmfekV5BZXF7qcRaEjyYsSJsM=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/987/911/thumb_5266659D-1C99-4D88-9E4B-8E985E7C7DF4.jpg",
           "caption": ""
         },
         {
@@ -1403,9 +1399,19 @@
         {
           "url": "https://resizing.flixster.com/8QgTGUyrfeVxYDm_qJ3TSIHBzHY=/fit-in/705x460/v2/https://resizing.flixster.com/Vx2dYkFC-LKxIr6DMSiJLptgyWw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4NWIyZWU5LTY2MmUtNDhiYS05YTllLTE4NWQzOGU2YzM5OC5qcGc=",
           "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/nw1hR8OkMZCrD4-AeXYBWF3DEkI=/fit-in/705x460/v2/https://resizing.flixster.com/MgkC3WavRaRkypIKwQb6WFkU7bg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjYWZlZDNhLTI4ZGMtNDdlYS1hNTUxLTNjNWU0OTIxYTczYy5qcGc=",
+          "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "DFC5lEu9tiMl",
+        "title": "Last Shot: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/987/911/thumb_5266659D-1C99-4D88-9E4B-8E985E7C7DF4.jpg",
+        "seconds": 131,
+        "src": "https://link.theplatform.com/s/NGweTC/media/DFC5lEu9tiMl?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "andy_palmer",
@@ -1454,7 +1460,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T12:15:33.040487Z"
+      "scraped_at": "2026-10-10T21:54:18.233794Z"
     },
     {
       "id": "lubber_pandhu",
