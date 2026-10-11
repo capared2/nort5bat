@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 28,
   "count": 60,
-  "updated_at": "2026-10-10T12:45:27.955663Z",
+  "updated_at": "2026-10-11T05:54:32.567088Z",
   "titles": [
     {
       "id": "1001180-armed_and_dangerous",
@@ -4323,10 +4323,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D3J8STQH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T17:03:51.441561Z"
+      "scraped_at": "2026-10-11T05:53:37.908352Z"
     },
     {
       "id": "merci_docteur_rey",

@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-10-10T06:01:29.331569Z",
+  "updated_at": "2026-10-11T05:54:31.746971Z",
   "titles": [
     {
       "id": "1003098-bright_lights_big_city",
@@ -3345,7 +3345,7 @@
       "runtime_minutes": 97,
       "certificate": "R",
       "rating": 5.6,
-      "votes": 2520,
+      "votes": 2521,
       "tomatometer": 50,
       "tomatometer_count": 30,
       "tomatometer_certified": false,
@@ -3423,10 +3423,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T17:02:51.214380Z"
+      "scraped_at": "2026-10-11T05:52:38.455497Z"
     },
     {
       "id": "loveless_2018",
