@@ -1,6 +1,6 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-10-10T12:45:51.733704Z",
+  "generated_at": "2026-10-11T22:10:00.852066Z",
   "total_titles": 20368,
   "total_genres": 27,
   "genres": [
@@ -1199,7 +1199,7 @@
     {
       "genre": "fantasy",
       "name": "Fantasy",
-      "titles": 706,
+      "titles": 707,
       "files": [
         {
           "file": "titulos/fantasy/part-0001.json",
@@ -1247,10 +1247,10 @@
         },
         {
           "file": "titulos/fantasy/part-0012.json",
-          "count": 46
+          "count": 47
         }
       ],
-      "tagged": 989
+      "tagged": 990
     },
     {
       "genre": "sci-fi",
@@ -1459,7 +1459,7 @@
     {
       "genre": "animation",
       "name": "Animation",
-      "titles": 258,
+      "titles": 257,
       "files": [
         {
           "file": "titulos/animation/part-0001.json",
@@ -1479,7 +1479,7 @@
         },
         {
           "file": "titulos/animation/part-0005.json",
-          "count": 18
+          "count": 17
         }
       ],
       "tagged": 477

@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 19,
   "count": 60,
-  "updated_at": "2026-10-11T13:04:19.507552Z",
+  "updated_at": "2026-10-11T22:07:37.106349Z",
   "titles": [
     {
       "id": "10008754-flawless",
@@ -4293,7 +4293,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:32:17.171514Z"
+      "scraped_at": "2026-10-11T22:02:50.696385Z"
     },
     {
       "id": "miss_tanakpur_haazir_ho",
@@ -4321,7 +4321,7 @@
       "audience_score": null,
       "audience_count": 0,
       "metascore": null,
-      "plot": "A political satire unfolds in the backdrop of a love story set in Haryana.",
+      "plot": "A political satire unfolds against the backdrop of a love story set in Haryana.",
       "tagline": "",
       "poster": null,
       "images": [
@@ -4380,10 +4380,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/miss-tanakpur-haazir-ho/umc.cmc.3d0jribt9bsvk6owj70cy64py?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:35:50.898602Z"
+      "scraped_at": "2026-10-11T22:06:22.946341Z"
     },
     {
       "id": "newton_boys",

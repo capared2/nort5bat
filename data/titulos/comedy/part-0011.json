@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 11,
   "count": 60,
-  "updated_at": "2026-10-11T12:58:14.465775Z",
+  "updated_at": "2026-10-11T22:07:36.812883Z",
   "titles": [
     {
       "id": "1008942-greetings",
@@ -4734,10 +4734,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GL114JLF/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:32:39.281580Z"
+      "scraped_at": "2026-10-11T22:03:12.704944Z"
     },
     {
       "id": "mid90s",
@@ -4872,7 +4877,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:33:46.304637Z"
+      "scraped_at": "2026-10-11T22:04:20.045149Z"
     },
     {
       "id": "mistress_america",
@@ -5002,7 +5007,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:36:24.734808Z"
+      "scraped_at": "2026-10-11T22:06:57.004292Z"
     },
     {
       "id": "my_five_wives",

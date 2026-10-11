@@ -2,7 +2,7 @@
   "genre": "lgbtq",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-10-11T06:00:35.665345Z",
+  "updated_at": "2026-10-11T22:09:38.520656Z",
   "titles": [
     {
       "id": "10011262-outrage",
@@ -4037,7 +4037,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:35:14.964492Z"
+      "scraped_at": "2026-10-11T22:05:46.661376Z"
     },
     {
       "id": "moonlight_2016",
@@ -4050,18 +4050,18 @@
         "Drama",
         "LGBTQ+"
       ],
-      "year": null,
+      "year": 2016,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 111,
       "certificate": "R",
       "rating": 9.0,
-      "votes": 20000,
+      "votes": 20104,
       "tomatometer": 98,
-      "tomatometer_count": 401,
+      "tomatometer_count": 402,
       "tomatometer_certified": true,
       "audience_score": 79,
-      "audience_count": 2189,
+      "audience_count": 2206,
       "metascore": null,
       "plot": "A look at three defining chapters in the life of Chiron, a young black man growing up in Miami. His epic journey to manhood is guided by the kindness, support and love of the community that helps raise him.",
       "tagline": "",
@@ -4160,10 +4160,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Moonlight/835625?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/80121348?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T14:02:47.866030Z"
+      "scraped_at": "2026-10-11T22:08:55.471014Z"
     },
     {
       "id": "my_summer_of_love",
