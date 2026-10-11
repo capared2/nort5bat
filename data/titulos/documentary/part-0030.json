@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 30,
   "count": 60,
-  "updated_at": "2026-10-10T21:52:21.783739Z",
+  "updated_at": "2026-10-11T13:00:16.492102Z",
   "titles": [
     {
       "id": "10011949-collapse",
@@ -2380,13 +2380,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GPN781MP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/makala/umc.cmc.1zew16hn5akaucgs8mjafa4sg?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T21:29:17.024293Z"
+      "scraped_at": "2026-10-11T12:59:34.080363Z"
     },
     {
       "id": "me_and_isaac_newton",

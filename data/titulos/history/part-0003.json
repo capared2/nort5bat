@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-10-11T05:56:33.659012Z",
+  "updated_at": "2026-10-11T13:04:20.368374Z",
   "titles": [
     {
       "id": "1004330-cleopatra",
@@ -3701,7 +3701,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T21:28:22.186201Z"
+      "scraped_at": "2026-10-11T12:58:39.721932Z"
     },
     {
       "id": "mary_queen_of_scots_1972",
@@ -3806,7 +3806,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:29:33.058645Z"
+      "scraped_at": "2026-10-11T13:03:08.622850Z"
     },
     {
       "id": "matewan_a_luta_final",
@@ -3825,12 +3825,12 @@
       "runtime_minutes": 132,
       "certificate": "PG-13",
       "rating": 8.3,
-      "votes": 607,
+      "votes": 609,
       "tomatometer": 94,
       "tomatometer_count": 34,
       "tomatometer_certified": false,
       "audience_score": 93,
-      "audience_count": 162,
+      "audience_count": 163,
       "metascore": null,
       "plot": "Filmed in the coal country of West Virginia, \"Matewan\" celebrates labor organizing in the context of a 1920s work stoppage. Union organizer, Joe Kenehan (Chris Cooper), a scab named \"Few Clothes\" Johnson (James Earl Jones) and a sympathetic mayor and police chief heroically fight the power represented by a coal company and Matewan's vested interests so that justice and workers' rights need not take a back seat to squalid working conditions, exploitation and the bottom line.",
       "tagline": "",
@@ -3923,10 +3923,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B8TNGKGR/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:30:03.324519Z"
+      "scraped_at": "2026-10-11T13:03:40.452128Z"
     },
     {
       "id": "mountains_of_the_moon",

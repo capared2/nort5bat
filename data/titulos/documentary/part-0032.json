@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 32,
   "count": 60,
-  "updated_at": "2026-10-11T05:58:34.190463Z",
+  "updated_at": "2026-10-11T13:04:41.099342Z",
   "titles": [
     {
       "id": "10004275-army_of_one",
@@ -2782,10 +2782,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GMDYJQYG/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T21:29:43.255076Z"
+      "scraped_at": "2026-10-11T13:00:00.614135Z"
     },
     {
       "id": "mayor",
@@ -2891,7 +2896,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T05:30:50.180519Z"
+      "scraped_at": "2026-10-11T13:04:28.978135Z"
     },
     {
       "id": "no_accident",

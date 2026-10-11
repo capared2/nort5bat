@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-10-11T05:56:32.993295Z",
+  "updated_at": "2026-10-11T13:02:17.807654Z",
   "titles": [
     {
       "id": "1077642-nothing_to_lose",
@@ -3733,7 +3733,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T21:26:53.842016Z"
+      "scraped_at": "2026-10-11T12:57:11.614578Z"
     },
     {
       "id": "mad_dog_time",
@@ -3826,10 +3826,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0BQZ6XBQ3/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T21:27:41.066976Z"
+      "scraped_at": "2026-10-11T12:57:58.668957Z"
     },
     {
       "id": "mainstream",
@@ -3964,7 +3969,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T21:29:06.166347Z"
+      "scraped_at": "2026-10-11T12:59:23.769590Z"
     },
     {
       "id": "mamas_boy",
@@ -4089,7 +4094,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T21:29:47.059218Z"
+      "scraped_at": "2026-10-11T13:00:04.565718Z"
     },
     {
       "id": "marc_pease_experience",
@@ -4206,7 +4211,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-27T21:31:26.344385Z"
+      "scraped_at": "2026-10-11T13:01:43.595332Z"
     },
     {
       "id": "milagro_beanfield_war",
