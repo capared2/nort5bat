@@ -1,7 +1,7 @@
 {
   "genre": "war",
   "name": "War",
-  "count": 312,
+  "count": 314,
   "titles": [
     {
       "id": "300",
@@ -3668,6 +3668,31 @@
       ]
     },
     {
+      "id": "hondo",
+      "category": "western",
+      "type": "movie",
+      "title": "Hondo",
+      "original_title": "Hondo",
+      "year": 1953,
+      "genres": [
+        "Western",
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "rating": 7.3,
+      "votes": 701,
+      "tomatometer": 90,
+      "audience_score": 74,
+      "runtime_minutes": 84,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/oK96AinmHhP6sXwi2YdaO77EfDM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p37129_p_v10_ac.jpg",
+      "plot": "An embittered Indian scout attempts to escort a homesteader's wife and her son back to safety after her cowardly husband deserts her during an Apache attack. When she refuses to go, the scout stays…",
+      "directors": [
+        "John Farrow"
+      ]
+    },
+    {
       "id": "armadillo_2010",
       "category": "war",
       "type": "movie",
@@ -4664,6 +4689,30 @@
       ]
     },
     {
+      "id": "the_bitter_tea_of_general_yen",
+      "category": "war",
+      "type": "movie",
+      "title": "The Bitter Tea of General Yen",
+      "original_title": "The Bitter Tea of General Yen",
+      "year": 1932,
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "rating": 7.3,
+      "votes": 191,
+      "tomatometer": 86,
+      "audience_score": 64,
+      "runtime_minutes": 89,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/tHZXeSqdCzBVu9HyZDNZ_d47daY=/300x450/v2/https://resizing.flixster.com/Ddk1Jrl7-ju-biqjz0oBw6KZbiE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc5Y2YxNzVlLWZhOTEtNDE0Yi1iNjkwLTA0YTRkOTM5MGMzYy5qcGc=",
+      "plot": "Megan Davis (Barbara Stanwyck) arrives in China to marry Dr. Robert Strike (Gavin Gordon), her missionary fiancé. The Chinese Civil War interrupts their wedding plans, and the couple is separated…",
+      "directors": [
+        "Frank Capra"
+      ]
+    },
+    {
       "id": "boys_of_abu_ghraib",
       "category": "war",
       "type": "movie",
@@ -4802,53 +4851,6 @@
       "plot": "In 1864, a group of sheltered, teenage Confederate cadets are ordered into battle to prevent Union forces from taking the Shenandoah Valley.",
       "directors": [
         "Sean McNamara"
-      ]
-    },
-    {
-      "id": "jim_the_james_foley_story",
-      "category": "war",
-      "type": "movie",
-      "title": "Jim: The James Foley Story",
-      "original_title": "Jim: The James Foley Story",
-      "year": 2016,
-      "genres": [
-        "Documentary",
-        "Biography",
-        "War"
-      ],
-      "rating": 6.9,
-      "votes": 158,
-      "tomatometer": 91,
-      "audience_score": 75,
-      "runtime_minutes": 110,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/ouo9tnCHqPwpGPD66GNDoDJnDQU=/300x450/v2/https://resizing.flixster.com/ul0d3i3L1IB4ITSt0dNwtM0bJDs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3YjEwNWRiLTM5MWMtNGZjNy1iMzY0LTdmMWFmM2E4ZDU5NS53ZWJw",
-      "plot": "Friends, family, and colleagues of James Foley discuss his life and provide details of his time in captivity.",
-      "directors": [
-        "Brian Oakes"
-      ]
-    },
-    {
-      "id": "play-dirty",
-      "category": "war",
-      "type": "movie",
-      "title": "Play Dirty",
-      "original_title": "Play Dirty",
-      "year": 1969,
-      "genres": [
-        "War",
-        "Adventure"
-      ],
-      "rating": 7.6,
-      "votes": 157,
-      "tomatometer": 100,
-      "audience_score": 62,
-      "runtime_minutes": 117,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/1TpxpcUDcNaloQrLsh4NUiJ8EUg=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2318_p_v13_ac.jpg",
-      "plot": "An out-of-his-depth oil executive, Capt. Douglas (Michael Caine), is ordered to guide a tough band of convicts, including the cynical and possibly treacherous Capt. Leech (Nigel Davenport), to…",
-      "directors": [
-        "Andre de Toth"
       ]
     }
   ]

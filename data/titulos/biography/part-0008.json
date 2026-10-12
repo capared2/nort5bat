@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 8,
   "count": 44,
-  "updated_at": "2026-10-11T22:07:37.877880Z",
+  "updated_at": "2026-10-12T06:07:55.915483Z",
   "titles": [
     {
       "id": "1041055-ned_kelly",
@@ -2418,18 +2418,18 @@
         "Documentary",
         "Biography"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 235,
-      "certificate": "In Theaters Oct 9",
-      "rating": 7.6,
-      "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 21,
+      "certificate": "R",
+      "rating": 7.9,
+      "votes": 31,
+      "tomatometer": 97,
+      "tomatometer_count": 35,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 14,
       "metascore": null,
       "plot": "An incisive look behind the legend of Elon Musk, the world’s most heralded “inventor-entrepreneur” who has enormous influence on the world in which we all live.",
       "tagline": "",
@@ -2440,7 +2440,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/TQJh9SQ6mjokXrpujAhlrW5j5SQ=/620x336/v2/https://resizing.flixster.com/2s0AQzK5F207SWX36PRniOYJUK4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEyMjdiODA2LWNmZDctNDM5Yy05OTEyLWI4OWE3OWNiZWU3OS5qcGc=",
+          "url": "https://resizing.flixster.com/GLGDv6VQfP_PYY7yNySiR8m1xP4=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/851/175/thumb_FA37590A-E86A-402E-A797-96A3D5B66986.jpg",
           "caption": ""
         },
         {
@@ -2452,7 +2452,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "Hx8iy1AaqlfJ",
+        "title": "Musk: Exclusive Cutdown Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/851/175/thumb_FA37590A-E86A-402E-A797-96A3D5B66986.jpg",
+        "seconds": 15,
+        "src": "https://link.theplatform.com/s/NGweTC/media/Hx8iy1AaqlfJ?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "alex_gibney",
@@ -2467,10 +2473,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Musk-Extended-Cut/5287687?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T14:10:27.502087Z"
+      "scraped_at": "2026-10-12T06:06:21.620908Z"
     },
     {
       "id": "no_limbs_no_limits_the_nickv_story",

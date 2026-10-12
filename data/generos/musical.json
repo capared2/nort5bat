@@ -1,7 +1,7 @@
 {
   "genre": "musical",
   "name": "Musical",
-  "count": 227,
+  "count": 229,
   "titles": [
     {
       "id": "the_lion_king",
@@ -96,7 +96,7 @@
         "Romance"
       ],
       "rating": 7.5,
-      "votes": 87187,
+      "votes": 87188,
       "tomatometer": 75,
       "audience_score": 89,
       "runtime_minutes": 126,
@@ -593,7 +593,7 @@
         "Animation"
       ],
       "rating": 8.3,
-      "votes": 35355,
+      "votes": 35357,
       "tomatometer": 92,
       "audience_score": 85,
       "runtime_minutes": 87,
@@ -1030,7 +1030,7 @@
         "Musical"
       ],
       "rating": 8.7,
-      "votes": 16759,
+      "votes": 16760,
       "tomatometer": 94,
       "audience_score": 90,
       "runtime_minutes": 170,
@@ -2132,7 +2132,7 @@
         "Musical"
       ],
       "rating": 9.0,
-      "votes": 2568,
+      "votes": 2570,
       "tomatometer": 89,
       "audience_score": 83,
       "runtime_minutes": 157,
@@ -4123,6 +4123,29 @@
       ]
     },
     {
+      "id": "finians_rainbow",
+      "category": "musical",
+      "type": "movie",
+      "title": "Finian's Rainbow",
+      "original_title": "Finian's Rainbow",
+      "year": 1968,
+      "genres": [
+        "Fantasy",
+        "Musical"
+      ],
+      "rating": 5.4,
+      "votes": 267,
+      "tomatometer": 47,
+      "audience_score": 51,
+      "runtime_minutes": 145,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/HUH86wIlqyqalJToxibbnxxKQ3Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1569_p_v8_ab.jpg",
+      "plot": "Feisty Irishman Finian McLonergan (Fred Astaire) and his faithful daughter, Sharon (Petula Clark), bearing a pot of gold stolen from the leprechaun Og (Tommy Steele), settle in the village of Rainbow…",
+      "directors": [
+        "Francis Ford Coppola"
+      ]
+    },
+    {
       "id": "frank_zappa_two_hundred_motels",
       "category": "musical",
       "type": "movie",
@@ -4258,6 +4281,31 @@
       "plot": "A prickly American actress (Ali Larter) falls under the spell of India's film industry.",
       "directors": [
         "Willard Carroll"
+      ]
+    },
+    {
+      "id": "humoresque",
+      "category": "musical",
+      "type": "movie",
+      "title": "Humoresque",
+      "original_title": "Humoresque",
+      "year": 1946,
+      "genres": [
+        "Drama",
+        "Musical",
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 5.8,
+      "votes": 205,
+      "tomatometer": 57,
+      "audience_score": 71,
+      "runtime_minutes": 124,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/82fgbjtNU_XP6RfPFWBaOSKX66A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1286_p_v8_ai.jpg",
+      "plot": "Although Paul Boray is a talented violinist, he comes from a poor, working-class background and doesn't have the connections needed to make it in the music world. Woman-about-town Helen Wright does,…",
+      "directors": [
+        "Jean Negulesco"
       ]
     },
     {
@@ -4716,51 +4764,6 @@
       "plot": "Music producer and songwriter Vincent Vaccari believes that it takes good looks, not talent, to become a teen idol in the 1950s America. So when he discovers handsome-faced Tomaso, he sweet-talks him…",
       "directors": [
         "Taylor Hackford"
-      ]
-    },
-    {
-      "id": "shine_2018",
-      "category": "musical",
-      "type": "movie",
-      "title": "Shine",
-      "original_title": "Shine",
-      "year": 2018,
-      "genres": [
-        "Drama",
-        "Musical"
-      ],
-      "rating": 4.2,
-      "votes": 100,
-      "tomatometer": 50,
-      "audience_score": 88,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/iRy9TXr1NFu1yEEarhwZdE4JMAw=/300x450/v2/https://resizing.flixster.com/xiedmaFXubPHZ68XQ7sieLk-AAA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxMmFkNWJjLTI2ZjUtNGM0Yi04NGU3LWMxMzhiOGMxYzZiMS53ZWJw",
-      "plot": "Two Puerto Rican brothers from New York's Spanish Harlem, who are the street's best salsa dancers, are separated after a tragedy, only to reunite years later on opposing sides of gentrification.",
-      "directors": [
-        "Anthony Nardolillo"
-      ]
-    },
-    {
-      "id": "captain_january",
-      "category": "musical",
-      "type": "movie",
-      "title": "Captain January",
-      "original_title": "Captain January",
-      "year": 1936,
-      "genres": [
-        "Musical"
-      ],
-      "rating": 6.7,
-      "votes": 97,
-      "tomatometer": 83,
-      "audience_score": 75,
-      "runtime_minutes": 75,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/YkEDyITPLN86anboGfFRS617a-8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1500_p_v10_aa.jpg",
-      "plot": "Star (Shirley Temple) is a shipwrecked orphan girl growing up with a gentle lighthouse-keeper named Captain January (Guy Kibbee), who rescued her from the waves when she was just a baby. While she…",
-      "directors": [
-        "David Butler"
       ]
     }
   ]

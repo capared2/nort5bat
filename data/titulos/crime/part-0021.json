@@ -1,9 +1,949 @@
 {
   "genre": "crime",
   "part": 21,
-  "count": 33,
-  "updated_at": "2026-10-11T22:07:37.148199Z",
+  "count": 60,
+  "updated_at": "2026-10-12T06:15:33.666223Z",
   "titles": [
+    {
+      "id": "1013139-maltese_falcon",
+      "url": "https://www.rottentomatoes.com/m/1013139-maltese_falcon",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Maltese Falcon",
+      "original_title": "The Maltese Falcon",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 100,
+      "certificate": "In Theaters Dec 6",
+      "rating": 9.5,
+      "votes": 11127,
+      "tomatometer": 99,
+      "tomatometer_count": 111,
+      "tomatometer_certified": true,
+      "audience_score": 91,
+      "audience_count": 2980,
+      "metascore": null,
+      "plot": "In this noir classic, detective Sam Spade (Humphrey Bogart) gets more than he bargained for when he takes a case brought to him by a beautiful but secretive woman (Mary Astor). As soon as Miss Wonderly shows up, trouble follows as Sam's partner is murdered and Sam is accosted by a man (Peter Lorre) demanding he locate a valuable statuette. Sam, entangled in a dangerous web of crime and intrigue, soon realizes he must find the one thing they all seem to want: the bejeweled Maltese falcon.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/VTL5pTzx02fqXbUqaQGQd_QfrrY=/300x450/v2/https://resizing.flixster.com/NdwdVw1-qSzkehA3n0uyFF5QsY8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5NWJmZGE4LTE4OGEtNDg0Ny1iNDYyLWNhMTZmMzc0YzUwOS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/VTL5pTzx02fqXbUqaQGQd_QfrrY=/300x450/v2/https://resizing.flixster.com/NdwdVw1-qSzkehA3n0uyFF5QsY8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5NWJmZGE4LTE4OGEtNDg0Ny1iNDYyLWNhMTZmMzc0YzUwOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jdo7EYGqqCSbvqvhUNs-cBiUtu0=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2163_i_h8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/oCpKMuOdkUmkUXPi9B25AveCbSw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2163_v_v12_ak.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/IleiyUMk7tG7eBFKjRENyEz_H7Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2163_v_v8_ah.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ni6Umgg-gMYQGQoTL2w7cElHVXo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2163_i_v12_ac.jpg",
+          "caption": "The Maltese Falcon (1941)"
+        },
+        {
+          "url": "https://resizing.flixster.com/72d1-yjW-ha82-nYKf-baW-YT9s=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2163_i_h8_ac.jpg",
+          "caption": "The Maltese Falcon (1941)"
+        },
+        {
+          "url": "https://resizing.flixster.com/JZCCIRH00Ze297WvV5Dg6EIHbPg=/fit-in/705x460/v2/https://resizing.flixster.com/NdwdVw1-qSzkehA3n0uyFF5QsY8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5NWJmZGE4LTE4OGEtNDg0Ny1iNDYyLWNhMTZmMzc0YzUwOS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/n2FdKrp5lrhK2Nyf_RLavJduwO4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2163_p_v8_aa.jpg",
+          "caption": "The Maltese Falcon (1941)"
+        },
+        {
+          "url": "https://resizing.flixster.com/5QfY00aZak2s28LOJ1mekhsors0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2163_k_v12_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "john_huston",
+          "name": "John Huston"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "humphrey_bogart",
+          "name": "Humphrey Bogart",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqbvIFHZxN_EbSUJCaEgfLyiWuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27198_v9_ba.jpg"
+        },
+        {
+          "id": "mary_astor",
+          "name": "Mary Astor",
+          "character": "",
+          "image": "https://resizing.flixster.com/EnZYVpKgOT93pBcpUS4c1MOoT44=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/43874_v9_ba.jpg"
+        },
+        {
+          "id": "peter_lorre",
+          "name": "Peter Lorre",
+          "character": "",
+          "image": "https://resizing.flixster.com/jk6Y3So1UOJf6TIAkJ1xl3CUGcg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/81626_v9_ba.jpg"
+        },
+        {
+          "id": "gladys_george",
+          "name": "Gladys George",
+          "character": "",
+          "image": "https://resizing.flixster.com/FNFWftTHI-IwXYYjXIz_ZHAq87c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75180_v9_ba.jpg"
+        },
+        {
+          "id": "barton_maclane",
+          "name": "Barton MacLane",
+          "character": "",
+          "image": "https://resizing.flixster.com/voyIBEwbE0_P9bBThbKkFVpIUac=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74599_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:48.102111Z"
+    },
+    {
+      "id": "1016591-postman_always_rings_twice",
+      "url": "https://www.rottentomatoes.com/m/1016591-postman_always_rings_twice",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Postman Always Rings Twice",
+      "original_title": "The Postman Always Rings Twice",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1946,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 113,
+      "certificate": null,
+      "rating": 8.1,
+      "votes": 1275,
+      "tomatometer": 90,
+      "tomatometer_count": 29,
+      "tomatometer_certified": false,
+      "audience_score": 79,
+      "audience_count": 384,
+      "metascore": null,
+      "plot": "Nick Smith (Cecil Kellaway), a middle-aged roadside diner owner, hires a drifter, Frank Chambers (John Garfield), to work at his restaurant. Frank quickly begins an affair with Nick's beautiful young wife, Cora (Lana Turner), and the two conspire to kill Nick and seize his assets. When they succeed, local prosecutor Kyle Sackett (Leon Ames) becomes suspicious, but is unable to build a solid case. However, the couple soon realizes that no misdeed ever goes truly unpunished.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/zHtbuOhkIzLKK8daAsNGTm3RaUY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p834_p_v13_at.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/zHtbuOhkIzLKK8daAsNGTm3RaUY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p834_p_v13_at.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1BXWZKphkSCzXLJHYx4BYnXF_G0=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p834_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/kFkwk7cnt1_Fl6PFBkl9mhETiiA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p834_p_v13_at.jpg",
+          "caption": "The Postman Always Rings Twice (1946)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Ka3nbvyDsVlYLLmDvFcUefLqY_g=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p834_p_v8_aa.jpg",
+          "caption": "The Postman Always Rings Twice (1946)"
+        },
+        {
+          "url": "https://resizing.flixster.com/hF8EjWSe7LRpHkV0j49rJZ6jHDE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p834_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/piatJiIdEiwU_KGJJiTL4kz3ZUU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p834_i_h10_ab.jpg",
+          "caption": "The Postman Always Rings Twice (1946)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "tay_garnett",
+          "name": "Tay Garnett"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "lana_turner",
+          "name": "Lana Turner",
+          "character": "",
+          "image": "https://resizing.flixster.com/zk4FSyONWbKBuvTjK26_9gRvl9c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/37805_v9_ba.jpg"
+        },
+        {
+          "id": "1005644-john_garfield",
+          "name": "John Garfield",
+          "character": "",
+          "image": "https://resizing.flixster.com/asasbyXSs2rfJc88plEnxU16HgM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76391_v9_ba.jpg"
+        },
+        {
+          "id": "cecil_kellaway",
+          "name": "Cecil Kellaway",
+          "character": "",
+          "image": "https://resizing.flixster.com/ag2K8W9vcwUrBjEKmBrn8Zt3qzY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/11187_v9_bb.jpg"
+        },
+        {
+          "id": "hume_cronyn",
+          "name": "Hume Cronyn",
+          "character": "",
+          "image": "https://resizing.flixster.com/0fTEypwK6rFGRLjLnJyTXAG1yXw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76083_v9_ba.jpg"
+        },
+        {
+          "id": "audrey_totter",
+          "name": "Audrey Totter",
+          "character": "",
+          "image": "https://resizing.flixster.com/C8DJL3DqS1mDLsHEeAmp19ADmdI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/6670_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Postman-Always-Rings-Twice/9923?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:23.524174Z"
+    },
+    {
+      "id": "1016885-public_enemy",
+      "url": "https://www.rottentomatoes.com/m/1016885-public_enemy",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Public Enemy",
+      "original_title": "The Public Enemy",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1931,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 84,
+      "certificate": null,
+      "rating": 8.6,
+      "votes": 1612,
+      "tomatometer": 100,
+      "tomatometer_count": 35,
+      "tomatometer_certified": false,
+      "audience_score": 85,
+      "audience_count": 469,
+      "metascore": null,
+      "plot": "Two young Chicago hoodlums, Tom Powers (James Cagney) and Matt Doyle (Eddie Woods), rise up from their poverty-stricken slum life to become petty thieves, bootleggers and cold-blooded killers. But with street notoriety and newfound wealth, the duo feels the heat from the cops and rival gangsters both. Despite his ruthless criminal reputation, Tom tries to remain connected to his family, however, gang warfare and the need for revenge eventually pull him away.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/HKh4ruh7biGwB6393ZbPNj7JAqQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3628_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/HKh4ruh7biGwB6393ZbPNj7JAqQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3628_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/t2UrS7Bjf6mlq_RfsrL5Xrzo9qY=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3628_i_h11_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/EbnnRG9n9q0yAYnmK4zfO5DRnQ4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3628_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/VkyifrxIJPe_guhUNtbF14VPOKo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3628_i_h11_aa.jpg",
+          "caption": "The Public Enemy (1931)"
+        },
+        {
+          "url": "https://resizing.flixster.com/iBNPcK4oXO-eMUIoAE08nQKxG7s=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3628_p_v8_aa.jpg",
+          "caption": "The Public Enemy (1931)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "william-wellman",
+          "name": "William A. Wellman"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "james_cagney",
+          "name": "James Cagney",
+          "character": "",
+          "image": "https://resizing.flixster.com/qvLoH2Ah7HvbzWdbqGlGV0xxk1w=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71929_v9_ba.jpg"
+        },
+        {
+          "id": "jean_harlow",
+          "name": "Jean Harlow",
+          "character": "",
+          "image": "https://resizing.flixster.com/8Ele0mmwck0MbJCGLBu8MxnOPR8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74362_v9_ba.jpg"
+        },
+        {
+          "id": "mae_clarke",
+          "name": "Mae Clarke",
+          "character": "",
+          "image": "https://resizing.flixster.com/4zIgzXv1tc6fs3oGGDBJlHLaK1U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76739_v9_ba.jpg"
+        },
+        {
+          "id": "edward_woods",
+          "name": "Edward Woods",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "beryl_mercer",
+          "name": "Beryl Mercer",
+          "character": "",
+          "image": "https://resizing.flixster.com/O4049NbkLryb4h8H-nLDlx9fGAU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74643_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Public-Enemy/10184?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:42.939239Z"
+    },
+    {
+      "id": "1035050-night_nurse",
+      "url": "https://www.rottentomatoes.com/m/1035050-night_nurse",
+      "category": "crime",
+      "type": "movie",
+      "title": "Night Nurse",
+      "original_title": "Night Nurse",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1931,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 72,
+      "certificate": null,
+      "rating": 6.0,
+      "votes": 195,
+      "tomatometer": 83,
+      "tomatometer_count": 12,
+      "tomatometer_certified": false,
+      "audience_score": 73,
+      "audience_count": 71,
+      "metascore": null,
+      "plot": "Live-in nurse Lora Hart (Barbara Stanwyck) is sent to care for two ailing young children. As the health of her patients gets progressively worse, she begins to question the methods of the children's doctor. Eventually, Lora finds irrefutable evidence linking the doctor to a plot to murder the children. Unfortunately, it's the young nurse's word against the doctor's, and no one believes Lora. But she does have one ally -- a hardened criminal named Mortie (Ben Lyon) who owes Lora his life.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/CN1GwJzYdfKttP7y8FAZBs-eLBk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9047_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/CN1GwJzYdfKttP7y8FAZBs-eLBk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9047_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/-_4bXqoF9OAhFEpPg2w8DJ0vWAU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9047_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Sym5P0T_pDv8-5tpEJ8_p6EScAk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9047_p_v8_aa.jpg",
+          "caption": "Night Nurse (1931)"
+        },
+        {
+          "url": "https://resizing.flixster.com/IYhPy_th0wqTf011ADVMsXx_do0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9047_i_h10_ab.jpg",
+          "caption": "Night Nurse (1931)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "william-wellman",
+          "name": "William A. Wellman"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "barbara_stanwyck",
+          "name": "Barbara Stanwyck",
+          "character": "",
+          "image": "https://resizing.flixster.com/HrjFhs9LmRQEtmbMN7SITibUipE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1683_v9_bb.jpg"
+        },
+        {
+          "id": "ben_lyon",
+          "name": "Ben Lyon",
+          "character": "",
+          "image": "https://resizing.flixster.com/1fw9RF529V7insg4hfitz_uVpF4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/86927_v9_ba.jpg"
+        },
+        {
+          "id": "joan_blondell",
+          "name": "Joan Blondell",
+          "character": "",
+          "image": "https://resizing.flixster.com/VIxODpxhDfl-fR_YcZb1aTth24M=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71551_v9_bb.jpg"
+        },
+        {
+          "id": "clark_gable",
+          "name": "Clark Gable",
+          "character": "",
+          "image": "https://resizing.flixster.com/B63t0ZqKwWId0G5x2HInpy2g9vQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73396_v9_bb.jpg"
+        },
+        {
+          "id": "blanche_frederici",
+          "name": "Blanche Frederici",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Night-Nurse/89789?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:02.449210Z"
+    },
+    {
+      "id": "1035061-fury",
+      "url": "https://www.rottentomatoes.com/m/1035061-fury",
+      "category": "crime",
+      "type": "movie",
+      "title": "Fury",
+      "original_title": "Fury",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1936,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 90,
+      "certificate": null,
+      "rating": 9.1,
+      "votes": 547,
+      "tomatometer": 95,
+      "tomatometer_count": 19,
+      "tomatometer_certified": false,
+      "audience_score": 88,
+      "audience_count": 139,
+      "metascore": null,
+      "plot": "Joe Wilson (Spencer Tracy) is an innocent man wrongly accused of a horrible crime while on his way to meet his fiancée, Katherine Grant (Sylvia Sidney). Held at a local jail, Joe is confronted by a frenzied mob and presumed dead after a massive fire. When his attackers aren't brought to justice, Joe, who narrowly escaped the blaze, resurfaces, intent on revenge. Katherine tries to dissuade him from carrying out his vengeful plan, but Joe's anger isn't easily dampened.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/-96nPc9HuZ7umy1mRk5QDHcwzK8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5055_p_v8_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/-96nPc9HuZ7umy1mRk5QDHcwzK8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5055_p_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/8qWXkg1WDPti7qknquD1wT-j648=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5055_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/O8pCdmAoouiIgyOjHWdfrOv50LU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5055_v_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/hhWnh33Z1WfvtFN3RXVGw15chAY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5055_i_h10_ab.jpg",
+          "caption": "Fury (1936)"
+        },
+        {
+          "url": "https://resizing.flixster.com/eLoM1MWEumqNL3qukFAr3yZx1v8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p5055_p_v8_ab.jpg",
+          "caption": "Fury (1936)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "fritz_lang",
+          "name": "Fritz Lang"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "sylvia_sidney",
+          "name": "Sylvia Sidney",
+          "character": "",
+          "image": "https://resizing.flixster.com/O_3AKxAV4bBVPoZZ3CEM8unu3Aw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/61284_v9_ba.jpg"
+        },
+        {
+          "id": "spencer_tracy",
+          "name": "Spencer Tracy",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ru_soLVPTw21YnwwjmpIuMLmvJA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1795_v9_ba.jpg"
+        },
+        {
+          "id": "walter_abel",
+          "name": "Walter Abel",
+          "character": "",
+          "image": "https://resizing.flixster.com/gN6Fc3XZ_wtepWNuAmpH8JKJVhg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75170_v9_ba.jpg"
+        },
+        {
+          "id": "bruce_cabot",
+          "name": "Bruce Cabot",
+          "character": "",
+          "image": "https://resizing.flixster.com/IXbkATsh_NK3Lo7Cb7F4vrfVbOE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/84030_v9_ba.jpg"
+        },
+        {
+          "id": "edward_ellis",
+          "name": "Edward Ellis",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Fury/10277?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:22.764489Z"
+    },
+    {
+      "id": "1063050-maltese_falcon",
+      "url": "https://www.rottentomatoes.com/m/1063050-maltese_falcon",
+      "category": "crime",
+      "type": "movie",
+      "title": "Dangerous Female",
+      "original_title": "Dangerous Female",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1931,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 80,
+      "certificate": null,
+      "rating": 6.3,
+      "votes": 153,
+      "tomatometer": 71,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 49,
+      "audience_count": 52,
+      "metascore": null,
+      "plot": "In San Francisco, wealthy Ruth Wonderly (Bebe Daniels) hires amorous gumshoe Sam Spade (Ricardo Cortez) and his partner, Miles Archer, to trail her sister's kidnapper, Floyd Thursby. Wonderly's story is revealed as a ruse when both Archer and Thursby are later found murdered. Soon, Spade discovers that Wonderly and three other criminal oddballs -- including rotund Casper Gutman (Dudley Digges) -- are in search of an elusive jewel-covered statuette known as \"the Maltese Falcon.\"",
+      "tagline": "",
+      "poster": null,
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/6HiWg7fbJOwuvzcg4SAjSG-1mb8=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6977_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fv1Or1bqIsv9zHp6cjx8zIxHtEc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6977_i_h10_ab.jpg",
+          "caption": "Dangerous Female (1931)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "roy_del_ruth",
+          "name": "Roy Del Ruth"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "bebe_daniels",
+          "name": "Bebe Daniels",
+          "character": "",
+          "image": "https://resizing.flixster.com/-Z9AR-Rv0awmra01FhqRRqjYrII=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/94982_v9_bb.jpg"
+        },
+        {
+          "id": "ricardo_cortez",
+          "name": "Ricardo Cortez",
+          "character": "",
+          "image": "https://resizing.flixster.com/ETb0XdIxayoMCkAmJpdsAzFJvvo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72945_v9_ba.jpg"
+        },
+        {
+          "id": "dudley_digges",
+          "name": "Dudley Digges",
+          "character": "",
+          "image": "https://resizing.flixster.com/Xxs3o5MeKU5ZYpHYLjYS9xa1zaQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/86597_v9_ba.jpg"
+        },
+        {
+          "id": "robert_elliot",
+          "name": "Robert Elliott",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Maltese-Falcon-1931/3074700?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:39.783136Z"
+    },
+    {
+      "id": "act_of_violence",
+      "url": "https://www.rottentomatoes.com/m/act_of_violence",
+      "category": "crime",
+      "type": "movie",
+      "title": "Act of Violence",
+      "original_title": "Act of Violence",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1948,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 82,
+      "certificate": null,
+      "rating": 7.1,
+      "votes": 170,
+      "tomatometer": 94,
+      "tomatometer_count": 17,
+      "tomatometer_certified": false,
+      "audience_score": 78,
+      "audience_count": 59,
+      "metascore": null,
+      "plot": "A former prisoner of war, Frank Enley (Van Heflin) is hailed as a hero in his California town. However, Frank actually aided his Nazi captors, and he closely guards this secret. Frank's shameful past comes back to visit him when fellow survivor Joe Parkson (Robert Ryan) emerges, intent on making the turncoat pay for his betrayal. As Joe closes in on Frank, the traitor goes into hiding, abandoning his wife, Edith (Janet Leigh), who has no clue about her husband's wartime transgressions.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/AxOOk1pUEoG982oug0BUSEUi6So=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4518_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/AxOOk1pUEoG982oug0BUSEUi6So=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4518_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Cam0nrBSdPgIw2X_rFq_62z0Vrg=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4518_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/uV9LvryM-wggdVGCjI-9tzAPpjo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4518_p_v8_aa.jpg",
+          "caption": "Act of Violence (1949)"
+        },
+        {
+          "url": "https://resizing.flixster.com/2iEMDD5BCP1hnIJUFyMusDpM2H8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4518_i_h10_ab.jpg",
+          "caption": "Act of Violence (1949)"
+        },
+        {
+          "url": "https://resizing.flixster.com/m_pRY6MTJk-XKuIEQ_r5pVUf0no=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p4518_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "fred_zinnemann",
+          "name": "Fred Zinnemann"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "van_heflin",
+          "name": "Van Heflin",
+          "character": "",
+          "image": "https://resizing.flixster.com/l4HEZQmzN0ZpEOoe_5jaUUqmAh0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/83847_v9_ba.jpg"
+        },
+        {
+          "id": "robert_ryan",
+          "name": "Robert Ryan",
+          "character": "",
+          "image": "https://resizing.flixster.com/fiJ_gJl8ZgXqUVatBgc2zIMZbRI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/55529_v9_bb.jpg"
+        },
+        {
+          "id": "janet_leigh",
+          "name": "Janet Leigh",
+          "character": "",
+          "image": "https://resizing.flixster.com/M8pyJcQkZlicF_TErOtcl6k4dQQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/29719_v9_ba.jpg"
+        },
+        {
+          "id": "mary_astor",
+          "name": "Mary Astor",
+          "character": "",
+          "image": "https://resizing.flixster.com/EnZYVpKgOT93pBcpUS4c1MOoT44=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/43874_v9_ba.jpg"
+        },
+        {
+          "id": "phyllis_thaxter",
+          "name": "Phyllis Thaxter",
+          "character": "",
+          "image": "https://resizing.flixster.com/TWpnNdHpeFWiUuoHMV9k6dMQWMA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/52030_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:27.746485Z"
+    },
+    {
+      "id": "alibi",
+      "url": "https://www.rottentomatoes.com/m/alibi",
+      "category": "crime",
+      "type": "movie",
+      "title": "Alibi",
+      "original_title": "Alibi",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1929,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 90,
+      "certificate": null,
+      "rating": 5.8,
+      "votes": 53,
+      "tomatometer": 56,
+      "tomatometer_count": 9,
+      "tomatometer_certified": false,
+      "audience_score": 34,
+      "audience_count": 24,
+      "metascore": null,
+      "plot": "Shortly after mobster Chick Williams (Chester Morris) rejoins his gang once released from jail, a policeman is murdered during a warehouse robbery. Chick becomes a main suspect in the case. Determined to bring down the suspected cop killer, Detective Sergeant Tommy Glennon (Pat O'Malley) and Danny McGann (Regis Toomey) resort to heavy-handed tactics to prove that Williams committed the crime even though Chick has a fairly solid alibi: attending the theater with a policeman's daughter.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/racYtaJ58eObPdzIOmXWDrpR_qQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160710_p_v13_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/racYtaJ58eObPdzIOmXWDrpR_qQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160710_p_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/m50zmxeWy54Ll3PIokq-ubz5i5M=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160710_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/kDfsaluvlX5pP_1Y9bPe0qd0Xlk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160710_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/pkS9X4G3itTWEe33fzIaDlF-ziE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160710_p_v13_aa.jpg",
+          "caption": "Alibi (1929)"
+        },
+        {
+          "url": "https://resizing.flixster.com/2xBHsnVx-T0oox1K4a-ULJjJVIE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160710_p_v8_aa.jpg",
+          "caption": "Alibi (1929)"
+        },
+        {
+          "url": "https://resizing.flixster.com/geHjBxY871xwhcyLNt9ab7tiwus=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p160710_i_h10_aa.jpg",
+          "caption": "Alibi (1929)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "roland_west",
+          "name": "Roland West"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "chester_morris",
+          "name": "Chester Morris",
+          "character": "",
+          "image": "https://resizing.flixster.com/amj8apBwwJO8ghynAoYyU9v17gw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/224414_v9_bb.jpg"
+        },
+        {
+          "id": "harry_stubbs",
+          "name": "Harry Stubbs",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "mae_busch",
+          "name": "Mae Busch",
+          "character": "",
+          "image": "https://resizing.flixster.com/3r0f2yJIxehD-d-L0LZqBWqiFj0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/41476_v9_ba.jpg"
+        },
+        {
+          "id": "irma_harrison",
+          "name": "Irma Harrison",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "regis_toomey",
+          "name": "Regis Toomey",
+          "character": "",
+          "image": "https://resizing.flixster.com/E7S0ghmcAI7mtXCNYl31fu7ZuV0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/53581_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:00.939303Z"
+    },
+    {
+      "id": "angels_with_dirty_faces",
+      "url": "https://www.rottentomatoes.com/m/angels_with_dirty_faces",
+      "category": "crime",
+      "type": "movie",
+      "title": "Angels With Dirty Faces",
+      "original_title": "Angels With Dirty Faces",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1938,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 97,
+      "certificate": null,
+      "rating": 8.4,
+      "votes": 1922,
+      "tomatometer": 100,
+      "tomatometer_count": 24,
+      "tomatometer_certified": false,
+      "audience_score": 92,
+      "audience_count": 640,
+      "metascore": null,
+      "plot": "Rocky Sullivan (James Cagney) and Jerry Connolly (Pat O'Brien) were brought up in one of New York's toughest neighborhoods, Hell's Kitchen. While his buddy Rocky gets caught up in racketeering in reform school, Jerry decides to become a priest. Years later, Rocky is released from prison and returns to Hell's Kitchen, where Jerry works with at-risk children. Rocky wants a temporary safe haven with his old friend before resuming his life of crime, but Jerry hesitates, testing their relationship.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/_DoeFmHgmmkHwxQWj2rzFF_NFPU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p648_p_v10_ad.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/_DoeFmHgmmkHwxQWj2rzFF_NFPU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p648_p_v10_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/AZszYGqWWDNZAl6_08_Gcq9A1Kk=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p648_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/YeSBneB2loZj3h2iSoOAg8lBgn0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/21555/21555_aa.jpg",
+          "caption": "Poster Art"
+        },
+        {
+          "url": "https://resizing.flixster.com/3ycV6bnmKPaB7ZT_nArrE2WntCI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p648_p_v10_ad.jpg",
+          "caption": "Angels With Dirty Faces (1938)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ylAyynW3PUiywRCAFaT_EKoEWyU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p648_p_v8_aa.jpg",
+          "caption": "Angels With Dirty Faces (1938)"
+        },
+        {
+          "url": "https://resizing.flixster.com/YJOEAiSFge8xpFI5OcmAp7oe4Sk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p648_i_h10_ab.jpg",
+          "caption": "Angels With Dirty Faces (1938)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-FtXmyvXeRTiDpTO9XouMlLPXa8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p648_v_v8_ae.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "michael_curtiz",
+          "name": "Michael Curtiz"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "james_cagney",
+          "name": "James Cagney",
+          "character": "",
+          "image": "https://resizing.flixster.com/qvLoH2Ah7HvbzWdbqGlGV0xxk1w=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71929_v9_ba.jpg"
+        },
+        {
+          "id": "pat_obrien_3",
+          "name": "Pat O'Brien",
+          "character": "",
+          "image": "https://resizing.flixster.com/ZKI0bXw-hcZpaLtIoiawAHlXs_4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/508021_v9_ba.jpg"
+        },
+        {
+          "id": "humphrey_bogart",
+          "name": "Humphrey Bogart",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqbvIFHZxN_EbSUJCaEgfLyiWuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27198_v9_ba.jpg"
+        },
+        {
+          "id": "ann_sheridan",
+          "name": "Ann Sheridan",
+          "character": "",
+          "image": "https://resizing.flixster.com/rOfIniKBdtQ5Mpg9E3wMydzlqIE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/5186_v9_ba.jpg"
+        },
+        {
+          "id": "george_bancroft",
+          "name": "George Bancroft",
+          "character": "",
+          "image": "https://resizing.flixster.com/gjbkW21v-HPc6ImOnmYD2Swnj-M=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/83179_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:21.605088Z"
+    },
     {
       "id": "animals_2026",
       "url": "https://www.rottentomatoes.com/m/animals_2026",
@@ -131,6 +1071,434 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-05T14:53:43.341098Z"
+    },
+    {
+      "id": "big_house",
+      "url": "https://www.rottentomatoes.com/m/big_house",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Big House",
+      "original_title": "The Big House",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1930,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "rating": 7.2,
+      "votes": 85,
+      "tomatometer": 75,
+      "tomatometer_count": 8,
+      "tomatometer_certified": false,
+      "audience_score": 71,
+      "audience_count": 26,
+      "metascore": null,
+      "plot": "After being convicted of manslaughter, drunk driver Kent Marlowe (Robert Montgomery) is inducted into the rigors of prison life. He befriends fellow cons \"Machine Gun\" Butch Schmidt (Wallace Beery) and John Morgan (Chester Morris). Together they bristle at the prison's deplorable conditions and especially the inhumane policies of their cruel warden (Lewis Stone). Rising tensions culminate in a prison riot that may shake the institution to its core.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/F-Pg3VAvV-CbGgJZfhZ59cyTCFo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6237_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/F-Pg3VAvV-CbGgJZfhZ59cyTCFo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6237_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/pUQVM9oZM69Uamb7lC77gXrjZ_E=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6237_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tYCKKcIWsarCFfmSEfVJOOhSvGo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6237_i_h10_ab.jpg",
+          "caption": "The Big House (1930)"
+        },
+        {
+          "url": "https://resizing.flixster.com/rz0XMnLbpArxwRn3usi_G7gY-pI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6237_p_v8_aa.jpg",
+          "caption": "The Big House (1930)"
+        },
+        {
+          "url": "https://resizing.flixster.com/nbonI0f1uiPoRjnYFvUz_Sr5Vzs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6237_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "george_w_hill",
+          "name": "George W. Hill"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "wallace_beery",
+          "name": "Wallace Beery",
+          "character": "",
+          "image": "https://resizing.flixster.com/4k5fpGdCBXLDjRdrINh7dB27c6U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76733_v9_ba.jpg"
+        },
+        {
+          "id": "chester_morris",
+          "name": "Chester Morris",
+          "character": "",
+          "image": "https://resizing.flixster.com/amj8apBwwJO8ghynAoYyU9v17gw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/224414_v9_bb.jpg"
+        },
+        {
+          "id": "robert_montgomery",
+          "name": "Robert Montgomery",
+          "character": "",
+          "image": "https://resizing.flixster.com/CIkH5j6mcMyJRTEayE1k5MqnT9A=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/80704_v9_ba.jpg"
+        },
+        {
+          "id": "lewis_stone",
+          "name": "Lewis Stone",
+          "character": "",
+          "image": "https://resizing.flixster.com/2dhgA1EkThFnXFxYnGTzyTCYPho=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/39194_v9_ba.jpg"
+        },
+        {
+          "id": "leila_hyams",
+          "name": "Leila Hyams",
+          "character": "",
+          "image": "https://resizing.flixster.com/y1pVX2OWXzJbdhf78wmilgxCdhg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73635_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Big-House/112833?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:38.520152Z"
+    },
+    {
+      "id": "black_legion",
+      "url": "https://www.rottentomatoes.com/m/black_legion",
+      "category": "crime",
+      "type": "movie",
+      "title": "Black Legion",
+      "original_title": "Black Legion",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1937,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 83,
+      "certificate": null,
+      "rating": 7.7,
+      "votes": 143,
+      "tomatometer": 100,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 59,
+      "audience_count": 71,
+      "metascore": null,
+      "plot": "Frank Taylor (Humphrey Bogart) believes he is about to be made foreman of the factory he works in. When the job goes to a Polish-born worker instead, Frank is enraged and decides to join a local organization that persecutes immigrants. Known as the Black Legion, the clandestine hate group uses scare tactics to help Frank get his promotion. However, his involvement with the Legion has dire effects on his marriage and jeopardizes the life of his best friend, Ed (Dick Foran).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/7QFMQ0emdfEynQE4rFZSHVZ6ZYA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3521_p_v13_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/7QFMQ0emdfEynQE4rFZSHVZ6ZYA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3521_p_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/nX9uMzQaierz1n0_c9TK9-wohHE=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3521_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/B-yXM50yygvL6jWNho8bdaCmhiY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3521_p_v13_aa.jpg",
+          "caption": "Black Legion (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/hbEZy2q1INBWabdElE9Qh3L30pA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3521_p_v8_aa.jpg",
+          "caption": "Black Legion (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/EDKqjy1m8I3OfowipWSS-y4T_jM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3521_i_h10_ab.jpg",
+          "caption": "Black Legion (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/nqC_jOdv6eYx_mg1h-NdqvEKhCo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3521_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "archie_mayo",
+          "name": "Archie Mayo"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "humphrey_bogart",
+          "name": "Humphrey Bogart",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqbvIFHZxN_EbSUJCaEgfLyiWuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27198_v9_ba.jpg"
+        },
+        {
+          "id": "nick_foran",
+          "name": "Dick Foran",
+          "character": "",
+          "image": "https://resizing.flixster.com/Hbkj6u4O4EbG5uJrFYn8kbKyBvU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72706_v9_ba.jpg"
+        },
+        {
+          "id": "erin_obrienmoore",
+          "name": "Erin O'Brien-Moore",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "ann_sheridan",
+          "name": "Ann Sheridan",
+          "character": "",
+          "image": "https://resizing.flixster.com/rOfIniKBdtQ5Mpg9E3wMydzlqIE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/5186_v9_ba.jpg"
+        },
+        {
+          "id": "robert_barrat",
+          "name": "Robert Barrat",
+          "character": "",
+          "image": "https://resizing.flixster.com/ScbyfSVprKGKgJbusMIhoOIAXLU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76663_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Black-Legion/113014?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:20.702315Z"
+    },
+    {
+      "id": "blue_gardenia",
+      "url": "https://www.rottentomatoes.com/m/blue_gardenia",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Blue Gardenia",
+      "original_title": "The Blue Gardenia",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1953,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 90,
+      "certificate": null,
+      "rating": 6.9,
+      "votes": 204,
+      "tomatometer": 85,
+      "tomatometer_count": 20,
+      "tomatometer_certified": false,
+      "audience_score": 61,
+      "audience_count": 57,
+      "metascore": null,
+      "plot": "Deeply distraught that her GI ex-boyfriend plans to marry another woman, Norah Larkin (Anne Baxter) agrees to go out on a date with lothario Harry Prebble (Raymond Burr). Norah's drunken night out with Prebble ends in a hazily remembered confrontation and the next day a startling discovery: Harry has been murdered, and the police have found Norah's personal effects at the scene. Tipped off to the breaking news, reporter Casey Mayo (Richard Conte) invites Norah to tell her side of the story.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/ZTN0ZsYYTq4S-WwmAIe9cevHYAo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7913_p_v8_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/ZTN0ZsYYTq4S-WwmAIe9cevHYAo=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7913_p_v8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/M2grv-6eEvsFF5zVdZ3BsoGgtUY=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7913_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/SKPH5a07X1zC-TP04cwCllE81gY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7913_v_v8_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/S60FaoVJvduD2v0li9hob8tEe1M=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7913_p_v8_ac.jpg",
+          "caption": "The Blue Gardenia (1953)"
+        },
+        {
+          "url": "https://resizing.flixster.com/SAjgAOzakq8xnqGJHReU1lDhgEA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7913_i_h10_ac.jpg",
+          "caption": "The Blue Gardenia (1953)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "fritz_lang",
+          "name": "Fritz Lang"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "anne_baxter",
+          "name": "Anne Baxter",
+          "character": "",
+          "image": "https://resizing.flixster.com/MWaQ7lOc0VQdsfJFD32E1IR-0HA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/78511_v9_bb.jpg"
+        },
+        {
+          "id": "richard_conte",
+          "name": "Richard Conte",
+          "character": "",
+          "image": "https://resizing.flixster.com/WKsBOsdPqxkUTVO-Abv2N3-yKZU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72148_v9_ba.jpg"
+        },
+        {
+          "id": "ann_southern",
+          "name": "Ann Sothern",
+          "character": "",
+          "image": "https://resizing.flixster.com/ZYw7QpuXjsbR8l4ZPycOunzdDlg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/5195_v9_bb.jpg"
+        },
+        {
+          "id": "raymond_burr",
+          "name": "Raymond Burr",
+          "character": "",
+          "image": "https://resizing.flixster.com/UQiBi83ZsdNaxG4LVxYWgftQjeo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/53282_v9_bb.jpg"
+        },
+        {
+          "id": "jeff_donnell",
+          "name": "Jeff Donnell",
+          "character": "",
+          "image": "https://resizing.flixster.com/_V8CEQhwrZC_EySV8XuxwHFKRi4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/221800_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWY7FPJS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:27.804558Z"
+    },
+    {
+      "id": "border_incident",
+      "url": "https://www.rottentomatoes.com/m/border_incident",
+      "category": "crime",
+      "type": "movie",
+      "title": "Border Incident",
+      "original_title": "Border Incident",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1949,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 92,
+      "certificate": null,
+      "rating": 6.8,
+      "votes": 87,
+      "tomatometer": 71,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 57,
+      "audience_count": 29,
+      "metascore": null,
+      "plot": "In this topical film noir, a gang smuggles illegal Mexican farmworkers across the California border and kills the immigrants before they can return home. When federal agents Pablo Rodriguez (Ricardo Montalban) and Jack Bearnes (George Murphy) go undercover to overturn the organization, they find themselves face-to-face with its leader, Owen Parkson (Howard da Silva). The agents quickly realize that what began as a routine murder case has become a struggle for survival.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/drVHBxDPkq1GDd7yAwv6g_gTJcI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p43494_p_v10_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/drVHBxDPkq1GDd7yAwv6g_gTJcI=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p43494_p_v10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/73BE9CQpz6VjDsnNg90IyiYQKaY=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p43494_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Wi2vNL56Qlmk0TAeUmwYKXb2gAI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p43494_i_h10_ab.jpg",
+          "caption": "Border Incident (1950)"
+        },
+        {
+          "url": "https://resizing.flixster.com/moIuJ2tK5GT1iDClSW4n-8HvcQw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p43494_p_v10_ab.jpg",
+          "caption": "Border Incident (1950)"
+        },
+        {
+          "url": "https://resizing.flixster.com/gjJyhyN2j2viik-xJOgsKTDaWho=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p43494_p_v8_aa.jpg",
+          "caption": "Border Incident (1950)"
+        },
+        {
+          "url": "https://resizing.flixster.com/VOlmmvad-yhsvA0WGRbGOL3HzKs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p43494_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "anthony_mann",
+          "name": "Anthony Mann"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "ricardo_montalban",
+          "name": "Ricardo Montalban",
+          "character": "",
+          "image": "https://resizing.flixster.com/RBeMKXbpdJKNxGvmjr7C4eB7Wno=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/53949_v9_bb.jpg"
+        },
+        {
+          "id": "george_murphy",
+          "name": "George Murphy",
+          "character": "",
+          "image": "https://resizing.flixster.com/o5mAhZSJy0_XiRCLslzmF4iniVo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/245805_v9_ba.jpg"
+        },
+        {
+          "id": "howard_da_silva",
+          "name": "Howard Da Silva",
+          "character": "",
+          "image": "https://resizing.flixster.com/6gpj9inJhCJy4xIt-epfdJJsAnA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/67802_v9_bb.jpg"
+        },
+        {
+          "id": "jim_mitchell",
+          "name": "James Mitchell",
+          "character": "",
+          "image": "https://resizing.flixster.com/nFK1L9F7Lqahco_kTFSCRBjziYg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/29246_v9_ba.jpg"
+        },
+        {
+          "id": "arnold_moss",
+          "name": "Arnold Moss",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Border-Incident/113409?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:24.705123Z"
     },
     {
       "id": "by_any_means_2026",
@@ -692,6 +2060,332 @@
       "scraped_at": "2026-10-07T23:09:00.435888Z"
     },
     {
+      "id": "daughter-of-the-dragon-1931",
+      "url": "https://www.rottentomatoes.com/m/daughter-of-the-dragon-1931",
+      "category": "crime",
+      "type": "movie",
+      "title": "Daughter of the Dragon",
+      "original_title": "Daughter of the Dragon",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "year": 1931,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 72,
+      "certificate": null,
+      "rating": 6.1,
+      "votes": 18,
+      "tomatometer": 71,
+      "tomatometer_count": 14,
+      "tomatometer_certified": false,
+      "audience_score": 39,
+      "audience_count": 5,
+      "metascore": null,
+      "plot": "At her Chinese father's bidding, a woman goes to murder an enemy and meets a Scotland Yard detective.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/kVGm7Nuh4Aycraj28OnkhWwOpOk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p72895_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/kVGm7Nuh4Aycraj28OnkhWwOpOk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p72895_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/vkUlcMQzrilt0XspJRJtCfIxTSo=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p72895_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/SG0bCFWQyQ4DklVan5ZEUNOkg0w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p72895_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/vfyLdchDer0cxlOlNd2rZS0zZqQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p72895_p_v10_aa.jpg",
+          "caption": "Daughter of the Dragon (1931)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Ht2KdNPromEnr3YO1LPtqD4LaoA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p72895_p_v8_aa.jpg",
+          "caption": "Daughter of the Dragon (1931)"
+        },
+        {
+          "url": "https://resizing.flixster.com/z4pErom1yJUbsm3JmxgadRaZJ6o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p72895_i_h10_aa.jpg",
+          "caption": "Daughter of the Dragon (1931)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "lloyd_corrigan",
+          "name": "Lloyd Corrigan"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "anna_may_wong",
+          "name": "Anna May Wong",
+          "character": "",
+          "image": "https://resizing.flixster.com/vZZ5yH5WOZlLZFfoCwfODtkS88U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/5299_v9_ba.jpg"
+        },
+        {
+          "id": "warner_oland",
+          "name": "Warner Oland",
+          "character": "",
+          "image": "https://resizing.flixster.com/NDa9_w9rITUuFpM_eT8wjvwPVxs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/85788_v9_ba.jpg"
+        },
+        {
+          "id": "sessue_hayakawa",
+          "name": "Sessue Hayakawa",
+          "character": "",
+          "image": "https://resizing.flixster.com/X4jRDIcTSsEc3a7TdR6GF0Y-nAc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/153838_v9_ba.jpg"
+        },
+        {
+          "id": "bramwell-fletcher",
+          "name": "Bramwell Fletcher",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "frances_dade",
+          "name": "Frances Dade",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:19.589048Z"
+    },
+    {
+      "id": "daughter_of_shanghai",
+      "url": "https://www.rottentomatoes.com/m/daughter_of_shanghai",
+      "category": "crime",
+      "type": "movie",
+      "title": "Daughter of Shanghai",
+      "original_title": "Daughter of Shanghai",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1937,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 63,
+      "certificate": null,
+      "rating": 6.1,
+      "votes": 6,
+      "tomatometer": 95,
+      "tomatometer_count": 20,
+      "tomatometer_certified": false,
+      "audience_score": 67,
+      "audience_count": 1,
+      "metascore": null,
+      "plot": "A Chinese-American (Anna May Wong) avenges her father, slain by smugglers led by a San Francisco socialite.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/ZB_ckC-HCM4ANCN0ZJO44yjw3SA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p44172_p_v13_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/ZB_ckC-HCM4ANCN0ZJO44yjw3SA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p44172_p_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/CsDYlUw6j8N-2yHtCxS7zli2gCE=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p44172_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/N0aOfvnEpSlG6ZZArh4zkOwH-Ko=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p44172_p_v13_aa.jpg",
+          "caption": "Daughter of Shanghai (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Nq1nU8vGJ9rnl7Ux-9IIufDAy2Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p44172_p_v12_aa.jpg",
+          "caption": "Daughter of Shanghai (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Io5S6B_5s0jqSrV414c2hYWSx74=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p44172_i_h10_ab.jpg",
+          "caption": "Daughter of Shanghai (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/grGh7gOVC4hLZRA2WtWFtnxqfKs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p44172_v_v12_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "robert_florey",
+          "name": "Robert Florey"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "anna_may_wong",
+          "name": "Anna May Wong",
+          "character": "",
+          "image": "https://resizing.flixster.com/vZZ5yH5WOZlLZFfoCwfODtkS88U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/5299_v9_ba.jpg"
+        },
+        {
+          "id": "philip_ahn",
+          "name": "Philip Ahn",
+          "character": "",
+          "image": "https://resizing.flixster.com/YXKO1Bf_6NYvffm4cAJQw91qRfo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/106840_v9_ba.jpg"
+        },
+        {
+          "id": "charles_bickford",
+          "name": "Charles Bickford",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ac2cqV86MN9Jsg_HJ1xRfu21sZM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/79251_v9_ba.jpg"
+        },
+        {
+          "id": "larry_crabbe",
+          "name": "Buster Crabbe",
+          "character": "",
+          "image": "https://resizing.flixster.com/EFucatx5lFsuSrIoolK-FkD_V30=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/9902_v9_ba.jpg"
+        },
+        {
+          "id": "cecil-cunningham",
+          "name": "Cecil Cunningham",
+          "character": "",
+          "image": "https://resizing.flixster.com/BsS3k8O_W81DyPP44pqs-Nymr50=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/92817_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:36.814998Z"
+    },
+    {
+      "id": "dead_end_1937",
+      "url": "https://www.rottentomatoes.com/m/dead_end_1937",
+      "category": "crime",
+      "type": "movie",
+      "title": "Dead End",
+      "original_title": "Dead End",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1937,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 93,
+      "certificate": null,
+      "rating": 7.2,
+      "votes": 311,
+      "tomatometer": 83,
+      "tomatometer_count": 12,
+      "tomatometer_certified": false,
+      "audience_score": 76,
+      "audience_count": 86,
+      "metascore": null,
+      "plot": "Mobster \"Baby Face\" Martin (Humphrey Bogart) returns home to visit to the New York neighborhood where he grew up, dropping in on his mother (Marjorie Main), who rejects him because of his gangster lifestyle, and his old girlfriend, Francey (Claire Trevor), now a syphilitic prostitute. Martin also crosses paths with Dave (Joel McCrea), a childhood friend struggling to make it as an architect, and the Dead End Kids, a gang of young boys roaming the streets of the city's East Side slums.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/3hecebYW9iceh5W8vPmJp8Og3uA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2833_p_v13_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/3hecebYW9iceh5W8vPmJp8Og3uA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2833_p_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/l4SLP8Lduya78TtF-tG0jaRSwF0=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2833_i_h8_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/GdNRsWc6vi-RyR4DU9xTyL8dTVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2833_p_v13_aa.jpg",
+          "caption": "Dead End (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/P5Pp_36Exs9Hqj-HBZPgv5oEeEw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2833_p_v12_ab.jpg",
+          "caption": "Dead End (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/o6u-bDGQsg1YbVOJSFqfmoVPncg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2833_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/RVVM41TSQA9enGbRkMbqJOAgi2M=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2833_i_h8_ad.jpg",
+          "caption": "Dead End (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/J1d21yQJ7zC2wv2-CO_wVl4uxtg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p2833_i_h10_ac.jpg",
+          "caption": "Dead End (1937)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "william_wyler",
+          "name": "William Wyler"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "sylvia_sidney",
+          "name": "Sylvia Sidney",
+          "character": "",
+          "image": "https://resizing.flixster.com/O_3AKxAV4bBVPoZZ3CEM8unu3Aw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/61284_v9_ba.jpg"
+        },
+        {
+          "id": "humphrey_bogart",
+          "name": "Humphrey Bogart",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqbvIFHZxN_EbSUJCaEgfLyiWuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27198_v9_ba.jpg"
+        },
+        {
+          "id": "joel_mccrea",
+          "name": "Joel McCrea",
+          "character": "",
+          "image": "https://resizing.flixster.com/e_e5d8ahOdDW7AerO7znw6rLsJE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/32382_v9_ba.jpg"
+        },
+        {
+          "id": "wendy_barrie",
+          "name": "Wendy Barrie",
+          "character": "",
+          "image": "https://resizing.flixster.com/u8ZdWM9CkuRUc_1sDM4bpWG-b2Q=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/85705_v9_ba.jpg"
+        },
+        {
+          "id": "1015699-claire_trevor",
+          "name": "Claire Trevor",
+          "character": "",
+          "image": "https://resizing.flixster.com/_LDo2PGYzdJcNCMR5R2g_U7IK2c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/13083_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dead-End/1468779?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FXMQGWQ5/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:41.616902Z"
+    },
+    {
       "id": "dorothy_2026",
       "url": "https://www.rottentomatoes.com/m/dorothy_2026",
       "category": "crime",
@@ -898,6 +2592,111 @@
       "scraped_at": "2026-10-08T06:15:37.819333Z"
     },
     {
+      "id": "dragnet1954",
+      "url": "https://www.rottentomatoes.com/m/dragnet1954",
+      "category": "crime",
+      "type": "movie",
+      "title": "Dragnet",
+      "original_title": "Dragnet",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1954,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 89,
+      "certificate": null,
+      "rating": 5.1,
+      "votes": 30,
+      "tomatometer": 43,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 67,
+      "audience_count": 11,
+      "metascore": null,
+      "plot": "Sgt. Joe Friday (Jack Webb) and Officer Frank Smith (Ben Alexander) are Los Angeles Police Department detectives, and they need every bit of skill they have to solve their latest case: the shooting death of low-end bookie Miller Starkie. While initial evidence points to gangster Max Troy (Stacy Harris) and his trigger-man, Chester Davitt, Friday and Smith have trouble getting an indictment. Only through their own tenaciousness can they make sure justice is served.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/FruOLE8Wv3R41fc2S-Ierxe6Evc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3376_p_v8_ab.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/FruOLE8Wv3R41fc2S-Ierxe6Evc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3376_p_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/LRz0Upk43Is_ktvN4OxPHN6cfyw=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3376_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BSlM1UllMjyHXrMPkOPmE7MG7vk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3376_i_h10_ac.jpg",
+          "caption": "Dragnet (1954)"
+        },
+        {
+          "url": "https://resizing.flixster.com/4C11y4PnC8q7i8BubWZ-tmC_ChE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3376_v_v7_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/uXp8neo2P_xVf7IQLexudBaXbdU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p3376_p_v8_ab.jpg",
+          "caption": "Dragnet (1954)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "jack_webb",
+          "name": "Jack Webb"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "jack_webb",
+          "name": "Jack Webb",
+          "character": "",
+          "image": "https://resizing.flixster.com/f4COcAKHQR1t-Z87-3AX5YNjTPc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/28529_v9_ba.jpg"
+        },
+        {
+          "id": "ben_alexander",
+          "name": "Ben Alexander",
+          "character": "",
+          "image": "https://resizing.flixster.com/gM021itCxE33alSwBI7CEf1b7QM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/78647_v9_ba.jpg"
+        },
+        {
+          "id": "richard_boone",
+          "name": "Richard Boone",
+          "character": "",
+          "image": "https://resizing.flixster.com/UrO3ddv_lt59Czw0fDH--9gxBkM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/80968_v9_ba.jpg"
+        },
+        {
+          "id": "ann_robinson",
+          "name": "Ann Robinson",
+          "character": "",
+          "image": "https://resizing.flixster.com/aTLRiqhwXmnjp_0DS4M87f0JvQk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/5179_v9_bb.jpg"
+        },
+        {
+          "id": "stacy_harris",
+          "name": "Stacy Harris",
+          "character": "",
+          "image": "https://resizing.flixster.com/u41bEyCgtsny6tX_-lB3GO-MH-8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/225108_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dragnet/78094?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:28.516532Z"
+    },
+    {
       "id": "drishyam_the_conclusion",
       "url": "https://www.rottentomatoes.com/m/drishyam_the_conclusion",
       "category": "crime",
@@ -1101,6 +2900,119 @@
       "scraped_at": "2026-10-08T13:43:08.884578Z"
     },
     {
+      "id": "five_star_final",
+      "url": "https://www.rottentomatoes.com/m/five_star_final",
+      "category": "crime",
+      "type": "movie",
+      "title": "Five Star Final",
+      "original_title": "Five Star Final",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1931,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 89,
+      "certificate": null,
+      "rating": 7.3,
+      "votes": 60,
+      "tomatometer": 91,
+      "tomatometer_count": 11,
+      "tomatometer_certified": false,
+      "audience_score": 80,
+      "audience_count": 17,
+      "metascore": null,
+      "plot": "To increase newsstand sales, New York Evening Gazette managing editor Joseph Randall (Edward G. Robinson) is pushed to revive a 20-year-old murder case involving Nancy Voorhees (Frances Starr), who shot the father of her child for his infidelity. Nancy is now married and happily planning the marriage of her daughter, Jenny (Marian Marsh). Randall sends unscrupulous reporter T. Vernon Isopod (Boris Karloff) inside to get the scoop, but publishing the story has disastrous consequences.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/zK53A7Fz29e-kLCiiU4x8Y6f4ps=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6829_p_v13_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/zK53A7Fz29e-kLCiiU4x8Y6f4ps=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6829_p_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/z5eguoxzkC6PVKCkHOziY7MaEbQ=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6829_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_MrnpnR29GbjpK4QrcjfezIF0eo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6829_v_v12_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NKQdvhzkGkMZJKzhaQCuR6ERHIc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6829_p_v13_aa.jpg",
+          "caption": "Five Star Final (1931)"
+        },
+        {
+          "url": "https://resizing.flixster.com/EunPKRfNGHF7IvWKd-NnrwpfTOA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6829_p_v12_aa.jpg",
+          "caption": "Five Star Final (1931)"
+        },
+        {
+          "url": "https://resizing.flixster.com/IgwTTyA3QSL8yjO7uchZIdoxig0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6829_i_h10_aa.jpg",
+          "caption": "Five Star Final (1931)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "mervyn_leroy",
+          "name": "Mervyn LeRoy"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "edward_g_robinson",
+          "name": "Edward G. Robinson",
+          "character": "",
+          "image": "https://resizing.flixster.com/klmopZ0XfjB2Kg70FHORCpjQ74I=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/18668_v9_ba.jpg"
+        },
+        {
+          "id": "hb_warner",
+          "name": "H.B. Warner",
+          "character": "",
+          "image": "https://resizing.flixster.com/xLaV9VojKHFKFl1OBJxVGNtuU6Q=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/25334_v9_ba.jpg"
+        },
+        {
+          "id": "marilyn_morgan",
+          "name": "Marian Marsh",
+          "character": "",
+          "image": "https://resizing.flixster.com/KcyI-FYm5ZHAidmKrbLcoxJQF0c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/85789_v9_ba.jpg"
+        },
+        {
+          "id": "anthony_bushell",
+          "name": "Anthony Bushell",
+          "character": "",
+          "image": "https://resizing.flixster.com/8BjJZAoL-7iGMbQE5HY_kM3Hl-g=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/153498_v9_ba.jpg"
+        },
+        {
+          "id": "george_e_stone",
+          "name": "George E. Stone",
+          "character": "",
+          "image": "https://resizing.flixster.com/r1voyHvSJdPO2NWmBm_hW7L1bvs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/23246_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B8KS9YF5/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/five-star-final-1931/umc.cmc.3jq4zw67dc2k49ttpukn8juvi?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:40.482857Z"
+    },
+    {
       "id": "fuze",
       "url": "https://www.rottentomatoes.com/m/fuze",
       "category": "crime",
@@ -1236,6 +3148,111 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-09T06:16:27.829732Z"
+    },
+    {
+      "id": "high_sierra",
+      "url": "https://www.rottentomatoes.com/m/high_sierra",
+      "category": "crime",
+      "type": "movie",
+      "title": "High Sierra",
+      "original_title": "High Sierra",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1941,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 100,
+      "certificate": null,
+      "rating": 7.7,
+      "votes": 888,
+      "tomatometer": 92,
+      "tomatometer_count": 26,
+      "tomatometer_certified": false,
+      "audience_score": 78,
+      "audience_count": 249,
+      "metascore": null,
+      "plot": "Aging mobster Big Mac (Donald MacBride) is looking to pull off one more heist before he retires. With his sights set on robbing a California casino, Big Mac breaks one of his former associates, Roy Earle (Humphrey Bogart), out of prison to mastermind the job. When the robbery goes awry, Earle is forced to go on the lam and settles for the night in the hills of the nearby Sierra Nevada. But, with the cops on his tail, Earle is soon forced to fend off the law from the mountains.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/E8UhpjX_26aBWSIHZe8TV5WVu9A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1298_p_v8_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/E8UhpjX_26aBWSIHZe8TV5WVu9A=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1298_p_v8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ErCPP2p0qXB3PtomHdFtODcLDjk=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1298_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/lp3-yCpJbKXvfvZZiAIvb5BryvQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1298_i_h10_ab.jpg",
+          "caption": "High Sierra (1941)"
+        },
+        {
+          "url": "https://resizing.flixster.com/07rCr4C_APMga9_lMXkSb4mMLOc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1298_p_v8_ac.jpg",
+          "caption": "High Sierra (1941)"
+        },
+        {
+          "url": "https://resizing.flixster.com/gBJ6fYwiPZ6JN8l6ihrOm8B0d7Q=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1298_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "raoul_walsh",
+          "name": "Raoul Walsh"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "humphrey_bogart",
+          "name": "Humphrey Bogart",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqbvIFHZxN_EbSUJCaEgfLyiWuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27198_v9_ba.jpg"
+        },
+        {
+          "id": "ida_lupino",
+          "name": "Ida Lupino",
+          "character": "",
+          "image": "https://resizing.flixster.com/yffAPgRaVmruVuUvoVrAFxnU9ik=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27384_v9_ba.jpg"
+        },
+        {
+          "id": "1003615-alan_curtis",
+          "name": "Alan Curtis",
+          "character": "",
+          "image": "https://resizing.flixster.com/te-0VRsdAinTowTlApEd3AihDik=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/2783_v9_ba.jpg"
+        },
+        {
+          "id": "arthur_kennedy",
+          "name": "Arthur Kennedy",
+          "character": "",
+          "image": "https://resizing.flixster.com/VLUZH6j3TH-ABacIHBhP30dcwkM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/6406_v9_ba.jpg"
+        },
+        {
+          "id": "joan_leslie",
+          "name": "Joan Leslie",
+          "character": "",
+          "image": "https://resizing.flixster.com/sgbMJEl3fYo9ByK2N6drJdqaxt4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/150652_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/High-Sierra/9898?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:45.535970Z"
     },
     {
       "id": "im_game",
@@ -1544,6 +3561,220 @@
       "scraped_at": "2026-10-10T12:41:00.871471Z"
     },
     {
+      "id": "key_largo",
+      "url": "https://www.rottentomatoes.com/m/key_largo",
+      "category": "crime",
+      "type": "movie",
+      "title": "Key Largo",
+      "original_title": "Key Largo",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1948,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 101,
+      "certificate": null,
+      "rating": 8.2,
+      "votes": 2439,
+      "tomatometer": 97,
+      "tomatometer_count": 36,
+      "tomatometer_certified": false,
+      "audience_score": 88,
+      "audience_count": 605,
+      "metascore": null,
+      "plot": "This classic film noir by John Huston stars Humphrey Bogart as World War II vet Frank McCloud. Visiting Key Largo to pay his respects to the family of his late war buddy, McCloud attempts to comfort his comrade's widow, Nora, and father, James Temple, who operate a hotel. But McCloud realizes that mobsters, led by the infamous Johnny Rocco, are staying in the hotel. When the criminals take over the establishment, conflict is inevitable.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/eSC9mVJBi6QGmUZImnSJ0eYo7O4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11086_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/eSC9mVJBi6QGmUZImnSJ0eYo7O4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11086_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/U0krYpRpOcVHmIR_Bk8ODFYlf-E=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11086_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PsOKDo2UYaNdOYkyZEmAX2ylUww=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11086_i_h10_ab.jpg",
+          "caption": "Key Largo (1948)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ym2L7Wbwfnz6n1a0atZnkJpr52k=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11086_p_v8_aa.jpg",
+          "caption": "Key Largo (1948)"
+        },
+        {
+          "url": "https://resizing.flixster.com/zEw8K8h-iH0cmvK02pJ9ruB6dEk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11086_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "john_huston",
+          "name": "John Huston"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "humphrey_bogart",
+          "name": "Humphrey Bogart",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqbvIFHZxN_EbSUJCaEgfLyiWuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27198_v9_ba.jpg"
+        },
+        {
+          "id": "edward_g_robinson",
+          "name": "Edward G. Robinson",
+          "character": "",
+          "image": "https://resizing.flixster.com/klmopZ0XfjB2Kg70FHORCpjQ74I=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/18668_v9_ba.jpg"
+        },
+        {
+          "id": "lauren_bacall",
+          "name": "Lauren Bacall",
+          "character": "",
+          "image": "https://resizing.flixster.com/O63CAVwGo1xnSSU19vQIQdWfF8U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/79_v9_ba.jpg"
+        },
+        {
+          "id": "lionel_barrymore",
+          "name": "Lionel Barrymore",
+          "character": "",
+          "image": "https://resizing.flixster.com/MH1zaxAZkwxmRriaPb1EbSLEX-g=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/83924_v9_ba.jpg"
+        },
+        {
+          "id": "1015699-claire_trevor",
+          "name": "Claire Trevor",
+          "character": "",
+          "image": "https://resizing.flixster.com/_LDo2PGYzdJcNCMR5R2g_U7IK2c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/13083_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Key-Largo/9314?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:48.036657Z"
+    },
+    {
+      "id": "little_caesar",
+      "url": "https://www.rottentomatoes.com/m/little_caesar",
+      "category": "crime",
+      "type": "movie",
+      "title": "Little Caesar",
+      "original_title": "Little Caesar",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1931,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 77,
+      "certificate": null,
+      "rating": 7.7,
+      "votes": 853,
+      "tomatometer": 96,
+      "tomatometer_count": 26,
+      "tomatometer_certified": false,
+      "audience_score": 75,
+      "audience_count": 250,
+      "metascore": null,
+      "plot": "An aspiring small-town criminal, Caesar \"Rico\" Bandello (Edward G. Robinson) relocates to Chicago to hit the big time, accompanied by his buddy, Joe Massara (Douglas Fairbanks Jr.). While Rico makes a name for himself in the underworld, Joe decides to leave the life of crime and ventures into show business, where he meets the lovely dancer Olga (Glenda Farrell). Though Rico and Joe try to honor their friendship, eventually their choices take them down dramatically different paths.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/049SSWMWmUcMM9EU4HhhGghteE0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p888_p_v13_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/049SSWMWmUcMM9EU4HhhGghteE0=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p888_p_v13_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gP59U-dRHaJr--bWRAPdc4pM2qQ=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p888_i_h10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/d8XHced-lH-krQVC1LQZP7z7YSc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p888_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0_9Si8AD4qgTcUJCowwgMYrJw3Y=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p888_p_v13_ac.jpg",
+          "caption": "Little Caesar (1930)"
+        },
+        {
+          "url": "https://resizing.flixster.com/wHzrXKYUsd29Zzci-m_JEVD7YYk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p888_p_v8_aa.jpg",
+          "caption": "Little Caesar (1930)"
+        },
+        {
+          "url": "https://resizing.flixster.com/DXU2G6oswIW7UIm0yKeSQmePNis=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p888_i_h10_aa.jpg",
+          "caption": "Little Caesar (1930)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "mervyn_leroy",
+          "name": "Mervyn LeRoy"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "edward_g_robinson",
+          "name": "Edward G. Robinson",
+          "character": "",
+          "image": "https://resizing.flixster.com/klmopZ0XfjB2Kg70FHORCpjQ74I=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/18668_v9_ba.jpg"
+        },
+        {
+          "id": "douglas_fairbanks_jr",
+          "name": "Douglas Fairbanks Jr.",
+          "character": "",
+          "image": "https://resizing.flixster.com/y1gavGphwdqIVhJY-7bJMcJGGQA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/150060_v9_ba.jpg"
+        },
+        {
+          "id": "glenda_farrell",
+          "name": "Glenda Farrell",
+          "character": "",
+          "image": "https://resizing.flixster.com/1CT_bTbpx4WZW6dR4GmbL925mc8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77763_v9_ba.jpg"
+        },
+        {
+          "id": "stanley_fields",
+          "name": "Stanley Fields",
+          "character": "",
+          "image": "https://resizing.flixster.com/_LRar99RLAcuopF9ZIPzcWLGyYo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76561_v9_aa.jpg"
+        },
+        {
+          "id": "sidney_blackmer",
+          "name": "Sidney Blackmer",
+          "character": "",
+          "image": "https://resizing.flixster.com/n3uHvp-050eIQ0PeKuOd-kTKSvQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/81398_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Little-Caesar/10182?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:37.472180Z"
+    },
+    {
       "id": "lost_in_the_sun_2015",
       "url": "https://www.rottentomatoes.com/m/lost_in_the_sun_2015",
       "category": "crime",
@@ -1668,6 +3899,115 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-11T05:59:11.126486Z"
+    },
+    {
+      "id": "marked_woman",
+      "url": "https://www.rottentomatoes.com/m/marked_woman",
+      "category": "crime",
+      "type": "movie",
+      "title": "Marked Woman",
+      "original_title": "Marked Woman",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1937,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 96,
+      "certificate": null,
+      "rating": 6.5,
+      "votes": 193,
+      "tomatometer": 100,
+      "tomatometer_count": 5,
+      "tomatometer_certified": false,
+      "audience_score": 71,
+      "audience_count": 59,
+      "metascore": null,
+      "plot": "Fiery nightclub dame Mary Dwight Strauber (Bette Davis) witnesses a murder at the Club Intime, but is terrified to testify against her slimy boss, notorious mobster Johnny Vanning (Eduardo Ciannelli). When Mary's innocent sister, Betty (Jane Bryan), gets mixed up in Vanning's racket and winds up dead, Mary finally yields to pressure from the District Attorney (Humphrey Bogart) and agrees to testify against Vanning in court, regardless of the death threats she receives from his henchmen.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/77VPkYl-XwOhHVfE8M69Bb7a5Ow=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p637_p_v10_ac.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/77VPkYl-XwOhHVfE8M69Bb7a5Ow=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p637_p_v10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/DM7hzv2Qt7DfsUH0qcu4ytLk0fg=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p637_i_h8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/IlUHhIt_uRLvNIm8iOi43GwyABs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p637_p_v10_ac.jpg",
+          "caption": "Marked Woman (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/M42YYLKTz0x1u-X90ctax7DqWE4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p637_p_v11_ac.jpg",
+          "caption": "Marked Woman (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/vTeLasc0wqzS8EbQLhtfRMInzjk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p637_i_h8_ab.jpg",
+          "caption": "Marked Woman (1937)"
+        },
+        {
+          "url": "https://resizing.flixster.com/6TcOs8P9gH_tV-TRm8cQk3mALrc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p637_v_v8_ae.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "lloyd_bacon",
+          "name": "Lloyd Bacon"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "bette_davis",
+          "name": "Bette Davis",
+          "character": "",
+          "image": "https://resizing.flixster.com/o2wB3mYoswMnyjFO7KwEEKL8PNI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72156_v9_ba.jpg"
+        },
+        {
+          "id": "humphrey_bogart",
+          "name": "Humphrey Bogart",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqbvIFHZxN_EbSUJCaEgfLyiWuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27198_v9_ba.jpg"
+        },
+        {
+          "id": "lola_lane",
+          "name": "Lola Lane",
+          "character": "",
+          "image": "https://resizing.flixster.com/7k0SeYCL-AccRztuN850MLIjTAg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/85801_v9_ba.jpg"
+        },
+        {
+          "id": "jane_bryan",
+          "name": "Jane Bryan",
+          "character": "",
+          "image": "https://resizing.flixster.com/9cpOf4aEAjumYSLhCVOPoQrVCBE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75339_v9_ba.jpg"
+        },
+        {
+          "id": "eduardo_ciannelli",
+          "name": "Eduardo Ciannelli",
+          "character": "",
+          "image": "https://resizing.flixster.com/dcdOXSSJiACTJePtBel-mDZRsSo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/18568_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Marked-Woman/10701?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:19.766532Z"
     },
     {
       "id": "mirzapur_the_movie",
@@ -2286,6 +4626,111 @@
       "scraped_at": "2026-09-29T05:48:02.942044Z"
     },
     {
+      "id": "pandoras_box",
+      "url": "https://www.rottentomatoes.com/m/pandoras_box",
+      "category": "crime",
+      "type": "movie",
+      "title": "Pandora's Box",
+      "original_title": "Pandora's Box",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "year": 1929,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 110,
+      "certificate": null,
+      "rating": 8.9,
+      "votes": 1014,
+      "tomatometer": 93,
+      "tomatometer_count": 45,
+      "tomatometer_certified": true,
+      "audience_score": 86,
+      "audience_count": 307,
+      "metascore": null,
+      "plot": "In this acclaimed German silent film, Lulu (Louise Brooks) is a young woman so beautiful and alluring that few can resist her siren charms. The men drawn into her web include respectable newspaper publisher Dr. Ludwig Schön (Fritz Kortner), his musical producer son Alwa (Franz Lederer), circus performer Rodrigo Quast (Krafft-Raschig) and Lulu's seedy old friend, Schigolch (Carl Goetz). When Lulu's charms inevitably lead to tragedy, the downward spiral encompasses them all.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/D1-9SygrnxfOhGjPsDEv2mha504=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7513_p_v8_ad.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/D1-9SygrnxfOhGjPsDEv2mha504=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7513_p_v8_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HBEbIE-0-0r_ssxYlpJDpQGx4fs=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7513_i_h10_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NoMuvtdZJ8omuQZ2QVxfAH1oLns=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7513_p_v8_ad.jpg",
+          "caption": "Pandora's Box (1929)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Xc_XfLCGSc9XWNzlMcLmiKd79hQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7513_i_h10_ad.jpg",
+          "caption": "Pandora's Box (1929)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "gw_pabst",
+          "name": "Georg Wilhelm Pabst"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "louise_brooks",
+          "name": "Louise Brooks",
+          "character": "",
+          "image": "https://resizing.flixster.com/X_NiJ8pJfiHc8Gwk5xyU3hDP41c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76409_v9_ba.jpg"
+        },
+        {
+          "id": "fritz_kortner",
+          "name": "Fritz Kortner",
+          "character": "",
+          "image": "https://resizing.flixster.com/3CrYfiHHnNkiDhx0Fewscm7RLI0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/160062_v9_ba.jpg"
+        },
+        {
+          "id": "francis_lederer",
+          "name": "Francis Lederer",
+          "character": "",
+          "image": "https://resizing.flixster.com/EHl0i-9Y8n0ArE9_cYgmkKRCGs8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/217926_v9_ba.jpg"
+        },
+        {
+          "id": "carl_goetz",
+          "name": "Carl Goetz",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "alice_roberts_2",
+          "name": "Alice Roberts",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Pandoras-Box/3550052?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:22.313523Z"
+    },
+    {
       "id": "pilgrims",
       "url": "https://www.rottentomatoes.com/m/pilgrims",
       "category": "crime",
@@ -2591,6 +5036,220 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-08T23:32:19.636150Z"
+    },
+    {
+      "id": "raffles",
+      "url": "https://www.rottentomatoes.com/m/raffles",
+      "category": "crime",
+      "type": "movie",
+      "title": "Raffles",
+      "original_title": "Raffles",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1930,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 72,
+      "certificate": null,
+      "rating": 7.0,
+      "votes": 26,
+      "tomatometer": 60,
+      "tomatometer_count": 5,
+      "tomatometer_certified": false,
+      "audience_score": 50,
+      "audience_count": 7,
+      "metascore": null,
+      "plot": "An infamous jewel thief in England known as \"The Amateur Cracksman\" is none other than the gentleman A.J. Raffles (Ronald Colman). When Raffles falls in love with a respectable lady (Kay Francis), he decides to forgo his life of crime for her. But when his friend Bunny (Bramwell Fletcher) is deep in debt and desperate for help, Raffles agrees to one last job. Once the plan is set, the heist meets complications with the arrival of an inspector (David Torrence) and a rival thief (John Rogers).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/wLXAFSAefF-D_sZnAO-BH37i1IU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p49511_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/wLXAFSAefF-D_sZnAO-BH37i1IU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p49511_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4RgxliPZNRhsXIIwAb_foveuSgc=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p49511_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/7hkz-THimt4HGjvCOiT8F1Du29E=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p49511_p_v8_aa.jpg",
+          "caption": "Raffles (1930)"
+        },
+        {
+          "url": "https://resizing.flixster.com/4cXR4l83SzefIx9Xeisb09APXks=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p49511_v_v12_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FfX7CLqbMIp-ixWsfP1jyjJy3tc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p49511_i_h10_ac.jpg",
+          "caption": "Raffles (1930)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "george_fitzmaurice",
+          "name": "George Fitzmaurice"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "ronald_colman",
+          "name": "Ronald Colman",
+          "character": "",
+          "image": "https://resizing.flixster.com/daiJybe3RdtyY2_cqBXmUAetRps=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/97601_v9_ba.jpg"
+        },
+        {
+          "id": "kay_francis",
+          "name": "Kay Francis",
+          "character": "",
+          "image": "https://resizing.flixster.com/0pnCoiY9gh3KgSog4KAo6eo01Qo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/76209_v9_ba.jpg"
+        },
+        {
+          "id": "bramwell-fletcher",
+          "name": "Bramwell Fletcher",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "frances_dade",
+          "name": "Frances Dade",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "david_torrence",
+          "name": "David Torrence",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GC4LN28B/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:01.981895Z"
+    },
+    {
+      "id": "roaring_twenties",
+      "url": "https://www.rottentomatoes.com/m/roaring_twenties",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Roaring Twenties",
+      "original_title": "The Roaring Twenties",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1939,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 104,
+      "certificate": null,
+      "rating": 7.7,
+      "votes": 837,
+      "tomatometer": 100,
+      "tomatometer_count": 19,
+      "tomatometer_certified": false,
+      "audience_score": 89,
+      "audience_count": 222,
+      "metascore": null,
+      "plot": "After World War I, friends Eddie (James Cagney), George (Humphrey Bogart) and Lloyd (Jeffrey Lynn) return to America with ambitions for the future. Lloyd becomes a lawyer, but Eddie can only find work as a cab driver and eventually falls into the bootlegging business. Eddie and George become partners in crime, but the stock market crash destroys their operation and turns the old friends against each other, while Eddie falls in love with Lloyd's girlfriend, Jean (Priscilla Lane).",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/upTYAEUzt8pJkXNo3Sw87YEJvh8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p650_p_v10_as.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/upTYAEUzt8pJkXNo3Sw87YEJvh8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p650_p_v10_as.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Bim6f2qolMTEB5dvhtEVSuV2OM8=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p650_i_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/lSTpC8d8b-vMI1Q9RUCYg2cQlyA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p650_v_v8_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ssfcceJl-wxy5nsCW19fKCqxJSU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p650_i_h10_ac.jpg",
+          "caption": "The Roaring Twenties (1939)"
+        },
+        {
+          "url": "https://resizing.flixster.com/am3WEA6NeyuGDoujk3uesH00zQw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p650_p_v10_as.jpg",
+          "caption": "The Roaring Twenties (1939)"
+        },
+        {
+          "url": "https://resizing.flixster.com/w2XyRwccM9_jw_g3hzUbQCSEc7w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p650_p_v8_aa.jpg",
+          "caption": "The Roaring Twenties (1939)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "raoul_walsh",
+          "name": "Raoul Walsh"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "james_cagney",
+          "name": "James Cagney",
+          "character": "",
+          "image": "https://resizing.flixster.com/qvLoH2Ah7HvbzWdbqGlGV0xxk1w=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/71929_v9_ba.jpg"
+        },
+        {
+          "id": "humphrey_bogart",
+          "name": "Humphrey Bogart",
+          "character": "",
+          "image": "https://resizing.flixster.com/SqbvIFHZxN_EbSUJCaEgfLyiWuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/27198_v9_ba.jpg"
+        },
+        {
+          "id": "priscilla_lane",
+          "name": "Priscilla Lane",
+          "character": "",
+          "image": "https://resizing.flixster.com/Bc8EimPH2Cwi3Y5pVgEdSGc5IMM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/52374_v9_ba.jpg"
+        },
+        {
+          "id": "gladys_george",
+          "name": "Gladys George",
+          "character": "",
+          "image": "https://resizing.flixster.com/FNFWftTHI-IwXYYjXIz_ZHAq87c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75180_v9_ba.jpg"
+        },
+        {
+          "id": "jeffrey_lynn",
+          "name": "Jeffrey Lynn",
+          "character": "",
+          "image": "https://resizing.flixster.com/nAfU6QxWmZr474KbOFQKIBCsnOM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77410_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Roaring-Twenties/10185?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:13:45.177356Z"
     },
     {
       "id": "sunrise_2014",
@@ -3315,6 +5974,110 @@
       "scraped_at": "2026-10-09T06:20:53.202931Z"
     },
     {
+      "id": "the_racket_1928",
+      "url": "https://www.rottentomatoes.com/m/the_racket_1928",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Racket",
+      "original_title": "The Racket",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "year": 1928,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 70,
+      "certificate": null,
+      "rating": 7.0,
+      "votes": 63,
+      "tomatometer": 100,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 68,
+      "audience_count": 19,
+      "metascore": null,
+      "plot": "In this Prohibition-era silent film, James McQuigg (Thomas Meighan) is an honest police captain in a city ruled by gangsters and corrupt politicians. McQuigg tries repeatedly to arrest Nick Scarsi (Louis Wolheim), a bootlegging kingpin, but can't get charges to stick. After rejecting Scarsi's bribes, the incorruptible McQuigg is transferred out of town, but refuses to be intimidated. When Scarsi's younger brother is caught in a hit-and-run, McQuigg attempts to take down the criminal underworld.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/NGEo3kUXgVhhWKJnq_sIvNEGz_g=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p85776_p_v10_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/NGEo3kUXgVhhWKJnq_sIvNEGz_g=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p85776_p_v10_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/g_C8s8A1EL_9yTV7--r95y5_4xg=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p85776_i_h8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/8zJwbXX1tF_6LhOZN_IXKdbUu48=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p85776_p_v10_aa.jpg",
+          "caption": "The Racket (1928)"
+        },
+        {
+          "url": "https://resizing.flixster.com/sc4PvB-nXOD2iu2SaMt7ESFISyU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p85776_p_v8_aa.jpg",
+          "caption": "The Racket (1928)"
+        },
+        {
+          "url": "https://resizing.flixster.com/82XXV7f7GBpwDmtzt-cKuLO7Mi0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p85776_i_h8_aa.jpg",
+          "caption": "The Racket (1928)"
+        },
+        {
+          "url": "https://resizing.flixster.com/RFgY4bpRTBK8PgS3wwcdIA-hAZQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p85776_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "lewis_milestone",
+          "name": "Lewis Milestone"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "thomas_meighan",
+          "name": "Thomas Meighan",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "marie_prevost",
+          "name": "Marie Prevost",
+          "character": "",
+          "image": "https://resizing.flixster.com/1arD7i1ybwJZ4LJInc1quWoEU-U=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/97268_v9_ba.jpg"
+        },
+        {
+          "id": "louis_wolheim",
+          "name": "Louis Wolheim",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "george_stone",
+          "name": "George Stone",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "john_darrow",
+          "name": "John Darrow",
+          "character": "",
+          "image": "https://resizing.flixster.com/jsYQgiQ5GQuIpY-MDao3Z_B9Fg0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/111583_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:12:59.295736Z"
+    },
+    {
       "id": "the_whisper_man",
       "url": "https://www.rottentomatoes.com/m/the_whisper_man",
       "category": "crime",
@@ -3445,6 +6208,136 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-02T22:23:26.814126Z"
+    },
+    {
+      "id": "touch_of_evil",
+      "url": "https://www.rottentomatoes.com/m/touch_of_evil",
+      "category": "crime",
+      "type": "movie",
+      "title": "Touch of Evil",
+      "original_title": "Touch of Evil",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "year": 1958,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 95,
+      "certificate": null,
+      "rating": 9.4,
+      "votes": 6122,
+      "tomatometer": 96,
+      "tomatometer_count": 85,
+      "tomatometer_certified": true,
+      "audience_score": 92,
+      "audience_count": 1685,
+      "metascore": null,
+      "plot": "When a car bomb explodes on the American side of the U.S./Mexico border, Mexican drug enforcement agent Miguel Vargas (Charlton Heston) begins his investigation, along with American police captain Hank Quinlan (Orson Welles). When Vargas begins to suspect that Quinlan and his shady partner, Menzies (Joseph Calleia), are planting evidence to frame an innocent man, his investigations into their possible corruption quickly put himself and his new bride, Susie (Janet Leigh), in jeopardy.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/u7Fmf6lGz_FRVmX41nOfaMjUwqM=/300x450/v2/https://resizing.flixster.com/uVJY0soWQZExrt3WsubXDjUHLmg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3OTVlMWNkLTQ0ZDYtNDRjNi1hY2M4LTNhOGRjNWE4NGRmMC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/u7Fmf6lGz_FRVmX41nOfaMjUwqM=/300x450/v2/https://resizing.flixster.com/uVJY0soWQZExrt3WsubXDjUHLmg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3OTVlMWNkLTQ0ZDYtNDRjNi1hY2M4LTNhOGRjNWE4NGRmMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/73LcaFCxDfc6pHZpYOHpm8SzxuU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1181_i_h11_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/9fBL7oYw_Moivou-TnA9MAzUKUk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1181_k_h9_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4-iSqnqv4gRRosGlxB8GOTT4OcM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1181_k_v9_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/2IBRIwTSxghOy4zg8a6ZkJYmQTo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1181_k_v8_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_7o-xzxG0_CHymjeXg8yLKWmRHE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1181_k_h10_ac.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/YrNoWC9voN2NO8fRuX5j4GV2fVo=/fit-in/705x460/v2/https://resizing.flixster.com/uVJY0soWQZExrt3WsubXDjUHLmg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3OTVlMWNkLTQ0ZDYtNDRjNi1hY2M4LTNhOGRjNWE4NGRmMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/AK8SFkZzKpuiL5BQA66mxNyR1is=/fit-in/705x460/v2/https://resizing.flixster.com/su66vWPB4CXD2hqUNZKyHYF4VYo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M4NzAyYTgxLTM5ZTUtNDRlZi1hNTA5LTNiMjBmM2ZhNTA5MC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/8YpZVii7eg47HjKCm4NnrFHwUoc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1181_p_v8_ag.jpg",
+          "caption": "Touch of Evil (1958)"
+        },
+        {
+          "url": "https://resizing.flixster.com/KLLLqULMb1NPiCm6gCeje6Uuc4o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1181_i_h6_ac.jpg",
+          "caption": "Touch of Evil (1958)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "orson_welles",
+          "name": "Orson Welles"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "charlton_heston",
+          "name": "Charlton Heston",
+          "character": "",
+          "image": "https://resizing.flixster.com/VbYU_c915V_YrF0Mtv-doJ_gIx4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/773_v9_bb.jpg"
+        },
+        {
+          "id": "orson_welles",
+          "name": "Orson Welles",
+          "character": "",
+          "image": "https://resizing.flixster.com/tY8QmkCaWFlf_h8xKrXvl_lB1hM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/49256_v9_ba.jpg"
+        },
+        {
+          "id": "janet_leigh",
+          "name": "Janet Leigh",
+          "character": "",
+          "image": "https://resizing.flixster.com/M8pyJcQkZlicF_TErOtcl6k4dQQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/29719_v9_ba.jpg"
+        },
+        {
+          "id": "joseph_calleia",
+          "name": "Joseph Calleia",
+          "character": "",
+          "image": "https://resizing.flixster.com/w9HFdK8o1tn6GhaZ21eWF4TSiUM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77500_v9_ba.jpg"
+        },
+        {
+          "id": "akim_tamiroff",
+          "name": "Akim Tamiroff",
+          "character": "",
+          "image": "https://resizing.flixster.com/IVEZ_Qbsdk4172HYCZtSzpr8Dcc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/2570_v9_ba.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Touch-of-Evil/5048?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B8M8TZFC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T06:14:15.723698Z"
     },
     {
       "id": "udta_punjab",

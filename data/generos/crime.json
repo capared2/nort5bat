@@ -1,7 +1,7 @@
 {
   "genre": "crime",
   "name": "Crime",
-  "count": 1288,
+  "count": 1415,
   "titles": [
     {
       "id": "law_abiding_citizen",
@@ -913,7 +913,7 @@
         "Drama"
       ],
       "rating": 5.9,
-      "votes": 50646,
+      "votes": 50647,
       "tomatometer": 56,
       "audience_score": 76,
       "runtime_minutes": 121,
@@ -1768,7 +1768,7 @@
         "Drama"
       ],
       "rating": 8.1,
-      "votes": 27959,
+      "votes": 27965,
       "tomatometer": 89,
       "audience_score": 89,
       "runtime_minutes": 137,
@@ -2549,7 +2549,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.4,
-      "votes": 19449,
+      "votes": 19452,
       "tomatometer": 23,
       "audience_score": 57,
       "runtime_minutes": 130,
@@ -4034,6 +4034,29 @@
       ]
     },
     {
+      "id": "1013139-maltese_falcon",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Maltese Falcon",
+      "original_title": "The Maltese Falcon",
+      "year": null,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.5,
+      "votes": 11127,
+      "tomatometer": 99,
+      "audience_score": 91,
+      "runtime_minutes": 100,
+      "certificate": "In Theaters Dec 6",
+      "poster": "https://resizing.flixster.com/VTL5pTzx02fqXbUqaQGQd_QfrrY=/300x450/v2/https://resizing.flixster.com/NdwdVw1-qSzkehA3n0uyFF5QsY8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk5NWJmZGE4LTE4OGEtNDg0Ny1iNDYyLWNhMTZmMzc0YzUwOS5qcGc=",
+      "plot": "In this noir classic, detective Sam Spade (Humphrey Bogart) gets more than he bargained for when he takes a case brought to him by a beautiful but secretive woman (Mary Astor). As soon as Miss…",
+      "directors": [
+        "John Huston"
+      ]
+    },
+    {
       "id": "wall_street",
       "category": "crime",
       "type": "movie",
@@ -4236,7 +4259,7 @@
         "Drama"
       ],
       "rating": 6.1,
-      "votes": 10206,
+      "votes": 10208,
       "tomatometer": 60,
       "audience_score": 54,
       "runtime_minutes": 114,
@@ -4262,7 +4285,7 @@
         "Drama"
       ],
       "rating": 5.8,
-      "votes": 10154,
+      "votes": 10156,
       "tomatometer": 66,
       "audience_score": 66,
       "runtime_minutes": 96,
@@ -4470,6 +4493,29 @@
       ]
     },
     {
+      "id": "400_blows",
+      "category": "crime",
+      "type": "movie",
+      "title": "The 400 Blows",
+      "original_title": "The 400 Blows",
+      "year": 1959,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.7,
+      "votes": 9465,
+      "tomatometer": 99,
+      "audience_score": 94,
+      "runtime_minutes": 93,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/nkq9VzZNwS09O3NlVU3yIvKHrEM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13700_p_v13_ac.jpg",
+      "plot": "For young Parisian boy Antoine Doinel (Jean-Pierre Léaud), life is one difficult situation after another. Surrounded by inconsiderate adults, including his neglectful parents (Claire Maurier, Albert…",
+      "directors": [
+        "François Truffaut"
+      ]
+    },
+    {
       "id": "secret_in_their_eyes",
       "category": "crime",
       "type": "movie",
@@ -4491,6 +4537,29 @@
       "plot": "Hoping to put to rest years of unease concerning a past case, retired criminal investigator Benjamín Espósito begins writing a novel based on the decades-old unsolved mystery of a newlywed's rape and…",
       "directors": [
         "Juan José Campanella"
+      ]
+    },
+    {
+      "id": "breathless",
+      "category": "crime",
+      "type": "movie",
+      "title": "Breathless",
+      "original_title": "Breathless",
+      "year": 1961,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.9,
+      "votes": 9455,
+      "tomatometer": 95,
+      "audience_score": 89,
+      "runtime_minutes": 90,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/u5KeJg9xSO_z3lomjHCpCguAB3o=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6906_p_v10_aq.jpg",
+      "plot": "Petty thug Michel (Jean-Paul Belmondo) considers himself a suave bad guy in the manner of Humphrey Bogart, but panics and impulsively kills a policeman while driving a stolen car. On the lam, he…",
+      "directors": [
+        "Jean-Luc Godard"
       ]
     },
     {
@@ -4805,78 +4874,6 @@
       "plot": "Rising gangland player Victor (Colin Farrell) infiltrates the criminal empire run by Alphonse (Terrence Howard), but his aim is not to accumulate prestige and power. Instead, Victor's mission is to…",
       "directors": [
         "Niels Arden Oplev"
-      ]
-    },
-    {
-      "id": "blackkklansman",
-      "category": "crime",
-      "type": "movie",
-      "title": "BlacKkKlansman",
-      "original_title": "BlacKkKlansman",
-      "year": 2018,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
-      ],
-      "rating": 8.3,
-      "votes": 8584,
-      "tomatometer": 95,
-      "audience_score": 83,
-      "runtime_minutes": 134,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Kelk-ENSwKAhLuOhwNvLRDESkVs=/300x450/v2/https://resizing.flixster.com/KoCmKfVhBorDKVtN-DRHCOuJOY8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiOWE0ZDFlLTAwMTctNGJlZS05OWYyLTU1NWQ3ZDk3OWUxZS53ZWJw",
-      "plot": "Ron Stallworth is the first African-American detective to serve in the Colorado Springs Police Department. Determined to make a name for himself, Stallworth bravely sets out on a dangerous mission:…",
-      "directors": [
-        "Spike Lee"
-      ]
-    },
-    {
-      "id": "hustle_and_flow",
-      "category": "crime",
-      "type": "movie",
-      "title": "Hustle & Flow",
-      "original_title": "Hustle & Flow",
-      "year": 2005,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Music"
-      ],
-      "rating": 7.5,
-      "votes": 8577,
-      "tomatometer": 83,
-      "audience_score": 83,
-      "runtime_minutes": 115,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/-XVgm1NAMOeGzcPCNIgaSQbRTB8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p88695_p_v11_aj.jpg",
-      "plot": "DJay is a pimp living day to day on the tough streets of Memphis, Tennessee. Pushing 40, he's tired of the life he's living and dreams of something greater. When he meets up with an old friend who is…",
-      "directors": [
-        "Craig Brewer"
-      ]
-    },
-    {
-      "id": "basketball_diaries",
-      "category": "crime",
-      "type": "movie",
-      "title": "The Basketball Diaries",
-      "original_title": "The Basketball Diaries",
-      "year": 1995,
-      "genres": [
-        "Drama",
-        "Crime",
-        "Biography"
-      ],
-      "rating": 5.5,
-      "votes": 8501,
-      "tomatometer": 46,
-      "audience_score": 76,
-      "runtime_minutes": 102,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/z9taz-W5Ad68koX8oWhqSckBrow=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16454_p_v8_ag.jpg",
-      "plot": "Jim Carroll (Leonardo DiCaprio) is consumed by his life as a high school basketball star. Pressured by a wicked coach (Bruno Kirby) and a concerned mother (Lorraine Bracco), Jim develops an appetite…",
-      "directors": [
-        "Scott Kalvert"
       ]
     }
   ]
