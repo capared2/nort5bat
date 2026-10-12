@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 28,
   "count": 60,
-  "updated_at": "2026-10-12T06:10:37.232620Z",
+  "updated_at": "2026-10-12T15:39:30.036112Z",
   "titles": [
     {
       "id": "1002205-betrayed",
@@ -4201,7 +4201,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:10:25.983399Z"
+      "scraped_at": "2026-10-12T15:36:14.924510Z"
     },
     {
       "id": "nightcomers",
@@ -4301,10 +4301,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/the-nightcomers--1075711?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T23:22:05.130102Z"
+      "scraped_at": "2026-10-12T15:38:25.861708Z"
     },
     {
       "id": "pacific_heights",

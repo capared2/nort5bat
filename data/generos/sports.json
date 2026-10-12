@@ -1,7 +1,7 @@
 {
   "genre": "sports",
   "name": "Sports",
-  "count": 66,
+  "count": 67,
   "titles": [
     {
       "id": "happy_gilmore",
@@ -1539,6 +1539,27 @@
       "directors": [
         "Greg Browning"
       ]
+    },
+    {
+      "id": "ufc_333_volkanovski_vs_evloev",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 333: Volkanovski vs. Evloev",
+      "original_title": "UFC 333: Volkanovski vs. Evloev",
+      "year": null,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": null,
+      "certificate": "In Theaters Oct 24",
+      "poster": "https://resizing.flixster.com/P-vu4egfI2EVlvk54936s9qj03A=/300x450/v2/https://resizing.flixster.com/RaA_8OckTMYDMH72IxyF9bJ2rbA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1OGU1N2M4LTkyZDQtNDJiNi1iMzYyLTMyYzNhZGZmYjQ4OS5qcGc=",
+      "plot": "",
+      "directors": []
     }
   ]
 }

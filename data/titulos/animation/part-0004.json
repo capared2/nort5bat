@@ -2,7 +2,7 @@
   "genre": "animation",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-10-12T06:05:54.532410Z",
+  "updated_at": "2026-10-12T15:39:30.860005Z",
   "titles": [
     {
       "id": "1017699-robin_hood",
@@ -3285,12 +3285,12 @@
       "runtime_minutes": 101,
       "certificate": "PG",
       "rating": 7.9,
-      "votes": 3425,
+      "votes": 3428,
       "tomatometer": 92,
       "tomatometer_count": 103,
       "tomatometer_certified": true,
       "audience_score": 90,
-      "audience_count": 391,
+      "audience_count": 383,
       "metascore": null,
       "plot": "When Ballister Boldheart (Riz Ahmed), a knight in a futuristic medieval world, is framed for a crime he didn't commit, the only one who can help him prove his innocence is Nimona (Chloë Grace Moretz), a mischievous teen with a taste for mayhem -- who also happens to be a shapeshifting creature Ballister has been trained to destroy. But with the entire kingdom out to get him, Nimona's the best (or technically the only) sidekick Ballister can hope for. And as the lines between heroes, villains, and monsters start to blur, the two of them set out to wreak serious havoc -- for Ballister to clear his name once and for all, and for Nimona to... just wreak serious havoc.",
       "tagline": "",
@@ -3370,7 +3370,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T23:22:19.840580Z"
+      "scraped_at": "2026-10-12T15:38:40.616910Z"
     },
     {
       "id": "ninja-scroll",
@@ -3383,18 +3383,18 @@
         "Action",
         "Animation"
       ],
-      "year": null,
+      "year": 1996,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 90,
-      "certificate": "In Theaters Oct 4",
+      "certificate": null,
       "rating": 7.3,
-      "votes": 6743,
+      "votes": 6782,
       "tomatometer": 90,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
       "audience_score": 89,
-      "audience_count": 2211,
+      "audience_count": 2219,
       "metascore": null,
       "plot": "In this anime film, Jubei, a highly skilled ninja, is coerced into slaying his own clan of warriors. After begrudgingly killing his fellow swordsmen, he becomes a roving hired assassin. During his travels, he must face off against an organization of demonic ninjas known as the Devils of Kimon, who are plotting to take power of Japan's government. The Devils will stop at nothing, and have the power to annihilate entire villages. Now, only Jubei and a shogun spy named Dakuan can stop them.",
       "tagline": "",
@@ -3440,10 +3440,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Ninja-Scroll/1160761?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-28T23:22:29.073024Z"
+      "scraped_at": "2026-10-12T15:38:50.636613Z"
     },
     {
       "id": "oliver_and_company",

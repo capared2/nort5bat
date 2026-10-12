@@ -1,9 +1,88 @@
 {
   "genre": "comedy",
   "part": 53,
-  "count": 33,
-  "updated_at": "2026-10-11T22:09:37.836659Z",
+  "count": 35,
+  "updated_at": "2026-10-12T15:42:24.653164Z",
   "titles": [
+    {
+      "id": "ali_g_who_iz_i",
+      "url": "https://www.rottentomatoes.com/m/ali_g_who_iz_i",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Ali G: Who Iz I?",
+      "original_title": "Ali G: Who Iz I?",
+      "genres": [
+        "Comedy"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 100,
+      "certificate": "R",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory... but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/5Al4HuPgViykHsHjQFsOEUx6OYA=/300x450/v2/https://resizing.flixster.com/jLlKtZinFnzlqG1rod2WEEzZUAQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQxODNlMzNjLTA3YmUtNGVmZC1iZjI2LTg5YTEwNzk5NjlkNC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/5Al4HuPgViykHsHjQFsOEUx6OYA=/300x450/v2/https://resizing.flixster.com/jLlKtZinFnzlqG1rod2WEEzZUAQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQxODNlMzNjLTA3YmUtNGVmZC1iZjI2LTg5YTEwNzk5NjlkNC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/4KzXXJLAXqTpCJINbSWG9eAF_cI=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/979/527/thumb_C0941732-92E4-4AC9-AFBB-49D66916BD54.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/PZQv-f1MtHO6OZvN_GwT4-wn3GI=/fit-in/705x460/v2/https://resizing.flixster.com/jLlKtZinFnzlqG1rod2WEEzZUAQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQxODNlMzNjLTA3YmUtNGVmZC1iZjI2LTg5YTEwNzk5NjlkNC5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "RIVjOYAO67te",
+        "title": "Ali G: Who Iz I?: Trailer 2",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/979/527/thumb_C0941732-92E4-4AC9-AFBB-49D66916BD54.jpg",
+        "seconds": 128,
+        "src": "https://link.theplatform.com/s/NGweTC/media/RIVjOYAO67te?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "sacha_baron_cohen",
+          "name": "Sacha Baron Cohen"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "sacha_baron_cohen",
+          "name": "Sacha Baron Cohen",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ipeg9jYnAeJi5zFkkkUIMc-hh7g=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG00325BS8.jpg"
+        },
+        {
+          "id": "morgana_robinson",
+          "name": "Morgana Robinson",
+          "character": "",
+          "image": "https://resizing.flixster.com/jux9YTwWr7TYQmmG4NYzoSX8KH8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/635966_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T15:41:53.589285Z"
+    },
     {
       "id": "american_summer_2026",
       "url": "https://www.rottentomatoes.com/m/american_summer_2026",
@@ -3869,6 +3948,77 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-05T14:56:05.854151Z"
+    },
+    {
+      "id": "udta_teer",
+      "url": "https://www.rottentomatoes.com/m/udta_teer",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Udta Teer",
+      "original_title": "Udta Teer",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 144,
+      "certificate": "In Theaters Oct 23",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/VksN_zv1HsTj51bs2Poc4X031Mo=/300x450/v2/https://resizing.flixster.com/tP8UNlnV5rGuJKJR9L4hhggv_1I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmMGYzMGI3LTBlNGItNDYyZS1hMjFmLWFiYWVhNDhlOTgzMS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/VksN_zv1HsTj51bs2Poc4X031Mo=/300x450/v2/https://resizing.flixster.com/tP8UNlnV5rGuJKJR9L4hhggv_1I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmMGYzMGI3LTBlNGItNDYyZS1hMjFmLWFiYWVhNDhlOTgzMS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/MNpUUPq0kPV-PfsDUnWsR1aBtB4=/fit-in/705x460/v2/https://resizing.flixster.com/tP8UNlnV5rGuJKJR9L4hhggv_1I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmMGYzMGI3LTBlNGItNDYyZS1hMjFmLWFiYWVhNDhlOTgzMS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "aakash_kaushik",
+          "name": "Aakash Kaushik"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "ayushman_khurana",
+          "name": "Ayushmann Khurrana",
+          "character": "",
+          "image": "https://resizing.flixster.com/4RBxHVK7sZ806Hn6zuYODUJfdPA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/663432_v9_ba.jpg"
+        },
+        {
+          "id": "sara_ali_khan",
+          "name": "Sara Ali Khan",
+          "character": "",
+          "image": "https://resizing.flixster.com/cJUPQDprQwXBOvZNyEWTv9Q3PuE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1208870_v9_aa.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-12T15:42:03.715097Z"
     },
     {
       "id": "vampires_suck",
