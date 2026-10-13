@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 48,
   "count": 60,
-  "updated_at": "2026-10-13T14:25:06.336871Z",
+  "updated_at": "2026-10-13T22:54:47.566704Z",
   "titles": [
     {
       "id": "1096098-la_cucaracha",
@@ -4342,7 +4342,7 @@
       "runtime_minutes": 125,
       "certificate": "PG",
       "rating": 9.1,
-      "votes": 3920,
+      "votes": 3923,
       "tomatometer": 97,
       "tomatometer_count": 30,
       "tomatometer_certified": false,
@@ -4358,7 +4358,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/dQCQx5328S9CzXsgl2M9plo9fbw=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14726_i_h10_ac.jpg",
+          "url": "https://resizing.flixster.com/VTHe5nCn8Ujm9v99BUEKfir6tac=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/166/38/thumb_F2C2E7F9-422F-4093-8B77-2373496F2881.jpg",
           "caption": ""
         },
         {
@@ -4378,7 +4378,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "uEVVHJ_NeEoK",
+        "title": "Raise the Red Lantern: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/166/38/thumb_F2C2E7F9-422F-4093-8B77-2373496F2881.jpg",
+        "seconds": 105,
+        "src": "https://link.theplatform.com/s/NGweTC/media/uEVVHJ_NeEoK?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "zhang_yimou",
@@ -4427,7 +4433,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-29T22:21:13.856414Z"
+      "scraped_at": "2026-10-13T22:53:32.383964Z"
     },
     {
       "id": "samaritan-girl",
