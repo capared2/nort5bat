@@ -1,8 +1,8 @@
 {
   "genre": "horror",
   "part": 36,
-  "count": 1,
-  "updated_at": "2026-10-12T15:42:24.977065Z",
+  "count": 2,
+  "updated_at": "2026-10-13T00:53:57.588287Z",
   "titles": [
     {
       "id": "clowntergeist",
@@ -111,6 +111,122 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-12T15:42:18.434385Z"
+    },
+    {
+      "id": "possessor",
+      "url": "https://www.rottentomatoes.com/m/possessor",
+      "category": "horror",
+      "type": "movie",
+      "title": "Possessor",
+      "original_title": "Possessor",
+      "genres": [
+        "Sci-Fi",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "year": 2020,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 102,
+      "certificate": "R",
+      "rating": 7.8,
+      "votes": 58,
+      "tomatometer": 94,
+      "tomatometer_count": 226,
+      "tomatometer_certified": true,
+      "audience_score": 59,
+      "audience_count": 16,
+      "metascore": null,
+      "plot": "Tasya Vos, an elite, corporate assassin, takes control of other people's bodies using brain-implant technology to execute high-profile targets.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/z34tNyFelmT1bxogbuYt-ZBoyL8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18690642_p_v11_ai.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/z34tNyFelmT1bxogbuYt-ZBoyL8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18690642_p_v11_ai.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/odVLLxbrzyZrajvvrjBYXCN1des=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/94/99/thumb_1C2B094C-6AA8-498D-8461-60FFB87E7114.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/IdUN-T3Wk1smauqvAnvt0I4vOEA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18690642_i_h10_ac.jpg",
+          "caption": "Possessor (2020)"
+        },
+        {
+          "url": "https://resizing.flixster.com/jLZ5_ZMcrIZ55BjffU2AMz_em4o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18690642_i_h10_ab.jpg",
+          "caption": "Possessor (2020)"
+        },
+        {
+          "url": "https://resizing.flixster.com/KBYgmMMPt0YT3PKx3zl4fZ--Zdg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18690642_p_v11_ai.jpg",
+          "caption": "Possessor (2020)"
+        },
+        {
+          "url": "https://resizing.flixster.com/h3XFAF9q5uIWlT6uwFtPHjSWF3c=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18690642_p_v8_ac.jpg",
+          "caption": "Possessor (2020)"
+        }
+      ],
+      "trailer": {
+        "id": "udSjGnjlO1fF",
+        "title": "Possessor: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/94/99/thumb_1C2B094C-6AA8-498D-8461-60FFB87E7114.jpg",
+        "seconds": 131,
+        "src": "https://link.theplatform.com/s/NGweTC/media/udSjGnjlO1fF?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "brandon_cronenberg",
+          "name": "Brandon Cronenberg"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "andrea-riseborough",
+          "name": "Andrea Riseborough",
+          "character": "",
+          "image": "https://resizing.flixster.com/JS25jYusvLGZcGIXzc-bMG1XybQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/517103_v9_bd.jpg"
+        },
+        {
+          "id": "christopher_abbott",
+          "name": "Christopher Abbott",
+          "character": "",
+          "image": "https://resizing.flixster.com/kcNDLqQKlOFArU60T9viQRKmC-g=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/641237_v9_bb.jpg"
+        },
+        {
+          "id": "tuppence_middleton",
+          "name": "Tuppence Middleton",
+          "character": "",
+          "image": "https://resizing.flixster.com/MWAkNUCOSyqFMET-t5myGGiy4CE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/524717_v9_bb.jpg"
+        },
+        {
+          "id": "sean_bean",
+          "name": "Sean Bean",
+          "character": "",
+          "image": "https://resizing.flixster.com/skKxew7ObM9s8Re541jegSoiRbs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002G28WT.jpg"
+        },
+        {
+          "id": "jennifer_jason_leigh",
+          "name": "Jennifer Jason Leigh",
+          "character": "",
+          "image": "https://resizing.flixster.com/s4oP__pYygbBAZFm3LvalQCuxBc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0031HK7F.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Possessor-Uncut/1532428?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-13T00:53:56.956522Z"
     }
   ]
 }

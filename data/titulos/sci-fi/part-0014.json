@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 14,
   "count": 46,
-  "updated_at": "2026-10-12T15:42:24.482216Z",
+  "updated_at": "2026-10-13T00:51:30.239105Z",
   "titles": [
     {
       "id": "1017991-runaway",
@@ -2734,21 +2734,21 @@
       "title": "Orion",
       "original_title": "Orion",
       "genres": [
-        "Mystery & Thriller",
-        "Sci-Fi"
+        "Sci-Fi",
+        "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": null,
-      "certificate": null,
+      "runtime_minutes": 96,
+      "certificate": "Oct 2026",
       "rating": null,
-      "votes": null,
+      "votes": 12,
       "tomatometer": null,
-      "tomatometer_count": 2,
+      "tomatometer_count": 7,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 6,
       "metascore": null,
       "plot": "After a catastrophic mission leaves his crew dead and his memory shattered, an astronaut returns to Earth with no idea what went wrong. To uncover the truth, he must rely on a space agency interrogator he isn't sure he can trust. As his fractured memories begin to return, the two race to piece together what happened, uncovering the terrifying truth about what came back with him--and the threat it now poses to Earth.",
       "tagline": "",
@@ -2791,6 +2791,12 @@
       "writers": [],
       "cast": [
         {
+          "id": "debby_ryan",
+          "name": "Debby Ryan",
+          "character": "",
+          "image": "https://resizing.flixster.com/HsBu0HNdRExS0XY2TMtErF6yYlk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/524425_v9_bc.jpg"
+        },
+        {
           "id": "andrew_mccarthy",
           "name": "Andrew McCarthy",
           "character": "",
@@ -2801,12 +2807,6 @@
           "name": "Drew Van Acker",
           "character": "",
           "image": "https://resizing.flixster.com/sBn9Ol-YC21N1XCckjfjebw8LJQ=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/588710_v9_bb.jpg"
-        },
-        {
-          "id": "debby_ryan",
-          "name": "Debby Ryan",
-          "character": "",
-          "image": "https://resizing.flixster.com/HsBu0HNdRExS0XY2TMtErF6yYlk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/524425_v9_bc.jpg"
         }
       ],
       "keywords": [],
@@ -2815,10 +2815,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Orion/5210880?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-29T05:50:19.704244Z"
+      "scraped_at": "2026-10-13T00:50:28.840691Z"
     },
     {
       "id": "pk",
