@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 12,
   "count": 60,
-  "updated_at": "2026-10-12T15:37:30.071646Z",
+  "updated_at": "2026-10-13T14:21:04.840998Z",
   "titles": [
     {
       "id": "12-to-the-moon",
@@ -4456,10 +4456,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FXGGL64P/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-29T12:58:18.044929Z"
+      "scraped_at": "2026-10-13T14:19:51.367881Z"
     },
     {
       "id": "pulse_2017",

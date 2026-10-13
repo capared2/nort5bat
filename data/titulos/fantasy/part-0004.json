@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-10-12T15:41:31.625243Z",
+  "updated_at": "2026-10-13T14:25:27.423991Z",
   "titles": [
     {
       "id": "1077027-batman_and_robin",
@@ -4593,7 +4593,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-29T05:54:15.095905Z"
+      "scraped_at": "2026-10-13T14:17:42.160378Z"
     },
     {
       "id": "premature_2014",
@@ -4710,10 +4710,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-29T13:03:19.146470Z"
+      "scraped_at": "2026-10-13T14:25:08.474195Z"
     },
     {
       "id": "ruby_sparks",

@@ -2,7 +2,7 @@
   "genre": "kids-family",
   "part": 1,
   "count": 41,
-  "updated_at": "2026-10-13T00:51:30.019276Z",
+  "updated_at": "2026-10-13T14:25:06.861595Z",
   "titles": [
     {
       "id": "1009437-heidi",
@@ -3478,7 +3478,7 @@
       "runtime_minutes": 160,
       "certificate": "PG-13",
       "rating": 6.6,
-      "votes": 551,
+      "votes": 553,
       "tomatometer": 84,
       "tomatometer_count": 25,
       "tomatometer_certified": false,
@@ -3574,13 +3574,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Stream",
-          "url": "https://athome.fandango.com/content/browse/details/Pelle-the-Conqueror/8306?cmp=rt_where_to_watch"
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HBDCH1QK/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/pelle-the-conqueror/umc.cmc.4ump3vppenebp2tcqj3crhp8p?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-29T05:55:39.933906Z"
+      "scraped_at": "2026-10-13T14:19:07.306070Z"
     },
     {
       "id": "polar_bear",
@@ -3679,7 +3683,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-29T13:01:46.845051Z"
+      "scraped_at": "2026-10-13T14:23:33.104216Z"
     },
     {
       "id": "rally_caps",
