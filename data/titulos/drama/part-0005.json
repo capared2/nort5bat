@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-10-14T17:21:42.999679Z",
+  "updated_at": "2026-10-14T21:52:35.540296Z",
   "titles": [
     {
       "id": "1123295-homecoming",
@@ -5917,10 +5917,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWFBDXCH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T22:27:30.638675Z"
+      "scraped_at": "2026-10-14T21:47:49.163132Z"
     },
     {
       "id": "sujo",
@@ -6030,7 +6035,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T06:04:04.663358Z"
+      "scraped_at": "2026-10-14T21:51:05.227195Z"
     },
     {
       "id": "the_adderall_diaries",

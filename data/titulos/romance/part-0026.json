@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-10-14T17:23:44.484382Z",
+  "updated_at": "2026-10-14T21:52:34.800203Z",
   "titles": [
     {
       "id": "a_faithful_man",
@@ -4886,7 +4886,7 @@
       "tomatometer_count": 21,
       "tomatometer_certified": false,
       "audience_score": 78,
-      "audience_count": 83,
+      "audience_count": 82,
       "metascore": null,
       "plot": "A middle-aged wrestling champion (Salman Khan) tries to make a comeback to represent India at the Olympics.",
       "tagline": "",
@@ -4993,7 +4993,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T06:04:08.016533Z"
+      "scraped_at": "2026-10-14T21:51:08.718579Z"
     },
     {
       "id": "sunny_dancer",
@@ -5003,20 +5003,20 @@
       "title": "Sunny Dancer",
       "original_title": "Sunny Dancer",
       "genres": [
-        "Drama",
         "Comedy",
+        "Drama",
         "Romance"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 106,
       "certificate": "Sep 2026",
       "rating": 6.6,
-      "votes": 10,
-      "tomatometer": 87,
-      "tomatometer_count": 38,
-      "tomatometer_certified": false,
+      "votes": 11,
+      "tomatometer": 85,
+      "tomatometer_count": 41,
+      "tomatometer_certified": true,
       "audience_score": null,
       "audience_count": 3,
       "metascore": null,
@@ -5105,10 +5105,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Sunny-Dancer/5125537?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T06:04:41.926521Z"
+      "scraped_at": "2026-10-14T21:51:44.199455Z"
     },
     {
       "id": "surviving_christmas",
