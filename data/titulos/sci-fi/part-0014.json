@@ -1,8 +1,8 @@
 {
   "genre": "sci-fi",
   "part": 14,
-  "count": 46,
-  "updated_at": "2026-10-13T14:23:05.630419Z",
+  "count": 47,
+  "updated_at": "2026-10-14T05:07:22.666088Z",
   "titles": [
     {
       "id": "1017991-runaway",
@@ -2971,7 +2971,7 @@
       "runtime_minutes": 98,
       "certificate": "PG",
       "rating": 3.4,
-      "votes": 742,
+      "votes": 744,
       "tomatometer": 0,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
@@ -3061,7 +3061,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-29T22:25:30.490080Z"
+      "scraped_at": "2026-10-14T04:59:39.616095Z"
     },
     {
       "id": "robocop_3",
@@ -3079,7 +3079,7 @@
       "runtime_minutes": 104,
       "certificate": "PG-13",
       "rating": 3.8,
-      "votes": 3878,
+      "votes": 3879,
       "tomatometer": 18,
       "tomatometer_count": 102,
       "tomatometer_certified": false,
@@ -3181,15 +3181,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Robocop-3/140313?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0GFXT4MWD/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T05:37:25.772543Z"
+      "scraped_at": "2026-10-14T05:02:17.198107Z"
     },
     {
       "id": "robot-jox",
@@ -3289,15 +3285,105 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-14T05:02:19.210910Z"
+    },
+    {
+      "id": "sardar_2",
+      "url": "https://www.rottentomatoes.com/m/sardar_2",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Sardar 2",
+      "original_title": "Sardar 2",
+      "genres": [
+        "Drama",
+        "Action",
+        "Sci-Fi",
+        "Mystery & Thriller"
+      ],
+      "year": 2026,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": null,
+      "certificate": "Sep 2026",
+      "rating": null,
+      "votes": 14,
+      "tomatometer": null,
+      "tomatometer_count": 9,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 3,
+      "metascore": null,
+      "plot": "Flashbacks detail the origins of the undercover agent Sardar. In the present, his son, Inspector Vijay, works to dismantle the criminal network of an antagonist known as Black Dagger.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/t21Z9mK72vwjpFaY7OMrymSTvNs=/300x450/v2/https://resizing.flixster.com/TdCkwwB10uPWdTzMFO5NvPrTx9s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY1YjY5MjExLWRlZWYtNGQxZC04Yjc2LWFiYjc0M2YwYmI5ZS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/t21Z9mK72vwjpFaY7OMrymSTvNs=/300x450/v2/https://resizing.flixster.com/TdCkwwB10uPWdTzMFO5NvPrTx9s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY1YjY5MjExLWRlZWYtNGQxZC04Yjc2LWFiYjc0M2YwYmI5ZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/kwgqjzsL4kuNXDLlyTULGw8HId8=/fit-in/705x460/v2/https://resizing.flixster.com/TdCkwwB10uPWdTzMFO5NvPrTx9s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY1YjY5MjExLWRlZWYtNGQxZC04Yjc2LWFiYjc0M2YwYmI5ZS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "ps_mithran",
+          "name": "P.S. Mithran"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "malavika_mohanan",
+          "name": "Malavika Mohanan",
+          "character": "",
+          "image": "https://resizing.flixster.com/agOqcElQKVq7DF9NWu2kQyG5AxI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1050870_v9_aa.jpg"
+        },
+        {
+          "id": "surya_sj",
+          "name": "S.J. Suryah",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "karthi",
+          "name": "Karthi",
+          "character": "",
+          "image": "https://resizing.flixster.com/18k9wy1iSvgjcTgY3E8-ohAfF60=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/607367_v9_aa.jpg"
+        },
+        {
+          "id": "yogi_babu",
+          "name": "Yogi Babu",
+          "character": "",
+          "image": "https://resizing.flixster.com/vGCrAChmRvaIiNVHrmpl2ImV2b8=/120x150/v2/https://resizing.flixster.com/sYN4jLjP4R8y4dwIEL9v-ZM0Tf8=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvOTYyZjI4NmMtODAzZC00ZDBjLWFhNzUtY2Q0OTAyNjY1OGNkLmpwZw=="
+        },
+        {
+          "id": "ashika_ranganath",
+          "name": "Ashika Ranganath",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
       "streaming": [
         {
           "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B09PRRY5M2/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+          "url": "http://www.amazon.com/gp/product/B0HKF94RML/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T05:37:26.654518Z"
+      "scraped_at": "2026-10-14T05:07:19.516312Z"
     },
     {
       "id": "save_the_green_planet_2004",
