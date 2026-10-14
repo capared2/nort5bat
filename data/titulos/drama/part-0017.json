@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-10-14T12:04:45.610748Z",
+  "updated_at": "2026-10-14T17:21:43.018101Z",
   "titles": [
     {
       "id": "10008618-return",
@@ -5470,7 +5470,7 @@
       "runtime_minutes": 106,
       "certificate": "PG-13",
       "rating": 5.3,
-      "votes": 482,
+      "votes": 483,
       "tomatometer": 48,
       "tomatometer_count": 23,
       "tomatometer_certified": false,
@@ -5556,15 +5556,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/A-Simple-Twist-of-Fate/30701?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0FTFHP2HG/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T12:45:33.077681Z"
+      "scraped_at": "2026-10-14T17:16:11.384111Z"
     },
     {
       "id": "small_time_2014",
@@ -5684,11 +5680,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Small-Time/513326?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/50842?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T12:48:03.887828Z"
+      "scraped_at": "2026-10-14T17:18:42.382947Z"
     },
     {
       "id": "sommersby",
@@ -5800,7 +5800,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T22:21:10.103349Z"
+      "scraped_at": "2026-10-14T17:21:03.967152Z"
     },
     {
       "id": "starting_out_in_the_evening",

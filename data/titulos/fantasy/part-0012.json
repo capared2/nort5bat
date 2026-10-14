@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 55,
-  "updated_at": "2026-10-14T12:04:44.419713Z",
+  "updated_at": "2026-10-14T17:24:06.441484Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -3421,7 +3421,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:12:39.263093Z"
+      "scraped_at": "2026-10-14T17:16:19.100171Z"
     },
     {
       "id": "sonic_the_hedgehog_3",
@@ -3551,7 +3551,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T22:21:44.999714Z"
+      "scraped_at": "2026-10-14T17:21:39.637749Z"
     },
     {
       "id": "spirited_away_live_on_stage_feat_kanna_hashimoto",
@@ -3565,11 +3565,11 @@
         "Fantasy",
         "Adventure"
       ],
-      "year": null,
+      "year": 2023,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 157,
-      "certificate": "In Theaters Oct 1",
+      "certificate": null,
       "rating": null,
       "votes": 249,
       "tomatometer": null,
@@ -3649,10 +3649,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/SPIRITED-AWAY-Live-On-Stage-with-Kanna-Hashimoto-as-Chihiro/2579757?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T22:24:08.736501Z"
+      "scraped_at": "2026-10-14T17:24:04.711527Z"
     },
     {
       "id": "spirited_away_live_on_stage_feat_mone_kamishiraishi",
@@ -3666,18 +3671,18 @@
         "Adventure",
         "Fantasy"
       ],
-      "year": null,
+      "year": 2023,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 170,
-      "certificate": "In Theaters Oct 8",
+      "certificate": null,
       "rating": null,
-      "votes": 10,
+      "votes": 43,
       "tomatometer": null,
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 7,
       "metascore": null,
       "plot": "Hayao Miyazaki's Academy Award®-winning animated feature film comes to life in this first-ever stage adaptation, full of dazzling sets, captivating musical numbers, and wondrous puppets of beloved characters. Filmed during its acclaimed 2022 run at Tokyo's historic Imperial Theatre, adapted and directed by Tony Award®-winner John Caird (Les Misérables), features Kanna Hashimoto as Chihiro on April 23 and Mone Kamishiraishi as Chihiro April 27, and is screened for the first time in America as part of Studio Ghibli Fest 2023.",
       "tagline": "",
@@ -3746,10 +3751,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/SPIRITED-AWAY-Live-On-Stage-with-Mone-Kamishiraishi-as-Chihiro/2574508?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T22:24:09.398379Z"
+      "scraped_at": "2026-10-14T17:24:05.752800Z"
     },
     {
       "id": "superman_man_of_tomorrow",
