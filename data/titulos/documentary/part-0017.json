@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-10-13T22:56:48.027307Z",
+  "updated_at": "2026-10-14T12:06:46.772233Z",
   "titles": [
     {
       "id": "10008700-darfur_now",
@@ -3132,7 +3132,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T05:45:12.636734Z"
+      "scraped_at": "2026-10-14T12:01:34.255560Z"
     },
     {
       "id": "sharkwater",
@@ -3229,7 +3229,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T12:42:13.120695Z"
+      "scraped_at": "2026-10-14T12:04:12.260744Z"
     },
     {
       "id": "show_business",
@@ -3296,7 +3296,12 @@
         }
       ],
       "trailer": null,
-      "directors": [],
+      "directors": [
+        {
+          "id": "dori_bernstein",
+          "name": "Dori Berinstein"
+        }
+      ],
       "writers": [],
       "cast": [
         {
@@ -3339,7 +3344,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T12:43:59.157525Z"
+      "scraped_at": "2026-10-14T12:06:03.591774Z"
     },
     {
       "id": "that_summer_2018",

@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-10-14T05:02:58.171767Z",
+  "updated_at": "2026-10-14T12:06:46.223484Z",
   "titles": [
     {
       "id": "1003098-bright_lights_big_city",
@@ -4567,7 +4567,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T12:40:13.208745Z"
+      "scraped_at": "2026-10-14T12:02:11.805987Z"
     },
     {
       "id": "sfw",
@@ -4667,10 +4667,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GWL5KCMC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T12:41:08.271062Z"
+      "scraped_at": "2026-10-14T12:03:09.389092Z"
     },
     {
       "id": "shining_through",
@@ -4794,7 +4799,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-09-30T12:43:17.895599Z"
+      "scraped_at": "2026-10-14T12:05:20.629794Z"
     },
     {
       "id": "sling_blade",
