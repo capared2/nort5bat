@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 32,
   "count": 39,
-  "updated_at": "2026-10-15T11:37:14.889975Z",
+  "updated_at": "2026-10-15T17:09:10.793235Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -3139,18 +3139,18 @@
         "Action",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 142,
       "certificate": "R",
       "rating": 4.2,
-      "votes": 202,
+      "votes": 205,
       "tomatometer": 16,
       "tomatometer_count": 31,
       "tomatometer_certified": false,
-      "audience_score": 74,
-      "audience_count": 75,
+      "audience_score": 75,
+      "audience_count": 77,
       "metascore": null,
       "plot": "THE FIX follows a group of war-torn CIA operators mentored by \"Larry\" (Liam Neeson) and led by \"Tucker\" (Zachary Levi) who, after their mission in Afghanistan goes tragically wrong, enter the heart of Tehran to earn redemption by pulling off a daring rescue.",
       "tagline": "",
@@ -3174,6 +3174,10 @@
         },
         {
           "url": "https://resizing.flixster.com/QBkUIQKrDPdXgJ-zVeogbAMwEv0=/fit-in/705x460/v2/https://resizing.flixster.com/FtbDOTo8YAvFC6ZbItw74M-eQLs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkNjY1NDJiLWY3ODItNGQ3Zi05NDVjLTNmZWNhNGQ0YTVkNS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Tas02ZNiyJXGKsICE22rNdx-AGM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33461674_v_v12_ab.jpg",
           "caption": ""
         },
         {
@@ -3233,10 +3237,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Fix/5214921?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:50:16.018177Z"
+      "scraped_at": "2026-10-15T17:07:13.836452Z"
     },
     {
       "id": "the_girl_on_the_train_2021",
@@ -3259,7 +3268,7 @@
       "tomatometer_count": 11,
       "tomatometer_certified": false,
       "audience_score": 23,
-      "audience_count": 7,
+      "audience_count": 6,
       "metascore": null,
       "plot": "A recent divorcee spends her daily commute fantasizing about a seemingly perfect couple who live in a house that her train passes daily, until something shocking happens there one day.",
       "tagline": "",
@@ -3344,7 +3353,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:51:43.060007Z"
+      "scraped_at": "2026-10-15T17:08:40.244031Z"
     },
     {
       "id": "the_quake",

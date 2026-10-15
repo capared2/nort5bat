@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 55,
-  "updated_at": "2026-10-15T11:41:18.610049Z",
+  "updated_at": "2026-10-15T17:13:16.130759Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -4393,13 +4393,13 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0HB4SRQM4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Fisherman/5087814?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:50:10.246832Z"
+      "scraped_at": "2026-10-15T17:07:06.300182Z"
     },
     {
       "id": "the_imaginarium_of_doctor_parnassus",
@@ -4424,7 +4424,7 @@
       "tomatometer_count": 192,
       "tomatometer_certified": false,
       "audience_score": 60,
-      "audience_count": 7686,
+      "audience_count": 7685,
       "metascore": null,
       "plot": "Dr. Parnassus (Christopher Plummer), the leader of a traveling show, has a dark secret. Thousands of years ago he traded the soul of his daughter, Valentina, to the devil. Now the devil has come to collect his prize. To save her, Parnassus must make a final wager: Whoever collects five souls first will win Valentina. Tony (Heath Ledger), a man saved from hanging by Parnassus' troupe, agrees to help collect them, with his eye on marrying Valentina.",
       "tagline": "",
@@ -4525,7 +4525,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T05:46:17.362499Z"
+      "scraped_at": "2026-10-15T17:11:55.298903Z"
     },
     {
       "id": "the_incomer",
@@ -4545,12 +4545,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 16,
+      "votes": 83,
       "tomatometer": 95,
-      "tomatometer_count": 61,
+      "tomatometer_count": 63,
       "tomatometer_certified": true,
-      "audience_score": null,
-      "audience_count": 7,
+      "audience_score": 92,
+      "audience_count": 31,
       "metascore": null,
       "plot": "On a remote Scottish isle, siblings Isla and Sandy spend their days hunting seabirds and retelling the stories of their ancestors. They follow the strict rules inherited from their late father -- protect the island, allow no incomer, survive -- until one day, Daniel, an awkward and socially inept council official, arrives to evacuate them. Bringing with him the strange mainland ways of laws, paperwork, veganism and internet wizardry, he turns their world upside down. As long-held beliefs begin to crumble, each of them must confront the truth, embrace change, and dare to imagine a life beyond the island while fighting to preserve the heritage they have sworn to defend.",
       "tagline": "",
@@ -4629,10 +4629,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Incomer/5276353?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T05:46:25.344942Z"
+      "scraped_at": "2026-10-15T17:12:03.999682Z"
     },
     {
       "id": "the_little_mermaid_2_return_to_the_sea",

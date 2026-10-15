@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-10-15T11:39:16.650351Z",
+  "updated_at": "2026-10-15T17:09:11.224291Z",
   "titles": [
     {
       "id": "1008085-game_of_death",
@@ -6160,12 +6160,12 @@
       "runtime_minutes": 96,
       "certificate": "R",
       "rating": 2.5,
-      "votes": 337,
+      "votes": 338,
       "tomatometer": 0,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": 26,
-      "audience_count": 92,
+      "audience_count": 93,
       "metascore": null,
       "plot": "Assassins pursue a secret agent (Steven Seagal) transporting a mysterious package from France to America.",
       "tagline": "",
@@ -6242,10 +6242,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/60026221?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:50:31.272646Z"
+      "scraped_at": "2026-10-15T17:07:29.083545Z"
     },
     {
       "id": "the_prodigal_son_1983",

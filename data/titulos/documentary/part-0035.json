@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-10-15T11:43:18.986533Z",
+  "updated_at": "2026-10-15T17:09:11.159050Z",
   "titles": [
     {
       "id": "11816",
@@ -3896,10 +3896,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/the-epic-of-everest/umc.cmc.5z96h71lbksr7lu93jfkvde6d?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:48:41.237120Z"
+      "scraped_at": "2026-10-15T17:05:36.857533Z"
     },
     {
       "id": "the_gleaners_and_i",
@@ -3917,7 +3922,7 @@
       "runtime_minutes": 82,
       "certificate": null,
       "rating": 8.1,
-      "votes": 527,
+      "votes": 528,
       "tomatometer": 93,
       "tomatometer_count": 45,
       "tomatometer_certified": true,
@@ -3985,7 +3990,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:51:54.272425Z"
+      "scraped_at": "2026-10-15T17:08:52.172580Z"
     },
     {
       "id": "the_goebbels_experiment",
@@ -4057,7 +4062,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:52:00.290589Z"
+      "scraped_at": "2026-10-15T17:08:57.958506Z"
     },
     {
       "id": "the_man_who_bought_mustique_2001",
