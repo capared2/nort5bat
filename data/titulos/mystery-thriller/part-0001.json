@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 59,
-  "updated_at": "2026-10-15T04:54:10.182321Z",
+  "updated_at": "2026-10-15T11:43:39.638219Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -5665,7 +5665,7 @@
       "rating": 6.4,
       "votes": 513,
       "tomatometer": 69,
-      "tomatometer_count": 185,
+      "tomatometer_count": 189,
       "tomatometer_certified": false,
       "audience_score": 56,
       "audience_count": 152,
@@ -5775,7 +5775,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:46:23.781734Z"
+      "scraped_at": "2026-10-15T11:41:52.854389Z"
     },
     {
       "id": "the_desperate_hour",
@@ -5799,7 +5799,7 @@
       "tomatometer_count": 77,
       "tomatometer_certified": false,
       "audience_score": 16,
-      "audience_count": 61,
+      "audience_count": 60,
       "metascore": null,
       "plot": "Unfolding in real time, THE DESPERATE HOUR is a \"riveting and pulse pounding\" thriller from award-winning director Phillip Noyce. Recently widowed mother Amy Carr (Academy Award®-nominee Naomi Watts) is doing her best to restore normalcy to the lives of her young daughter and teenage son in their small town. As she's on a jog in the woods, she finds her town thrown into chaos as a shooting takes place at her son's school. Miles away on foot in the dense forest, Amy desperately races against time to save her son.",
       "tagline": "",
@@ -5894,7 +5894,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:46:53.461729Z"
+      "scraped_at": "2026-10-15T11:42:22.250498Z"
     },
     {
       "id": "the_dog_stars",
@@ -5907,18 +5907,18 @@
         "Adventure",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 118,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 1125,
+      "votes": 1144,
       "tomatometer": 41,
       "tomatometer_count": 221,
       "tomatometer_certified": false,
       "audience_score": 70,
-      "audience_count": 287,
+      "audience_count": 292,
       "metascore": null,
       "plot": "Ridley Scott's \"The Dog Stars,\" is a riveting, epic thriller set in a world where survival is instinct, but humanity is a choice. Scott tells the story of Hig, a young pilot who, together with a military survivalist, Bangley, has carved out an efficient but isolated homestead in a brutal post-apocalyptic world until a mysterious radio transmission spurs Hig to venture into the unknown in search of the hope and humanity he still believes exists.",
       "tagline": "",
@@ -6017,10 +6017,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Dog-Stars/5219368?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:47:39.711487Z"
+      "scraped_at": "2026-10-15T11:43:09.969758Z"
     },
     {
       "id": "the_drama",
@@ -6041,7 +6046,7 @@
       "runtime_minutes": 106,
       "certificate": "R",
       "rating": 7.1,
-      "votes": 3124,
+      "votes": 3136,
       "tomatometer": 76,
       "tomatometer_count": 302,
       "tomatometer_certified": true,
@@ -6157,7 +6162,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T22:47:50.672469Z"
+      "scraped_at": "2026-10-15T11:43:22.200765Z"
     },
     {
       "id": "the_equalizer_3",

@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 32,
   "count": 39,
-  "updated_at": "2026-10-14T05:07:23.449301Z",
+  "updated_at": "2026-10-15T11:37:14.889975Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -3050,18 +3050,18 @@
         "Action",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 99,
-      "certificate": "In Theaters Oct 9",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
+      "certificate": "Oct 2026",
+      "rating": 5.0,
+      "votes": 92,
+      "tomatometer": 53,
+      "tomatometer_count": 19,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 49,
+      "audience_count": 47,
       "metascore": null,
       "plot": "The most secure presidential vehicle ever built becomes the center of a fight for America. When unidentified hostiles coordinate a coup against the United States, the president uncovers the extent of The Beast's highly classified offensive capabilities. Separated from his wife, the president must learn to control The Beast--and the monster inside himself--to save his life, Secret Service agent Taft, and the country.",
       "tagline": "",
@@ -3118,10 +3118,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Beast/5253341?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T13:28:27.517934Z"
+      "scraped_at": "2026-10-15T11:35:58.818538Z"
     },
     {
       "id": "the_fix_2026",
