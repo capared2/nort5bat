@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 24,
   "count": 60,
-  "updated_at": "2026-10-14T17:24:06.080873Z",
+  "updated_at": "2026-10-15T04:52:07.789284Z",
   "titles": [
     {
       "id": "10002008-charly",
@@ -6075,10 +6075,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Tango-Lesson/412696?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T06:08:35.453058Z"
+      "scraped_at": "2026-10-15T04:48:50.685247Z"
     },
     {
       "id": "thats_amor",
@@ -6203,7 +6208,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-01T13:25:02.552521Z"
+      "scraped_at": "2026-10-15T04:51:43.011888Z"
     },
     {
       "id": "the_fourth_noble_truth",
