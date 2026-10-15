@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 35,
-  "updated_at": "2026-10-15T11:39:16.620490Z",
+  "updated_at": "2026-10-15T21:33:07.714079Z",
   "titles": [
     {
       "id": "ali_g_who_iz_i",
@@ -3343,7 +3343,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T12:42:59.751836Z"
+      "scraped_at": "2026-10-15T21:32:32.413256Z"
     },
     {
       "id": "the_musical",
@@ -3361,13 +3361,13 @@
       "release_date": null,
       "runtime_minutes": 84,
       "certificate": "Now Playing",
-      "rating": 5.9,
-      "votes": 67,
-      "tomatometer": 64,
+      "rating": 5.8,
+      "votes": 70,
+      "tomatometer": 62,
       "tomatometer_count": 47,
       "tomatometer_certified": false,
-      "audience_score": 66,
-      "audience_count": 30,
+      "audience_score": 64,
+      "audience_count": 32,
       "metascore": null,
       "plot": "Doug, a frustrated playwright and middle school theater teacher, learns his ex is dating his nemesis, the school principal. To get revenge and cost him a Blue Ribbon Award, Doug secretly stages the most inappropriate play imaginable.",
       "tagline": "",
@@ -3466,10 +3466,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Musical/5129150?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T12:43:19.234066Z"
+      "scraped_at": "2026-10-15T21:32:52.157039Z"
     },
     {
       "id": "the_scout_2025",

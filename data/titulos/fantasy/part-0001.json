@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-10-15T17:11:13.645337Z",
+  "updated_at": "2026-10-15T21:35:08.115699Z",
   "titles": [
     {
       "id": "all_of_us_strangers",
@@ -6409,7 +6409,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T05:48:16.238274Z"
+      "scraped_at": "2026-10-15T21:27:24.709473Z"
     },
     {
       "id": "the_lord_of_the_rings_the_return_of_the_king",
@@ -6538,7 +6538,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T05:51:10.677552Z"
+      "scraped_at": "2026-10-15T21:30:20.868849Z"
     },
     {
       "id": "the_magic_faraway_tree",
@@ -6558,10 +6558,10 @@
       "release_date": null,
       "runtime_minutes": 110,
       "certificate": "PG",
-      "rating": 6.5,
-      "votes": 255,
+      "rating": 6.4,
+      "votes": 256,
       "tomatometer": 80,
-      "tomatometer_count": 104,
+      "tomatometer_count": 109,
       "tomatometer_certified": true,
       "audience_score": 81,
       "audience_count": 83,
@@ -6659,7 +6659,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T05:51:37.443977Z"
+      "scraped_at": "2026-10-15T21:30:48.931772Z"
     },
     {
       "id": "the_marvels",
@@ -6795,7 +6795,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T12:41:57.434885Z"
+      "scraped_at": "2026-10-15T21:31:27.347597Z"
     },
     {
       "id": "the_odyssey_2026",
@@ -6815,12 +6815,12 @@
       "runtime_minutes": 172,
       "certificate": "R",
       "rating": 8.7,
-      "votes": 34205,
+      "votes": 34664,
       "tomatometer": 94,
-      "tomatometer_count": 514,
+      "tomatometer_count": 515,
       "tomatometer_certified": true,
       "audience_score": 96,
-      "audience_count": 5268,
+      "audience_count": 5325,
       "metascore": null,
       "plot": "Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War. Crossing the Mediterranean Sea with his fellow soldiers, they soon find themselves battling not only the elements, but an array of deadly obstacles and mythical creatures along the way.",
       "tagline": "",
@@ -6919,10 +6919,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Odyssey/5278771?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T12:44:20.608055Z"
+      "scraped_at": "2026-10-15T21:33:56.391140Z"
     },
     {
       "id": "thor",
