@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-10-16T11:37:40.191178Z",
+  "updated_at": "2026-10-16T16:48:56.759628Z",
   "titles": [
     {
       "id": "10004890-narrow_margin",
@@ -6032,15 +6032,15 @@
       "release_date": null,
       "runtime_minutes": 110,
       "certificate": null,
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": null,
+      "rating": 5.8,
+      "votes": 109,
+      "tomatometer": 63,
+      "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": null,
+      "audience_score": 61,
+      "audience_count": 45,
       "metascore": null,
-      "plot": "",
+      "plot": "Ex-cop-turned-private eye Tony Rome (Frank Sinatra) needs work, so when his former partner shows up with a seemingly easy job tracking down a spoiled heiress (Sue Lyon), Tony jumps on the case. He finds the woman quickly, but when her father (Simon Oakland) discovers that her jewelry has gone missing, he hires Tony to find the thieves. Tony's investigation angers the wrong people, and when his partner ends up dead, he discovers there may be more to this case than some missing jewelry.",
       "tagline": "",
       "poster": "https://resizing.flixster.com/2fFNT4sKzpg1pwXZ8jARVBUxRiQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p440_p_v12_ae.jpg",
       "images": [
@@ -6051,17 +6051,64 @@
         {
           "url": "https://resizing.flixster.com/PWaUmlsq3ilZsjsDj05xDPhnrMg=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p440_i_h10_ab.jpg",
           "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/q42QiUgpS3ab1Sv8Y-qdXKXJXLU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p440_p_v13_ad.jpg",
+          "caption": "Tony Rome (1967)"
+        },
+        {
+          "url": "https://resizing.flixster.com/nh2NrPb2cYtUG9jFcjTp07roBUA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p440_p_v12_ae.jpg",
+          "caption": "Tony Rome (1967)"
+        },
+        {
+          "url": "https://resizing.flixster.com/NOZK0BMg2CeuKFE-Wga62qctRRs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p440_v_v12_ad.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FNm_GrmDKJSbHS6rXeqMnuL8KGE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p440_i_h10_ab.jpg",
+          "caption": "Tony Rome (1967)"
         }
       ],
       "trailer": null,
       "directors": [
         {
-          "id": null,
+          "id": "gordon_douglas",
           "name": "Gordon Douglas"
         }
       ],
       "writers": [],
-      "cast": [],
+      "cast": [
+        {
+          "id": "frank_sinatra",
+          "name": "Frank Sinatra",
+          "character": "",
+          "image": "https://resizing.flixster.com/Q2_G0ssGxl9f4t6IiriUZsESFFM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1630_v9_bb.jpg"
+        },
+        {
+          "id": "jill_st_john",
+          "name": "Jill St. John",
+          "character": "",
+          "image": "https://resizing.flixster.com/_qVcus01u-pGIwfFUj818zqV_xs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/31490_v9_ba.jpg"
+        },
+        {
+          "id": "richard_conte",
+          "name": "Richard Conte",
+          "character": "",
+          "image": "https://resizing.flixster.com/WKsBOsdPqxkUTVO-Abv2N3-yKZU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/72148_v9_ba.jpg"
+        },
+        {
+          "id": "sue_lyon",
+          "name": "Sue Lyon",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ye85SFu7aps4rvLXqrtJlky6mik=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/94877_v9_bb.jpg"
+        },
+        {
+          "id": "gena_rowlands",
+          "name": "Gena Rowlands",
+          "character": "",
+          "image": "https://resizing.flixster.com/U8dzqttMSRIY0f1mcKDaVd7GYIk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/22934_v9_ba.jpg"
+        }
+      ],
       "keywords": [],
       "countries": [],
       "languages": [],
@@ -6076,7 +6123,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:16:33.937769Z"
+      "scraped_at": "2026-10-16T16:43:58.539730Z"
     },
     {
       "id": "two_mrs_carrolls",
@@ -6189,7 +6236,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:16:22.524695Z"
+      "scraped_at": "2026-10-16T16:48:55.328620Z"
     },
     {
       "id": "where_the_sidewalk_ends",

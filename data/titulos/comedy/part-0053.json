@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 35,
-  "updated_at": "2026-10-16T11:37:39.249040Z",
+  "updated_at": "2026-10-16T16:50:57.773344Z",
   "titles": [
     {
       "id": "ali_g_who_iz_i",
@@ -3864,7 +3864,7 @@
         "Drama",
         "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 111,
@@ -3872,7 +3872,7 @@
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 9,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -3910,10 +3910,22 @@
       "writers": [],
       "cast": [
         {
+          "id": "kal_penn",
+          "name": "Kal Penn",
+          "character": "",
+          "image": "https://resizing.flixster.com/lJ4a_UHJ97jubVn-ig-UrcI8AEE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/238695_v9_bb.jpg"
+        },
+        {
           "id": "linda_hamilton",
           "name": "Linda Hamilton",
           "character": "",
           "image": "https://resizing.flixster.com/aEon3LtW2byffHV54NEC_Fc009Q=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0025D9EH.jpg"
+        },
+        {
+          "id": "david_julian_hirsh",
+          "name": "David Julian Hirsh",
+          "character": "",
+          "image": "https://resizing.flixster.com/3mSaId9Ckfy126FRhcrF7Q0QZzk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/225325_v9_bb.jpg"
         },
         {
           "id": "abbie_cornish",
@@ -3922,22 +3934,10 @@
           "image": "https://resizing.flixster.com/snTw9KdobzUC797gE5I16jt9z8Y=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/219342_v9_bb.jpg"
         },
         {
-          "id": "kal_penn",
-          "name": "Kal Penn",
-          "character": "",
-          "image": "https://resizing.flixster.com/lJ4a_UHJ97jubVn-ig-UrcI8AEE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/238695_v9_bb.jpg"
-        },
-        {
           "id": "al_sapienza",
           "name": "Al Sapienza",
           "character": "",
           "image": "https://resizing.flixster.com/Oga_fJ6Fswa2WijcNvpKWUesFWc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/2666_v9_bb.jpg"
-        },
-        {
-          "id": "elon_gold",
-          "name": "Elon Gold",
-          "character": "",
-          "image": "https://resizing.flixster.com/GX_O0VwXxyoEGBAS04Z3SGzqcnc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/169009_v9_bc.jpg"
         }
       ],
       "keywords": [],
@@ -3949,7 +3949,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T14:56:05.854151Z"
+      "scraped_at": "2026-10-16T16:47:30.920157Z"
     },
     {
       "id": "udta_teer",
@@ -4020,7 +4020,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T15:42:03.715097Z"
+      "scraped_at": "2026-10-16T16:49:27.451554Z"
     },
     {
       "id": "vampires_suck",

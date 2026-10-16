@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 24,
   "count": 60,
-  "updated_at": "2026-10-16T11:35:37.914747Z",
+  "updated_at": "2026-10-16T16:46:56.397217Z",
   "titles": [
     {
       "id": "1003625-carrie",
@@ -6890,7 +6890,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-03T05:29:53.273207Z"
+      "scraped_at": "2026-10-16T16:46:12.142832Z"
     },
     {
       "id": "trinket_box",
@@ -6993,10 +6993,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Trinket-Box/5191928?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-03T05:30:08.972293Z"
+      "scraped_at": "2026-10-16T16:46:27.862949Z"
     },
     {
       "id": "yellowbrickroad",
