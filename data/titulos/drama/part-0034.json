@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-10-15T21:35:30.291870Z",
+  "updated_at": "2026-10-16T04:44:43.578730Z",
   "titles": [
     {
       "id": "10010090-la_luna",
@@ -5708,7 +5708,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T12:50:07.950188Z"
+      "scraped_at": "2026-10-16T04:41:00.981898Z"
     },
     {
       "id": "the_shout",
@@ -5808,10 +5808,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Shout/5172790?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T22:17:44.354315Z"
+      "scraped_at": "2026-10-16T04:41:26.026275Z"
     },
     {
       "id": "the_ticket_2017",
@@ -5945,7 +5950,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T22:20:37.934114Z"
+      "scraped_at": "2026-10-16T04:44:20.888717Z"
     },
     {
       "id": "thirteen_conversations_about_one_thing",

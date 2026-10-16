@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-10-15T21:35:08.745832Z",
+  "updated_at": "2026-10-16T04:44:43.827616Z",
   "titles": [
     {
       "id": "a_family_affair_2024_2",
@@ -6572,12 +6572,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 7.0,
-      "votes": 45,
+      "votes": 50,
       "tomatometer": 79,
       "tomatometer_count": 68,
       "tomatometer_certified": true,
-      "audience_score": null,
-      "audience_count": 17,
+      "audience_score": 72,
+      "audience_count": 19,
       "metascore": null,
       "plot": "A woman's relationship with her boyfriend hits a rough patch just as her ex reappears in her life, leading to messy entanglements in the Alaskan wilderness.",
       "tagline": "",
@@ -6588,7 +6588,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/S7gnLwHYTIzanQyxfE3EhDm4ZDc=/620x336/v2/https://resizing.flixster.com/KuoW7ATKvuy19hCBor2Yp1qTQKI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE3ZjlmZWE1LWUxM2ItNDVmMy04OTM5LTViYjA0ZTAxNTkwYi5qcGc=",
+          "url": "https://resizing.flixster.com/p4wjiT1KieKKlGfScqJjspKlxYo=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/992/475/thumb_1917ECDA-DD99-46E5-ADBE-CF9894498BB4.jpg",
           "caption": ""
         },
         {
@@ -6624,7 +6624,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "uRaxUJ8GdILH",
+        "title": "The Sun Never Sets: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/992/475/thumb_1917ECDA-DD99-46E5-ADBE-CF9894498BB4.jpg",
+        "seconds": 155,
+        "src": "https://link.theplatform.com/s/NGweTC/media/uRaxUJ8GdILH?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "joe_swanberg",
@@ -6670,10 +6676,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Sun-Never-Sets/5175446?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-02T22:19:41.316467Z"
+      "scraped_at": "2026-10-16T04:43:24.305031Z"
     },
     {
       "id": "ticket_to_paradise_2022",
