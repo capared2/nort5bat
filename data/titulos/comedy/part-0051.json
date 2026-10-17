@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 51,
   "count": 60,
-  "updated_at": "2026-10-17T04:40:56.945116Z",
+  "updated_at": "2026-10-17T15:41:26.761952Z",
   "titles": [
     {
       "id": "100_girls",
@@ -102,10 +102,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GPKPP87P/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-04T06:02:45.309290Z"
+      "scraped_at": "2026-10-17T15:41:00.754789Z"
     },
     {
       "id": "adventures_in_success",
