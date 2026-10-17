@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-10-17T04:36:54.878072Z",
+  "updated_at": "2026-10-17T10:57:56.525532Z",
   "titles": [
     {
       "id": "10009598-surrogates",
@@ -22,7 +22,7 @@
       "runtime_minutes": 88,
       "certificate": "PG-13",
       "rating": 5.4,
-      "votes": 28422,
+      "votes": 28423,
       "tomatometer": 37,
       "tomatometer_count": 116,
       "tomatometer_certified": false,
@@ -124,11 +124,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Surrogates/168108?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FTD7F3S1/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-04T05:59:23.317578Z"
+      "scraped_at": "2026-10-17T10:56:04.247517Z"
     },
     {
       "id": "10010066-push",
@@ -254,7 +258,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-04T05:59:37.453519Z"
+      "scraped_at": "2026-10-17T10:56:19.319789Z"
     },
     {
       "id": "1002497-black_hole",
@@ -362,7 +366,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-04T06:00:58.622790Z"
+      "scraped_at": "2026-10-17T10:57:45.582135Z"
     },
     {
       "id": "1004502-coma",
@@ -6828,7 +6832,7 @@
       "runtime_minutes": 88,
       "certificate": "PG",
       "rating": 3.5,
-      "votes": 190,
+      "votes": 191,
       "tomatometer": 14,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
@@ -6913,7 +6917,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-03T21:25:34.160692Z"
+      "scraped_at": "2026-10-17T10:51:10.822913Z"
     }
   ]
 }
