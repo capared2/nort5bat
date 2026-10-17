@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-10-16T21:22:58.660891Z",
+  "updated_at": "2026-10-17T04:40:57.089882Z",
   "titles": [
     {
       "id": "1002939-boston_strangler",
@@ -7312,15 +7312,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0BZZ95Q53/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-03T16:25:06.190190Z"
+      "scraped_at": "2026-10-17T04:33:57.997730Z"
     },
     {
       "id": "woman_of_the_hour",
@@ -7340,12 +7335,12 @@
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 1911,
+      "votes": 1916,
       "tomatometer": 91,
-      "tomatometer_count": 184,
+      "tomatometer_count": 183,
       "tomatometer_certified": true,
       "audience_score": 68,
-      "audience_count": 465,
+      "audience_count": 410,
       "metascore": null,
       "plot": "An aspiring actress crosses paths with a prolific serial killer in '70s LA when they're cast on an episode of \"The Dating Game.\" Based on a true story.",
       "tagline": "",
@@ -7452,7 +7447,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-03T21:22:57.429990Z"
+      "scraped_at": "2026-10-17T04:40:02.646133Z"
     },
     {
       "id": "world_according_to_garp",
@@ -7472,12 +7467,12 @@
       "runtime_minutes": 136,
       "certificate": "R",
       "rating": 6.1,
-      "votes": 2205,
+      "votes": 2206,
       "tomatometer": 71,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
       "audience_score": 78,
-      "audience_count": 675,
+      "audience_count": 674,
       "metascore": null,
       "plot": "A nurse during World War II, Jenny Fields conceives with a dying pilot and bears a boy named T.S. Garp whom she raises alone. When Garp grows up, he has some success writing fiction, but not nearly so much as his mother has with feminist-themed nonfiction. Rich and famous, she starts a center for troubled women, and while Garp marries and has children, he remains a constant, if somewhat critical, observer of the strange community that forms around Jenny.",
       "tagline": "",
@@ -7562,7 +7557,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-03T21:23:52.247308Z"
+      "scraped_at": "2026-10-17T04:40:56.438392Z"
     }
   ]
 }

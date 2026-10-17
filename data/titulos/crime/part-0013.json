@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-10-16T21:22:37.469143Z",
+  "updated_at": "2026-10-17T04:40:57.113645Z",
   "titles": [
     {
       "id": "1005865-dillinger",
@@ -7097,10 +7097,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DJK6H48X/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-03T21:22:00.813815Z"
+      "scraped_at": "2026-10-17T04:39:01.671429Z"
     }
   ]
 }
