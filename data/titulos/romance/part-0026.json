@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-10-18T04:47:01.903811Z",
+  "updated_at": "2026-10-18T11:20:51.181564Z",
   "titles": [
     {
       "id": "a_faithful_man",
@@ -155,7 +155,7 @@
       "runtime_minutes": 111,
       "certificate": "PG-13",
       "rating": 6.7,
-      "votes": 1393,
+      "votes": 1394,
       "tomatometer": 83,
       "tomatometer_count": 161,
       "tomatometer_certified": true,
@@ -261,13 +261,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Stream",
-          "url": "https://athome.fandango.com/content/browse/details/A-United-Kingdom/860230?cmp=rt_where_to_watch"
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B09VNXCM4H/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/a-united-kingdom/umc.cmc.5uleziwm21s5r64g5rqfam6ye?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T05:50:25.351078Z"
+      "scraped_at": "2026-10-18T11:15:05.433372Z"
     },
     {
       "id": "all_is_well_2015",
@@ -372,7 +376,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T14:48:02.736701Z"
+      "scraped_at": "2026-10-18T11:20:49.898145Z"
     },
     {
       "id": "almost_friends",

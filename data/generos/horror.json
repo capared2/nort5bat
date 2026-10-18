@@ -347,7 +347,7 @@
         "Horror"
       ],
       "rating": 9.3,
-      "votes": 79699,
+      "votes": 79715,
       "tomatometer": 93,
       "audience_score": 94,
       "runtime_minutes": 116,
@@ -1043,7 +1043,7 @@
         "Fantasy"
       ],
       "rating": 5.0,
-      "votes": 40444,
+      "votes": 40448,
       "tomatometer": 34,
       "audience_score": 50,
       "runtime_minutes": 105,
@@ -2228,7 +2228,7 @@
         "Mystery & Thriller"
       ],
       "rating": 6.3,
-      "votes": 25739,
+      "votes": 25743,
       "tomatometer": 65,
       "audience_score": 55,
       "runtime_minutes": 122,
@@ -2415,7 +2415,7 @@
         "Horror"
       ],
       "rating": 5.7,
-      "votes": 24057,
+      "votes": 24063,
       "tomatometer": 43,
       "audience_score": 46,
       "runtime_minutes": 115,
@@ -2880,6 +2880,29 @@
       ]
     },
     {
+      "id": "alien_resurrection",
+      "category": "horror",
+      "type": "movie",
+      "title": "Alien Resurrection",
+      "original_title": "Alien Resurrection",
+      "year": 1997,
+      "genres": [
+        "Sci-Fi",
+        "Horror"
+      ],
+      "rating": 5.9,
+      "votes": 19778,
+      "tomatometer": 55,
+      "audience_score": 39,
+      "runtime_minutes": 109,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/qGfMKI0l9g2aiNJCplzk4D2H0SA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20180_p_v13_bn.jpg",
+      "plot": "Two hundred years have passed since Ellen Ripley died on Fiorina 161. Aboard the medical research vessel USM Auriga, a team of scientists clones Ripley from her extracted DNA and removes the alien…",
+      "directors": [
+        "Jean-Pierre Jeunet"
+      ]
+    },
+    {
       "id": "covenant",
       "category": "horror",
       "type": "movie",
@@ -2900,29 +2923,6 @@
       "plot": "In the 17th century, five families with supernatural powers make a pact of silence. Eventually one power-hungry family is banished. The descendants of those four remaining families are heirs to…",
       "directors": [
         "Renny Harlin"
-      ]
-    },
-    {
-      "id": "alien_resurrection",
-      "category": "horror",
-      "type": "movie",
-      "title": "Alien Resurrection",
-      "original_title": "Alien Resurrection",
-      "year": 1997,
-      "genres": [
-        "Sci-Fi",
-        "Horror"
-      ],
-      "rating": 5.9,
-      "votes": 19770,
-      "tomatometer": 55,
-      "audience_score": 39,
-      "runtime_minutes": 109,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/qGfMKI0l9g2aiNJCplzk4D2H0SA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20180_p_v13_bn.jpg",
-      "plot": "Two hundred years have passed since Ellen Ripley died on Fiorina 161. Aboard the medical research vessel USM Auriga, a team of scientists clones Ripley from her extracted DNA and removes the alien…",
-      "directors": [
-        "Jean-Pierre Jeunet"
       ]
     },
     {
@@ -2983,7 +2983,7 @@
         "Mystery & Thriller"
       ],
       "rating": 8.2,
-      "votes": 19436,
+      "votes": 19450,
       "tomatometer": 96,
       "audience_score": 83,
       "runtime_minutes": 92,
