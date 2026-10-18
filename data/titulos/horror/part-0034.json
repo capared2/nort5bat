@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-10-18T04:45:00.923237Z",
+  "updated_at": "2026-10-18T16:03:10.850584Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -250,7 +250,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T14:54:28.012176Z"
+      "scraped_at": "2026-10-18T16:01:14.884192Z"
     },
     {
       "id": "appofeniacs",
@@ -269,12 +269,12 @@
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 6.8,
-      "votes": 4,
-      "tomatometer": 89,
-      "tomatometer_count": 27,
+      "votes": 34,
+      "tomatometer": 90,
+      "tomatometer_count": 29,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 3,
+      "audience_count": 20,
       "metascore": null,
       "plot": "Amused by exploiting our instinct to believe what we see and hear, Duke (Aaron Holliday) treats deepfakes like a contagious party trick. Not because he has something to prove, but simply because he can. Soon blood starts to spill, but Duke isn't the one who has to clean it up. Intersecting storylines catch the fallout of Duke's petty pastime: Poppy (Simran Jehani), heading into the desert for a weekend of cosplay and foreplay; Clinto Binto (Sean Gunn), a legend in the scene with a reputation too expensive to fake; and Lazzy (Paige Searcy), a stranger who picks the wrong line, the wrong coffee shop, and the wrong day to argue. Paranoia. Confirmation bias. Baseless certainty. We're all APPOFENIACS. When anyone's version of the truth can be created with the tap of a finger, the horror isn't the lie. It's what happens when people believe it.",
       "tagline": "",
@@ -365,10 +365,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Appofeniacs/5251970?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T14:55:30.278473Z"
+      "scraped_at": "2026-10-18T16:02:16.167736Z"
     },
     {
       "id": "avenged",

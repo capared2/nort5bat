@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-10-18T11:18:48.799819Z",
+  "updated_at": "2026-10-18T16:03:10.287974Z",
   "titles": [
     {
       "id": "a_beautiful_planet",
@@ -355,9 +355,9 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 93,
-      "certificate": "Now Playing",
+      "certificate": "Aug 2026",
       "rating": 8.5,
-      "votes": 185,
+      "votes": 186,
       "tomatometer": 100,
       "tomatometer_count": 50,
       "tomatometer_certified": true,
@@ -430,10 +430,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/American-Doctor/5294543?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T14:50:30.175375Z"
+      "scraped_at": "2026-10-18T15:57:18.685415Z"
     },
     {
       "id": "among_neighbors",
@@ -536,7 +541,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T14:52:03.539777Z"
+      "scraped_at": "2026-10-18T15:58:51.348205Z"
     },
     {
       "id": "apollo_11_2019",
@@ -559,7 +564,7 @@
       "tomatometer_count": 191,
       "tomatometer_certified": true,
       "audience_score": 90,
-      "audience_count": 310,
+      "audience_count": 308,
       "metascore": null,
       "plot": "Never-before-seen footage and audio recordings take you straight into the heart of NASA's most celebrated mission as astronauts Neil Armstrong, Buzz Aldrin and Michael Collins embark on a historic trip to the moon.",
       "tagline": "",
@@ -639,7 +644,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T14:55:21.411478Z"
+      "scraped_at": "2026-10-18T16:02:06.054595Z"
     },
     {
       "id": "becoming_a_queen",
