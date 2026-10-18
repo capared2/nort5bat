@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 30,
   "count": 60,
-  "updated_at": "2026-10-17T15:45:30.474026Z",
+  "updated_at": "2026-10-18T04:45:00.539803Z",
   "titles": [
     {
       "id": "1019017-silver_streak",
@@ -215,10 +215,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/phantom/umc.cmc.2v3yx4knmpa038cmjm38ef7a2?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-04T21:38:36.601268Z"
+      "scraped_at": "2026-10-18T04:44:33.968092Z"
     },
     {
       "id": "a_woman_is_a_woman",

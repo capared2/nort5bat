@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 37,
   "count": 60,
-  "updated_at": "2026-10-17T20:41:48.229789Z",
+  "updated_at": "2026-10-18T04:47:01.191382Z",
   "titles": [
     {
       "id": "1022191-twins",
@@ -364,18 +364,18 @@
       "genres": [
         "Comedy"
       ],
-      "year": null,
+      "year": 1980,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 110,
       "certificate": "PG",
       "rating": 7.1,
-      "votes": 2709,
+      "votes": 2763,
       "tomatometer": 71,
       "tomatometer_count": 105,
       "tomatometer_certified": false,
-      "audience_score": 74,
-      "audience_count": 924,
+      "audience_score": 75,
+      "audience_count": 933,
       "metascore": null,
       "plot": "Office satire about three female secretaries who decide to get revenge on their tyrannical, sexist boss by abducting him and running the business themselves. The trio, one of whom has been passed over for promotion because she is a woman, spend a night together having drug-induced fantasies of killing the slave-driving chauvinist. One of them panics the following day when she suspects she really has poisoned the tyrant.",
       "tagline": "",
@@ -468,10 +468,27 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/9-to-5/7804?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/60010717?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0BYTKGYSN/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-04T21:39:07.969998Z"
+      "scraped_at": "2026-10-18T04:45:08.702937Z"
     },
     {
       "id": "a_little_trip_to_heaven",

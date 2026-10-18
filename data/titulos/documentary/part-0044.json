@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 44,
   "count": 40,
-  "updated_at": "2026-10-17T10:51:51.554880Z",
+  "updated_at": "2026-10-18T04:47:01.426195Z",
   "titles": [
     {
       "id": "a_fire_within",
@@ -36,7 +36,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/97zk2ed200l6plpGso6-fQzTt38=/620x336/v2/https://resizing.flixster.com/2q6UqibsAyuz1rdAAFKpxnSBRas=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdlNzQxMzhiLTc5YjQtNGNjMS04YWFlLWVlNWI1ODIxOWJhMC5qcGc=",
+          "url": "https://resizing.flixster.com/g23p2FLZulvSEoRvUv7fBIcjTp0=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/598/95/thumb_36B97C19-35E2-4EE5-84CE-9ED42EBC9795.jpg",
           "caption": ""
         },
         {
@@ -72,7 +72,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "ecjFb4Oo9n62",
+        "title": "A Fire Within: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/598/95/thumb_36B97C19-35E2-4EE5-84CE-9ED42EBC9795.jpg",
+        "seconds": 136,
+        "src": "https://link.theplatform.com/s/NGweTC/media/ecjFb4Oo9n62?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "christopher_chambers",
@@ -121,7 +127,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T15:42:13.250376Z"
+      "scraped_at": "2026-10-18T04:46:41.439112Z"
     },
     {
       "id": "a_girl_and_a_gun_2012",
@@ -214,7 +220,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-05T05:47:39.810503Z"
+      "scraped_at": "2026-10-18T04:46:52.705062Z"
     },
     {
       "id": "america_the_beautiful_2008",
