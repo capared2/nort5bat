@@ -1,7 +1,7 @@
 {
   "genre": "sports",
   "name": "Sports",
-  "count": 67,
+  "count": 69,
   "titles": [
     {
       "id": "happy_gilmore",
@@ -1518,6 +1518,31 @@
       "directors": []
     },
     {
+      "id": "everest_the_other_side_2026",
+      "category": "biography",
+      "type": "movie",
+      "title": "Everest: The Other Side",
+      "original_title": "Everest: The Other Side",
+      "year": null,
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Sports"
+      ],
+      "rating": 7.6,
+      "votes": null,
+      "tomatometer": 86,
+      "audience_score": null,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/K1_Tw74AtqQxofBVmOwQUmarkuo=/300x450/v2/https://resizing.flixster.com/NK8OKgSNn4LcpZLsmw426bp4K-Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmZjZjYWVkLWQ3MzEtNDAzMS05ZDNkLTNjMTg3YzJhODc5ZC5qcGc=",
+      "plot": "Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North…",
+      "directors": [
+        "Elizabeth Chai Vasarhelyi",
+        "Jimmy Chin"
+      ]
+    },
+    {
       "id": "a_marble_in_the_jar",
       "category": "sports",
       "type": "movie",
@@ -1538,6 +1563,31 @@
       "plot": "Professional surfer Tatiana Weston-Webb rises to the top of women's surfing, as her coach and mentor, Greg Browning, battles ALS -- testing their resilience, friendship, and pursuit of purpose.",
       "directors": [
         "Greg Browning"
+      ]
+    },
+    {
+      "id": "the_mosquito_bowl",
+      "category": "war",
+      "type": "movie",
+      "title": "The Mosquito Bowl",
+      "original_title": "The Mosquito Bowl",
+      "year": null,
+      "genres": [
+        "War",
+        "History",
+        "Drama",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 127,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/t6fPrdhf9abOKUC35s92HpY1uuo=/300x450/v2/https://resizing.flixster.com/5GXyeY8MbyUlcvsgbs7hy8zSYvw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcyYmI2MDQ3LTMzZDAtNDE1MS05ZWYwLTE2MjVhNmI0ZjNmOS5qcGc=",
+      "plot": "Following the attack on Pearl Harbor, four of America's top college football stars set their fame aside to enlist in the Marines. As they prepare for the brutal invasion of Okinawa, they'll play in a…",
+      "directors": [
+        "Peter Berg"
       ]
     },
     {

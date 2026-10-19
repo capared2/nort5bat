@@ -1,8 +1,8 @@
 {
   "genre": "biography",
   "part": 8,
-  "count": 44,
-  "updated_at": "2026-10-18T20:54:45.712951Z",
+  "count": 46,
+  "updated_at": "2026-10-19T13:33:16.630697Z",
   "titles": [
     {
       "id": "1041055-ned_kelly",
@@ -590,7 +590,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T18:29:24.547926Z"
+      "scraped_at": "2026-10-19T13:27:28.103089Z"
     },
     {
       "id": "buddy_holly_story",
@@ -695,7 +695,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T18:33:13.689480Z"
+      "scraped_at": "2026-10-19T13:31:24.531112Z"
     },
     {
       "id": "caroline_flack_her_life_and_death",
@@ -1074,6 +1074,86 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-08T06:11:41.693575Z"
+    },
+    {
+      "id": "everest_the_other_side_2026",
+      "url": "https://www.rottentomatoes.com/m/everest_the_other_side_2026",
+      "category": "biography",
+      "type": "movie",
+      "title": "Everest: The Other Side",
+      "original_title": "Everest: The Other Side",
+      "genres": [
+        "Documentary",
+        "Biography",
+        "Sports"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "rating": 7.6,
+      "votes": null,
+      "tomatometer": 86,
+      "tomatometer_count": 14,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "Elite ski mountaineers Jim Morrison and Hilaree Nelson fell deeply in love while reaching the pinnacle of their sport. Their drive sharpened into a shared dream: to climb and ski the direct North Face of Mount Everest -- the most difficult and dangerous climb on the mountain and the most coveted ski line on Earth. Thousands have summited the mountain via Nepal's southeast ridge, but only a handful have ever reached the top by this route -- and no one has successfully skied down. Already known for their extraordinary feats in the mountains and no strangers to loss, Morrison and Nelson stake everything on this daunting challenge.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/K1_Tw74AtqQxofBVmOwQUmarkuo=/300x450/v2/https://resizing.flixster.com/NK8OKgSNn4LcpZLsmw426bp4K-Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmZjZjYWVkLWQ3MzEtNDAzMS05ZDNkLTNjMTg3YzJhODc5ZC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/K1_Tw74AtqQxofBVmOwQUmarkuo=/300x450/v2/https://resizing.flixster.com/NK8OKgSNn4LcpZLsmw426bp4K-Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmZjZjYWVkLWQ3MzEtNDAzMS05ZDNkLTNjMTg3YzJhODc5ZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/XywwJpht8IU8bHacd_NP5vw6rmk=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/57/307/thumb_a09b8c0d-ad49-11f1-a916-022bbbb30d69.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/O0HpBHiGGoPxS3bJU6buPqDz6k0=/fit-in/705x460/v2/https://resizing.flixster.com/NK8OKgSNn4LcpZLsmw426bp4K-Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmZjZjYWVkLWQ3MzEtNDAzMS05ZDNkLTNjMTg3YzJhODc5ZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/jT56jnU8CzIwtoCbZ7wA23gTXww=/fit-in/705x460/v2/https://resizing.flixster.com/Lhj8mpwHN9IdfOIYrJW_mAC6P0o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZiNTMzYTU5LTEzZjctNDcwNy1hMzY1LTJhYTI0OTRjMmViMi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/L2FUziGH1Rtr40OgCa2VkXNmFxw=/fit-in/705x460/v2/https://resizing.flixster.com/qx8mONcwBKdYj9GazlyVGDnxH2Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVjZTMxMzYwLTA4NjctNGJjYy1hMTVmLTU2MTk4MmJjNTU4Yi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "LVa6QPbCQznG",
+        "title": "Everest: The Other Side: Trailer 2",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/57/307/thumb_a09b8c0d-ad49-11f1-a916-022bbbb30d69.jpg",
+        "seconds": 61,
+        "src": "https://link.theplatform.com/s/NGweTC/media/LVa6QPbCQznG?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "elizabeth-chai-vasarhelyi",
+          "name": "Elizabeth Chai Vasarhelyi"
+        },
+        {
+          "id": "jimmy_chin",
+          "name": "Jimmy Chin"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-19T13:33:00.047043Z"
     },
     {
       "id": "following_harry",
@@ -3604,6 +3684,75 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-14T21:46:54.175909Z"
+    },
+    {
+      "id": "the_eyes_of_ghana",
+      "url": "https://www.rottentomatoes.com/m/the_eyes_of_ghana",
+      "category": "biography",
+      "type": "movie",
+      "title": "The Eyes of Ghana",
+      "original_title": "The Eyes of Ghana",
+      "genres": [
+        "Documentary",
+        "Biography"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 90,
+      "certificate": "In Theaters Oct 28",
+      "rating": 7.7,
+      "votes": null,
+      "tomatometer": 94,
+      "tomatometer_count": 17,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "From Oscar®-winning director Ben Proudfoot, THE EYES OF GHANA is a stunning feature documentary following 93-year-old documentarian Chris Hesse--personal cinematographer to forgotten African icon Kwame Nkrumah--as he races against blindness and time to rescue and repatriate a secret trove of over 1,300 films that captured the birth of African independence in the fifties and sixties. Yet unseen by the public, these films may not only rewrite Ghanaian and African history--but world history itself.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/tRMaCAllCvdHl4yMqRCCQQY4y9Y=/300x450/v2/https://resizing.flixster.com/37Kkl2f0KpjWYz9LI1D3NBFVcSw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxMDJhNDBiLTMzMmItNGJlMi1hYTgwLTg1OWRiYTgwOGZlYS5wbmc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/tRMaCAllCvdHl4yMqRCCQQY4y9Y=/300x450/v2/https://resizing.flixster.com/37Kkl2f0KpjWYz9LI1D3NBFVcSw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxMDJhNDBiLTMzMmItNGJlMi1hYTgwLTg1OWRiYTgwOGZlYS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/TGAvpWdtmgG1jLQNVosUL-U-aG8=/620x336/v2/https://resizing.flixster.com/M7ArQQROIzPieKVR7sqtgow297s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM0YzY4OWQ4LWY5MjAtNGVkOS04YTEyLTQ1ZjQzM2RlY2JkMi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/SOp80KWkbJVVjadsS0saXAAQ5lU=/fit-in/705x460/v2/https://resizing.flixster.com/37Kkl2f0KpjWYz9LI1D3NBFVcSw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxMDJhNDBiLTMzMmItNGJlMi1hYTgwLTg1OWRiYTgwOGZlYS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0Sc2sWpc0DfSWyPZh229YH7jFXY=/fit-in/705x460/v2/https://resizing.flixster.com/Me0-CXAZ5RylTFKBaymcrAiHu9E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY2N2IzZTIzLTk4MDctNDc1ZC1iNTI0LWJmMTViMjY5NjAxOC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/OEIlOu0M0Ywze061kAUuXs1RIHc=/fit-in/705x460/v2/https://resizing.flixster.com/M7ArQQROIzPieKVR7sqtgow297s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM0YzY4OWQ4LWY5MjAtNGVkOS04YTEyLTQ1ZjQzM2RlY2JkMi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "ben_proudfoot",
+          "name": "Ben Proudfoot"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-19T13:32:58.428282Z"
     },
     {
       "id": "the_ghost_of_richard_harris",

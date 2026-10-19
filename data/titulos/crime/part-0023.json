@@ -1,8 +1,8 @@
 {
   "genre": "crime",
   "part": 23,
-  "count": 44,
-  "updated_at": "2026-10-19T04:55:08.658266Z",
+  "count": 47,
+  "updated_at": "2026-10-19T13:33:16.593229Z",
   "titles": [
     {
       "id": "10003184-turning_point",
@@ -2092,7 +2092,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:18:48.222071Z"
+      "scraped_at": "2026-10-19T13:29:18.616263Z"
     },
     {
       "id": "brighton_rock",
@@ -2201,7 +2201,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:18:19.428324Z"
+      "scraped_at": "2026-10-19T13:29:58.975438Z"
     },
     {
       "id": "compulsion",
@@ -4223,6 +4223,95 @@
       "scraped_at": "2026-10-16T16:44:00.592772Z"
     },
     {
+      "id": "traces_of_justice",
+      "url": "https://www.rottentomatoes.com/m/traces_of_justice",
+      "category": "crime",
+      "type": "movie",
+      "title": "Traces of Justice",
+      "original_title": "Traces of Justice",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery & Thriller"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 140,
+      "certificate": null,
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/P2xVRhmpcbftke7TMxCskrPoSv0=/300x450/v2/https://resizing.flixster.com/mS38fV4TR3VGcAxAH1Bx47D_DwU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0Y2JiZTg1LTk1ZWMtNGYzMy04ODliLTRhODdhNzExODdhMi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/P2xVRhmpcbftke7TMxCskrPoSv0=/300x450/v2/https://resizing.flixster.com/mS38fV4TR3VGcAxAH1Bx47D_DwU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0Y2JiZTg1LTk1ZWMtNGYzMy04ODliLTRhODdhNzExODdhMi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NRO8UOQ7T0PEw-2spPaGHN3SqVI=/fit-in/705x460/v2/https://resizing.flixster.com/mS38fV4TR3VGcAxAH1Bx47D_DwU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0Y2JiZTg1LTk1ZWMtNGYzMy04ODliLTRhODdhNzExODdhMi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "sicheng_chen",
+          "name": "Sicheng Chen"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "yi_zhang",
+          "name": "Yi Zhang",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "li_ma",
+          "name": "Li Ma",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "minghao_chen",
+          "name": "Minghao Chen",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "karry_wang",
+          "name": "Karry Wang",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "chengcheng_fan",
+          "name": "Chengcheng Fan",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-19T13:33:07.902987Z"
+    },
+    {
       "id": "violent_saturday",
       "url": "https://www.rottentomatoes.com/m/violent_saturday",
       "category": "crime",
@@ -4534,6 +4623,233 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-17T04:36:04.155699Z"
+    },
+    {
+      "id": "who_killed_alex_odeh",
+      "url": "https://www.rottentomatoes.com/m/who_killed_alex_odeh",
+      "category": "crime",
+      "type": "movie",
+      "title": "Who Killed Alex Odeh?",
+      "original_title": "Who Killed Alex Odeh?",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 84,
+      "certificate": "In Theaters Oct 30",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 6,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "The assassination of a beloved Palestinian American activist in Southern California ignites a 40-year quest for justice, revealing the roots of a dangerous political movement that thrives today.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/le8AcSsr7HqU7QXpow0zj71bESQ=/300x450/v2/https://resizing.flixster.com/ACLOY03s_evXXSlAqDKtexpQHkM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjNmNhODY1LWE5ZDItNDM4Mi1iYTVmLTRjNWJhMTY2MThmZS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/le8AcSsr7HqU7QXpow0zj71bESQ=/300x450/v2/https://resizing.flixster.com/ACLOY03s_evXXSlAqDKtexpQHkM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjNmNhODY1LWE5ZDItNDM4Mi1iYTVmLTRjNWJhMTY2MThmZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/eV7rvIjYE6l4Wgqmg4e-uk1gAI4=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/998/647/thumb_8FBB4E59-A06A-4BB7-87D8-240684298471.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bEyWrVCqTeCcq5sSSxn3Sty38t8=/fit-in/705x460/v2/https://resizing.flixster.com/dB98l2aF0ZOg6G5urlit5RaTC-M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3YWFlZjYxLTY4N2QtNDBkNS05OGFkLTdlMzY1ZmJmZDU5YS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/iZgyH79xVYZju5Fqyk158m_kRQ0=/fit-in/705x460/v2/https://resizing.flixster.com/c-aCxHZgQORgXapsaoCL6qVP9Lc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAxOWUyMTA5LTRkYjEtNDNhNS04ZmI5LTg0MTIyNjRjYmIyNC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/TdVgNTJ6G7teO8FOQFmRK-Y-_hk=/fit-in/705x460/v2/https://resizing.flixster.com/EMsyN4E3KUpah8UMfAoPYprpn2s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBkYWZmNmY5LTliY2ItNDY3Yy1iNjcxLTY5ZGFkNGE1OWQyNi5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/H2dIO0gXPT3k8Qwm3hfsO7CID4k=/fit-in/705x460/v2/https://resizing.flixster.com/18r2LLqkBZraScqoOioEgOmBdb4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E0OGFkNDk3LWE3NGYtNDlmNS05ZTI1LWZiZWE4NWQzYzUyYS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5ErGLrbSQYw_sqwMhywSf3dhLP8=/fit-in/705x460/v2/https://resizing.flixster.com/qkUcA1IFvl5lTImU9rCV8NamKTo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlMjgyZGEyLTVmZTQtNDlmNy04ODU4LTkxNmY3ZGMyYTRlOC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FUEgW4Gp4E8ycTOb2m5nhvEaD7I=/fit-in/705x460/v2/https://resizing.flixster.com/pZtJUleJVk8sbDsEM_x2j5rh7VE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IzYjJjYmY5LTUxNzAtNDMxNC05NzQ1LTlhYTI3MjFkYmU1OC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/MggmwNj8vJlr5FK4paTkwTqPTM4=/fit-in/705x460/v2/https://resizing.flixster.com/qsqCRqM0CiwJoxKLtGeuRrtSs3o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I5OWI5NDg0LWQxOGUtNGM1Yi1iYjk3LTAzNjJmZTIyNWQyYS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/o7AKgIAhVMeMlK2BGDQH7TIDybY=/fit-in/705x460/v2/https://resizing.flixster.com/tD3gGj2OPeVjG_ICu59f0-6po2A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IyY2NhMTk4LTk1MGItNDBjZi04ZGMzLWFhMDQ5NDJiMDM4Zi5wbmc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "SwU2PaQmruTC",
+        "title": "Who Killed Alex Odeh?: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/998/647/thumb_8FBB4E59-A06A-4BB7-87D8-240684298471.jpg",
+        "seconds": 95,
+        "src": "https://link.theplatform.com/s/NGweTC/media/SwU2PaQmruTC?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "jason_osder",
+          "name": "Jason Osder"
+        },
+        {
+          "id": "william_lafi_youmans",
+          "name": "William Lafi Youmans"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-19T13:33:08.931294Z"
+    },
+    {
+      "id": "wild_horse_nine",
+      "url": "https://www.rottentomatoes.com/m/wild_horse_nine",
+      "category": "crime",
+      "type": "movie",
+      "title": "Wild Horse Nine",
+      "original_title": "Wild Horse Nine",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Crime",
+        "Mystery & Thriller"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 118,
+      "certificate": "R",
+      "rating": 8.2,
+      "votes": null,
+      "tomatometer": 94,
+      "tomatometer_count": 89,
+      "tomatometer_certified": true,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students (Mariana di Girolamo and Ailín Salas) threatens to send everyone’s trip to this remote paradise sideways.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/TlxNqZwz1Q1NVD7m43lBKFbMHB0=/300x450/v2/https://resizing.flixster.com/ZEcRdikluqDLhRXiBVqAQiNVEgI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiMWUxZGRlLTY3ZDQtNDYyYi05NTU3LWYxNjgzMzFlZTRkNC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/TlxNqZwz1Q1NVD7m43lBKFbMHB0=/300x450/v2/https://resizing.flixster.com/ZEcRdikluqDLhRXiBVqAQiNVEgI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiMWUxZGRlLTY3ZDQtNDYyYi05NTU3LWYxNjgzMzFlZTRkNC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Ayi6vpCFzPEe2JdvOg2pXb_Ivww=/620x336/v2/https://resizing.flixster.com/2450f00ARYCd-Uc3Yp583zlaPng=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzExNTkzMTU1LWMxNjctNGJhYy1hY2JlLWEzZTAwZmFkNWUwNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/xP60v3k6t8ziuBIhobhg3JxROjk=/fit-in/705x460/v2/https://resizing.flixster.com/FUVOkluOm8ebCCFKQE-jesqZlWM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBmZWI0M2VhLWMwNWMtNDBiMi1iZjE2LWQxNmQ3ODE1ZDIxOC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Rh1UAZJuQZue31BFvFFY7Q677K8=/fit-in/705x460/v2/https://resizing.flixster.com/2UyK9o7XSmUX7-RPgVkg4bDwinY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIyZGQ4YjI5LWRlMTMtNDUyZi05NzA0LWVmMGM2ZDY1YjJhOC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0Y4mEj8CoVQk_8vqSYktVnGa4yU=/fit-in/705x460/v2/https://resizing.flixster.com/2450f00ARYCd-Uc3Yp583zlaPng=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzExNTkzMTU1LWMxNjctNGJhYy1hY2JlLWEzZTAwZmFkNWUwNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_LJkQUErcOqb8hK0In6ebOqHBD8=/fit-in/705x460/v2/https://resizing.flixster.com/GToiWwUaguLhZff8-0jFJbACHv8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjYjA0ZmQ1LWM4OTktNDJiYy1hNzZmLTRhMDQxMzFlMDFkMC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/UrwbMbrv1XIC9cf7Eqmna5PO7ng=/fit-in/705x460/v2/https://resizing.flixster.com/KTNihpZz5SM24kpNywE9AqHgBvE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjZjMzNmRhLTRmZjktNGU5Ny05YWQwLWI2MTkxNmU2YTRjZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/nCYHF7fKVF9mgrjXAprzgGlJhiI=/fit-in/705x460/v2/https://resizing.flixster.com/pqG8PLM1yIZBxa8GEfpzcj5qxDM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUxNDAwMmRlLTk4YTItNDQ3ZS1hZTdiLWUwYzcyYTk3OGU5Ny5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fXEXu5xMLheM9vT34U_Blt1KkvQ=/fit-in/705x460/v2/https://resizing.flixster.com/yqCLBQ2ExYOgZ-cQ5WV9j1PcjYc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VjYTYzYmVlLTgyZjYtNDg5Ni1iZjY1LTgzMDdjMzRkZWVkZC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/7FSXG9Wj1ybI7vwlRsS_u47QTQU=/fit-in/705x460/v2/https://resizing.flixster.com/H2AoyzASKiowVU3j0M9xSP6zxO8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyNTBlNTcyLWM0NmUtNDQzYi04NTAwLWM4NmNiMTllMDkyZC5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "GomdB9Gt8Xep",
+        "title": "Wild Horse Nine: Trailer 2",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/351/175/wildhorsenine_tr2_v2.jpg",
+        "seconds": 71,
+        "src": "https://link.theplatform.com/s/NGweTC/media/GomdB9Gt8Xep?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "770694539",
+          "name": "Martin McDonagh"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "john_malkovich",
+          "name": "John Malkovich",
+          "character": "",
+          "image": "https://resizing.flixster.com/Z_artDuloJe2XlyGtwf2P4aZOVs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG0034ZRNH.jpg"
+        },
+        {
+          "id": "sam_rockwell",
+          "name": "Sam Rockwell",
+          "character": "",
+          "image": "https://resizing.flixster.com/PSBuYMKLic6OI7sdqFczaRP6t7Y=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/57663_v9_bd.jpg"
+        },
+        {
+          "id": "steve_buscemi",
+          "name": "Steve Buscemi",
+          "character": "",
+          "image": "https://resizing.flixster.com/-uTPLmcBFAd5Y23uM1IKPE6tYFg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002HJV12.jpg"
+        },
+        {
+          "id": "tom_waits",
+          "name": "Tom Waits",
+          "character": "",
+          "image": "https://resizing.flixster.com/-QDr6cfI30-RQE1Nkgba3vdn5BA=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/63157_v9_ba.jpg"
+        },
+        {
+          "id": "parker_posey",
+          "name": "Parker Posey",
+          "character": "",
+          "image": "https://resizing.flixster.com/UNYzHQGapq3h_xkHoZ2pOcpz64c=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74083_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-10-19T13:33:15.838224Z"
     },
     {
       "id": "witness_for_the_prosecution",

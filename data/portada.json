@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:55:11.077769Z",
+  "generated_at": "2026-10-19T13:33:18.866088Z",
   "populares": [
     {
       "id": "the_dark_knight",
@@ -452,7 +452,7 @@
         "Mystery & Thriller"
       ],
       "rating": 8.1,
-      "votes": 263838,
+      "votes": 263842,
       "tomatometer": 92,
       "audience_score": 91,
       "runtime_minutes": 115,
@@ -1404,7 +1404,7 @@
         "Drama"
       ],
       "rating": 9.3,
-      "votes": 38437,
+      "votes": 38440,
       "tomatometer": 97,
       "audience_score": 80,
       "runtime_minutes": 165,
@@ -2623,16 +2623,19 @@
     },
     {
       "id": "buddy_2026",
-      "category": "other",
+      "category": "fantasy",
       "type": "movie",
       "title": "Buddy",
       "original_title": "Buddy",
       "year": 2026,
-      "genres": [],
+      "genres": [
+        "Mystery & Thriller",
+        "Fantasy"
+      ],
       "rating": 7.0,
-      "votes": 2246,
+      "votes": 2298,
       "tomatometer": 88,
-      "audience_score": 75,
+      "audience_score": 76,
       "runtime_minutes": 96,
       "certificate": "R",
       "poster": "https://resizing.flixster.com/RcVeghwcG1M8_LNyEMxxG4gtab0=/300x450/v2/https://resizing.flixster.com/yl5JN7R8Zb7ZuFbu4xFCxx-Npzs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y5N2E5Yjc2LTEzNjEtNDhiYi05MWQ5LWQ3ODg4YzY2NzRhYi5qcGc=",
