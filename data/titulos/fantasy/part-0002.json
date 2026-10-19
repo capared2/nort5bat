@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-10-18T04:47:02.394212Z",
+  "updated_at": "2026-10-19T04:55:08.797250Z",
   "titles": [
     {
       "id": "a_ghost_story",
@@ -160,7 +160,7 @@
       "tomatometer_count": 98,
       "tomatometer_certified": true,
       "audience_score": 72,
-      "audience_count": 81,
+      "audience_count": 80,
       "metascore": null,
       "plot": "Cursed with immortality, a highly skilled samurai in feudal Japan promises to help a young woman avenge the death of her parents. Their mission leads them into a bloody battle with a ruthless warrior and his band of master swordsmen.",
       "tagline": "",
@@ -221,7 +221,38 @@
         }
       ],
       "writers": [],
-      "cast": [],
+      "cast": [
+        {
+          "id": "takuya-kimura",
+          "name": "Takuya Kimura",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "hana_sugisaki",
+          "name": "Hana Sugisaki",
+          "character": "",
+          "image": "https://resizing.flixster.com/uEYa0sv0yE_GbOuDdzVSmVhdL_I=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1034073_v9_ba.jpg"
+        },
+        {
+          "id": "sota_fukushi_2",
+          "name": "Sôta Fukushi",
+          "character": "",
+          "image": "https://resizing.flixster.com/18Z8OBHph06PB0nxfHlZL_9xt9k=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002RKFWM.jpg"
+        },
+        {
+          "id": "hayato-ichihara",
+          "name": "Hayato Ichihara",
+          "character": "",
+          "image": "https://resizing.flixster.com/9enZkI6a8ZDeCWmmh5Sv051demo=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/309229_v9_ab.jpg"
+        },
+        {
+          "id": "erika_toda",
+          "name": "Erika Toda",
+          "character": "",
+          "image": "https://resizing.flixster.com/RT41Dqh5IOGy7RVM1bP5tiiAliw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/518397_v9_aa.jpg"
+        }
+      ],
       "keywords": [],
       "countries": [],
       "languages": [],
@@ -232,15 +263,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Blade-of-the-Immortal/892045?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0FWQPLVWL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T06:33:51.901188Z"
+      "scraped_at": "2026-10-19T04:53:38.242872Z"
     },
     {
       "id": "blithe_spirit_2021",
@@ -259,12 +286,12 @@
       "runtime_minutes": 95,
       "certificate": "PG-13",
       "rating": 4.7,
-      "votes": 137,
+      "votes": 138,
       "tomatometer": 28,
       "tomatometer_count": 79,
       "tomatometer_certified": false,
       "audience_score": 32,
-      "audience_count": 28,
+      "audience_count": 29,
       "metascore": null,
       "plot": "A married crime novelist finds himself in a tough predicament when an eccentric mystic summons the spirit of his first wife during a séance.",
       "tagline": "",
@@ -371,7 +398,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T06:34:35.219437Z"
+      "scraped_at": "2026-10-19T04:54:21.289744Z"
     },
     {
       "id": "bloodshot_2020",
@@ -511,7 +538,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T18:26:22.756732Z"
+      "scraped_at": "2026-10-19T04:54:58.436587Z"
     },
     {
       "id": "clash_of_the_titans_2",

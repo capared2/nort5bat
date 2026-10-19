@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-10-18T20:54:45.006665Z",
+  "updated_at": "2026-10-19T04:54:46.558616Z",
   "titles": [
     {
       "id": "1010230-hunter",
@@ -851,7 +851,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T06:31:46.940370Z"
+      "scraped_at": "2026-10-19T04:51:29.122196Z"
     },
     {
       "id": "bissonnet_2_back_on_the_blade",
@@ -941,7 +941,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T06:32:15.899858Z"
+      "scraped_at": "2026-10-19T04:51:58.172311Z"
     },
     {
       "id": "blackout_2022",
@@ -962,7 +962,7 @@
       "runtime_minutes": 80,
       "certificate": null,
       "rating": null,
-      "votes": 275,
+      "votes": 276,
       "tomatometer": null,
       "tomatometer_count": 3,
       "tomatometer_certified": false,
@@ -1062,6 +1062,10 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/81564308?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0GKVJH35F/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         },
@@ -1072,7 +1076,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T06:33:45.066076Z"
+      "scraped_at": "2026-10-19T04:53:30.949080Z"
     },
     {
       "id": "bless_me_father",
@@ -1208,7 +1212,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-06T06:34:13.894985Z"
+      "scraped_at": "2026-10-19T04:54:00.222505Z"
     },
     {
       "id": "born_losers",
