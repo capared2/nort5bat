@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 9,
   "count": 59,
-  "updated_at": "2026-10-19T13:33:15.954063Z",
+  "updated_at": "2026-10-19T22:32:07.181501Z",
   "titles": [
     {
       "id": "10012039-lottery_ticket",
@@ -1363,7 +1363,7 @@
       "tomatometer_count": 111,
       "tomatometer_certified": false,
       "audience_score": 35,
-      "audience_count": 1083,
+      "audience_count": 1082,
       "metascore": null,
       "plot": "Armando's (Will Ferrell) younger brother, Raul (Diego Luna), returns to the family ranch with his beautiful fiancée, Sonia (Genesis Rodriguez), and promises to fix its financial problems. Trouble soon follows when Armando falls in love with Sonia, and they discover Raul's business dealings are less than legitimate. All hell breaks loose when the most feared drug lord in Mexico, Onza (Gael García Bernal), declares war on Raul and the rest of the family.",
       "tagline": "",
@@ -1452,10 +1452,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Casa-De-Mi-Padre/343437?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T06:08:25.025082Z"
+      "scraped_at": "2026-10-19T22:26:45.737351Z"
     },
     {
       "id": "cassino_in_ischia",
@@ -1478,7 +1483,7 @@
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 7,
+      "audience_count": 4,
       "metascore": null,
       "plot": "Former box office king Nic Cassino (Dominic Purcell, PRISON BREAK) finds himself overshadowed by a new generation of action stars. Determined to revive his career, he heads to Italy, where he teams up with an eccentric, down-on-his-luck Italian director to create an artsy, groundbreaking action movie. But as they stumble through cultural clashes and a chaotic production, Nic's comeback attempt spirals into a hilarious journey of mishaps, reinvention, and unexpected discoveries.",
       "tagline": "",
@@ -1585,7 +1590,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T06:08:43.585667Z"
+      "scraped_at": "2026-10-19T22:27:04.956679Z"
     },
     {
       "id": "christmess",
@@ -1711,7 +1716,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T06:13:05.642986Z"
+      "scraped_at": "2026-10-19T22:31:30.511858Z"
     },
     {
       "id": "dont_look_up_2021",

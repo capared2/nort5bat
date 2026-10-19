@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-10-19T13:32:36.020923Z",
+  "updated_at": "2026-10-19T22:30:06.036120Z",
   "titles": [
     {
       "id": "a_faithful_man",
@@ -1379,7 +1379,7 @@
       "rating": 7.7,
       "votes": 25,
       "tomatometer": 98,
-      "tomatometer_count": 41,
+      "tomatometer_count": 42,
       "tomatometer_certified": true,
       "audience_score": null,
       "audience_count": 7,
@@ -1489,7 +1489,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T06:06:25.007801Z"
+      "scraped_at": "2026-10-19T22:24:41.037978Z"
     },
     {
       "id": "charlie_harper",
@@ -1502,18 +1502,18 @@
         "Romance",
         "Drama"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 5.6,
-      "votes": 59,
+      "votes": 63,
       "tomatometer": 59,
       "tomatometer_count": 32,
       "tomatometer_certified": false,
-      "audience_score": 85,
-      "audience_count": 27,
+      "audience_score": 84,
+      "audience_count": 28,
       "metascore": null,
       "plot": "Charlie Harper is an emotional modern romance that explores the tension between love, ambition, identity, and personal growth. Through the evolving relationship of Charlie and Harper, the film examines what happens when two people deeply connected to one another begin growing in different directions, forcing them to confront whether love alone is enough.",
       "tagline": "",
@@ -1602,10 +1602,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Charlie-Harper/5276357?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T06:10:50.163374Z"
+      "scraped_at": "2026-10-19T22:29:13.208889Z"
     },
     {
       "id": "combien_tu_maimes",

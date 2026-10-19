@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 49,
   "count": 60,
-  "updated_at": "2026-10-19T13:28:34.010525Z",
+  "updated_at": "2026-10-19T22:32:07.490974Z",
   "titles": [
     {
       "id": "10005227-finding_home",
@@ -1886,10 +1886,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Christiane-F/5172817?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T06:12:59.149407Z"
+      "scraped_at": "2026-10-19T22:31:23.079100Z"
     },
     {
       "id": "climates",
