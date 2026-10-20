@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 15,
   "count": 60,
-  "updated_at": "2026-10-20T04:57:59.576820Z",
+  "updated_at": "2026-10-20T11:46:07.597734Z",
   "titles": [
     {
       "id": "1112617-new_guy",
@@ -1072,10 +1072,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CL19QXC1/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T23:10:02.764878Z"
+      "scraped_at": "2026-10-20T11:45:51.029170Z"
     },
     {
       "id": "dogma",

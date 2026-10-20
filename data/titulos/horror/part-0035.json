@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-10-20T05:04:04.122762Z",
+  "updated_at": "2026-10-20T11:50:10.353388Z",
   "titles": [
     {
       "id": "1002448-birds",
@@ -2178,18 +2178,18 @@
         "Horror",
         "Comedy"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 102,
       "certificate": "Sep 2026",
       "rating": null,
-      "votes": 4,
+      "votes": 7,
       "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 2,
+      "audience_count": 4,
       "metascore": null,
       "plot": "A few years after surviving the last demon apocalypse, Brodie is washed-up, broke, and stuck in small-town purgatory. The long-awaited sequel to Jason Lei Howden's 2015 cult classic promises more gore, more metal, and more head-banging chaos than the original.",
       "tagline": "",
@@ -2250,10 +2250,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Deathgasm-2-Goremageddon/5087793?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T23:14:01.869531Z"
+      "scraped_at": "2026-10-20T11:50:00.048534Z"
     },
     {
       "id": "devil_rides_out",
