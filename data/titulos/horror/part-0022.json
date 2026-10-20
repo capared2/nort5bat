@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-10-20T17:19:24.940301Z",
+  "updated_at": "2026-10-20T21:48:51.273244Z",
   "titles": [
     {
       "id": "10011736-suck",
@@ -2657,10 +2657,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HHMJ93XJ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T13:39:25.212300Z"
+      "scraped_at": "2026-10-20T21:44:05.393470Z"
     },
     {
       "id": "family_dinner",
@@ -2684,7 +2689,7 @@
       "tomatometer_count": 18,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 5,
+      "audience_count": 4,
       "metascore": null,
       "plot": "Tired of feeling down about her weight, plus-sized 15-year-old Simi (Nina Katlein) heads to her aunt Claudia's house for Easter weekend. Claudia (Pia Hierzegger) is a popular nutritionist who's written best-selling health books, so for Simi, spending a few days together could help change her diet and inspire weight loss. What should've been a nice holiday weekend with family, however, quickly reveals itself to be anything but. Simi's cousin, Filipp (Alexander Sladek), is curiously hostile towards her, while Filipp's stepdad, Stefan (Michael Pink), is curiously the opposite towards Simi, all while Claudia's dietary guidance verges on becoming overly militant. What's causing everyone to act so strangely and aggressively? The answers are even worse than Simi's worst nightmares.",
       "tagline": "",
@@ -2783,7 +2788,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T13:43:58.091335Z"
+      "scraped_at": "2026-10-20T21:48:41.538303Z"
     },
     {
       "id": "frogs",
