@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-10-20T11:52:12.553574Z",
+  "updated_at": "2026-10-20T17:19:24.920084Z",
   "titles": [
     {
       "id": "10012256-predators",
@@ -1725,7 +1725,7 @@
       "runtime_minutes": 111,
       "certificate": "R",
       "rating": 4.8,
-      "votes": 1556,
+      "votes": 1558,
       "tomatometer": 29,
       "tomatometer_count": 45,
       "tomatometer_certified": false,
@@ -1785,7 +1785,38 @@
         }
       ],
       "writers": [],
-      "cast": [],
+      "cast": [
+        {
+          "id": "stellan_skarsgard_2",
+          "name": "Stellan Skarsgård",
+          "character": "",
+          "image": "https://resizing.flixster.com/WzAkuHDvY6OnBorw83UuTfMv8P8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/238828_v9_bb.jpg"
+        },
+        {
+          "id": "gabriel_mann",
+          "name": "Gabriel Mann",
+          "character": "",
+          "image": "https://resizing.flixster.com/WKgZptopcqlgmCwuAEimW5JMRh8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/154887_v9_bb.jpg"
+        },
+        {
+          "id": "clara_bellar",
+          "name": "Clara Bellar",
+          "character": "",
+          "image": "https://resizing.flixster.com/pCayigwcj_43dEnxCVM3ptIMP_0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73274_v9_aa.jpg"
+        },
+        {
+          "id": "ralph_brown",
+          "name": "Ralph Brown",
+          "character": "",
+          "image": "https://resizing.flixster.com/mKAYQDS40KNTlQeV5vw04XPBW3g=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74423_v9_bb.jpg"
+        },
+        {
+          "id": "andrew_french",
+          "name": "Andrew French",
+          "character": "",
+          "image": "https://resizing.flixster.com/j1VaYoWuWMQ2EveSR4YM2e3sxKI=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/290485_v9_aa.jpg"
+        }
+      ],
       "keywords": [],
       "countries": [],
       "languages": [],
@@ -1804,7 +1835,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T06:14:22.544770Z"
+      "scraped_at": "2026-10-20T17:17:08.892101Z"
     },
     {
       "id": "doomsday",
@@ -1825,12 +1856,12 @@
       "runtime_minutes": 109,
       "certificate": "R",
       "rating": 5.2,
-      "votes": 14942,
+      "votes": 14944,
       "tomatometer": 50,
       "tomatometer_count": 74,
       "tomatometer_certified": false,
       "audience_score": 44,
-      "audience_count": 8139,
+      "audience_count": 8138,
       "metascore": null,
       "plot": "When the first outbreak of the Reaper virus hit Scotland, Eden Sinclair was one of the last to escape containment and had to leave her mother behind. Twenty-five years later, Maj. Eden Sinclair (Rhona Mitra) leads a team back into the hot zone to find a counteragent to the virus, which has re-emerged in London. She and her comrades wage a desperate battle for survival against feral survivors, as they try to prevent it from ushering in a new dark age.",
       "tagline": "",
@@ -1931,7 +1962,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T06:15:13.915361Z"
+      "scraped_at": "2026-10-20T17:18:00.182011Z"
     },
     {
       "id": "dracula_ii_ascension",
@@ -1949,12 +1980,12 @@
       "runtime_minutes": 85,
       "certificate": "R",
       "rating": 3.3,
-      "votes": 432,
+      "votes": 434,
       "tomatometer": 0,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 30,
-      "audience_count": 142,
+      "audience_score": 29,
+      "audience_count": 143,
       "metascore": null,
       "plot": "After a band of medical students receives a decaying but living body reported to be the vampire Count Dracula (Stephen Billington), they set out to harness his power and immortality. As a bonus, their mentor, Lowell (Craig Sheffer), claims that there is a mysterious donor willing to fund their research. During the study, student Elizabeth Blaine (Diane Neal) injures herself on the vampire's tooth and starts to feel strange. Soon, vampire hunter Father Uffizi (Jason Scott Lee) is on their trail.",
       "tagline": "",
@@ -2043,7 +2074,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T06:16:27.532222Z"
+      "scraped_at": "2026-10-20T17:19:15.441203Z"
     },
     {
       "id": "eloise",

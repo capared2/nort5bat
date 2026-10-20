@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-10-20T11:50:10.353388Z",
+  "updated_at": "2026-10-20T17:21:27.035589Z",
   "titles": [
     {
       "id": "1002448-birds",
@@ -2281,7 +2281,7 @@
       "tomatometer_count": 24,
       "tomatometer_certified": false,
       "audience_score": 75,
-      "audience_count": 219,
+      "audience_count": 218,
       "metascore": null,
       "plot": "When the Duc de Richleau (Christopher Lee) and Rex Van Ryn (Leon Greene) arrive at a fashionable party thrown by de Richleau's protégé, Simon Aron (Patrick Mower), they soon realize that the party is in fact a gathering of a Satanic cult, led by the high priest Mocata (Charles Gray), that plans to initiate the beautiful Tanith (Nike Arrighi) that night. It's up to de Richleau and Van Ryn to defeat the devil-worshiping Mocata and save innocent young Tanith and the others from a terrible fate.",
       "tagline": "",
@@ -2361,7 +2361,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:13:09.176831Z"
+      "scraped_at": "2026-10-20T17:13:29.229484Z"
     },
     {
       "id": "devour",
@@ -2374,18 +2374,18 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 113,
-      "certificate": "In Theaters Oct 9",
+      "certificate": "Oct 2026",
       "rating": null,
-      "votes": null,
+      "votes": 6,
       "tomatometer": null,
-      "tomatometer_count": 1,
+      "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 3,
       "metascore": null,
       "plot": "Stranded after a disastrous gig, an all-girl heavy metal band finds a woman in danger in a town ruled by a warlock, and crawling with cannibals, vampires, and a deadly werewolf, forcing them to fight for survival.",
       "tagline": "",
@@ -2480,10 +2480,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Devour/5090616?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T06:11:02.221042Z"
+      "scraped_at": "2026-10-20T17:13:42.154848Z"
     },
     {
       "id": "dracula_has_risen_from_the_grave",
@@ -2587,7 +2592,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:13:10.741209Z"
+      "scraped_at": "2026-10-20T17:19:14.340132Z"
     },
     {
       "id": "draculas_daughter",
@@ -2605,7 +2610,7 @@
       "runtime_minutes": 72,
       "certificate": null,
       "rating": 5.9,
-      "votes": 428,
+      "votes": 429,
       "tomatometer": 64,
       "tomatometer_count": 25,
       "tomatometer_certified": false,
@@ -2695,7 +2700,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:13:15.269471Z"
+      "scraped_at": "2026-10-20T17:19:17.824630Z"
     },
     {
       "id": "dreamquil",
@@ -2714,10 +2719,10 @@
       "release_date": null,
       "runtime_minutes": 89,
       "certificate": "R",
-      "rating": 4.7,
+      "rating": 5.2,
       "votes": null,
-      "tomatometer": 36,
-      "tomatometer_count": 11,
+      "tomatometer": 44,
+      "tomatometer_count": 16,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -2813,10 +2818,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dreamquil/5171045?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T06:17:03.715094Z"
+      "scraped_at": "2026-10-20T17:19:54.342098Z"
     },
     {
       "id": "eyes_without_a_face_1962",
