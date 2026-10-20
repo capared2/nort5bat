@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-10-19T13:30:36.624942Z",
+  "updated_at": "2026-10-20T05:04:04.122762Z",
   "titles": [
     {
       "id": "1002448-birds",
@@ -1831,12 +1831,12 @@
       "year": null,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": null,
+      "runtime_minutes": 108,
       "certificate": "R",
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -1851,6 +1851,10 @@
         },
         {
           "url": "https://resizing.flixster.com/_80ETNl7mU5Xkq5TIErgunPmT0g=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/476/175/thumb_C9751687-5B7C-4415-8538-C99827731761.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/7o3NIvkGnEbJermwIdlvv8dLLws=/fit-in/705x460/v2/https://resizing.flixster.com/Aa_gEdoSIkB2q5e5-JFvYBPPwMs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzViYmNmMjYyLTBiNDQtNGY1ZC05YmUxLWY0ZjJiNDgxM2RkOC5qcGc=",
           "caption": ""
         },
         {
@@ -1870,19 +1874,15 @@
           "caption": ""
         },
         {
+          "url": "https://resizing.flixster.com/u3gK1fmR9sYyH-icGPYkYhP8rbM=/fit-in/705x460/v2/https://resizing.flixster.com/b35_t8lisykerSWC-O65Sm2Up0w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU4MGQ2OTU0LTAyMGQtNGZkNy1iYmQyLTRlYmI5NWRmZTM0Mi5qcGc=",
+          "caption": ""
+        },
+        {
           "url": "https://resizing.flixster.com/64G8ng5UtycZma3VCaiFvKieZSU=/fit-in/705x460/v2/https://resizing.flixster.com/pNNB5oxkcb7zL-dfYCLUqLzyJUc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlmZmI5YTBiLTU3MjAtNGJlNy1hNTJkLWI0NTQxYzFlYWI5ZS5qcGc=",
           "caption": ""
         },
         {
           "url": "https://resizing.flixster.com/ORzZjB2llBWSPsyR5xwhinUOWRU=/fit-in/705x460/v2/https://resizing.flixster.com/zjw0XgYS1ZJsGSp-bmE48d_BBEM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyMDcyZGEyLTY0ZDAtNGM3Yy1hMjk2LWFmY2QzY2I2MzJhYy5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/7ZSz-f7TRuBeuPqx6n0NMEDHXLU=/fit-in/705x460/v2/https://resizing.flixster.com/o9Ho_RoBZxNs2FzQMf9WXRa6jbU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RhYmJjMDM2LWNlZTgtNGQ3Mi1hZTk3LWIyYjc2M2JlODMwNS5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/Jd2-AH2LSJQlbapX3u4Zlwy3gyw=/fit-in/705x460/v2/https://resizing.flixster.com/Y8jcw8zGaIpm5sjHFABb85-ajPo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYxMzhkZWMyLWM0ZjgtNDAxZS1hNGYwLTNmYWNjNTkwMmIzZS5qcGc=",
           "caption": ""
         }
       ],
@@ -1941,7 +1941,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T13:31:01.844576Z"
+      "scraped_at": "2026-10-20T04:56:49.259820Z"
     },
     {
       "id": "crawlers_2026",
@@ -1954,18 +1954,18 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 86,
       "certificate": "R",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
+      "rating": 5.5,
+      "votes": 64,
+      "tomatometer": 55,
+      "tomatometer_count": 20,
       "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 38,
+      "audience_count": 25,
       "metascore": null,
       "plot": "In CRAWLERS, a catastrophic infestation of venomous and deadly spiders sends an apartment building into lockdown. Trapped inside by a police-mandated quarantine, building manager Serena (Matilda Lutz) and her residents battle to survive as the creatures multiply by the second. Armed with her intimate knowledge of the complex, Serena may be the only one who can keep them alive--if she can confront her deepest fear.",
       "tagline": "",
@@ -2048,10 +2048,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Crawlers/5289999?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T13:36:21.779955Z"
+      "scraped_at": "2026-10-20T05:02:17.903523Z"
     },
     {
       "id": "crazies",
@@ -2070,12 +2075,12 @@
       "runtime_minutes": 103,
       "certificate": "R",
       "rating": 5.7,
-      "votes": 1405,
+      "votes": 1406,
       "tomatometer": 68,
       "tomatometer_count": 28,
       "tomatometer_certified": false,
       "audience_score": 50,
-      "audience_count": 479,
+      "audience_count": 478,
       "metascore": null,
       "plot": "A nurse (Lane Carroll) and her husband (W.G. McMillan) try to get out of their infected town, but the Army has it sealed off.",
       "tagline": "",
@@ -2160,7 +2165,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:14:55.344986Z"
+      "scraped_at": "2026-10-20T05:02:19.672806Z"
     },
     {
       "id": "deathgasm_ii_goremageddon",

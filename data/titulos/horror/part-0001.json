@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 1,
   "count": 59,
-  "updated_at": "2026-10-19T13:30:36.633882Z",
+  "updated_at": "2026-10-20T05:00:02.196413Z",
   "titles": [
     {
       "id": "28_years_later_the_bone_temple",
@@ -1092,9 +1092,9 @@
       "runtime_minutes": 122,
       "certificate": "R",
       "rating": 6.9,
-      "votes": 297,
-      "tomatometer": 82,
-      "tomatometer_count": 116,
+      "votes": 299,
+      "tomatometer": 81,
+      "tomatometer_count": 117,
       "tomatometer_certified": true,
       "audience_score": 93,
       "audience_count": 77,
@@ -1204,7 +1204,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T13:33:01.383448Z"
+      "scraped_at": "2026-10-20T04:58:50.136198Z"
     },
     {
       "id": "companion_2025",
@@ -1335,13 +1335,21 @@
           "url": "https://athome.fandango.com/content/browse/details/Companion/4019872?cmp=rt_where_to_watch"
         },
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
           "name": "HBO Max",
           "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-07T13:33:42.801245Z"
+      "scraped_at": "2026-10-20T04:59:35.113437Z"
     },
     {
       "id": "doctor_jekyll",
