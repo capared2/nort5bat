@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-10-20T11:50:10.853013Z",
+  "updated_at": "2026-10-21T21:54:39.109519Z",
   "titles": [
     {
       "id": "1083481-negotiator",
@@ -2339,7 +2339,7 @@
         "Crime",
         "Drama"
       ],
-      "year": null,
+      "year": 2024,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 89,
@@ -2385,7 +2385,15 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/ZEMzciaDP_SYgK-UOwBhbr0Hows=/fit-in/705x460/v2/https://resizing.flixster.com/6TL7vtyzx42cylxFVtDuD1iT_bY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc5MzJiZjhmLTVhYTktNDMzOS04NWJhLWQ0ZWZjNDc2NTBkNS5qcGc=",
+          "url": "https://resizing.flixster.com/uOpYSuxkJEILT9sD65zOnXlGPhw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29854019_v_h9_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wQ2OG5p17ixRQpIYnfCNqyVwrt8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29854019_v_v13_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5gkXGhfXf7aU74TWdkFRd0XySEc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29854019_v_v12_ab.jpg",
           "caption": ""
         }
       ],
@@ -2429,10 +2437,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/hunting-matthew-nichols--1075989?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T22:48:50.044552Z"
+      "scraped_at": "2026-10-21T21:54:33.488208Z"
     },
     {
       "id": "hustle_and_flow",
