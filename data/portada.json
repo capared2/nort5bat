@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:03:30.714651Z",
+  "generated_at": "2026-10-21T12:04:20.051335Z",
   "populares": [
     {
       "id": "the_dark_knight",
@@ -1006,7 +1006,7 @@
         "Drama"
       ],
       "rating": 9.8,
-      "votes": 89580,
+      "votes": 89585,
       "tomatometer": 96,
       "audience_score": 97,
       "runtime_minutes": 202,
@@ -1663,7 +1663,7 @@
       "type": "movie",
       "title": "Gone with the Wind",
       "original_title": "Gone with the Wind",
-      "year": null,
+      "year": 1939,
       "genres": [
         "Romance",
         "History",
@@ -1671,7 +1671,7 @@
         "War"
       ],
       "rating": 9.1,
-      "votes": 47864,
+      "votes": 47989,
       "tomatometer": 90,
       "audience_score": 92,
       "runtime_minutes": 225,
@@ -2919,7 +2919,7 @@
         "Drama"
       ],
       "rating": 9.8,
-      "votes": 89580,
+      "votes": 89585,
       "tomatometer": 96,
       "audience_score": 97,
       "runtime_minutes": 202,
@@ -3301,6 +3301,31 @@
       ]
     },
     {
+      "id": "gone_with_the_wind",
+      "category": "war",
+      "type": "movie",
+      "title": "Gone with the Wind",
+      "original_title": "Gone with the Wind",
+      "year": 1939,
+      "genres": [
+        "Romance",
+        "History",
+        "Drama",
+        "War"
+      ],
+      "rating": 9.1,
+      "votes": 47989,
+      "tomatometer": 90,
+      "audience_score": 92,
+      "runtime_minutes": 225,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/zHhVp8eCipr7zuwzT7VjWM4QmWI=/300x450/v2/https://resizing.flixster.com/jAshVEkU1Sm0IZpLBbNRjTnsSIQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIwNDBiYTlmLWFjZjAtNGIwMC1hNjdjLTBhMDgwMjk0YTAyMC5qcGc=",
+      "plot": "Winner of eight Academy Awards® (plus two special achievement Oscars) Celebrate the 85th Anniversary of one of the most celebrated motion pictures of all time, Gone With the Wind! Clark Gable, Vivien…",
+      "directors": [
+        "Victor Fleming"
+      ]
+    },
+    {
       "id": "1003033-brazil",
       "category": "sci-fi",
       "type": "movie",
@@ -3531,30 +3556,6 @@
       ]
     },
     {
-      "id": "full_metal_jacket",
-      "category": "war",
-      "type": "movie",
-      "title": "Full Metal Jacket",
-      "original_title": "Full Metal Jacket",
-      "year": 1987,
-      "genres": [
-        "War",
-        "History",
-        "Drama"
-      ],
-      "rating": 8.6,
-      "votes": 72024,
-      "tomatometer": 89,
-      "audience_score": 94,
-      "runtime_minutes": 116,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/_CV8pbAD7cJc7E1IRBnkANbS9_8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10114_p_v8_ae.jpg",
-      "plot": "Stanley Kubrick's take on the Vietnam War follows smart-aleck Private Davis (Matthew Modine), quickly christened \"Joker\" by his foul-mouthed drill sergeant (R. Lee Ermey), and pudgy Private Lawrence…",
-      "directors": [
-        "Stanley Kubrick"
-      ]
-    },
-    {
       "id": "exorcist",
       "category": "horror",
       "type": "movie",
@@ -3596,6 +3597,30 @@
       "plot": "Brian Cohen (Graham Chapman) is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by…",
       "directors": [
         "Terry Jones"
+      ]
+    },
+    {
+      "id": "full_metal_jacket",
+      "category": "war",
+      "type": "movie",
+      "title": "Full Metal Jacket",
+      "original_title": "Full Metal Jacket",
+      "year": 1987,
+      "genres": [
+        "War",
+        "History",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "votes": 72031,
+      "tomatometer": 84,
+      "audience_score": 94,
+      "runtime_minutes": 116,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/_CV8pbAD7cJc7E1IRBnkANbS9_8=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10114_p_v8_ae.jpg",
+      "plot": "Stanley Kubrick's take on the Vietnam War follows smart-aleck Private Davis (Matthew Modine), quickly christened \"Joker\" by his foul-mouthed drill sergeant (R. Lee Ermey), and pudgy Private Lawrence…",
+      "directors": [
+        "Stanley Kubrick"
       ]
     },
     {
@@ -3753,7 +3778,7 @@
         "Adventure"
       ],
       "rating": 8.2,
-      "votes": 64785,
+      "votes": 64806,
       "tomatometer": 95,
       "audience_score": 88,
       "runtime_minutes": 107,
@@ -3786,31 +3811,6 @@
       "plot": "Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent to protect Sarah is Kyle Reese (Michael…",
       "directors": [
         "James Cameron"
-      ]
-    },
-    {
-      "id": "willy_wonka_and_the_chocolate_factory",
-      "category": "musical",
-      "type": "movie",
-      "title": "Willy Wonka & the Chocolate Factory",
-      "original_title": "Willy Wonka & the Chocolate Factory",
-      "year": 1971,
-      "genres": [
-        "Kids & Family",
-        "Musical",
-        "Comedy",
-        "Fantasy"
-      ],
-      "rating": 8.0,
-      "votes": 45842,
-      "tomatometer": 84,
-      "audience_score": 87,
-      "runtime_minutes": 100,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/jGBlvpJRlrfB7oKfpb8Dvbsym6w=/300x450/v2/https://resizing.flixster.com/OL-smXFs9HBkZeg318Iof6g8PkY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyMjE5ZmIxLWFlYzAtNGI2NS04ZGE1LWY0ZGZlMTM2MzYwMS5qcGc=",
-      "plot": "The last of five coveted \"golden tickets\" falls into the hands of a sweet but very poor boy. He and his grandpa then get a tour of the strangest chocolate factory in the world. The owner leads five…",
-      "directors": [
-        "Mel Stuart"
       ]
     }
   ]

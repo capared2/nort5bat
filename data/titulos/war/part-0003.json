@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-10-21T05:03:05.496093Z",
+  "updated_at": "2026-10-21T12:04:17.899817Z",
   "titles": [
     {
       "id": "1022314-uncommon_valor",
@@ -2612,18 +2612,18 @@
         "Drama",
         "War"
       ],
-      "year": null,
+      "year": 1939,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 225,
       "certificate": "G",
       "rating": 9.1,
-      "votes": 47864,
+      "votes": 47989,
       "tomatometer": 90,
       "tomatometer_count": 102,
       "tomatometer_certified": true,
       "audience_score": 92,
-      "audience_count": 18578,
+      "audience_count": 18615,
       "metascore": null,
       "plot": "Winner of eight Academy Awards® (plus two special achievement Oscars) Celebrate the 85th Anniversary of one of the most celebrated motion pictures of all time, Gone With the Wind! Clark Gable, Vivien Leigh, Olivia de Havilland and Hattie McDaniel star in this classic epic of the American South. On the eve of the American Civil War, rich, beautiful and self-centered Scarlett O'Hara (Leigh, in her Oscar winning role) has everything she could want--except Ashley Wilkes (Leslie Howard). But as the war devastates the South, Scarlett discovers the strength within herself to protect her family and rebuild her life. Through everything, she longs for Ashley, seemingly--unaware that she is already married to the man she really loves (Gable)--and who truly loves her--until she finally drives him away. Only then does Scarlett realize what she has lost... and decides to win him back.",
       "tagline": "",
@@ -2714,10 +2714,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Gone-with-the-Wind/10559?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T06:21:49.794394Z"
+      "scraped_at": "2026-10-21T12:04:08.514173Z"
     },
     {
       "id": "good_morning_vietnam",

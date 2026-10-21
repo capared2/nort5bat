@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 54,
   "count": 60,
-  "updated_at": "2026-10-21T05:01:04.178145Z",
+  "updated_at": "2026-10-21T11:59:54.229757Z",
   "titles": [
     {
       "id": "1095795-fire",
@@ -2441,7 +2441,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T23:32:05.587217Z"
+      "scraped_at": "2026-10-21T11:56:18.433905Z"
     },
     {
       "id": "garden_party",
@@ -2533,10 +2533,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HJG25CMT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T06:17:06.558899Z"
+      "scraped_at": "2026-10-21T11:59:19.175574Z"
     },
     {
       "id": "gebo_and_the_shadow",
@@ -2660,7 +2665,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T06:17:36.387654Z"
+      "scraped_at": "2026-10-21T11:59:49.097090Z"
     },
     {
       "id": "happy_hour_2016",
