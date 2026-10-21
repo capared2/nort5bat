@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 56,
   "count": 60,
-  "updated_at": "2026-10-20T17:21:48.341959Z",
+  "updated_at": "2026-10-21T05:03:04.827044Z",
   "titles": [
     {
       "id": "10009445-my_brothers_wedding",
@@ -2187,18 +2187,18 @@
       "genres": [
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 146,
-      "certificate": "In Theaters Oct 9",
+      "certificate": "Now Playing",
       "rating": 7.7,
-      "votes": null,
+      "votes": 73,
       "tomatometer": 92,
-      "tomatometer_count": 90,
+      "tomatometer_count": 119,
       "tomatometer_certified": true,
-      "audience_score": null,
-      "audience_count": 0,
+      "audience_score": 89,
+      "audience_count": 19,
       "metascore": null,
       "plot": "The Gheorghius, a devout Romanian Norwegian couple, resettle in a village set in a distant fjord where they become close to their neighbors, the Halbergs. Their children bond despite their different education. When adolescent Elia Gheorghiu shows up at school with some bruises on her body, the community asks itself if the traditional education that the Gheorghiu children get from their parents would have anything to do with it.",
       "tagline": "",
@@ -2296,7 +2296,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T23:28:20.659595Z"
+      "scraped_at": "2026-10-21T05:00:01.892654Z"
     },
     {
       "id": "flywheel_ignition_of_the_soul",
@@ -2308,18 +2308,18 @@
       "genres": [
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 110,
       "certificate": "PG",
       "rating": null,
-      "votes": null,
+      "votes": 46,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 18,
       "metascore": null,
       "plot": "Set in Rio de Janeiro, the new film Flywheel: Ignition of the Soul follows Noah Silva, a smooth-talking, used-car salesman whose \"do whatever it takes\" approach to business and life begins to unravel at home and at work. After a series of wake-up calls, Noah is forced to confront the cost of his choices. He begins a difficult and deeply personal journey to restore his integrity while trying to win back the hearts of his wife and son.",
       "tagline": "",
@@ -2394,10 +2394,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Flywheel-Ignition-of-the-Soul/5275333?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-08T23:29:21.313371Z"
+      "scraped_at": "2026-10-21T05:01:03.542914Z"
     },
     {
       "id": "foolish-wives",
@@ -2420,7 +2425,7 @@
       "tomatometer_count": 19,
       "tomatometer_certified": false,
       "audience_score": 69,
-      "audience_count": 40,
+      "audience_count": 41,
       "metascore": null,
       "plot": "In this silent classic, Sergius Karamzin (Erich von Stroheim) is a con artist who pretends to be a count in order to charm and swindle naïve women for money. He lives in Monte Carlo, Monaco, with his cousins, \"princesses\" Olga (Maude George) and Vera (Mae Busch), who are in on his scams. When Karamzin meets American diplomat Andrew Hughes (Rudolph Christians), the count immediately takes aim at his wife, Helen (Miss DuPont). But Karamzin soon finds he has double-crossed too many women.",
       "tagline": "",
@@ -2505,7 +2510,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T06:12:45.950891Z"
+      "scraped_at": "2026-10-21T05:01:25.565100Z"
     },
     {
       "id": "fremont",
