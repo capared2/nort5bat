@@ -1,7 +1,7 @@
 {
   "genre": "horror",
   "name": "Horror",
-  "count": 2113,
+  "count": 2114,
   "titles": [
     {
       "id": "cloverfield",
@@ -922,7 +922,7 @@
         "Adventure"
       ],
       "rating": 4.2,
-      "votes": 42499,
+      "votes": 42503,
       "tomatometer": 17,
       "audience_score": 53,
       "runtime_minutes": 88,
@@ -946,7 +946,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.4,
-      "votes": 41873,
+      "votes": 41910,
       "tomatometer": 28,
       "audience_score": 59,
       "runtime_minutes": 110,
@@ -1553,6 +1553,30 @@
       ]
     },
     {
+      "id": "hannibal_rising",
+      "category": "horror",
+      "type": "movie",
+      "title": "Hannibal Rising",
+      "original_title": "Hannibal Rising",
+      "year": 2007,
+      "genres": [
+        "Mystery & Thriller",
+        "Drama",
+        "Horror"
+      ],
+      "rating": 4.2,
+      "votes": 33132,
+      "tomatometer": 16,
+      "audience_score": 55,
+      "runtime_minutes": 121,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/VGo41ckUjH7x89S84YrmBP6k6Sk=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p163180_p_v10_ae.jpg",
+      "plot": "After witnessing the violent deaths of his parents at the end of World War II, young Hannibal Lecter (Gaspard Ulliel) flees to his uncle's home in Paris. He learns his uncle is dead, but the man's…",
+      "directors": [
+        "Peter Webber"
+      ]
+    },
+    {
       "id": "avp2",
       "category": "horror",
       "type": "movie",
@@ -1781,7 +1805,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.6,
-      "votes": 28679,
+      "votes": 28699,
       "tomatometer": 25,
       "audience_score": 44,
       "runtime_minutes": 105,
@@ -4688,29 +4712,6 @@
       "plot": "A team of space marines known as the Rapid Response Tactical Squad, led by Sarge (Karl Urban), is sent to a science facility on Mars after somebody reports a security breach. There, they learn that…",
       "directors": [
         "Andrzej Bartkowiak"
-      ]
-    },
-    {
-      "id": "10010150-unborn",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Unborn",
-      "original_title": "The Unborn",
-      "year": 2009,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 3.4,
-      "votes": 12669,
-      "tomatometer": 11,
-      "audience_score": 30,
-      "runtime_minutes": 88,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/4AAphIyBNcVPEnM4dCrLsQBAxNY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p188684_p_v8_aj.jpg",
-      "plot": "Plagued by nightmares and visitations from tortured ghosts, Casey Beldon turns to a spiritual adviser named Sendak for help. They discover a family curse that dates back to Nazi Germany: an evil…",
-      "directors": [
-        "David S. Goyer"
       ]
     }
   ]

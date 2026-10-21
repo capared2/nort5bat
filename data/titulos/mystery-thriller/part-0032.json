@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 32,
   "count": 41,
-  "updated_at": "2026-10-21T12:04:17.487026Z",
+  "updated_at": "2026-10-21T17:24:23.014062Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -799,11 +799,11 @@
       "genres": [
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 103,
-      "certificate": "In Theaters Oct 20",
+      "certificate": "Oct 2026",
       "rating": null,
       "votes": null,
       "tomatometer": null,
@@ -825,22 +825,6 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/l4IORHN0XBX-Ad3xLkxuC0WYghY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33443070_i_h9_aa.jpg",
-          "caption": "Gym Rat (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/00lpLlv8YTdA83KzyJGnxLMVQXg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33443070_i_v9_aa.jpg",
-          "caption": "Gym Rat (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/MM_pxnV0tmJw61S_VALCeJ_qMwM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33443070_i_v8_aa.jpg",
-          "caption": "Gym Rat (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/ckevX9sZTxmfSWJ0uDzJ9AXhLqY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33443070_i_h10_aa.jpg",
-          "caption": "Gym Rat (2026)"
-        },
-        {
           "url": "https://resizing.flixster.com/frwkrS6RdoK-sNi-gR5bCP2aNq8=/fit-in/705x460/v2/https://resizing.flixster.com/Yh9W6JbMS2xB0OUoXYVznIQTbOk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZWVlMjU3LTZkN2YtNGM1Mi1iOTlhLTk1MDM3ZDBlZmExZi5wbmc=",
           "caption": ""
         },
@@ -854,6 +838,22 @@
         },
         {
           "url": "https://resizing.flixster.com/wJGoxrg92yAptUyg-VZab9jzUUU=/fit-in/705x460/v2/https://resizing.flixster.com/OFdszyN-cZe0N4DvQw75uiZvNNo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxOGU1Y2JjLTJkYmYtNDAwYi04YjA1LWY2MWM2NmJhMDgwNy5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/9es8i7ZsMZZ6iK2bSeEHpQDPqEY=/fit-in/705x460/v2/https://resizing.flixster.com/fdHg3Wbhkyn_LpvSF0JaqNdXZMA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYwMzllYTE5LTUyN2EtNDhkYi1iZDIzLTMxZDdmMGExZDAwYi5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/yQRpqrTqdWHCT1zUNuM4x_NKbOA=/fit-in/705x460/v2/https://resizing.flixster.com/roq4dq6gMpXNZWvDozqj4R7OkbM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJlZjU5YzU2LTNjMDYtNDE0YS1hMmM5LWYxZDU4YzVmOWViYi5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/RHah72jCqMlSPbaFIN-iV2qifw8=/fit-in/705x460/v2/https://resizing.flixster.com/4UEVsQhIQFhaPHusFwCAv2LfXQg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcwNmQ0M2Q1LTRiMGQtNDMxNC05YTA3LWExNGIyYzc4MWY1OC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Lv0TI10EmPxmBTGUvbIi9zzKYsY=/fit-in/705x460/v2/https://resizing.flixster.com/Kf-m89elI7u4QWK9-S2wQDsiCMY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJiZTJlOTkzLWU5YzYtNDA0My05ZTYyLTNhMDEzMTMyNzI3NS5wbmc=",
           "caption": ""
         }
       ],
@@ -907,10 +907,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/gym-rat/umc.cmc.52gh9enn1mhg759awqxdi5rc3?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T13:25:36.484826Z"
+      "scraped_at": "2026-10-21T17:20:06.423904Z"
     },
     {
       "id": "hanging_by_a_wire",
@@ -923,7 +928,7 @@
         "Documentary",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 78,
@@ -963,22 +968,6 @@
         {
           "url": "https://resizing.flixster.com/jCfp7HLOs24QKkGwdlrGASOXkyM=/fit-in/705x460/v2/https://resizing.flixster.com/YSgyjGLatV30g465pbNaqH8dwBE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzNjYzYmE5LWJmMTQtNDA4NC05MGFmLTlmZGNhM2EyNjA5ZC5wbmc=",
           "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/dwwasO98QKDzs9N-qOPodZ0xJ3k=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33617810_v_h9_aa.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/JwUzWmmUOZ3hzc1tzDhVGtHWZPo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33617810_v_v13_aa.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/hVbcToM8Rd8yfXTt92nir-R7ktM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33617810_v_v12_aa.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/QEEovpcNeAgE3Re05_g-4apHxb0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33617810_v_h8_aa.jpg",
-          "caption": ""
         }
       ],
       "trailer": null,
@@ -996,10 +985,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Hanging-by-a-Wire/5134764?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T13:26:44.224646Z"
+      "scraped_at": "2026-10-21T17:21:15.103239Z"
     },
     {
       "id": "hanna",
@@ -1019,7 +1013,7 @@
       "runtime_minutes": 111,
       "certificate": "PG-13",
       "rating": 6.8,
-      "votes": 30147,
+      "votes": 30148,
       "tomatometer": 71,
       "tomatometer_count": 236,
       "tomatometer_certified": false,
@@ -1125,7 +1119,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T13:26:49.744883Z"
+      "scraped_at": "2026-10-21T17:21:20.772193Z"
     },
     {
       "id": "heart_of_the_beast",
@@ -1146,12 +1140,12 @@
       "runtime_minutes": 101,
       "certificate": "PG-13",
       "rating": 7.0,
-      "votes": 2775,
-      "tomatometer": 84,
-      "tomatometer_count": 180,
+      "votes": 3741,
+      "tomatometer": 85,
+      "tomatometer_count": 182,
       "tomatometer_certified": true,
-      "audience_score": 94,
-      "audience_count": 1030,
+      "audience_score": 95,
+      "audience_count": 1336,
       "metascore": null,
       "plot": "After a harrowing plane crash, Special Forces veteran James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
       "tagline": "",
@@ -1163,6 +1157,22 @@
         },
         {
           "url": "https://resizing.flixster.com/uG3szxl2q0je4oNRXqDG2r2vCqI=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/442/795/thumb_f4ff6f84-9736-11f1-a916-022bbbb30d69.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/aF2R2pIww6DeYLDKn8zpu31jZA0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33286102_k_h9_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/lSXGxNRZh32vFxGlpA9JEZS57oc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33286102_k_v10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gHvNGjf-beBb-MPbRlwit4vaysw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33286102_k_v11_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1hg8YbpeP70g30xqJQSkPVpPUrM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33286102_k_h8_ab.jpg",
           "caption": ""
         },
         {
@@ -1179,22 +1189,6 @@
         },
         {
           "url": "https://resizing.flixster.com/sTgtTPSQpAx6QwEJQQUe20tNhOI=/fit-in/705x460/v2/https://resizing.flixster.com/haL5msqo3SfevXdTZcyDFxitT3Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzNzc0ZTM5LWE4NjMtNDZmYy04ZjAwLWQ0YjU0ZmNjYjM1OC5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/Bw4guoyL7jJUReQdbV12XSCV8VA=/fit-in/705x460/v2/https://resizing.flixster.com/LeuNVII9SKoT480wuLUrzCMll3w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUxODg3Nzk2LWQ4ZDAtNDM4Mi04MDViLWFlZGM5ZmRkZDY3OC5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/3D8PHOBSyRNQYl8RKg0ctGAMdaY=/fit-in/705x460/v2/https://resizing.flixster.com/GecDrwrHl7uGbcZ_Axhh7LmhJNU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3YmUyNTU3LTI1ZDMtNGIxMC04N2RlLWE1N2VhOWQxZTFlMS5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/sRUx6-4jsCCYcYTBu8SXnuoU6PM=/fit-in/705x460/v2/https://resizing.flixster.com/_ve05nXUVd08Um-tYsq4wEwiBbo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkNjIxZTZiLTlhODMtNDE2MC1hYjczLTA5MmM0NWMyY2NhMC5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/nVOyP0keiMizNy9JiJ_xp6GNKDo=/fit-in/705x460/v2/https://resizing.flixster.com/5-RB3KvgawbdBwrtPER-lHLG3jk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4NGNkZDM2LWQ3NGEtNGFmNS05NzE3LTE1ZjJkZjA3OTA2ZC5qcGc=",
           "caption": ""
         }
       ],
@@ -1246,7 +1240,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T13:29:32.075348Z"
+      "scraped_at": "2026-10-21T17:24:06.213664Z"
     },
     {
       "id": "high_forces",

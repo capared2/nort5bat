@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 20,
   "count": 60,
-  "updated_at": "2026-10-21T12:01:55.701400Z",
+  "updated_at": "2026-10-21T17:24:22.791651Z",
   "titles": [
     {
       "id": "10008706-house",
@@ -2914,12 +2914,12 @@
       "runtime_minutes": 88,
       "certificate": "R",
       "rating": 4.2,
-      "votes": 42499,
+      "votes": 42503,
       "tomatometer": 17,
       "tomatometer_count": 143,
       "tomatometer_certified": false,
       "audience_score": 53,
-      "audience_count": 4619,
+      "audience_count": 4618,
       "metascore": null,
       "plot": "Fifteen years after Hansel (Jeremy Renner) and Gretel (Gemma Arterton) defeated the wicked witch who planned to have them for her dinner, the siblings have come of age as skilled bounty hunters. Hell-bent on retribution, they have dedicated their lives to hunting down and destroying every witch still lurking in the dark forests of their homeland. As the notorious blood moon approaches, the siblings face a great evil -- one that could hold the secret to their terrifying past.",
       "tagline": "",
@@ -3028,7 +3028,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T13:27:00.848811Z"
+      "scraped_at": "2026-10-21T17:21:32.536301Z"
     },
     {
       "id": "happy_death_day",
@@ -3048,7 +3048,7 @@
       "runtime_minutes": 96,
       "certificate": "PG-13",
       "rating": 6.0,
-      "votes": 7412,
+      "votes": 7422,
       "tomatometer": 71,
       "tomatometer_count": 156,
       "tomatometer_certified": false,
@@ -3168,7 +3168,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T13:27:12.002644Z"
+      "scraped_at": "2026-10-21T17:21:43.716324Z"
     },
     {
       "id": "head_like_a_hole",
@@ -3193,7 +3193,7 @@
       "audience_score": null,
       "audience_count": 0,
       "metascore": null,
-      "plot": "In financial dire straits, a man accepts a strange, high-paying job where he must take up residence in a home and measure a hole in the wall of the basement to determine whether or not it's growing in size.",
+      "plot": "In financial dire straits, a man accepts a strange, high-paying job where he must take up residence in a home and measure a hole in the wall of the basement to determine whether it's growing in size.",
       "tagline": "",
       "poster": null,
       "images": [],
@@ -3243,10 +3243,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/head-like-a-hole/umc.cmc.6e5fjj183fzinz90svtizlgla?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-09T13:29:10.086504Z"
+      "scraped_at": "2026-10-21T17:23:44.331074Z"
     },
     {
       "id": "hills_have_eyes_the_pt_2",

@@ -113,7 +113,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.4,
-      "votes": 41873,
+      "votes": 41910,
       "tomatometer": 28,
       "audience_score": 59,
       "runtime_minutes": 110,
@@ -186,7 +186,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.6,
-      "votes": 28679,
+      "votes": 28699,
       "tomatometer": 25,
       "audience_score": 44,
       "runtime_minutes": 105,
@@ -576,7 +576,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.9,
-      "votes": 9961,
+      "votes": 9979,
       "tomatometer": 27,
       "audience_score": 64,
       "runtime_minutes": 92,
@@ -673,7 +673,7 @@
         "Mystery & Thriller"
       ],
       "rating": 6.8,
-      "votes": 8657,
+      "votes": 8669,
       "tomatometer": 79,
       "audience_score": 72,
       "runtime_minutes": 106,
@@ -805,6 +805,30 @@
       ]
     },
     {
+      "id": "halloween_resurrection",
+      "category": "horror",
+      "type": "movie",
+      "title": "Halloween: Resurrection",
+      "original_title": "Halloween: Resurrection",
+      "year": 2002,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 3.6,
+      "votes": 6199,
+      "tomatometer": 10,
+      "audience_score": 24,
+      "runtime_minutes": 90,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/Cu9Xt8rPZuJd9XqDEwSYn7TQ-I4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30137_p_v8_ac.jpg",
+      "plot": "He's back for more... When a group of teens wins a contest to spend a night in Michael Myers' childhood home to be broadcast live on the Internet, they believe they are in for a little fun and some…",
+      "directors": [
+        "Rick Rosenthal"
+      ]
+    },
+    {
       "id": "tyler_perrys_a_madea_christmas_2013",
       "category": "comedy",
       "type": "movie",
@@ -825,30 +849,6 @@
       "plot": "Madea accompanies her niece, Eileen, to the small town of Buck Tussel to pay a surprise visit to Eileen's daughter, Lacey, who has refused to come home for Christmas. The real reason Lacey is…",
       "directors": [
         "Tyler Perry"
-      ]
-    },
-    {
-      "id": "halloween_resurrection",
-      "category": "horror",
-      "type": "movie",
-      "title": "Halloween: Resurrection",
-      "original_title": "Halloween: Resurrection",
-      "year": 2002,
-      "genres": [
-        "Holiday",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 3.6,
-      "votes": 6195,
-      "tomatometer": 10,
-      "audience_score": 24,
-      "runtime_minutes": 90,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/Cu9Xt8rPZuJd9XqDEwSYn7TQ-I4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p30137_p_v8_ac.jpg",
-      "plot": "He's back for more... When a group of teens wins a contest to spend a night in Michael Myers' childhood home to be broadcast live on the Internet, they believe they are in for a little fun and some…",
-      "directors": [
-        "Rick Rosenthal"
       ]
     },
     {
@@ -890,8 +890,8 @@
         "Sci-Fi"
       ],
       "rating": 5.0,
-      "votes": 5548,
-      "tomatometer": 50,
+      "votes": 5560,
+      "tomatometer": 51,
       "audience_score": 31,
       "runtime_minutes": 98,
       "certificate": "R",
@@ -1735,7 +1735,7 @@
         "Comedy"
       ],
       "rating": 5.5,
-      "votes": 1000,
+      "votes": 1005,
       "tomatometer": 48,
       "audience_score": 37,
       "runtime_minutes": 90,
