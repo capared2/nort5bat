@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-10-22T12:02:54.177034Z",
+  "updated_at": "2026-10-22T17:22:28.421128Z",
   "titles": [
     {
       "id": "1038611-jet_pilot",
@@ -2581,7 +2581,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-10T21:49:55.981020Z"
+      "scraped_at": "2026-10-22T17:17:35.128170Z"
     },
     {
       "id": "last_call_2020",
@@ -2697,10 +2697,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FTFRK114/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-10T21:53:38.447782Z"
+      "scraped_at": "2026-10-22T17:21:22.987556Z"
     },
     {
       "id": "locke",
