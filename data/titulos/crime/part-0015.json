@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 15,
   "count": 60,
-  "updated_at": "2026-10-22T05:00:39.552941Z",
+  "updated_at": "2026-10-22T12:02:54.809842Z",
   "titles": [
     {
       "id": "1002353-big_sleep",
@@ -3064,10 +3064,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-10T06:04:52.169400Z"
+      "scraped_at": "2026-10-22T11:59:12.171634Z"
     },
     {
       "id": "jacks_back",
@@ -3173,7 +3178,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-10T12:38:28.866419Z"
+      "scraped_at": "2026-10-22T12:01:18.585978Z"
     },
     {
       "id": "jcvd",
@@ -3194,7 +3199,7 @@
       "runtime_minutes": 96,
       "certificate": "R",
       "rating": 6.7,
-      "votes": 4864,
+      "votes": 4865,
       "tomatometer": 82,
       "tomatometer_count": 106,
       "tomatometer_certified": true,
@@ -3300,7 +3305,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-10T12:39:31.400760Z"
+      "scraped_at": "2026-10-22T12:02:24.791568Z"
     },
     {
       "id": "kuldip_patwal_i_didnt_do_it",
