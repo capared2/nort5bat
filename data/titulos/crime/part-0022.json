@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-10-23T17:18:31.337151Z",
+  "updated_at": "2026-10-23T21:35:34.625221Z",
   "titles": [
     {
       "id": "10004890-narrow_margin",
@@ -4113,7 +4113,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T15:38:03.082646Z"
+      "scraped_at": "2026-10-23T21:29:42.814752Z"
     },
     {
       "id": "nightmare_alley",
@@ -4132,7 +4132,7 @@
       "runtime_minutes": 111,
       "certificate": null,
       "rating": 7.8,
-      "votes": 449,
+      "votes": 450,
       "tomatometer": 87,
       "tomatometer_count": 63,
       "tomatometer_certified": true,
@@ -4230,10 +4230,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/nightmare-alley-1947/umc.cmc.4a45b2sl1ylmbonhv4yevw9ix?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T15:38:27.938781Z"
+      "scraped_at": "2026-10-23T21:30:07.684479Z"
     },
     {
       "id": "on_dangerous_ground_1952",
@@ -4257,7 +4262,7 @@
       "tomatometer_count": 18,
       "tomatometer_certified": false,
       "audience_score": 78,
-      "audience_count": 88,
+      "audience_count": 87,
       "metascore": null,
       "plot": "Jim Wilson (Robert Ryan) is New York police detective on the edge. Hardened and embittered by his years of dealing with the lowest forms of criminal the city has to offer, Wilson becomes increasingly violent with suspects. For his own good, Wilson's police captain (Ed Begley) assigns him to a murder investigation in the countryside for a change of scenery. While searching for the killer, Wilson meets the suspect's sister, Mary Malden (Ida Lupino), a blind woman who might turn his life around.",
       "tagline": "",
@@ -4338,7 +4343,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-13T00:47:34.578300Z"
+      "scraped_at": "2026-10-23T21:35:29.009343Z"
     },
     {
       "id": "out_of_the_past",

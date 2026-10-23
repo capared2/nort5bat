@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 1,
   "count": 59,
-  "updated_at": "2026-10-23T17:20:33.273435Z",
+  "updated_at": "2026-10-23T21:35:35.534010Z",
   "titles": [
     {
       "id": "28_years_later_the_bone_temple",
@@ -3740,7 +3740,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T15:38:17.509856Z"
+      "scraped_at": "2026-10-23T21:29:56.569395Z"
     },
     {
       "id": "nope",
@@ -3876,7 +3876,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-12T15:40:18.324919Z"
+      "scraped_at": "2026-10-23T21:31:58.478731Z"
     },
     {
       "id": "obsession_2025",
@@ -3889,18 +3889,18 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 108,
       "certificate": "R",
       "rating": 8.0,
-      "votes": 19202,
+      "votes": 19290,
       "tomatometer": 93,
       "tomatometer_count": 329,
       "tomatometer_certified": true,
       "audience_score": 94,
-      "audience_count": 3916,
+      "audience_count": 3921,
       "metascore": null,
       "plot": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "tagline": "",
@@ -3991,10 +3991,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Obsession/4941418?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000269781_02_HDSDR/210b50e4-5ccd-3548-a1c5-0160585a4a67?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-13T00:46:01.998634Z"
+      "scraped_at": "2026-10-23T21:33:57.748052Z"
     },
     {
       "id": "om_bheem_bush",
@@ -4119,7 +4128,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-13T00:47:26.273830Z"
+      "scraped_at": "2026-10-23T21:35:21.046282Z"
     },
     {
       "id": "orphan_first_kill",
