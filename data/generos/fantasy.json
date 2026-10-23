@@ -1,7 +1,7 @@
 {
   "genre": "fantasy",
   "name": "Fantasy",
-  "count": 1005,
+  "count": 1007,
   "titles": [
     {
       "id": "the_dark_knight",
@@ -1752,6 +1752,32 @@
       ]
     },
     {
+      "id": "princess_bride",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Princess Bride",
+      "original_title": "The Princess Bride",
+      "year": 1987,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Fantasy"
+      ],
+      "rating": 8.4,
+      "votes": 90098,
+      "tomatometer": 93,
+      "audience_score": 94,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/qBHOZP7_hVdLrvAmS-Z5aerT8vs=/300x450/v2/https://resizing.flixster.com/Zlrwpy4TsVZQ5I7OMZ_yvQAhnlA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2MmI3NTk5LWQ5MzUtNGYyNC05YTcxLWQ4MDEwMWEyZDNiMy5qcGc=",
+      "plot": "A fairy tale adventure about a beautiful young woman and her one true love. He must find her after a long separation and save her. They must battle the evils of the mythical kingdom of Florin to be…",
+      "directors": [
+        "Rob Reiner"
+      ]
+    },
+    {
       "id": "xmen",
       "category": "sci-fi",
       "type": "movie",
@@ -2390,7 +2416,7 @@
         "Action"
       ],
       "rating": 5.8,
-      "votes": 68003,
+      "votes": 68004,
       "tomatometer": 54,
       "audience_score": 70,
       "runtime_minutes": 98,
@@ -4933,30 +4959,6 @@
       "plot": "Bill Parrish (Anthony Hopkins), businessman and devoted family man, is about to celebrate his 65th birthday. However, before he reaches that landmark, he is visited by Death (Brad Pitt), who has…",
       "directors": [
         "Martin Brest"
-      ]
-    },
-    {
-      "id": "cinderella_2015",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Cinderella",
-      "original_title": "Cinderella",
-      "year": 2015,
-      "genres": [
-        "Kids & Family",
-        "Fantasy",
-        "Romance"
-      ],
-      "rating": 7.1,
-      "votes": 30511,
-      "tomatometer": 83,
-      "audience_score": 78,
-      "runtime_minutes": 105,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/omNsYU_UMjdPaM-ym00ffHnlTME=/300x450/v2/https://resizing.flixster.com/iF8-Zf3dzrjjbz4wbp9yt0g-ykE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExMTg0YTM1LWFiNWQtNGYxNy1hNzI5LWI2MmZmOWIxNzUzOS5qcGc=",
-      "plot": "After her father unexpectedly dies, young Ella (Lily James) finds herself at the mercy of her cruel stepmother (Cate Blanchett) and stepsisters, who reduce her to scullery maid. Despite her…",
-      "directors": [
-        "Kenneth Branagh"
       ]
     }
   ]

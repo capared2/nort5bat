@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:48:44.314415Z",
+  "generated_at": "2026-10-23T05:05:20.050659Z",
   "populares": [
     {
       "id": "the_dark_knight",
@@ -3696,6 +3696,32 @@
       ]
     },
     {
+      "id": "princess_bride",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "The Princess Bride",
+      "original_title": "The Princess Bride",
+      "year": 1987,
+      "genres": [
+        "Kids & Family",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Fantasy"
+      ],
+      "rating": 8.4,
+      "votes": 90098,
+      "tomatometer": 93,
+      "audience_score": 94,
+      "runtime_minutes": 98,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/qBHOZP7_hVdLrvAmS-Z5aerT8vs=/300x450/v2/https://resizing.flixster.com/Zlrwpy4TsVZQ5I7OMZ_yvQAhnlA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2MmI3NTk5LWQ5MzUtNGYyNC05YTcxLWQ4MDEwMWEyZDNiMy5qcGc=",
+      "plot": "A fairy tale adventure about a beautiful young woman and her one true love. He must find her after a long separation and save her. They must battle the evils of the mythical kingdom of Florin to be…",
+      "directors": [
+        "Rob Reiner"
+      ]
+    },
+    {
       "id": "rain_man",
       "category": "drama",
       "type": "movie",
@@ -3787,30 +3813,6 @@
       "plot": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a…",
       "directors": [
         "Ivan Reitman"
-      ]
-    },
-    {
-      "id": "terminator",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "The Terminator",
-      "original_title": "The Terminator",
-      "year": 1984,
-      "genres": [
-        "Sci-Fi",
-        "Action",
-        "Mystery & Thriller"
-      ],
-      "rating": 8.0,
-      "votes": 58023,
-      "tomatometer": 90,
-      "audience_score": 89,
-      "runtime_minutes": 107,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/87u7QEVA3pVUbozx7nrZNpaRQqM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7764_p_v8_au.jpg",
-      "plot": "Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent to protect Sarah is Kyle Reese (Michael…",
-      "directors": [
-        "James Cameron"
       ]
     }
   ]
