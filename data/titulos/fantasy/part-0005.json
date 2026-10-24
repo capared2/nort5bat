@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-10-23T21:31:33.137413Z",
+  "updated_at": "2026-10-24T04:48:00.303273Z",
   "titles": [
     {
       "id": "1009518-hercules",
@@ -4351,7 +4351,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-13T00:48:26.276577Z"
+      "scraped_at": "2026-10-24T04:42:22.487760Z"
     },
     {
       "id": "one_fall",
@@ -4460,7 +4460,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-13T00:48:41.030994Z"
+      "scraped_at": "2026-10-24T04:42:37.908551Z"
     },
     {
       "id": "pans_labyrinth",
@@ -4479,12 +4479,12 @@
       "runtime_minutes": 118,
       "certificate": "R",
       "rating": 8.9,
-      "votes": 147138,
+      "votes": 147317,
       "tomatometer": 95,
       "tomatometer_count": 240,
       "tomatometer_certified": true,
       "audience_score": 91,
-      "audience_count": 62208,
+      "audience_count": 62241,
       "metascore": null,
       "plot": "In 1944 in Spain, Ofelia and her ailing mother arrive at the post of her mother's new husband, a sadistic army officer who is trying to quell a guerrilla uprising. While exploring an ancient maze, Ofelia encounters the faun Pan, who tells her that she is a legendary lost princess and must complete three dangerous tasks in order to claim immortality.",
       "tagline": "",
@@ -4583,10 +4583,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Guillermo-del-Toros-Pans-Labyrinth-20th-Anniversary/5273033?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-13T00:53:22.079482Z"
+      "scraped_at": "2026-10-24T04:47:10.156941Z"
     },
     {
       "id": "phantom_project",

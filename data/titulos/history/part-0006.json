@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 6,
   "count": 26,
-  "updated_at": "2026-10-23T17:16:30.691357Z",
+  "updated_at": "2026-10-24T04:48:00.710351Z",
   "titles": [
     {
       "id": "1011626-king_of_kings",
@@ -1626,18 +1626,18 @@
         "Documentary",
         "History"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 100,
       "certificate": "PG-13",
-      "rating": 8.9,
-      "votes": null,
+      "rating": 9.0,
+      "votes": 4,
       "tomatometer": 100,
-      "tomatometer_count": 42,
+      "tomatometer_count": 64,
       "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 1,
       "metascore": null,
       "plot": "A decade after his death, filmmaker William Greaves's estate releases footage from a 1972 gathering of Harlem Renaissance artists.",
       "tagline": "",
@@ -1681,10 +1681,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Once-Upon-a-Time-in-Harlem/5134922?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-13T00:48:16.432495Z"
+      "scraped_at": "2026-10-24T04:42:13.395630Z"
     },
     {
       "id": "paging_hezbollah",
@@ -1705,7 +1710,7 @@
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -1779,7 +1784,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T13:33:02.914819Z"
+      "scraped_at": "2026-10-24T04:46:34.111694Z"
     },
     {
       "id": "persian_lessons",
