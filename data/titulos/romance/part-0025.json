@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 25,
   "count": 60,
-  "updated_at": "2026-10-25T16:31:44.573232Z",
+  "updated_at": "2026-10-25T20:56:31.838380Z",
   "titles": [
     {
       "id": "10008701-laaga_chunari_mein_daag",
@@ -5728,10 +5728,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/tamasha/umc.cmc.25ex0ec5fctd7itj9hoouv54q?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-15T04:48:41.718593Z"
+      "scraped_at": "2026-10-25T20:54:39.575725Z"
     },
     {
       "id": "tanner-hall",
@@ -5854,7 +5859,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-15T04:48:55.716322Z"
+      "scraped_at": "2026-10-25T20:54:52.487893Z"
     },
     {
       "id": "the_groomsmen_last_dance",
