@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-10-25T11:43:47.450235Z",
+  "updated_at": "2026-10-25T16:35:47.340078Z",
   "titles": [
     {
       "id": "10009169-man_in_the_chair",
@@ -6177,11 +6177,11 @@
       "release_date": null,
       "runtime_minutes": 100,
       "certificate": null,
-      "rating": null,
+      "rating": 6.2,
       "votes": 45,
-      "tomatometer": null,
-      "tomatometer_count": null,
-      "tomatometer_certified": false,
+      "tomatometer": 75,
+      "tomatometer_count": 52,
+      "tomatometer_certified": true,
       "audience_score": 38,
       "audience_count": 4,
       "metascore": null,
@@ -6282,15 +6282,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0FZBH7D88/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-14T21:47:05.942993Z"
+      "scraped_at": "2026-10-25T16:27:46.222364Z"
     },
     {
       "id": "swimming_with_sharks",
@@ -6410,7 +6405,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-15T04:47:06.127374Z"
+      "scraped_at": "2026-10-25T16:34:41.403733Z"
     },
     {
       "id": "thank_you_for_smoking",
