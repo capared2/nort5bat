@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 42,
   "count": 60,
-  "updated_at": "2026-10-24T20:59:50.631215Z",
+  "updated_at": "2026-10-25T04:55:32.423252Z",
   "titles": [
     {
       "id": "1007990-funny_farm",
@@ -4943,7 +4943,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-14T12:02:21.243282Z"
+      "scraped_at": "2026-10-25T04:48:37.176557Z"
     },
     {
       "id": "sin_of_harold_diddlebock",
@@ -5051,10 +5051,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GKZ82G6N/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-14T17:16:18.302231Z"
+      "scraped_at": "2026-10-25T04:54:01.534355Z"
     },
     {
       "id": "smokey_and_the_bandit",
