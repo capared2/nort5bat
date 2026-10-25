@@ -216,7 +216,7 @@
         "Fantasy"
       ],
       "rating": 6.2,
-      "votes": 265372,
+      "votes": 265384,
       "tomatometer": 54,
       "audience_score": 59,
       "runtime_minutes": 136,
@@ -532,7 +532,7 @@
         "Fantasy"
       ],
       "rating": 8.1,
-      "votes": 161736,
+      "votes": 161748,
       "tomatometer": 91,
       "audience_score": 41,
       "runtime_minutes": 152,
@@ -849,7 +849,7 @@
         "Fantasy"
       ],
       "rating": 8.3,
-      "votes": 138576,
+      "votes": 138586,
       "tomatometer": 93,
       "audience_score": 84,
       "runtime_minutes": 138,
@@ -874,7 +874,7 @@
         "Fantasy"
       ],
       "rating": 8.3,
-      "votes": 133409,
+      "votes": 133415,
       "tomatometer": 94,
       "audience_score": 91,
       "runtime_minutes": 126,
@@ -924,7 +924,7 @@
         "Fantasy"
       ],
       "rating": 9.1,
-      "votes": 128635,
+      "votes": 128643,
       "tomatometer": 93,
       "audience_score": 97,
       "runtime_minutes": 127,
@@ -949,7 +949,7 @@
         "Fantasy"
       ],
       "rating": 7.4,
-      "votes": 127833,
+      "votes": 127838,
       "tomatometer": 84,
       "audience_score": 89,
       "runtime_minutes": 132,
@@ -998,7 +998,7 @@
         "Fantasy"
       ],
       "rating": 9.3,
-      "votes": 124523,
+      "votes": 124532,
       "tomatometer": 93,
       "audience_score": 96,
       "runtime_minutes": 121,
@@ -1268,7 +1268,7 @@
         "Fantasy"
       ],
       "rating": 7.9,
-      "votes": 105619,
+      "votes": 105629,
       "tomatometer": 83,
       "audience_score": 94,
       "runtime_minutes": 131,
@@ -1442,7 +1442,7 @@
         "Comedy"
       ],
       "rating": 7.0,
-      "votes": 99868,
+      "votes": 99869,
       "tomatometer": 77,
       "audience_score": 86,
       "runtime_minutes": 128,
@@ -1991,7 +1991,7 @@
         "Fantasy"
       ],
       "rating": 6.7,
-      "votes": 83299,
+      "votes": 83307,
       "tomatometer": 62,
       "audience_score": 56,
       "runtime_minutes": 142,
@@ -2183,14 +2183,14 @@
       "type": "movie",
       "title": "Spirited Away",
       "original_title": "Spirited Away",
-      "year": null,
+      "year": 2002,
       "genres": [
         "Fantasy",
         "Adventure",
         "Animation"
       ],
       "rating": 8.8,
-      "votes": 76898,
+      "votes": 77115,
       "tomatometer": 96,
       "audience_score": 96,
       "runtime_minutes": 125,
@@ -2239,7 +2239,7 @@
         "Drama"
       ],
       "rating": 5.6,
-      "votes": 75489,
+      "votes": 75491,
       "tomatometer": 48,
       "audience_score": 52,
       "runtime_minutes": 127,
@@ -3039,7 +3039,7 @@
         "Sci-Fi"
       ],
       "rating": 7.7,
-      "votes": 53298,
+      "votes": 53308,
       "tomatometer": 92,
       "audience_score": 87,
       "runtime_minutes": 133,
@@ -4236,7 +4236,7 @@
         "Fantasy"
       ],
       "rating": 7.0,
-      "votes": 37666,
+      "votes": 37669,
       "tomatometer": 86,
       "audience_score": 79,
       "runtime_minutes": 122,
@@ -4270,6 +4270,30 @@
       "directors": [
         "Måns Mårlind",
         "Björn Stein"
+      ]
+    },
+    {
+      "id": "spider_man_brand_new_day",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Spider-Man: Brand New Day",
+      "original_title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 7.6,
+      "votes": 36588,
+      "tomatometer": 90,
+      "audience_score": 97,
+      "runtime_minutes": 145,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/vcb_EV8KUknY3QpSKXQNXHuvyHw=/300x450/v2/https://resizing.flixster.com/A0AhY7vcoHLlqwO6nfwnyOB6wZA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWUwMWJhLWI5OTUtNDZkMy04NmE4LWU5Y2I5NTQ2NTE4OC5qcGc=",
+      "plot": "It's a BRAND NEW DAY for Peter Parker. Fighting crime full-time as Spider-Man in a world that doesn't remember him -- and the pressure of seeing his old friends move on without him -- sparks a change…",
+      "directors": [
+        "Destin Daniel Cretton"
       ]
     },
     {
@@ -4360,7 +4384,7 @@
         "Action"
       ],
       "rating": 6.8,
-      "votes": 36342,
+      "votes": 36344,
       "tomatometer": 81,
       "audience_score": 63,
       "runtime_minutes": 97,
@@ -4369,30 +4393,6 @@
       "plot": "Of the three Grace children, Jared has always been thought of as the troublemaker. So when strange things happen after his family's move to a relative's dilapidated estate, sister Mallory, twin…",
       "directors": [
         "Mark Waters"
-      ]
-    },
-    {
-      "id": "spider_man_brand_new_day",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Spider-Man: Brand New Day",
-      "original_title": "Spider-Man: Brand New Day",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 7.6,
-      "votes": 36126,
-      "tomatometer": 90,
-      "audience_score": 97,
-      "runtime_minutes": 145,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/vcb_EV8KUknY3QpSKXQNXHuvyHw=/300x450/v2/https://resizing.flixster.com/A0AhY7vcoHLlqwO6nfwnyOB6wZA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWUwMWJhLWI5OTUtNDZkMy04NmE4LWU5Y2I5NTQ2NTE4OC5qcGc=",
-      "plot": "It's a BRAND NEW DAY for Peter Parker. Fighting crime full-time as Spider-Man in a world that doesn't remember him -- and the pressure of seeing his old friends move on without him -- sparks a change…",
-      "directors": [
-        "Destin Daniel Cretton"
       ]
     },
     {

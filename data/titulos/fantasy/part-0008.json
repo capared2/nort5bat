@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-10-24T20:59:50.999471Z",
+  "updated_at": "2026-10-25T11:43:47.831277Z",
   "titles": [
     {
       "id": "1000079-20000_leagues_under_the_sea",
@@ -4967,12 +4967,12 @@
       "runtime_minutes": 94,
       "certificate": "PG",
       "rating": 8.4,
-      "votes": 3934,
+      "votes": 3935,
       "tomatometer": 99,
       "tomatometer_count": 95,
       "tomatometer_certified": true,
       "audience_score": 92,
-      "audience_count": 462,
+      "audience_count": 461,
       "metascore": null,
       "plot": "An Irish youth discovers that his mute sister is a selkie who must find her voice and free supernatural creatures from the spell of a Celtic goddess.",
       "tagline": "",
@@ -5042,7 +5042,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-14T17:21:24.781328Z"
+      "scraped_at": "2026-10-25T11:40:57.889352Z"
     },
     {
       "id": "spirited_away",
@@ -5056,18 +5056,18 @@
         "Adventure",
         "Animation"
       ],
-      "year": null,
+      "year": 2002,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 125,
       "certificate": "PG",
       "rating": 8.8,
-      "votes": 76898,
+      "votes": 77115,
       "tomatometer": 96,
       "tomatometer_count": 226,
       "tomatometer_certified": true,
       "audience_score": 96,
-      "audience_count": 23057,
+      "audience_count": 23093,
       "metascore": null,
       "plot": "10-year-old Chihiro moves with her parents to a new home in the Japanese countryside. After taking a wrong turn down a wooded path, Chihiro and her parents discover an amusement park with a stall containing an assortment of food. To her surprise, Chihiro's parents begin eating and then transform into pigs. In this supernatural realm, Chihiro encounters a host of characters and endures labor in a bathhouse for spirits, awaiting a reunion with her parents.",
       "tagline": "",
@@ -5135,10 +5135,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Spirited-Away-English-Language/31778?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-14T17:24:03.143140Z"
+      "scraped_at": "2026-10-25T11:43:35.963801Z"
     },
     {
       "id": "splash",
@@ -5158,7 +5167,7 @@
       "runtime_minutes": 111,
       "certificate": "PG",
       "rating": 6.9,
-      "votes": 238,
+      "votes": 239,
       "tomatometer": 91,
       "tomatometer_count": 43,
       "tomatometer_certified": true,
@@ -5256,7 +5265,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-14T21:44:35.013335Z"
+      "scraped_at": "2026-10-25T11:43:40.056019Z"
     },
     {
       "id": "sylvio",
