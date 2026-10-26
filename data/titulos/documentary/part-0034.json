@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-10-26T04:54:57.531157Z",
+  "updated_at": "2026-10-26T22:50:48.939575Z",
   "titles": [
     {
       "id": "10006630-life_of_reilly",
@@ -3985,7 +3985,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-15T21:30:05.568392Z"
+      "scraped_at": "2026-10-26T22:43:36.151220Z"
     },
     {
       "id": "the_man_who_saves_the_world",
@@ -4003,7 +4003,7 @@
       "runtime_minutes": 87,
       "certificate": null,
       "rating": 7.7,
-      "votes": 14,
+      "votes": 15,
       "tomatometer": 100,
       "tomatometer_count": 13,
       "tomatometer_certified": false,
@@ -4076,10 +4076,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HKCYZNNB/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/the-man-who-saves-the-world/umc.cmc.4umle9tpqfdjwzu8lu614g8sd?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-15T21:31:11.548394Z"
+      "scraped_at": "2026-10-26T22:44:41.184663Z"
     },
     {
       "id": "the_most_dangerous_year",
@@ -4173,7 +4182,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-15T21:32:35.832548Z"
+      "scraped_at": "2026-10-26T22:46:08.722688Z"
     },
     {
       "id": "the_natural_history_of_the_chicken_2001",
@@ -4237,7 +4246,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-15T21:32:58.560201Z"
+      "scraped_at": "2026-10-26T22:46:31.753699Z"
     },
     {
       "id": "the_prime_ministers_the_pioneers",
@@ -4343,7 +4352,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-16T04:37:34.566543Z"
+      "scraped_at": "2026-10-26T22:49:56.269930Z"
     },
     {
       "id": "the_rachel_divide",
@@ -4420,7 +4429,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-16T04:38:15.265280Z"
+      "scraped_at": "2026-10-26T22:50:36.586766Z"
     },
     {
       "id": "the_singing_revolution",
