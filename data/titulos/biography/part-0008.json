@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 8,
   "count": 46,
-  "updated_at": "2026-10-25T11:46:09.053737Z",
+  "updated_at": "2026-10-26T05:01:06.963723Z",
   "titles": [
     {
       "id": "1041055-ned_kelly",
@@ -3774,7 +3774,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/TGAvpWdtmgG1jLQNVosUL-U-aG8=/620x336/v2/https://resizing.flixster.com/M7ArQQROIzPieKVR7sqtgow297s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM0YzY4OWQ4LWY5MjAtNGVkOS04YTEyLTQ1ZjQzM2RlY2JkMi5qcGc=",
+          "url": "https://resizing.flixster.com/4bzACLdt6id4BiBNGr3pTwnUDhg=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/183/479/thumb_B448E872-89D1-4732-8C18-CF9D9FE86ED8.jpg",
           "caption": ""
         },
         {
@@ -3790,7 +3790,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "h0OfDV_mgL89",
+        "title": "The Eyes of Ghana: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/183/479/thumb_B448E872-89D1-4732-8C18-CF9D9FE86ED8.jpg",
+        "seconds": 133,
+        "src": "https://link.theplatform.com/s/NGweTC/media/h0OfDV_mgL89?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "ben_proudfoot",
@@ -3808,7 +3814,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T13:32:58.428282Z"
+      "scraped_at": "2026-10-26T04:59:56.374719Z"
     },
     {
       "id": "the_ghost_of_richard_harris",
