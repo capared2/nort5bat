@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 6,
   "count": 26,
-  "updated_at": "2026-10-27T05:19:01.907984Z",
+  "updated_at": "2026-10-27T12:26:34.812130Z",
   "titles": [
     {
       "id": "1011626-king_of_kings",
@@ -2758,7 +2758,7 @@
         "Documentary",
         "History"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 93,
@@ -2837,10 +2837,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Traces-of-Home/5214969?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-16T16:44:54.402429Z"
+      "scraped_at": "2026-10-27T12:26:28.468568Z"
     },
     {
       "id": "triumph_of_the_heart",

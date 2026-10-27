@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 23,
   "count": 49,
-  "updated_at": "2026-10-26T22:48:47.182759Z",
+  "updated_at": "2026-10-27T12:26:34.862664Z",
   "titles": [
     {
       "id": "10003184-turning_point",
@@ -4354,7 +4354,7 @@
       "runtime_minutes": 99,
       "certificate": null,
       "rating": 6.6,
-      "votes": 147,
+      "votes": 148,
       "tomatometer": 100,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
@@ -4448,7 +4448,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-16T16:44:00.592772Z"
+      "scraped_at": "2026-10-27T12:25:33.367543Z"
     },
     {
       "id": "traces_of_justice",
@@ -4466,7 +4466,7 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 140,
-      "certificate": null,
+      "certificate": "In Theaters Oct 30",
       "rating": null,
       "votes": null,
       "tomatometer": null,
@@ -4484,11 +4484,21 @@
           "caption": ""
         },
         {
+          "url": "https://resizing.flixster.com/N1TRF-IjkV6bI5-4LfiwxAPnWfo=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/472/619/thumb_BFC1827D-E749-4609-8D49-2C7140CCA614.jpg",
+          "caption": ""
+        },
+        {
           "url": "https://resizing.flixster.com/NRO8UOQ7T0PEw-2spPaGHN3SqVI=/fit-in/705x460/v2/https://resizing.flixster.com/mS38fV4TR3VGcAxAH1Bx47D_DwU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0Y2JiZTg1LTk1ZWMtNGYzMy04ODliLTRhODdhNzExODdhMi5qcGc=",
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "Gfi4sCYYo0Ix",
+        "title": "Traces of Justice: International Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/472/619/thumb_BFC1827D-E749-4609-8D49-2C7140CCA614.jpg",
+        "seconds": 64,
+        "src": "https://link.theplatform.com/s/NGweTC/media/Gfi4sCYYo0Ix?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "sicheng_chen",
@@ -4537,7 +4547,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T13:33:07.902987Z"
+      "scraped_at": "2026-10-27T12:26:29.597385Z"
     },
     {
       "id": "violent_saturday",
