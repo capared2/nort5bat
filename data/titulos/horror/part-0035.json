@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-10-27T18:08:44.810518Z",
+  "updated_at": "2026-10-27T22:26:49.556595Z",
   "titles": [
     {
       "id": "1002448-birds",
@@ -6073,7 +6073,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-16T21:16:52.821857Z"
+      "scraped_at": "2026-10-27T22:18:56.872692Z"
     },
     {
       "id": "vampire_carnival",
@@ -6094,7 +6094,7 @@
       "rating": null,
       "votes": 4,
       "tomatometer": null,
-      "tomatometer_count": 2,
+      "tomatometer_count": 3,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 2,
@@ -6108,11 +6108,49 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/HoiSLXIrZBJYLGr26M0KP9fDrUk=/fit-in/705x460/v2/https://resizing.flixster.com/mZMWaHuy0lIdyi953LMz0kA277E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE5N2FhMjI5LWVjMzctNDYyZC04NjEyLTk4OGM1ZTQ0Njk4Ny5qcGc=",
+          "url": "https://resizing.flixster.com/ed1p9Ah7-o-ZUcRjoeUNiYciJ2w=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/986/283/thumb_5AD7D6D5-04C3-4D0B-A3F7-992AC0E982E0.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/hMS8_wgfDUHN_9Ap8opdSCjpQ3Y=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34191819_i_h9_aa.jpg",
+          "caption": "Vampire Carnival (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/rlTv4lxsqAl8De0YWlVdmlfKq2A=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34191819_i_v9_aa.jpg",
+          "caption": "Vampire Carnival (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/nUdiPI58pqKTYWHoH63zG5LrwdU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34191819_i_v8_aa.jpg",
+          "caption": "Vampire Carnival (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/iE_QacoNEdPER2koNBKIasXD0B8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34191819_i_h10_aa.jpg",
+          "caption": "Vampire Carnival (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/E4IzI96zHX6_DtwmmF4DQgqsR4o=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34191819_v_h9_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/JHIXcRoDeFFLk1bE0Z6KxAwaK6w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34191819_v_v13_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/OAAEeOVGu-iJbn8Do7qvp0p3ENQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34191819_v_v12_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/FlnBVlFC3xtJxPtbcZWvY_b6P_c=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34191819_v_h8_aa.jpg",
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "EwqGcopQaYLQ",
+        "title": "Vampire Carnival: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/986/283/thumb_5AD7D6D5-04C3-4D0B-A3F7-992AC0E982E0.jpg",
+        "seconds": 100,
+        "src": "https://link.theplatform.com/s/NGweTC/media/EwqGcopQaYLQ?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "david_charbonier",
@@ -6159,7 +6197,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-16T21:16:59.796568Z"
+      "scraped_at": "2026-10-27T22:19:03.596210Z"
     },
     {
       "id": "viy",
@@ -6178,12 +6216,12 @@
       "runtime_minutes": 78,
       "certificate": null,
       "rating": 5.0,
-      "votes": 210,
+      "votes": 212,
       "tomatometer": 88,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 79,
-      "audience_count": 55,
+      "audience_score": 78,
+      "audience_count": 56,
       "metascore": null,
       "plot": "A group of seminary students from the city go on summer break, drunkenly wandering the countryside. They end up lost, and spend a night in the company of a haggard witch. A scuffle breaks out, and one of the students, Khoma (Leonid Kuravlyov), murders the witch. Only it turns out he really killed a beautiful landowner's daughter (Natalya Varley), and now he must sit with her body in a church for three days, protecting it from evil spirits. This horror movie was based on a story by Nikolai Gogol.",
       "tagline": "",
@@ -6245,7 +6283,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-16T21:19:31.627519Z"
+      "scraped_at": "2026-10-27T22:21:36.106129Z"
     },
     {
       "id": "werewolf_of_london",
@@ -6263,7 +6301,7 @@
       "runtime_minutes": 75,
       "certificate": null,
       "rating": 6.4,
-      "votes": 398,
+      "votes": 399,
       "tomatometer": 80,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
@@ -6361,7 +6399,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T04:33:26.321608Z"
+      "scraped_at": "2026-10-27T22:25:37.811782Z"
     },
     {
       "id": "what_ever_happened_to_baby_jane",
@@ -6381,12 +6419,12 @@
       "runtime_minutes": 132,
       "certificate": null,
       "rating": 8.1,
-      "votes": 5393,
+      "votes": 5394,
       "tomatometer": 91,
       "tomatometer_count": 53,
       "tomatometer_certified": true,
       "audience_score": 91,
-      "audience_count": 1788,
+      "audience_count": 1789,
       "metascore": null,
       "plot": "Jane Hudson (Bette Davis) is an aging child star left to care for her wheelchair-bound sister Blanche (Joan Crawford), also a former child actress. Stuck living together in a mansion in old Hollywood, Blanche plots to get even with Jane for the car crash that left her crippled years earlier. But Jane is desperate to keep Blanche imprisoned as she plans a new rise to fame, and tries to hide Blanche's existence from doctors, visitors and neighbors while she devises a way to get rid of her sister.",
       "tagline": "",
@@ -6467,7 +6505,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T04:34:00.228595Z"
+      "scraped_at": "2026-10-27T22:26:11.138082Z"
     },
     {
       "id": "white_dog",
