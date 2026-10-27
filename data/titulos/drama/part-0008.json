@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-10-27T12:22:12.300507Z",
+  "updated_at": "2026-10-27T18:06:42.022133Z",
   "titles": [
     {
       "id": "1000224-accused",
@@ -6222,10 +6222,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HLWKRFHS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-16T16:46:29.533095Z"
+      "scraped_at": "2026-10-27T18:06:11.405050Z"
     },
     {
       "id": "verdict",
