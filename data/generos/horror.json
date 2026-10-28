@@ -1060,13 +1060,13 @@
       "type": "movie",
       "title": "Scream",
       "original_title": "Scream",
-      "year": 1996,
+      "year": null,
       "genres": [
         "Horror",
         "Comedy"
       ],
       "rating": 7.2,
-      "votes": 38808,
+      "votes": 38839,
       "tomatometer": 78,
       "audience_score": 80,
       "runtime_minutes": 111,
@@ -1851,9 +1851,9 @@
         "Horror",
         "Sci-Fi"
       ],
-      "rating": 7.8,
-      "votes": 28308,
-      "tomatometer": 85,
+      "rating": 7.7,
+      "votes": 28329,
+      "tomatometer": 84,
       "audience_score": 92,
       "runtime_minutes": 109,
       "certificate": "R",
@@ -3620,6 +3620,29 @@
       ]
     },
     {
+      "id": "1021112-texas_chainsaw_massacre",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Texas Chain Saw Massacre",
+      "original_title": "The Texas Chain Saw Massacre",
+      "year": 1974,
+      "genres": [
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.4,
+      "votes": 16704,
+      "tomatometer": 85,
+      "audience_score": 82,
+      "runtime_minutes": 83,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/BzDn3jPBrFhk4o8JD9ZLEbRNtj0=/300x450/v2/https://resizing.flixster.com/OcQLKAWdoI17l4WS0E5rhDvZlnE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3MjBkNWIxLTdkNmMtNDdiNi1hMTZjLWE2ZWFiOTM3NjY4My5qcGc=",
+      "plot": "Young adults encounter a house full of demented butchers who chase them with chain saws and other deadly tools.",
+      "directors": [
+        "Tobe Hooper"
+      ]
+    },
+    {
       "id": "rosemarys_baby",
       "category": "horror",
       "type": "movie",
@@ -3639,29 +3662,6 @@
       "plot": "A young wife comes to believe that her offspring is not of this world. Waifish Rosemary Woodhouse and her struggling actor husband Guy move to a New York City apartment building with an ominous…",
       "directors": [
         "Roman Polanski"
-      ]
-    },
-    {
-      "id": "1021112-texas_chainsaw_massacre",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Texas Chain Saw Massacre",
-      "original_title": "The Texas Chain Saw Massacre",
-      "year": 1974,
-      "genres": [
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 8.4,
-      "votes": 16688,
-      "tomatometer": 85,
-      "audience_score": 82,
-      "runtime_minutes": 83,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/BzDn3jPBrFhk4o8JD9ZLEbRNtj0=/300x450/v2/https://resizing.flixster.com/OcQLKAWdoI17l4WS0E5rhDvZlnE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3MjBkNWIxLTdkNmMtNDdiNi1hMTZjLWE2ZWFiOTM3NjY4My5qcGc=",
-      "plot": "Young adults encounter a house full of demented butchers who chase them with chain saws and other deadly tools.",
-      "directors": [
-        "Tobe Hooper"
       ]
     },
     {
@@ -4259,9 +4259,9 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "rating": 7.6,
-      "votes": 13897,
-      "tomatometer": 89,
+      "rating": 7.7,
+      "votes": 13907,
+      "tomatometer": 90,
       "audience_score": 79,
       "runtime_minutes": 114,
       "certificate": "PG",
