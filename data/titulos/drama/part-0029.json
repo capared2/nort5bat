@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 29,
   "count": 60,
-  "updated_at": "2026-10-27T18:13:14.729181Z",
+  "updated_at": "2026-10-28T05:56:04.956604Z",
   "titles": [
     {
       "id": "10010972-mammoth",
@@ -6853,7 +6853,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T04:40:53.630282Z"
+      "scraped_at": "2026-10-28T05:53:59.361876Z"
     },
     {
       "id": "yossi_and_jagger",
@@ -6927,7 +6927,38 @@
         }
       ],
       "writers": [],
-      "cast": [],
+      "cast": [
+        {
+          "id": "yehuda-levi",
+          "name": "Yehuda Levi",
+          "character": "",
+          "image": "https://resizing.flixster.com/qjRAD8_yA3EnMmKSvPdL3lf28OE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/302850_v9_aa.jpg"
+        },
+        {
+          "id": "ohad-knoler",
+          "name": "Ohad Knoller",
+          "character": "",
+          "image": "https://resizing.flixster.com/hJU3i5mUS7GvaQtyqsA8Y4MrqD8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/68894_v9_ba.jpg"
+        },
+        {
+          "id": "assi-cohen",
+          "name": "Assi Cohen",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "aya_steinovitz",
+          "name": "Aya Koren",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "hani-furstenberg",
+          "name": "Hani Furstenberg",
+          "character": "",
+          "image": "https://resizing.flixster.com/gjqfQQW1OSt0iTPDRyEghQgtvG4=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/302853_v9_ba.jpg"
+        }
+      ],
       "keywords": [],
       "countries": [],
       "languages": [],
@@ -6942,7 +6973,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T10:51:14.185686Z"
+      "scraped_at": "2026-10-28T05:55:48.034564Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 60,
-  "updated_at": "2026-10-27T18:12:54.506357Z",
+  "updated_at": "2026-10-28T05:52:03.432463Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -6369,18 +6369,18 @@
         "Romance",
         "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 105,
       "certificate": "R",
       "rating": 7.6,
-      "votes": null,
-      "tomatometer": 91,
-      "tomatometer_count": 32,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "votes": 601,
+      "tomatometer": 95,
+      "tomatometer_count": 134,
+      "tomatometer_certified": true,
+      "audience_score": 92,
+      "audience_count": 178,
       "metascore": null,
       "plot": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
       "tagline": "",
@@ -6391,7 +6391,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/9gvVPN9NUX-0GAJ3IHGgOxXkX4I=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/757/887/thumb_91fb9efb-8c2e-11f1-a916-022bbbb30d69.jpg",
+          "url": "https://resizing.flixster.com/8LO243Z7hJT0ZvbnkUMTQKrdDpc=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/51/647/thumb_7afccae4-ccc4-11f1-a916-022bbbb30d69.jpg",
           "caption": ""
         },
         {
@@ -6428,11 +6428,11 @@
         }
       ],
       "trailer": {
-        "id": "AUF9xg81aeEX",
-        "title": "Wicker: Trailer 1",
-        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/757/887/thumb_91fb9efb-8c2e-11f1-a916-022bbbb30d69.jpg",
-        "seconds": 144,
-        "src": "https://link.theplatform.com/s/NGweTC/media/AUF9xg81aeEX?formats=M3U+none"
+        "id": "_WOQD_o7SY1x",
+        "title": "Wicker: Final Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/51/647/thumb_7afccae4-ccc4-11f1-a916-022bbbb30d69.jpg",
+        "seconds": 73,
+        "src": "https://link.theplatform.com/s/NGweTC/media/_WOQD_o7SY1x?formats=M3U+none"
       },
       "directors": [
         {
@@ -6477,10 +6477,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Wicker/5294587?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T04:37:23.474697Z"
+      "scraped_at": "2026-10-28T05:50:27.697452Z"
     },
     {
       "id": "wildwood",
@@ -6495,18 +6500,18 @@
         "Animation",
         "Action"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 132,
       "certificate": "PG-13",
-      "rating": 8.8,
-      "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 21,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "rating": 8.7,
+      "votes": 2004,
+      "tomatometer": 99,
+      "tomatometer_count": 133,
+      "tomatometer_certified": true,
+      "audience_score": 97,
+      "audience_count": 698,
       "metascore": null,
       "plot": "Wildwood is a handcrafted epic fantasy that transports audiences into a secret, dangerously alive world. A girl's desperate quest to save her baby brother unfolds into a spectacular, high-stakes adventure through a forbidden forest full of enchanted creatures, endearing allies, and formidable adversaries--where an entire hidden realm hangs in the balance. In an era of automation, LAIKA delivers its most ambitious and globally accessible film yet--a bold fusion of human-crafted artistry and cinematic storytelling from the makers of Coraline.",
       "tagline": "",
@@ -6574,10 +6579,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Wildwood/5323960?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T04:38:17.963303Z"
+      "scraped_at": "2026-10-28T05:51:23.709320Z"
     }
   ]
 }
