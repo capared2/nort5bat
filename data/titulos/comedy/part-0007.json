@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-10-28T22:40:34.909434Z",
+  "updated_at": "2026-10-29T05:59:09.252252Z",
   "titles": [
     {
       "id": "10004352-going_the_distance",
@@ -337,10 +337,10 @@
       "release_date": null,
       "runtime_minutes": 94,
       "certificate": "R",
-      "rating": 6.4,
+      "rating": 6.5,
       "votes": 23920,
-      "tomatometer": 59,
-      "tomatometer_count": 96,
+      "tomatometer": 60,
+      "tomatometer_count": 89,
       "tomatometer_certified": false,
       "audience_score": 65,
       "audience_count": 8940,
@@ -446,11 +446,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Road-Trip/19825?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FCZWKC2L/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T20:43:36.599021Z"
+      "scraped_at": "2026-10-29T05:54:53.823734Z"
     },
     {
       "id": "1101029-ladies_man",
@@ -467,10 +471,10 @@
       "release_date": null,
       "runtime_minutes": 84,
       "certificate": "R",
-      "rating": 4.0,
+      "rating": 3.9,
       "votes": 1813,
-      "tomatometer": 12,
-      "tomatometer_count": 69,
+      "tomatometer": 10,
+      "tomatometer_count": 67,
       "tomatometer_certified": false,
       "audience_score": 42,
       "audience_count": 576,
@@ -580,7 +584,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T20:44:00.191314Z"
+      "scraped_at": "2026-10-29T05:55:16.151564Z"
     },
     {
       "id": "1110236-wash",
@@ -597,10 +601,10 @@
       "release_date": null,
       "runtime_minutes": 96,
       "certificate": "R",
-      "rating": 3.1,
+      "rating": 3.0,
       "votes": 1195,
-      "tomatometer": 8,
-      "tomatometer_count": 49,
+      "tomatometer": 7,
+      "tomatometer_count": 44,
       "tomatometer_certified": false,
       "audience_score": 64,
       "audience_count": 351,
@@ -704,7 +708,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T20:44:31.805171Z"
+      "scraped_at": "2026-10-29T05:55:48.597653Z"
     },
     {
       "id": "1141892-employee_of_the_month",
@@ -723,8 +727,8 @@
       "certificate": "R",
       "rating": 3.1,
       "votes": 1261,
-      "tomatometer": 11,
-      "tomatometer_count": 9,
+      "tomatometer": 14,
+      "tomatometer_count": 7,
       "tomatometer_certified": false,
       "audience_score": 52,
       "audience_count": 462,
@@ -820,7 +824,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-17T20:46:11.058299Z"
+      "scraped_at": "2026-10-29T05:57:27.459766Z"
     },
     {
       "id": "a_good_marriage",
