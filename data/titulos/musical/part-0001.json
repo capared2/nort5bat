@@ -2,7 +2,7 @@
   "genre": "musical",
   "part": 1,
   "count": 59,
-  "updated_at": "2026-10-29T13:10:51.622211Z",
+  "updated_at": "2026-10-29T22:54:18.425154Z",
   "titles": [
     {
       "id": "1036999-shout",
@@ -446,7 +446,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T11:16:10.784114Z"
+      "scraped_at": "2026-10-29T22:49:39.008604Z"
     },
     {
       "id": "across_the_universe",
@@ -465,7 +465,7 @@
       "runtime_minutes": 131,
       "certificate": "PG-13",
       "rating": 6.1,
-      "votes": 74583,
+      "votes": 74584,
       "tomatometer": 53,
       "tomatometer_count": 176,
       "tomatometer_certified": false,
@@ -571,7 +571,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T11:16:42.593824Z"
+      "scraped_at": "2026-10-29T22:50:10.749218Z"
     },
     {
       "id": "albert_collins_and_the_icebreakers_live_at_rockpalast_dortmund_1980",
@@ -632,10 +632,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWM88CBP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T11:19:32.054303Z"
+      "scraped_at": "2026-10-29T22:52:59.561141Z"
     },
     {
       "id": "anything_but_love",

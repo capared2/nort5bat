@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 23,
   "count": 49,
-  "updated_at": "2026-10-29T13:14:56.587518Z",
+  "updated_at": "2026-10-29T22:50:14.834074Z",
   "titles": [
     {
       "id": "10003184-turning_point",
@@ -1669,18 +1669,18 @@
         "Drama",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 106,
-      "certificate": "In Theaters Oct 23",
-      "rating": 7.0,
-      "votes": null,
-      "tomatometer": 88,
-      "tomatometer_count": 24,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "certificate": "Now Playing",
+      "rating": 6.6,
+      "votes": 66,
+      "tomatometer": 77,
+      "tomatometer_count": 66,
+      "tomatometer_certified": true,
+      "audience_score": 71,
+      "audience_count": 16,
       "metascore": null,
       "plot": "This smoldering chamber thriller from Anton Corbijn (Control) stars Academy Award winner Helen Mirren and Alden Ehrenreich (Weapons) as opponents in a strange confrontation between a youthful literary agent and The Talented Mr. Ripley author Patricia Highsmith.",
       "tagline": "",
@@ -1751,10 +1751,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/A-Talent-for-Murder/5294583?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T11:14:52.682741Z"
+      "scraped_at": "2026-10-29T22:48:20.771796Z"
     },
     {
       "id": "anatomy-of-a-murder",

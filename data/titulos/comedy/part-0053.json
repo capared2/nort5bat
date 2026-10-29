@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 40,
-  "updated_at": "2026-10-27T22:20:45.224207Z",
+  "updated_at": "2026-10-29T22:54:17.408776Z",
   "titles": [
     {
       "id": "ali_g_who_iz_i",
@@ -14,18 +14,18 @@
       "genres": [
         "Comedy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 100,
       "certificate": "R",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 0,
+      "rating": 4.8,
+      "votes": 42,
+      "tomatometer": 42,
+      "tomatometer_count": 33,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 12,
       "metascore": null,
       "plot": "After twenty years spent \"chillin', tokin' and bonin'\", Ali G is shocked to discover that his long-term girlfriend, Julie, is 8 months pregnant. Faced with an extra mouth to feed, he gets off his batty and heads to America to reclaim his former glory... but soon encounters adversaries who will ultimately threaten his and his child's very existence.",
       "tagline": "",
@@ -102,10 +102,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HH498DW2/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T11:19:50.659731Z"
+      "scraped_at": "2026-10-29T22:53:18.565114Z"
     },
     {
       "id": "american_summer_2026",
