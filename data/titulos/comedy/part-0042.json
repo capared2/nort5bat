@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 42,
   "count": 60,
-  "updated_at": "2026-10-28T22:46:36.914606Z",
+  "updated_at": "2026-10-29T13:14:55.994800Z",
   "titles": [
     {
       "id": "1007990-funny_farm",
@@ -372,10 +372,10 @@
       "release_date": null,
       "runtime_minutes": 96,
       "certificate": "R",
-      "rating": 5.5,
+      "rating": 5.9,
       "votes": 123,
-      "tomatometer": 33,
-      "tomatometer_count": 6,
+      "tomatometer": 40,
+      "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": 47,
       "audience_count": 25,
@@ -463,15 +463,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0CM366H7W/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T04:45:26.786509Z"
+      "scraped_at": "2026-10-29T13:13:21.357990Z"
     },
     {
       "id": "all_sorts",

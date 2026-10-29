@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 36,
   "count": 16,
-  "updated_at": "2026-10-27T22:27:11.478312Z",
+  "updated_at": "2026-10-29T13:14:56.843619Z",
   "titles": [
     {
       "id": "a_good_hand_wasted",
@@ -12,14 +12,14 @@
       "title": "A Good Hand Wasted",
       "original_title": "A Good Hand Wasted",
       "genres": [
-        "Horror",
-        "Mystery & Thriller"
+        "Mystery & Thriller",
+        "Horror"
       ],
       "year": null,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 80,
-      "certificate": "In Theaters Oct 28",
+      "certificate": "Oct 2026",
       "rating": null,
       "votes": null,
       "tomatometer": null,
@@ -51,10 +51,16 @@
       "writers": [],
       "cast": [
         {
-          "id": "jessica_lindsey",
+          "id": "terrence_howard",
+          "name": "Terrence Howard",
+          "character": "",
+          "image": "https://resizing.flixster.com/OfFcb83M_1YLUUBNW3uwbiUMHWs=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/220846_v9_bb.jpg"
+        },
+        {
+          "id": "jessica_lindsey_2",
           "name": "Jessica Lindsey",
           "character": "",
-          "image": "https://resizing.flixster.com/MLlx2X6h5Vzl_0ZUw0v31AVXXTY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/728964_v9_ba.jpg"
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         },
         {
           "id": "phil_tyler",
@@ -73,12 +79,6 @@
           "name": "Ninja N. Devoe",
           "character": "",
           "image": "https://resizing.flixster.com/_12RwYjml5UPrbt7RCiNEi9xmCY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/920462_v9_ba.jpg"
-        },
-        {
-          "id": "black_thomas",
-          "name": "Black Thomas",
-          "character": "",
-          "image": "https://resizing.flixster.com/KigLByw2_lYqokDDNQjIm49j0Sk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/515258_v9_ba.jpg"
         }
       ],
       "keywords": [],
@@ -90,7 +90,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T05:03:01.629433Z"
+      "scraped_at": "2026-10-29T13:14:54.996449Z"
     },
     {
       "id": "christmas_at_the_kringles",
