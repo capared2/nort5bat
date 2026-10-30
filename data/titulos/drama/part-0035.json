@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-10-29T22:56:18.837061Z",
+  "updated_at": "2026-10-30T06:00:42.297481Z",
   "titles": [
     {
       "id": "a_good_enough_day",
@@ -482,10 +482,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T15:59:25.416547Z"
+      "scraped_at": "2026-10-30T05:56:55.519894Z"
     },
     {
       "id": "anne_at_13000_ft",
@@ -603,7 +608,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T16:00:45.207835Z"
+      "scraped_at": "2026-10-30T05:58:15.466136Z"
     },
     {
       "id": "another_world_2021_2",
@@ -722,7 +727,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T16:01:16.855982Z"
+      "scraped_at": "2026-10-30T05:58:48.768804Z"
     },
     {
       "id": "arcadia_2013",
@@ -838,15 +843,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0G37NLH76/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T16:02:35.246667Z"
+      "scraped_at": "2026-10-30T06:00:06.429699Z"
     },
     {
       "id": "august_the_mirror_of_life",
