@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T06:03:06.933405Z",
+  "generated_at": "2026-10-30T13:09:38.796467Z",
   "populares": [
     {
       "id": "the_dark_knight",
@@ -380,7 +380,7 @@
         "Fantasy"
       ],
       "rating": 7.8,
-      "votes": 286867,
+      "votes": 286879,
       "tomatometer": 81,
       "audience_score": 82,
       "runtime_minutes": 163,
@@ -834,7 +834,7 @@
         "Adventure"
       ],
       "rating": 8.1,
-      "votes": 183016,
+      "votes": 183032,
       "tomatometer": 85,
       "audience_score": 94,
       "runtime_minutes": 140,
@@ -1784,13 +1784,13 @@
       "type": "movie",
       "title": "Back to the Future",
       "original_title": "Back to the Future",
-      "year": null,
+      "year": 1985,
       "genres": [
         "Comedy",
         "Sci-Fi"
       ],
       "rating": 9.0,
-      "votes": 114949,
+      "votes": 115034,
       "tomatometer": 93,
       "audience_score": 95,
       "runtime_minutes": 116,
@@ -2080,8 +2080,8 @@
         "Mystery & Thriller",
         "Horror"
       ],
-      "rating": 7.4,
-      "votes": 11802,
+      "rating": 7.3,
+      "votes": 11867,
       "tomatometer": 86,
       "audience_score": 74,
       "runtime_minutes": 110,
@@ -3347,6 +3347,29 @@
       ]
     },
     {
+      "id": "back_to_the_future",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Back to the Future",
+      "original_title": "Back to the Future",
+      "year": 1985,
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 9.0,
+      "votes": 115034,
+      "tomatometer": 93,
+      "audience_score": 95,
+      "runtime_minutes": 116,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Xxe58u86CdQyXJY9sO0pXJxPA7s=/300x450/v2/https://resizing.flixster.com/FklqoVrTrVgdjnDiRljCJBS19sg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhODE3ZDdkLTdkMWItNDgzNi05MmI4LWNjODMyOTExNTMxNC5qcGc=",
+      "plot": "In this 1980s sci-fi classic, small-town California teen Marty McFly is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown goes awry. Traveling through time in a…",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
       "id": "1009113-halloween",
       "category": "horror",
       "type": "movie",
@@ -3787,30 +3810,6 @@
       "plot": "An art collector appeals to Jones to embark on a search for the Holy Grail. He learns that another archaeologist has disappeared while searching for the precious goblet, and the missing man is his…",
       "directors": [
         "Steven Spielberg"
-      ]
-    },
-    {
-      "id": "ghostbusters",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Ghostbusters",
-      "original_title": "Ghostbusters",
-      "year": 1984,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Adventure"
-      ],
-      "rating": 8.2,
-      "votes": 64806,
-      "tomatometer": 95,
-      "audience_score": 88,
-      "runtime_minutes": 107,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/aQWaVwuaUJpkok0G-kBHJ52rGLs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8603_p_v12_bh.jpg",
-      "plot": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a…",
-      "directors": [
-        "Ivan Reitman"
       ]
     }
   ]

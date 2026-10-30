@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-10-30T06:02:43.816615Z",
+  "updated_at": "2026-10-30T13:03:14.644603Z",
   "titles": [
     {
       "id": "1016397-planet_of_the_apes",
@@ -481,12 +481,12 @@
       "runtime_minutes": 90,
       "certificate": "PG-13",
       "rating": 3.4,
-      "votes": 11765,
+      "votes": 11769,
       "tomatometer": 7,
       "tomatometer_count": 102,
       "tomatometer_certified": false,
       "audience_score": 26,
-      "audience_count": 5746,
+      "audience_count": 5747,
       "metascore": null,
       "plot": "In a post-apocalyptic wasteland, a battle-hardened mercenary, Toorop (Vin Diesel), lives by his own code and the credo kill or be killed. His latest assignment is to escort a young woman named Aurora (Mélanie Thierry) and her guardian, Sister Rebeka (Michelle Yeoh), from Kazakhstan to New York. Facing danger at each turn, Toorop begins to realize that Aurora represents the last hope for mankind's survival.",
       "tagline": "",
@@ -597,7 +597,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T20:52:08.335803Z"
+      "scraped_at": "2026-10-30T13:02:41.687300Z"
     },
     {
       "id": "back_to_the_future",
@@ -610,18 +610,18 @@
         "Comedy",
         "Sci-Fi"
       ],
-      "year": null,
+      "year": 1985,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 116,
       "certificate": "PG",
       "rating": 9.0,
-      "votes": 114949,
+      "votes": 115034,
       "tomatometer": 93,
       "tomatometer_count": 119,
       "tomatometer_certified": true,
       "audience_score": 95,
-      "audience_count": 40110,
+      "audience_count": 40124,
       "metascore": null,
       "plot": "In this 1980s sci-fi classic, small-town California teen Marty McFly is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown goes awry. Traveling through time in a modified DeLorean car, Marty encounters young versions of his parents, and must make sure that they fall in love, or he'll cease to exist. Even more dauntingly, Marty has to return to his own time and save the life of Doc Brown.",
       "tagline": "",
@@ -656,15 +656,15 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/4Ufan_SZ9b8BR6aH1UGbyaNBcC4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8717_i_v12_af.jpg",
-          "caption": "Back to the Future (1985)"
-        },
-        {
           "url": "https://resizing.flixster.com/NkQqVsGC1zaX5TvVe7IbjWowLRQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8717_i_h8_af.jpg",
           "caption": "Back to the Future (1985)"
         },
         {
           "url": "https://resizing.flixster.com/DnmhS4ND8LKN1TOtUKmDP3AWbLs=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8717_i_h10_ae.jpg",
+          "caption": "Back to the Future (1985)"
+        },
+        {
+          "url": "https://resizing.flixster.com/gA0B5CrFlD5Z9t2D597t47oU7Oo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8717_i_h10_ad.jpg",
           "caption": "Back to the Future (1985)"
         }
       ],
@@ -720,10 +720,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Back-to-the-Future/72268?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T20:52:25.195484Z"
+      "scraped_at": "2026-10-30T13:02:58.707201Z"
     },
     {
       "id": "back_to_the_future_part_ii",
@@ -744,12 +749,12 @@
       "runtime_minutes": 107,
       "certificate": "PG",
       "rating": 6.6,
-      "votes": 52053,
+      "votes": 52059,
       "tomatometer": 63,
-      "tomatometer_count": 67,
+      "tomatometer_count": 65,
       "tomatometer_certified": false,
       "audience_score": 86,
-      "audience_count": 18733,
+      "audience_count": 18735,
       "metascore": null,
       "plot": "In this zany sequel, time-traveling duo Marty McFly and Dr. Emmett Brown return from saving Marty's future son from disaster, only to discover their own time transformed. In this nightmarish version of Hill Valley, Marty's father has been murdered and Biff Tannen, Marty's nemesis, has profited. After uncovering the secret to Biff's success -- a sports almanac from the future -- Marty and the Doc embark on a quest to repair the space-time continuum.",
       "tagline": "",
@@ -840,7 +845,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-18T20:52:26.648024Z"
+      "scraped_at": "2026-10-30T13:02:59.026695Z"
     },
     {
       "id": "blade_runner",

@@ -732,13 +732,13 @@
       "type": "movie",
       "title": "Back to the Future",
       "original_title": "Back to the Future",
-      "year": null,
+      "year": 1985,
       "genres": [
         "Comedy",
         "Sci-Fi"
       ],
       "rating": 9.0,
-      "votes": 114949,
+      "votes": 115034,
       "tomatometer": 93,
       "audience_score": 95,
       "runtime_minutes": 116,
@@ -2251,9 +2251,9 @@
         "Comedy",
         "Adventure"
       ],
-      "rating": 6.9,
+      "rating": 6.8,
       "votes": 75869,
-      "tomatometer": 72,
+      "tomatometer": 71,
       "audience_score": 77,
       "runtime_minutes": 89,
       "certificate": "PG-13",
@@ -2651,6 +2651,29 @@
       ]
     },
     {
+      "id": "beetlejuice",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Beetlejuice",
+      "original_title": "Beetlejuice",
+      "year": 1988,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 7.1,
+      "votes": 67749,
+      "tomatometer": 83,
+      "audience_score": 82,
+      "runtime_minutes": 92,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/wxC8M6p9Br7BozQLEdi7bW9FBPs=/300x450/v2/https://resizing.flixster.com/TSXIwVS-Bt-y39e-4n7i-YTptB4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QwNTMzNjgyLWM0YjktNDBhZC04ZDRlLTczOGE2ZmJjODJkZS5qcGc=",
+      "plot": "After Barbara and Adam Maitland die in a car accident, they find themselves stuck haunting their country residence, unable to leave the house. When the unbearable Deetzes and teen daughter Lydia buy…",
+      "directors": [
+        "Tim Burton"
+      ]
+    },
+    {
       "id": "crazy_stupid_love_2011",
       "category": "romance",
       "type": "movie",
@@ -2672,29 +2695,6 @@
       "directors": [
         "Glenn Ficarra",
         "John Requa"
-      ]
-    },
-    {
-      "id": "beetlejuice",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Beetlejuice",
-      "original_title": "Beetlejuice",
-      "year": 1988,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "rating": 7.1,
-      "votes": 67705,
-      "tomatometer": 83,
-      "audience_score": 82,
-      "runtime_minutes": 92,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/wxC8M6p9Br7BozQLEdi7bW9FBPs=/300x450/v2/https://resizing.flixster.com/TSXIwVS-Bt-y39e-4n7i-YTptB4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QwNTMzNjgyLWM0YjktNDBhZC04ZDRlLTczOGE2ZmJjODJkZS5qcGc=",
-      "plot": "After Barbara and Adam Maitland die in a car accident, they find themselves stuck haunting their country residence, unable to leave the house. When the unbearable Deetzes and teen daughter Lydia buy…",
-      "directors": [
-        "Tim Burton"
       ]
     },
     {
@@ -3855,7 +3855,7 @@
         "Adventure"
       ],
       "rating": 6.6,
-      "votes": 52053,
+      "votes": 52059,
       "tomatometer": 63,
       "audience_score": 86,
       "runtime_minutes": 107,
@@ -4069,7 +4069,7 @@
         "Animation"
       ],
       "rating": 5.8,
-      "votes": 50181,
+      "votes": 50183,
       "tomatometer": 49,
       "audience_score": 53,
       "runtime_minutes": 91,
@@ -4765,9 +4765,9 @@
         "Fantasy",
         "Adventure"
       ],
-      "rating": 6.9,
-      "votes": 45339,
-      "tomatometer": 79,
+      "rating": 6.8,
+      "votes": 45342,
+      "tomatometer": 78,
       "audience_score": 78,
       "runtime_minutes": 120,
       "certificate": "PG",
