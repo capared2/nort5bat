@@ -333,7 +333,7 @@
         "Comedy"
       ],
       "rating": 4.8,
-      "votes": 94991,
+      "votes": 94993,
       "tomatometer": 26,
       "audience_score": 91,
       "runtime_minutes": 110,
@@ -599,8 +599,8 @@
         "Biography"
       ],
       "rating": 8.4,
-      "votes": 65413,
-      "tomatometer": 93,
+      "votes": 65414,
+      "tomatometer": 94,
       "audience_score": 89,
       "runtime_minutes": 133,
       "certificate": "PG-13",
@@ -1939,8 +1939,8 @@
         "Drama"
       ],
       "rating": 5.8,
-      "votes": 26334,
-      "tomatometer": 43,
+      "votes": 26335,
+      "tomatometer": 42,
       "audience_score": 64,
       "runtime_minutes": 122,
       "certificate": "R",
@@ -2280,9 +2280,9 @@
         "Mystery & Thriller",
         "Action"
       ],
-      "rating": 7.1,
-      "votes": 22022,
-      "tomatometer": 83,
+      "rating": 7.2,
+      "votes": 22023,
+      "tomatometer": 84,
       "audience_score": 67,
       "runtime_minutes": 110,
       "certificate": "PG-13",
@@ -3411,7 +3411,7 @@
         "Drama"
       ],
       "rating": 7.5,
-      "votes": 13402,
+      "votes": 13406,
       "tomatometer": 97,
       "audience_score": 92,
       "runtime_minutes": 121,
@@ -3874,7 +3874,7 @@
         "Action"
       ],
       "rating": 4.6,
-      "votes": 11857,
+      "votes": 11858,
       "tomatometer": 26,
       "audience_score": 40,
       "runtime_minutes": 122,
@@ -4022,7 +4022,7 @@
         "Mystery & Thriller"
       ],
       "rating": 4.3,
-      "votes": 11386,
+      "votes": 11388,
       "tomatometer": 23,
       "audience_score": 58,
       "runtime_minutes": 115,
@@ -4139,7 +4139,7 @@
       ],
       "rating": 5.7,
       "votes": 10956,
-      "tomatometer": 44,
+      "tomatometer": 45,
       "audience_score": 46,
       "runtime_minutes": 133,
       "certificate": "R",
@@ -4759,6 +4759,29 @@
       ]
     },
     {
+      "id": "bonnie_and_clyde",
+      "category": "crime",
+      "type": "movie",
+      "title": "Bonnie and Clyde",
+      "original_title": "Bonnie and Clyde",
+      "year": 1967,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.0,
+      "votes": 8693,
+      "tomatometer": 91,
+      "audience_score": 88,
+      "runtime_minutes": 111,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/vBiSRq24B0pzn_pUOvoTHxpaWJ4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1434_p_v10_ar.jpg",
+      "plot": "Small-time crook Clyde Barrow (Warren Beatty) tries to steal a car and winds up with its owner's daughter, dissatisfied small-town girl Bonnie Parker (Faye Dunaway). Their crimes quickly spiral from…",
+      "directors": [
+        "Arthur Penn"
+      ]
+    },
+    {
       "id": "a_most_violent_year",
       "category": "crime",
       "type": "movie",
@@ -4780,29 +4803,6 @@
       "plot": "In 1981 New York, a fuel supplier (Oscar Isaac) tries to adhere to his own moral compass amid the rampant violence, corruption and decay that threaten his family and his business.",
       "directors": [
         "J.C. Chandor"
-      ]
-    },
-    {
-      "id": "bonnie_and_clyde",
-      "category": "crime",
-      "type": "movie",
-      "title": "Bonnie and Clyde",
-      "original_title": "Bonnie and Clyde",
-      "year": 1967,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "rating": 9.0,
-      "votes": 8690,
-      "tomatometer": 91,
-      "audience_score": 88,
-      "runtime_minutes": 111,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/vBiSRq24B0pzn_pUOvoTHxpaWJ4=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1434_p_v10_ar.jpg",
-      "plot": "Small-time crook Clyde Barrow (Warren Beatty) tries to steal a car and winds up with its owner's daughter, dissatisfied small-town girl Bonnie Parker (Faye Dunaway). Their crimes quickly spiral from…",
-      "directors": [
-        "Arthur Penn"
       ]
     },
     {

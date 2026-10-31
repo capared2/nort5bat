@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 44,
   "count": 40,
-  "updated_at": "2026-10-30T05:56:37.744241Z",
+  "updated_at": "2026-10-31T05:58:39.390425Z",
   "titles": [
     {
       "id": "a_fire_within",
@@ -397,18 +397,18 @@
       "genres": [
         "Documentary"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 103,
-      "certificate": "In Theaters Oct 20",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 6,
+      "certificate": "Oct 2026",
+      "rating": 7.7,
+      "votes": 15,
+      "tomatometer": 100,
+      "tomatometer_count": 10,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 7,
       "metascore": null,
       "plot": "On October 20, 1967, Roger Patterson captured 59 seconds of film showing a creature walking through the Northern California woods--footage that became the most analyzed and debated in history. Fifty-seven years later, a reel of 16mm film discovered in a safe changes everything. \"Capturing Bigfoot\" reveals the untold story behind the world's greatest mystery, told for the first time by Patterson's own son and the people who were there. This is a story about family legacy, broken friendships, and belief itself.",
       "tagline": "",
@@ -446,10 +446,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "https://www.amazon.com/gp/video/detail/B0HKZMV2VV?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T22:25:52.512705Z"
+      "scraped_at": "2026-10-31T05:58:33.765024Z"
     },
     {
       "id": "closure_2026",

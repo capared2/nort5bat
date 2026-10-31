@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-10-30T22:29:00.170391Z",
+  "updated_at": "2026-10-31T05:54:15.544347Z",
   "titles": [
     {
       "id": "1002448-birds",
@@ -1585,18 +1585,18 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 97,
       "certificate": "R",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 5,
+      "rating": 6.7,
+      "votes": 29,
+      "tomatometer": 86,
+      "tomatometer_count": 37,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 8,
       "metascore": null,
       "plot": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there's a catch.",
       "tagline": "",
@@ -1609,22 +1609,6 @@
         {
           "url": "https://resizing.flixster.com/1nIrzli-bm6YWGvPEBX3MfYdyzQ=/620x336/v2/https://resizing.flixster.com/-5bnXG7N50SUUx1w71-FtmKTSyo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwMmViZDBiLTMzODEtNDIzNC04NjhiLTAzMTY4NzlhN2M1OS5qcGc=",
           "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/SzSgA43CAo0e8hl0qdGyXjmGCN0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33452588_i_h9_ac.jpg",
-          "caption": "Breeder (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/Qz4dQ6dDpEWZUWEQIkQqE3_Y8ak=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33452588_i_v9_ac.jpg",
-          "caption": "Breeder (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/0mtQjpz_w6ow97EqNNcwo4l7EZk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33452588_i_v8_ac.jpg",
-          "caption": "Breeder (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/HIfnZrVtGc5f4oKAobMTAsI-sd4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33452588_i_h10_ac.jpg",
-          "caption": "Breeder (2026)"
         },
         {
           "url": "https://resizing.flixster.com/8BX4uBAzbsxPYpm6irqXDA70yrA=/fit-in/705x460/v2/https://resizing.flixster.com/-5bnXG7N50SUUx1w71-FtmKTSyo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwMmViZDBiLTMzODEtNDIzNC04NjhiLTAzMTY4NzlhN2M1OS5qcGc=",
@@ -1695,10 +1679,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Breeder/5250343?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T13:29:19.493928Z"
+      "scraped_at": "2026-10-31T05:52:59.972833Z"
     },
     {
       "id": "bride_of_frankenstein",
@@ -1718,12 +1707,12 @@
       "runtime_minutes": 75,
       "certificate": null,
       "rating": 9.2,
-      "votes": 4242,
+      "votes": 4246,
       "tomatometer": 97,
-      "tomatometer_count": 60,
+      "tomatometer_count": 58,
       "tomatometer_certified": true,
       "audience_score": 88,
-      "audience_count": 1155,
+      "audience_count": 1156,
       "metascore": null,
       "plot": "After recovering from injuries sustained in the mob attack upon himself and his creation, Dr. Frankenstein (Colin Clive) falls under the control of his former mentor, Dr. Pretorius (Ernest Thesiger), who insists the now-chastened doctor resume his experiments in creating new life. Meanwhile, the Monster (Boris Karloff) remains on the run from those who wish to destroy him without understanding that his intentions are generally good despite his lack of socialization and self-control.",
       "tagline": "",
@@ -1812,7 +1801,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T13:29:34.152236Z"
+      "scraped_at": "2026-10-31T05:53:14.225619Z"
     },
     {
       "id": "clayface",

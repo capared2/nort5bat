@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-10-30T22:33:02.914154Z",
+  "updated_at": "2026-10-31T05:58:18.619066Z",
   "titles": [
     {
       "id": "771420830",
@@ -773,7 +773,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T13:31:27.229320Z"
+      "scraped_at": "2026-10-31T05:55:09.629690Z"
     },
     {
       "id": "butthole_surfers_the_hole_truth_and_nothing_butt",
@@ -786,18 +786,18 @@
         "Documentary",
         "Music"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 106,
       "certificate": "Aug 2026",
       "rating": null,
-      "votes": 6,
+      "votes": 11,
       "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 3,
+      "audience_count": 5,
       "metascore": null,
       "plot": "Rare archival footage, interviews, cutting-edge animation and surreal reenactments tell the story of the groundbreaking and influential American rock band Butthole Surfers.",
       "tagline": "",
@@ -827,10 +827,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Butthole-Surfers-The-Hole-Truth-and-Nothing-Butt/5192091?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T13:32:44.179671Z"
+      "scraped_at": "2026-10-31T05:56:27.442774Z"
     },
     {
       "id": "camp_ricstar",
@@ -895,7 +900,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T22:24:59.891848Z"
+      "scraped_at": "2026-10-31T05:57:40.092638Z"
     },
     {
       "id": "dark_city_beneath_the_beat",
