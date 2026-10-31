@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-10-31T05:58:19.185252Z",
+  "updated_at": "2026-10-31T12:43:27.379751Z",
   "titles": [
     {
       "id": "1120513-lockdown",
@@ -1668,10 +1668,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-19T22:30:00.228269Z"
+      "scraped_at": "2026-10-31T12:43:22.362260Z"
     },
     {
       "id": "code_name_banshee",

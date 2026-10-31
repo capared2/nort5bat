@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-10-31T05:54:15.544347Z",
+  "updated_at": "2026-10-31T12:47:37.405061Z",
   "titles": [
     {
       "id": "1002448-birds",
@@ -1817,25 +1817,25 @@
         "Crime",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 108,
       "certificate": "R",
-      "rating": null,
-      "votes": null,
-      "tomatometer": null,
-      "tomatometer_count": 1,
-      "tomatometer_certified": false,
-      "audience_score": null,
-      "audience_count": 0,
+      "rating": 6.6,
+      "votes": 3940,
+      "tomatometer": 77,
+      "tomatometer_count": 204,
+      "tomatometer_certified": true,
+      "audience_score": 94,
+      "audience_count": 1056,
       "metascore": null,
       "plot": "\"Clayface\" unravels one man's horrifying descent from rising Hollywood star to\nrevenge-filled monster in a story that explores the loss of one's identity and humanity,\ncorrosive love, and the dark underbelly of scientific ambition.",
       "tagline": "",
-      "poster": "https://resizing.flixster.com/LDggcCkhDe3WiPDwPn4OSKYzdUc=/300x450/v2/https://resizing.flixster.com/L4FFhrg4cS3UwcUFr9sHyEE_nlY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzMDNkYmUyLTk4NzMtNDRkMS04Mjc4LWQ3NGU1MjNjMGQzMi5qcGc=",
+      "poster": "https://resizing.flixster.com/SU29R7uUTq1nZUQ1LWU6mabQwB4=/300x450/v2/https://resizing.flixster.com/O8G8HZEBw1uKp4Sc2X4VFjg0KUI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M0MzFlZWJlLTc1NWUtNGQ0YS1iYjc5LTZlZTRhZTBhNWU5YS5qcGc=",
       "images": [
         {
-          "url": "https://resizing.flixster.com/LDggcCkhDe3WiPDwPn4OSKYzdUc=/300x450/v2/https://resizing.flixster.com/L4FFhrg4cS3UwcUFr9sHyEE_nlY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzMDNkYmUyLTk4NzMtNDRkMS04Mjc4LWQ3NGU1MjNjMGQzMi5qcGc=",
+          "url": "https://resizing.flixster.com/SU29R7uUTq1nZUQ1LWU6mabQwB4=/300x450/v2/https://resizing.flixster.com/O8G8HZEBw1uKp4Sc2X4VFjg0KUI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M0MzFlZWJlLTc1NWUtNGQ0YS1iYjc5LTZlZTRhZTBhNWU5YS5qcGc=",
           "caption": ""
         },
         {
@@ -1927,10 +1927,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Clayface/5147269?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T04:56:49.259820Z"
+      "scraped_at": "2026-10-31T12:46:47.657385Z"
     },
     {
       "id": "crawlers_2026",
