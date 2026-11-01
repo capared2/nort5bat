@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 49,
   "count": 60,
-  "updated_at": "2026-11-01T06:21:26.771433Z",
+  "updated_at": "2026-11-01T22:14:00.592981Z",
   "titles": [
     {
       "id": "1015944-parent_trap",
@@ -1996,7 +1996,7 @@
       "runtime_minutes": 134,
       "certificate": null,
       "rating": 6.0,
-      "votes": 949,
+      "votes": 951,
       "tomatometer": 83,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
@@ -2088,6 +2088,10 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/70259085?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0HGL687CC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         },
@@ -2098,7 +2102,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T21:43:51.777826Z"
+      "scraped_at": "2026-11-01T22:07:29.138627Z"
     },
     {
       "id": "fanboys",
@@ -2117,8 +2121,8 @@
       "certificate": "PG-13",
       "rating": 5.0,
       "votes": 8464,
-      "tomatometer": 33,
-      "tomatometer_count": 94,
+      "tomatometer": 32,
+      "tomatometer_count": 93,
       "tomatometer_certified": false,
       "audience_score": 57,
       "audience_count": 3243,
@@ -2222,7 +2226,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T04:55:06.306790Z"
+      "scraped_at": "2026-11-01T22:12:30.853579Z"
     },
     {
       "id": "female_trouble",
