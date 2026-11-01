@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-10-31T21:43:35.304033Z",
+  "updated_at": "2026-11-01T06:17:05.258072Z",
   "titles": [
     {
       "id": "420_massacre",
@@ -1260,7 +1260,7 @@
       "rating": null,
       "votes": 88,
       "tomatometer": null,
-      "tomatometer_count": 4,
+      "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": 89,
       "audience_count": 5,
@@ -1340,7 +1340,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:46:18.113435Z"
+      "scraped_at": "2026-11-01T06:13:17.898889Z"
     },
     {
       "id": "dark_match",
@@ -1476,7 +1476,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:46:21.313417Z"
+      "scraped_at": "2026-11-01T06:13:21.083292Z"
     },
     {
       "id": "day_of_the_wicked",
@@ -1541,7 +1541,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:47:40.312223Z"
+      "scraped_at": "2026-11-01T06:14:39.754883Z"
     },
     {
       "id": "dead_media",
@@ -1557,14 +1557,14 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 90,
-      "certificate": "Now Playing",
+      "certificate": "Oct 2026",
       "rating": null,
-      "votes": null,
+      "votes": 2,
       "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": 2,
       "metascore": null,
       "plot": "A troubled young woman wants to relax by streaming an old horror movie. Her lonely Gen X uncle demands they watch it on DVD. But the disc is haunted, plunging them into a movie night that won't die.",
       "tagline": "",
@@ -1659,10 +1659,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HMHXR4HT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:48:27.282099Z"
+      "scraped_at": "2026-11-01T06:15:26.906581Z"
     },
     {
       "id": "death_bitch",
@@ -1768,7 +1773,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:49:30.500228Z"
+      "scraped_at": "2026-11-01T06:16:30.438749Z"
     },
     {
       "id": "deathgasm_2_goremageddon",

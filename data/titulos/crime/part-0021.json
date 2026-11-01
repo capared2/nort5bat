@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 21,
   "count": 60,
-  "updated_at": "2026-10-31T21:47:37.930637Z",
+  "updated_at": "2026-11-01T06:17:05.483119Z",
   "titles": [
     {
       "id": "1013139-maltese_falcon",
@@ -2165,10 +2165,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/daughter-of-the-dragon/umc.cmc.1alid3i4h24lr0puh6okdmc2s?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:47:07.633650Z"
+      "scraped_at": "2026-11-01T06:14:07.325802Z"
     },
     {
       "id": "daughter_of_shanghai",
@@ -2272,7 +2277,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:47:09.589846Z"
+      "scraped_at": "2026-11-01T06:14:09.922823Z"
     },
     {
       "id": "dead_end_1937",
@@ -2389,7 +2394,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:48:15.808090Z"
+      "scraped_at": "2026-11-01T06:15:15.206482Z"
     },
     {
       "id": "dorothy_2026",

@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-10-31T21:43:36.214907Z",
+  "updated_at": "2026-11-01T06:15:05.733746Z",
   "titles": [
     {
       "id": "1008085-game_of_death",
@@ -2360,10 +2360,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/DC-Down/2165939?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-20T11:47:57.154318Z"
+      "scraped_at": "2026-11-01T06:14:56.946745Z"
     },
     {
       "id": "el_mariachi",
