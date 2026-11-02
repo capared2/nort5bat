@@ -1,7 +1,7 @@
 {
   "genre": "sports",
   "name": "Sports",
-  "count": 70,
+  "count": 71,
   "titles": [
     {
       "id": "happy_gilmore",
@@ -1635,6 +1635,27 @@
       "directors": [
         "Peter Berg"
       ]
+    },
+    {
+      "id": "ufc_334_gane_vs_hokit",
+      "category": "sports",
+      "type": "movie",
+      "title": "UFC 334: Gane vs. Hokit",
+      "original_title": "UFC 334: Gane vs. Hokit",
+      "year": null,
+      "genres": [
+        "Documentary",
+        "Sports"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 180,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/u72kmCliBApTCnrV5YxlhxZ56KE=/300x450/v2/https://resizing.flixster.com/mR-t_DRYCN5QU0Cc3axUqEBO5Nc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmODk4ZDMwLWQxMjItNGQ4Yy1hNTU0LTI1YjM2ZTI4MTlhMS5wbmc=",
+      "plot": "",
+      "directors": []
     }
   ]
 }

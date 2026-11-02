@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 45,
   "count": 60,
-  "updated_at": "2026-11-01T13:34:23.964459Z",
+  "updated_at": "2026-11-02T16:10:31.761531Z",
   "titles": [
     {
       "id": "10009001-the_freshman",
@@ -2191,7 +2191,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T11:59:11.733980Z"
+      "scraped_at": "2026-11-02T16:03:55.258005Z"
     },
     {
       "id": "garfield",
@@ -2212,7 +2212,7 @@
       "rating": 3.8,
       "votes": 9781,
       "tomatometer": 14,
-      "tomatometer_count": 133,
+      "tomatometer_count": 132,
       "tomatometer_certified": false,
       "audience_score": 38,
       "audience_count": 8861,
@@ -2304,11 +2304,15 @@
         {
           "name": "Disney+",
           "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T11:59:23.304947Z"
+      "scraped_at": "2026-11-02T16:04:06.362321Z"
     },
     {
       "id": "grand_theft_auto",
@@ -2325,10 +2329,10 @@
       "release_date": null,
       "runtime_minutes": 89,
       "certificate": "PG",
-      "rating": 5.1,
+      "rating": 4.9,
       "votes": 207,
-      "tomatometer": 27,
-      "tomatometer_count": 15,
+      "tomatometer": 21,
+      "tomatometer_count": 14,
       "tomatometer_certified": false,
       "audience_score": 35,
       "audience_count": 83,
@@ -2407,7 +2411,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T17:17:45.158410Z"
+      "scraped_at": "2026-11-02T16:10:29.968503Z"
     },
     {
       "id": "great_outdoors",

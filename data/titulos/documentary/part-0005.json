@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-02T06:17:49.513702Z",
+  "updated_at": "2026-11-02T16:11:24.274675Z",
   "titles": [
     {
       "id": "a_brave_heart_the_lizzie_velasquez_story",
@@ -2335,10 +2335,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/grand-theft-hamlet/umc.cmc.2oqn1o20hz06rzzho7kmsyuan?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T17:17:45.633471Z"
+      "scraped_at": "2026-11-02T16:10:30.706194Z"
     },
     {
       "id": "graver_lhomme_arret_sur_pierre_hebert",
@@ -2421,7 +2426,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T17:17:58.484288Z"
+      "scraped_at": "2026-11-02T16:10:45.221734Z"
     },
     {
       "id": "in_search_of_darkness",

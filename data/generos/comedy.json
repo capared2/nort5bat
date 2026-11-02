@@ -1,7 +1,7 @@
 {
   "genre": "comedy",
   "name": "Comedy",
-  "count": 5392,
+  "count": 5397,
   "titles": [
     {
       "id": "finding_nemo",
@@ -810,7 +810,7 @@
         "Animation"
       ],
       "rating": 7.8,
-      "votes": 113878,
+      "votes": 113881,
       "tomatometer": 89,
       "audience_score": 85,
       "runtime_minutes": 102,
@@ -2183,9 +2183,9 @@
         "Romance",
         "Drama"
       ],
-      "rating": 7.7,
+      "rating": 7.6,
       "votes": 77133,
-      "tomatometer": 86,
+      "tomatometer": 85,
       "audience_score": 88,
       "runtime_minutes": 109,
       "certificate": "R",
@@ -2566,9 +2566,9 @@
         "Adventure",
         "Comedy"
       ],
-      "rating": 6.7,
-      "votes": 68853,
-      "tomatometer": 77,
+      "rating": 6.6,
+      "votes": 68858,
+      "tomatometer": 78,
       "audience_score": 90,
       "runtime_minutes": 114,
       "certificate": "PG",
@@ -2808,7 +2808,7 @@
         "Adventure"
       ],
       "rating": 8.2,
-      "votes": 64806,
+      "votes": 64836,
       "tomatometer": 95,
       "audience_score": 88,
       "runtime_minutes": 107,
@@ -3539,7 +3539,7 @@
         "Action"
       ],
       "rating": 5.7,
-      "votes": 56782,
+      "votes": 56783,
       "tomatometer": 51,
       "audience_score": 67,
       "runtime_minutes": 111,
@@ -4442,6 +4442,31 @@
       ]
     },
     {
+      "id": "ghostbusters_2016",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Ghostbusters",
+      "original_title": "Ghostbusters",
+      "year": 2016,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 6.5,
+      "votes": 47353,
+      "tomatometer": 74,
+      "audience_score": 48,
+      "runtime_minutes": 117,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/F4vTMewyJLBNGcqqlQN-4ry_at0=/300x450/v2/https://resizing.flixster.com/BJs0iCRpMWh49chzA1zvzoScJgs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzOTMwZWE4LTA4MWMtNDYzZC05MTk1LWI4NTRjMjRlMjUxZS53ZWJw",
+      "plot": "Paranormal researcher Abby Yates and physicist Erin Gilbert are trying to prove that ghosts exist in modern society. When strange apparitions appear in Manhattan, Gilbert and Yates turn to engineer…",
+      "directors": [
+        "Paul Feig"
+      ]
+    },
+    {
       "id": "the_perks_of_being_a_wallflower",
       "category": "romance",
       "type": "movie",
@@ -4464,31 +4489,6 @@
       "plot": "Socially awkward Charlie is a wallflower watching from the sidelines, until a pair of charismatic seniors take him under their wing.",
       "directors": [
         "Stephen Chbosky"
-      ]
-    },
-    {
-      "id": "ghostbusters_2016",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Ghostbusters",
-      "original_title": "Ghostbusters",
-      "year": 2016,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Adventure",
-        "Action"
-      ],
-      "rating": 6.5,
-      "votes": 47338,
-      "tomatometer": 74,
-      "audience_score": 48,
-      "runtime_minutes": 117,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/F4vTMewyJLBNGcqqlQN-4ry_at0=/300x450/v2/https://resizing.flixster.com/BJs0iCRpMWh49chzA1zvzoScJgs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzOTMwZWE4LTA4MWMtNDYzZC05MTk1LWI4NTRjMjRlMjUxZS53ZWJw",
-      "plot": "Paranormal researcher Abby Yates and physicist Erin Gilbert are trying to prove that ghosts exist in modern society. When strange apparitions appear in Manhattan, Gilbert and Yates turn to engineer…",
-      "directors": [
-        "Paul Feig"
       ]
     },
     {

@@ -1,8 +1,8 @@
 {
   "genre": "anime",
   "part": 1,
-  "count": 16,
-  "updated_at": "2026-10-31T21:41:34.007681Z",
+  "count": 22,
+  "updated_at": "2026-11-02T16:11:24.324356Z",
   "titles": [
     {
       "id": "100_meters_2025",
@@ -88,6 +88,85 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-28T13:09:26.487479Z"
+    },
+    {
+      "id": "batman_ninja",
+      "url": "https://www.rottentomatoes.com/m/batman_ninja",
+      "category": "anime",
+      "type": "movie",
+      "title": "Batman Ninja",
+      "original_title": "Batman Ninja",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime"
+      ],
+      "year": 2018,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 85,
+      "certificate": "PG-13",
+      "rating": 6.7,
+      "votes": 1540,
+      "tomatometer": 84,
+      "tomatometer_count": 19,
+      "tomatometer_certified": false,
+      "audience_score": 60,
+      "audience_count": 348,
+      "metascore": null,
+      "plot": "Batman, along with his allies and adversaries, finds himself transported from modern a Gotham City to feudal Japan.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/3VFDyCkDYTLsPWzBEbtu273Pacs=/300x450/v2/https://resizing.flixster.com/Z5HXktSSpkdgC9Fn67gvANbSutE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmNGEzNTg1LTZkYjQtNGI1OS05NmQyLWZlMzM0MTZmNWQxNy53ZWJw",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/3VFDyCkDYTLsPWzBEbtu273Pacs=/300x450/v2/https://resizing.flixster.com/Z5HXktSSpkdgC9Fn67gvANbSutE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmNGEzNTg1LTZkYjQtNGI1OS05NmQyLWZlMzM0MTZmNWQxNy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/DOWLwGhLqdQUNcHvmsAd5Lw0Af8=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15173708_i_h8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/MYxt2qn4lnKcaJ4eFz69IThjf20=/fit-in/705x460/v2/https://resizing.flixster.com/Z5HXktSSpkdgC9Fn67gvANbSutE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdmNGEzNTg1LTZkYjQtNGI1OS05NmQyLWZlMzM0MTZmNWQxNy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/VXPrEsYeMGLGdL3ugKJrcE6yNjk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15173708_p_v8_aa.jpg",
+          "caption": "Batman Ninja (2018)"
+        },
+        {
+          "url": "https://resizing.flixster.com/6TXUzRr3lQZz9ayKng3bmdbfXLk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15173708_v_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/LICXwZ1_pRQyxMAAbNGakLx2cfE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15173708_i_h8_aa.jpg",
+          "caption": "Batman Ninja (2018)"
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "junpei_mizusaki",
+          "name": "Junpei Mizusaki"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Batman-Ninja/937412?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-02T16:11:17.932539Z"
     },
     {
       "id": "blue_giant",
@@ -495,7 +574,7 @@
       "runtime_minutes": 91,
       "certificate": "PG",
       "rating": 7.1,
-      "votes": 3600,
+      "votes": 3602,
       "tomatometer": 87,
       "tomatometer_count": 87,
       "tomatometer_certified": true,
@@ -565,12 +644,12 @@
         },
         {
           "name": "Apple TV",
-          "url": "https://tv.apple.com/us/movie/from-up-on-poppy-hill-subtitled/umc.cmc.11uuzbwzfxszmzlkqj4m1yobx?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+          "url": "https://tv.apple.com/us/movie/from-up-on-poppy-hill/umc.cmc.11uuzbwzfxszmzlkqj4m1yobx?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T11:57:47.335348Z"
+      "scraped_at": "2026-11-02T16:02:32.082207Z"
     },
     {
       "id": "grave_of_the_fireflies",
@@ -590,12 +669,12 @@
       "runtime_minutes": 88,
       "certificate": null,
       "rating": 9.3,
-      "votes": 17268,
+      "votes": 17272,
       "tomatometer": 100,
-      "tomatometer_count": 50,
+      "tomatometer_count": 49,
       "tomatometer_certified": true,
       "audience_score": 95,
-      "audience_count": 5501,
+      "audience_count": 5505,
       "metascore": null,
       "plot": "A devastating meditation on the human cost of war, this animated tale follows Seita (Tsutomu Tatsumi), a teenager charged with the care of his younger sister, Setsuko (Ayano Shiraishi), after an American firebombing during World War II separates the two children from their parents. Their tale of survival is as heartbreaking as it is true to life. The siblings rely completely on each other and struggle against all odds to stay together and stay alive.",
       "tagline": "",
@@ -651,7 +730,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T17:17:56.472532Z"
+      "scraped_at": "2026-11-02T16:10:42.988773Z"
     },
     {
       "id": "haikyu_the_dumpster_battle",
@@ -929,6 +1008,480 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-22T21:47:31.910893Z"
+    },
+    {
+      "id": "mobile_suit_gundam_hathaway_the_sorcery_of_nymph_circe",
+      "url": "https://www.rottentomatoes.com/m/mobile_suit_gundam_hathaway_the_sorcery_of_nymph_circe",
+      "category": "anime",
+      "type": "movie",
+      "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
+      "original_title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime"
+      ],
+      "year": 2026,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 108,
+      "certificate": "PG-13",
+      "rating": null,
+      "votes": 319,
+      "tomatometer": null,
+      "tomatometer_count": 7,
+      "tomatometer_certified": false,
+      "audience_score": 92,
+      "audience_count": 105,
+      "metascore": null,
+      "plot": "Hathaway Noa's fight against the Earth Federation continues, culminating in an attack on the Adelaide Conference.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/xXbd_CVjPjjZZcv4-7O4ikh5P-Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31786974_p_v8_aa.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/xXbd_CVjPjjZZcv4-7O4ikh5P-Y=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31786974_p_v8_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/QlY4DeWmKbuTpHtR46d8nENIvww=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/490/719/thumb_941C429E-DDF9-4A4F-AB75-74613A92EF9D.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/h5hTs2U-8YYpl25mH9soBT7Uabk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31786974_p_v8_aa.jpg",
+          "caption": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/PG-IzPDqBoNhOPEfVgq3Oj6Fyx4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31786974_i_h10_ab.jpg",
+          "caption": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Kwf_Uips8ZE8yJvoVKFwna90sQw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31786974_v_v8_ab.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "iTqWgZARBhwx",
+        "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe: Trailer 1 (Netflix)",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/490/719/thumb_941C429E-DDF9-4A4F-AB75-74613A92EF9D.jpg",
+        "seconds": 111,
+        "src": "https://link.theplatform.com/s/NGweTC/media/iTqWgZARBhwx?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "shuko_murase_2",
+          "name": "Shûkô Murase"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/82854665?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-02T16:11:11.107435Z"
+    },
+    {
+      "id": "my_hero_academia_heroes_rising",
+      "url": "https://www.rottentomatoes.com/m/my_hero_academia_heroes_rising",
+      "category": "anime",
+      "type": "movie",
+      "title": "My Hero Academia: Heroes Rising",
+      "original_title": "My Hero Academia: Heroes Rising",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime"
+      ],
+      "year": 2020,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 104,
+      "certificate": "PG-13",
+      "rating": 7.6,
+      "votes": 4892,
+      "tomatometer": 92,
+      "tomatometer_count": 39,
+      "tomatometer_certified": true,
+      "audience_score": 98,
+      "audience_count": 1011,
+      "metascore": null,
+      "plot": "Deku and the rest of Class 1-A must save a group of islanders from a villain with an unfathomable quirk.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/bnjXEisLIcOODAFxpQ2ieRpE9Yw=/300x450/v2/https://resizing.flixster.com/WiKgFOvI5jDyL7tI3UuGVZZtlIw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0ZWE2NTk4LWU5OTUtNDY5ZS05MTc5LTkxNjZjMjYyYmE3Ny53ZWJw",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/bnjXEisLIcOODAFxpQ2ieRpE9Yw=/300x450/v2/https://resizing.flixster.com/WiKgFOvI5jDyL7tI3UuGVZZtlIw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0ZWE2NTk4LWU5OTUtNDY5ZS05MTc5LTkxNjZjMjYyYmE3Ny53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/wPvHoiNg_7J4mLJL6wKg1jtneX8=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/71/351/thumb_277DB89B-59C8-4C44-8AA8-6AB7835E6723.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/optlGEGhuQH5q4lqn1r2hsmFy7g=/fit-in/705x460/v2/https://resizing.flixster.com/WiKgFOvI5jDyL7tI3UuGVZZtlIw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY0ZWE2NTk4LWU5OTUtNDY5ZS05MTc5LTkxNjZjMjYyYmE3Ny53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/g-K23wR6BiRfYVo7IZYIjTiN7rw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17809352_p_v13_ab.jpg",
+          "caption": "My Hero Academia: Heroes Rising (2019)"
+        },
+        {
+          "url": "https://resizing.flixster.com/mqx5GxRk1kXWah2pCpZsMbSVTGI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17809352_p_v12_ab.jpg",
+          "caption": "My Hero Academia: Heroes Rising (2019)"
+        },
+        {
+          "url": "https://resizing.flixster.com/QcBAP7S_k40Ulk2uTfiaemNF2KI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17809352_i_h10_aa.jpg",
+          "caption": "My Hero Academia: Heroes Rising (2019)"
+        },
+        {
+          "url": "https://resizing.flixster.com/orsFoSKVDT4pnDeCDwzerBjTpdE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p17809352_v_v8_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "WOulbOXp_uUR",
+        "title": "My Hero Academia: Heroes Rising: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/71/351/thumb_277DB89B-59C8-4C44-8AA8-6AB7835E6723.jpg",
+        "seconds": 90,
+        "src": "https://link.theplatform.com/s/NGweTC/media/WOulbOXp_uUR?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "kenji_nagasaki",
+          "name": "Kenji Nagasaki"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/My-Hero-Academia-Heroes-Rising/1516455?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-02T16:11:13.073557Z"
+    },
+    {
+      "id": "my_hero_academia_youre_next",
+      "url": "https://www.rottentomatoes.com/m/my_hero_academia_youre_next",
+      "category": "anime",
+      "type": "movie",
+      "title": "My Hero Academia: You're Next",
+      "original_title": "My Hero Academia: You're Next",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Anime"
+      ],
+      "year": 2024,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "rating": 7.2,
+      "votes": 906,
+      "tomatometer": 95,
+      "tomatometer_count": 19,
+      "tomatometer_certified": false,
+      "audience_score": 91,
+      "audience_count": 236,
+      "metascore": null,
+      "plot": "Hoping to be the best hero he can be, high school student Izuku Midoriya confronts a villain who imitates the hero he's long admired.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/1_8M6bI8GF-5nUoOP-xI2I1RhSA=/300x450/v2/https://resizing.flixster.com/M4xEx9siA2F_Ct9yl8KZizzP3YY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JjOWZlNjA2LTU5NzAtNGMzMS1hMzliLTRjOTY2ZGU2M2JiNi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/1_8M6bI8GF-5nUoOP-xI2I1RhSA=/300x450/v2/https://resizing.flixster.com/M4xEx9siA2F_Ct9yl8KZizzP3YY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JjOWZlNjA2LTU5NzAtNGMzMS1hMzliLTRjOTY2ZGU2M2JiNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/GXBfgdpD7r8Hv79EG_IKCaLKs-4=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/1010/467/MHA_US_Trailer_thumb_16x9_textless.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/UGVDEXZ9uvWVFJYEx9-CbR2AQ6c=/fit-in/705x460/v2/https://resizing.flixster.com/M4xEx9siA2F_Ct9yl8KZizzP3YY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JjOWZlNjA2LTU5NzAtNGMzMS1hMzliLTRjOTY2ZGU2M2JiNi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/rIlrRGjgkVH6UpBA43IIDqlK_-c=/fit-in/705x460/v2/https://resizing.flixster.com/3AxVZdAxfbt0qI8DlToYVwt44mc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiYzMyODlmLWNhYWItNDc2ZS1hN2FkLTk2MjIyZmE2ZjEyYi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/1y-rC_1YQG4lQf40ykWcKtq4erg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27824770_p_v12_aa.jpg",
+          "caption": "My Hero Academia: You're Next (2024)"
+        },
+        {
+          "url": "https://resizing.flixster.com/-G-bx-Y3CbHExI3NPpQElZR2EGU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27824770_i_v11_aa.jpg",
+          "caption": "My Hero Academia: You're Next (2024)"
+        },
+        {
+          "url": "https://resizing.flixster.com/tkB3Reywsak1wDKapYiCpAYTOiA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27824770_i_h8_aa.jpg",
+          "caption": "My Hero Academia: You're Next (2024)"
+        },
+        {
+          "url": "https://resizing.flixster.com/fCL-WEIBwUvYsm64rg4md-UXOdc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27824770_v_v12_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/gZrXonDGAHrygrmwLL5ibhL_TZM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p27824770_k_v11_aa.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "eHSiXMz7yhm_",
+        "title": "My Hero Academia: You're Next: Exclusive Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/1010/467/MHA_US_Trailer_thumb_16x9_textless.jpg",
+        "seconds": 114,
+        "src": "https://link.theplatform.com/s/NGweTC/media/eHSiXMz7yhm_?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "tensai_okamura",
+          "name": "Tensai Okamura"
+        },
+        {
+          "id": "kohei_horikoshi",
+          "name": "Kôhei Horikoshi"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/My-Hero-Academia-Youre-Next/3867472?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/82036353?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-02T16:11:13.307486Z"
+    },
+    {
+      "id": "one_piece_film_red",
+      "url": "https://www.rottentomatoes.com/m/one_piece_film_red",
+      "category": "anime",
+      "type": "movie",
+      "title": "One Piece Film Red",
+      "original_title": "One Piece Film Red",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime"
+      ],
+      "year": 2022,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 115,
+      "certificate": "PG-13",
+      "rating": 7.8,
+      "votes": 1739,
+      "tomatometer": 97,
+      "tomatometer_count": 38,
+      "tomatometer_certified": false,
+      "audience_score": 94,
+      "audience_count": 566,
+      "metascore": null,
+      "plot": "Uta -- the most beloved singer in the world. Renowned for concealing her own identity when performing, her voice has come to be described as \"otherworldly.\" Now, for the first time ever, Uta will reveal herself to the world at a live concert. As the venue fills with all kinds of Uta fans -- excited pirates, the Navy watching closely, and the Straw Hats led by Luffy who simply came to enjoy her sonorous performance -- the voice that the whole world has been waiting for is about to resound. The story begins with the shocking fact that she is Shanks' daughter.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/4b7hstnZKgrb6i2hmbOUeLkHO9E=/300x450/v2/https://resizing.flixster.com/euRip3R3jR-lXgqdxJx5ldi63Rw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I4ZDRmNzEyLTI5ODUtNDA1Mi1hOTg0LTU4Njc4NWIxZmViYy5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/4b7hstnZKgrb6i2hmbOUeLkHO9E=/300x450/v2/https://resizing.flixster.com/euRip3R3jR-lXgqdxJx5ldi63Rw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I4ZDRmNzEyLTI5ODUtNDA1Mi1hOTg0LTU4Njc4NWIxZmViYy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/HWdv8yu7NodE_CBO_lZoKlnRHyI=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/28/55/thumb_B5703279-2B24-480A-8148-0212429C4BFB.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/94F2je7T71LKLYcfKLyOalA9HNA=/fit-in/705x460/v2/https://resizing.flixster.com/nKkoXonDHaNPogtYZwXO4Q9bzw8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0NDc3Mjc4LWMwODAtNDdhNi05NjVmLWZkZWM0MjAwZTc3NS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/EVFGodwUgOewauyo8s6xo_oEpBk=/fit-in/705x460/v2/https://resizing.flixster.com/b2kQRQKm80SYF05Rj9NgfwXcNyc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQzODBhMDRjLTRjM2ItNDQ0Ny04ZjY0LTc4OWZlN2M5OGJlYi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/QZyY9L2fWiSxHJw6Jq3Yu5vBFzo=/fit-in/705x460/v2/https://resizing.flixster.com/qe-FRsWzEMbEQZA2_AwJXNaRfLc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU4MmE1ZmQxLWNhYzEtNDczMS1hMzkzLTg0ZGVhYjZlYjE1Ny5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/2WJqKvfdp0As73QBosemoJivSOM=/fit-in/705x460/v2/https://resizing.flixster.com/ZxC-uxlSWAVVpTyBJ24RVZUX6lM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZhNTc3NmFmLWU1ZTktNDEzYy1iNTE4LWMzNmViN2I3YjczZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ehd7JhDkqT7b5Yp1COMRUwVg_GI=/fit-in/705x460/v2/https://resizing.flixster.com/JM76-hSsOWjSVvj8RwF6bheWN_A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkwMmZhOTRiLTNhZGQtNDA2YS05NWU2LTZmYTcwOWNiZmY4YS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/i8DgRA6p_vB7xZXDgzc3_5On1h8=/fit-in/705x460/v2/https://resizing.flixster.com/PN1iDhRI1ZDQlER7N1A-B2DL-Bg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQwM2EzZDhhLTA3MTctNGE1Ny1hZjNmLWU5ZDJjZmU5ZGM1Mi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/f_H_sRiHXs7OGLoA7kySCmyVCgE=/fit-in/705x460/v2/https://resizing.flixster.com/0qPmksPMCo2UTSuJo8eWIvZk8Ek=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NkMGUyNDJmLWQ1NGEtNGJmMi1iNTdiLTg0NzgyMDU5NDFjYy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/rP1aL6tIm3kG4a4K0ib0EKJnbsg=/fit-in/705x460/v2/https://resizing.flixster.com/sEHocYbosQQ3U-hukXc38zLjshI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg1MGRiN2E5LWFjM2MtNDI5YS1iNDYwLWI3Mzc4YThlOWYyZS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "4_D3hpV782hb",
+        "title": "One Piece Film: Red: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/28/55/thumb_B5703279-2B24-480A-8148-0212429C4BFB.jpg",
+        "seconds": 57,
+        "src": "https://link.theplatform.com/s/NGweTC/media/4_D3hpV782hb?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "goro_taniguchi",
+          "name": "Goro Taniguchi"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/81700392?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-02T16:11:20.394538Z"
+    },
+    {
+      "id": "spy_x_family_code_white",
+      "url": "https://www.rottentomatoes.com/m/spy_x_family_code_white",
+      "category": "anime",
+      "type": "movie",
+      "title": "Spy x Family Code: White",
+      "original_title": "Spy x Family Code: White",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Anime",
+        "Action"
+      ],
+      "year": 2024,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 110,
+      "certificate": "PG-13",
+      "rating": 7.4,
+      "votes": 522,
+      "tomatometer": 94,
+      "tomatometer_count": 36,
+      "tomatometer_certified": false,
+      "audience_score": 97,
+      "audience_count": 145,
+      "metascore": null,
+      "plot": "He's a spy. She's an assassin. Together, Loid and Yor keep their double lives to themselves while pretending to be the perfect family. However, their adopted daughter Anya, a telepath, knows both of their exciting secrets unbeknownst to them. While under the guise of taking his family on a weekend winter getaway, Loid's attempt to make progress on his current mission Operation Strix proves difficult when Anya mistakenly gets involved and triggers events that threaten world peace!",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/-xi-_s8NSwT5Z_EnLYwImwdi_-s=/300x450/v2/https://resizing.flixster.com/Squ4zMOZzqOSvapQh6Vx1DpjAFk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiZjE1ZTY0LTM5ODktNDg4OS05OWY4LWM2MzI2NDllNzc2OS5wbmc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/-xi-_s8NSwT5Z_EnLYwImwdi_-s=/300x450/v2/https://resizing.flixster.com/Squ4zMOZzqOSvapQh6Vx1DpjAFk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiZjE1ZTY0LTM5ODktNDg4OS05OWY4LWM2MzI2NDllNzc2OS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/RTLsyzgK0dbSBA2lfFROgyTdqBo=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/1010/962/thumb_9D82002A-BAE6-46A5-91AD-06FC0C2C6CBE.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/ulswzIo5zUMpGLodTxvvca1kPCA=/fit-in/705x460/v2/https://resizing.flixster.com/Squ4zMOZzqOSvapQh6Vx1DpjAFk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiZjE1ZTY0LTM5ODktNDg4OS05OWY4LWM2MzI2NDllNzc2OS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/qJVhjMF5Jjm7LZWFpKz4b7-E9KM=/fit-in/705x460/v2/https://resizing.flixster.com/D_hXtNAk0_0wEdt3LBaPGs2qoYs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiMzRiMjQ4LTJkYmYtNDM3YS05NTg1LWY1YWNmNGVhYzZlZS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bHpx50FFRuiCQCTCl6mthxYR1xE=/fit-in/705x460/v2/https://resizing.flixster.com/jG4sHDJXCG4imqMTHHkPEzXVxgM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlNGM3Y2ZhLTRkOWYtNDU3ZC04MTU2LTY4ZDcwOTFhYmEwMy5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/zcn9H-rHEaV1QRLgRr90EkeUhBQ=/fit-in/705x460/v2/https://resizing.flixster.com/msoWs0Y28wBiS9CyaMY0o4BpU04=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg0MzQzNWNlLWJkZTMtNDM5NS1hZDE3LWQ4ZDgzOWYxNGUzOS5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/h6SkSpc5VsGMAc9updrOxy_wBmo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26213590_i_h10_ab.jpg",
+          "caption": "Spy x Family Code: White (2023)"
+        },
+        {
+          "url": "https://resizing.flixster.com/Zp-IQM7RoDRdogRTFmvYKBCY3cc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26213590_i_h10_aa.jpg",
+          "caption": "Spy x Family Code: White (2023)"
+        },
+        {
+          "url": "https://resizing.flixster.com/qLoP5BMUC99QGwVZ7Ytr4xvvlds=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26213590_v_v11_ad.jpg",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "AoA3IuN4dDbv",
+        "title": "Spy x Family Code: White: Trailer 2",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/1010/962/thumb_9D82002A-BAE6-46A5-91AD-06FC0C2C6CBE.jpg",
+        "seconds": 118,
+        "src": "https://link.theplatform.com/s/NGweTC/media/AoA3IuN4dDbv?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "takashi_katagiri",
+          "name": "Takashi Katagiri"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/SPY-x-FAMILY-CODE-White-Original-Japanese-Language/3740052?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-02T16:11:14.133124Z"
     },
     {
       "id": "the_colors_within",

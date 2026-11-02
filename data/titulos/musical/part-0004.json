@@ -1,8 +1,8 @@
 {
   "genre": "musical",
   "part": 4,
-  "count": 50,
-  "updated_at": "2026-11-02T06:19:52.254784Z",
+  "count": 51,
+  "updated_at": "2026-11-02T16:11:24.726073Z",
   "titles": [
     {
       "id": "1077332-pippi_longstocking",
@@ -1897,11 +1897,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Gay-Purr-Ee/9786?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T11:59:42.769166Z"
+      "scraped_at": "2026-11-02T16:04:26.300761Z"
     },
     {
       "id": "great_muppet_caper",
@@ -4846,6 +4850,88 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-26T13:17:51.914914Z"
+    },
+    {
+      "id": "the_metropolitan_opera_carmen_2010",
+      "url": "https://www.rottentomatoes.com/m/the_metropolitan_opera_carmen_2010",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Metropolitan Opera: Carmen",
+      "original_title": "The Metropolitan Opera: Carmen",
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 182,
+      "certificate": "In Theaters Nov 14",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": 0,
+      "metascore": null,
+      "plot": "Richard Eyre's beloved production of Bizet's masterpiece returns to theaters, led by mezzo-soprano Elīna Garanča as the title character and tenor Roberto Alagna as Don José in the indelible 2010 Met performance--a fan favorite of The Met: Live in HD series. Yannick Nézet-Séguin conducts in his company-debut season.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/Mc42zwJvfMEV4YmCAhk1kFiNwSE=/300x450/v2/https://resizing.flixster.com/3GDqma5NTmNvP9P9d0up2yyhpN0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2M2U1YjFiLTU5NzYtNGI1Yi1iNzg4LTJkMmUzOGJjMDk4ZS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/Mc42zwJvfMEV4YmCAhk1kFiNwSE=/300x450/v2/https://resizing.flixster.com/3GDqma5NTmNvP9P9d0up2yyhpN0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2M2U1YjFiLTU5NzYtNGI1Yi1iNzg4LTJkMmUzOGJjMDk4ZS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/bCh2o0a2lZ6MX660wyIRKP3UZOo=/fit-in/705x460/v2/https://resizing.flixster.com/3GDqma5NTmNvP9P9d0up2yyhpN0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2M2U1YjFiLTU5NzYtNGI1Yi1iNzg4LTJkMmUzOGJjMDk4ZS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "richard_eyre",
+          "name": "Richard Eyre"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "barbara_frittoli",
+          "name": "Barbara Frittoli",
+          "character": "",
+          "image": "https://resizing.flixster.com/Rq4vi2xojK8_v9EgX0OqFlrncz8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/572926_v9_aa.jpg"
+        },
+        {
+          "id": "elina_garanca",
+          "name": "Elina Garanca",
+          "character": "",
+          "image": "https://resizing.flixster.com/pA7wYb_9tHwPHjCTFPqKA9lUKsw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/549307_v9_aa.jpg"
+        },
+        {
+          "id": "roberto_alagna",
+          "name": "Roberto Alagna",
+          "character": "",
+          "image": "https://resizing.flixster.com/tmi6iuX_rpz4laeawK3uEFxRXQM=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/188582_v9_aa.jpg"
+        },
+        {
+          "id": "teddy_tahu_rhodes",
+          "name": "Teddy Tahu Rhodes",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-02T16:11:02.727985Z"
     },
     {
       "id": "the_metropolitan_opera_cosi_fan_tutte",

@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 12,
   "count": 60,
-  "updated_at": "2026-11-01T22:14:00.631447Z",
+  "updated_at": "2026-11-02T16:11:23.991689Z",
   "titles": [
     {
       "id": "1001193-around_the_world_in_80_days",
@@ -2882,10 +2882,10 @@
       "release_date": null,
       "runtime_minutes": 105,
       "certificate": "R",
-      "rating": 8.0,
+      "rating": 8.1,
       "votes": 6148,
-      "tomatometer": 89,
-      "tomatometer_count": 57,
+      "tomatometer": 88,
+      "tomatometer_count": 52,
       "tomatometer_certified": true,
       "audience_score": 70,
       "audience_count": 1407,
@@ -2969,11 +2969,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Get-Shorty/140754?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HN8MYL4Y/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T12:00:37.293383Z"
+      "scraped_at": "2026-11-02T16:05:20.298464Z"
     },
     {
       "id": "grass_harp",
@@ -2991,10 +2995,10 @@
       "release_date": null,
       "runtime_minutes": 107,
       "certificate": "PG",
-      "rating": 5.5,
+      "rating": 5.4,
       "votes": 526,
-      "tomatometer": 50,
-      "tomatometer_count": 14,
+      "tomatometer": 54,
+      "tomatometer_count": 13,
       "tomatometer_certified": false,
       "audience_score": 93,
       "audience_count": 44,
@@ -3078,7 +3082,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T17:17:52.522738Z"
+      "scraped_at": "2026-11-02T16:10:39.215764Z"
     },
     {
       "id": "great_white_hype",
