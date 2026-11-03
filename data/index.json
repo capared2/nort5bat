@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-02T16:11:27.330476Z",
-  "total_titles": 20910,
+  "generated_at": "2026-11-03T01:10:08.604203Z",
+  "total_titles": 20911,
   "total_genres": 27,
   "genres": [
     {
@@ -471,7 +471,7 @@
     {
       "genre": "mystery-thriller",
       "name": "Mystery & Thriller",
-      "titles": 1901,
+      "titles": 1902,
       "files": [
         {
           "file": "titulos/mystery-thriller/part-0001.json",
@@ -599,7 +599,7 @@
         },
         {
           "file": "titulos/mystery-thriller/part-0032.json",
-          "count": 44
+          "count": 45
         }
       ],
       "tagged": 4048
@@ -835,7 +835,7 @@
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 2119,
+      "titles": 2118,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
@@ -979,10 +979,10 @@
         },
         {
           "file": "titulos/horror/part-0036.json",
-          "count": 20
+          "count": 19
         }
       ],
-      "tagged": 2124
+      "tagged": 2123
     },
     {
       "genre": "romance",
@@ -1118,7 +1118,7 @@
           "count": 31
         }
       ],
-      "tagged": 1499
+      "tagged": 1500
     },
     {
       "genre": "crime",
@@ -1223,7 +1223,7 @@
     {
       "genre": "fantasy",
       "name": "Fantasy",
-      "titles": 724,
+      "titles": 725,
       "files": [
         {
           "file": "titulos/fantasy/part-0001.json",
@@ -1275,10 +1275,10 @@
         },
         {
           "file": "titulos/fantasy/part-0013.json",
-          "count": 5
+          "count": 6
         }
       ],
-      "tagged": 1014
+      "tagged": 1015
     },
     {
       "genre": "sci-fi",
@@ -1624,7 +1624,7 @@
           "count": 22
         }
       ],
-      "tagged": 40
+      "tagged": 41
     },
     {
       "genre": "nature",

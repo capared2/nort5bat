@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 57,
   "count": 60,
-  "updated_at": "2026-11-02T16:10:30.994051Z",
+  "updated_at": "2026-11-03T01:09:44.093378Z",
   "titles": [
     {
       "id": "1001063-anna_karenina",
@@ -3049,10 +3049,10 @@
       "release_date": null,
       "runtime_minutes": 115,
       "certificate": null,
-      "rating": 9.0,
+      "rating": 8.9,
       "votes": 825,
       "tomatometer": 100,
-      "tomatometer_count": 15,
+      "tomatometer_count": 14,
       "tomatometer_certified": false,
       "audience_score": 93,
       "audience_count": 267,
@@ -3136,11 +3136,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Heiress/4919391?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GL88W6DG/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T21:46:17.663209Z"
+      "scraped_at": "2026-11-03T01:08:28.521820Z"
     },
     {
       "id": "honkytonk_man",

@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-11-02T16:10:30.916827Z",
+  "updated_at": "2026-11-03T01:09:44.221465Z",
   "titles": [
     {
       "id": "10002635-bridge_of_san_luis_rey",
@@ -2645,10 +2645,10 @@
       "release_date": null,
       "runtime_minutes": 115,
       "certificate": "PG",
-      "rating": 6.4,
-      "votes": 4140,
+      "rating": 6.5,
+      "votes": 4142,
       "tomatometer": 62,
-      "tomatometer_count": 111,
+      "tomatometer_count": 105,
       "tomatometer_certified": false,
       "audience_score": 82,
       "audience_count": 1695,
@@ -2756,7 +2756,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T17:18:22.769301Z"
+      "scraped_at": "2026-11-03T01:02:06.404802Z"
     },
     {
       "id": "hazard_2025",
@@ -2884,7 +2884,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T17:23:25.445241Z"
+      "scraped_at": "2026-11-03T01:07:09.127392Z"
     },
     {
       "id": "heights",
@@ -2903,8 +2903,8 @@
       "certificate": "R",
       "rating": 6.6,
       "votes": 659,
-      "tomatometer": 63,
-      "tomatometer_count": 103,
+      "tomatometer": 64,
+      "tomatometer_count": 99,
       "tomatometer_certified": false,
       "audience_score": 74,
       "audience_count": 252,
@@ -3000,10 +3000,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CYKNFTPZ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T21:46:15.874849Z"
+      "scraped_at": "2026-11-03T01:08:26.284795Z"
     },
     {
       "id": "his_secret_life",
