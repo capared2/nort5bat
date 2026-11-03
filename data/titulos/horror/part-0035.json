@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-11-03T01:09:45.006758Z",
+  "updated_at": "2026-11-03T14:30:02.439326Z",
   "titles": [
     {
       "id": "1002448-birds",
@@ -3817,9 +3817,9 @@
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 5.4,
-      "votes": 6950,
+      "votes": 6952,
       "tomatometer": 41,
-      "tomatometer_count": 130,
+      "tomatometer_count": 129,
       "tomatometer_certified": false,
       "audience_score": 67,
       "audience_count": 3637,
@@ -3919,7 +3919,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T21:48:42.177143Z"
+      "scraped_at": "2026-11-03T14:22:45.718412Z"
     },
     {
       "id": "horrors_of_the_black_museum",
@@ -4019,7 +4019,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T21:51:38.592401Z"
+      "scraped_at": "2026-11-03T14:25:42.846647Z"
     },
     {
       "id": "house_of_dracula",
@@ -4127,7 +4127,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T21:52:38.745516Z"
+      "scraped_at": "2026-11-03T14:26:43.727262Z"
     },
     {
       "id": "house_of_frankenstein",
@@ -4145,12 +4145,12 @@
       "runtime_minutes": 71,
       "certificate": null,
       "rating": 5.7,
-      "votes": 470,
+      "votes": 472,
       "tomatometer": 55,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
       "audience_score": 47,
-      "audience_count": 172,
+      "audience_count": 173,
       "metascore": null,
       "plot": "After escaping from prison, the evil Dr. Niemann (Boris Karloff) and his hunchbacked assistant, Daniel (J. Carrol Naish), plot their revenge against those who imprisoned them. For this, they recruit the powerful Wolf Man (Lon Chaney), Frankenstein's monster (Glenn Strange) and even Dracula himself (John Carradine). Niemann pursues those who wrong him, sending each monster out to do his dirty work. But his control on the monsters is weak at best and may prove to be his downfall.",
       "tagline": "",
@@ -4235,7 +4235,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T21:52:41.058069Z"
+      "scraped_at": "2026-11-03T14:26:45.743107Z"
     },
     {
       "id": "human_2025",
@@ -4248,15 +4248,15 @@
         "Horror",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 107,
-      "certificate": "In Theaters Oct 23",
+      "certificate": "Oct 2026",
       "rating": null,
-      "votes": null,
+      "votes": 1,
       "tomatometer": null,
-      "tomatometer_count": 4,
+      "tomatometer_count": 7,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": 0,
@@ -4352,10 +4352,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Human/5214972?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-21T21:54:03.397193Z"
+      "scraped_at": "2026-11-03T14:28:11.894818Z"
     },
     {
       "id": "images",
