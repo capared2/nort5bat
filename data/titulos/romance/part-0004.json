@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-03T14:28:00.730687Z",
+  "updated_at": "2026-11-03T23:30:40.623198Z",
   "titles": [
     {
       "id": "1078216-picture_perfect",
@@ -2855,12 +2855,12 @@
       "runtime_minutes": 100,
       "certificate": "PG-13",
       "rating": 5.5,
-      "votes": 13308,
-      "tomatometer": 43,
-      "tomatometer_count": 116,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 115,
       "tomatometer_certified": false,
-      "audience_score": 52,
-      "audience_count": 5623,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After a bad breakup with his girlfriend leaves him heartbroken, Carter Webb (Adam Brody) moves to Michigan to take care of his ailing grandmother (Olympia Dukakis). Once there, he gets mixed up in the lives of the mother (Meg Ryan) and daughters who live across the street.",
       "tagline": "",
@@ -2957,11 +2957,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/In-the-Land-of-Women/128734?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CPP5HTBP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T05:00:02.371006Z"
+      "scraped_at": "2026-11-03T23:30:30.376958Z"
     },
     {
       "id": "jane_austen_wrecked_my_life",

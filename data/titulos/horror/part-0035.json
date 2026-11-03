@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-11-03T14:30:02.439326Z",
+  "updated_at": "2026-11-03T23:32:42.488683Z",
   "titles": [
     {
       "id": "1002448-birds",
@@ -4380,12 +4380,12 @@
       "runtime_minutes": 100,
       "certificate": "R",
       "rating": 7.5,
-      "votes": 298,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 14,
       "tomatometer_certified": false,
-      "audience_score": 69,
-      "audience_count": 84,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A schizophrenic (Susannah York) confuses her husband (Rene Auberjonois) with her lovers and her self.",
       "tagline": "",
@@ -4458,15 +4458,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0GXTJ1LKR/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T04:58:24.984342Z"
+      "scraped_at": "2026-11-03T23:28:53.854276Z"
     },
     {
       "id": "infirmary",
@@ -4485,12 +4480,12 @@
       "runtime_minutes": 85,
       "certificate": null,
       "rating": 5.8,
-      "votes": 51,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 20,
       "tomatometer_certified": false,
-      "audience_score": 20,
-      "audience_count": 27,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Recovered bodycam footage reveals a security guard's first night inside an abandoned hospital, where disturbing incidents and a sinister intruder send his shift spiraling out of control.",
       "tagline": "",
@@ -4563,13 +4558,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Infirmary/5377430?cmp=rt_where_to_watch"
+        },
+        {
           "name": "AMC+",
           "url": "https://www.amcplus.com/movies/infirmary--1075800?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T05:01:16.692899Z"
+      "scraped_at": "2026-11-03T23:31:44.846576Z"
     },
     {
       "id": "ken_russells_the_devils",

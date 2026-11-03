@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-11-03T01:07:43.374922Z",
+  "updated_at": "2026-11-03T23:30:40.837243Z",
   "titles": [
     {
       "id": "1003617-carny",
@@ -3369,12 +3369,12 @@
       "runtime_minutes": 105,
       "certificate": "R",
       "rating": 6.7,
-      "votes": 461,
-      "tomatometer": 75,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 151,
       "tomatometer_certified": true,
-      "audience_score": 71,
-      "audience_count": 57,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Katja's life falls apart in the blink of an eye when two neo-Nazis kill her husband and 6-year-old son in a bomb attack. Her quest for justice soon pushes her to the edge as the two suspects stand trial for murder.",
       "tagline": "",
@@ -3477,11 +3477,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/In-the-Fade/927225?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B79YWZNL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T04:59:53.899704Z"
+      "scraped_at": "2026-11-03T23:30:21.765332Z"
     },
     {
       "id": "in_the_name_of_the_land",
@@ -3499,12 +3503,12 @@
       "runtime_minutes": 103,
       "certificate": null,
       "rating": 7.0,
-      "votes": 7,
-      "tomatometer": 88,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 1,
+      "audience_count": null,
       "metascore": null,
       "plot": "A desperate man struggles to maintain the family farm after buying it from his unforgiving father.",
       "tagline": "",
@@ -3580,7 +3584,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T05:00:08.965718Z"
+      "scraped_at": "2026-11-03T23:30:36.987174Z"
     },
     {
       "id": "jockey_2021",

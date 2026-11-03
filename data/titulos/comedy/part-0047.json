@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 47,
   "count": 60,
-  "updated_at": "2026-11-03T01:09:44.723102Z",
+  "updated_at": "2026-11-03T23:32:42.947477Z",
   "titles": [
     {
       "id": "1012813-love_bug",
@@ -2732,12 +2732,12 @@
       "runtime_minutes": 115,
       "certificate": "PG-13",
       "rating": 3.9,
-      "votes": 109819,
-      "tomatometer": 15,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 165,
       "tomatometer_certified": false,
-      "audience_score": 69,
-      "audience_count": 44717,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Chuck Levine (Adam Sandler) and Larry Valentine (Kevin James) are firefighters and true-blue buddies. When Larry, a widower, learns he cannot name his children as beneficiaries on his life insurance policy, he needs a big favor from Chuck: Sign on as Larry's domestic partner. The pals unexpectedly become front-page news and must carry the masquerade to extremes when an overzealous bureaucrat becomes suspicious of their true relationship.",
       "tagline": "",
@@ -2834,11 +2834,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/I-Now-Pronounce-You-Chuck-and-Larry/128887?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/43508?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T04:56:21.617338Z"
+      "scraped_at": "2026-11-03T23:26:50.396687Z"
     },
     {
       "id": "inspector_gadget_2",
@@ -2857,12 +2861,12 @@
       "runtime_minutes": 88,
       "certificate": "G",
       "rating": 4.4,
-      "votes": 647,
-      "tomatometer": 40,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 24,
-      "audience_count": 278,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "City officials are moving to replace human-robot hybrid Inspector Gadget (French Stewart) with an updated model, the comely G2 (Elaine Hendrix). Like her predecessor, the new inspector must contain master criminal Claw (Tony Martin), who, having busted out of prison, wants to pull off a big gold heist. Young Penny (Caitlin Wachs) also starts shadowing Claw, and soon she forms a crime-fighting trio with her Gadget and G2. Claw had better watch his back.",
       "tagline": "",
@@ -2947,7 +2951,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T05:02:10.593842Z"
+      "scraped_at": "2026-11-03T23:32:38.495341Z"
     },
     {
       "id": "its_for_your_own_good",

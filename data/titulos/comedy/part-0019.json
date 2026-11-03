@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 19,
   "count": 60,
-  "updated_at": "2026-11-03T14:25:58.857744Z",
+  "updated_at": "2026-11-03T23:30:41.659779Z",
   "titles": [
     {
       "id": "1007073-fandango",
@@ -2743,12 +2743,12 @@
       "runtime_minutes": 97,
       "certificate": "PG",
       "rating": 6.1,
-      "votes": 3257,
-      "tomatometer": 57,
-      "tomatometer_count": 115,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 112,
       "tomatometer_certified": false,
-      "audience_score": 72,
-      "audience_count": 1219,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two young gents have taken to bending the truth in order to put some excitement into their lives. Worthing has invented a brother, Earnest, whom he uses as an excuse to leave his dull life behind to visit Gwendolen. Moncrieff decides to take the name Earnest when visiting Worthing's young and beautiful ward, Cecily. Things start to go awry when they end up together in the country and their deceptions are discovered.",
       "tagline": "",
@@ -2845,11 +2845,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Importance-of-Being-Earnest/29208?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T04:58:49.771866Z"
+      "scraped_at": "2026-11-03T23:29:17.955660Z"
     },
     {
       "id": "jeff_who_lives_at_home",

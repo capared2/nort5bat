@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-03T14:23:57.470050Z",
+  "updated_at": "2026-11-03T23:28:39.737064Z",
   "titles": [
     {
       "id": "1002531-black_widow",
@@ -2650,12 +2650,12 @@
       "runtime_minutes": 98,
       "certificate": "R",
       "rating": 6.1,
-      "votes": 168,
-      "tomatometer": 65,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 78,
       "tomatometer_certified": false,
-      "audience_score": 57,
-      "audience_count": 38,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two unqualified bozos (Dave Franco and O'Shea Jackson Jr.) are hired to transfer a rich teen (Mason Thames) to rehab when their straightforward gig quickly spirals into dangerous mayhem.",
       "tagline": "",
@@ -2758,11 +2758,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Idiots/5094241?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/idiots--1076296?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T04:57:26.871453Z"
+      "scraped_at": "2026-11-03T23:27:54.877297Z"
     },
     {
       "id": "illusions_for_sale_the_rise_and_fall_of_generation_zoe",
@@ -2781,12 +2785,12 @@
       "runtime_minutes": 107,
       "certificate": null,
       "rating": null,
-      "votes": 4,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 2,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "This documentary follows the rise and fall of Generation Zoe, a spiritual coaching network hiding the most unusual scam in Argentina's history.",
       "tagline": "",
@@ -2832,7 +2836,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T04:58:05.957369Z"
+      "scraped_at": "2026-11-03T23:28:33.995403Z"
     },
     {
       "id": "john_wick_chapter_3_parabellum",
