@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-04T06:39:29.632046Z",
+  "updated_at": "2026-11-04T19:57:27.057778Z",
   "titles": [
     {
       "id": "1017321-red_dawn",
@@ -3080,12 +3080,12 @@
       "runtime_minutes": 114,
       "certificate": "PG-13",
       "rating": 5.6,
-      "votes": 17643,
-      "tomatometer": 40,
-      "tomatometer_count": 161,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 154,
       "tomatometer_certified": false,
-      "audience_score": 81,
-      "audience_count": 9096,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After saving the life of one of the civilians inside, firefighter Jack Morrison (Joaquin Phoenix) finds himself trapped in a burning warehouse with a broken leg. As his friend and mentor, Deputy Chief Mike Kennedy (John Travolta), tries to negotiate a rescue from without, Jack flashes back to various events in his life: the first, awkward days on the force, meeting the woman (Jacinda Barrett) who would become his wife and saving a small girl from a burning building.",
       "tagline": "",
@@ -3188,11 +3188,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Ladder-49/45409?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0F4JSD92N/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T17:19:53.668346Z"
+      "scraped_at": "2026-11-04T19:53:18.657104Z"
     },
     {
       "id": "legend_of_zorro",
@@ -3211,12 +3215,12 @@
       "runtime_minutes": 129,
       "certificate": "PG",
       "rating": 5.2,
-      "votes": 10770,
-      "tomatometer": 27,
-      "tomatometer_count": 139,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 135,
       "tomatometer_certified": false,
-      "audience_score": 47,
-      "audience_count": 8146,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A secret society, the Knights of Aragon, seeks to keep the United States from achieving manifest destiny -- and only the legendary Zorro (Antonio Banderas) can stop them. Unfortunately, Zorro, also known as Don Alejandro de la Vega, has problems of his own: His wife, Elena (Catherine Zeta-Jones), is divorcing him for spending too much time pursuing heroics and not enough being a father to their young son. But it isn't long before the whole family gets caught up in stopping the Knights.",
       "tagline": "",
@@ -3317,7 +3321,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T21:41:19.986133Z"
+      "scraped_at": "2026-11-04T19:57:18.591450Z"
     },
     {
       "id": "line_walker_2_invisible_spy",

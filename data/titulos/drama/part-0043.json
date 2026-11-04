@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 43,
   "count": 60,
-  "updated_at": "2026-11-04T06:37:28.110436Z",
+  "updated_at": "2026-11-04T19:57:26.967980Z",
   "titles": [
     {
       "id": "10009138-look",
@@ -3172,12 +3172,12 @@
       "runtime_minutes": 105,
       "certificate": null,
       "rating": 6.6,
-      "votes": 34,
-      "tomatometer": 88,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 88,
-      "audience_count": 5,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Kiran Singh, a 1st generation Punjabi-American, has just accepted a last-minute trucking job to Boston which causes a blow-up argument with Preeti, his 37-week pregnant wife, who admits to feeling abandoned. En route to complete this \"one final job,\" Kiran discovers Elena,  a 10-year-old Mexican-American stowed away in his trailer. After debating the merits of turning her to the police, Kiran deduces she might be undocumented, and instead resolves to shepherd Elena to her uncle in Maine despite putting his own livelihood in jeopardy. As the pair ride across the changing American landscape, Kiran faces what it means to be a father and Elena learns how to trust again. They connect through family, dreams of the future, and a healthy debate over God’s existence, all while the ghosts of the past, racially charged encounters, and the threat of I.C.E. linger over their journey.",
       "tagline": "",
@@ -3288,7 +3288,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T17:20:51.781014Z"
+      "scraped_at": "2026-11-04T19:54:16.754916Z"
     },
     {
       "id": "last_date",
@@ -3311,7 +3311,7 @@
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A husband going through a divorce learns his ex-wife is pushing for full custody of their daughter. How far will he go to keep his family together?",
       "tagline": "",
@@ -3372,10 +3372,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HK9PP66J/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T17:21:27.534782Z"
+      "scraped_at": "2026-11-04T19:54:53.147335Z"
     },
     {
       "id": "layla_m",
@@ -3393,12 +3398,12 @@
       "runtime_minutes": 110,
       "certificate": null,
       "rating": 7.7,
-      "votes": 41,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 76,
-      "audience_count": 6,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When a Moroccan teenager in Amsterdam is radicalized, she marries a jihadist and joins an Islamist cell in the Middle East, but she finds there are other prejudices there, too.",
       "tagline": "",
@@ -3476,7 +3481,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T21:40:17.731572Z"
+      "scraped_at": "2026-11-04T19:56:16.699077Z"
     },
     {
       "id": "little_accidents_2015",

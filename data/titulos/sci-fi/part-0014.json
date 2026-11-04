@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 14,
   "count": 51,
-  "updated_at": "2026-11-04T06:39:29.518952Z",
+  "updated_at": "2026-11-04T19:57:26.746979Z",
   "titles": [
     {
       "id": "1017991-runaway",
@@ -1884,12 +1884,12 @@
       "runtime_minutes": 77,
       "certificate": null,
       "rating": 4.6,
-      "votes": 29,
-      "tomatometer": 25,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 38,
-      "audience_count": 5,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Uncanny abilities awaken within a troubled high school student when a fully-armed tactical team attempts to abduct him from his classroom.",
       "tagline": "",
@@ -1984,7 +1984,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T17:16:01.647615Z"
+      "scraped_at": "2026-11-04T19:49:29.837786Z"
     },
     {
       "id": "klara_and_the_sun",
@@ -1998,18 +1998,18 @@
         "Drama",
         "Sci-Fi"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 116,
       "certificate": "PG-13",
-      "rating": 4.5,
+      "rating": 4.6,
       "votes": null,
-      "tomatometer": 27,
-      "tomatometer_count": 37,
+      "tomatometer": null,
+      "tomatometer_count": 94,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Based on the bestselling novel from Nobel Prize-winner Kazuo Ishiguro and written and directed by Academy-Award® winner Taika Waititi (Jojo Rabbit), Klara and the Sun introduces audiences to Klara (Jenna Ortega), an Artificial Friend who wants nothing more than to find the perfect home. When Klara meets Josie (Mia Tharia), each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother (Amy Adams) and they've suffered great loss, but Klara's innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie's complicated world.",
       "tagline": "",
@@ -2090,16 +2090,16 @@
           "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         },
         {
+          "id": "rachel-house",
+          "name": "Rachel House",
+          "character": "",
+          "image": "https://resizing.flixster.com/N9AzW9UIAwVJOfvifNKCtClSYlU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/278954_v9_bb.jpg"
+        },
+        {
           "id": "aran_murphy",
           "name": "Aran Murphy",
           "character": "",
           "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
-        },
-        {
-          "id": "steve_buscemi",
-          "name": "Steve Buscemi",
-          "character": "",
-          "image": "https://resizing.flixster.com/-uTPLmcBFAd5Y23uM1IKPE6tYFg=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002HJV12.jpg"
         }
       ],
       "keywords": [],
@@ -2108,10 +2108,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Klara-and-the-Sun/5314851?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T17:17:43.309443Z"
+      "scraped_at": "2026-11-04T19:51:09.572727Z"
     },
     {
       "id": "le_dernier_combat",
@@ -2129,12 +2134,12 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 5.1,
-      "votes": 196,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 67,
-      "audience_count": 51,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A scraggly, anonymous man (Pierre Jolivet) looks for love among a desolate, post-apocalyptic wasteland where almost no one speaks and roaming bands of marauders prey on the weak and unprotected. Assisted by a mad scientist (Jean Bouise), the man attempts to rebuild a broken-down airplane to expand his lonely, seemingly pointless search. At every turn the man is thwarted by well-armed, merciless thugs; however, hope rears its head he discovers one last surviving woman imprisoned by the toughs.",
       "tagline": "",
@@ -2211,7 +2216,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T21:40:25.781124Z"
+      "scraped_at": "2026-11-04T19:56:24.548234Z"
     },
     {
       "id": "life_tracker",

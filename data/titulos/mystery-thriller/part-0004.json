@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-04T06:33:26.044828Z",
+  "updated_at": "2026-11-04T19:51:22.050576Z",
   "titles": [
     {
       "id": "10011774-chloe",
@@ -4567,12 +4567,12 @@
       "runtime_minutes": 109,
       "certificate": "PG-13",
       "rating": 5.7,
-      "votes": 32129,
-      "tomatometer": 51,
-      "tomatometer_count": 230,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 229,
       "tomatometer_certified": false,
-      "audience_score": 49,
-      "audience_count": 8834,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "June Havens (Cameron Diaz) chats up her charming seatmate on a flight out of Kansas, but she doesn't realize that she will soon land in the middle of an international adventure. The fellow passenger, Roy Miller (Tom Cruise), is a covert operative who claims he has been set up to take a fall. Now his reluctant partner, June must dodge bullets in Boston, leap rooftops in Austria and evade bulls in Spain, while she and Roy learn that trust is the most important survival skill.",
       "tagline": "",
@@ -4677,13 +4677,21 @@
           "url": "https://athome.fandango.com/content/browse/details/Knight-and-Day-Theatrical/175123?cmp=rt_where_to_watch"
         },
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
+        },
+        {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T17:17:51.469911Z"
+      "scraped_at": "2026-11-04T19:51:16.806015Z"
     },
     {
       "id": "maggie_moores",

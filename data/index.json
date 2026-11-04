@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-04T06:39:53.344900Z",
+  "generated_at": "2026-11-04T19:57:50.656972Z",
   "total_titles": 20912,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3520,
+      "titles": 3521,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -243,7 +243,7 @@
         },
         {
           "file": "titulos/drama/part-0059.json",
-          "count": 40
+          "count": 41
         }
       ],
       "tagged": 9396
@@ -1431,7 +1431,7 @@
     {
       "genre": "music",
       "name": "Music",
-      "titles": 336,
+      "titles": 335,
       "files": [
         {
           "file": "titulos/music/part-0001.json",
@@ -1455,10 +1455,10 @@
         },
         {
           "file": "titulos/music/part-0006.json",
-          "count": 36
+          "count": 35
         }
       ],
-      "tagged": 518
+      "tagged": 517
     },
     {
       "genre": "lgbtq",
