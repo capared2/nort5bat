@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-03T01:10:08.604203Z",
-  "total_titles": 20911,
+  "generated_at": "2026-11-04T06:39:53.344900Z",
+  "total_titles": 20912,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3521,
+      "titles": 3520,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -243,7 +243,7 @@
         },
         {
           "file": "titulos/drama/part-0059.json",
-          "count": 41
+          "count": 40
         }
       ],
       "tagged": 9396
@@ -466,7 +466,7 @@
           "count": 43
         }
       ],
-      "tagged": 5397
+      "tagged": 5398
     },
     {
       "genre": "mystery-thriller",
@@ -1118,7 +1118,7 @@
           "count": 31
         }
       ],
-      "tagged": 1500
+      "tagged": 1501
     },
     {
       "genre": "crime",
@@ -1354,12 +1354,12 @@
           "count": 41
         }
       ],
-      "tagged": 890
+      "tagged": 891
     },
     {
       "genre": "biography",
       "name": "Biography",
-      "titles": 467,
+      "titles": 468,
       "files": [
         {
           "file": "titulos/biography/part-0001.json",
@@ -1391,10 +1391,10 @@
         },
         {
           "file": "titulos/biography/part-0008.json",
-          "count": 47
+          "count": 48
         }
       ],
-      "tagged": 757
+      "tagged": 758
     },
     {
       "genre": "history",
@@ -1487,7 +1487,7 @@
     {
       "genre": "animation",
       "name": "Animation",
-      "titles": 258,
+      "titles": 259,
       "files": [
         {
           "file": "titulos/animation/part-0001.json",
@@ -1507,10 +1507,10 @@
         },
         {
           "file": "titulos/animation/part-0005.json",
-          "count": 18
+          "count": 19
         }
       ],
-      "tagged": 479
+      "tagged": 480
     },
     {
       "genre": "war",

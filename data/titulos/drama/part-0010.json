@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-03T14:25:58.038018Z",
+  "updated_at": "2026-11-04T06:33:25.435455Z",
   "titles": [
     {
       "id": "10008703-rails_and_ties",
@@ -2458,12 +2458,12 @@
       "runtime_minutes": 86,
       "certificate": "R",
       "rating": 7.5,
-      "votes": 641,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 76,
       "tomatometer_certified": true,
-      "audience_score": 70,
-      "audience_count": 65,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A young New Yorker (Christopher Abbott) struggles to control his reckless behavior as his mother (Cynthia Nixon) battles cancer.",
       "tagline": "",
@@ -2554,15 +2554,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "AMC+",
-          "url": "https://www.amcplus.com/movies/james-white--1028857?cmp=rt_where_to_watch"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:01:39.312579Z"
+      "scraped_at": "2026-11-04T06:32:38.171363Z"
     },
     {
       "id": "la_familia",

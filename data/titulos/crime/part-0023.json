@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 23,
   "count": 52,
-  "updated_at": "2026-11-03T14:28:01.420561Z",
+  "updated_at": "2026-11-04T06:37:27.528718Z",
   "titles": [
     {
       "id": "10003184-turning_point",
@@ -3291,18 +3291,18 @@
         "Comedy",
         "Crime"
       ],
-      "year": 2026,
+      "year": null,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 175,
-      "certificate": "Now Playing",
+      "certificate": "Oct 2026",
       "rating": 6.0,
-      "votes": 457,
-      "tomatometer": 85,
-      "tomatometer_count": 13,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 14,
       "tomatometer_certified": false,
-      "audience_score": 93,
-      "audience_count": 43,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A retired officer is compeled to return one final time when his family is threatened by a dangerous criminal organization.",
       "tagline": "",
@@ -3366,7 +3366,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:01:29.052393Z"
+      "scraped_at": "2026-11-04T06:32:27.880581Z"
     },
     {
       "id": "johnny_cool",
@@ -3385,12 +3385,12 @@
       "runtime_minutes": 103,
       "certificate": null,
       "rating": 4.1,
-      "votes": 29,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 48,
-      "audience_count": 15,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A rich divorcee (Jim Backus) joins a Sicilian hit man (Henry Silva) sent to Los Angeles by a deported mobster.",
       "tagline": "",
@@ -3467,10 +3467,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GWCXNYR3/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:04:24.437049Z"
+      "scraped_at": "2026-11-04T06:35:20.251839Z"
     },
     {
       "id": "josephine",
@@ -3491,11 +3496,11 @@
       "certificate": "R",
       "rating": 8.7,
       "votes": null,
-      "tomatometer": 96,
+      "tomatometer": null,
       "tomatometer_count": 99,
       "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Based on writer/director/producer Beth de Araújo's own lived experiences, the film JOSEPHINE follows the psychological fallout after eight-year-old Josephine (Mason Reeves) witnesses a crime in Golden Gate Park. As she acts out, her parents (Channing Tatum and Gemma Chan) struggle with helping their daughter cope, while facing their own fears around the topic and how to address it with their child.",
       "tagline": "",
@@ -3593,7 +3598,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:11:07.730535Z"
+      "scraped_at": "2026-11-04T06:35:49.966275Z"
     },
     {
       "id": "killers_kiss",

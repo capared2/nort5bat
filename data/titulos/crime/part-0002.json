@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-03T14:30:02.755857Z",
+  "updated_at": "2026-11-04T06:35:27.654059Z",
   "titles": [
     {
       "id": "1083481-negotiator",
@@ -2592,12 +2592,12 @@
       "runtime_minutes": 88,
       "certificate": null,
       "rating": null,
-      "votes": 37,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 2,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 8,
+      "audience_count": null,
       "metascore": null,
       "plot": "When Vicky White, a highly respected corrections officer, aids the escape of a violent felon nearly twenty years her junior, it reveals an unexpected love story amidst the ensuing high-profile manhunt and media frenzy.",
       "tagline": "",
@@ -2638,7 +2638,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:01:28.437742Z"
+      "scraped_at": "2026-11-04T06:32:27.067361Z"
     },
     {
       "id": "john_wick",
@@ -2660,12 +2660,12 @@
       "runtime_minutes": 101,
       "certificate": "R",
       "rating": 7.0,
-      "votes": 49359,
-      "tomatometer": 87,
-      "tomatometer_count": 224,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 223,
       "tomatometer_certified": true,
-      "audience_score": 82,
-      "audience_count": 5916,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life. Her sudden death leaves John in deep mourning. When sadistic mobster Iosef Tarasov (Alfie Allen) and his thugs steal John's prized car and kill the puppy that was a last gift from his wife, John unleashes the remorseless killing machine within and seeks vengeance. Meanwhile, Iosef's father (Michael Nyqvist) -- John's former colleague -- puts a huge bounty on John's head.",
       "tagline": "",
@@ -2772,11 +2772,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B07TXLSX2Q/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/john-wick--1060858?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:04:18.157343Z"
+      "scraped_at": "2026-11-04T06:35:13.257118Z"
     },
     {
       "id": "lift_2024",

@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-03T23:34:43.643328Z",
+  "updated_at": "2026-11-04T06:35:27.012244Z",
   "titles": [
     {
       "id": "1208128-tyson",
@@ -2451,12 +2451,12 @@
       "runtime_minutes": 90,
       "certificate": "PG-13",
       "rating": 8.1,
-      "votes": 2725,
-      "tomatometer": 97,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 116,
       "tomatometer_certified": true,
-      "audience_score": 89,
-      "audience_count": 334,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Filmmaker Alejandro Jodorowsky discusses how he would have adapted Frank Herbert's classic sci-fi novel \"Dune\" for the big screen.",
       "tagline": "",
@@ -2522,11 +2522,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Jodorowskys-Dune/524905?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:03:52.326197Z"
+      "scraped_at": "2026-11-04T06:34:48.842350Z"
     },
     {
       "id": "life_animated",

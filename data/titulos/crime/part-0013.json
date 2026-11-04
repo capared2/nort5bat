@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-11-03T23:34:43.928305Z",
+  "updated_at": "2026-11-04T06:37:27.489407Z",
   "titles": [
     {
       "id": "1005865-dillinger",
@@ -4051,13 +4051,13 @@
       "release_date": null,
       "runtime_minutes": 106,
       "certificate": "R",
-      "rating": 6.5,
-      "votes": 90,
-      "tomatometer": 75,
-      "tomatometer_count": 8,
+      "rating": 6.0,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 72,
-      "audience_count": 16,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Tom (Joe Mantegna) is a hardened assassin with an eager but boorish apprentice, Jerry (Sam Rockwell). While waiting in a coffee shop for orders to take out their next target (Peter Riegert), Tom reminiscences about his life as a hired killer. He tells the story of how his boss, Vic (Charles Durning), is supposedly the man who killed both Elvis and JFK. He also tells about the time he struggled to execute an old friend (Ted Danson) and his regret over once mistakenly killing the wrong target.",
       "tagline": "",
@@ -4142,7 +4142,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:02:50.867416Z"
+      "scraped_at": "2026-11-04T06:33:48.156760Z"
     },
     {
       "id": "john_doe_vigilante",
@@ -4162,12 +4162,12 @@
       "runtime_minutes": 93,
       "certificate": "R",
       "rating": 3.8,
-      "votes": 188,
-      "tomatometer": 40,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 47,
-      "audience_count": 50,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Tired of seeing violent felons go free, a man (Jamie Bamber) decides to take matters into his own hands by killing one criminal at a time.",
       "tagline": "",
@@ -4268,7 +4268,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:04:08.762514Z"
+      "scraped_at": "2026-11-04T06:35:05.335764Z"
     },
     {
       "id": "juice",
@@ -4287,12 +4287,12 @@
       "runtime_minutes": 96,
       "certificate": "R",
       "rating": 6.4,
-      "votes": 5553,
-      "tomatometer": 82,
-      "tomatometer_count": 33,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 32,
       "tomatometer_certified": false,
-      "audience_score": 90,
-      "audience_count": 1665,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Four Harlem friends -- Bishop (Tupac Shakur), Q (Omar Epps), Steel (Jermaine Hopkins) and Raheem (Khalil Kain) -- dabble in petty crime, but they decide to go big by knocking off a convenience store. Bishop, the magnetic leader of the group, has the gun. But Q has different aspirations. He wants to be a DJ and happens to have a gig the night of the robbery. Unfortunately for him, Bishop isn't willing to take no for answer in a game where everything's for keeps.",
       "tagline": "",
@@ -4383,11 +4383,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Juice/20165?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/30198?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:05:39.311157Z"
+      "scraped_at": "2026-11-04T06:36:35.411554Z"
     },
     {
       "id": "killing_zoe",

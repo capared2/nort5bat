@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-03T23:32:42.217178Z",
+  "updated_at": "2026-11-04T06:35:27.428034Z",
   "titles": [
     {
       "id": "12_rounds",
@@ -2861,12 +2861,12 @@
       "runtime_minutes": 123,
       "certificate": "PG-13",
       "rating": 5.9,
-      "votes": 23615,
-      "tomatometer": 55,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 328,
       "tomatometer_certified": false,
-      "audience_score": 55,
-      "audience_count": 3038,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "It's been 10 years since Jason Bourne (Matt Damon) walked away from the agency that trained him to become a deadly weapon. Hoping to draw him out of the shadows, CIA director Robert Dewey assigns hacker and counterinsurgency expert Heather Lee to find him. Lee suspects that former operative Nicky Parsons is also looking for him. As she begins tracking the duo, Bourne finds himself back in action battling a sinister network that utilizes terror and technology to maintain unchecked power.",
       "tagline": "",
@@ -2977,7 +2977,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:02:02.036833Z"
+      "scraped_at": "2026-11-04T06:33:01.908881Z"
     },
     {
       "id": "john_wick_chapter_2",
@@ -2996,12 +2996,12 @@
       "runtime_minutes": 122,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 28576,
-      "tomatometer": 89,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 283,
       "tomatometer_certified": true,
-      "audience_score": 85,
-      "audience_count": 3404,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Retired super-assassin John Wick's plans to resume a quiet civilian life are cut short when Italian gangster Santino D'Antonio shows up on his doorstep with a gold marker, compelling him to repay past favors. Ordered by Winston, kingpin of secret assassin society The Continental, to respect the organization's ancient code, Wick reluctantly accepts the assignment to travel to Rome to take out D'Antonio's sister, the ruthless capo atop the Italian Camorra crime syndicate.",
       "tagline": "",
@@ -3108,11 +3108,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0GY8XT4KS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/john-wick-chapter-2--1060855?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:04:17.526067Z"
+      "scraped_at": "2026-11-04T06:35:14.326915Z"
     },
     {
       "id": "madame_web",

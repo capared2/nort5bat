@@ -1,7 +1,7 @@
 {
   "genre": "adventure",
   "name": "Adventure",
-  "count": 1500,
+  "count": 1501,
   "titles": [
     {
       "id": "the_dark_knight",
@@ -2002,31 +2002,6 @@
       ]
     },
     {
-      "id": "jurassic_world",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Jurassic World",
-      "original_title": "Jurassic World",
-      "year": 2015,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Sci-Fi",
-        "Mystery & Thriller"
-      ],
-      "rating": 6.7,
-      "votes": 95127,
-      "tomatometer": 72,
-      "audience_score": 78,
-      "runtime_minutes": 124,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/lnTE13N_-lmyuqV1rNMN7N4vAuY=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10815284_p_v8_al.jpg",
-      "plot": "Located off the coast of Costa Rica, the Jurassic World luxury resort provides a habitat for an array of genetically engineered dinosaurs, including the vicious and intelligent Indominus rex. When…",
-      "directors": [
-        "Colin Trevorrow"
-      ]
-    },
-    {
       "id": "x_men_3_the_last_stand",
       "category": "sci-fi",
       "type": "movie",
@@ -2075,31 +2050,6 @@
       "directors": [
         "John Stevenson",
         "Mark Osborne"
-      ]
-    },
-    {
-      "id": "jurassic_park",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "Jurassic Park",
-      "original_title": "Jurassic Park",
-      "year": 1993,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Sci-Fi",
-        "Mystery & Thriller"
-      ],
-      "rating": 8.6,
-      "votes": 93250,
-      "tomatometer": 91,
-      "audience_score": 91,
-      "runtime_minutes": 126,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/ZUNEX6yjlJU7FIsq5ijpSxrbNK4=/300x450/v2/https://resizing.flixster.com/dqWYuJel6FX3Ox51DWfMv77fChM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU5OWIyYTUzLTVmNTQtNDIxMS04MTdmLWU3ZDc5YmQ5YjM2Zi5qcGc=",
-      "plot": "In Steven Spielberg's massive blockbuster, paleontologists Alan Grant (Sam Neill) and Ellie Sattler (Laura Dern) and mathematician Ian Malcolm (Jeff Goldblum) are among a select group chosen to tour…",
-      "directors": [
-        "Steven Spielberg"
       ]
     },
     {
@@ -4652,30 +4602,6 @@
       ]
     },
     {
-      "id": "justice_league_2017",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Justice League",
-      "original_title": "Justice League",
-      "year": 2017,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "rating": 5.3,
-      "votes": 50184,
-      "tomatometer": 39,
-      "audience_score": 66,
-      "runtime_minutes": 119,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/CMYicI0gwLQiHHJs2XqQQuLuNsU=/300x450/v2/https://resizing.flixster.com/rC3sJz0RqVipyZYggXs2CLCe5gI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFmMmU2NWQxLTQ4ODAtNDc5Zi05MmE3LWVhYzU3M2IwZjU1NS53ZWJw",
-      "plot": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat. Together, Batman and Wonder Woman work…",
-      "directors": [
-        "Zack Snyder"
-      ]
-    },
-    {
       "id": "bee_movie",
       "category": "animation",
       "type": "movie",
@@ -4725,32 +4651,6 @@
       "directors": [
         "Christopher Sanders",
         "Kirk DeMicco"
-      ]
-    },
-    {
-      "id": "john_wick",
-      "category": "crime",
-      "type": "movie",
-      "title": "John Wick",
-      "original_title": "John Wick",
-      "year": 2014,
-      "genres": [
-        "Action",
-        "Mystery & Thriller",
-        "Adventure",
-        "Crime",
-        "Drama"
-      ],
-      "rating": 7.0,
-      "votes": 49359,
-      "tomatometer": 87,
-      "audience_score": 82,
-      "runtime_minutes": 101,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/g918e19JkX8_3g_V8W_RoeZIzl0=/300x450/v2/https://resizing.flixster.com/YGhqvw5DEj6kmov8fbvF5P9QWRo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg2OGYzN2Q1LWFhYjUtNDk2Yy04N2Q0LTE5YWEyNDQ4Yjg3ZC5qcGc=",
-      "plot": "Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life. Her sudden death leaves John in deep mourning. When sadistic mobster Iosef Tarasov…",
-      "directors": [
-        "Chad Stahelski"
       ]
     },
     {
@@ -4979,6 +4879,104 @@
       "plot": "When hostile aliens called the Formics attack Earth, only the legendary heroics of Mazer Rackham (Ben Kingsley) manage to attain a victory. To prepare for the next attack, Col. Hyrum Graff (Harrison…",
       "directors": [
         "Gavin Hood"
+      ]
+    },
+    {
+      "id": "mission_impossible_rogue_nation",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Mission: Impossible - Rogue Nation",
+      "original_title": "Mission: Impossible - Rogue Nation",
+      "year": 2015,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery & Thriller"
+      ],
+      "rating": 7.5,
+      "votes": 47939,
+      "tomatometer": 94,
+      "audience_score": 87,
+      "runtime_minutes": 131,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/vWf4wUcDwjKht4BpdSqhdLs46RA=/300x450/v2/https://resizing.flixster.com/KFFYzJYFNrgxs2Y0VhC2ZLnVLNM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1ZjUxNDJlLTQ1M2YtNDQyYi04NWEyLWNjN2M4YzMxM2JjOC53ZWJw",
+      "plot": "With the IMF now disbanded and Ethan Hunt out in the cold, a new threat -- called the Syndicate -- soon emerges. The Syndicate is a network of highly skilled operatives who are dedicated to…",
+      "directors": [
+        "Christopher McQuarrie"
+      ]
+    },
+    {
+      "id": "spectre_2015",
+      "category": "mystery-thriller",
+      "type": "movie",
+      "title": "Spectre",
+      "original_title": "Spectre",
+      "year": 2015,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery & Thriller"
+      ],
+      "rating": 6.4,
+      "votes": 47902,
+      "tomatometer": 63,
+      "audience_score": 62,
+      "runtime_minutes": 148,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/pcbo6bi6P19npvnM4rjTq7Q0fYM=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11268880_p_v13_as.jpg",
+      "plot": "A cryptic message from the past leads James Bond (Daniel Craig) to Mexico City and Rome, where he meets the beautiful widow (Monica Bellucci) of an infamous criminal. After infiltrating a secret…",
+      "directors": [
+        "Sam Mendes"
+      ]
+    },
+    {
+      "id": "superman_returns",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Superman Returns",
+      "original_title": "Superman Returns",
+      "year": 2006,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "rating": 7.1,
+      "votes": 47627,
+      "tomatometer": 72,
+      "audience_score": 60,
+      "runtime_minutes": 154,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/itJPQ2rtvjlH8fnEaMJOZi62TJE=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159107_p_v8_aj.jpg",
+      "plot": "While Lex Luthor plots to destroy him once and for all, the Man of Steel returns after a long absence to a much-changed world. Lois Lane has moved on with her life, and society has learned to survive…",
+      "directors": [
+        "Bryan Singer"
+      ]
+    },
+    {
+      "id": "ghostbusters_2016",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Ghostbusters",
+      "original_title": "Ghostbusters",
+      "year": 2016,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 6.5,
+      "votes": 47353,
+      "tomatometer": 74,
+      "audience_score": 48,
+      "runtime_minutes": 117,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/F4vTMewyJLBNGcqqlQN-4ry_at0=/300x450/v2/https://resizing.flixster.com/BJs0iCRpMWh49chzA1zvzoScJgs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzOTMwZWE4LTA4MWMtNDYzZC05MTk1LWI4NTRjMjRlMjUxZS53ZWJw",
+      "plot": "Paranormal researcher Abby Yates and physicist Erin Gilbert are trying to prove that ghosts exist in modern society. When strange apparitions appear in Manhattan, Gilbert and Yates turn to engineer…",
+      "directors": [
+        "Paul Feig"
       ]
     }
   ]

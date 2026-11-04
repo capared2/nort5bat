@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-03T14:28:00.921052Z",
+  "updated_at": "2026-11-04T06:39:29.255597Z",
   "titles": [
     {
       "id": "10009799-caller",
@@ -3563,12 +3563,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 3.5,
-      "votes": 241,
-      "tomatometer": 7,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 14,
       "tomatometer_certified": false,
-      "audience_score": 28,
-      "audience_count": 52,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Following a terrorist attack in Indonesia, a hot-headed American (Kellan Lutz) joins forces with a Muslim detective (Ario Bayu) to find the mastermind (Mickey Rourke) behind the attack.",
       "tagline": "",
@@ -3665,11 +3665,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Java-Heat/5012963?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H6NZ7L2K/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:02:10.250144Z"
+      "scraped_at": "2026-11-04T06:33:07.182845Z"
     },
     {
       "id": "kandahar_2023",
@@ -3688,12 +3692,12 @@
       "runtime_minutes": 119,
       "certificate": "R",
       "rating": 5.4,
-      "votes": 368,
-      "tomatometer": 46,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 101,
       "tomatometer_certified": false,
-      "audience_score": 82,
-      "audience_count": 162,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An undercover CIA operative gets stuck in hostile territory in Afghanistan after his mission is exposed. Accompanied by his translator, he must fight enemy combatants as he tries to reach an extraction point in Kandahar.",
       "tagline": "",
@@ -3808,7 +3812,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T17:14:29.502198Z"
+      "scraped_at": "2026-11-04T06:38:24.533858Z"
     },
     {
       "id": "kill_your_darlings_2013",

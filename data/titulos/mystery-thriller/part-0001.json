@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 59,
-  "updated_at": "2026-11-03T23:35:04.604470Z",
+  "updated_at": "2026-11-04T06:35:27.396221Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -2622,12 +2622,12 @@
       "runtime_minutes": 180,
       "certificate": "R",
       "rating": 8.2,
-      "votes": 10125,
-      "tomatometer": 94,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 384,
       "tomatometer_certified": true,
-      "audience_score": 93,
-      "audience_count": 4040,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "John Wick (Keanu Reeves) uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
       "tagline": "",
@@ -2734,11 +2734,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0B8TNC21Z/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/john-wick-chapter-4--1073089?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T12:04:20.770545Z"
+      "scraped_at": "2026-11-04T06:35:16.785575Z"
     },
     {
       "id": "kill_me_three_times",
