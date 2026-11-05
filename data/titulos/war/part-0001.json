@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-05T06:58:05.725331Z",
+  "updated_at": "2026-11-05T20:01:57.074827Z",
   "titles": [
     {
       "id": "1008415-glory",
@@ -4232,12 +4232,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 6.1,
-      "votes": 96,
-      "tomatometer": 65,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 48,
       "tomatometer_certified": false,
-      "audience_score": 69,
-      "audience_count": 34,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Inspired by true events, Lucky Strike tells the story of one soldier trapped behind enemy lines during the last major German offensive during WWII, what will become known as The Battle of the Bulge. Armed only with his Motorola SCR-300 radio, a new technology only battle-ready near the end of the war, he must use his wits and spy craft to thwart the advancing Nazi Panzer army and find his way back home.",
       "tagline": "",
@@ -4340,11 +4340,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Lucky-Strike/5034932?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:59:25.305195Z"
+      "scraped_at": "2026-11-05T20:00:57.636107Z"
     },
     {
       "id": "midway_2019",

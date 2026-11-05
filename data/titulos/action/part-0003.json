@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-05T06:56:05.080915Z",
+  "updated_at": "2026-11-05T20:08:03.721243Z",
   "titles": [
     {
       "id": "1008243-getaway",
@@ -3042,13 +3042,13 @@
       "release_date": null,
       "runtime_minutes": 91,
       "certificate": "PG-13",
-      "rating": 3.9,
-      "votes": 12675,
-      "tomatometer": 17,
-      "tomatometer_count": 46,
+      "rating": 4.0,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 45,
       "tomatometer_certified": false,
-      "audience_score": 60,
-      "audience_count": 8782,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A discharged soldier (John Cena) returns home from Iraq and finds that his wife (Kelly Carlson) has been kidnapped by the gang of a murderous jewel thief (Robert Patrick). Soldier John Triton must use all his military skills to rescue his wife from her ruthless captors.",
       "tagline": "",
@@ -3147,13 +3147,17 @@
           "url": "https://athome.fandango.com/content/browse/details/The-Marine-Theatrical/68100?cmp=rt_where_to_watch"
         },
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FMBHF2FY/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Starz",
           "url": "https://www.starz.com/us/en/play/31734?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:04:42.249749Z"
+      "scraped_at": "2026-11-05T20:06:20.697613Z"
     },
     {
       "id": "me_and_the_dragons_daughter",

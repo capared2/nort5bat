@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 20,
   "count": 60,
-  "updated_at": "2026-11-05T07:02:07.360362Z",
+  "updated_at": "2026-11-05T20:06:01.461323Z",
   "titles": [
     {
       "id": "10008706-house",
@@ -4075,12 +4075,12 @@
       "runtime_minutes": 105,
       "certificate": "NC-17",
       "rating": 5.4,
-      "votes": 31,
-      "tomatometer": 43,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 23,
       "tomatometer_certified": false,
-      "audience_score": 26,
-      "audience_count": 7,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The Olmedo family leaves village life behind to move to an apartment in Madrid, where something horrifying awaits them.",
       "tagline": "",
@@ -4161,7 +4161,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:02:14.459088Z"
+      "scraped_at": "2026-11-05T20:03:47.795074Z"
     },
     {
       "id": "maniac_cop_2",
@@ -4179,12 +4179,12 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 5.7,
-      "votes": 602,
-      "tomatometer": 60,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
-      "audience_score": 54,
-      "audience_count": 166,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Renegade police officer Matthew Cordell (Robert Z'Dar) once roamed the streets of New York City unleashing his murderous brand of vigilante justice upon its denizens before being struck down by good cop Jack Forrest (Bruce Campbell). Now, Forrest is eager to move on from those heinous events, but he is stopped short when a familiar killing spree begins. Though thought dead and gone, Cordell is back from the grave and ready to wreak his merciless havoc once more.",
       "tagline": "",
@@ -4255,13 +4255,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GYF5M7YL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/maniac-cop-2/umc.cmc.3irt6jiva0ht9q4b3ik31tle2?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:03:48.332950Z"
+      "scraped_at": "2026-11-05T20:05:24.163075Z"
     },
     {
       "id": "mister-frost",

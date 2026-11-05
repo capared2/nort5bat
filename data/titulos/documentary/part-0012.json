@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 12,
   "count": 60,
-  "updated_at": "2026-11-05T07:00:06.432558Z",
+  "updated_at": "2026-11-05T20:03:57.328884Z",
   "titles": [
     {
       "id": "12_12_12",
@@ -2911,12 +2911,12 @@
       "runtime_minutes": 92,
       "certificate": "PG-13",
       "rating": 6.7,
-      "votes": 4,
-      "tomatometer": 73,
-      "tomatometer_count": 48,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 47,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 1,
+      "audience_count": null,
       "metascore": null,
       "plot": "From his infamous broadcast of \"The War of the Worlds,\" to his landmark film \"Citizen Kane,\" Orson Welles becomes a legendary figure in theater, radio and Hollywood.",
       "tagline": "",
@@ -2980,17 +2980,13 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0H7DYB9YV/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        },
-        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/magician-the-astonishing-life--work-of-orson-welles/umc.cmc.25qnnj76ecdfbqd7sedoe88gx?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:01:32.266987Z"
+      "scraped_at": "2026-11-05T20:03:05.360431Z"
     },
     {
       "id": "metal_a_headbangers_journey",

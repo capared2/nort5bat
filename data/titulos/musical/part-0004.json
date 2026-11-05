@@ -2,7 +2,7 @@
   "genre": "musical",
   "part": 4,
   "count": 51,
-  "updated_at": "2026-11-04T06:39:29.664888Z",
+  "updated_at": "2026-11-05T20:06:01.675326Z",
   "titles": [
     {
       "id": "1077332-pippi_longstocking",
@@ -2619,12 +2619,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 6.6,
-      "votes": 407,
-      "tomatometer": 82,
-      "tomatometer_count": 28,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 27,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 119,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The story of Cuban brothers Cesar and Nestor Castillo, who bring their unique sounds to New York in search of fame and fortune. While Cesar revels in the fame and the adoration of the women, Nestor increasingly finds himself mourning his homeland and lost love.",
       "tagline": "",
@@ -2707,11 +2707,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Mambo-Kings/10414?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FMC1PXYM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:02:36.492572Z"
+      "scraped_at": "2026-11-05T20:04:10.944439Z"
     },
     {
       "id": "moana_2026",

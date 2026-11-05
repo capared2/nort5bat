@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-11-05T07:02:07.457308Z",
+  "updated_at": "2026-11-05T20:08:04.046944Z",
   "titles": [
     {
       "id": "1095979-inferno",
@@ -3128,12 +3128,12 @@
       "runtime_minutes": 86,
       "certificate": null,
       "rating": 8.0,
-      "votes": 62,
-      "tomatometer": 98,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 47,
       "tomatometer_certified": true,
-      "audience_score": 31,
-      "audience_count": 22,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A teen makes an unsettling discovery about her boyfriend that lures her into a spiral of obsession.",
       "tagline": "",
@@ -3240,7 +3240,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:02:05.716795Z"
+      "scraped_at": "2026-11-05T20:03:38.837050Z"
     },
     {
       "id": "manifest_west",
@@ -3259,12 +3259,12 @@
       "runtime_minutes": 91,
       "certificate": null,
       "rating": 5.8,
-      "votes": 21,
-      "tomatometer": 63,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 81,
-      "audience_count": 3,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "MANIFEST WEST is a coming-of-age story, told through the eyes of a ten-year old girl whose family moves off the grid into untamed North American wilderness. It's their attempt to establish normalcy, to thrive off the land, and escape the pressures of modern society. But the family has its own internal pressures building, and you can't escape what's going on in your own household, no matter how far you move up a mountain.",
       "tagline": "",
@@ -3373,7 +3373,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:03:50.380837Z"
+      "scraped_at": "2026-11-05T20:05:26.199008Z"
     },
     {
       "id": "married_to_a_balla",
@@ -3397,7 +3397,7 @@
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "When a mother suffering from domestic abuse escapes her dangerous, pro-athlete husband, she will stop at nothing to keep her family safe.",
       "tagline": "",
@@ -3446,10 +3446,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000001054283_01/da0fa825-08d1-3a52-a6f5-58f4229440aa?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:05:08.885084Z"
+      "scraped_at": "2026-11-05T20:06:45.697664Z"
     },
     {
       "id": "my_acting_coach_nightmare",

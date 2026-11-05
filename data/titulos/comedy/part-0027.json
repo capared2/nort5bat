@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-11-05T06:58:04.867393Z",
+  "updated_at": "2026-11-05T20:06:01.000776Z",
   "titles": [
     {
       "id": "1077642-nothing_to_lose",
@@ -3623,12 +3623,12 @@
       "runtime_minutes": 91,
       "certificate": "PG-13",
       "rating": 5.0,
-      "votes": 656,
-      "tomatometer": 25,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 12,
       "tomatometer_certified": false,
-      "audience_score": 44,
-      "audience_count": 86,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When their best man (Tyler Labine) dies suddenly, two newlyweds (Justin Long, Jess Weixler) must cancel their honeymoon to arrange his funeral.",
       "tagline": "",
@@ -3729,7 +3729,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:59:38.016912Z"
+      "scraped_at": "2026-11-05T20:01:10.252401Z"
     },
     {
       "id": "mad_dog_time",
@@ -3747,13 +3747,13 @@
       "release_date": null,
       "runtime_minutes": 93,
       "certificate": "R",
-      "rating": 2.9,
-      "votes": 154,
-      "tomatometer": 20,
-      "tomatometer_count": 5,
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 4,
       "tomatometer_certified": false,
-      "audience_score": 51,
-      "audience_count": 64,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After mob boss Vic (Richard Dreyfuss) leaves a mental hospital, he returns to find his nightclub operation in disarray. Even though Mickey (Jeff Goldblum) has taken his place in his absence, he's been distracted by his affairs with Vic's ex-girlfriend, Grace (Diane Lane), and her sister, Rita (Ellen Barkin). While Vic attempts to clean things up, other mobsters -- including Jake (Kyle MacLachlan), Wacky Jacky (Burt Reynolds) and Ben London (Gabriel Byrne) -- try to step in and take control.",
       "tagline": "",
@@ -3822,10 +3822,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0BQZ6XBQ3/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:00:27.205212Z"
+      "scraped_at": "2026-11-05T20:01:59.523835Z"
     },
     {
       "id": "mainstream",
@@ -3844,12 +3849,12 @@
       "runtime_minutes": 94,
       "certificate": "R",
       "rating": 5.2,
-      "votes": 152,
-      "tomatometer": 42,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 36,
       "tomatometer_certified": false,
-      "audience_score": 41,
-      "audience_count": 28,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In MAINSTREAM, a young woman (Maya Hawke) thinks she's found a path to internet stardom when she starts making YouTube videos with a charismatic stranger (Andrew Garfield) -- until the dark side of viral celebrity threatens to ruin them both.",
       "tagline": "",
@@ -3960,7 +3965,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:01:52.505964Z"
+      "scraped_at": "2026-11-05T20:03:25.826938Z"
     },
     {
       "id": "mamas_boy",
@@ -3979,12 +3984,12 @@
       "runtime_minutes": 89,
       "certificate": "PG-13",
       "rating": 3.5,
-      "votes": 1408,
-      "tomatometer": 9,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 26,
-      "audience_count": 663,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A 29-year-old slacker (Jon Heder) who still lives with his mother (Diane Keaton) takes action when a self-help guru (Jeff Daniels) threatens his perfect world.",
       "tagline": "",
@@ -4081,11 +4086,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Mamas-Boy/132103?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWYZR1D1/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:02:34.354063Z"
+      "scraped_at": "2026-11-05T20:04:09.761030Z"
     },
     {
       "id": "marc_pease_experience",
@@ -4104,12 +4113,12 @@
       "runtime_minutes": 80,
       "certificate": "PG-13",
       "rating": 3.3,
-      "votes": 285,
-      "tomatometer": 18,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 14,
-      "audience_count": 92,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A limousine driver (Jason Schwartzman) who once starred in high-school musicals hopes to cut an album, despite constant reminders of a humiliating incident from the past.",
       "tagline": "",
@@ -4202,7 +4211,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T05:04:17.236138Z"
+      "scraped_at": "2026-11-05T20:05:52.756814Z"
     },
     {
       "id": "milagro_beanfield_war",
