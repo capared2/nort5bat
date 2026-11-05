@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 27,
   "count": 20,
-  "updated_at": "2026-11-03T23:30:40.670802Z",
+  "updated_at": "2026-11-05T07:02:28.084580Z",
   "titles": [
     {
       "id": "a_woman_of_paris_a_drama_of_fate",
@@ -894,12 +894,12 @@
       "runtime_minutes": 82,
       "certificate": null,
       "rating": null,
-      "votes": 10,
-      "tomatometer": 86,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 60,
-      "audience_count": 2,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Tolstoy's Anna Karenina becomes a widow in Russia and marries the dashing soldier Vronsky.",
       "tagline": "",
@@ -976,7 +976,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:57:14.348764Z"
+      "scraped_at": "2026-11-05T07:01:20.777280Z"
     },
     {
       "id": "love_language",
@@ -993,14 +993,14 @@
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 104,
-      "certificate": "Now Playing",
-      "rating": 6.5,
+      "certificate": "Oct 2026",
+      "rating": 6.3,
       "votes": null,
-      "tomatometer": 79,
-      "tomatometer_count": 14,
+      "tomatometer": null,
+      "tomatometer_count": 21,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Following a failed engagement, aspiring author Louisa \"Lou\" Klaussner (Chloë Grace Moretz) falls into a side hustle writing wedding vows for other people. Just as the charming serial dater Dash (Anthony Ramos) starts to show interest in Lou, she reconnects with her college best friend and long-time crush Warren (Manny Jacinto). She is shocked to learn that Warren is the fiancé of Olivia (Isabel May), one of Lou's wedding vow clients... putting Lou in the middle of a complicated love-rectangle.",
       "tagline": "",
@@ -1099,10 +1099,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Love-Language/5129395?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:58:07.492679Z"
+      "scraped_at": "2026-11-05T07:02:14.618199Z"
     },
     {
       "id": "love_of_your_life",
@@ -1120,13 +1125,13 @@
       "release_date": null,
       "runtime_minutes": 106,
       "certificate": "R",
-      "rating": 6.8,
-      "votes": 155,
-      "tomatometer": 80,
-      "tomatometer_count": 50,
+      "rating": 6.9,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 55,
       "tomatometer_certified": true,
-      "audience_score": 64,
-      "audience_count": 56,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Directed by Rachel Morrison (The Fire Inside), LOVE OF YOUR LIFE follows Maya (Margaret Qualley), whose chance encounter with Charlie (Gabriel Basso) sets in motion a sweeping romance and a future beyond anything she had imagined. When that future is suddenly upended, Maya is sent hurtling toward an unexpected new life--one that will force her to reckon with who she is, what she wants, and how to love again.",
       "tagline": "",
@@ -1233,7 +1238,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:58:15.417168Z"
+      "scraped_at": "2026-11-05T07:02:22.171757Z"
     },
     {
       "id": "mysterious_lady",

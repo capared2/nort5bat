@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-04T06:37:28.322493Z",
+  "updated_at": "2026-11-05T07:00:07.025668Z",
   "titles": [
     {
       "id": "1108704-planet_of_the_apes",
@@ -3099,12 +3099,12 @@
       "runtime_minutes": 119,
       "certificate": "R",
       "rating": 8.2,
-      "votes": 92151,
-      "tomatometer": 93,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 274,
       "tomatometer_certified": true,
-      "audience_score": 82,
-      "audience_count": 12093,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In a future society, time-travel exists, but it's only available to those with the means to pay for it on the black market. When the mob wants to eliminate someone, it sends the target into the past, where a hit man known as a looper lies in wait to finish the job. Joe (Joseph Gordon-Levitt) is one such hired gun, and he does his job well -- until the day his bosses decide to \"close the loop\" and send Joe's future self (Bruce Willis) back in time to be killed.",
       "tagline": "",
@@ -3201,11 +3201,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Looper/371315?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/70199724?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T21:47:49.759685Z"
+      "scraped_at": "2026-11-05T07:00:03.886520Z"
     },
     {
       "id": "luis_and_the_aliens",

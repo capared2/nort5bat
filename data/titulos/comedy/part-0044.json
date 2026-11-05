@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 44,
   "count": 60,
-  "updated_at": "2026-11-04T06:39:28.734433Z",
+  "updated_at": "2026-11-05T07:02:06.993584Z",
   "titles": [
     {
       "id": "1007977-fun_with_dick_and_jane",
@@ -2810,12 +2810,12 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 5.6,
-      "votes": 54,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 14,
       "tomatometer_certified": false,
-      "audience_score": 41,
-      "audience_count": 13,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An unemployed slacker (Pat Shortt), his aged mother (Fionnula Flanagan) and his niece (Kelly Thornton) must overcome their many differences to find a lost fortune.",
       "tagline": "",
@@ -2920,7 +2920,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T21:43:51.468938Z"
+      "scraped_at": "2026-11-05T06:56:07.816878Z"
     },
     {
       "id": "lost_and_found_in_cleveland",
@@ -2939,12 +2939,12 @@
       "runtime_minutes": 116,
       "certificate": "PG-13",
       "rating": null,
-      "votes": 50,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 66,
-      "audience_count": 31,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "LOST & FOUND IN CLEVELAND is an ensemble comedy with heart, a look at the post-Industrial American Dream in the Industrial Midwest – a slice of life depiction over a 24-hour period that follows the personal odysseys of five very different people, whose lives intertwine when America's favorite televised antiques appraisal show comes to Cleveland. It’s “Best in Show” meets “Wizard of Oz”.",
       "tagline": "",
@@ -3021,10 +3021,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HG48XTLP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T21:48:18.877806Z"
+      "scraped_at": "2026-11-05T07:00:34.853019Z"
     },
     {
       "id": "lost_skeleton_of_cadavra",
@@ -3042,12 +3047,12 @@
       "runtime_minutes": 94,
       "certificate": "PG",
       "rating": 5.8,
-      "votes": 933,
-      "tomatometer": 54,
-      "tomatometer_count": 67,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 66,
       "tomatometer_certified": false,
-      "audience_score": 85,
-      "audience_count": 498,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A scientist (Larry Blamire) and his wife (Fay Masterson) race against a rival (Brian Howe) and aliens for possession of a mineral from a meteorite.",
       "tagline": "",
@@ -3128,7 +3133,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:56:57.480189Z"
+      "scraped_at": "2026-11-05T07:01:03.886179Z"
     },
     {
       "id": "love_and_death",
@@ -3146,12 +3151,12 @@
       "runtime_minutes": 85,
       "certificate": "PG",
       "rating": 8.1,
-      "votes": 4021,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 26,
       "tomatometer_certified": false,
-      "audience_score": 90,
-      "audience_count": 960,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In Woody Allen's comic take on 19th-century Russian philosophical novels and the Soviet-era epic films made from them, Boris (Woody Allen) is a simple Russian villager who pines from afar for his beautiful cousin Sonja (Diane Keaton). Forced against his will into joining the Russian army during the Napoleonic Wars, the cowardly Boris accidentally becomes a military hero. But when his beloved Sonja comes to him with a dangerous patriotic scheme, Boris debates his desires and beliefs.",
       "tagline": "",
@@ -3232,11 +3237,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Love-and-Death/140396?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H41F5SFX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:57:26.105071Z"
+      "scraped_at": "2026-11-05T07:01:31.554585Z"
     },
     {
       "id": "love_at_first_child",
@@ -3254,12 +3263,12 @@
       "runtime_minutes": 91,
       "certificate": null,
       "rating": 5.0,
-      "votes": 12,
-      "tomatometer": 57,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 42,
-      "audience_count": 3,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Gabrielle, the single mother of a pregnant teenager, learns the baby's father has no desire to be involved in her grandchild's life or help raise the child. Angry and needing help, she decides to confront his womanizing father to demand assistance.",
       "tagline": "",
@@ -3366,7 +3375,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:57:37.320476Z"
+      "scraped_at": "2026-11-05T07:01:43.533678Z"
     },
     {
       "id": "love_vs_the_red_pill",

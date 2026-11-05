@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-04T06:35:27.557315Z",
+  "updated_at": "2026-11-05T07:02:28.067242Z",
   "titles": [
     {
       "id": "1174278-definitely_maybe",
@@ -2896,12 +2896,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 4.7,
-      "votes": 3561,
-      "tomatometer": 31,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 58,
       "tomatometer_certified": false,
-      "audience_score": 64,
-      "audience_count": 303,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Rosie and Alex are best friends until Alex's family moves to America. They gamble everything to keep their love and friendship alive over the years and miles.",
       "tagline": "",
@@ -2998,11 +2998,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Love-Rosie/630925?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:58:20.816930Z"
+      "scraped_at": "2026-11-05T07:02:28.013667Z"
     },
     {
       "id": "luxor",

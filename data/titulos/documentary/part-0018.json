@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-11-04T19:55:25.886245Z",
+  "updated_at": "2026-11-05T07:02:07.806603Z",
   "titles": [
     {
       "id": "10007729-screamers",
@@ -3311,12 +3311,12 @@
       "runtime_minutes": 80,
       "certificate": "PG",
       "rating": 6.3,
-      "votes": 31,
-      "tomatometer": 75,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 12,
       "tomatometer_certified": false,
-      "audience_score": 84,
-      "audience_count": 14,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Filmmaker Jason Baffa examines the personal bonds and dynamic relationships that form between golfers and caddies.",
       "tagline": "",
@@ -3379,10 +3379,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Loopers-The-Caddies-Long-Walk/1137898?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T21:47:51.632984Z"
+      "scraped_at": "2026-11-05T07:00:06.087685Z"
     },
     {
       "id": "lost_in_la_mancha",
@@ -3400,12 +3405,12 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 7.7,
-      "votes": 1867,
-      "tomatometer": 94,
-      "tomatometer_count": 102,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 99,
       "tomatometer_certified": true,
-      "audience_score": 77,
-      "audience_count": 591,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Visionary director Terry Gilliam has a dream. He wants to film the classic story of Don Quixote by recasting it as a trippy, time-traveling, mistaken-identity adventure with Johnny Depp as Quixote. After struggling for years to get financing, insurance and a cast in place, Gilliam travels to Spain and promptly watches his dream fall apart. From flash floods to cast no-shows to serious injuries, Gilliam and his crew suffer one setback after another.",
       "tagline": "",
@@ -3473,17 +3478,13 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0HB513CP5/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        },
-        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/lost-in-la-mancha/umc.cmc.2b8um4zysvlsd7gfufatrdvbo?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-22T21:48:37.350422Z"
+      "scraped_at": "2026-11-05T07:00:52.949186Z"
     },
     {
       "id": "love_charlie_the_rise_and_fall_of_chef_charlie_trotter",
@@ -3501,12 +3502,12 @@
       "runtime_minutes": 97,
       "certificate": null,
       "rating": 7.3,
-      "votes": 74,
-      "tomatometer": 90,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
-      "audience_score": 99,
-      "audience_count": 6,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Charlie Trotter revolutionized American cuisine but his quest for excellence cost him everything. Featuring Grant Achatz, Emeril Lagasse, and Wolfgang Puck.",
       "tagline": "",
@@ -3582,7 +3583,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T04:57:42.573668Z"
+      "scraped_at": "2026-11-05T07:01:48.836237Z"
     },
     {
       "id": "memory_is_our_homeland",
