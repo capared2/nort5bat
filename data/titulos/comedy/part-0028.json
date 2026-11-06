@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 28,
   "count": 60,
-  "updated_at": "2026-11-05T06:56:04.997637Z",
+  "updated_at": "2026-11-06T06:57:35.448944Z",
   "titles": [
     {
       "id": "1001180-armed_and_dangerous",
@@ -4354,12 +4354,12 @@
       "runtime_minutes": 91,
       "certificate": "R",
       "rating": 3.5,
-      "votes": 19,
-      "tomatometer": 0,
-      "tomatometer_count": 22,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 20,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 5,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A gay man tells a woman impersonating a psychiatrist that he witnessed a murder.",
       "tagline": "",
@@ -4452,15 +4452,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0H1PPN6DT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T11:48:16.841984Z"
+      "scraped_at": "2026-11-06T06:55:56.322119Z"
     },
     {
       "id": "mr_saturday_night",

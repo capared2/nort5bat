@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-05T20:01:57.074827Z",
+  "updated_at": "2026-11-06T06:59:36.883062Z",
   "titles": [
     {
       "id": "1008415-glory",
@@ -4372,12 +4372,12 @@
       "runtime_minutes": 138,
       "certificate": "PG-13",
       "rating": 5.2,
-      "votes": 12066,
-      "tomatometer": 42,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 175,
       "tomatometer_certified": false,
-      "audience_score": 92,
-      "audience_count": 2705,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "On Dec. 7, 1941, Japanese forces launch a devastating attack on Pearl Harbor, the U.S. naval base in Hawaii. Six months later, the Battle of Midway commences on June 4, 1942, as the Japanese navy once again plans a strike against American ships in the Pacific. For the next three days, the U.S. Navy and a squad of brave fighter pilots engage the enemy in one of the most important and decisive battles of World War II.",
       "tagline": "",
@@ -4480,11 +4480,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Midway/1282485?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GXTMHMVL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/midway--1051618?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T11:49:31.932567Z"
+      "scraped_at": "2026-11-06T06:57:09.890904Z"
     },
     {
       "id": "miracle_at_st_anna",
@@ -4504,12 +4512,12 @@
       "runtime_minutes": 160,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 3409,
-      "tomatometer": 33,
-      "tomatometer_count": 120,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 119,
       "tomatometer_certified": false,
-      "audience_score": 51,
-      "audience_count": 1572,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "During World War II, members of the U.S. Army's all-black division are stationed in the Tuscany region of Italy. Four of the soldiers (Derek Luke, Michael Ealy, Laz Alonso, Omar Benson Miller) become trapped behind enemy lines and separated from the rest of their unit after one of them risks his life to save an Italian boy.",
       "tagline": "",
@@ -4610,7 +4618,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T11:50:44.218531Z"
+      "scraped_at": "2026-11-06T06:58:22.918313Z"
     },
     {
       "id": "operation_mincemeat",

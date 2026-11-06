@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 21,
   "count": 60,
-  "updated_at": "2026-11-05T20:08:03.877337Z",
+  "updated_at": "2026-11-06T06:59:36.598371Z",
   "titles": [
     {
       "id": "1013139-maltese_falcon",
@@ -4098,18 +4098,18 @@
         "Drama",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 195,
       "certificate": "Sep 2026",
       "rating": 6.5,
-      "votes": 73,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 20,
       "tomatometer_certified": false,
-      "audience_score": 89,
-      "audience_count": 9,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "",
       "tagline": "",
@@ -4170,10 +4170,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HKGPSF7P/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T11:50:55.202737Z"
+      "scraped_at": "2026-11-06T06:58:33.462430Z"
     },
     {
       "id": "no_man_of_god",

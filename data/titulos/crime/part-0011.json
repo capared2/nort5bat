@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 11,
   "count": 60,
-  "updated_at": "2026-11-05T20:06:01.720297Z",
+  "updated_at": "2026-11-06T06:57:35.959745Z",
   "titles": [
     {
       "id": "10009526-public_enemies",
@@ -5168,12 +5168,12 @@
       "runtime_minutes": 126,
       "certificate": "R",
       "rating": 7.0,
-      "votes": 9,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 89,
-      "audience_count": 3,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A detective (Robert Fontaine) investigates the brutal murders of five Hispanic migrant laborers in upstate New York.",
       "tagline": "",
@@ -5268,15 +5268,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Stream",
-          "url": "https://athome.fandango.com/content/browse/details/Mi-America/944453?cmp=rt_where_to_watch"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T11:48:46.888559Z"
+      "scraped_at": "2026-11-06T06:56:25.087099Z"
     },
     {
       "id": "miami_vice",
@@ -5296,12 +5291,12 @@
       "runtime_minutes": 135,
       "certificate": "R",
       "rating": 5.7,
-      "votes": 18879,
-      "tomatometer": 47,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 226,
       "tomatometer_certified": false,
-      "audience_score": 43,
-      "audience_count": 11079,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A case involving drug lords and murder in South Florida takes a personal turn for undercover detectives Sonny Crockett (Colin Farrell) and Ricardo Tubbs (Jamie Foxx). Unorthodox Crockett gets involved romantically with the Chinese-Cuban wife of a trafficker of arms and drugs, while Tubbs deals with an assault on those he loves.",
       "tagline": "",
@@ -5398,11 +5393,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Miami-Vice-Theatrical/5927?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/33631?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T11:48:52.684763Z"
+      "scraped_at": "2026-11-06T06:56:30.861297Z"
     },
     {
       "id": "new-police-story",

@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-05T20:03:57.843573Z",
+  "updated_at": "2026-11-06T07:01:36.760278Z",
   "titles": [
     {
       "id": "771420830",
@@ -2881,12 +2881,12 @@
       "runtime_minutes": 134,
       "certificate": "PG-13",
       "rating": 8.2,
-      "votes": 235,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 166,
       "tomatometer_certified": true,
-      "audience_score": 84,
-      "audience_count": 124,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "MOONAGE DAYDREAM: a cinematic odyssey exploring Bowie's creative, spiritual and musical journey. From the visionary mind of Brett Morgen, Moonage Daydream features captivating, never-before-seen footage and performances spanning David Bowie's 54-year career. The film includes 40 exclusively remastered Bowie songs and is the first film ever sanctioned by the Bowie Estate, with local access to the artists' archives.",
       "tagline": "",
@@ -2975,11 +2975,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/81608221?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:13:31.790777Z"
+      "scraped_at": "2026-11-06T07:01:31.178348Z"
     },
     {
       "id": "oasis_knebworth_1996",
