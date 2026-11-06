@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-06T07:01:37.010997Z",
+  "updated_at": "2026-11-06T19:36:04.673579Z",
   "titles": [
     {
       "id": "10003284-the_zodiac",
@@ -4482,12 +4482,12 @@
       "runtime_minutes": 97,
       "certificate": "TV-PG",
       "rating": 6.8,
-      "votes": 506,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 24,
       "tomatometer_certified": false,
-      "audience_score": 78,
-      "audience_count": 102,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Monk returns to solve one last, very personal case involving his beloved step-daughter Molly, a journalist preparing for her wedding.",
       "tagline": "",
@@ -4598,7 +4598,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:15:25.480373Z"
+      "scraped_at": "2026-11-06T19:29:04.474229Z"
     },
     {
       "id": "next_day_air",
@@ -4619,12 +4619,12 @@
       "runtime_minutes": 84,
       "certificate": "R",
       "rating": 4.1,
-      "votes": 2171,
-      "tomatometer": 22,
-      "tomatometer_count": 65,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 63,
       "tomatometer_certified": false,
-      "audience_score": 31,
-      "audience_count": 924,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Delivery man Leo Jackson (Donald Faison) is definitely on the wrong road to success. He still lives at home, he and his girlfriend just broke up, and he has multiple complaints stacked against him at work. Fortunately, Leo has plenty of marijuana to keep his mind off his troubles. But when he accidentally delivers a box of cocaine to the wrong address, Leo finds himself in the middle of a bad deal that may just cost him his life.",
       "tagline": "",
@@ -4721,11 +4721,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Next-Day-Air/168359?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/39896?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T21:28:51.526726Z"
+      "scraped_at": "2026-11-06T19:35:58.915956Z"
     },
     {
       "id": "oceans_eleven",

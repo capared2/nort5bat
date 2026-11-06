@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-06T06:59:36.578290Z",
+  "updated_at": "2026-11-06T19:35:43.749322Z",
   "titles": [
     {
       "id": "1004743-corrupt",
@@ -3783,13 +3783,13 @@
       "release_date": null,
       "runtime_minutes": 120,
       "certificate": "PG-13",
-      "rating": 6.1,
-      "votes": 141714,
-      "tomatometer": 60,
-      "tomatometer_count": 209,
+      "rating": 6.2,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 207,
       "tomatometer_certified": false,
-      "audience_score": 58,
-      "audience_count": 1349416,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "John and Jane Smith, a couple in a stagnating marriage, live a deceptively mundane existence. However, each has been hiding a secret from the other: they are assassins working for adversarial agencies. When they are both assigned to kill the same target, Benjamin Danz, the truth comes to the surface. Finally free from their cover stories, they discover that they have been assigned to kill each other, sparking a series of explosive attacks.",
       "tagline": "",
@@ -3892,11 +3892,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Mr-and-Mrs-Smith-Theatrical/8629?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D2L36S7H/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:15:03.354431Z"
+      "scraped_at": "2026-11-06T19:28:43.824000Z"
     },
     {
       "id": "need_for_speed",
@@ -3918,12 +3922,12 @@
       "runtime_minutes": 130,
       "certificate": "PG-13",
       "rating": 4.4,
-      "votes": 19454,
-      "tomatometer": 23,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 182,
       "tomatometer_certified": false,
-      "audience_score": 57,
-      "audience_count": 2548,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Tobey Marshall (Aaron Paul), a mechanic, races muscle cars in an underground circuit. Struggling to keep his business afloat, he reluctantly partners with wealthy but treacherous Dino Brewster (Dominic Cooper). However, Dino frames Tobey for a crime that sends him to prison. Two years later, Tobey is out and bent on revenge; his only chance to take down Dino is to beat him in a high-stakes race. But to get there in time, he must successfully evade an army of cops and bounty hunters.",
       "tagline": "",
@@ -4030,7 +4034,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T21:27:43.851092Z"
+      "scraped_at": "2026-11-06T19:34:49.238326Z"
     },
     {
       "id": "out_of_time",

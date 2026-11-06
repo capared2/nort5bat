@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-11-06T06:57:35.341048Z",
+  "updated_at": "2026-11-06T19:31:40.058122Z",
   "titles": [
     {
       "id": "10002635-bridge_of_san_luis_rey",
@@ -4132,12 +4132,12 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 5.2,
-      "votes": 1113,
-      "tomatometer": 33,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 42,
       "tomatometer_certified": false,
-      "audience_score": 78,
-      "audience_count": 537,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After a confrontation with one of his idols dashes his dreams of studying public speaking in college, Richard Pimentel joins the Army and ships off to Vietnam. During his service, Richard loses nearly all of his hearing. Joining a new circle of friends, including a man with cerebral palsy and an alcoholic war veteran, Richard discovers his gift for motivational speaking and becomes an advocate for people with disabilities.",
       "tagline": "",
@@ -4234,11 +4234,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Music-Within/888939?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B8V555MM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:17:08.926037Z"
+      "scraped_at": "2026-11-06T19:30:47.512604Z"
     },
     {
       "id": "o_marinheiro_das_montanhas",

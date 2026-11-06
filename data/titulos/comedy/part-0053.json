@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 44,
-  "updated_at": "2026-11-06T07:01:57.381114Z",
+  "updated_at": "2026-11-06T19:29:38.547526Z",
   "titles": [
     {
       "id": "ali_g_who_iz_i",
@@ -2608,18 +2608,18 @@
         "Drama",
         "LGBTQ+"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 120,
       "certificate": "R",
-      "rating": 8.4,
+      "rating": 8.5,
       "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 18,
-      "tomatometer_certified": false,
+      "tomatometer": null,
+      "tomatometer_count": 44,
+      "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "It's 2002, and best friends Minnie and Callie are heading into their senior year of high school, with Minnie long living in the protective shadow of the charismatic and admired Callie. When their friendship is suddenly upended at the start of the summer, Minnie struggles to define her own identity and forms a complicated relationship with Callie's poised, attentive mother (Sophie Okonedo), pulling her further from her own chaotic home.",
       "tagline": "",
@@ -2706,10 +2706,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Mouse/5250220?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T13:18:39.687082Z"
+      "scraped_at": "2026-11-06T19:28:29.434032Z"
     },
     {
       "id": "on_a_string",

@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-06T06:55:35.498340Z",
+  "updated_at": "2026-11-06T19:35:43.535771Z",
   "titles": [
     {
       "id": "10010331-ascent",
@@ -3812,12 +3812,12 @@
       "runtime_minutes": 115,
       "certificate": "PG-13",
       "rating": 6.1,
-      "votes": 187,
-      "tomatometer": 47,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 17,
       "tomatometer_certified": false,
-      "audience_score": 61,
-      "audience_count": 33,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "While civil war rages on her island, a girl immerses herself in an imaginary world which fuses the Victorian London of \"Great Expectations\" with the environment and people she knows.",
       "tagline": "",
@@ -3890,10 +3890,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Mr-Pip/601955?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:15:32.274283Z"
+      "scraped_at": "2026-11-06T19:29:10.941803Z"
     },
     {
       "id": "naza",
@@ -3912,12 +3917,12 @@
       "runtime_minutes": 80,
       "certificate": "Now Playing",
       "rating": 9.1,
-      "votes": 66,
-      "tomatometer": 100,
-      "tomatometer_count": 70,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 79,
       "tomatometer_certified": true,
-      "audience_score": 98,
-      "audience_count": 24,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians.",
       "tagline": "",
@@ -3934,6 +3939,22 @@
         {
           "url": "https://resizing.flixster.com/kJG9k5EMFngPi7Ja5RKncOEi1xQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34137142_v_v8_aa.jpg",
           "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/vhhGs-KVvzdUPFzDD90mZXM7LeY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34137142_i_h6_aa.jpg",
+          "caption": "Naza (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/pX_D5Kam7Z608nNgQCYNBDpgSE8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34137142_i_v4_aa.jpg",
+          "caption": "Naza (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/UkTa_VibYZTuQSu5N6MovFsf7Ts=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34137142_i_v7_aa.jpg",
+          "caption": "Naza (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/39WX9tnThldJyT8nuruNFrcyyB4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34137142_i_h11_aa.jpg",
+          "caption": "Naza (2026)"
         },
         {
           "url": "https://resizing.flixster.com/gG1H_G1B_MjmL1vhHjMHuTsjCJM=/fit-in/705x460/v2/https://resizing.flixster.com/wAQUgAPYoj9iWqdaPLD1usIv9RU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYzNzI3MmE1LTU2MTctNDQ2YS1iYTM5LTEwMjY0NDQ2MTYwNS5qcGc=",
@@ -3972,7 +3993,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T21:27:33.035203Z"
+      "scraped_at": "2026-11-06T19:34:38.964366Z"
     },
     {
       "id": "nezouh",

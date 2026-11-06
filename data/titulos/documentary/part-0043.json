@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 43,
   "count": 60,
-  "updated_at": "2026-11-06T06:57:35.629627Z",
+  "updated_at": "2026-11-06T19:35:42.523594Z",
   "titles": [
     {
       "id": "10006485-black_gold",
@@ -3293,12 +3293,12 @@
       "runtime_minutes": 90,
       "certificate": null,
       "rating": 8.0,
-      "votes": 3,
-      "tomatometer": 70,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 10,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A woman who is suffering from advanced Alzheimer's enters the final stage of the disease.",
       "tagline": "",
@@ -3342,7 +3342,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:15:50.890418Z"
+      "scraped_at": "2026-11-06T19:29:29.811830Z"
     },
     {
       "id": "national_gallery",
@@ -3360,12 +3360,12 @@
       "runtime_minutes": 174,
       "certificate": null,
       "rating": 8.4,
-      "votes": 109,
-      "tomatometer": 95,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 64,
       "tomatometer_certified": true,
-      "audience_score": 72,
-      "audience_count": 15,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The education programs, scholars, scientists and curators work at and enjoy the National Gallery in London.",
       "tagline": "",
@@ -3461,7 +3461,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:20:29.978281Z"
+      "scraped_at": "2026-11-06T19:34:14.677144Z"
     },
     {
       "id": "nature_of_existence",
@@ -3479,12 +3479,12 @@
       "runtime_minutes": 94,
       "certificate": null,
       "rating": 6.1,
-      "votes": 114,
-      "tomatometer": 64,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 22,
       "tomatometer_certified": false,
-      "audience_score": 65,
-      "audience_count": 44,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Interviewers ask people who have influenced humanity to talk about their beliefs.",
       "tagline": "",
@@ -3577,15 +3577,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Apple TV",
-          "url": "https://tv.apple.com/us/movie/the-nature-of-existence/umc.cmc.48ts2ea4hazqgvca8ccpqv4ib?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:20:54.320299Z"
+      "scraped_at": "2026-11-06T19:34:36.306800Z"
     },
     {
       "id": "no_one_asked_you",

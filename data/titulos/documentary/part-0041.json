@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 41,
   "count": 60,
-  "updated_at": "2026-11-05T20:08:24.100361Z",
+  "updated_at": "2026-11-06T19:35:42.485783Z",
   "titles": [
     {
       "id": "10011489-bananas",
@@ -2576,12 +2576,12 @@
       "runtime_minutes": 94,
       "certificate": null,
       "rating": 7.3,
-      "votes": 11,
-      "tomatometer": 93,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 14,
       "tomatometer_certified": false,
-      "audience_score": 45,
-      "audience_count": 1,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The planet's busiest maternity hospital is located in one of its poorest countries: the Philippines. There, women face devastating consequences as their country struggles with reproductive health policy and the politics of conservative ideologies.",
       "tagline": "",
@@ -2649,7 +2649,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:14:28.369264Z"
+      "scraped_at": "2026-11-06T19:28:07.627912Z"
     },
     {
       "id": "murderball",
@@ -2667,12 +2667,12 @@
       "runtime_minutes": 85,
       "certificate": "R",
       "rating": 8.6,
-      "votes": 2217,
-      "tomatometer": 98,
-      "tomatometer_count": 138,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 135,
       "tomatometer_certified": true,
-      "audience_score": 89,
-      "audience_count": 829,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "This documentary introduces the U.S. quad rugby team -- a team composed entirely of young paraplegic men. Using special wheelchairs and very little protection, the players play full-contact competitive rugby, using rules only slightly altered to accommodate their limitations. The film follows the team as they discuss the sport, their lives, and how they ended up in their chairs to begin with, while they play their way to the 2004 Paralympic Games in Athens, Greece.",
       "tagline": "",
@@ -2738,10 +2738,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GVDCVK4L/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T17:16:50.381297Z"
+      "scraped_at": "2026-11-06T19:30:31.962367Z"
     },
     {
       "id": "nerakhoon",
@@ -2759,12 +2764,12 @@
       "runtime_minutes": 96,
       "certificate": null,
       "rating": 7.9,
-      "votes": 66,
-      "tomatometer": 94,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 31,
       "tomatometer_certified": false,
-      "audience_score": 73,
-      "audience_count": 27,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A Laotian family leaves its war-torn country behind and moves to New York.",
       "tagline": "",
@@ -2821,7 +2826,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T21:27:58.226349Z"
+      "scraped_at": "2026-11-06T19:35:04.288875Z"
     },
     {
       "id": "no_small_matter",
