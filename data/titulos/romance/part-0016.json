@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 16,
   "count": 60,
-  "updated_at": "2026-11-07T06:10:07.879245Z",
+  "updated_at": "2026-11-07T13:13:22.375951Z",
   "titles": [
     {
       "id": "10002103-samsara",
@@ -5651,12 +5651,12 @@
       "runtime_minutes": 112,
       "certificate": "PG",
       "rating": 5.2,
-      "votes": 5427,
-      "tomatometer": 46,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 35,
       "tomatometer_certified": false,
-      "audience_score": 74,
-      "audience_count": 2120,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Snobbish and wealthy Joanna Stayton is living a life of leisure with her husband, Grant, when she falls off their yacht and suffers amnesia. Grant takes the opportunity to rid himself of the demanding Joanna -- but Dean, a widowed carpenter with four kids who once worked for Joanna, arrives and claims she's his wife. Joanna can't remember her past identity, but has trouble believing that she was ever meant to be a working-class mother of four.",
       "tagline": "",
@@ -5737,15 +5737,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Overboard/13602?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0H8BFZ282/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T04:46:03.727776Z"
+      "scraped_at": "2026-11-07T13:12:00.871178Z"
     },
     {
       "id": "robin_and_marian",

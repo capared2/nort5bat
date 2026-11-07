@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-07T06:08:06.269571Z",
+  "updated_at": "2026-11-07T13:15:22.251863Z",
   "titles": [
     {
       "id": "1010249-hustle",
@@ -4129,12 +4129,12 @@
       "runtime_minutes": 130,
       "certificate": "R",
       "rating": 6.8,
-      "votes": 9804,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 237,
       "tomatometer_certified": true,
-      "audience_score": 86,
-      "audience_count": 899,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Tragedy strikes on April 15, 2013, when two bombs explode during the Boston Marathon. In the aftermath of the attack, police Sgt. Tommy Saunders (Mark Wahlberg), FBI Special Agent Richard DesLauriers (Kevin Bacon) and Commissioner Ed Davis (John Goodman) join courageous survivors, first responders and other investigators in a race against the clock to hunt down the suspects and bring them to justice.",
       "tagline": "",
@@ -4237,15 +4237,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Patriots-Day/832516?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0GRDB8KWQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T04:49:00.110648Z"
+      "scraped_at": "2026-11-07T13:15:00.040707Z"
     },
     {
       "id": "prisoners_2013",

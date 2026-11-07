@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-11-06T19:33:42.016564Z",
+  "updated_at": "2026-11-07T13:17:23.683838Z",
   "titles": [
     {
       "id": "1136293-lightning_in_a_bottle",
@@ -3293,12 +3293,12 @@
       "runtime_minutes": 91,
       "certificate": null,
       "rating": 7.2,
-      "votes": 46,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 30,
       "tomatometer_certified": false,
-      "audience_score": 74,
-      "audience_count": 7,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Peter Dunning is the proud proprietor of Mile Hill Farm, which sits on 187 idyllic acres in Vermont. The land's 38 harvests have seen the arrivals and departures of three wives and four children, leaving Peter with only animals and memories. The arrival of a film crew causes him to confront his history and his legacy, passing along hard-won agricultural wisdom even as he doubts the meaning of the work he is fated to perform until death.",
       "tagline": "",
@@ -3370,15 +3370,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Peter-and-the-Farm/785214?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0GW4VT9ZC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T11:07:59.348502Z"
+      "scraped_at": "2026-11-07T13:17:00.446291Z"
     },
     {
       "id": "pistachio_wars",
