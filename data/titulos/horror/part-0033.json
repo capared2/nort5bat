@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 33,
   "count": 60,
-  "updated_at": "2026-11-06T19:35:42.731489Z",
+  "updated_at": "2026-11-07T06:10:07.782708Z",
   "titles": [
     {
       "id": "10006940-silk",
@@ -4298,12 +4298,12 @@
       "runtime_minutes": 91,
       "certificate": "PG",
       "rating": 6.8,
-      "votes": 78,
-      "tomatometer": 88,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 34,
       "tomatometer_certified": false,
-      "audience_score": 81,
-      "audience_count": 26,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After a meteor unleashes a virus that turns zoo animals into zombies, a mountain lion (David Harbour) and wolf (Gabbi Kosmidis) lead a team of surviving animals to stop the virus and rescue their zoo.",
       "tagline": "",
@@ -4379,11 +4379,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0DVTLHWQS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000532255_01/7cf15048-644c-3a7c-9b59-8b6a719b92bb?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T21:29:47.348526Z"
+      "scraped_at": "2026-11-07T06:04:51.750380Z"
     },
     {
       "id": "nyctophobia_2024",
@@ -4401,12 +4405,12 @@
       "runtime_minutes": 77,
       "certificate": null,
       "rating": null,
-      "votes": 1,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Twin sisters Rose and Azalea and their friend Brooks find themselves trapped in a supernatural blackout in which monsters are real.",
       "tagline": "",
@@ -4491,7 +4495,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T21:33:32.913246Z"
+      "scraped_at": "2026-11-07T06:08:41.715783Z"
     },
     {
       "id": "red_christmas",

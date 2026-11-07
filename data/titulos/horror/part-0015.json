@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 15,
   "count": 60,
-  "updated_at": "2026-11-05T20:08:03.111165Z",
+  "updated_at": "2026-11-07T06:12:08.871488Z",
   "titles": [
     {
       "id": "10012050-final",
@@ -4595,12 +4595,12 @@
       "runtime_minutes": 87,
       "certificate": "PG-13",
       "rating": 2.6,
-      "votes": 11898,
-      "tomatometer": 0,
-      "tomatometer_count": 79,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 78,
       "tomatometer_certified": false,
-      "audience_score": 29,
-      "audience_count": 5353,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When Beth Raymond (Shannyn Sossamon) witnesses the deaths of two friends, she knows there is more at work than just a tragic coincidence; days before they die, both victims hear their terrifying final moments on cell phones. Though the police think Beth is crazy, detective Jack Andrews (Ed Burns), believes her. Together the pair try to unravel the mystery behind the horrifying messages before their own phone numbers come up.",
       "tagline": "",
@@ -4697,11 +4697,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/One-Missed-Call/130908?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0BZX466J9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T04:42:56.770372Z"
+      "scraped_at": "2026-11-07T06:12:03.066686Z"
     },
     {
       "id": "people_under_the_stairs",

@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-06T06:57:35.791334Z",
+  "updated_at": "2026-11-07T06:08:06.739549Z",
   "titles": [
     {
       "id": "10000_km",
@@ -4958,12 +4958,12 @@
       "runtime_minutes": 102,
       "certificate": "PG-13",
       "rating": 3.6,
-      "votes": 37142,
-      "tomatometer": 9,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 121,
       "tomatometer_certified": false,
-      "audience_score": 53,
-      "audience_count": 22342,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Mild-mannered Norbit (Eddie Murphy) has always had it rough, since the day he was left abandoned at a combination Chinese restaurant and orphanage. Recently forced to marry the shrewish glutton Rasputia, he is at wit's end. Then his childhood sweetheart, Kate (Thandie Newton), moves back to town, and he tries to figure out a way back to his true love.",
       "tagline": "",
@@ -5066,11 +5066,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Norbit/128713?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-23T21:32:00.713059Z"
+      "scraped_at": "2026-11-07T06:07:07.967435Z"
     },
     {
       "id": "other_sister",
