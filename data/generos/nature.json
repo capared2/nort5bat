@@ -190,28 +190,6 @@
       ]
     },
     {
-      "id": "queer_planet",
-      "category": "lgbtq",
-      "type": "movie",
-      "title": "Queer Planet",
-      "original_title": "Queer Planet",
-      "year": 2023,
-      "genres": [
-        "Documentary",
-        "Nature",
-        "LGBTQ+"
-      ],
-      "rating": 8.0,
-      "votes": 36,
-      "tomatometer": 100,
-      "audience_score": 53,
-      "runtime_minutes": 90,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/SQwCovx22ygFsTAcgF67wDxmdUU=/300x450/v2/https://resizing.flixster.com/rKi0zU40l5gXFUNuI8aMUiNvUFY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1YzQ2YmY3LTZjODQtNDI2Ny04ZDY2LTk2NzEwOTJiOWI3OC5qcGc=",
-      "plot": "Take a worldwide journey exploring the rich diversity of animal sexuality -- from flamboyant flamingos to pansexual primates, sex-changing clownfish, multi-gendered mushrooms and everything in…",
-      "directors": []
-    },
-    {
       "id": "escape_from_extinction",
       "category": "nature",
       "type": "movie",
@@ -255,31 +233,6 @@
       "plot": "The film chronicles the Wisconsin-based Bad River Band and the Band's ongoing fight for sovereignty, which unfolds in a groundbreaking way through a series of shocking revelations, devastating…",
       "directors": [
         "Mary Mazzio"
-      ]
-    },
-    {
-      "id": "polar_bear",
-      "category": "kids-family",
-      "type": "movie",
-      "title": "Polar Bear",
-      "original_title": "Polar Bear",
-      "year": 2022,
-      "genres": [
-        "Documentary",
-        "Kids & Family",
-        "Nature"
-      ],
-      "rating": 5.8,
-      "votes": 20,
-      "tomatometer": 72,
-      "audience_score": 65,
-      "runtime_minutes": 84,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/rte0VLoWeF-C2IFcCEUanFV55u4=/300x450/v2/https://resizing.flixster.com/FxGPWJJ1EdEvNa-A4C8tDuRhJCc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhOTFmZDNlLTIzMzgtNGRhNy1hOGI5LTFmZGYwZDM0MGZkNy5qcGc=",
-      "plot": "Disneynature's \"Polar Bear\" tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.",
-      "directors": [
-        "Alastair Fothergill",
-        "Jeff Wilson"
       ]
     },
     {
@@ -470,6 +423,28 @@
       ]
     },
     {
+      "id": "queer_planet",
+      "category": "lgbtq",
+      "type": "movie",
+      "title": "Queer Planet",
+      "original_title": "Queer Planet",
+      "year": 2023,
+      "genres": [
+        "Documentary",
+        "Nature",
+        "LGBTQ+"
+      ],
+      "rating": 8.0,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 90,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/SQwCovx22ygFsTAcgF67wDxmdUU=/300x450/v2/https://resizing.flixster.com/rKi0zU40l5gXFUNuI8aMUiNvUFY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1YzQ2YmY3LTZjODQtNDI2Ny04ZDY2LTk2NzEwOTJiOWI3OC5qcGc=",
+      "plot": "Take a worldwide journey exploring the rich diversity of animal sexuality -- from flamboyant flamingos to pansexual primates, sex-changing clownfish, multi-gendered mushrooms and everything in…",
+      "directors": []
+    },
+    {
       "id": "nocturnes",
       "category": "nature",
       "type": "movie",
@@ -515,6 +490,31 @@
       "directors": [
         "Gabriela Osio Vanden",
         "Jack Weisman"
+      ]
+    },
+    {
+      "id": "polar_bear",
+      "category": "kids-family",
+      "type": "movie",
+      "title": "Polar Bear",
+      "original_title": "Polar Bear",
+      "year": 2022,
+      "genres": [
+        "Documentary",
+        "Kids & Family",
+        "Nature"
+      ],
+      "rating": 5.8,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 84,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/rte0VLoWeF-C2IFcCEUanFV55u4=/300x450/v2/https://resizing.flixster.com/FxGPWJJ1EdEvNa-A4C8tDuRhJCc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhOTFmZDNlLTIzMzgtNGRhNy1hOGI5LTFmZGYwZDM0MGZkNy5qcGc=",
+      "plot": "Disneynature's \"Polar Bear\" tells the story of a new mother whose memories of her own youth prepare her to navigate motherhood in the increasingly challenging world that polar bears face today.",
+      "directors": [
+        "Alastair Fothergill",
+        "Jeff Wilson"
       ]
     }
   ]

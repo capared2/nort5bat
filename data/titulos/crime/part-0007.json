@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-07T13:15:22.251863Z",
+  "updated_at": "2026-11-07T22:00:57.949531Z",
   "titles": [
     {
       "id": "1010249-hustle",
@@ -4261,12 +4261,12 @@
       "runtime_minutes": 153,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 50379,
-      "tomatometer": 81,
-      "tomatometer_count": 250,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 249,
       "tomatometer_certified": true,
-      "audience_score": 87,
-      "audience_count": 5970,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Keller Dover (Hugh Jackman) faces a parent's worst nightmare when his 6-year-old daughter, Anna, and her friend go missing. The only lead is an old motorhome that had been parked on their street. The head of the investigation, Detective Loki (Jake Gyllenhaal), arrests the driver (Paul Dano), but a lack of evidence forces Loki to release his only suspect. Dover, knowing that his daughter's life is at stake, decides that he has no choice but to take matters into his own hands.",
       "tagline": "",
@@ -4363,11 +4363,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Prisoners/470631?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/prisoners/umc.cmc.7fxny3aaxgkm020pguu5gmxaw?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T11:13:58.151150Z"
+      "scraped_at": "2026-11-07T22:00:08.152273Z"
     },
     {
       "id": "revolver2005",

@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-07T13:13:21.699896Z",
+  "updated_at": "2026-11-07T22:00:57.231656Z",
   "titles": [
     {
       "id": "1007141-fatal_attraction",
@@ -4110,12 +4110,12 @@
       "runtime_minutes": 96,
       "certificate": "PG-13",
       "rating": 4.0,
-      "votes": 36353,
-      "tomatometer": 8,
-      "tomatometer_count": 160,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 158,
       "tomatometer_certified": false,
-      "audience_score": 50,
-      "audience_count": 22824,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Linda Hanson (Sandra Bullock) has an idyllic life, until one day she receives word that her husband (Julian McMahon) has died in an auto accident. However, when Linda wakes up the next morning and finds Jim beside her, she assumes she has just had an unusually vivid dream. Soon she finds out that what she experienced was not a dream, and she must battle time and destiny to save her family.",
       "tagline": "",
@@ -4212,11 +4212,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Premonition/570221?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0F2JJ4WDS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T11:12:51.080830Z"
+      "scraped_at": "2026-11-07T21:59:03.685848Z"
     },
     {
       "id": "safe_2011",

@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-07T13:13:21.264222Z",
+  "updated_at": "2026-11-07T22:02:58.793914Z",
   "titles": [
     {
       "id": "1004743-corrupt",
@@ -4310,12 +4310,12 @@
       "runtime_minutes": 167,
       "certificate": "R",
       "rating": 7.5,
-      "votes": 439,
-      "tomatometer": 93,
-      "tomatometer_count": 28,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 27,
       "tomatometer_certified": false,
-      "audience_score": 81,
-      "audience_count": 127,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "New York police officer Daniel Ciello (Treat Williams) is not a perfect cop. When Rick Cappalino (Norman Parker) from the U.S. Justice Department approaches him with a personal request to investigate police corruption, Ciello agrees -- provided he is not forced to turn in his fellow crooked cops. But as he delves deeper into the underbelly of drug crime, he realizes that it may be impossible to keep his promises. He will have to bring his friends down, or he'll end up going down himself.",
       "tagline": "",
@@ -4396,7 +4396,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T11:13:39.993191Z"
+      "scraped_at": "2026-11-07T21:59:51.635084Z"
     },
     {
       "id": "queenpins",
@@ -4415,12 +4415,12 @@
       "runtime_minutes": 110,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 33,
-      "tomatometer": 48,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 60,
       "tomatometer_certified": false,
-      "audience_score": 82,
-      "audience_count": 15,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Inspired by a true story, QUEENPINS is an outrageous comedy about a bored and frustrated suburban homemaker, Connie (Kristen Bell) and her best pal JoJo (Kirby Howell-Baptiste), a vlogger with dreams, who turn a hobby into a multi-million dollar counterfeit coupon caper. After firing off a letter to the conglomerate behind a box of cereal gone stale, and receiving an apology along with dozens of freebies, the duo hatch an illegal coupon club scheme that scams millions from mega-corporations and delivers deals to legions of fellow coupon clippers. On the trail to total coupon dominance, a hapless Loss Prevention Officer (Paul Walter Hauser) from the local supermarket chain joins forces with a determined U.S. Postal Inspector (Vince Vaughn) in hot pursuit of these newly-minted \"Queenpins\" of pink collar crime.",
       "tagline": "",
@@ -4517,10 +4517,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B2JZRKCZ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:00:50.670646Z"
+      "scraped_at": "2026-11-07T22:02:47.693308Z"
     },
     {
       "id": "red_rooms",

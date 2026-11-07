@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 59,
   "count": 41,
-  "updated_at": "2026-11-06T06:59:36.303948Z",
+  "updated_at": "2026-11-07T22:02:58.000476Z",
   "titles": [
     {
       "id": "10007169-pied_piper",
@@ -2904,12 +2904,12 @@
       "runtime_minutes": 164,
       "certificate": "R",
       "rating": 8.8,
-      "votes": 4,
-      "tomatometer": 100,
-      "tomatometer_count": 56,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 95,
       "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 1,
+      "audience_count": null,
       "metascore": null,
       "plot": "A story of two married couples -- a laid-off worker and his spouse and a documentary filmmaker and her spouse -- crossing paths to film a documentary and facing their different lives and hidden desires.",
       "tagline": "",
@@ -2929,6 +2929,10 @@
         },
         {
           "url": "https://resizing.flixster.com/EPVZyjQxGlATpib76XxaTMCd_6U=/fit-in/705x460/v2/https://resizing.flixster.com/kQPKzpDcOF5LvdDjMYuYtMQ2H-M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhjY2M1N2E0LTVkYzgtNGUyNy04MDU3LWMyOGQzOWNkYTk1MC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/XOeZpJIiNg80sp5AftV93YUUdnk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33825681_v_v8_ad.jpg",
           "caption": ""
         },
         {
@@ -2968,8 +2972,8 @@
           "image": "https://resizing.flixster.com/KouwMVABj8UUzuT194DFi0-Lia8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002R9WVJ.jpg"
         },
         {
-          "id": "jo_in_sung",
-          "name": "Jo In-sung",
+          "id": "zo_in_sung",
+          "name": "Zo In-sung",
           "character": "",
           "image": "https://resizing.flixster.com/MWBxhFvHGqLRsNpBBcpywmaNDjc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG003BKFRG.jpg"
         },
@@ -2992,10 +2996,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/title/82106490?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T11:12:01.923829Z"
+      "scraped_at": "2026-11-07T21:58:12.880158Z"
     },
     {
       "id": "queen_at_sea",
@@ -3007,18 +3016,18 @@
       "genres": [
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 121,
-      "certificate": "In Theaters Oct 30",
-      "rating": 8.7,
+      "certificate": "Now Playing",
+      "rating": 8.6,
       "votes": null,
-      "tomatometer": 94,
-      "tomatometer_count": 35,
-      "tomatometer_certified": false,
+      "tomatometer": null,
+      "tomatometer_count": 51,
+      "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Amanda and her stepfather Martin struggle with a moral issue that divides them. Has Amanda's mother Leslie, who has dementia, lost the ability to make critical decisions in her own best interests? And, if so, who is responsible -- a spouse, a child, an institution -- for making such a determination? As Amanda and Martin are forced to make increasingly difficult choices, the repercussions spiral out of their control. Academy Award winner Juliette Binoche (The Taste of Things), Academy Award nominee Tom Courtenay (45 Years), Anna Calder-Marshall (Wuthering Heights), and Florence Hunt (Bridgerton) star in this unflinching drama. The film won the Silver Bear Jury Prize and Tom Courtenay and Anna Calder-Marshall won the Silver Bear for Best Supporting Performance at the 2026 Berlin International Film Festival.",
       "tagline": "",
@@ -3117,10 +3126,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Queen-at-Sea/5287829?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:00:30.378052Z"
+      "scraped_at": "2026-11-07T22:02:27.392977Z"
     },
     {
       "id": "sight_and_sound_presents_joshua_live",

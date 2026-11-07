@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-07T13:13:22.217212Z",
+  "updated_at": "2026-11-07T22:03:19.315962Z",
   "titles": [
     {
       "id": "1003033-brazil",
@@ -5452,12 +5452,12 @@
       "runtime_minutes": 91,
       "certificate": "PG",
       "rating": 4.4,
-      "votes": 14234,
-      "tomatometer": 23,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 108,
       "tomatometer_certified": false,
-      "audience_score": 40,
-      "audience_count": 3747,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When astronaut Capt. Charles \"Chuck\" Baker lands on Planet 51, he thinks he is the first life form to set foot there. He gets the surprise of his life when he learns that it is inhabited by little green people who live in an idyllic version of 1950s America -- complete with a universal fear of alien invasion.",
       "tagline": "",
@@ -5533,7 +5533,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T11:10:15.472257Z"
+      "scraped_at": "2026-11-07T21:56:25.698293Z"
     },
     {
       "id": "quiet_earth",
@@ -5551,12 +5551,12 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 7.2,
-      "votes": 1226,
-      "tomatometer": 75,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 16,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 445,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When everyone around him vanishes overnight, scientist Zac Hobson (Bruno Lawrence) finds himself seemingly the only person on the planet. The isolation initially drives him to the brink of suicide, but eventually Zac adapts to a day-to-day routine. After meeting two other survivors, Joanne (Alison Routledge) and Api (Peter Smith), a Maori, the trio roams New Zealand trying to understand what caused everyone else to disappear, why they remained behind -- and whether disaster will strike again.",
       "tagline": "",
@@ -5637,11 +5637,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Quiet-Earth/61257?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B09QGV1W6H/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:01:05.098001Z"
+      "scraped_at": "2026-11-07T22:03:02.146664Z"
     },
     {
       "id": "radio_free_albemuth_2011",

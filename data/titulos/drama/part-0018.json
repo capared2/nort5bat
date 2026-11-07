@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-11-07T13:15:23.065028Z",
+  "updated_at": "2026-11-07T22:02:57.969434Z",
   "titles": [
     {
       "id": "10002635-bridge_of_san_luis_rey",
@@ -4459,12 +4459,12 @@
       "runtime_minutes": 87,
       "certificate": null,
       "rating": 7.7,
-      "votes": 84,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 29,
       "tomatometer_certified": false,
-      "audience_score": 73,
-      "audience_count": 7,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A deaf-blind poet and his devoted wife share a rich life together and communicate with a touch-based form of Braille.",
       "tagline": "",
@@ -4529,7 +4529,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T11:10:16.003654Z"
+      "scraped_at": "2026-11-07T21:56:26.516416Z"
     },
     {
       "id": "purdah",
@@ -4548,12 +4548,12 @@
       "runtime_minutes": 71,
       "certificate": null,
       "rating": 7.5,
-      "votes": 99,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 100,
-      "audience_count": 80,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An Indian Muslim woman causes controversy at home when she trades her burqa for a cricket uniform.",
       "tagline": "",
@@ -4633,7 +4633,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T11:15:34.814690Z"
+      "scraped_at": "2026-11-07T22:01:45.636473Z"
     },
     {
       "id": "quartet_1981",
@@ -4651,12 +4651,12 @@
       "runtime_minutes": 101,
       "certificate": "R",
       "rating": 5.0,
-      "votes": 73,
-      "tomatometer": 47,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 17,
       "tomatometer_certified": false,
-      "audience_score": 34,
-      "audience_count": 24,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Marya (Isabelle Adjani), a former chorus girl of humble origins, is gleefully living it up in the decadence of 1920s Paris until Stephan (Anthony Higgins), her art dealer husband, is convicted of theft. Broke and alone, she is taken in by H.J. (Alan Bates) and Lois Heidler (Maggie Smith), a posh and eccentric married couple who take pity on the poor girl, though they barely know her. But before long this trio will become hopelessly entangled in a treacherous love triangle.",
       "tagline": "",
@@ -4745,11 +4745,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Quartet/38384?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GMDM652R/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:00:27.784538Z"
+      "scraped_at": "2026-11-07T22:02:24.593149Z"
     },
     {
       "id": "rko_281",
