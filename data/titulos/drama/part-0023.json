@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 23,
   "count": 60,
-  "updated_at": "2026-11-08T06:14:14.578046Z",
+  "updated_at": "2026-11-08T13:32:15.479336Z",
   "titles": [
     {
       "id": "1046045-king_of_the_hill",
@@ -5040,12 +5040,12 @@
       "runtime_minutes": 104,
       "certificate": "PG-13",
       "rating": 4.4,
-      "votes": 13833,
-      "tomatometer": 31,
-      "tomatometer_count": 39,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 40,
       "tomatometer_certified": false,
-      "audience_score": 31,
-      "audience_count": 6236,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Recently retired boxer Rocky Balboa (Sylvester Stallone) falls on hard times after his accountant mismanages his finances. He stages a comeback of sorts by mentoring fiery young boxer Tommy (Tommy Morrison), while also trying to mend his shaky relationship with his own son, Robert (Sage Stallone). These challenges prove to be at least as tough as any fight Rocky has faced in the ring. He wonders if he will be able to meet them and raise his arms in victory again.",
       "tagline": "",
@@ -5150,11 +5150,15 @@
         {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/rocky-v--1054035?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:55:10.104415Z"
+      "scraped_at": "2026-11-08T13:30:18.451516Z"
     },
     {
       "id": "spare_parts_2015",

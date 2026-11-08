@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-08T06:16:15.835684Z",
+  "updated_at": "2026-11-08T13:36:19.107123Z",
   "titles": [
     {
       "id": "10012068-repo_men",
@@ -4795,12 +4795,12 @@
       "runtime_minutes": 101,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 9177,
-      "tomatometer": 59,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 128,
       "tomatometer_certified": false,
-      "audience_score": 61,
-      "audience_count": 3080,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In the year 2019, America is a totalitarian state where the favorite television program is \"The Running Man\" -- a game show in which prisoners must run to freedom to avoid a brutal death. Having been made a scapegoat by the government, an imprisoned Ben Richards (Arnold Schwarzenegger) has the opportunity to make it back to the outside again by being a contestant on the deadly show, although the twisted host, Damon Killian (Richard Dawson), has no intention of letting him escape.",
       "tagline": "",
@@ -4907,11 +4907,15 @@
         {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/the-running-man--1053648?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:57:29.529028Z"
+      "scraped_at": "2026-11-08T13:32:39.115827Z"
     },
     {
       "id": "save_yourselves",
@@ -4930,12 +4934,12 @@
       "runtime_minutes": 93,
       "certificate": "R",
       "rating": 6.7,
-      "votes": 30,
-      "tomatometer": 89,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 91,
       "tomatometer_certified": true,
-      "audience_score": 60,
-      "audience_count": 18,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A young Brooklyn couple head to an upstate cabin to unplug from their phones and reconnect with each other. Blissfully unaware of their surroundings, they are left to their own devices as the planet falls under attack.",
       "tagline": "",
@@ -5044,7 +5048,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T21:00:01.876266Z"
+      "scraped_at": "2026-11-08T13:35:10.639349Z"
     },
     {
       "id": "signs",

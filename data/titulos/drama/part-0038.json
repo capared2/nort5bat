@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 38,
   "count": 60,
-  "updated_at": "2026-11-08T06:10:12.978328Z",
+  "updated_at": "2026-11-08T13:32:15.517668Z",
   "titles": [
     {
       "id": "1018318-scarecrow",
@@ -4527,12 +4527,12 @@
       "runtime_minutes": 117,
       "certificate": null,
       "rating": null,
-      "votes": 2,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A Beijing mother and daughter are aspiring writers who live with each other. Their close relationship becomes even more antagonistic when they hit a low emotional point at the same time.",
       "tagline": "",
@@ -4587,7 +4587,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:56:29.848268Z"
+      "scraped_at": "2026-11-08T13:31:37.689011Z"
     },
     {
       "id": "rules_of_engagement",
@@ -4604,13 +4604,13 @@
       "release_date": null,
       "runtime_minutes": 128,
       "certificate": "R",
-      "rating": 5.4,
-      "votes": 2996,
-      "tomatometer": 36,
-      "tomatometer_count": 97,
+      "rating": 5.5,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 89,
       "tomatometer_certified": false,
-      "audience_score": 55,
-      "audience_count": 662,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Col. Terry Childers (Samuel L. Jackson) is a 30-year Marine veteran: a decorated officer with combat experience in Vietnam, Beirut and Desert Storm -- a patriot, a hero. But now, the country he served so well has put him on trial for a rescue mission that went terribly wrong. For his attorney, he has chosen Marine Col. Hays Hodges (Tommy Lee Jones), a comrade-in-arms who owes his life to Childers.",
       "tagline": "",
@@ -4707,11 +4707,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Rules-of-Engagement/16735?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:56:59.761822Z"
+      "scraped_at": "2026-11-08T13:32:07.633793Z"
     },
     {
       "id": "spike_island",

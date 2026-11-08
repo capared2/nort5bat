@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 52,
   "count": 60,
-  "updated_at": "2026-11-07T21:58:55.798116Z",
+  "updated_at": "2026-11-08T13:32:16.199871Z",
   "titles": [
     {
       "id": "1046772-three_musketeers",
@@ -5403,12 +5403,12 @@
       "runtime_minutes": 143,
       "certificate": null,
       "rating": 4.6,
-      "votes": 397,
-      "tomatometer": 53,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 17,
       "tomatometer_certified": false,
-      "audience_score": 55,
-      "audience_count": 93,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A con man (Akshay Kumar) must contend with a child who thinks he's her father while trying to save a village from a ruthless politician.",
       "tagline": "",
@@ -5501,10 +5501,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/rowdy-rathore/umc.cmc.6p5w80bljd55av4vzvrfd0h9o?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:56:34.987660Z"
+      "scraped_at": "2026-11-08T13:31:42.966887Z"
     },
     {
       "id": "snake_in_the_eagles_shadow",

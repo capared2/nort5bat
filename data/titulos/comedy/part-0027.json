@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-11-08T06:12:13.692492Z",
+  "updated_at": "2026-11-08T13:36:18.121177Z",
   "titles": [
     {
       "id": "1077642-nothing_to_lose",
@@ -5388,12 +5388,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 7.5,
-      "votes": 1630,
-      "tomatometer": 88,
-      "tomatometer_count": 121,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 117,
       "tomatometer_certified": true,
-      "audience_score": 76,
-      "audience_count": 455,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Madison Avenue ad executive Roger (Campbell Scott) attributes his remarkable success with women to his ability to manipulate their emotions from the moment he first meets them, although his confidence is shaken when his boss, Joyce (Isabella Rossellini), unilaterally decides to end their secret workplace affair. When his teenage nephew, Nick (Jesse Eisenberg), drops in for a visit, Roger tries to show him how to pick up women, but soon learns that his approach isn't as foolproof as he thought.",
       "tagline": "",
@@ -5490,11 +5490,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Roger-Dodger/7336?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/23858?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:55:18.329467Z"
+      "scraped_at": "2026-11-08T13:30:26.625829Z"
     },
     {
       "id": "schemers_2019",
@@ -5513,12 +5517,12 @@
       "runtime_minutes": 91,
       "certificate": null,
       "rating": 4.8,
-      "votes": 1,
-      "tomatometer": 43,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Based on the true story of legendary music promoter Dave McLean (Placebo, Green Day, Nirvana) who, as a young man growing up in Dundee, surprised all when he managed to coax international superstars Iron Maiden to play in their small town. He became one of the country's top music promoters. Experience one boy's climb from disco organizer to Scottish entertainment kingpin.",
       "tagline": "",
@@ -5613,7 +5617,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T21:00:50.501040Z"
+      "scraped_at": "2026-11-08T13:35:59.629846Z"
     },
     {
       "id": "short_cuts",

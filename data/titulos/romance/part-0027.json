@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 27,
   "count": 20,
-  "updated_at": "2026-11-08T06:14:14.912061Z",
+  "updated_at": "2026-11-08T13:38:21.191394Z",
   "titles": [
     {
       "id": "a_woman_of_paris_a_drama_of_fate",
@@ -1455,12 +1455,12 @@
       "runtime_minutes": 117,
       "certificate": null,
       "rating": 7.8,
-      "votes": 172,
-      "tomatometer": 67,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 73,
-      "audience_count": 66,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Based on a play by Tennessee Williams, this classic drama centers on Serafina, a widowed Sicilian woman living in the American South who is left devastated by the death of her husband. Grief turns her into a recluse; however, she is drawn back into the world when she learns of her late husband's infidelities. Meanwhile, the arrival of a new lodger, handsome truck driver Alvaro, offers hope of a new love in her life.",
       "tagline": "",
@@ -1541,7 +1541,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:56:17.822584Z"
+      "scraped_at": "2026-11-08T13:31:25.819932Z"
     },
     {
       "id": "sense_and_sensibility_2026",
@@ -1560,12 +1560,12 @@
       "runtime_minutes": 132,
       "certificate": "PG",
       "rating": 7.1,
-      "votes": 627,
-      "tomatometer": 76,
-      "tomatometer_count": 116,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 139,
       "tomatometer_certified": true,
-      "audience_score": 88,
-      "audience_count": 172,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "From Focus Features and Working Title comes an irresistible new take on Jane Austen's iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esmé Creed-Miles.",
       "tagline": "",
@@ -1664,10 +1664,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Sense-and-Sensibility/5276236?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:48:18.652050Z"
+      "scraped_at": "2026-11-08T13:38:11.737461Z"
     },
     {
       "id": "sheik",

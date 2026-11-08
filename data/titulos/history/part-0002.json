@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-08T06:14:15.115168Z",
+  "updated_at": "2026-11-08T13:38:21.005849Z",
   "titles": [
     {
       "id": "1011329-julius_caesar",
@@ -4278,12 +4278,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 6.4,
-      "votes": 11,
-      "tomatometer": 76,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 45,
       "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 3,
+      "audience_count": null,
       "metascore": null,
       "plot": "One of the most influential Black women in technology is a figment of our collective imagination. Mavis Beacon was invented by the Co-Founder of MySpace to sell the world's most popular typing software, but the real woman she was modeled after disappeared in 1995. Seeking Mavis Beacon poses critical questions regarding anthropomorphization and the consumption of marginalized bodies in the tech industry, while reimagining the legacy of a missing historical figure.",
       "tagline": "",
@@ -4380,7 +4380,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:47:55.947550Z"
+      "scraped_at": "2026-11-08T13:37:48.797413Z"
     },
     {
       "id": "selma",
@@ -4399,12 +4399,12 @@
       "runtime_minutes": 128,
       "certificate": "PG-13",
       "rating": 8.6,
-      "votes": 19838,
-      "tomatometer": 99,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 307,
       "tomatometer_certified": true,
-      "audience_score": 86,
-      "audience_count": 2315,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Although the Civil Rights Act of 1964 legally desegregated the South, discrimination was still rampant in certain areas, making it very difficult for Blacks to register to vote. In 1965, an Alabama city became the battleground in the fight for suffrage. Despite violent opposition, Dr. Martin Luther King Jr. (David Oyelowo) and his followers pressed forward on an epic march from Selma to Montgomery, and their efforts culminated with President Lyndon Johnson signing the Voting Rights Act of 1965.",
       "tagline": "",
@@ -4511,11 +4511,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/80013278?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:48:06.587507Z"
+      "scraped_at": "2026-11-08T13:38:00.092230Z"
     },
     {
       "id": "six_days_in_august",
