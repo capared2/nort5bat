@@ -711,31 +711,6 @@
       ]
     },
     {
-      "id": "red_one",
-      "category": "comedy",
-      "type": "movie",
-      "title": "Red One",
-      "original_title": "Red One",
-      "year": 2024,
-      "genres": [
-        "Holiday",
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
-      "rating": 4.5,
-      "votes": 5833,
-      "tomatometer": 29,
-      "audience_score": 89,
-      "runtime_minutes": 122,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/MS9A32ouQgqSN93KHIQjhfwr5yA=/300x450/v2/https://resizing.flixster.com/ukJO5gxsPMKM-M-_A1BB5IWhGHM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU2NjNhNGE3LTY3YjItNDdlYi05NmFjLTMxYTMwMTBiZjdhOS5qcGc=",
-      "plot": "After Santa Claus -- Code Name: RED ONE -- is kidnapped, the North Pole's Head of Security (Dwayne Johnson) must team up with the world's most infamous bounty hunter (Chris Evans) in a…",
-      "directors": [
-        "Jake Kasdan"
-      ]
-    },
-    {
       "id": "halloween_iii_season_of_the_witch",
       "category": "horror",
       "type": "movie",
@@ -2094,34 +2069,6 @@
       ]
     },
     {
-      "id": "robin_robin",
-      "category": "musical",
-      "type": "movie",
-      "title": "Robin Robin",
-      "original_title": "Robin Robin",
-      "year": 2021,
-      "genres": [
-        "Kids & Family",
-        "Holiday",
-        "Comedy",
-        "Adventure",
-        "Animation",
-        "Musical"
-      ],
-      "rating": 7.6,
-      "votes": 112,
-      "tomatometer": 100,
-      "audience_score": 81,
-      "runtime_minutes": 32,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/pJ-4x7CspfvpjsfBBUvFF5RulO0=/300x450/v2/https://resizing.flixster.com/rrTT8In6ESfTcGl9LJAo9d1TGsU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZhODBlNDAyLWUzNGMtNDJlYS1iYzk1LTY0ZTEzNDViMjQwYS5qcGc=",
-      "plot": "When her egg fortuitously rolls into a rubbish dump, Robin is raised by a loving family of mice. As she grows up, her differences become more apparent. Robin sets off on the heist to end all heists…",
-      "directors": [
-        "Daniel Ojari",
-        "Michael Please"
-      ]
-    },
-    {
       "id": "trick_r_treat",
       "category": "horror",
       "type": "movie",
@@ -2191,30 +2138,6 @@
       "plot": "On a starry night, Jack and Jill separately meet a fortune teller who predicts they will meet the love of their life before the end of the year, which happens to be only five days away. The countdown…",
       "directors": [
         "Tom Malloy"
-      ]
-    },
-    {
-      "id": "red_christmas",
-      "category": "horror",
-      "type": "movie",
-      "title": "Red Christmas",
-      "original_title": "Red Christmas",
-      "year": 2017,
-      "genres": [
-        "Holiday",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": 5.4,
-      "votes": 59,
-      "tomatometer": 48,
-      "audience_score": 17,
-      "runtime_minutes": 82,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/0CxPOcrC3LgbOH14ypbOFOb_t4A=/300x450/v2/https://resizing.flixster.com/tQtTNeQO3L82tm_yF2MSYLgyDrc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5NGNmZWQ3LTkzOTMtNDcyNi1iYzRkLWNhM2ZjNGE2NTE0YS53ZWJw",
-      "plot": "A widow and her bickering family gather at her remote estate on Christmas Eve. She must soon protect them all from a hideously deformed killer who's out for bloody revenge.",
-      "directors": [
-        "Craig Anderson"
       ]
     },
     {
@@ -2629,6 +2552,34 @@
       ]
     },
     {
+      "id": "robin_robin",
+      "category": "musical",
+      "type": "movie",
+      "title": "Robin Robin",
+      "original_title": "Robin Robin",
+      "year": 2021,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Comedy",
+        "Adventure",
+        "Animation",
+        "Musical"
+      ],
+      "rating": 7.6,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 32,
+      "certificate": "G",
+      "poster": "https://resizing.flixster.com/pJ-4x7CspfvpjsfBBUvFF5RulO0=/300x450/v2/https://resizing.flixster.com/rrTT8In6ESfTcGl9LJAo9d1TGsU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZhODBlNDAyLWUzNGMtNDJlYS1iYzk1LTY0ZTEzNDViMjQwYS5qcGc=",
+      "plot": "When her egg fortuitously rolls into a rubbish dump, Robin is raised by a loving family of mice. As she grows up, her differences become more apparent. Robin sets off on the heist to end all heists…",
+      "directors": [
+        "Daniel Ojari",
+        "Michael Please"
+      ]
+    },
+    {
       "id": "muppet_christmas_carol",
       "category": "fantasy",
       "type": "movie",
@@ -2821,6 +2772,30 @@
       ]
     },
     {
+      "id": "red_christmas",
+      "category": "horror",
+      "type": "movie",
+      "title": "Red Christmas",
+      "original_title": "Red Christmas",
+      "year": 2017,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": 5.4,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 82,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/0CxPOcrC3LgbOH14ypbOFOb_t4A=/300x450/v2/https://resizing.flixster.com/tQtTNeQO3L82tm_yF2MSYLgyDrc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E5NGNmZWQ3LTkzOTMtNDcyNi1iYzRkLWNhM2ZjNGE2NTE0YS53ZWJw",
+      "plot": "A widow and her bickering family gather at her remote estate on Christmas Eve. She must soon protect them all from a hideously deformed killer who's out for bloody revenge.",
+      "directors": [
+        "Craig Anderson"
+      ]
+    },
+    {
       "id": "last_christmas_2019",
       "category": "romance",
       "type": "movie",
@@ -2990,6 +2965,31 @@
       "plot": "Ginny (Mary Steenburgen) has a difficult time mustering Christmas spirit due to her husband Jack's (Gary Basaraba) unemployment and her humble position as a grocery store clerk. With the holiday fast…",
       "directors": [
         "Phillip Borsos"
+      ]
+    },
+    {
+      "id": "red_one",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Red One",
+      "original_title": "Red One",
+      "year": 2024,
+      "genres": [
+        "Holiday",
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 4.5,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 122,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/MS9A32ouQgqSN93KHIQjhfwr5yA=/300x450/v2/https://resizing.flixster.com/ukJO5gxsPMKM-M-_A1BB5IWhGHM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU2NjNhNGE3LTY3YjItNDdlYi05NmFjLTMxYTMwMTBiZjdhOS5qcGc=",
+      "plot": "After Santa Claus -- Code Name: RED ONE -- is kidnapped, the North Pole's Head of Security (Dwayne Johnson) must team up with the world's most infamous bounty hunter (Chris Evans) in a…",
+      "directors": [
+        "Jake Kasdan"
       ]
     },
     {
@@ -3420,7 +3420,7 @@
       "type": "movie",
       "title": "Ralph's Perfekt Christmas",
       "original_title": "Ralph's Perfekt Christmas",
-      "year": null,
+      "year": 2026,
       "genres": [
         "Holiday",
         "Comedy",
@@ -3431,8 +3431,8 @@
       "tomatometer": null,
       "audience_score": null,
       "runtime_minutes": 119,
-      "certificate": "In Theaters Oct 30",
-      "poster": "https://resizing.flixster.com/0SZK6SbZ0bSKcH26MOcAqChByqA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34288734_p_v12_aa.jpg",
+      "certificate": "Oct 2026",
+      "poster": "https://resizing.flixster.com/uRz4tYveL96quiCkUZZjcvWwB98=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34288734_p_v13_ab.jpg",
       "plot": "To win back his wife, Christmas-obsessed Ralph concocts a crazy plan to kidnap the washed-up child star of his favorite Christmas movie. His scheme goes awry and spirals darkly out of control in an…",
       "directors": [
         "Matthew Bellamy",

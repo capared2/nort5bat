@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 39,
   "count": 60,
-  "updated_at": "2026-11-07T06:12:09.223625Z",
+  "updated_at": "2026-11-08T06:10:13.319643Z",
   "titles": [
     {
       "id": "1001240-arthur",
@@ -4734,12 +4734,12 @@
       "runtime_minutes": 88,
       "certificate": "PG",
       "rating": 8.1,
-      "votes": 2625,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 38,
       "tomatometer_certified": false,
-      "audience_score": 84,
-      "audience_count": 528,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A middle-aged man looks back on his childhood in Rockaway, N.Y., in a series of vignettes focused on the golden days of radio. Joe (Woody Allen), who narrates, is portrayed as a teenager in the film by Seth Green. Eccentric relatives and radio personalities inhabit various stories, including an unlucky aunt (Dianne Wiest), a cigarette girl (Mia Farrow) with career ambitions, and two burglars with excellent timing. Young Joe involves his friends in a scam to earn a decoder ring.",
       "tagline": "",
@@ -4816,11 +4816,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Radio-Days/140639?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H8CXY51B/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:01:41.664412Z"
+      "scraped_at": "2026-11-08T06:08:34.716290Z"
     },
     {
       "id": "rainbow_time",
@@ -4839,12 +4843,12 @@
       "runtime_minutes": 91,
       "certificate": null,
       "rating": 6.6,
-      "votes": 31,
-      "tomatometer": 67,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
-      "audience_score": 45,
-      "audience_count": 6,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Todd grew up under the strange shadow of his older, mentally-challenged brother, Shonzi. As kids, Shonzi forced Todd to make action movies. As adults, Todd is pressured to share love life details, even showing Shonzi a sex tape he made with an old girlfriend to help him cope when family tragedy hits. When their dad suffers a heart attack, Shonzi, now 40, moves in with Todd and his new girlfriend. Shonzi wants desperately to be included in their relationship like old times.",
       "tagline": "",
@@ -4951,7 +4955,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:02:08.821940Z"
+      "scraped_at": "2026-11-08T06:08:59.968940Z"
     },
     {
       "id": "rosencrantz_and_guildenstern_are_dead",

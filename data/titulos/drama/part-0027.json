@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-11-07T13:15:23.113202Z",
+  "updated_at": "2026-11-08T06:16:36.306729Z",
   "titles": [
     {
       "id": "1006416-east_of_eden",
@@ -4880,12 +4880,12 @@
       "runtime_minutes": 155,
       "certificate": "PG",
       "rating": 7.6,
-      "votes": 407,
-      "tomatometer": 85,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 20,
       "tomatometer_certified": false,
-      "audience_score": 77,
-      "audience_count": 122,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A kaleidoscope of tales from E.L. Doctorow's eponymous novel evokes life in pre-World War I New York City. A white family finds a black baby in their yard and takes on the mother as a maid. A black pianist, Coalhouse Walker Jr., returns for his woman and child after finding success in a Harlem jazz band. Firefighters, dismayed to see a black man own a Model-T Ford, deface it, and Walker demands retribution. The white family becomes involved in Evelyn Nesbit's trial.",
       "tagline": "",
@@ -4970,7 +4970,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:01:58.748130Z"
+      "scraped_at": "2026-11-08T06:08:51.614751Z"
     },
     {
       "id": "rocky_balboa",
@@ -4988,12 +4988,12 @@
       "runtime_minutes": 102,
       "certificate": "PG",
       "rating": 6.6,
-      "votes": 37830,
-      "tomatometer": 78,
-      "tomatometer_count": 180,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 179,
       "tomatometer_certified": true,
-      "audience_score": 77,
-      "audience_count": 19481,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Now long-retired, Rocky (Sylvester Stallone) runs a Philadelphia eatery and mourns the loss of his beloved wife, Adrian. Yearning to recapture a bit of his glory days, he plans to re-enter the ring for a few low-profile, local matches. All that changes when Rocky accepts a challenge to fight the world's reigning heavyweight champion, Mason \"the Line\" Dixon (Antonio Tarver).",
       "tagline": "",
@@ -5098,11 +5098,15 @@
         {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/rocky-balboa--1054042?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:55:04.036300Z"
+      "scraped_at": "2026-11-08T06:16:33.719678Z"
     },
     {
       "id": "somewhere_in_montana",

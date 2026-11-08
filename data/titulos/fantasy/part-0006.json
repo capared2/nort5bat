@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-11-07T13:17:24.309292Z",
+  "updated_at": "2026-11-08T06:16:15.773293Z",
   "titles": [
     {
       "id": "10005047-blue_bird",
@@ -5386,12 +5386,12 @@
       "runtime_minutes": 92,
       "certificate": "PG",
       "rating": 4.6,
-      "votes": 182,
-      "tomatometer": 40,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 80,
-      "audience_count": 56,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Princes who have been turned into dwarfs seek a lady's red shoes to break their terrible curse, but it won't be easy.",
       "tagline": "",
@@ -5475,7 +5475,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:04:30.711610Z"
+      "scraped_at": "2026-11-08T06:11:21.207496Z"
     },
     {
       "id": "robin_hood_2010",
@@ -5497,12 +5497,12 @@
       "runtime_minutes": 139,
       "certificate": "PG-13",
       "rating": 5.6,
-      "votes": 90128,
-      "tomatometer": 43,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 248,
       "tomatometer_certified": false,
-      "audience_score": 58,
-      "audience_count": 11431,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After the death of Richard the Lion-Hearted, a skilled archer named Robin Longstride travels to Nottingham, where villagers suffer under a despotic sheriff and crippling taxation. He meets and falls in love with a spirited widow, Marion, although she is skeptical of his motives. Hoping to win her heart and save the village, Robin gathers a band of warriors to fight corruption in Nottingham, little knowing they will soon be fighting to save England itself.",
       "tagline": "",
@@ -5601,13 +5601,17 @@
           "url": "https://athome.fandango.com/content/browse/details/Robin-Hood-Theatrical/176258?cmp=rt_where_to_watch"
         },
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B08DSVPD9D/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "HBO Max",
           "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T20:54:29.998846Z"
+      "scraped_at": "2026-11-08T06:15:58.998921Z"
     },
     {
       "id": "she_is_conann",

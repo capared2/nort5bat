@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 36,
   "count": 19,
-  "updated_at": "2026-11-07T21:58:56.411971Z",
+  "updated_at": "2026-11-08T06:10:12.610240Z",
   "titles": [
     {
       "id": "a_good_hand_wasted",
@@ -1157,34 +1157,34 @@
         "Comedy",
         "Horror"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 119,
-      "certificate": "In Theaters Oct 30",
+      "certificate": "Oct 2026",
       "rating": null,
       "votes": null,
       "tomatometer": null,
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "To win back his wife, Christmas-obsessed Ralph concocts a crazy plan to kidnap the washed-up child star of his favorite Christmas movie. His scheme goes awry and spirals darkly out of control in an outrageous dark comedy with a horror twist that reveals two sides of one very desperate man determined to have his \"Perfekt Christmas,\" no matter what -- even if it lands him on the Naughty List.",
       "tagline": "",
-      "poster": "https://resizing.flixster.com/0SZK6SbZ0bSKcH26MOcAqChByqA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34288734_p_v12_aa.jpg",
+      "poster": "https://resizing.flixster.com/uRz4tYveL96quiCkUZZjcvWwB98=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34288734_p_v13_ab.jpg",
       "images": [
         {
-          "url": "https://resizing.flixster.com/0SZK6SbZ0bSKcH26MOcAqChByqA=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34288734_p_v12_aa.jpg",
+          "url": "https://resizing.flixster.com/uRz4tYveL96quiCkUZZjcvWwB98=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34288734_p_v13_ab.jpg",
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/UALrCnnXh0sAj5FMiKyKYU97zrQ=/620x336/v2/https://resizing.flixster.com/eY61dAwzQc4zpWMx7JTQOze60nQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiMjkwZTBlLTcxOTUtNGIyMi05YWVlLTY2YTliZTVmOTJhNy5qcGc=",
+          "url": "https://resizing.flixster.com/mGfVEQT1693TZGW2Vd8ERMMW2Y0=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/871/467/thumb_2EEFC867-DE1C-409B-86CF-380287C1592C.jpg",
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/rVgqWiMHGNY3TiCc-cR8PzMZbjE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34288734_p_v12_aa.jpg",
-          "caption": "Ralph's Perfekt Christmas (2026)"
+          "url": "https://resizing.flixster.com/BJ2D_PPQpKjW9Hohv9rvfuh_YwQ=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34288734_v_v12_ab.jpg",
+          "caption": ""
         },
         {
           "url": "https://resizing.flixster.com/aJ9o3sbtN9IOuHcXJ5xgSWUZJjM=/fit-in/705x460/v2/https://resizing.flixster.com/eY61dAwzQc4zpWMx7JTQOze60nQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiMjkwZTBlLTcxOTUtNGIyMi05YWVlLTY2YTliZTVmOTJhNy5qcGc=",
@@ -1215,14 +1215,20 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "bQGu7XS67CnX",
+        "title": "Ralph's Perfekt Christmas: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/871/467/thumb_2EEFC867-DE1C-409B-86CF-380287C1592C.jpg",
+        "seconds": 123,
+        "src": "https://link.theplatform.com/s/NGweTC/media/bQGu7XS67CnX?formats=M3U+none"
+      },
       "directors": [
         {
-          "id": "undefined",
+          "id": "matthew_bellamy_2",
           "name": "Matthew Bellamy"
         },
         {
-          "id": "undefined",
+          "id": "mary_mclaren",
           "name": "Mary McLaren"
         },
         {
@@ -1257,10 +1263,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Ralphs-Perfekt-Christmas/5294500?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:02:22.746557Z"
+      "scraped_at": "2026-11-08T06:09:13.445658Z"
     },
     {
       "id": "stiletto_2026",

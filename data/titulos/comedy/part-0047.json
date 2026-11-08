@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 47,
   "count": 60,
-  "updated_at": "2026-11-07T22:02:58.294194Z",
+  "updated_at": "2026-11-08T06:14:14.997103Z",
   "titles": [
     {
       "id": "1012813-love_bug",
@@ -4702,12 +4702,12 @@
       "runtime_minutes": 115,
       "certificate": "G",
       "rating": 6.8,
-      "votes": 2599,
-      "tomatometer": 79,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 24,
       "tomatometer_certified": false,
-      "audience_score": 82,
-      "audience_count": 732,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After he lets a robbery transpire right under his nose, the ever-bumbling Inspector Clouseau is suspended by Chief Inspector Dreyfus. But, when the famed Pink Panther diamond is stolen from the National Museum in Lugash, the Shah requests Clouseau's assistance, and he's reinstated. Clouseau quickly concludes that the thief must be the infamous Phantom, against whom he has a grudge, but the inspector's instincts are, as usual, wrong.",
       "tagline": "",
@@ -4788,11 +4788,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Return-of-the-Pink-Panther/5690?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DP9JCRLW/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:06:41.123607Z"
+      "scraped_at": "2026-11-08T06:13:32.353316Z"
     },
     {
       "id": "reuniting_the_rubins_2011",
@@ -4811,12 +4815,12 @@
       "runtime_minutes": 99,
       "certificate": "PG",
       "rating": 3.5,
-      "votes": 47,
-      "tomatometer": 0,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
-      "audience_score": 38,
-      "audience_count": 12,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An uptight Jewish lawyer (Timothy Spall) tries to please his mother by reuniting his estranged children for a holiday celebration.",
       "tagline": "",
@@ -4917,7 +4921,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-24T16:06:52.949757Z"
+      "scraped_at": "2026-11-08T06:13:44.780894Z"
     },
     {
       "id": "rosalie_blum",
