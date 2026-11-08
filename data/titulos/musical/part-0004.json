@@ -1,8 +1,8 @@
 {
   "genre": "musical",
   "part": 4,
-  "count": 51,
-  "updated_at": "2026-11-08T06:16:36.112237Z",
+  "count": 52,
+  "updated_at": "2026-11-08T22:17:03.784506Z",
   "titles": [
     {
       "id": "1077332-pippi_longstocking",
@@ -4087,12 +4087,12 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 4.2,
-      "votes": 100,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 88,
-      "audience_count": 50,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two Puerto Rican brothers from New York's Spanish Harlem, who are the street's best salsa dancers, are separated after a tragedy, only to reunite years later on opposing sides of gentrification.",
       "tagline": "",
@@ -4194,7 +4194,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:51:31.517466Z"
+      "scraped_at": "2026-11-08T22:13:45.245529Z"
     },
     {
       "id": "shock_treatment",
@@ -4214,12 +4214,12 @@
       "runtime_minutes": 94,
       "certificate": "PG",
       "rating": 5.5,
-      "votes": 1214,
-      "tomatometer": 43,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 62,
-      "audience_count": 646,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Square Brad (Cliff De Young) and Janet (Jessica Harper) are forced to be contestants on a TV game show called \"Marriage Maze.\"",
       "tagline": "",
@@ -4299,7 +4299,77 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:51:47.507378Z"
+      "scraped_at": "2026-11-08T22:14:01.146569Z"
+    },
+    {
+      "id": "sight_and_sound_presents_joshua_live",
+      "url": "https://www.rottentomatoes.com/m/sight_and_sound_presents_joshua_live",
+      "category": "musical",
+      "type": "movie",
+      "title": "Sight & Sound Presents: Joshua Live!",
+      "original_title": "Sight & Sound Presents: Joshua Live!",
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "year": 2026,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 144,
+      "certificate": "Now Playing",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": null,
+      "metascore": null,
+      "plot": "Sight & Sound's brand-new premiere show, JOSHUA, is marching towards movie theaters all across the country! Journey alongside the people of Israel as they navigate their new-found freedom in an unforgiving wilderness. When Joshua is called to replace Moses as their faithful leader, tensions mount in the midst of dwindling supplies and approaching armies. With one last fortified city standing between the Israelites and the Promised Land, unexpected help emerges from behind enemy lines and Joshua's trust in God's plan is put to the ultimate test. Filmed in front of a live audience, this special event invites you to experience one of the most redemptive stories of the Bible come to life like never before! JOSHUA--Live! is coming to movie theaters nationwide beginning October 30.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/Op4jDSJpLVc7gT_YvMAE2OoMjBo=/300x450/v2/https://resizing.flixster.com/gMPz9PpwHoZ20SXvD5h2gbuYcVQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM2YmY4MTY3LWQ2OGMtNGQ1ZS1hOTAyLWYxMmJlNWNiNDEyYS5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/Op4jDSJpLVc7gT_YvMAE2OoMjBo=/300x450/v2/https://resizing.flixster.com/gMPz9PpwHoZ20SXvD5h2gbuYcVQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM2YmY4MTY3LWQ2OGMtNGQ1ZS1hOTAyLWYxMmJlNWNiNDEyYS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/GY6koIyuGu7CzRMT0v8_8i2zkvI=/fit-in/705x460/v2/https://resizing.flixster.com/gMPz9PpwHoZ20SXvD5h2gbuYcVQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM2YmY4MTY3LWQ2OGMtNGQ1ZS1hOTAyLWYxMmJlNWNiNDEyYS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "ryan_miller_5",
+          "name": "Ryan Miller"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "carl_mj_anderson",
+          "name": "Carl MJ Anderson",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "hope_klessig",
+          "name": "Hope Klessig",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-08T22:15:16.756043Z"
     },
     {
       "id": "singing_detective",
@@ -4317,13 +4387,13 @@
       "release_date": null,
       "runtime_minutes": 109,
       "certificate": "R",
-      "rating": 5.4,
-      "votes": 839,
-      "tomatometer": 40,
-      "tomatometer_count": 106,
+      "rating": 5.5,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 101,
       "tomatometer_certified": false,
-      "audience_score": 40,
-      "audience_count": 317,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Hospitalized for a severe skin disease, a bitter writer (Robert Downey Jr.) imagines he is the gumshoe from his novel.",
       "tagline": "",
@@ -4424,7 +4494,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:54:12.380438Z"
+      "scraped_at": "2026-11-08T22:16:26.631963Z"
     },
     {
       "id": "sound_of_music",

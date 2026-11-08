@@ -2,7 +2,7 @@
   "genre": "animation",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-08T06:10:12.765134Z",
+  "updated_at": "2026-11-08T22:19:05.460249Z",
   "titles": [
     {
       "id": "abominable",
@@ -2992,12 +2992,12 @@
       "runtime_minutes": 85,
       "certificate": "PG",
       "rating": 8.0,
-      "votes": 7035,
-      "tomatometer": 99,
-      "tomatometer_count": 171,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 170,
       "tomatometer_certified": true,
-      "audience_score": 81,
-      "audience_count": 908,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "All is well at Mossy Bottom Farm, except for the fact that the animals will do anything to get out of work. So, Shaun the sheep and his scheming friends devise a plan to put their master to sleep. However, the ruse backfires when the poor farmer finds himself transported to the big city, having lost his memory. Now, it's up to Sean, Timmy the lamb, Shirley the ewe and the rest of the gang to travel to the metropolis and get him back, while not landing in even more trouble themselves.",
       "tagline": "",
@@ -3067,11 +3067,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Shaun-the-Sheep-Movie/681126?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CTN4HK79/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:50:35.719583Z"
+      "scraped_at": "2026-11-08T22:12:48.734311Z"
     },
     {
       "id": "sherlock_gnomes",
@@ -3093,12 +3097,12 @@
       "runtime_minutes": 86,
       "certificate": "PG",
       "rating": 4.5,
-      "votes": 741,
-      "tomatometer": 28,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 65,
       "tomatometer_certified": false,
-      "audience_score": 36,
-      "audience_count": 281,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When Gnomeo and Juliet first arrive in London with their friends and family, their biggest concern is getting a new garden ready for spring. When everyone in the garden suddenly goes missing -- there's only one gnome to call -- Sherlock Gnomes. The famous detective and sworn protector of the city shows up with his sidekick Watson to investigate the case. The mystery soon leads the gnomes on a rollicking adventure as they meet all-new ornaments and explore an undiscovered side of London.",
       "tagline": "",
@@ -3174,7 +3178,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:51:11.840431Z"
+      "scraped_at": "2026-11-08T22:13:25.302059Z"
     },
     {
       "id": "smallfoot",
@@ -3195,12 +3199,12 @@
       "runtime_minutes": 96,
       "certificate": "PG",
       "rating": 6.3,
-      "votes": 1680,
-      "tomatometer": 76,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 129,
       "tomatometer_certified": true,
-      "audience_score": 62,
-      "audience_count": 516,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Migo is a friendly Yeti whose world gets turned upside down when he discovers something that he didn't know existed -- a human. He soon faces banishment from his snowy home when the rest of the villagers refuse to believe his fantastic tale. Hoping to prove them wrong, Migo embarks on an epic journey to find the mysterious creature that can put him back in good graces with his simple community.",
       "tagline": "",
@@ -3276,11 +3280,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/80233337?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T11:38:19.145882Z"
+      "scraped_at": "2026-11-08T22:18:43.826059Z"
     },
     {
       "id": "sonic_the_hedgehog_2",

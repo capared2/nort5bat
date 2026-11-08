@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-07T22:03:21.784388Z",
+  "generated_at": "2026-11-08T22:19:28.700153Z",
   "total_titles": 20913,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3520,
+      "titles": 3519,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -243,7 +243,7 @@
         },
         {
           "file": "titulos/drama/part-0059.json",
-          "count": 41
+          "count": 40
         }
       ],
       "tagged": 9397
@@ -1547,7 +1547,7 @@
     {
       "genre": "musical",
       "name": "Musical",
-      "titles": 230,
+      "titles": 231,
       "files": [
         {
           "file": "titulos/musical/part-0001.json",
@@ -1563,10 +1563,10 @@
         },
         {
           "file": "titulos/musical/part-0004.json",
-          "count": 51
+          "count": 52
         }
       ],
-      "tagged": 231
+      "tagged": 232
     },
     {
       "genre": "western",

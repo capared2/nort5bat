@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-08T13:36:17.653874Z",
+  "updated_at": "2026-11-08T22:15:02.239636Z",
   "titles": [
     {
       "id": "1099763-backstage",
@@ -3698,12 +3698,12 @@
       "runtime_minutes": 83,
       "certificate": null,
       "rating": 6.4,
-      "votes": 501,
-      "tomatometer": 47,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
-      "audience_score": 79,
-      "audience_count": 86,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A portrait of the singer-songwriter's life, chronicling the past few years of his rise and journey.",
       "tagline": "",
@@ -3761,7 +3761,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:50:38.205884Z"
+      "scraped_at": "2026-11-08T22:12:51.329342Z"
     },
     {
       "id": "shot_the_psycho_spiritual_mantra_of_rock",
@@ -3780,12 +3780,12 @@
       "runtime_minutes": 95,
       "certificate": null,
       "rating": 7.3,
-      "votes": 22,
-      "tomatometer": 94,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 16,
       "tomatometer_certified": false,
-      "audience_score": 45,
-      "audience_count": 2,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "World-famous rock 'n' roll photographer Mick Rock explores his past and present, from London's glam rock to New York's snarling punk scene.",
       "tagline": "",
@@ -3857,11 +3857,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/SHOT-the-Psycho-Spiritual-Mantra-of-Rock/843011?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FT93D9RT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:52:16.034497Z"
+      "scraped_at": "2026-11-08T22:14:28.873290Z"
     },
     {
       "id": "something_divine",

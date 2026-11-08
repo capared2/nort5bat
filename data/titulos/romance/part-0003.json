@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-08T13:36:17.950714Z",
+  "updated_at": "2026-11-08T22:17:03.348615Z",
   "titles": [
     {
       "id": "1174278-definitely_maybe",
@@ -4943,12 +4943,12 @@
       "runtime_minutes": 106,
       "certificate": "PG-13",
       "rating": 5.8,
-      "votes": 8738,
-      "tomatometer": 46,
-      "tomatometer_count": 155,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 154,
       "tomatometer_certified": false,
-      "audience_score": 57,
-      "audience_count": 4053,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Despite having a great career and a loving family, lawyer John Clark (Richard Gere) is missing something in his life as he meanders listlessly from day to day. On his commute back home one night, Clark notices a stunning woman (Jennifer Lopez) in a dance studio and decides on a whim to join a class for ballroom dancing. While Clark finds a new spark in his life, his wife, Beverly (Susan Sarandon), grows suspicious of his frequent absences, since he decides to keep his dancing a secret.",
       "tagline": "",
@@ -5045,11 +5045,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Shall-We-Dance/45110?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:50:02.382312Z"
+      "scraped_at": "2026-11-08T22:12:14.724356Z"
     },
     {
       "id": "sitting_in_bars_with_cake",
@@ -5068,12 +5072,12 @@
       "runtime_minutes": 120,
       "certificate": "PG-13",
       "rating": 6.6,
-      "votes": 224,
-      "tomatometer": 77,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 43,
       "tomatometer_certified": true,
-      "audience_score": 83,
-      "audience_count": 23,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Corinne convinces her baker best friend, Jane, to commit to a year of baking cakes and bringing them to bars with the goal of meeting people and developing confidence.",
       "tagline": "",
@@ -5180,7 +5184,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:54:39.796242Z"
+      "scraped_at": "2026-11-08T22:16:53.655694Z"
     },
     {
       "id": "social_animals",

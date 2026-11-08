@@ -2,7 +2,7 @@
   "genre": "kids-family",
   "part": 1,
   "count": 41,
-  "updated_at": "2026-11-08T13:34:18.041461Z",
+  "updated_at": "2026-11-08T22:17:04.350501Z",
   "titles": [
     {
       "id": "1009437-heidi",
@@ -4083,13 +4083,13 @@
       "release_date": null,
       "runtime_minutes": 101,
       "certificate": "PG",
-      "rating": 5.4,
-      "votes": 244,
-      "tomatometer": 50,
-      "tomatometer_count": 10,
+      "rating": 5.6,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 70,
-      "audience_count": 66,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A lonely orphan's life is transformed by a woman who teaches him to conquer grief and discover the magic in nature and himself.",
       "tagline": "",
@@ -4184,13 +4184,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/73958?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/a-shine-of-rainbows/umc.cmc.5922w7dpzkm1w5f1zqz4blz4z?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:51:33.776691Z"
+      "scraped_at": "2026-11-08T22:13:47.225439Z"
     },
     {
       "id": "sister_and_sister",
@@ -4208,13 +4212,13 @@
       "release_date": null,
       "runtime_minutes": 80,
       "certificate": null,
-      "rating": 8.0,
+      "rating": null,
       "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 7,
+      "tomatometer": null,
+      "tomatometer_count": null,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Summer vacation. Two sisters, Marina (17) and Luna (14), travel from Costa Rica to Panama to look for their absent father. While dealing with frictions that arise between them, they find space to explore their desires, new friendships, lovers, and skateboarding, on a journey toward emancipation where they discover the joy of the simple act of hanging out. An intimate and tender tale of sisterhood in the urban tropics, with a deep portrayal of colorful teenage life.",
       "tagline": "",
@@ -4306,7 +4310,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T04:54:29.374391Z"
+      "scraped_at": "2026-11-08T22:16:43.126007Z"
     },
     {
       "id": "storm_boy_2019",
