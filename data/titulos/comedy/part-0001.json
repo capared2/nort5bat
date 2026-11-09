@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-09T06:49:39.194025Z",
+  "updated_at": "2026-11-09T22:31:40.078551Z",
   "titles": [
     {
       "id": "30_years_to_life",
@@ -4875,12 +4875,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 4.9,
-      "votes": 415,
-      "tomatometer": 50,
-      "tomatometer_count": 48,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 49,
       "tomatometer_certified": false,
-      "audience_score": 69,
-      "audience_count": 99,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Everyone's favorite cops are back with the third installment of the cult comedy classic from the Broken Lizard crew: SUPER TROOPERS 3. When Farva's wildly over-the-top Indian engagement to Thorny's sister spirals into chaos, the Super Troopers must navigate Thorny's schemes to break up the relationship, while trying to crack a pernicious new drug ring -- all to save the day and maybe the wedding itself.",
       "tagline": "",
@@ -4983,11 +4983,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Super-Troopers-3/5152783?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:32:52.015960Z"
+      "scraped_at": "2026-11-09T22:29:31.697741Z"
     },
     {
       "id": "swap_me_baby",
@@ -5005,12 +5013,12 @@
       "runtime_minutes": 82,
       "certificate": null,
       "rating": 7.8,
-      "votes": 14,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 64,
-      "audience_count": 6,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Lily, an uptight business woman and Philippe, a larger-than-life French mushroom-tripping gigolo, are 8 months pregnant. Their therapist recommends a nature getaway at a remote cabin. Their little weekend trip turns into a hilarious adventure when Philippe stumbles upon a magic box that swaps out their souls. Lily and Philippe are tasked with riddle after riddle, not only to get their own bodies back, but to also get a better understanding of their opposite and what they have to offer as parents.",
       "tagline": "",
@@ -5115,7 +5123,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:34:01.495934Z"
+      "scraped_at": "2026-11-09T22:30:42.047171Z"
     },
     {
       "id": "the_baltimorons",

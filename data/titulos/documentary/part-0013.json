@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-11-08T22:19:04.593410Z",
+  "updated_at": "2026-11-09T22:29:38.343302Z",
   "titles": [
     {
       "id": "1193303-1193303-trumbo",
@@ -4037,12 +4037,12 @@
       "runtime_minutes": 86,
       "certificate": null,
       "rating": 7.8,
-      "votes": 7,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 23,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 2,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 2019, documentary filmmaker Hind Meddab flew to Sudan to film a sit-in protest at the Army headquarters in Khartoum. The people of Sudan were assembling, demanding reform after decades of military dictatorship. There she met a selection of young activists that she would continue to film over the course of 4 years, from the swell of hope and accomplishment following dictator Omar al-Bashir's fall to the oppression of the military crackdown and subsequent civil war, which today, leaves Sudan in ruins. Standing in front of a powerful army, how could the civilian movement find the strength to persist? In conversations, in demonstrations, on walls, it emerges how the Sudanese tradition for poetry becomes a powerful tool for activism. Art, music and poetry bolster every stage of the Sudanese fight for freedom. SUDAN, REMEMBER US bears witness to a lost revolution and within it unearths a tribute to the power of creativity as a tool of survival and resistance.",
       "tagline": "",
@@ -4102,7 +4102,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:31:28.839668Z"
+      "scraped_at": "2026-11-09T22:28:10.153437Z"
     },
     {
       "id": "super_size_me",
@@ -4120,12 +4120,12 @@
       "runtime_minutes": 98,
       "certificate": "PG-13",
       "rating": 7.9,
-      "votes": 20167,
-      "tomatometer": 92,
-      "tomatometer_count": 168,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 162,
       "tomatometer_certified": true,
-      "audience_score": 72,
-      "audience_count": 13218,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Director Morgan Spurlock's social experiment in fast-food gastronomy sees him attempting to subsist uniquely on food from the McDonald's menu for an entire month. In the process his weight balloons, his energy level plummets, and he experiences all sorts of unexpected -- and terrifying -- side effects. He also examines the corporate giant's growing role in the lives of American consumers and explores its methods of indoctrinating young people and its contribution to America's obesity epidemic.",
       "tagline": "",
@@ -4195,11 +4195,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0GX1LFJZM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/super-size-me--1075995?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:32:48.044894Z"
+      "scraped_at": "2026-11-09T22:29:28.516296Z"
     },
     {
       "id": "the_amazing_johnathan_documentary",

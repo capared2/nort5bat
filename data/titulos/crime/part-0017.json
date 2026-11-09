@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-11-09T06:47:39.448012Z",
+  "updated_at": "2026-11-09T22:33:40.417941Z",
   "titles": [
     {
       "id": "1010230-hunter",
@@ -5266,12 +5266,12 @@
       "runtime_minutes": 97,
       "certificate": "R",
       "rating": 6.1,
-      "votes": 184,
-      "tomatometer": 67,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
-      "audience_score": 45,
-      "audience_count": 59,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Jonathan Fisher (Christopher Reeve) is a reporter struggling to keep his job at a magazine. Assigned to write a real-life prostitution exposé, he fails to gain information from his subjects and decides to make up his own story about a pimp. The piece revives his career, but his fictional character turns out to be strangely similar to Fast Black (Morgan Freeman), an actual pimp, who is outraged and demands that Jonathan spill his sources. When the police get involved, matters get even uglier.",
       "tagline": "",
@@ -5344,10 +5344,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0F1553ZXY/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:30:24.611115Z"
+      "scraped_at": "2026-11-09T22:27:04.682844Z"
     },
     {
       "id": "sympathy_for_mr_vengeance_2002",
@@ -5365,13 +5370,13 @@
       "release_date": null,
       "runtime_minutes": 129,
       "certificate": "R",
-      "rating": 6.6,
-      "votes": 7670,
-      "tomatometer": 53,
-      "tomatometer_count": 58,
+      "rating": 6.5,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 56,
       "tomatometer_certified": false,
-      "audience_score": 84,
-      "audience_count": 2278,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Deaf-mute Ryu (Shin Ha-kyun) has just been fired from his job in a Seoul, South Korea, factory, and the timing couldn't be worse. His sister (Im Ji-eun) is suffering from kidney trouble, and she needs a transplant that Ryu himself can't provide. Ryu and his girlfriend (Bae Doona) then kidnap the daughter of wealthy tycoon Park (Song Kang-ho) to raise the money, but an unexpected disaster strikes, and Park launches a bloody quest for revenge that leaves many dead and puts Ryu's life in danger.",
       "tagline": "",
@@ -5464,15 +5469,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "AMC+",
-          "url": "https://www.amcplus.com/movies/sympathy-for-mr-vengeance--1072417?cmp=rt_where_to_watch"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:34:59.333290Z"
+      "scraped_at": "2026-11-09T22:31:41.448780Z"
     },
     {
       "id": "thar",

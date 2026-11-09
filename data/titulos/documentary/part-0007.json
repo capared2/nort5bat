@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-09T06:47:38.732645Z",
+  "updated_at": "2026-11-09T22:31:39.475916Z",
   "titles": [
     {
       "id": "1208128-tyson",
@@ -4369,12 +4369,12 @@
       "runtime_minutes": 84,
       "certificate": "R",
       "rating": 6.6,
-      "votes": 418,
-      "tomatometer": 79,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 78,
       "tomatometer_certified": true,
-      "audience_score": 84,
-      "audience_count": 54,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Actor Michael Douglas, rocker Alice Cooper, chef Emeril Lagasse and others pay tribute to Shep Gordon, the Hollywood insider who spent his life making other people famous.",
       "tagline": "",
@@ -4461,7 +4461,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:33:16.210286Z"
+      "scraped_at": "2026-11-09T22:29:57.669046Z"
     },
     {
       "id": "surfwise",
@@ -4479,12 +4479,12 @@
       "runtime_minutes": 93,
       "certificate": "R",
       "rating": 7.6,
-      "votes": 744,
-      "tomatometer": 98,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 46,
       "tomatometer_certified": true,
-      "audience_score": 66,
-      "audience_count": 209,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Forsaking a traditional home life, Dorian \"Doc\" Paskowitz and his wife raise their large brood in a 24-foot camper and spend their time surfing.",
       "tagline": "",
@@ -4550,11 +4550,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Surfwise/142072?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GXCK1FGL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:33:25.559195Z"
+      "scraped_at": "2026-11-09T22:30:06.398859Z"
     },
     {
       "id": "the_american_dream_and_other_fairy_tales",

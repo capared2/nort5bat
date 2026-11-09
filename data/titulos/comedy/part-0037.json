@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 37,
   "count": 60,
-  "updated_at": "2026-11-09T06:49:59.845774Z",
+  "updated_at": "2026-11-09T22:31:40.257126Z",
   "titles": [
     {
       "id": "1022191-twins",
@@ -5454,12 +5454,12 @@
       "runtime_minutes": 90,
       "certificate": "PG",
       "rating": 6.8,
-      "votes": 3145,
-      "tomatometer": 75,
-      "tomatometer_count": 24,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 23,
       "tomatometer_certified": false,
-      "audience_score": 81,
-      "audience_count": 1407,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In their quest for free beer, bumbling Canadian brothers Bob (Rick Moranis) and Doug McKenzie (Dave Thomas) wind up working at the Elsinore Brewery. The hapless lads uncover a sinister mind-control plot spearheaded by Brewmeister Smith (Max von Sydow) and must stop the scheme, which also involves Uncle Claude (Paul Dooley), a member of the Elsinore family. As Bob and Doug try to prevent Smith from taking over the world, they also manage to drink plenty of their favorite sudsy beverage.",
       "tagline": "",
@@ -5544,11 +5544,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Strange-Brew/9675?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FTFGZRRT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:29:39.717678Z"
+      "scraped_at": "2026-11-09T22:26:19.794873Z"
     },
     {
       "id": "summer_rental",
@@ -5566,12 +5570,12 @@
       "runtime_minutes": 88,
       "certificate": "PG",
       "rating": 4.6,
-      "votes": 1212,
-      "tomatometer": 19,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
-      "audience_score": 52,
-      "audience_count": 355,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After air traffic controller Jack Chester loses a plane (it's covered on his screen by a fly), he's told to take a break. Jack books his family into a plush resort, but it turns out that their lodgings are in a hut by the beach, and that's as good as the vacation gets.",
       "tagline": "",
@@ -5652,7 +5656,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:32:06.287194Z"
+      "scraped_at": "2026-11-09T22:28:45.690024Z"
     },
     {
       "id": "swing_away",
@@ -5671,12 +5675,12 @@
       "runtime_minutes": 98,
       "certificate": "PG",
       "rating": 6.3,
-      "votes": 33,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 79,
-      "audience_count": 18,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Following a meltdown that leads to a suspension, professional golfer Zoe Papadopoulos (Shannon Elizabeth) travels to her grandparents' village in Greece to escape the harsh spotlight of the international sports world. Between baking bread and eating baklava, she meets and mentors a 10-year-old girl who is determined to become the next golf sensation.",
       "tagline": "",
@@ -5783,7 +5787,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:34:43.458817Z"
+      "scraped_at": "2026-11-09T22:31:24.017461Z"
     },
     {
       "id": "the_defective_detectives",
