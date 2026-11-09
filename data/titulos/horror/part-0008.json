@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-08T22:19:04.324368Z",
+  "updated_at": "2026-11-09T06:45:38.737157Z",
   "titles": [
     {
       "id": "1007602-fly",
@@ -5627,12 +5627,12 @@
       "runtime_minutes": 108,
       "certificate": "R",
       "rating": 5.3,
-      "votes": 4032,
-      "tomatometer": 42,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 73,
       "tomatometer_certified": false,
-      "audience_score": 31,
-      "audience_count": 1333,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When government scientist Xavier Fitch (Ben Kingsley) intercepts a space transmission containing the genetic sequence for an alien life form, he uses it to produce \"Sil\" (Natasha Henstridge) -- a gorgeous alien-human hybrid. As Fitch's team grows concerned at her rapid rate of growth, Sil wrecks the laboratory and begins a violent quest for a suitable male human to impregnate her. The U.S. government dispatches top assassin Preston Lennox (Michael Madsen) and a team of experts to stop her.",
       "tagline": "",
@@ -5713,11 +5713,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Species/140332?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CK4DD6NS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T11:42:44.130489Z"
+      "scraped_at": "2026-11-09T06:45:19.679704Z"
     },
     {
       "id": "studio_666_2022",

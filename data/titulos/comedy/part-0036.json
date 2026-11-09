@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 36,
   "count": 60,
-  "updated_at": "2026-11-08T22:19:04.143988Z",
+  "updated_at": "2026-11-09T06:45:38.527539Z",
   "titles": [
     {
       "id": "1007195-feds",
@@ -5124,12 +5124,12 @@
       "runtime_minutes": 93,
       "certificate": "PG-13",
       "rating": 6.0,
-      "votes": 7604,
-      "tomatometer": 55,
-      "tomatometer_count": 40,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 38,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 2836,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Just after a bad breakup, Charlie MacKenzie (Mike Myers) falls for lovely butcher Harriet Michaels (Nancy Travis) and introduces her to his parents. But, as voracious consumers of sensational tabloids, his parents soon come to suspect that Harriet is actually a notorious serial killer -- \"Mrs. X\" -- wanted in connection with a string of bizarre honeymoon killings. Thinking his parents foolish, Charlie proposes to Harriet. But while on his honeymoon with her, he begins to fear they were right.",
       "tagline": "",
@@ -5230,7 +5230,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T11:39:13.253667Z"
+      "scraped_at": "2026-11-09T06:41:49.844196Z"
     },
     {
       "id": "special",
@@ -5249,12 +5249,12 @@
       "runtime_minutes": 82,
       "certificate": "R",
       "rating": 5.9,
-      "votes": 979,
-      "tomatometer": 59,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 34,
       "tomatometer_certified": false,
-      "audience_score": 63,
-      "audience_count": 427,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Les Franken has a boring and undistinguished life as a parking-meter monitor until he decides to participate in an experimental drug study. He experiences some strange side effects which make him think he is developing special powers, a belief that leads him to quit his dead-end job and start a new one -- as a superhero.",
       "tagline": "",
@@ -5349,11 +5349,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Special/142140?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GWMF24SQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T11:42:40.713443Z"
+      "scraped_at": "2026-11-09T06:45:15.762403Z"
     },
     {
       "id": "thats_the_way_i_like_it",

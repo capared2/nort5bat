@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 6,
   "count": 7,
-  "updated_at": "2026-11-02T06:19:50.839223Z",
+  "updated_at": "2026-11-09T06:45:38.807914Z",
   "titles": [
     {
       "id": "1133964-king_arthur",
@@ -543,18 +543,18 @@
         "History",
         "War"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 99,
-      "certificate": "In Theaters Nov 6",
-      "rating": 7.6,
+      "certificate": "Now Playing",
+      "rating": 7.8,
       "votes": null,
-      "tomatometer": 95,
-      "tomatometer_count": 19,
+      "tomatometer": null,
+      "tomatometer_count": 23,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Soul Patrol uncovers a hidden chapter of American military history by focusing on the Vietnam War's first Black special ops team, an elite unit operating deep behind enemy lines. With unprecedented access to this once-secretive group of African-American veterans, director J.M. Harper reconstructs their journey with an immediacy rarely seen in Vietnam War storytelling, using raw Super 8 footage, photographs, and audio recordings from their personal archives. Opening on the war's 50th anniversary, the surviving members reunite in a hotel that becomes a surreal liminal space, where memory, brotherhood, and unresolved trauma collide. As the men reflect on their experiences, the film interrogates the contradictions of fighting for freedom abroad while facing inequality at home. Winner of the Directing Award for U.S. Documentary at the Sundance Film Festival, Soul Patrol is not just a war story, but a reckoning -- an intimate portrait of survival, memory, and the enduring cost of war on those asked to fight it.",
       "tagline": "",
@@ -653,10 +653,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Soul-Patrol/5247548?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T13:18:44.211967Z"
+      "scraped_at": "2026-11-09T06:44:16.490549Z"
     },
     {
       "id": "the_bitter_tea_of_general_yen",

@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-11-08T22:19:25.764665Z",
+  "updated_at": "2026-11-09T06:49:39.149527Z",
   "titles": [
     {
       "id": "10006270",
@@ -5162,12 +5162,12 @@
       "runtime_minutes": 86,
       "certificate": "R",
       "rating": 4.0,
-      "votes": 4572,
-      "tomatometer": 16,
-      "tomatometer_count": 98,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 95,
       "tomatometer_certified": false,
-      "audience_score": 51,
-      "audience_count": 1813,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Following a ridiculously awful flight that leads to his pet's death, Nashawn Wade files a lawsuit against the airline, and wins a multimillion-dollar settlement. Determined to create a better flying experience, Nashawn starts his own airline, one that caters to an African-American clientele. Going into business with a tricked-out plane piloted by the smooth Capt. Mack, the airline hits a snag when it has to deal with the family of Elvis Hunkee.",
       "tagline": "",
@@ -5264,11 +5264,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Soul-Plane/140841?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CV7YGM7F/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T11:41:41.450045Z"
+      "scraped_at": "2026-11-09T06:44:17.694088Z"
     },
     {
       "id": "steel_magnolias",
@@ -5287,12 +5291,12 @@
       "runtime_minutes": 118,
       "certificate": "PG",
       "rating": 6.5,
-      "votes": 15948,
-      "tomatometer": 73,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 82,
       "tomatometer_certified": false,
-      "audience_score": 89,
-      "audience_count": 6812,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "M'Lynn (Sally Field) is the mother of bride-to-be Shelby Eatenton (Julia Roberts), and as friend Truvy Jones (Dolly Parton) fixes the women's hair for the ceremony, they welcome a helping hand from aspiring beautician Annelle Dupuy DeSoto (Daryl Hannah). Diabetic Shelby has a health scare, which is averted but doesn't bode well for her hopes of having children. Time passes, and the women and their friends encounter tragedy and good fortune, growing stronger and closer in the process.",
       "tagline": "",
@@ -5403,7 +5407,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T16:27:56.541443Z"
+      "scraped_at": "2026-11-09T06:48:59.032948Z"
     },
     {
       "id": "stolen_summer",

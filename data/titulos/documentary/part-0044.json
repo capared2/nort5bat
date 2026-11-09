@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 44,
   "count": 40,
-  "updated_at": "2026-11-08T13:34:17.972457Z",
+  "updated_at": "2026-11-09T06:43:38.064110Z",
   "titles": [
     {
       "id": "a_fire_within",
@@ -2437,12 +2437,12 @@
       "runtime_minutes": 93,
       "certificate": null,
       "rating": 6.6,
-      "votes": 576,
-      "tomatometer": 78,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 23,
       "tomatometer_certified": false,
-      "audience_score": 81,
-      "audience_count": 79,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Four wine stewards prepare to take the Master Sommelier Exam, one of the world's most-difficult tests, presided over by the notoriously secretive Court of Master Sommeliers.",
       "tagline": "",
@@ -2521,11 +2521,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/70273636?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/somm--1076009?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T11:40:36.065656Z"
+      "scraped_at": "2026-11-09T06:43:10.993894Z"
     },
     {
       "id": "the_art_of_adventure",

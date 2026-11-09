@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 14,
   "count": 60,
-  "updated_at": "2026-11-08T22:19:25.755535Z",
+  "updated_at": "2026-11-09T06:47:38.910125Z",
   "titles": [
     {
       "id": "1037024-commitments",
@@ -5513,12 +5513,12 @@
       "runtime_minutes": 88,
       "certificate": "PG",
       "rating": 7.2,
-      "votes": 9671,
-      "tomatometer": 92,
-      "tomatometer_count": 130,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 129,
       "tomatometer_certified": true,
-      "audience_score": 47,
-      "audience_count": 6526,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two young kids become spies in attempt to save their parents, who are ex-spies, from an evil mastermind. Armed with a bag of high-tech gadgets and out-of-this world transportation, Carmen and Juni will bravely jet through the air, dive under the seas and crisscross the globe in a series of thrilling adventures on a mission to save their parents ... and maybe even the world.",
       "tagline": "",
@@ -5615,11 +5615,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Spy-Kids/298460?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HLY1Z9LB/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000297643_01/0c572bd8-afb6-3225-92f4-9451eb80c84b?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T11:44:08.486833Z"
+      "scraped_at": "2026-11-09T06:46:43.307411Z"
     },
     {
       "id": "stop_or_my_mom_will_shoot",

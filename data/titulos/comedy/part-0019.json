@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 19,
   "count": 60,
-  "updated_at": "2026-11-08T22:17:03.978417Z",
+  "updated_at": "2026-11-09T06:47:38.898717Z",
   "titles": [
     {
       "id": "1007073-fandango",
@@ -5253,12 +5253,12 @@
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 7.9,
-      "votes": 40958,
-      "tomatometer": 89,
-      "tomatometer_count": 148,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 149,
       "tomatometer_certified": true,
-      "audience_score": 94,
-      "audience_count": 13451,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After learning that a stranger has been accidentally killed near their rural homes, four Oregon boys decide to go see the body. On the way, Gordie Lachance (Wil Wheaton), Vern Tessio (Jerry O'Connell), Chris Chambers (River Phoenix) and Teddy Duchamp (Corey Feldman) encounter a mean junk man and a marsh full of leeches, as they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
       "tagline": "",
@@ -5361,11 +5361,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Stand-by-Me/12466?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/994992?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T11:44:42.063131Z"
+      "scraped_at": "2026-11-09T06:47:17.420038Z"
     },
     {
       "id": "susan_and_god",
