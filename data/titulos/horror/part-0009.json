@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-11-09T22:29:38.015118Z",
+  "updated_at": "2026-11-10T07:32:30.368101Z",
   "titles": [
     {
       "id": "10010329-splinter",
@@ -5445,12 +5445,12 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 4.9,
-      "votes": 19700,
-      "tomatometer": 37,
-      "tomatometer_count": 156,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 149,
       "tomatometer_certified": false,
-      "audience_score": 58,
-      "audience_count": 11697,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this remake of the horror classic, a group of young travelers, including Erin, Andy and Morgan, comes across an isolated rural home while driving through Texas. Unfortunately for them, the decrepit house is the residence of a family of deranged backwoods killers, most notably a hulking masked brute known as Leatherface, who begins to hunt the stranded youths down. Will any of the friends survive the nightmarish ordeal?",
       "tagline": "",
@@ -5547,11 +5547,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Texas-Chainsaw-Massacre/38704?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CK61TFVP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T20:57:03.885101Z"
+      "scraped_at": "2026-11-10T07:26:12.605808Z"
     },
     {
       "id": "the_backwoods",
@@ -5570,13 +5574,13 @@
       "release_date": null,
       "runtime_minutes": 98,
       "certificate": "R",
-      "rating": 6.4,
-      "votes": 446,
-      "tomatometer": 57,
-      "tomatometer_count": 7,
+      "rating": 6.3,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 27,
-      "audience_count": 166,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two couples (Gary Oldman, Virginie Ledoyen, Paddy Considine) must get a feral girl (Yaiza Esteve) to safety after the men find her in the woods.",
       "tagline": "",
@@ -5661,7 +5665,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T21:00:36.303770Z"
+      "scraped_at": "2026-11-10T07:29:46.190176Z"
     },
     {
       "id": "the_blackcoats_daughter",
@@ -5680,12 +5684,12 @@
       "runtime_minutes": 93,
       "certificate": "R",
       "rating": 6.8,
-      "votes": 1461,
-      "tomatometer": 77,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 78,
       "tomatometer_certified": true,
-      "audience_score": 52,
-      "audience_count": 295,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "During the dead of winter, a troubled young woman (Emma Roberts) embarks on a mysterious journey to an isolated prep school where two stranded students (Kiernan Shipka, Lucy Boynton) face a sinister threat from an unseen evil force.",
       "tagline": "",
@@ -5796,7 +5800,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T21:02:19.967447Z"
+      "scraped_at": "2026-11-10T07:31:31.771248Z"
     },
     {
       "id": "the_forest_2016",

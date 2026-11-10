@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-11-09T22:33:40.778945Z",
+  "updated_at": "2026-11-10T07:32:51.897400Z",
   "titles": [
     {
       "id": "1213684-big_fan",
@@ -5588,12 +5588,12 @@
       "runtime_minutes": 106,
       "certificate": "R",
       "rating": 6.2,
-      "votes": 280,
-      "tomatometer": 58,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 36,
       "tomatometer_certified": false,
-      "audience_score": 37,
-      "audience_count": 36,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A teen (Asa Butterfield), a pregnant girl (Hailee Steinfeld) and the lead singer (Emile Hirsch) of a punk-rock band form their own surrogate family in late-1980s New York.",
       "tagline": "",
@@ -5696,7 +5696,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T20:56:21.235594Z"
+      "scraped_at": "2026-11-10T07:25:31.519249Z"
     },
     {
       "id": "the_100_year_old_man_who_climbed_out_the_window_and_disappeared",
@@ -5715,12 +5715,12 @@
       "runtime_minutes": 114,
       "certificate": "R",
       "rating": 6.0,
-      "votes": 1296,
-      "tomatometer": 68,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 80,
       "tomatometer_certified": false,
-      "audience_score": 69,
-      "audience_count": 189,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Allan Karlsson, a 100-year-old explosives expert, escapes from a retirement home.",
       "tagline": "",
@@ -5821,7 +5821,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T20:58:46.996068Z"
+      "scraped_at": "2026-11-10T07:27:54.508924Z"
     },
     {
       "id": "the_bellmen",
@@ -5839,12 +5839,12 @@
       "runtime_minutes": 97,
       "certificate": null,
       "rating": null,
-      "votes": 1,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 4,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 1,
+      "audience_count": null,
       "metascore": null,
       "plot": "When the bell captain at a popular Arizona resort decides that becoming a manager is the only way to win the girl of his dreams, he must navigate a crazy group of guests, allies and rivals to earn the promotion and affection he desires.",
       "tagline": "",
@@ -5939,7 +5939,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T21:01:29.366922Z"
+      "scraped_at": "2026-11-10T07:30:39.754665Z"
     },
     {
       "id": "the_best_exotic_marigold_hotel",
@@ -5958,12 +5958,12 @@
       "runtime_minutes": 124,
       "certificate": "PG-13",
       "rating": 6.6,
-      "votes": 15385,
-      "tomatometer": 77,
-      "tomatometer_count": 163,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 160,
       "tomatometer_certified": true,
-      "audience_score": 78,
-      "audience_count": 2960,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Some British retirees (Judi Dench, Maggie Smith, Bill Nighy) decide to outsource their retirement to exotic -- and less expensive -- India. Lured by advertisements for the newly restored Marigold Hotel and imagining a life of leisure in lush surroundings, they arrive and find that the Marigold is actually a shell of its former self. Though their new home is not quite what they had imagined, the retirees find that life and love can begin again when they let go of their pasts.",
       "tagline": "",
@@ -6064,7 +6064,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T21:01:36.778445Z"
+      "scraped_at": "2026-11-10T07:30:47.042382Z"
     },
     {
       "id": "the_big_short",
@@ -6083,12 +6083,12 @@
       "runtime_minutes": 130,
       "certificate": "R",
       "rating": 7.8,
-      "votes": 35458,
-      "tomatometer": 89,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 325,
       "tomatometer_certified": true,
-      "audience_score": 88,
-      "audience_count": 3063,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 2008, Wall Street guru Michael Burry realizes that a number of subprime home loans are in danger of defaulting. Burry bets against the housing market by throwing more than $1 billion of his investors' money into credit default swaps. His actions attract the attention of banker Jared Vennett (Ryan Gosling), hedge-fund specialist Mark Baum (Steve Carell) and other greedy opportunists. Together, these men make a fortune by taking full advantage of the impending economic collapse in America.",
       "tagline": "",
@@ -6191,11 +6191,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Big-Short/730488?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T21:01:59.978846Z"
+      "scraped_at": "2026-11-10T07:31:11.746982Z"
     },
     {
       "id": "the_bronze",
@@ -6213,12 +6217,12 @@
       "runtime_minutes": 100,
       "certificate": "R",
       "rating": 5.1,
-      "votes": 1290,
-      "tomatometer": 37,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 99,
       "tomatometer_certified": false,
-      "audience_score": 45,
-      "audience_count": 220,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A spoiled and largely forgotten Olympic medalist (Melissa Rauch) takes action when a promising young gymnast (Haley Lu Richardson) threatens her status as a local celebrity.",
       "tagline": "",
@@ -6325,7 +6329,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:53:38.913439Z"
+      "scraped_at": "2026-11-10T07:32:48.539182Z"
     },
     {
       "id": "the_king_of_staten_island",

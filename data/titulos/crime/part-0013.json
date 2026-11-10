@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-11-09T22:27:37.457960Z",
+  "updated_at": "2026-11-10T07:28:28.860533Z",
   "titles": [
     {
       "id": "1005865-dillinger",
@@ -5810,12 +5810,12 @@
       "runtime_minutes": 105,
       "certificate": "R",
       "rating": 5.1,
-      "votes": 1908,
-      "tomatometer": 39,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 44,
       "tomatometer_certified": false,
-      "audience_score": 28,
-      "audience_count": 351,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After a familiar girl goes missing, two detectives race against time before a serial killer claims her as his next victim.",
       "tagline": "",
@@ -5916,11 +5916,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0DY31HMYQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000001054152_01/1a4a9a4f-bac8-383c-aaa1-73cb1e4796b7?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T20:57:08.305202Z"
+      "scraped_at": "2026-11-10T07:26:17.241364Z"
     },
     {
       "id": "the_actor_2024",
@@ -5940,12 +5944,12 @@
       "runtime_minutes": 128,
       "certificate": null,
       "rating": null,
-      "votes": 14,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 2,
       "tomatometer_certified": false,
-      "audience_score": 79,
-      "audience_count": 6,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An actor battling his own moral standards witnesses a neighbor's murder.",
       "tagline": "",
@@ -6052,7 +6056,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T20:59:06.497868Z"
+      "scraped_at": "2026-11-10T07:28:15.506228Z"
     },
     {
       "id": "the_host_2020",

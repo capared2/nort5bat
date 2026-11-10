@@ -2,7 +2,7 @@
   "genre": "musical",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-09T22:33:41.871863Z",
+  "updated_at": "2026-11-10T07:28:29.819127Z",
   "titles": [
     {
       "id": "1011605-king_and_i",
@@ -5980,12 +5980,12 @@
       "runtime_minutes": 96,
       "certificate": "G",
       "rating": 4.6,
-      "votes": 598,
-      "tomatometer": 36,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 25,
       "tomatometer_certified": false,
-      "audience_score": 28,
-      "audience_count": 199,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A fairy answers a wish, bringing to life the puppet of woodcarver Geppetto (Martin Landau), who names him Pinocchio (Jonathan Taylor Thomas).",
       "tagline": "",
@@ -6064,11 +6064,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Adventures-of-Pinocchio/12659?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GWQWR8P9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-25T20:59:13.401336Z"
+      "scraped_at": "2026-11-10T07:28:23.878232Z"
     },
     {
       "id": "the_lion_king",

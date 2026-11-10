@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-09T22:34:39.645478Z",
-  "total_titles": 20948,
+  "generated_at": "2026-11-10T07:32:53.977916Z",
+  "total_titles": 20949,
   "total_genres": 27,
   "genres": [
     {
@@ -607,7 +607,7 @@
     {
       "genre": "documentary",
       "name": "Documentary",
-      "titles": 2619,
+      "titles": 2620,
       "files": [
         {
           "file": "titulos/documentary/part-0001.json",
@@ -783,10 +783,10 @@
         },
         {
           "file": "titulos/documentary/part-0044.json",
-          "count": 41
+          "count": 42
         }
       ],
-      "tagged": 3582
+      "tagged": 3583
     },
     {
       "genre": "action",
@@ -830,7 +830,7 @@
           "count": 22
         }
       ],
-      "tagged": 2289
+      "tagged": 2288
     },
     {
       "genre": "horror",
@@ -1283,7 +1283,7 @@
     {
       "genre": "sci-fi",
       "name": "Sci-Fi",
-      "titles": 831,
+      "titles": 830,
       "files": [
         {
           "file": "titulos/sci-fi/part-0001.json",
@@ -1299,7 +1299,7 @@
         },
         {
           "file": "titulos/sci-fi/part-0004.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/sci-fi/part-0005.json",
@@ -1342,7 +1342,7 @@
           "count": 51
         }
       ],
-      "tagged": 987
+      "tagged": 986
     },
     {
       "genre": "kids-family",
@@ -1646,11 +1646,11 @@
     {
       "genre": "other",
       "name": "Other",
-      "titles": 1,
+      "titles": 2,
       "files": [
         {
           "file": "titulos/other/part-0001.json",
-          "count": 1
+          "count": 2
         }
       ],
       "tagged": 20
