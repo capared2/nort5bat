@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 23,
   "count": 60,
-  "updated_at": "2026-11-09T22:33:40.897766Z",
+  "updated_at": "2026-11-10T19:50:55.934200Z",
   "titles": [
     {
       "id": "10008496-pathology",
@@ -5887,18 +5887,18 @@
         "Drama",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2024,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 119,
-      "certificate": null,
-      "rating": 7.5,
+      "certificate": "Nov 2026",
+      "rating": 7.2,
       "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 10,
+      "tomatometer": null,
+      "tomatometer_count": 12,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "December, 2013: Celebrated war correspondent Peter Greste accepts a last-minute posting in Cairo during the Arab Spring. Days into his assignment he is arrested and accused of terrorism and becomes a pawn in a deadly game of politics and ancient rivalries. Locked in the labyrinth of Egypt's prison system with only his wits keeping him alive, Greste learns true freedom will only come from staring down a brutal regime.",
       "tagline": "",
@@ -5913,35 +5913,11 @@
           "caption": ""
         },
         {
+          "url": "https://resizing.flixster.com/c0-4-iwGR8agdXeWjQbw0nmYHeM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29166435_i_h10_aa.jpg",
+          "caption": "The Correspondent (2024)"
+        },
+        {
           "url": "https://resizing.flixster.com/y0Oibvdo1jnWV0eO6YNHFQiA3i4=/fit-in/705x460/v2/https://resizing.flixster.com/ZN6fJCt2h8AEMccmZJnFi80wmko=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2ODU4OTJmLWNmYjYtNDNlZi1hMzQ0LWYyZjFkNTI0YzVkMC5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/8oD9lMmd1oRzZKr8p0D8xRtxjDE=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29166435_p_v13_ac.jpg",
-          "caption": "The Correspondent (2024)"
-        },
-        {
-          "url": "https://resizing.flixster.com/e5chwDTSUwkjVHOpZFx30ZF1TZ0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29166435_p_v12_ac.jpg",
-          "caption": "The Correspondent (2024)"
-        },
-        {
-          "url": "https://resizing.flixster.com/wq70hlb1egjrRJdsaUIkqpcL7cg=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29166435_v_h9_ac.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/XCFa_3E-2uogldf2mgUoVqfirtw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29166435_v_v13_ac.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/3-DUnYhM8qi9risNdYqcEEKdlu8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29166435_v_v12_ac.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/MQElePEGuRUw92RNODThWawwYgk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29166435_v_h8_ac.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/GKzigYMktOtCTULHgaBr6Vs2evo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29166435_k_h9_aa.jpg",
           "caption": ""
         }
       ],
@@ -5991,10 +5967,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/the-correspondent/umc.cmc.49td4oudb4moultwu01c4v5qx?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:55:53.200223Z"
+      "scraped_at": "2026-11-10T19:49:08.935355Z"
     },
     {
       "id": "the_deal_2005",
@@ -6012,12 +5993,12 @@
       "runtime_minutes": 107,
       "certificate": "R",
       "rating": 4.3,
-      "votes": 71,
-      "tomatometer": 22,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 32,
       "tomatometer_certified": false,
-      "audience_score": 17,
-      "audience_count": 26,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An investment banker (Christian Slater) becomes involved in an American oil company's bid to take control of a Russian corporation.",
       "tagline": "",
@@ -6114,7 +6095,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:57:02.590369Z"
+      "scraped_at": "2026-11-10T19:50:17.417606Z"
     },
     {
       "id": "the_good_neighbor_2016",

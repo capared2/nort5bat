@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 59,
-  "updated_at": "2026-11-10T07:28:29.645711Z",
+  "updated_at": "2026-11-10T19:55:00.946138Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -4587,18 +4587,18 @@
         "Animation",
         "Fantasy"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": 91,
+      "runtime_minutes": 107,
       "certificate": "PG",
-      "rating": null,
+      "rating": 5.7,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 59,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Meet the Cat in the Hat you don't know! In the wonderfully whimsical tradition of Dr. Seuss, The Cat in the Hat comes to the big screen in his animated theatrical feature film debut, an all-new, epic adventure with an edge, where mischief, magic and mayhem reign supreme. Doing what he does best, the Cat--voiced by Bill Hader--spreads joy to kids in his hilarious, signature and singularly irreverent way, transporting them and audiences on a fantastical journey through a world they've never seen before. In the film, our hero takes on his toughest assignment yet for the I.I.I.I. (Institute for the Institution of Imagination and Inspiration, LLC): to cheer Gabby and Sebastian, a pair of siblings struggling with their move to a new town. Known for taking things too far, this could be this agent of chaos's last chance to prove himself... or lose his magical hat!",
       "tagline": "",
@@ -4670,10 +4670,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Cat-in-the-Hat-2026/5283212?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T13:18:34.582941Z"
+      "scraped_at": "2026-11-10T19:47:36.577189Z"
     },
     {
       "id": "the_craft_legacy",
@@ -4693,12 +4698,12 @@
       "runtime_minutes": 97,
       "certificate": "PG-13",
       "rating": 5.4,
-      "votes": 583,
-      "tomatometer": 47,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 112,
       "tomatometer_certified": false,
-      "audience_score": 24,
-      "audience_count": 186,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An eclectic foursome of aspiring teenage witches get more than they bargained for as they lean into their newfound powers.",
       "tagline": "",
@@ -4799,7 +4804,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:56:01.210866Z"
+      "scraped_at": "2026-11-10T19:49:21.524576Z"
     },
     {
       "id": "the_fisherman_2024",
@@ -4823,7 +4828,7 @@
       "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "The Fisherman is a heartwarming comedy about Atta Oko, a retired traditional fisherman from Ghana. His life takes a whimsical turn when he is forced into retirement  and partnered with a sarcastic talking fish, leading him on an adventure to Accra. Joined by his three quirky \"Associates,\" they pursue their dream of owning a boat. Filled with laughter, magic, and the vibrant culture of Ghana, The Fisherman is a delightful tale of family, dreams, and the enduring spirit of a true fisherman.",
       "tagline": "",
@@ -4910,7 +4915,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T05:00:59.732363Z"
+      "scraped_at": "2026-11-10T19:54:11.391800Z"
     },
     {
       "id": "the_imaginarium_of_doctor_parnassus",

@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-10T07:32:52.143003Z",
+  "updated_at": "2026-11-10T19:55:00.975138Z",
   "titles": [
     {
       "id": "1008415-glory",
@@ -6316,12 +6316,12 @@
       "runtime_minutes": 115,
       "certificate": "PG-13",
       "rating": 4.9,
-      "votes": 397,
-      "tomatometer": 23,
-      "tomatometer_count": 13,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 12,
       "tomatometer_certified": false,
-      "audience_score": 51,
-      "audience_count": 95,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "U.S. Navy pilot Lt. Jake Grafton (Brad Johnson) and his bombardier buddy, Lt. Cmdr. Virgil Cole (Willem Dafoe), are two soldiers embedded in the Vietnam War growing frustrated by the military's constraints on their missions. Despite the best efforts of their commanding officer, Cmdr. Frank Camparelli (Danny Glover), to re-engage them, this disillusioned pair decide to take the war effort into their own hands with an explosive battle plan that could well get them court-martialed.",
       "tagline": "",
@@ -6402,11 +6402,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Flight-of-the-Intruder/33499?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T05:01:09.347105Z"
+      "scraped_at": "2026-11-10T19:54:21.317137Z"
     },
     {
       "id": "the_monuments_men",

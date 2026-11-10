@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 25,
   "count": 60,
-  "updated_at": "2026-11-10T07:32:30.248706Z",
+  "updated_at": "2026-11-10T19:52:58.361587Z",
   "titles": [
     {
       "id": "1002361-big_town",
@@ -5807,12 +5807,12 @@
       "runtime_minutes": 110,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 65,
-      "tomatometer": 44,
-      "tomatometer_count": 50,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 49,
       "tomatometer_certified": false,
-      "audience_score": 52,
-      "audience_count": 23,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Manhattan prosecutor Nick (Parker Posey) is charged with looking into the untimely death of city resident Matt (Don McKellar), a musician who had AIDS. As she questions Matt's loyal family members -- mother Lila (Olympia Dukakis) and sister Dana (Sarah Polley) -- she comes to learn that his closest pal, health-care worker Brian (Brent Carver), is an ardent believer in assisted suicide, and that he threw Matt a big party before his death. This presents a dilemma for humane but dutiful Nick.",
       "tagline": "",
@@ -5881,15 +5881,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0DHKVVNTY/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:59:40.725187Z"
+      "scraped_at": "2026-11-10T19:52:50.994522Z"
     },
     {
       "id": "the_ides_of_march",

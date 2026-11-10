@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-10T07:32:31.093682Z",
+  "updated_at": "2026-11-10T19:55:00.870966Z",
   "titles": [
     {
       "id": "1017321-red_dawn",
@@ -6158,12 +6158,12 @@
       "runtime_minutes": 97,
       "certificate": "R",
       "rating": 3.0,
-      "votes": 201,
-      "tomatometer": 10,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 20,
       "tomatometer_certified": false,
-      "audience_score": 20,
-      "audience_count": 53,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A courier in London discovers that one of the packages she's transporting is a bomb.",
       "tagline": "",
@@ -6270,11 +6270,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/81564307?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000514675_01/faeb6142-a5ad-3163-b62c-c83cfe3cec2a?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:55:59.383624Z"
+      "scraped_at": "2026-11-10T19:49:14.852610Z"
     },
     {
       "id": "the_debt_collector_2018",
@@ -6292,12 +6296,12 @@
       "runtime_minutes": 96,
       "certificate": null,
       "rating": 7.5,
-      "votes": 151,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 55,
-      "audience_count": 35,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A martial artist finds work as a debt collector for the mob.",
       "tagline": "",
@@ -6398,7 +6402,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:57:11.571708Z"
+      "scraped_at": "2026-11-10T19:50:26.140147Z"
     },
     {
       "id": "the_flying_swords_of_dragon_gate",
@@ -6417,12 +6421,12 @@
       "runtime_minutes": 122,
       "certificate": "R",
       "rating": 5.8,
-      "votes": 829,
-      "tomatometer": 68,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 28,
       "tomatometer_certified": false,
-      "audience_score": 48,
-      "audience_count": 141,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A Ming Dynasty freedom fighter (Jet Li), a female warrior (Zhou Xun) and a corrupt eunuch (Kun Chen) are among those who converge on a remote desert hostel that sits atop a city of treasures.",
       "tagline": "",
@@ -6527,7 +6531,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T05:01:16.261300Z"
+      "scraped_at": "2026-11-10T19:54:27.704498Z"
     },
     {
       "id": "the_guardian_2006",

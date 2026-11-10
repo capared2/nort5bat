@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 36,
   "count": 20,
-  "updated_at": "2026-11-09T22:34:36.850031Z",
+  "updated_at": "2026-11-10T19:52:58.159360Z",
   "titles": [
     {
       "id": "a_good_hand_wasted",
@@ -1371,18 +1371,18 @@
       "genres": [
         "Horror"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 80,
-      "certificate": null,
+      "certificate": "Oct 2026",
       "rating": null,
       "votes": null,
       "tomatometer": null,
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "In an isolated house, Robert and his son Daniel discover a painting that seems disturbingly alive. When their darkest nightmares begin bleeding into reality, a sinister presence emerges from the canvas, feeding on buried trauma and forgotten memories. What begins as a mysterious painting soon becomes a living nightmare they cannot escape.",
       "tagline": "",
@@ -1398,14 +1398,6 @@
         },
         {
           "url": "https://resizing.flixster.com/gAuA50vP5ieTLNX9rdC1L2RfCuw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34012549_i_h8_aa.jpg",
-          "caption": "The Canvas (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/IF-W9JZq2hDWhQfsvtwScfmo2a8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34012549_v_v12_aa.jpg",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/jrKCHOzgLeSCreC7fPMjC9celvc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34012549_p_v13_aa.jpg",
           "caption": "The Canvas (2026)"
         },
         {
@@ -1459,10 +1451,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Canvas/5190960?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:54:08.948666Z"
+      "scraped_at": "2026-11-10T19:47:23.020261Z"
     },
     {
       "id": "the_cycle_2026",
@@ -1480,13 +1477,13 @@
       "release_date": null,
       "runtime_minutes": 111,
       "certificate": null,
-      "rating": 7.5,
-      "votes": 49,
-      "tomatometer": 94,
-      "tomatometer_count": 34,
-      "tomatometer_certified": false,
+      "rating": 7.6,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 43,
+      "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 22,
+      "audience_count": null,
       "metascore": null,
       "plot": "When the body of a man missing for thirty-six years is discovered at the scene of a horrific crime, it's up to his estranged daughter to unravel his dark past.",
       "tagline": "",
@@ -1563,7 +1560,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:56:22.876624Z"
+      "scraped_at": "2026-11-10T19:49:38.608757Z"
     },
     {
       "id": "the_devils",
@@ -1581,12 +1578,12 @@
       "runtime_minutes": 109,
       "certificate": "R",
       "rating": 8.2,
-      "votes": 1014,
-      "tomatometer": 55,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 101,
       "tomatometer_certified": false,
-      "audience_score": 87,
-      "audience_count": 338,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 17th-century France, Father Grandier (Oliver Reed) is a priest whose unorthodox views on sex and religion influence a passionate following of nuns, including the sexually obsessed Sister Jeanne (Vanessa Redgrave). When the power-hungry Cardinal Richelieu (Christopher Logue) realizes he must eliminate Grandier to gain control of France, Richelieu portrays Grandier as a satanist and spearheads a public outcry to destroy the once-loved priest's reputation.",
       "tagline": "",
@@ -1658,7 +1655,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T04:57:50.406030Z"
+      "scraped_at": "2026-11-10T19:51:06.819292Z"
     },
     {
       "id": "the_last_temptation_of_becky",
