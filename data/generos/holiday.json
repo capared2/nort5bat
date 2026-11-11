@@ -4,30 +4,6 @@
   "count": 155,
   "titles": [
     {
-      "id": "the_holiday",
-      "category": "romance",
-      "type": "movie",
-      "title": "The Holiday",
-      "original_title": "The Holiday",
-      "year": 2006,
-      "genres": [
-        "Holiday",
-        "Romance",
-        "Comedy"
-      ],
-      "rating": 5.9,
-      "votes": 80100,
-      "tomatometer": 51,
-      "audience_score": 80,
-      "runtime_minutes": 132,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/5pxnEmHmlDoKncwcLKFvMrBENdQ=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162526_p_v12_al.jpg",
-      "plot": "Two women, one from America and one from Britain, swap homes at Christmastime after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return…",
-      "directors": [
-        "Nancy Meyers"
-      ]
-    },
-    {
       "id": "hop_2011",
       "category": "comedy",
       "type": "movie",
@@ -732,33 +708,6 @@
       "plot": "Minutes after Laurie Strode (Jamie Lee Curtis), her daughter Karen (Judy Greer) and granddaughter Allyson (Andi Matichak) left masked monster Michael Myers caged and burning in Laurie's basement,…",
       "directors": [
         "David Gordon Green"
-      ]
-    },
-    {
-      "id": "the_grinch",
-      "category": "animation",
-      "type": "movie",
-      "title": "Dr. Seuss' The Grinch",
-      "original_title": "Dr. Seuss' The Grinch",
-      "year": 2018,
-      "genres": [
-        "Kids & Family",
-        "Holiday",
-        "Comedy",
-        "Adventure",
-        "Animation"
-      ],
-      "rating": 6.0,
-      "votes": 4512,
-      "tomatometer": 60,
-      "audience_score": 54,
-      "runtime_minutes": 86,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/aAUcCVrENRJSjdEdB5W0JQsWzU0=/300x450/v2/https://resizing.flixster.com/d2rkbjgvV9kUwMALTR9SdH5Y3Dk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhY2I4Mjg3LWQ3NGUtNDk1NC1hNjNjLTg2ZDFmYTExOGM0Yy53ZWJw",
-      "plot": "The Grinch and his loyal dog, Max, live a solitary existence inside a cave on Mount Crumpet. His main source of aggravation comes during Christmastime when his neighbors in Whoville celebrate the…",
-      "directors": [
-        "Scott Mosier",
-        "Yarrow Cheney"
       ]
     },
     {
@@ -1777,30 +1726,6 @@
       ]
     },
     {
-      "id": "the_jester_2",
-      "category": "horror",
-      "type": "movie",
-      "title": "The Jester 2",
-      "original_title": "The Jester 2",
-      "year": 2025,
-      "genres": [
-        "Holiday",
-        "Horror",
-        "Mystery & Thriller"
-      ],
-      "rating": null,
-      "votes": 78,
-      "tomatometer": null,
-      "audience_score": 51,
-      "runtime_minutes": 87,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/Qe0iGWNhIEAySXff2LIih9-J6yY=/300x450/v2/https://resizing.flixster.com/gB5zMvKduUYWdy0l897yk1CXBNM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzYjY5NWI4LWU2OGEtNGU0My05NDEyLWUwNzIwZDNjOTQ5MC5qcGc=",
-      "plot": "On Halloween night, teen magician Max finds herself locked in a brutal showdown with the Jester, a nightmarish and supernatural trickster with real dark magic and a killer act. As illusions turn…",
-      "directors": [
-        "Colin Krawchuk"
-      ]
-    },
-    {
       "id": "ask_me_to_dance",
       "category": "romance",
       "type": "movie",
@@ -2623,6 +2548,57 @@
       "plot": "A maniacal clown terrorizes three women on Halloween night.",
       "directors": [
         "Damien Leone"
+      ]
+    },
+    {
+      "id": "the_grinch",
+      "category": "animation",
+      "type": "movie",
+      "title": "Dr. Seuss' The Grinch",
+      "original_title": "Dr. Seuss' The Grinch",
+      "year": 2018,
+      "genres": [
+        "Kids & Family",
+        "Holiday",
+        "Comedy",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 6.0,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 86,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/aAUcCVrENRJSjdEdB5W0JQsWzU0=/300x450/v2/https://resizing.flixster.com/d2rkbjgvV9kUwMALTR9SdH5Y3Dk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhY2I4Mjg3LWQ3NGUtNDk1NC1hNjNjLTg2ZDFmYTExOGM0Yy53ZWJw",
+      "plot": "The Grinch and his loyal dog, Max, live a solitary existence inside a cave on Mount Crumpet. His main source of aggravation comes during Christmastime when his neighbors in Whoville celebrate the…",
+      "directors": [
+        "Scott Mosier",
+        "Yarrow Cheney"
+      ]
+    },
+    {
+      "id": "the_holiday",
+      "category": "romance",
+      "type": "movie",
+      "title": "The Holiday",
+      "original_title": "The Holiday",
+      "year": null,
+      "genres": [
+        "Holiday",
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 5.9,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 132,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/27EzkfUSf16jNlgf_k-tsX2gRmM=/300x450/v2/https://resizing.flixster.com/A93Ae2gWWdqZyxk4giUbRiD_7LQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFmMWY0YTJlLTY5MzItNDkxZC1hMmM5LWIzZmIwYmE2YjM1Ni5qcGc=",
+      "plot": "Two women, one from America and one from Britain, swap homes at Christmastime after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return…",
+      "directors": [
+        "Nancy Meyers"
       ]
     },
     {
@@ -3718,6 +3694,30 @@
       "plot": "Every year, unemployed copywriter, Joe Michaels, is forced to endure reading about his wealthy friends' extravagant life in his annual Christmas Letter. The letter always exudes a life of luxury,…",
       "directors": [
         "Tori Hunter"
+      ]
+    },
+    {
+      "id": "the_jester_2",
+      "category": "horror",
+      "type": "movie",
+      "title": "The Jester 2",
+      "original_title": "The Jester 2",
+      "year": 2025,
+      "genres": [
+        "Holiday",
+        "Horror",
+        "Mystery & Thriller"
+      ],
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 87,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/Qe0iGWNhIEAySXff2LIih9-J6yY=/300x450/v2/https://resizing.flixster.com/gB5zMvKduUYWdy0l897yk1CXBNM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzYjY5NWI4LWU2OGEtNGU0My05NDEyLWUwNzIwZDNjOTQ5MC5qcGc=",
+      "plot": "",
+      "directors": [
+        "Colin Krawchuk"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-10T19:52:59.014792Z",
+  "updated_at": "2026-11-11T06:35:27.474568Z",
   "titles": [
     {
       "id": "10008587-beverly_hills_chihuahua",
@@ -6302,12 +6302,12 @@
       "runtime_minutes": 95,
       "certificate": "PG-13",
       "rating": 5.1,
-      "votes": 15290,
-      "tomatometer": 35,
-      "tomatometer_count": 124,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 123,
       "tomatometer_certified": false,
-      "audience_score": 39,
-      "audience_count": 1490,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Before embarking on a once-in-a-lifetime road trip, Andy Brewster pays a visit to his overbearing mother, Joyce. That proves to be a big mistake; Andy caves in under pressure to take his mom along for the ride. Early on -- as the miles roll by -- Andy feels nothing but aggravation at her antics. Eventually however, he comes to realize that they have more in common than he first thought and that Joyce's wisdom might be just what he needs.",
       "tagline": "",
@@ -6404,11 +6404,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Guilt-Trip/401134?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T13:12:29.077005Z"
+      "scraped_at": "2026-11-11T06:33:06.782558Z"
     },
     {
       "id": "the_hollars",
@@ -6427,12 +6431,12 @@
       "runtime_minutes": 88,
       "certificate": "PG-13",
       "rating": 5.3,
-      "votes": 964,
-      "tomatometer": 44,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 89,
       "tomatometer_certified": false,
-      "audience_score": 60,
-      "audience_count": 127,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A man (John Krasinski) returns home to his dysfunctional family after learning that his mother (Margo Martindale) has a brain tumor.",
       "tagline": "",
@@ -6539,7 +6543,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T13:13:20.298995Z"
+      "scraped_at": "2026-11-11T06:34:00.279113Z"
     },
     {
       "id": "the_man",

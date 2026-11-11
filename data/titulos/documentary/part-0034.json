@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-11-10T19:48:54.719280Z",
+  "updated_at": "2026-11-11T06:39:53.159351Z",
   "titles": [
     {
       "id": "10006630-life_of_reilly",
@@ -3908,12 +3908,12 @@
       "runtime_minutes": 96,
       "certificate": "PG",
       "rating": 7.2,
-      "votes": 45,
-      "tomatometer": 88,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 42,
       "tomatometer_certified": true,
-      "audience_score": 78,
-      "audience_count": 20,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "THE LONELIEST WHALE: THE SEARCH FOR 52 is a cinematic quest to find the \"52 Hertz Whale,\" which scientists believe has spent its entire life in solitude calling out at a frequency that is different from any other whale. As the film embarks on this engrossing journey, audiences will explore what this whale's lonely plight can teach us -- not just about our changing relationship to the oceans, but to each other. This is the only film that set out in search of 52.",
       "tagline": "",
@@ -3977,15 +3977,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Loneliest-Whale-The-Search-for-52/1736198?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Netflix",
-          "url": "https://www.netflix.com/watch/81446263?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:43:36.151220Z"
+      "scraped_at": "2026-11-11T06:39:50.061688Z"
     },
     {
       "id": "the_man_who_saves_the_world",

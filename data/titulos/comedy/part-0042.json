@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 42,
   "count": 60,
-  "updated_at": "2026-11-10T07:26:28.645982Z",
+  "updated_at": "2026-11-11T06:33:26.902244Z",
   "titles": [
     {
       "id": "1007990-funny_farm",
@@ -5650,12 +5650,12 @@
       "runtime_minutes": 97,
       "certificate": "PG",
       "rating": 5.4,
-      "votes": 38,
-      "tomatometer": 65,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 17,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 9,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Young and feisty Gilly Hopkins (Sophie Nélisse) devises a scheme to escape from her new foster home and reunite with her birth mother.",
       "tagline": "",
@@ -5760,13 +5760,17 @@
           "url": "https://athome.fandango.com/content/browse/details/The-Great-Gilly-Hopkins/803113?cmp=rt_where_to_watch"
         },
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0BX4DX8T9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Starz",
           "url": "https://www.starz.com/us/en/play/64163?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T13:11:59.519629Z"
+      "scraped_at": "2026-11-11T06:32:37.951519Z"
     },
     {
       "id": "the_magic_of_belle_isle",
