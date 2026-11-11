@@ -2,7 +2,7 @@
   "genre": "animation",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-11T06:37:29.621409Z",
+  "updated_at": "2026-11-11T19:47:35.724279Z",
   "titles": [
     {
       "id": "1017699-robin_hood",
@@ -4912,12 +4912,12 @@
       "runtime_minutes": 89,
       "certificate": "G",
       "rating": 7.1,
-      "votes": 14768,
-      "tomatometer": 87,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 195,
       "tomatometer_certified": true,
-      "audience_score": 76,
-      "audience_count": 1739,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Life always seems complicated for good ol' Charlie Brown (Noah Schnapp), the boy who always tries his best against seemingly impossible odds. When the Little Red-Haired Girl moves into his neighborhood, Charlie Brown develops a crush on her. Meanwhile, his best friend Snoopy embarks on an epic adventure in a fantasy world. As a World War I flying ace, the lovable beagle pursues his nemesis, the Red Baron, while also trying to win the heart of a beautiful poodle named Fifi (Kristin Chenoweth).",
       "tagline": "",
@@ -4989,11 +4989,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Peanuts-Movie/713930?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:48:42.146504Z"
+      "scraped_at": "2026-11-11T19:44:41.145061Z"
     },
     {
       "id": "the_rescuers_1977",
@@ -5013,12 +5021,12 @@
       "runtime_minutes": 76,
       "certificate": "G",
       "rating": 6.4,
-      "votes": 4774,
-      "tomatometer": 79,
-      "tomatometer_count": 33,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 30,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 1486,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Bernard and Miss Bianca, two New York City mice, are members of the Rescue Aid Society, an international team that operates beneath the United Nations and comes to the aid of those in need. After receiving word that Penny, a young orphan, has been abducted by Madame Medusa, an evil woman seeking a precious diamond, the two set out to bring her back home, with help from other animal friends.",
       "tagline": "",
@@ -5088,7 +5096,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:11:16.484813Z"
+      "scraped_at": "2026-11-11T19:47:24.651470Z"
     },
     {
       "id": "tmnt_2007",

@@ -1,6 +1,6 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-11T06:39:55.214987Z",
+  "generated_at": "2026-11-11T19:47:59.188512Z",
   "total_titles": 20952,
   "total_genres": 27,
   "genres": [
@@ -1118,7 +1118,7 @@
           "count": 31
         }
       ],
-      "tagged": 1503
+      "tagged": 1504
     },
     {
       "genre": "crime",
@@ -1399,7 +1399,7 @@
     {
       "genre": "history",
       "name": "History",
-      "titles": 326,
+      "titles": 325,
       "files": [
         {
           "file": "titulos/history/part-0001.json",
@@ -1423,7 +1423,7 @@
         },
         {
           "file": "titulos/history/part-0006.json",
-          "count": 26
+          "count": 25
         }
       ],
       "tagged": 581
@@ -1515,7 +1515,7 @@
     {
       "genre": "war",
       "name": "War",
-      "titles": 306,
+      "titles": 307,
       "files": [
         {
           "file": "titulos/war/part-0001.json",
@@ -1539,10 +1539,10 @@
         },
         {
           "file": "titulos/war/part-0006.json",
-          "count": 7
+          "count": 8
         }
       ],
-      "tagged": 317
+      "tagged": 318
     },
     {
       "genre": "musical",

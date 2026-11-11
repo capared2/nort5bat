@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 32,
   "count": 47,
-  "updated_at": "2026-11-11T06:39:53.053825Z",
+  "updated_at": "2026-11-11T19:47:35.644111Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -4211,18 +4211,18 @@
         "Action",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 96,
       "certificate": "R",
-      "rating": null,
+      "rating": 4.9,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 30,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Accused of a crime he didn't commit and with nothing to lose, a war hero (Liam Neeson) leads law enforcement on a cross-country car chase with the help of his brothers in arms and a sympathetic public rooting for his getaway.",
       "tagline": "",
@@ -4233,11 +4233,49 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/JQSxzgH-ODpUWnZdLJqibdQcgcY=/fit-in/705x460/v2/https://resizing.flixster.com/ZU67hrYhfG7m8VE6fgOHgf2pNB8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkwNzk4YmMzLWZkN2QtNDE4Mi04YjQ5LTIzZjlmZDA0NGQ3NS5qcGc=",
+          "url": "https://resizing.flixster.com/cf-dlUIMk9EiBps-FS1nOJivJms=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/851/447/thumb_A30BDDBC-3AC4-48EC-8E9C-8422044BE899.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/kV4ad1dMJezhYq-bWjGm3CP6nFk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33643042_i_h9_aa.jpg",
+          "caption": "The Mongoose (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/GafRneH2AZroRsiQpb2Tb13FCwc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33643042_i_v9_aa.jpg",
+          "caption": "The Mongoose (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/ofdgFVsth1wGcTqluOmzUbAKMts=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33643042_i_v8_aa.jpg",
+          "caption": "The Mongoose (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/uNoHWS47iJxoZ8ZIzwtBSaB5omY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33643042_i_h10_aa.jpg",
+          "caption": "The Mongoose (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/3UGqJhTw4cxTxr7d54Z5MrD7Hb8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33643042_v_h9_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/fvgCcqjoFsZp0SDSFNvJpqfQQE8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33643042_v_h9_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/LI1ro5g4iN7Ohq0M-umBRa8Jts4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33643042_v_v13_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/iUJ_7jjJD1WwschlfRNvTAyluBw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33643042_v_v10_ae.jpg",
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "ycuaKdbtEM8F",
+        "title": "The Mongoose: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/851/447/thumb_A30BDDBC-3AC4-48EC-8E9C-8422044BE899.jpg",
+        "seconds": 138,
+        "src": "https://link.theplatform.com/s/NGweTC/media/ycuaKdbtEM8F?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "mark_vanselow",
@@ -4283,10 +4321,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Mongoose/5353855?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:45:52.163485Z"
+      "scraped_at": "2026-11-11T19:41:50.837105Z"
     },
     {
       "id": "the_quake",
@@ -4306,12 +4349,12 @@
       "runtime_minutes": 108,
       "certificate": "PG-13",
       "rating": 6.9,
-      "votes": 233,
-      "tomatometer": 85,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 39,
       "tomatometer_certified": true,
-      "audience_score": 64,
-      "audience_count": 61,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A geologist races against time to save his estranged wife and two children when a devastating earthquake strikes Oslo, Norway.",
       "tagline": "",
@@ -4422,7 +4465,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:50:20.928798Z"
+      "scraped_at": "2026-11-11T19:46:18.747580Z"
     },
     {
       "id": "the_runner_2026",

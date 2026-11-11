@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-11T06:33:26.021527Z",
+  "updated_at": "2026-11-11T19:43:32.616769Z",
   "titles": [
     {
       "id": "10011774-chloe",
@@ -7228,13 +7228,13 @@
       "release_date": null,
       "runtime_minutes": 107,
       "certificate": "R",
-      "rating": null,
-      "votes": 427,
+      "rating": 6.7,
+      "votes": null,
       "tomatometer": null,
-      "tomatometer_count": null,
-      "tomatometer_certified": false,
-      "audience_score": 62,
-      "audience_count": 45,
+      "tomatometer_count": 85,
+      "tomatometer_certified": true,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A recently widowed man (Romain Duris) develops a close bond with his wife's best friend (Anaïs Demoustier), while returning to his compulsion to dress like a woman.",
       "tagline": "",
@@ -7325,17 +7325,13 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0G2G9XMVS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        },
-        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/the-new-girlfriend/umc.cmc.42koj3jl5ey9jsi1e078z924p?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:46:44.736952Z"
+      "scraped_at": "2026-11-11T19:42:43.252492Z"
     },
     {
       "id": "the_transporter_refueled",

@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-11T06:35:27.797429Z",
+  "updated_at": "2026-11-11T19:43:33.891003Z",
   "titles": [
     {
       "id": "1077027-batman_and_robin",
@@ -6096,12 +6096,12 @@
       "runtime_minutes": 86,
       "certificate": "PG",
       "rating": 5.8,
-      "votes": 42328,
-      "tomatometer": 53,
-      "tomatometer_count": 154,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 153,
       "tomatometer_certified": false,
-      "audience_score": 63,
-      "audience_count": 4997,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Twelve-year-old Ted (Zac Efron) lives in a place virtually devoid of nature; no flowers or trees grow in the town of Thneedville. Ted would very much like to win the heart of Audrey (Taylor Swift), the girl of his dreams, but to do this, he must find that which she most desires: a Truffula tree. To get it, Ted delves into the story of the Lorax (Danny DeVito), once the gruff guardian of the forest, and the Once-ler (Ed Helms), who let greed overtake his respect for nature.",
       "tagline": "",
@@ -6171,11 +6171,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Dr-Seuss-The-Lorax/304926?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000156606_02_UHDSDR/e0f8ebb6-fd78-354d-b071-f1eeed863e91?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:43:49.858220Z"
+      "scraped_at": "2026-11-11T19:39:47.802949Z"
     },
     {
       "id": "the_mummy",
@@ -6194,13 +6198,13 @@
       "release_date": null,
       "runtime_minutes": 124,
       "certificate": "PG-13",
-      "rating": 6.5,
-      "votes": 51476,
-      "tomatometer": 64,
-      "tomatometer_count": 108,
+      "rating": 6.6,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 104,
       "tomatometer_certified": false,
-      "audience_score": 75,
-      "audience_count": 22642,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The Mummy is a rousing, suspenseful and horrifying epic about an expedition of treasure-seeking explorers in the Sahara Desert in 1925. Stumbling upon an ancient tomb, the hunters unwittingly set loose a 3,000-year-old legacy of terror, which is embodied in the vengeful reincarnation of an Egyptian priest who had been sentenced to an eternity as one of the living dead.",
       "tagline": "",
@@ -6303,15 +6307,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Mummy/4973?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Peacock",
-          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000104668_02_HDSDR/9a0b0086-91b6-3249-8999-7e543fc84fa6?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:46:19.400374Z"
+      "scraped_at": "2026-11-11T19:42:17.880861Z"
     },
     {
       "id": "the_sea_beast",

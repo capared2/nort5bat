@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 59,
-  "updated_at": "2026-11-11T06:39:52.713850Z",
+  "updated_at": "2026-11-11T19:45:33.870579Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -5261,12 +5261,12 @@
       "runtime_minutes": 100,
       "certificate": "G",
       "rating": 6.7,
-      "votes": 17573,
-      "tomatometer": 55,
-      "tomatometer_count": 210,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 208,
       "tomatometer_certified": false,
-      "audience_score": 64,
-      "audience_count": 7606,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When a doubting young boy takes a train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe.",
       "tagline": "",
@@ -5338,11 +5338,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Polar-Express/10932?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:49:31.957364Z"
+      "scraped_at": "2026-11-11T19:45:29.558369Z"
     },
     {
       "id": "the_valley_of_gwangi",

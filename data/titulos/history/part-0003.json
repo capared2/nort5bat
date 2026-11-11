@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-11T06:39:29.870522Z",
+  "updated_at": "2026-11-11T19:41:32.040347Z",
   "titles": [
     {
       "id": "1004330-cleopatra",
@@ -6300,12 +6300,12 @@
       "runtime_minutes": 104,
       "certificate": "PG",
       "rating": 6.4,
-      "votes": 961,
-      "tomatometer": 79,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 170,
       "tomatometer_certified": true,
-      "audience_score": 78,
-      "audience_count": 305,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 1843 London, author Charles Dickens finds himself in financial trouble after writing three unsuccessful novels in a row. Desperate for a hit, Dickens relies on real-life inspiration and his vivid imagination to bring Ebenezer Scrooge, Tiny Tim and other classic characters to life in A Christmas Carol, forever changing the holiday season into the celebration known today.",
       "tagline": "",
@@ -6408,11 +6408,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Man-Who-Invented-Christmas/906839?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:44:38.071692Z"
+      "scraped_at": "2026-11-11T19:40:36.064160Z"
     },
     {
       "id": "the_man_who_knew_infinity",
@@ -6432,12 +6436,12 @@
       "runtime_minutes": 114,
       "certificate": "PG-13",
       "rating": 6.1,
-      "votes": 2377,
-      "tomatometer": 62,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 129,
       "tomatometer_certified": false,
-      "audience_score": 71,
-      "audience_count": 267,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 1913, brilliant East Indian mathematician Srinivasa Ramanujan (Dev Patel) travels to Trinity College in England to work with professor G.H. Hardy (Jeremy Irons).",
       "tagline": "",
@@ -6548,7 +6552,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-26T22:44:39.086888Z"
+      "scraped_at": "2026-11-11T19:40:37.032253Z"
     },
     {
       "id": "tommys_honour",
