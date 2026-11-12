@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 32,
   "count": 60,
-  "updated_at": "2026-11-12T07:24:38.172363Z",
+  "updated_at": "2026-11-12T20:07:18.455643Z",
   "titles": [
     {
       "id": "10008830-bill",
@@ -6192,12 +6192,12 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 5.7,
-      "votes": 241,
-      "tomatometer": 73,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 45,
-      "audience_count": 125,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Before heading off to college, a teenager (Caroline Dhavernas) and her two friends try to seduce a married man (David Boreanaz).",
       "tagline": "",
@@ -6302,7 +6302,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T12:20:05.602440Z"
+      "scraped_at": "2026-11-12T20:00:18.553990Z"
     },
     {
       "id": "toni_erdmann",
@@ -6321,12 +6321,12 @@
       "runtime_minutes": 162,
       "certificate": "R",
       "rating": 8.3,
-      "votes": 1520,
-      "tomatometer": 93,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 237,
       "tomatometer_certified": true,
-      "audience_score": 73,
-      "audience_count": 182,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A film by Maren Ade.",
       "tagline": "",
@@ -6399,7 +6399,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T12:25:20.835763Z"
+      "scraped_at": "2026-11-12T20:05:34.984827Z"
     },
     {
       "id": "trading_places",
@@ -6417,12 +6417,12 @@
       "runtime_minutes": 116,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 11381,
-      "tomatometer": 87,
-      "tomatometer_count": 54,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 50,
       "tomatometer_certified": true,
-      "audience_score": 85,
-      "audience_count": 3017,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Upper-crust executive Louis Winthorpe III (Dan Aykroyd) and down-and-out hustler Billy Ray Valentine (Eddie Murphy) are the subjects of a bet by successful brokers Mortimer (Don Ameche) and Randolph Duke (Ralph Bellamy). An employee of the Dukes, Winthorpe is framed by the brothers for a crime he didn't commit, with the siblings then installing the street-smart Valentine in his position. When Winthorpe and Valentine uncover the scheme, they set out to turn the tables on the Dukes.",
       "tagline": "",
@@ -6525,11 +6525,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Trading-Places/28286?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T18:04:45.550197Z"
+      "scraped_at": "2026-11-12T20:06:51.095208Z"
     },
     {
       "id": "up_in_smoke_1978",

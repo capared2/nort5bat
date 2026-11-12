@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-12T07:18:35.034957Z",
+  "updated_at": "2026-11-12T20:07:18.896987Z",
   "titles": [
     {
       "id": "1200731-robocop",
@@ -7522,12 +7522,12 @@
       "runtime_minutes": 109,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 23622,
-      "tomatometer": 80,
-      "tomatometer_count": 81,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 80,
       "tomatometer_certified": true,
-      "audience_score": 79,
-      "audience_count": 7869,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Douglas Quaid is a bored construction worker in the year 2084 who dreams of visiting colonized Mars. He visits \"Rekall,\" a company that plants false memories into people's brains, in order to experience the thrill of Mars without having to travel there. But something goes wrong during the procedure; Quaid discovers that his entire life is actually a false memory and that the people who implanted it in his head now want him dead.",
       "tagline": "",
@@ -7634,11 +7634,15 @@
         {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/total-recall-1990--1010523?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T12:25:53.040548Z"
+      "scraped_at": "2026-11-12T20:06:06.733124Z"
     },
     {
       "id": "valerian_and_the_city_of_a_thousand_planets",

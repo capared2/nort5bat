@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 30,
   "count": 60,
-  "updated_at": "2026-11-12T07:22:37.363503Z",
+  "updated_at": "2026-11-12T20:03:13.632824Z",
   "titles": [
     {
       "id": "10005178-saint_ralph",
@@ -6259,12 +6259,12 @@
       "runtime_minutes": 102,
       "certificate": "PG",
       "rating": 5.9,
-      "votes": 4044,
-      "tomatometer": 67,
-      "tomatometer_count": 70,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 67,
       "tomatometer_certified": false,
-      "audience_score": 48,
-      "audience_count": 4113,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "New York City roommates Peter (Tom Selleck), Michael (Steve Guttenberg) and Jack (Ted Danson) are all successful and happily unmarried, but Peter and Michael get the surprise of a lifetime when a young woman abandons an infant in front of their loft. They also receive a letter stating that the child, named Mary, belongs to Jack, but he's away on business. Michael and Peter are then forced to care for Mary -- and though they make hopeless babysitters, they soon become quite attached to the girl.",
       "tagline": "",
@@ -6349,11 +6349,15 @@
         {
           "name": "Disney+",
           "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T12:22:05.653091Z"
+      "scraped_at": "2026-11-12T20:02:18.708011Z"
     },
     {
       "id": "three_men_and_a_little_lady",
@@ -6370,13 +6374,13 @@
       "release_date": null,
       "runtime_minutes": 108,
       "certificate": "PG",
-      "rating": 4.4,
-      "votes": 1730,
-      "tomatometer": 40,
-      "tomatometer_count": 20,
+      "rating": 4.2,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 19,
       "tomatometer_certified": false,
-      "audience_score": 43,
-      "audience_count": 999,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Peter (Tom Selleck), Michael (Steve Guttenberg) and Jack (Ted Danson) live with Jack's ex-girlfriend, Sylvia (Nancy Travis), and her daughter, Mary (Robin Weisman), whom the guys have raised since infancy. Sylvia is pursing a career on Broadway when she meets director Edward (Christopher Cazenove) and quickly falls in love with him. When Sylvia breaks the news that she's engaged and preparing to move to England, the guys realize that Edward may not have her and Mary's best interests at heart.",
       "tagline": "",
@@ -6465,7 +6469,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T12:22:06.489618Z"
+      "scraped_at": "2026-11-12T20:02:19.447404Z"
     },
     {
       "id": "what_a_feeling",
