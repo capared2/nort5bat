@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 44,
   "count": 60,
-  "updated_at": "2026-11-11T19:47:35.031563Z",
+  "updated_at": "2026-11-12T07:24:37.852762Z",
   "titles": [
     {
       "id": "10000390-mickey",
@@ -5919,12 +5919,12 @@
       "runtime_minutes": 100,
       "certificate": "R",
       "rating": 6.8,
-      "votes": 172,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 56,
       "tomatometer_certified": false,
-      "audience_score": 64,
-      "audience_count": 58,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A Pakistani (Ayad Akhtar) stays in the home of his longtime friend (Firdous Bamji) while planning a terrorist attack in New York.",
       "tagline": "",
@@ -6021,11 +6021,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-War-Within/59333?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FMFFMJTJ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:18:39.659876Z"
+      "scraped_at": "2026-11-12T07:23:28.081473Z"
     },
     {
       "id": "three_seasons_1999",

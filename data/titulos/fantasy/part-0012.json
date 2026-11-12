@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 12,
   "count": 59,
-  "updated_at": "2026-11-11T19:45:33.870579Z",
+  "updated_at": "2026-11-12T07:24:37.635823Z",
   "titles": [
     {
       "id": "1003953-charly",
@@ -5364,12 +5364,12 @@
       "runtime_minutes": 95,
       "certificate": "G",
       "rating": 5.5,
-      "votes": 334,
-      "tomatometer": 73,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 59,
-      "audience_count": 160,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A Wild West showman (James Franciscus) and his cowboys find dinosaurs near a Mexican town and put one on display.",
       "tagline": "",
@@ -5450,7 +5450,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:17:43.591042Z"
+      "scraped_at": "2026-11-12T07:22:30.127771Z"
     },
     {
       "id": "the_vast_of_night",
@@ -5469,12 +5469,12 @@
       "runtime_minutes": 90,
       "certificate": "PG-13",
       "rating": 7.8,
-      "votes": 1741,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 249,
       "tomatometer_certified": true,
-      "audience_score": 67,
-      "audience_count": 495,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In the 1950s, two kids search for the source of a mysterious frequency that has descended on their town.",
       "tagline": "",
@@ -5567,10 +5567,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Vast-of-Night/5247551?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:17:48.219633Z"
+      "scraped_at": "2026-11-12T07:22:35.005491Z"
     },
     {
       "id": "the_velveteen_rabbit",
@@ -5591,12 +5596,12 @@
       "runtime_minutes": 44,
       "certificate": null,
       "rating": 7.6,
-      "votes": 49,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 86,
-      "audience_count": 13,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Based on the treasured, classic children's book by Margery Williams, \"The Velveteen Rabbit\" celebrates the magic of unconditional love. When 7-year-old William receives a new favorite toy for Christmas, he discovers a lifelong friend and unlocks a world of magic.",
       "tagline": "",
@@ -5679,7 +5684,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:17:56.586319Z"
+      "scraped_at": "2026-11-12T07:22:44.350913Z"
     },
     {
       "id": "the_vvaan_force_of_the_forrest",
@@ -5699,12 +5704,12 @@
       "runtime_minutes": 145,
       "certificate": "Sep 2026",
       "rating": 4.6,
-      "votes": 24,
-      "tomatometer": 21,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 19,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 6,
+      "audience_count": null,
       "metascore": null,
       "plot": "A rational urban man defies his ancestral village's forbidden forest and awakens a divine goddess, forcing him to confront powers beyond logic as he becomes the unlikely savior protecting his people from annihilation.",
       "tagline": "",
@@ -5772,7 +5777,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:18:21.501482Z"
+      "scraped_at": "2026-11-12T07:23:10.092757Z"
     },
     {
       "id": "thoda_pyaar_thoda_magic",

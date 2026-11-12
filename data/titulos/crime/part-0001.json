@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-11T19:47:56.901254Z",
+  "updated_at": "2026-11-12T07:24:37.304150Z",
   "titles": [
     {
       "id": "1002531-black_widow",
@@ -5794,12 +5794,12 @@
       "runtime_minutes": 130,
       "certificate": "R",
       "rating": 8.0,
-      "votes": 289,
-      "tomatometer": 88,
-      "tomatometer_count": 110,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 111,
       "tomatometer_certified": true,
-      "audience_score": 81,
-      "audience_count": 82,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah's estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah's rivals threaten to destroy everything he has built.",
       "tagline": "",
@@ -5882,7 +5882,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:11:51.089368Z"
+      "scraped_at": "2026-11-12T07:16:38.915052Z"
     },
     {
       "id": "the_samurai_and_the_prisoner",
@@ -5896,18 +5896,18 @@
         "Drama",
         "Crime"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 147,
       "certificate": "Jul 2026",
       "rating": 8.0,
-      "votes": 86,
-      "tomatometer": 97,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 89,
       "tomatometer_certified": true,
-      "audience_score": 81,
-      "audience_count": 25,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Bando Shingo), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls.",
       "tagline": "",
@@ -6006,10 +6006,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Samurai-and-the-Prisoner/5369084?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:12:29.728308Z"
+      "scraped_at": "2026-11-12T07:17:17.814815Z"
     },
     {
       "id": "the_scrapper_2021",
@@ -6029,12 +6034,12 @@
       "runtime_minutes": 87,
       "certificate": null,
       "rating": 7.5,
-      "votes": 20,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 80,
-      "audience_count": 3,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Queens, New York City. A criminal playing-ﬁeld of modern immigrant syndicates: human-trafﬁcking, money-laundering and unﬂinching brutality. Uncomfortable in his Punjabi-Mexican skin, ex-con turned 'scrapper' Jake carries the weight of both his family legacy and a violent past. Caring for a mentally-challenged brother and an unborn child on the way, he is focused on turning his life around. When one last job presents a way out for good, he must decide between loyalty to blood ties or to his newfound family. His past soon catches up with him and he's thrown into the middle of a conﬂict between Punjabi and Mexican factions led by violent, ruthless criminals. As events explode into brutal violence, with everyone he loves at stake, he may need to go to his own darkest places to ﬁnally escape.",
       "tagline": "",
@@ -6141,7 +6146,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:12:42.114314Z"
+      "scraped_at": "2026-11-12T07:17:30.147432Z"
     },
     {
       "id": "the_seed_of_the_sacred_fig",
@@ -6161,12 +6166,12 @@
       "runtime_minutes": 167,
       "certificate": "PG-13",
       "rating": 8.3,
-      "votes": 86,
-      "tomatometer": 97,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 161,
       "tomatometer_certified": true,
-      "audience_score": 93,
-      "audience_count": 24,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Shot entirely in secret, Mohammad Rasoulof's award-winning thriller, THE SEED OF THE SACRED FIG, centers on a family thrust into the public eye when Iman is appointed as an investigating judge in Tehran. As political unrest erupts in the streets, Iman realizes that his job is even more dangerous than expected, making him increasingly paranoid and distrustful, even of his own wife Najmeh and daughters Sana and Rezvan.",
       "tagline": "",
@@ -6281,7 +6286,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:13:06.073239Z"
+      "scraped_at": "2026-11-12T07:17:53.239405Z"
     },
     {
       "id": "the_stranger_2022",
@@ -6301,12 +6306,12 @@
       "runtime_minutes": 117,
       "certificate": null,
       "rating": 7.5,
-      "votes": 1184,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 48,
       "tomatometer_certified": true,
-      "audience_score": 74,
-      "audience_count": 144,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A friendship forms between two strangers. For Henry Teague (Sean Harris), worn down by a lifetime of physical labor, this is a dream come true. His new friend Mark (Joel Edgerton) becomes his savior and ally. However, neither is who they appear to be, each carry secrets that threaten to ruin them -- and in the background, one of the nation's largest police operations is closing in.",
       "tagline": "",
@@ -6403,7 +6408,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:15:05.703458Z"
+      "scraped_at": "2026-11-12T07:19:54.154992Z"
     },
     {
       "id": "the_takeover_2022",
@@ -6423,12 +6428,12 @@
       "runtime_minutes": 87,
       "certificate": "TV-MA",
       "rating": null,
-      "votes": 212,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 1,
       "tomatometer_certified": false,
-      "audience_score": 76,
-      "audience_count": 13,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Framed for murder after uncovering a privacy scandal, an ethical hacker must evade the police while trying to track down the criminals blackmailing her.",
       "tagline": "",
@@ -6535,7 +6540,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:15:55.968933Z"
+      "scraped_at": "2026-11-12T07:20:44.085954Z"
     },
     {
       "id": "the_vault_2021",
@@ -6556,12 +6561,12 @@
       "runtime_minutes": 118,
       "certificate": "R",
       "rating": 5.8,
-      "votes": 360,
-      "tomatometer": 58,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 31,
       "tomatometer_certified": false,
-      "audience_score": 52,
-      "audience_count": 79,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Freddie Highmore (\"The Good Doctor\") and Famke Janssen (X-Men) star in this globe-trotting, action-packed thriller following a high-risk heist. When an engineer (Highmore) learns of a mysterious, impenetrable fortress hidden under The Bank of Spain, he joins a crew of master thieves who plan to steal the legendary lost treasure locked inside while the whole country is distracted by Spain's World Cup Final. With thousands of soccer fans cheering in the streets, and security forces closing in, the crew have just minutes to pull off the score of a lifetime. Also starring Astrid Berges-Frisbey (Pirates of the Caribbean: On Stranger Tides) and Liam Cunningham (\"Game of Thrones\").",
       "tagline": "",
@@ -6668,7 +6673,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T05:17:51.555002Z"
+      "scraped_at": "2026-11-12T07:22:38.876448Z"
     },
     {
       "id": "three_billboards_outside_ebbing_missouri",
