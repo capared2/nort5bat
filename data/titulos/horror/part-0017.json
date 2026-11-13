@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-11-13T06:59:21.324205Z",
+  "updated_at": "2026-11-13T19:52:16.227176Z",
   "titles": [
     {
       "id": "1008015-fury",
@@ -7075,13 +7075,13 @@
       "release_date": null,
       "runtime_minutes": 103,
       "certificate": "R",
-      "rating": 5.1,
-      "votes": 1025,
-      "tomatometer": 56,
-      "tomatometer_count": 18,
+      "rating": 5.3,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 17,
       "tomatometer_certified": false,
-      "audience_score": 48,
-      "audience_count": 322,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 17th-century New England, witch hunter Giles Redferne (Julian Sands) captures an evil warlock (Richard E. Grant), but the conjurer eludes death with supernatural help. Flung into the future, the warlock winds up in the 1980s and plans to bring about the end of the world. Redferne follows the enchanter into the modern era and continues his mission, but runs into trouble in such unfamiliar surroundings. With the help of a young woman (Lori Singer), can Redferne finally defeat the warlock?",
       "tagline": "",
@@ -7172,7 +7172,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:23:27.404626Z"
+      "scraped_at": "2026-11-13T19:50:20.027668Z"
     },
     {
       "id": "warm_bodies",
@@ -7193,12 +7193,12 @@
       "runtime_minutes": 98,
       "certificate": "PG-13",
       "rating": 6.8,
-      "votes": 57328,
-      "tomatometer": 80,
-      "tomatometer_count": 210,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 209,
       "tomatometer_certified": true,
-      "audience_score": 73,
-      "audience_count": 6787,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A terrible plague has left the planet's population divided between zombies and humans. An unusual zombie named R (Nicholas Hoult) sees his walking-dead brethren attacking a living woman named Julie (Teresa Palmer) and rescues her. Julie sees that R is different from the other zombies, and the pair embark on an unusual relationship. As their bond grows and R becomes more and more human, a chain of events unfolds that could transform the entire lifeless world.",
       "tagline": "",
@@ -7295,11 +7295,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Warm-Bodies/410824?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B082B6HXZC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:23:29.934222Z"
+      "scraped_at": "2026-11-13T19:50:19.433617Z"
     }
   ]
 }

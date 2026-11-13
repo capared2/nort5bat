@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-13T06:58:56.622890Z",
+  "updated_at": "2026-11-13T19:50:15.627871Z",
   "titles": [
     {
       "id": "1007141-fatal_attraction",
@@ -7268,12 +7268,12 @@
       "runtime_minutes": 103,
       "certificate": "R",
       "rating": 4.1,
-      "votes": 23580,
-      "tomatometer": 14,
-      "tomatometer_count": 59,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 58,
       "tomatometer_certified": false,
-      "audience_score": 51,
-      "audience_count": 10897,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After his partner and family are killed, FBI agent Jack Crawford (Jason Statham) becomes obsessed with revenge on an assassin named Rogue (Jet Li). Rogue's return sparks a violent war between rival Asian mobsters Chang (John Lone) and Shiro (Ryo Ishibashi), while the ultimate showdown between Crawford and Rogue reveals the truth.",
       "tagline": "",
@@ -7376,15 +7376,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/War/129038?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0HFQ52Q2H/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:23:03.068504Z"
+      "scraped_at": "2026-11-13T19:49:50.248605Z"
     },
     {
       "id": "wicker_park",

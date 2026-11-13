@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:59:23.457088Z",
+  "generated_at": "2026-11-13T19:54:41.488444Z",
   "populares": [
     {
       "id": "300",
@@ -342,32 +342,6 @@
       ]
     },
     {
-      "id": "wall_e",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "WALL-E",
-      "original_title": "WALL-E",
-      "year": 2008,
-      "genres": [
-        "Kids & Family",
-        "Adventure",
-        "Sci-Fi",
-        "Comedy",
-        "Animation"
-      ],
-      "rating": 8.9,
-      "votes": 151081,
-      "tomatometer": 95,
-      "audience_score": 90,
-      "runtime_minutes": 97,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/4In1lOkyOCqU4kSxcIB9-qVzUX8=/300x450/v2/https://resizing.flixster.com/cAPBycTaGTyvL5knoQfGAocmLTY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkODNhNzI1LTRhOWItNDg0OC05ODcxLWM5NDlmMzVhZTYxYi53ZWJw",
-      "plot": "WALL-E, short for Waste Allocation Load Lifter Earth-class, is the last robot left on Earth. He spends his days tidying up the planet, one piece of garbage at a time. But during 700 years, WALL-E has…",
-      "directors": [
-        "Andrew Stanton"
-      ]
-    },
-    {
       "id": "chronicles_of_narnia_lion_witch_wardrobe",
       "category": "fantasy",
       "type": "movie",
@@ -541,29 +515,6 @@
       ]
     },
     {
-      "id": "wedding_crashers",
-      "category": "romance",
-      "type": "movie",
-      "title": "Wedding Crashers",
-      "original_title": "Wedding Crashers",
-      "year": 2005,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "rating": 6.9,
-      "votes": 139157,
-      "tomatometer": 75,
-      "audience_score": 70,
-      "runtime_minutes": 119,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/a0q9LcW2E2WEYY-4cXHrwCzLtw8=/300x450/v2/https://resizing.flixster.com/-qhYnYH0DhUHnj28JA0IMwoH0hk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RjODg2YjU4LWEyY2QtNDUzMy04N2FjLTQ2N2ViODM5NGUxZi5qcGc=",
-      "plot": "Jeremy (Vince Vaughn) and John (Owen Wilson) are divorce mediators who spend their free time crashing wedding receptions. For the irrepressible duo, there are few better ways to drink for free and…",
-      "directors": [
-        "David Dobkin"
-      ]
-    },
-    {
       "id": "django_unchained_2012",
       "category": "western",
       "type": "movie",
@@ -609,29 +560,6 @@
       "plot": "In 1992 Bogotá, a little girl watches crime lord Don Luis and his henchman Marco murder her parents. Fifteen years later, the now-grown Cataleya, who is named for a Colombian orchid, works as a…",
       "directors": [
         "Olivier Megaton"
-      ]
-    },
-    {
-      "id": "walk_to_remember",
-      "category": "romance",
-      "type": "movie",
-      "title": "A Walk to Remember",
-      "original_title": "A Walk to Remember",
-      "year": 2002,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "rating": 4.8,
-      "votes": 131222,
-      "tomatometer": 30,
-      "audience_score": 78,
-      "runtime_minutes": 101,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/YANGP9g1ONfcQr9Jq_W2Ci8vG2I=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29274_p_v12_aa.jpg",
-      "plot": "Set in North Carolina, \"A Walk To Remember\" follows the rite of passage of a jaded, aimless high school senior (Shane West) who falls in love with a guileless young woman (Mandy Moore) he and his…",
-      "directors": [
-        "Adam Shankman"
       ]
     },
     {
@@ -960,6 +888,78 @@
       "directors": [
         "Curtis Hanson"
       ]
+    },
+    {
+      "id": "back_to_the_future",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "Back to the Future",
+      "original_title": "Back to the Future",
+      "year": 1985,
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 9.0,
+      "votes": 115034,
+      "tomatometer": 93,
+      "audience_score": 95,
+      "runtime_minutes": 116,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/Xxe58u86CdQyXJY9sO0pXJxPA7s=/300x450/v2/https://resizing.flixster.com/FklqoVrTrVgdjnDiRljCJBS19sg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NhODE3ZDdkLTdkMWItNDgzNi05MmI4LWNjODMyOTExNTMxNC5qcGc=",
+      "plot": "In this 1980s sci-fi classic, small-town California teen Marty McFly is thrown back into the '50s when an experiment by his eccentric scientist friend Doc Brown goes awry. Traveling through time in a…",
+      "directors": [
+        "Robert Zemeckis"
+      ]
+    },
+    {
+      "id": "et_the_extraterrestrial",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "E.T. the Extra-Terrestrial",
+      "original_title": "E.T. the Extra-Terrestrial",
+      "year": 1982,
+      "genres": [
+        "Kids & Family",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "rating": 9.5,
+      "votes": 115000,
+      "tomatometer": 99,
+      "audience_score": 72,
+      "runtime_minutes": 114,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/v8cxn4rVERaQ_Tc4Sl1rBFapumc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10998_p_v8_ad.jpg",
+      "plot": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott…",
+      "directors": [
+        "Steven Spielberg"
+      ]
+    },
+    {
+      "id": "day_after_tomorrow",
+      "category": "sci-fi",
+      "type": "movie",
+      "title": "The Day After Tomorrow",
+      "original_title": "The Day After Tomorrow",
+      "year": 2004,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery & Thriller",
+        "Sci-Fi"
+      ],
+      "rating": 5.5,
+      "votes": 114474,
+      "tomatometer": 44,
+      "audience_score": 50,
+      "runtime_minutes": 123,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/ttnEHFNZCIcK-Ay316eIijlHRrs=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34439_p_v8_bb.jpg",
+      "plot": "After climatologist Jack Hall is largely ignored by U.N. officials when presenting his environmental concerns, his research proves true when a superstorm develops, setting off catastrophic natural…",
+      "directors": [
+        "Roland Emmerich"
+      ]
     }
   ],
   "mejor_valoradas": [
@@ -1076,28 +1076,6 @@
       "plot": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott…",
       "directors": [
         "Steven Spielberg"
-      ]
-    },
-    {
-      "id": "vertigo",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Vertigo",
-      "original_title": "Vertigo",
-      "year": 1958,
-      "genres": [
-        "Mystery & Thriller"
-      ],
-      "rating": 9.5,
-      "votes": 28158,
-      "tomatometer": 94,
-      "audience_score": 92,
-      "runtime_minutes": 128,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/bf9vZYIjQuM8adsc01XZuP8dLaE=/300x450/v2/https://resizing.flixster.com/j7ZWcA_4dEPTXkbbVkT-mTvaJE0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhMDk4YzEzLTU3ZGItNGU4YS05Mzc2LTkyMjRkY2U5MjUxYi5qcGc=",
-      "plot": "Hitchcock's romantic story of obsession, manipulation and fear. A detective is forced to retire after his fear of heights causes the death of a fellow officer and the girl he was hired to follow. He…",
-      "directors": [
-        "Alfred Hitchcock"
       ]
     },
     {
@@ -1403,32 +1381,6 @@
       "certificate": "G",
       "poster": "https://resizing.flixster.com/2Ihsf1B9o1fM19f1-YNpK5fQAbU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p31890_p_v8_aa.jpg",
       "plot": "Marlin (Albert Brooks), a clown fish, is overly cautious with his son, Nemo (Alexander Gould), who has a foreshortened fin. When Nemo swims too close to the surface to prove himself, he is caught by…",
-      "directors": [
-        "Andrew Stanton"
-      ]
-    },
-    {
-      "id": "wall_e",
-      "category": "sci-fi",
-      "type": "movie",
-      "title": "WALL-E",
-      "original_title": "WALL-E",
-      "year": 2008,
-      "genres": [
-        "Kids & Family",
-        "Adventure",
-        "Sci-Fi",
-        "Comedy",
-        "Animation"
-      ],
-      "rating": 8.9,
-      "votes": 151081,
-      "tomatometer": 95,
-      "audience_score": 90,
-      "runtime_minutes": 97,
-      "certificate": "G",
-      "poster": "https://resizing.flixster.com/4In1lOkyOCqU4kSxcIB9-qVzUX8=/300x450/v2/https://resizing.flixster.com/cAPBycTaGTyvL5knoQfGAocmLTY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FkODNhNzI1LTRhOWItNDg0OC05ODcxLWM5NDlmMzVhZTYxYi53ZWJw",
-      "plot": "WALL-E, short for Waste Allocation Load Lifter Earth-class, is the last robot left on Earth. He spends his days tidying up the planet, one piece of garbage at a time. But during 700 years, WALL-E has…",
       "directors": [
         "Andrew Stanton"
       ]
@@ -1901,6 +1853,53 @@
       "directors": [
         "Alejandro González Iñárritu"
       ]
+    },
+    {
+      "id": "airplane",
+      "category": "comedy",
+      "type": "movie",
+      "title": "Airplane!",
+      "original_title": "Airplane!",
+      "year": 1980,
+      "genres": [
+        "Comedy"
+      ],
+      "rating": 8.5,
+      "votes": 28589,
+      "tomatometer": 97,
+      "audience_score": 89,
+      "runtime_minutes": 88,
+      "certificate": "PG",
+      "poster": "https://resizing.flixster.com/tPTH9AYdBtwTKYTGKijEYtLTD2M=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1671_p_v11_aa.jpg",
+      "plot": "This spoof comedy takes shots at the slew of disaster movies that were released in the 70s. When the passengers and crew of a jet are incapacitated due to food poisoning, a rogue pilot with a…",
+      "directors": [
+        "Jim Abrahams",
+        "David Zucker"
+      ]
+    },
+    {
+      "id": "departed",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Departed",
+      "original_title": "The Departed",
+      "year": 2006,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery & Thriller"
+      ],
+      "rating": 8.4,
+      "votes": 176018,
+      "tomatometer": 91,
+      "audience_score": 94,
+      "runtime_minutes": 152,
+      "certificate": "R",
+      "poster": "https://resizing.flixster.com/DcAxmPyeRllx6dPxdesuYSyQ0bc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p162564_p_v13_an.jpg",
+      "plot": "South Boston cop Billy Costigan (Leonardo DiCaprio) goes undercover to infiltrate the organization of gangland chief Frank Costello (Jack Nicholson). As Billy gains the mobster's trust, a career…",
+      "directors": [
+        "Martin Scorsese"
+      ]
     }
   ],
   "recientes": [
@@ -2242,29 +2241,6 @@
       ]
     },
     {
-      "id": "verity",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Verity",
-      "original_title": "Verity",
-      "year": 2026,
-      "genres": [
-        "Mystery & Thriller",
-        "Drama"
-      ],
-      "rating": 4.9,
-      "votes": 2068,
-      "tomatometer": 31,
-      "audience_score": 72,
-      "runtime_minutes": 114,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/JSBRKMejKRyKJEXNRVbPqH31OLs=/300x450/v2/https://resizing.flixster.com/plveNrwTDzd10Gy_RUo82ixooWI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2ZDhhYWE1LTcwYzItNGIzOS1iYmM3LTg3ODQ3ODY2NjE3NS5qcGc=",
-      "plot": "Adapted from Colleen Hoover's best-selling novel, this seductive, psychological thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowen Ashleigh (Dakota Johnson), a struggling…",
-      "directors": [
-        "Michael Showalter"
-      ]
-    },
-    {
       "id": "wildwood",
       "category": "fantasy",
       "type": "movie",
@@ -2437,30 +2413,6 @@
       "directors": [
         "James Cameron",
         "Billie Eilish"
-      ]
-    },
-    {
-      "id": "whalefall",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Whalefall",
-      "original_title": "Whalefall",
-      "year": 2026,
-      "genres": [
-        "Mystery & Thriller",
-        "Adventure",
-        "Drama"
-      ],
-      "rating": 6.5,
-      "votes": 1024,
-      "tomatometer": 73,
-      "audience_score": 81,
-      "runtime_minutes": 105,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/HGItc2gGk1pUoAHbvmKHN0BEqAE=/300x450/v2/https://resizing.flixster.com/wkyovIOKHfAiMl1v4nSk6__GsJs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdjNzc1YmE5LTY3ZTItNDA5Yi05YzI3LWI0MjM5YzJiZTk0ZS5qcGc=",
-      "plot": "Following the death of his father (Josh Brolin), Jay Gardiner (Austin Abrams) goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale.…",
-      "directors": [
-        "Brian Duffield"
       ]
     },
     {
@@ -2862,6 +2814,51 @@
       "directors": [
         "Poh Si Teng"
       ]
+    },
+    {
+      "id": "finding_emily",
+      "category": "romance",
+      "type": "movie",
+      "title": "Finding Emily",
+      "original_title": "Finding Emily",
+      "year": 2026,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 7.0,
+      "votes": 165,
+      "tomatometer": 90,
+      "audience_score": 90,
+      "runtime_minutes": 111,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/0igj3wrzr2q7F_rt-l3o3UxBZNk=/300x450/v2/https://resizing.flixster.com/_65i0zmhB_DSR02MXNu6scg5oEI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk1YTk3MTQ3LTFjY2ItNDQzMC05MjczLWM0ZmI1YTYzNWI4OC5qcGc=",
+      "plot": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their…",
+      "directors": [
+        "Alicia MacDonald"
+      ]
+    },
+    {
+      "id": "fjord",
+      "category": "drama",
+      "type": "movie",
+      "title": "Fjord",
+      "original_title": "Fjord",
+      "year": 2026,
+      "genres": [
+        "Drama"
+      ],
+      "rating": 7.8,
+      "votes": 127,
+      "tomatometer": 92,
+      "audience_score": 91,
+      "runtime_minutes": 146,
+      "certificate": "Now Playing",
+      "poster": "https://resizing.flixster.com/zulMwd3OfA6xt_049ngkgraDVPQ=/300x450/v2/https://resizing.flixster.com/lViHU4jzdzDe3W9Tzi3egNx0cQc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc4Y2M1ODMyLTRiMmEtNGY4Ny04MWNjLWMwMjI0MThkZmE3Zi5qcGc=",
+      "plot": "The Gheorghius, a devout Romanian Norwegian couple, resettle in a village set in a distant fjord where they become close to their neighbors, the Halbergs. Their children bond despite their different…",
+      "directors": [
+        "Cristian Mungiu"
+      ]
     }
   ],
   "clasicos": [
@@ -2978,28 +2975,6 @@
       "plot": "After a gentle alien becomes stranded on Earth, the being is discovered and befriended by a young boy named Elliott. Bringing the extraterrestrial into his suburban California house, Elliott…",
       "directors": [
         "Steven Spielberg"
-      ]
-    },
-    {
-      "id": "vertigo",
-      "category": "mystery-thriller",
-      "type": "movie",
-      "title": "Vertigo",
-      "original_title": "Vertigo",
-      "year": 1958,
-      "genres": [
-        "Mystery & Thriller"
-      ],
-      "rating": 9.5,
-      "votes": 28158,
-      "tomatometer": 94,
-      "audience_score": 92,
-      "runtime_minutes": 128,
-      "certificate": "PG",
-      "poster": "https://resizing.flixster.com/bf9vZYIjQuM8adsc01XZuP8dLaE=/300x450/v2/https://resizing.flixster.com/j7ZWcA_4dEPTXkbbVkT-mTvaJE0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhMDk4YzEzLTU3ZGItNGU4YS05Mzc2LTkyMjRkY2U5MjUxYi5qcGc=",
-      "plot": "Hitchcock's romantic story of obsession, manipulation and fear. A detective is forced to retire after his fear of heights causes the death of a fellow officer and the girl he was hired to follow. He…",
-      "directors": [
-        "Alfred Hitchcock"
       ]
     },
     {
@@ -3421,29 +3396,6 @@
       "plot": "The last of five coveted \"golden tickets\" falls into the hands of a sweet but very poor boy. He and his grandpa then get a tour of the strangest chocolate factory in the world. The owner leads five…",
       "directors": [
         "Mel Stuart"
-      ]
-    },
-    {
-      "id": "when_harry_met_sally",
-      "category": "romance",
-      "type": "movie",
-      "title": "When Harry Met Sally...",
-      "original_title": "When Harry Met Sally...",
-      "year": 1989,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "rating": 8.0,
-      "votes": 36129,
-      "tomatometer": 90,
-      "audience_score": 89,
-      "runtime_minutes": 95,
-      "certificate": "R",
-      "poster": "https://resizing.flixster.com/-IpBWQCVq_i1eOjRkhxMpLw9kac=/300x450/v2/https://resizing.flixster.com/M4iPWls-t9r93XS_d0IBF9snH0w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxMDNkY2Y0LTY0NzktNGM3OS04MWFmLTI1YWNlNDg4MzE4YS5qcGc=",
-      "plot": "In 1977, college graduates Harry Burns (Billy Crystal) and Sally Albright (Meg Ryan) share a contentious car ride from Chicago to New York, during which they argue about whether men and women can…",
-      "directors": [
-        "Rob Reiner"
       ]
     },
     {

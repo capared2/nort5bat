@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 28,
   "count": 60,
-  "updated_at": "2026-11-13T06:58:56.754378Z",
+  "updated_at": "2026-11-13T19:50:14.684715Z",
   "titles": [
     {
       "id": "1001180-armed_and_dangerous",
@@ -6692,12 +6692,12 @@
       "runtime_minutes": 112,
       "certificate": "R",
       "rating": 6.5,
-      "votes": 2567,
-      "tomatometer": 74,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 215,
       "tomatometer_certified": false,
-      "audience_score": 88,
-      "audience_count": 1144,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn't prepared for a surprise combatant: Santa Claus (David Harbour, Black Widow, Stranger Things series) is on the grounds, and he's about to show why this Nick is no saint.",
       "tagline": "",
@@ -6808,7 +6808,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:21:00.630596Z"
+      "scraped_at": "2026-11-13T19:47:48.267680Z"
     },
     {
       "id": "wag_the_dog",
@@ -6827,12 +6827,12 @@
       "runtime_minutes": 97,
       "certificate": "R",
       "rating": 7.7,
-      "votes": 6003,
-      "tomatometer": 86,
-      "tomatometer_count": 79,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 76,
       "tomatometer_certified": true,
-      "audience_score": 76,
-      "audience_count": 1504,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two weeks prior to reelection, the United States president lands in the middle of a sex scandal. In need of outside help to quell the situation, presidential adviser Winifred Ames enlists the expertise of spin doctor Conrad Brean, who decides a distraction is the best course of action. Brean approaches Hollywood producer Stanley Motss to help him fabricate a war in Albania -- and once underway, the duo has the media entirely focused on the war.",
       "tagline": "",
@@ -6913,11 +6913,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Wag-the-Dog/12881?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B8NVK22M/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:21:56.442743Z"
+      "scraped_at": "2026-11-13T19:48:45.543162Z"
     },
     {
       "id": "wilbur_wants_to_kill_himself",

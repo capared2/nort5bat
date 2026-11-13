@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-11-13T06:58:57.100844Z",
+  "updated_at": "2026-11-13T19:50:14.946438Z",
   "titles": [
     {
       "id": "10008748-saawariya",
@@ -7012,12 +7012,12 @@
       "runtime_minutes": 101,
       "certificate": "PG",
       "rating": 4.8,
-      "votes": 131222,
-      "tomatometer": 30,
-      "tomatometer_count": 105,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 100,
       "tomatometer_certified": false,
-      "audience_score": 78,
-      "audience_count": 1042359,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Set in North Carolina, \"A Walk To Remember\" follows the rite of passage of a jaded, aimless high school senior (Shane West) who falls in love with a guileless young woman (Mandy Moore) he and his friends once scorned. The two develop a powerful and inspirational relationship in which they discover truths that take most people a lifetime to learn.",
       "tagline": "",
@@ -7106,10 +7106,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HQ14BHC6/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:22:30.569386Z"
+      "scraped_at": "2026-11-13T19:49:20.566854Z"
     },
     {
       "id": "worlds_apart_2015",

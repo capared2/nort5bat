@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-11-12T07:24:38.187799Z",
+  "updated_at": "2026-11-13T19:52:17.648471Z",
   "titles": [
     {
       "id": "1077642-nothing_to_lose",
@@ -6692,12 +6692,12 @@
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 7.0,
-      "votes": 75,
-      "tomatometer": 84,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 67,
       "tomatometer_certified": true,
-      "audience_score": 77,
-      "audience_count": 13,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Amateur criminals stumble upon a dark secret in a sadistic couple's home.",
       "tagline": "",
@@ -6822,7 +6822,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:20:51.901293Z"
+      "scraped_at": "2026-11-13T19:47:39.235322Z"
     },
     {
       "id": "weather_man",
@@ -6841,12 +6841,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 6.6,
-      "votes": 11645,
-      "tomatometer": 60,
-      "tomatometer_count": 136,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 131,
       "tomatometer_certified": false,
-      "audience_score": 56,
-      "audience_count": 5529,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "David Spritz (Nicolas Cage) is a Chicago weatherman who, despite success at his job, is deeply unhappy. Eclipsed by his father, Robert (Michael Caine), a celebrated author, and licking his wounds after his marriage to Noreen (Hope Davis) collapses, David resolves to get his life in order by applying for a high-profile job on a New York City talk show. But with his personal life a shambles, David must decide between fast-tracking his career and repairing his rapidly deteriorating family life.",
       "tagline": "",
@@ -6943,11 +6943,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Weather-Man/59050?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:24:58.085720Z"
+      "scraped_at": "2026-11-13T19:51:46.660603Z"
     },
     {
       "id": "you_will_meet_a_tall_dark_stranger",

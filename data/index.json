@@ -1,6 +1,6 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-13T06:59:23.836873Z",
+  "generated_at": "2026-11-13T19:54:41.979197Z",
   "total_titles": 20958,
   "total_genres": 27,
   "genres": [
@@ -251,7 +251,7 @@
     {
       "genre": "comedy",
       "name": "Comedy",
-      "titles": 3173,
+      "titles": 3172,
       "files": [
         {
           "file": "titulos/comedy/part-0001.json",
@@ -415,7 +415,7 @@
         },
         {
           "file": "titulos/comedy/part-0041.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/comedy/part-0042.json",
@@ -466,7 +466,7 @@
           "count": 55
         }
       ],
-      "tagged": 5416
+      "tagged": 5415
     },
     {
       "genre": "mystery-thriller",
@@ -1646,11 +1646,11 @@
     {
       "genre": "other",
       "name": "Other",
-      "titles": 2,
+      "titles": 3,
       "files": [
         {
           "file": "titulos/other/part-0001.json",
-          "count": 2
+          "count": 3
         }
       ],
       "tagged": 20

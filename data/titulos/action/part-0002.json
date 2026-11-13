@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-13T06:52:53.917101Z",
+  "updated_at": "2026-11-13T19:52:16.564058Z",
   "titles": [
     {
       "id": "1017321-red_dawn",
@@ -7043,12 +7043,12 @@
       "runtime_minutes": 89,
       "certificate": "PG",
       "rating": 4.3,
-      "votes": 22,
-      "tomatometer": 14,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 14,
-      "audience_count": 11,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In a small town in California, the quiet citizens have had their lives disrupted by boisterous, lawless oil-field workers who have infested their community. One resident, Ben Arnold (Jan-Michael Vincent), enlists his brother Aaron (Kris Kristofferson), a Vietnam veteran, to assemble a group of men to restore law and order to the town. Though Aaron's crew succeeds, the newfound power goes to some of their heads, and Aaron and Ben must again reclaim the town for the citizens.",
       "tagline": "",
@@ -7121,10 +7121,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DTFHBVCP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:20:37.564196Z"
+      "scraped_at": "2026-11-13T19:47:26.450989Z"
     },
     {
       "id": "viking_destiny",
@@ -7143,12 +7148,12 @@
       "runtime_minutes": 91,
       "certificate": "R",
       "rating": 3.7,
-      "votes": 35,
-      "tomatometer": 13,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 34,
-      "audience_count": 13,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A Viking princess is forced to flee her kingdom when she is framed for her father's murder. Under the guidance of the god Odin, she travels far and wide to gather support to win back her throne.",
       "tagline": "",
@@ -7255,7 +7260,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:20:39.803040Z"
+      "scraped_at": "2026-11-13T19:47:28.775680Z"
     },
     {
       "id": "warriors_of_heaven_and_earth",
@@ -7275,13 +7280,13 @@
       "release_date": null,
       "runtime_minutes": 119,
       "certificate": "R",
-      "rating": 6.3,
-      "votes": 400,
-      "tomatometer": 68,
-      "tomatometer_count": 31,
+      "rating": 6.4,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 30,
       "tomatometer_certified": false,
-      "audience_score": 56,
-      "audience_count": 140,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 8th-century China, a Japanese emissary (Kiichi Nakai) and the mutinous soldier (Wen Jiang) he was sent to execute join forces to protect a caravan.",
       "tagline": "",
@@ -7382,7 +7387,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:23:33.213408Z"
+      "scraped_at": "2026-11-13T19:50:23.258601Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-13T06:56:54.905792Z",
+  "updated_at": "2026-11-13T19:54:38.976460Z",
   "titles": [
     {
       "id": "10008703-rails_and_ties",
@@ -6998,12 +6998,12 @@
       "runtime_minutes": 96,
       "certificate": "PG-13",
       "rating": 5.4,
-      "votes": 509,
-      "tomatometer": 54,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 13,
       "tomatometer_certified": false,
-      "audience_score": 75,
-      "audience_count": 108,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A troubled ex-ballplayer finds his life reinvigorated through his friendship with a mentally challenged grocery-store employee.",
       "tagline": "",
@@ -7100,11 +7100,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Where-Hope-Grows/669908?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/80041084?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GTSMQKGJ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:48:22.693896Z"
+      "scraped_at": "2026-11-13T19:54:22.583909Z"
     },
     {
       "id": "wrestling_ernest_hemingway",

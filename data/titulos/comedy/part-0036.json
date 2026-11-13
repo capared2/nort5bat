@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 36,
   "count": 60,
-  "updated_at": "2026-11-13T06:56:55.535274Z",
+  "updated_at": "2026-11-13T19:52:17.529636Z",
   "titles": [
     {
       "id": "1007195-feds",
@@ -6423,12 +6423,12 @@
       "runtime_minutes": 114,
       "certificate": "PG-13",
       "rating": 4.5,
-      "votes": 6338,
-      "tomatometer": 23,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 81,
       "tomatometer_certified": false,
-      "audience_score": 63,
-      "audience_count": 2801,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "As a child, RJ Stevens (Martin Lawrence) was the awkward brunt of numerous jokes. Now, RJ is a successful talk-show host who dispenses advice and encouragement to millions. When his parents ask him to come back home for their anniversary, RJ vows to show everyone how much he has changed. Unfortunately, RJ's plans are no match for his Southern relatives.",
       "tagline": "",
@@ -6525,11 +6525,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Welcome-Home-Roscoe-Jenkins/132885?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/51282?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:25:19.365558Z"
+      "scraped_at": "2026-11-13T19:52:07.280781Z"
     },
     {
       "id": "whos_harry_crumb",

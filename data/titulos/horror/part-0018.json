@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-11-13T06:58:57.297173Z",
+  "updated_at": "2026-11-13T19:54:17.739804Z",
   "titles": [
     {
       "id": "10004684-malevolence",
@@ -6763,12 +6763,12 @@
       "runtime_minutes": 87,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 8575,
-      "tomatometer": 83,
-      "tomatometer_count": 60,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 59,
       "tomatometer_certified": true,
-      "audience_score": 80,
-      "audience_count": 2713,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
       "tagline": "",
@@ -6853,15 +6853,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Videodrome/4867?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0FTDY2K5V/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:20:30.492082Z"
+      "scraped_at": "2026-11-13T19:47:19.701234Z"
     },
     {
       "id": "visiting_hours",
@@ -6876,15 +6872,15 @@
       "year": 1982,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": 105,
+      "runtime_minutes": 103,
       "certificate": "R",
-      "rating": 4.1,
-      "votes": 204,
-      "tomatometer": 15,
-      "tomatometer_count": 13,
+      "rating": 4.2,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 12,
       "tomatometer_certified": false,
-      "audience_score": 24,
-      "audience_count": 70,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A slasher (Michael Ironside) finds the hospital where a TV newswoman (Lee Grant) is recovering from his attack.",
       "tagline": "",
@@ -6953,7 +6949,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:21:23.158935Z"
+      "scraped_at": "2026-11-13T19:48:11.768589Z"
     },
     {
       "id": "what_we_do_in_the_shadows",
@@ -6972,12 +6968,12 @@
       "runtime_minutes": 86,
       "certificate": "R",
       "rating": 7.9,
-      "votes": 12958,
-      "tomatometer": 96,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 191,
       "tomatometer_certified": true,
-      "audience_score": 87,
-      "audience_count": 1416,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Vampire housemates (Jemaine Clement, Taika Waititi, Jonathan Brugh) try to cope with the complexities of modern life and show a newly turned hipster (Cori Gonzalez-Macuer) some of the perks of being undead.",
       "tagline": "",
@@ -7076,13 +7072,13 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Stream",
-          "url": "https://athome.fandango.com/content/browse/details/What-We-Do-in-the-Shadows/659765?cmp=rt_where_to_watch"
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/what-we-do-in-the-shadows/umc.cmc.1jd05gxbpjl54q63b5ud5cvj?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:26:42.015703Z"
+      "scraped_at": "2026-11-13T19:53:31.333337Z"
     }
   ]
 }

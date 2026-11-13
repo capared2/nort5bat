@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-13T06:58:57.417520Z",
+  "updated_at": "2026-11-13T19:50:14.797486Z",
   "titles": [
     {
       "id": "1200731-robocop",
@@ -7802,12 +7802,12 @@
       "runtime_minutes": 142,
       "certificate": "PG-13",
       "rating": 8.2,
-      "votes": 22639,
-      "tomatometer": 94,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 361,
       "tomatometer_certified": true,
-      "audience_score": 84,
-      "audience_count": 2765,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Caesar (Andy Serkis) and his apes are forced into a deadly conflict with an army of humans led by a ruthless colonel (Woody Harrelson). After the apes suffer unimaginable losses, Caesar wrestles with his darker instincts and begins his own mythic quest to avenge his kind. As the journey finally brings them face to face, Caesar and the colonel are pitted against each other in an epic battle that will determine the fate of both of their species and the future of the planet.",
       "tagline": "",
@@ -7910,11 +7910,23 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/War-for-the-Planet-of-the-Apes/851339?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:23:07.283063Z"
+      "scraped_at": "2026-11-13T19:49:55.263991Z"
     }
   ]
 }

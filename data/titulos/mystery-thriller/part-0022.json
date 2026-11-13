@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-11-13T06:56:55.767027Z",
+  "updated_at": "2026-11-13T19:48:13.860644Z",
   "titles": [
     {
       "id": "1005973-diva",
@@ -6580,12 +6580,12 @@
       "runtime_minutes": 97,
       "certificate": "R",
       "rating": 6.0,
-      "votes": 96,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 24,
       "tomatometer_certified": false,
-      "audience_score": 53,
-      "audience_count": 29,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Released from prison, a man returns to his violent ways when a menacing drug lord threatens his indebted brother.",
       "tagline": "",
@@ -6688,11 +6688,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Villain/1393506?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GXHSRLP1/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T22:20:51.094479Z"
+      "scraped_at": "2026-11-13T19:47:38.402244Z"
     },
     {
       "id": "white_of_the_eye",
