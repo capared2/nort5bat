@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 25,
   "count": 60,
-  "updated_at": "2026-11-12T20:05:14.032144Z",
+  "updated_at": "2026-11-13T06:54:54.330763Z",
   "titles": [
     {
       "id": "1002361-big_town",
@@ -6262,12 +6262,12 @@
       "runtime_minutes": 122,
       "certificate": "R",
       "rating": 5.1,
-      "votes": 4308,
-      "tomatometer": 22,
-      "tomatometer_count": 109,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 106,
       "tomatometer_certified": false,
-      "audience_score": 47,
-      "audience_count": 1421,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A former college athlete (Matthew McConaughey) joins forces with a sports consultant (Al Pacino) to handicap football games for high-rolling gamblers.",
       "tagline": "",
@@ -6364,11 +6364,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Two-for-the-Money/946055?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B09TWS2G31/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-27T18:08:28.958718Z"
+      "scraped_at": "2026-11-13T06:53:53.191180Z"
     },
     {
       "id": "woman_thou_art_loosed",

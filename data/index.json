@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-12T20:07:41.607289Z",
-  "total_titles": 20954,
+  "generated_at": "2026-11-13T06:59:23.836873Z",
+  "total_titles": 20958,
   "total_genres": 27,
   "genres": [
     {
@@ -246,7 +246,7 @@
           "count": 44
         }
       ],
-      "tagged": 9425
+      "tagged": 9426
     },
     {
       "genre": "comedy",
@@ -607,7 +607,7 @@
     {
       "genre": "documentary",
       "name": "Documentary",
-      "titles": 2620,
+      "titles": 2621,
       "files": [
         {
           "file": "titulos/documentary/part-0001.json",
@@ -783,10 +783,10 @@
         },
         {
           "file": "titulos/documentary/part-0044.json",
-          "count": 42
+          "count": 43
         }
       ],
-      "tagged": 3584
+      "tagged": 3587
     },
     {
       "genre": "action",
@@ -1359,7 +1359,7 @@
     {
       "genre": "biography",
       "name": "Biography",
-      "titles": 468,
+      "titles": 469,
       "files": [
         {
           "file": "titulos/biography/part-0001.json",
@@ -1391,15 +1391,15 @@
         },
         {
           "file": "titulos/biography/part-0008.json",
-          "count": 48
+          "count": 49
         }
       ],
-      "tagged": 758
+      "tagged": 759
     },
     {
       "genre": "history",
       "name": "History",
-      "titles": 325,
+      "titles": 326,
       "files": [
         {
           "file": "titulos/history/part-0001.json",
@@ -1423,10 +1423,10 @@
         },
         {
           "file": "titulos/history/part-0006.json",
-          "count": 25
+          "count": 26
         }
       ],
-      "tagged": 581
+      "tagged": 582
     },
     {
       "genre": "music",
@@ -1487,7 +1487,7 @@
     {
       "genre": "animation",
       "name": "Animation",
-      "titles": 260,
+      "titles": 261,
       "files": [
         {
           "file": "titulos/animation/part-0001.json",
@@ -1507,10 +1507,10 @@
         },
         {
           "file": "titulos/animation/part-0005.json",
-          "count": 20
+          "count": 21
         }
       ],
-      "tagged": 483
+      "tagged": 484
     },
     {
       "genre": "war",
