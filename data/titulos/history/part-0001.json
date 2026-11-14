@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-14T06:39:05.081446Z",
+  "updated_at": "2026-11-14T18:13:52.050708Z",
   "titles": [
     {
       "id": "10007415-amazing_grace",
@@ -21,12 +21,12 @@
       "runtime_minutes": 116,
       "certificate": "PG",
       "rating": 6.7,
-      "votes": 9878,
-      "tomatometer": 68,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 122,
       "tomatometer_certified": false,
-      "audience_score": 85,
-      "audience_count": 4574,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 18th-century England, House of Commons member William Wilberforce (Ioan Gruffudd) and his close friend and a future prime minister, William Pitt (Benedict Cumberbatch), begin a lengthy battle to abolish Great Britain's slave trade. Though Wilberforce's legislation is soundly defeated in 1791, his growing affection for Barbara Spooner (Romola Garai) inspires him to take up the fight once more.",
       "tagline": "",
@@ -123,11 +123,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Amazing-Grace/129013?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0BXMYZQ41/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:04:24.816717Z"
+      "scraped_at": "2026-11-14T18:12:09.788302Z"
     },
     {
       "id": "1014986-nicholas_and_alexandra",

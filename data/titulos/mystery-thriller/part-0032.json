@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 32,
   "count": 50,
-  "updated_at": "2026-11-14T06:39:26.933110Z",
+  "updated_at": "2026-11-14T18:18:15.416666Z",
   "titles": [
     {
       "id": "014dffa4-331e-3390-bde9-ef4ed16ecde8",
@@ -25,7 +25,7 @@
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Fleeing the police after a close-call robbery, two estranged siblings escape to a mysterious farmhouse that transports them to a different time.",
       "tagline": "",
@@ -66,7 +66,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:03:11.469168Z"
+      "scraped_at": "2026-11-14T18:10:56.048278Z"
     },
     {
       "id": "1013227-manchurian_candidate",
@@ -85,12 +85,12 @@
       "runtime_minutes": 126,
       "certificate": "PG-13",
       "rating": 9.1,
-      "votes": 4753,
-      "tomatometer": 95,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 66,
       "tomatometer_certified": true,
-      "audience_score": 90,
-      "audience_count": 1496,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Near the end of the Korean War, a platoon of U.S. soldiers is captured by communists and brainwashed. Following the war, the platoon is returned home, and Sergeant Raymond Shaw (Laurence Harvey) is lauded as a hero by the rest of his platoon. However, the platoon commander, Captain Bennett Marco (Frank Sinatra), finds himself plagued by strange nightmares and, together with fellow soldier Allen Melvin (James Edwards), races to uncover a terrible plot.",
       "tagline": "",
@@ -171,11 +171,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Manchurian-Candidate/140435?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GVF51YK5/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:39:06.526851Z"
+      "scraped_at": "2026-11-14T18:18:10.258102Z"
     },
     {
       "id": "bad_apples_2025",

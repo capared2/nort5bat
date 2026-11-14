@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-13T19:48:13.645207Z",
+  "updated_at": "2026-11-14T18:11:50.309222Z",
   "titles": [
     {
       "id": "a_complete_unknown",
@@ -6451,12 +6451,12 @@
       "runtime_minutes": 129,
       "certificate": null,
       "rating": 7.6,
-      "votes": 99,
-      "tomatometer": 96,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 69,
       "tomatometer_certified": true,
-      "audience_score": 82,
-      "audience_count": 39,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "With unfettered access to the Zappa family trust and all archival footage, ZAPPA explores the private life behind the mammoth musical career that never shied away from the political turbulence of its time. Alex Winter’s assembly features appearances by Frank’s widow Gail Zappa and several of Frank’s musical collaborators including Mike Keneally, Ian Underwood, Steve Vai, Pamela Des Barres, Bunk Gardner, David Harrington, Scott Thunes, Ruth Underwood, Ray White and others.",
       "tagline": "",
@@ -6522,11 +6522,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Zappa/1521194?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GX2SNVKL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:02:30.711626Z"
+      "scraped_at": "2026-11-14T18:10:15.337010Z"
     }
   ]
 }

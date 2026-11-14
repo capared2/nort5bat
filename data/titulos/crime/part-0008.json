@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-14T06:33:00.995952Z",
+  "updated_at": "2026-11-14T18:18:15.173994Z",
   "titles": [
     {
       "id": "10003284-the_zodiac",
@@ -22,12 +22,12 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 4.1,
-      "votes": 1345,
-      "tomatometer": 24,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 29,
       "tomatometer_certified": false,
-      "audience_score": 38,
-      "audience_count": 514,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this film based on actual events, the quiet community of Vallejo, Calif., is rocked by the random shooting deaths of two teenagers. Inspector Matt Parish is assigned to the case. But, since there's little evidence to go on, his investigation hits a dead end, and his growing frustration takes a toll on his wife and son. But when the killer, now known as the Zodiac, strikes again, Matt becomes obsessed with catching him.",
       "tagline": "",
@@ -123,7 +123,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:03:34.937077Z"
+      "scraped_at": "2026-11-14T18:11:18.310394Z"
     },
     {
       "id": "1013488-masquerade",
@@ -142,12 +142,12 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 5.3,
-      "votes": 187,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 16,
       "tomatometer_certified": false,
-      "audience_score": 52,
-      "audience_count": 50,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Olivia Lawrence (Meg Tilly), heiress to her recently deceased mother's sizable fortune, travels in the elite social circles of the Hamptons. Olivia becomes infatuated with Tim Whalen (Rob Lowe), an attractive yacht captain who appears to be uninterested in her money. But the duplicitous Tim -- with help from Olivia's stepfather, Tony Gateworth (John Glover), and childhood friend, Mike McGill (Doug Savant) -- is plotting something sinister against the unwitting heiress.",
       "tagline": "",
@@ -232,11 +232,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Masquerade/140447?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DGJXJ27J/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:39:10.554738Z"
+      "scraped_at": "2026-11-14T18:18:14.936122Z"
     },
     {
       "id": "1016592-postman_always_rings_twice",

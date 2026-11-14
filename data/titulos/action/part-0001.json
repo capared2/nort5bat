@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-14T06:37:03.393641Z",
+  "updated_at": "2026-11-14T18:11:50.328157Z",
   "titles": [
     {
       "id": "10000_bc",
@@ -22,12 +22,12 @@
       "runtime_minutes": 109,
       "certificate": "PG-13",
       "rating": 3.5,
-      "votes": 44505,
-      "tomatometer": 10,
-      "tomatometer_count": 147,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 143,
       "tomatometer_certified": false,
-      "audience_score": 37,
-      "audience_count": 21529,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Mammoth hunter D'Leh has long been in love with a beautiful, blue-eyed tribeswoman named Evolet. After horseback-riding raiders kidnap most of his fellow tribesmen as well as Evolet, he sets out on a dangerous trek to rescue her from her captors.",
       "tagline": "",
@@ -130,11 +130,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/10000-BC/132100?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/70060018?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:03:17.372115Z"
+      "scraped_at": "2026-11-14T18:11:01.902242Z"
     },
     {
       "id": "1054125-shadow",
@@ -7622,13 +7626,13 @@
       "release_date": null,
       "runtime_minutes": 115,
       "certificate": "R",
-      "rating": 7.3,
-      "votes": 5615,
-      "tomatometer": 87,
-      "tomatometer_count": 122,
+      "rating": 7.2,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 121,
       "tomatometer_certified": true,
-      "audience_score": 88,
-      "audience_count": 1672,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Blind traveler Zatoichi is a master swordsman and a masseur with a fondness for gambling on dice games. When he arrives in a village torn apart by warring gangs, he sets out to protect the townspeople. He is also enlisted to help two sibling geisha, Okinu and Osei, avenge the murder of their parents, who were slaughtered in a massacre. Zatoichi must fight his way through numerous enemies before finally clashing with a heartless crime boss.",
       "tagline": "",
@@ -7724,7 +7728,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:02:33.583774Z"
+      "scraped_at": "2026-11-14T18:10:18.107863Z"
     }
   ]
 }

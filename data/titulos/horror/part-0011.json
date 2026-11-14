@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 11,
   "count": 60,
-  "updated_at": "2026-11-14T06:37:03.273755Z",
+  "updated_at": "2026-11-14T18:15:53.629077Z",
   "titles": [
     {
       "id": "10008606-eye",
@@ -21,12 +21,12 @@
       "runtime_minutes": 97,
       "certificate": "PG-13",
       "rating": 4.3,
-      "votes": 18666,
-      "tomatometer": 22,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 76,
       "tomatometer_certified": false,
-      "audience_score": 43,
-      "audience_count": 9527,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Blind for most of her life, concert violinist Sydney Wells (Jessica Alba) is the recipient of a double corneal transplant that restores her sight at long last. With the help of her doctor (Alessandro Nivola) and sister (Parker Posey), she learns to see again. Soon, however, frightening visions convince her that a terrifying alternate world exists, and only she can see it.",
       "tagline": "",
@@ -129,7 +129,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:04:46.492593Z"
+      "scraped_at": "2026-11-14T18:12:30.107585Z"
     },
     {
       "id": "10010668-stepfather",
@@ -147,13 +147,13 @@
       "release_date": null,
       "runtime_minutes": 101,
       "certificate": "PG-13",
-      "rating": 3.5,
-      "votes": 10600,
-      "tomatometer": 14,
-      "tomatometer_count": 63,
+      "rating": 3.6,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 59,
       "tomatometer_certified": false,
-      "audience_score": 34,
-      "audience_count": 3550,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When Michael Harding (Penn Badgley) returns home from military school, he discovers that his mother (Sela Ward) has a new man, named David (Dylan Walsh), in her life. Though David makes Michael's mother very happy, Michael cannot seem to shake feelings of distrust. He becomes increasingly suspicious of the man and wonders if the pleasant exterior hides a sinister side.",
       "tagline": "",
@@ -256,11 +256,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Stepfather/168568?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DJS1N69B/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:06:12.302343Z"
+      "scraped_at": "2026-11-14T18:13:57.708166Z"
     },
     {
       "id": "1090185-shark_attack",

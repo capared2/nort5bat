@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-14T06:35:02.949734Z",
+  "updated_at": "2026-11-14T18:15:54.256597Z",
   "titles": [
     {
       "id": "10012068-repo_men",
@@ -22,12 +22,12 @@
       "runtime_minutes": 111,
       "certificate": "R",
       "rating": 4.6,
-      "votes": 14531,
-      "tomatometer": 22,
-      "tomatometer_count": 153,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 151,
       "tomatometer_certified": false,
-      "audience_score": 42,
-      "audience_count": 4349,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In the future, medical technology has advanced to the point where people can buy artificial organs to extend their lives. But if they default on payments, an organization known as the Union sends agents to repossess the organs. Remy (Jude Law) is one of the best agents in the business, but when he becomes the recipient of an artificial heart, he finds himself in the same dire straits as his many victims. With his former partner (Forest Whitaker) in hot pursuit, Remy runs for his life.",
       "tagline": "",
@@ -124,11 +124,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Repo-Men-Theatrical/175213?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/50224?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:06:49.317258Z"
+      "scraped_at": "2026-11-14T18:14:33.829888Z"
     },
     {
       "id": "1017712-robocop",
@@ -7564,12 +7568,12 @@
       "runtime_minutes": 97,
       "certificate": "PG-13",
       "rating": 6.9,
-      "votes": 2558,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 96,
       "tomatometer_certified": true,
-      "audience_score": 44,
-      "audience_count": 279,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Following a disaster that wipes out most of civilization, a scientist (Chiwetel Ejiofor) and a miner (Chris Pine) compete for the love of a woman (Margot Robbie) who may be the last female on Earth.",
       "tagline": "",
@@ -7658,7 +7662,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:02:23.383237Z"
+      "scraped_at": "2026-11-14T18:10:08.346519Z"
     }
   ]
 }

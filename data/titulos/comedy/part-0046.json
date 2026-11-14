@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 46,
   "count": 60,
-  "updated_at": "2026-11-13T19:52:17.557007Z",
+  "updated_at": "2026-11-14T18:15:53.732500Z",
   "titles": [
     {
       "id": "1004151-christmas_story",
@@ -22,12 +22,12 @@
       "runtime_minutes": 93,
       "certificate": "PG",
       "rating": 8.5,
-      "votes": 18530,
-      "tomatometer": 87,
-      "tomatometer_count": 62,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 61,
       "tomatometer_certified": true,
-      "audience_score": 89,
-      "audience_count": 13129,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Based on the humorous writings of author Jean Shepherd, this beloved holiday movie follows the wintry exploits of youngster Ralphie Parker (Peter Billingsley), who spends most of his time dodging a bully (Zack Ward) and dreaming of his ideal Christmas gift, a \"Red Ryder air rifle.\" Frequently at odds with his cranky dad (Darren McGavin) but comforted by his doting mother (Melinda Dillon), Ralphie struggles to make it to Christmas Day with his glasses and his hopes intact.",
       "tagline": "",
@@ -130,11 +130,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/A-Christmas-Story/9894?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:07:52.313393Z"
+      "scraped_at": "2026-11-14T18:15:35.466730Z"
     },
     {
       "id": "1019716-spring_break",

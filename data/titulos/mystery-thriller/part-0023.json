@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 23,
   "count": 60,
-  "updated_at": "2026-11-13T19:54:18.944495Z",
+  "updated_at": "2026-11-14T18:13:52.213975Z",
   "titles": [
     {
       "id": "10008496-pathology",
@@ -20,12 +20,12 @@
       "runtime_minutes": 93,
       "certificate": "R",
       "rating": 5.1,
-      "votes": 4450,
-      "tomatometer": 46,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 24,
       "tomatometer_certified": false,
-      "audience_score": 39,
-      "audience_count": 2191,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Medical student Ted Grey (Milo Ventimiglia) graduates at the top of his class and quickly joins an elite pathology program, whose top students invite him into their circle. There he uncovers a gruesome secret: They play a game in which one tries to commit the perfect, undetectable murder, then the others compete to determine the victim's cause of death.",
       "tagline": "",
@@ -122,11 +122,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Pathology/143197?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DGFNB2KH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:04:40.913372Z"
+      "scraped_at": "2026-11-14T18:12:25.660838Z"
     },
     {
       "id": "1013976-mirage",

@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 45,
   "count": 60,
-  "updated_at": "2026-11-13T19:52:17.566127Z",
+  "updated_at": "2026-11-14T18:18:15.266800Z",
   "titles": [
     {
       "id": "10009001-the_freshman",
@@ -20,12 +20,12 @@
       "runtime_minutes": 102,
       "certificate": "PG",
       "rating": 7.5,
-      "votes": 1444,
-      "tomatometer": 94,
-      "tomatometer_count": 53,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 50,
       "tomatometer_certified": true,
-      "audience_score": 62,
-      "audience_count": 318,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Clark Kellogg (Matthew Broderick) is robbed moments after arriving in New York, so when he sees his mugger several days later, he confronts him. The man promises to return his property and get him a job with his uncle, Carmine Sabatini (Marlon Brando), who turns out to be a Mafia boss. As Clark continues his shady work for Carmine, he discovers an elaborate underworld that has caught the attention of the authorities. As things come to a head, not everything is what it seems.",
       "tagline": "",
@@ -114,7 +114,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:05:12.347896Z"
+      "scraped_at": "2026-11-14T18:12:56.100688Z"
     },
     {
       "id": "1007573-flipper",
@@ -135,12 +135,12 @@
       "runtime_minutes": 90,
       "certificate": "G",
       "rating": 4.7,
-      "votes": 405,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 49,
-      "audience_count": 119,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In the Florida Keys, local 12-year-old boy Sandy Ricks (Luke Halpin) comes across a dolphin that has been pierced by a harpoon. Rushing to help the poor animal, Ricks saves the dolphin's life, cares for it until it regains its health and names it Flipper. Having grown close to Flipper through the healing process, Sandy is disheartened when his fisherman father (Chuck Connors) wants Flipper to return to the ocean. However, their bond proves itself once more in another life-saving moment.",
       "tagline": "",
@@ -221,11 +221,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Flipper/10078?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:08:41.454791Z"
+      "scraped_at": "2026-11-14T18:16:27.066519Z"
     },
     {
       "id": "1013089-main_event",
@@ -243,12 +247,12 @@
       "runtime_minutes": 112,
       "certificate": "PG",
       "rating": 4.7,
-      "votes": 166,
-      "tomatometer": 33,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 41,
-      "audience_count": 54,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When her accountant absconds with all her money, Hillary Kramer goes from reigning queen of the perfume business to flat broke. Down to her last few possessions of value, Hillary finds a contract for a boxer known as Eddie \"Kid Natural\" Scanlon. He's a completely inept fighter, but Kramer is desperate enough to think he's her ticket back to glory. She aggressively promotes him despite his flaws, and falls in love along the way.",
       "tagline": "",
@@ -333,7 +337,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:39:03.499705Z"
+      "scraped_at": "2026-11-14T18:18:07.588505Z"
     },
     {
       "id": "1015380-odd_couple",

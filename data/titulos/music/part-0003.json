@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-14T06:39:26.960179Z",
+  "updated_at": "2026-11-14T18:15:54.280258Z",
   "titles": [
     {
       "id": "10011721-broken_hill",
@@ -21,12 +21,12 @@
       "runtime_minutes": 102,
       "certificate": "PG",
       "rating": 5.5,
-      "votes": 92,
-      "tomatometer": 60,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 59,
-      "audience_count": 27,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Hoping to enter the Sydney Conservatorium of Music, a sheep rancher's son (Luke Arnold) organizes a prison choir to perform his compositions.",
       "tagline": "",
@@ -123,7 +123,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:06:31.657744Z"
+      "scraped_at": "2026-11-14T18:14:15.830155Z"
     },
     {
       "id": "a_nashville_wish",
@@ -5894,7 +5894,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-14T06:39:24.980564Z"
+      "scraped_at": "2026-11-14T18:09:51.124264Z"
     }
   ]
 }

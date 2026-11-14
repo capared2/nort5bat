@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 36,
   "count": 60,
-  "updated_at": "2026-11-14T06:39:26.597021Z",
+  "updated_at": "2026-11-14T18:17:54.575299Z",
   "titles": [
     {
       "id": "1007195-feds",
@@ -20,12 +20,12 @@
       "runtime_minutes": 91,
       "certificate": "PG-13",
       "rating": 4.6,
-      "votes": 151,
-      "tomatometer": 33,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 50,
-      "audience_count": 44,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "As a former Marine, Ellie De Witt (Rebecca De Mornay) is used to pushing herself -- but nothing has prepared her for the challenges of becoming an FBI agent. As she trains at the academy, De Witt encounters rampant sexism among her smarmy, mostly male, classmates. And, while she's a consummate athlete, De Witt's study skills are abysmal. But, with the help of book-smart trainee Janis Zuckerman (Mary Gross), she might just show her macho cohorts the error of their ways.",
       "tagline": "",
@@ -106,11 +106,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Feds/79353?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FVLH9JLQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:08:38.612868Z"
+      "scraped_at": "2026-11-14T18:16:23.862463Z"
     },
     {
       "id": "1019743-squeeze",

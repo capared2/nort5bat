@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-14T06:39:26.508446Z",
+  "updated_at": "2026-11-14T18:13:52.292229Z",
   "titles": [
     {
       "id": "10009632-notorious",
@@ -21,12 +21,12 @@
       "runtime_minutes": 122,
       "certificate": "R",
       "rating": 5.8,
-      "votes": 6678,
-      "tomatometer": 52,
-      "tomatometer_count": 143,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 137,
       "tomatometer_certified": false,
-      "audience_score": 65,
-      "audience_count": 3302,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Born and raised in Brooklyn, N.Y., Christopher Wallace parlays his gift for storytelling into a career as a rap artist. Eventually dubbing himself Biggie Smalls, then later, the Notorious B.I.G., Wallace's tales about violent street life take him to the top of the rap charts. The subject he so often raps about catches up with him in March 1997, when he is shot to death after leaving a party.",
       "tagline": "",
@@ -123,11 +123,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Notorious-Theatrical/144579?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/45198?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:05:41.362424Z"
+      "scraped_at": "2026-11-14T18:13:24.221750Z"
     },
     {
       "id": "all_the_beauty_and_the_bloodshed",

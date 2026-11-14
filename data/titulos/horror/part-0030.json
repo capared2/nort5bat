@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 30,
   "count": 60,
-  "updated_at": "2026-11-14T06:37:03.311054Z",
+  "updated_at": "2026-11-14T18:15:53.600033Z",
   "titles": [
     {
       "id": "1003217-bug",
@@ -20,12 +20,12 @@
       "runtime_minutes": 100,
       "certificate": "PG",
       "rating": 4.9,
-      "votes": 123,
-      "tomatometer": 43,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 14,
       "tomatometer_certified": false,
-      "audience_score": 25,
-      "audience_count": 56,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A scientist (Bradford Dillman) experiments with mutated insects freed by an earthquake, making matters worse.",
       "tagline": "",
@@ -106,7 +106,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:07:38.606873Z"
+      "scraped_at": "2026-11-14T18:15:22.145538Z"
     },
     {
       "id": "a_good_old_fashioned_ghost_story",
@@ -7078,13 +7078,13 @@
       "release_date": null,
       "runtime_minutes": 92,
       "certificate": "R",
-      "rating": 7.0,
-      "votes": 511,
-      "tomatometer": 67,
-      "tomatometer_count": 6,
+      "rating": 6.7,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 34,
-      "audience_count": 215,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An Iranian college student (Janette Armand) and a gay businessman (Doug Fahl) join a band of townspeople to fight deadly walking corpses.",
       "tagline": "",
@@ -7185,7 +7185,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:02:57.451034Z"
+      "scraped_at": "2026-11-14T18:10:42.307720Z"
     }
   ]
 }

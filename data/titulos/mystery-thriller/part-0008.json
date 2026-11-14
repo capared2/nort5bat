@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-14T06:33:00.882381Z",
+  "updated_at": "2026-11-14T18:15:53.878802Z",
   "titles": [
     {
       "id": "10009493-duchess",
@@ -24,12 +24,12 @@
       "runtime_minutes": 109,
       "certificate": "PG-13",
       "rating": 6.4,
-      "votes": 11252,
-      "tomatometer": 62,
-      "tomatometer_count": 170,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 165,
       "tomatometer_certified": false,
-      "audience_score": 67,
-      "audience_count": 4449,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Though adored by the people, the Duchess of Devonshire (Keira Knightley) is not content to sit as a pretty figurehead. Determined to be a major player in affairs of state, she rises to the forefront of the Whig Party and helps usher in reform in late-1700s England. The one thing it seems she cannot do is win the heart of her husband (Ralph Fiennes).",
       "tagline": "",
@@ -136,7 +136,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:05:34.301672Z"
+      "scraped_at": "2026-11-14T18:13:16.891492Z"
     },
     {
       "id": "1003276-burglar",
@@ -155,12 +155,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 4.5,
-      "votes": 311,
-      "tomatometer": 27,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 39,
-      "audience_count": 91,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Bookstore owner and burglar Bernie (Whoopi Goldberg) is being blackmailed by corrupt cop Ray (G.W. Bailey), forcing her into her most ambitious job yet: a jewelry store heist she's woefully under prepared for. Things head south quickly when a murder occurs and Bernie is framed for the death. Now Bernie and her manic sidekick, Carl (Bob Goldthwait), have to clear Bernie's name so she can get back to her normal routine of selling books and stealing.",
       "tagline": "",
@@ -237,11 +237,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Burglar/9197?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FXRFQLRQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:07:39.395579Z"
+      "scraped_at": "2026-11-14T18:15:22.691324Z"
     },
     {
       "id": "1017666-road_house",
