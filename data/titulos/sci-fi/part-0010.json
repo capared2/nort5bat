@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-14T18:17:54.741338Z",
+  "updated_at": "2026-11-14T22:37:27.140905Z",
   "titles": [
     {
       "id": "10009598-surrogates",
@@ -724,12 +724,12 @@
       "runtime_minutes": 107,
       "certificate": "PG",
       "rating": 4.0,
-      "votes": 270,
-      "tomatometer": 5,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 20,
       "tomatometer_certified": false,
-      "audience_score": 14,
-      "audience_count": 91,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this disaster movie, Americans and Soviets must put aside their differences to save civilization from a huge meteor bearing down on the planet. Paul Bradley (Sean Connery) enlists the expertise of fellow scientist Alexei Dubov (Brian Keith), who is joined by his beautiful assistant, Tatiana Donskaya (Natalie Wood). Although Paul and Tatiana are attracted to each other, they wisely focus on taking out the meteor, which may still cause massive destruction even if it is partially damaged.",
       "tagline": "",
@@ -814,7 +814,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:39:14.267889Z"
+      "scraped_at": "2026-11-14T22:29:25.630060Z"
     },
     {
       "id": "1021500-time_machine",
@@ -832,12 +832,12 @@
       "runtime_minutes": 103,
       "certificate": "G",
       "rating": 7.2,
-      "votes": 2457,
-      "tomatometer": 76,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 38,
       "tomatometer_certified": false,
-      "audience_score": 80,
-      "audience_count": 798,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Scientist H.G. Wells builds a time machine, and despite the warning from his friend David against \"tempting the laws of providence,\" decides to visit the future. Jumping ahead 14 years, he observes changes in women's fashion. Jumping ahead 40, he meets David's son (also Young) amid a terrible war. Finally, he travels thousands of years ahead to discover a post-apocalyptic world inhabited by humanoid Eloi and the monstrous Morlocks that feed on them.",
       "tagline": "",
@@ -918,7 +918,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:41:32.835742Z"
+      "scraped_at": "2026-11-14T22:31:44.386753Z"
     },
     {
       "id": "1078021-contact",
@@ -937,12 +937,12 @@
       "runtime_minutes": 150,
       "certificate": "PG",
       "rating": 7.6,
-      "votes": 17139,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 65,
       "tomatometer_certified": false,
-      "audience_score": 79,
-      "audience_count": 6473,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this Zemeckis-directed adaptation of the Carl Sagan novel, Dr. Ellie Arroway races to interpret a possible message originating from the Vega star system. Once first contact with an extraterrestrial intelligence is proven, Arroway contends with restrictive National Security Advisor Kitz and religious fanatics bent on containing the implications of such an event. An incredible message is found hidden in the signal, but will Arroway be the one to answer its call?",
       "tagline": "",
@@ -1033,11 +1033,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Contact/9095?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DZV6RJB2/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:46:54.385432Z"
+      "scraped_at": "2026-11-14T22:37:07.097550Z"
     },
     {
       "id": "1108206-evolution",

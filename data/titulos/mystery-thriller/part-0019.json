@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 19,
   "count": 60,
-  "updated_at": "2026-11-14T18:15:53.900158Z",
+  "updated_at": "2026-11-14T22:37:26.993392Z",
   "titles": [
     {
       "id": "1002526-black_sunday",
@@ -128,12 +128,12 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 3.3,
-      "votes": 333,
-      "tomatometer": 29,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 17,
-      "audience_count": 74,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Jennifer (Alicia Silverstone) is a lovely teen who has been hired to baby-sit the kids of Harry Tucker (J.T. Walsh) and his wife, Dolly (Lee Garlington). The Tuckers go to a party and proceed to get inebriated, with Mr. Tucker fantasizing about his beautiful babysitter. Meanwhile, Jack (Jeremy London), her boyfriend, and Mark (Nicky Katt), another guy interested in her, decide to spy on Jennifer at the Tucker house, with each young man also fixated on her.",
       "tagline": "",
@@ -218,15 +218,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Babysitter/25145?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Paramount+",
-          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:45:10.035927Z"
+      "scraped_at": "2026-11-14T22:35:22.319760Z"
     },
     {
       "id": "1065837-copycat",
@@ -244,12 +240,12 @@
       "runtime_minutes": 123,
       "certificate": "R",
       "rating": 6.5,
-      "votes": 3096,
-      "tomatometer": 76,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 58,
       "tomatometer_certified": true,
-      "audience_score": 65,
-      "audience_count": 875,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Deeply shaken after being assaulted by a deranged man (Harry Connick Jr.), Dr. Helen Hudson (Sigourney Weaver) must face her fears if she is to help solve a series of murders. Helen is a psychologist who has studied serial killers, but this case, in which the crimes seem modeled on the work of infamous deviants, is grimmer than most. With the help of two San Francisco police officers (Holly Hunter, Dermot Mulroney), Helen tries to come between the murderer and his next victim.",
       "tagline": "",
@@ -334,11 +330,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Copycat/9020?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CXHDWJL6/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:45:21.098297Z"
+      "scraped_at": "2026-11-14T22:35:34.141232Z"
     },
     {
       "id": "1093420-stranger_than_fiction",

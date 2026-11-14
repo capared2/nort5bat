@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-11-14T06:37:03.064282Z",
+  "updated_at": "2026-11-14T22:35:25.591502Z",
   "titles": [
     {
       "id": "1038611-jet_pilot",
@@ -20,12 +20,12 @@
       "runtime_minutes": 112,
       "certificate": "G",
       "rating": 5.1,
-      "votes": 72,
-      "tomatometer": 67,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 42,
-      "audience_count": 28,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "During the Cold War, a Russian jet enters airspace over Alaska and is escorted to an American air base. The pilot, Anna Marladovna (Janet Leigh) demands asylum but refuses to provide information on Soviet activities. Col. Jim Shannon (John Wayne) receives orders to befriend Anna in order to win her confidence and gather information. The pilots compete with each other but gradually fall in love. When it appears Anna may be deported, Jim marries her -- only to discover that she may be a spy.",
       "tagline": "",
@@ -102,11 +102,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Jet-Pilot/22290?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GVYQ2NPH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:43:15.375835Z"
+      "scraped_at": "2026-11-14T22:33:28.130952Z"
     },
     {
       "id": "a_ciambra",

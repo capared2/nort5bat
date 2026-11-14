@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 52,
   "count": 60,
-  "updated_at": "2026-11-13T06:54:53.888503Z",
+  "updated_at": "2026-11-14T22:37:26.328621Z",
   "titles": [
     {
       "id": "1046772-three_musketeers",
@@ -22,12 +22,12 @@
       "runtime_minutes": 105,
       "certificate": "PG",
       "rating": 4.8,
-      "votes": 6892,
-      "tomatometer": 31,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 29,
       "tomatometer_certified": false,
-      "audience_score": 63,
-      "audience_count": 3098,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "D'Artagnan travels to Paris hoping to become a musketeer, one of the French king's elite bodyguards, only to discover that the corps has been disbanded by conniving Cardinal Richelieu, who secretly hopes to usurp the throne. Fortunately, Athos, Porthos and Aramis have refused to lay down their weapons and continue to protect their king. D'Artagnan joins with the rogues to expose Richelieu's plot against the crown.",
       "tagline": "",
@@ -116,7 +116,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:44:23.567224Z"
+      "scraped_at": "2026-11-14T22:34:36.199489Z"
     },
     {
       "id": "1066169-home_for_the_holidays",
@@ -135,12 +135,12 @@
       "runtime_minutes": 103,
       "certificate": "PG-13",
       "rating": 6.5,
-      "votes": 1615,
-      "tomatometer": 64,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 45,
       "tomatometer_certified": false,
-      "audience_score": 71,
-      "audience_count": 493,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When her teenage daughter opts out of Thanksgiving, single mother Claudia Larson (Holly Hunter) travels alone to her childhood home for an explosive holiday dinner with her dysfunctional family. Claudia quickly tires of her parents, her long-suffering sister (Cynthia Stevenson), her snobby brother-in-law (Steve Guttenberg) and her nutty aunt (Geraldine Chaplin). But the evening gets interesting when sparks fly between Claudia and her brother's handsome friend Leo Fish (Dylan McDermott).",
       "tagline": "",
@@ -227,11 +227,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Home-for-the-Holidays/22549?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:45:23.733683Z"
+      "scraped_at": "2026-11-14T22:35:36.992053Z"
     },
     {
       "id": "1164675-anita_and_me",

@@ -1,8 +1,8 @@
 {
   "genre": "adventure",
   "part": 3,
-  "count": 31,
-  "updated_at": "2026-11-14T06:39:04.952833Z",
+  "count": 32,
+  "updated_at": "2026-11-14T22:37:49.124354Z",
   "titles": [
     {
       "id": "1017238-razors_edge",
@@ -20,12 +20,12 @@
       "runtime_minutes": 128,
       "certificate": "PG-13",
       "rating": 5.1,
-      "votes": 566,
-      "tomatometer": 47,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 19,
       "tomatometer_certified": false,
-      "audience_score": 76,
-      "audience_count": 212,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Somerset Maugham's Larry Darrell (Bill Murray) goes from World War I to a coal mine to the Himalayas seeking inner peace.",
       "tagline": "",
@@ -106,7 +106,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:40:14.700955Z"
+      "scraped_at": "2026-11-14T22:30:26.921575Z"
     },
     {
       "id": "adventures_of_elmo_in_grouchland",
@@ -201,6 +201,131 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-10-29T22:50:58.467625Z"
+    },
+    {
+      "id": "allen",
+      "url": "https://www.rottentomatoes.com/m/allen",
+      "category": "adventure",
+      "type": "movie",
+      "title": "Allen",
+      "original_title": "Allen",
+      "genres": [
+        "Drama",
+        "Adventure"
+      ],
+      "year": 2026,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 105,
+      "certificate": null,
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 4,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": null,
+      "metascore": null,
+      "plot": "Twenty years after an alien encounter, Petey remains stuck in the past. When his extraterrestrial friend suddenly returns, the true motivation behind the visit proves complicated and unexpected.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/eWvrXtuSjB90wnbo4KpgbyB4xZo=/300x450/v2/https://resizing.flixster.com/s2UZ0-85ncigwsgfsc80GukH54U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q5OGEwZDFjLTEwNzktNGI3OS1hNDc4LTZkZGJmYWNjNTI4OC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/eWvrXtuSjB90wnbo4KpgbyB4xZo=/300x450/v2/https://resizing.flixster.com/s2UZ0-85ncigwsgfsc80GukH54U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q5OGEwZDFjLTEwNzktNGI3OS1hNDc4LTZkZGJmYWNjNTI4OC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/tTnJ9zxgvHBCxikP0Mw3nQZz9b0=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/788/959/thumb_F817877F-C9A6-4225-83B9-BFD304BFCF93.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0irGZseTgu_pHOoYdLmRxHl2cwI=/fit-in/705x460/v2/https://resizing.flixster.com/r5SQ5pGFIElAbVFVSyRQ-lzGTsA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjZTYxYzZhLTQ1ZDctNDY0MC1iYzMxLWRhMjk5NGY1N2YyNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/yQgr-YaIummOnwvjLKrM6s6ZX9c=/fit-in/705x460/v2/https://resizing.flixster.com/ywK30_S7bOetJ3QhECE0BmkW8YM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EyOTZkYjRhLWVkY2QtNDY1MS1hYzg0LTc0YTM0OWNkYWYzNy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/DPAg0Eh6NjLr9A5TFf4ujklGHAI=/fit-in/705x460/v2/https://resizing.flixster.com/2Th07ImRxcqJseTEYUJNDaiitH4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JiMzA4MWU1LTBjN2QtNDM0OC1iZjliLTIyMmQ0ZjA2YTI1Zi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/2ViuMtd8xwd68lTTapGByqS8tbU=/fit-in/705x460/v2/https://resizing.flixster.com/5I3Cp2TZHhIhzi54lo1ft0p2-QU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NkZmRjN2YyLWQ3OTEtNDdlYS05ZTM4LTBiNTFhNDIzZDAwZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/0Qfg6W3H_bw_FfRjmm-n932M5YI=/fit-in/705x460/v2/https://resizing.flixster.com/Xn-6mzuT5A7P2NXo48WVDcNi3dI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFiYWYzZTI1LWM2YWMtNGJlNi1hNTcyLWU2M2EwMGQ3MGRjZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/3duhpIaR5XkwJvKqQM4WEyDWxKg=/fit-in/705x460/v2/https://resizing.flixster.com/2CDgFYSNEFXzpxmr2cGvaPBhyKg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1NDRjMDg5LWQxZDktNGIzMy05YTBkLTYyNDA1YzNjZjlhNC5wbmc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/xU0JH5wEt0DSjzfz0QfNlVP0w3E=/fit-in/705x460/v2/https://resizing.flixster.com/s2UZ0-85ncigwsgfsc80GukH54U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q5OGEwZDFjLTEwNzktNGI3OS1hNDc4LTZkZGJmYWNjNTI4OC5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": {
+        "id": "DxnFJ6QKaBgc",
+        "title": "Allen: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/788/959/thumb_F817877F-C9A6-4225-83B9-BFD304BFCF93.jpg",
+        "seconds": 153,
+        "src": "https://link.theplatform.com/s/NGweTC/media/DxnFJ6QKaBgc?formats=M3U+none"
+      },
+      "directors": [
+        {
+          "id": "daley_pearson",
+          "name": "Daley Pearson"
+        },
+        {
+          "id": "jeffrey-walker",
+          "name": "Jeffrey Walker"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "tj_power",
+          "name": "TJ Power",
+          "character": "",
+          "image": "https://resizing.flixster.com/jBt7lRoCOGnsdmFTN5YbL8o2Ro0=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/584858_v9_ba.jpg"
+        },
+        {
+          "id": "charlotte_nicdao",
+          "name": "Charlotte Nicdao",
+          "character": "",
+          "image": "https://resizing.flixster.com/yr70Jr26ka8FgcuWp6PXXdA5bw8=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/596510_v9_aa.jpg"
+        },
+        {
+          "id": "josh_helman",
+          "name": "Josh Helman",
+          "character": "",
+          "image": "https://resizing.flixster.com/Ow-fjNFpJ3KOWsXXjG198J5_rWk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/693613_v9_bb.jpg"
+        },
+        {
+          "id": "emily-barclay",
+          "name": "Emily Barclay",
+          "character": "",
+          "image": "https://resizing.flixster.com/F7VzshGObDfEyQLIhjIbbmg-Goc=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/300237_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/title/81382720?cmp=rt_where_to_watch"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-14T22:37:48.458104Z"
     },
     {
       "id": "blueback",

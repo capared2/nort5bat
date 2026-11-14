@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-14T18:17:54.682181Z",
+  "updated_at": "2026-11-14T22:33:25.587806Z",
   "titles": [
     {
       "id": "1009518-hercules",
@@ -131,12 +131,12 @@
       "runtime_minutes": 106,
       "certificate": "PG-13",
       "rating": 6.1,
-      "votes": 1081,
-      "tomatometer": 70,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 27,
       "tomatometer_certified": false,
-      "audience_score": 57,
-      "audience_count": 218,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A well-to-do Manhattan housewife, Alice Tate (Mia Farrow), finds her affections shifting from her stockbroker husband (William Hurt) of 16 years to saxophone player Joe Ruffalo (Joe Mantegna), a veritable stranger. After realizing her feelings, Tate begins to experience back pains and visits a Chinatown herbalist, Dr. Yang (Keye Luke), for a cure. Perceptive to her dilemma, Yang provides a series of magical herbal remedies to provide Tate the insight she needs to solve her problem.",
       "tagline": "",
@@ -217,11 +217,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Alice/21440?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B8548WY6/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T22:42:31.416131Z"
+      "scraped_at": "2026-11-14T22:32:42.225061Z"
     },
     {
       "id": "1190970-ghost_town",
