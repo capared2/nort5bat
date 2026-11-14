@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-13T19:52:16.703338Z",
+  "updated_at": "2026-11-14T06:39:05.063130Z",
   "titles": [
     {
       "id": "1008415-glory",
@@ -7424,12 +7424,12 @@
       "runtime_minutes": 134,
       "certificate": "R",
       "rating": 5.6,
-      "votes": 7598,
-      "tomatometer": 33,
-      "tomatometer_count": 164,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 162,
       "tomatometer_certified": false,
-      "audience_score": 50,
-      "audience_count": 2176,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Marine Joe Enders (Nicolas Cage) is assigned to protect Ben Yahzee (Adam Beach) -- a Navajo code talker, the Marines' new secret weapon. Enders' orders are to protect his code talker, but if Yahzee should fall into enemy hands, he's to protect the code at all costs. Against the backdrop of the horrific Battle of Saipan, when capture is imminent, Enders is forced to make a decision: if he can't protect his fellow Marine, can he bring himself to kill him to protect the code?",
       "tagline": "",
@@ -7526,15 +7526,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Windtalkers/141022?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0GHJCSK9Q/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:51:46.659084Z"
+      "scraped_at": "2026-11-14T06:34:07.552983Z"
     },
     {
       "id": "young_washington",
@@ -7557,12 +7553,12 @@
       "runtime_minutes": 125,
       "certificate": "PG-13",
       "rating": 6.1,
-      "votes": 1886,
-      "tomatometer": 59,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 59,
       "tomatometer_certified": false,
-      "audience_score": 92,
-      "audience_count": 629,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Before he was the Father of a Nation, he was a soldier fighting to survive. A single misstep thrusts young George Washington into the center of a global conflict, testing his honor, loyalty, and courage. As alliances crumble and the frontier erupts into war, he must confront not only his enemies but the man he's becoming. This is the untold story of Young Washington.",
       "tagline": "",
@@ -7669,7 +7665,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T13:01:42.665859Z"
+      "scraped_at": "2026-11-14T06:38:59.408526Z"
     }
   ]
 }

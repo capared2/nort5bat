@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 59,
-  "updated_at": "2026-11-13T19:50:15.617152Z",
+  "updated_at": "2026-11-14T06:35:02.686860Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -7384,12 +7384,12 @@
       "runtime_minutes": 106,
       "certificate": "R",
       "rating": 8.6,
-      "votes": 42684,
-      "tomatometer": 94,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 303,
       "tomatometer_certified": true,
-      "audience_score": 94,
-      "audience_count": 5082,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble, forever changing the young man's life. But Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher pushes him to the brink of his ability and his sanity.",
       "tagline": "",
@@ -7492,11 +7492,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Whiplash/592099?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/70299275?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:48:50.465566Z"
+      "scraped_at": "2026-11-14T06:31:11.687569Z"
     },
     {
       "id": "wildcards",
@@ -7515,12 +7519,12 @@
       "runtime_minutes": 110,
       "certificate": "Aug 2026",
       "rating": null,
-      "votes": 1,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 1,
+      "audience_count": null,
       "metascore": null,
       "plot": "WILDCARDS blurs the line between cinema and theatre--shot in real time, every day, the piece follows the trial of Theodore Sterling (Crew Morrow), a privileged young man accused of sexually assaulting a young Black woman (Stakiah Lynn Washington). As jurors from vastly different backgrounds clash over the evidence, tensions escalate between Assistant State Attorney James Jones (Aries Spears), a determined prosecutor, and Greg Sims (Leon), a veteran defense attorney with a flawless 25-year record. The case takes a shocking turn with the arrival of a mysterious \"wildcard\" witness who claims to know the truth about the night in question. Her connection to the accused raises unsettling questions of bias, credibility, and justice--threatening to upend the entire trial.",
       "tagline": "",
@@ -7622,7 +7626,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:51:11.024071Z"
+      "scraped_at": "2026-11-14T06:33:32.021140Z"
     },
     {
       "id": "zola",

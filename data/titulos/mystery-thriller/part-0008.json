@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-13T19:48:13.890255Z",
+  "updated_at": "2026-11-14T06:33:00.882381Z",
   "titles": [
     {
       "id": "10009493-duchess",
@@ -7236,12 +7236,12 @@
       "runtime_minutes": 131,
       "certificate": "PG-13",
       "rating": 5.4,
-      "votes": 42881,
-      "tomatometer": 52,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 199,
       "tomatometer_certified": false,
-      "audience_score": 62,
-      "audience_count": 4609,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Capitol police officer John Cale has just been denied his dream job of protecting President James Sawyer as a member of the Secret Service. Not wanting to disappoint his young daughter with the bad news, Cale takes her on a tour of the White House. While he and his daughter are there, a heavily armed paramilitary group attacks and seizes control. As the nation's government dissolves in chaos, only Cale can save his daughter, the president and the country.",
       "tagline": "",
@@ -7346,7 +7346,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:49:07.777513Z"
+      "scraped_at": "2026-11-14T06:31:29.241390Z"
     },
     {
       "id": "whiteout_2023",
@@ -7365,12 +7365,12 @@
       "runtime_minutes": 91,
       "certificate": null,
       "rating": null,
-      "votes": 24,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 9,
+      "audience_count": null,
       "metascore": null,
       "plot": "After escaping a brutal Russian labor camp, three men must overcome the treacherous wilderness and each other, as their journey home turns into a brutal fight for survival.",
       "tagline": "",
@@ -7473,11 +7473,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Whiteout/3622836?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DH8FCJTX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:49:29.788089Z"
+      "scraped_at": "2026-11-14T06:31:49.769153Z"
     }
   ]
 }

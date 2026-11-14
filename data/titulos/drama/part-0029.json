@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 29,
   "count": 60,
-  "updated_at": "2026-11-13T06:58:56.932523Z",
+  "updated_at": "2026-11-14T06:39:03.909182Z",
   "titles": [
     {
       "id": "10010972-mammoth",
@@ -6737,12 +6737,12 @@
       "runtime_minutes": 109,
       "certificate": null,
       "rating": 7.4,
-      "votes": 68,
-      "tomatometer": 93,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 43,
       "tomatometer_certified": true,
-      "audience_score": 78,
-      "audience_count": 29,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An older factory worker continues to work during a shutdown.",
       "tagline": "",
@@ -6853,7 +6853,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:53:59.361876Z"
+      "scraped_at": "2026-11-14T06:36:20.031535Z"
     },
     {
       "id": "yossi_and_jagger",
@@ -6871,12 +6871,12 @@
       "runtime_minutes": 67,
       "certificate": "R",
       "rating": 6.7,
-      "votes": 604,
-      "tomatometer": 87,
-      "tomatometer_count": 45,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 44,
       "tomatometer_certified": true,
-      "audience_score": 75,
-      "audience_count": 142,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Jagger is the outgoing unit leader of an Israeli Defense Force squad stationed on the Lebanese border; Yossi is his commanding officer. A contemplative soldier, Yossi is starting to buckle under the burden of his secret homosexuality. Jagger and Yossi explore their growing feelings for one another under the suspicious eyes of their fellow soldiers. Their colonel brings news of an impending attack, which tests the bond between the two lovers.",
       "tagline": "",
@@ -6965,15 +6965,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0FTDG7GRJ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:55:48.034564Z"
+      "scraped_at": "2026-11-14T06:38:08.310594Z"
     }
   ]
 }

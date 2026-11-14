@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-11-13T19:52:17.618671Z",
+  "updated_at": "2026-11-14T06:35:01.683998Z",
   "titles": [
     {
       "id": "1042059-leap_of_faith",
@@ -7417,12 +7417,12 @@
       "runtime_minutes": 94,
       "certificate": "R",
       "rating": 7.4,
-      "votes": 5979,
-      "tomatometer": 84,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 202,
       "tomatometer_certified": true,
-      "audience_score": 51,
-      "audience_count": 607,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Middle-aged filmmaker Josh Srebnick (Ben Stiller) and his wife, Cornelia (Naomi Watts), are happily married, but stuck in a rut. So, when free-spirited couple Jamie (Adam Driver) and Darby (Amanda Seyfried) enter their lives, it's like a breath of fresh air -- especially for Josh, who pines for a youth he wishes he had. Soon, Josh and Cornelia are ditching friends their own age to hang out with the hipsters -- but whether the friendship can endure despite a 20-year age gap remains to be seen.",
       "tagline": "",
@@ -7525,11 +7525,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/While-Were-Young/648015?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/80017286?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:48:48.095995Z"
+      "scraped_at": "2026-11-14T06:31:09.067500Z"
     },
     {
       "id": "wish_i_was_here",
@@ -7548,12 +7552,12 @@
       "runtime_minutes": 107,
       "certificate": "R",
       "rating": 5.3,
-      "votes": 4288,
-      "tomatometer": 45,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 133,
       "tomatometer_certified": false,
-      "audience_score": 59,
-      "audience_count": 516,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Aidan Bloom (Zach Braff), a struggling actor, lives in Los Angeles with his wife (Kate Hudson) and two children, Grace and Tucker. Up until now, Aidan's father, Gabe (Mandy Patinkin), has been paying for the children's schooling, but he is now gravely ill. Thus, Aidan attempts to home-school his offspring. As his chaotic curriculum leads to some surprising self-discoveries for his family, Aidan must reassess his career, his relationships and his faith.",
       "tagline": "",
@@ -7654,7 +7658,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:52:10.353061Z"
+      "scraped_at": "2026-11-14T06:34:30.191495Z"
     }
   ]
 }

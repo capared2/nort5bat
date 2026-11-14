@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-11-13T06:56:55.946532Z",
+  "updated_at": "2026-11-14T06:35:01.485621Z",
   "titles": [
     {
       "id": "1001280-assault_on_precinct_13",
@@ -6545,12 +6545,12 @@
       "runtime_minutes": 93,
       "certificate": "R",
       "rating": 5.6,
-      "votes": 191,
-      "tomatometer": 59,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 17,
       "tomatometer_certified": false,
-      "audience_score": 44,
-      "audience_count": 88,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When Hell's Angels member Loser (Bruce Dern) has his motorcycle swiped, he entreats his gang to help him seek the bike, and revenge. Gang leader Heavenly Blues (Peter Fonda) and his lady, Mike (Nancy Sinatra), succeed in tracking down the thieves, but when a fracas breaks out between the gangs, the cops shoot Loser, putting him in the hospital. The rest of the Angels try to rescue Loser from his sickbed, wreaking havoc in the ward and doing their buddy more harm than good.",
       "tagline": "",
@@ -6627,11 +6627,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Wild-Angels/141017?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GXZHNC2F/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:50:41.177915Z"
+      "scraped_at": "2026-11-14T06:33:02.325406Z"
     }
   ]
 }

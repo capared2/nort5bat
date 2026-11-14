@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 23,
   "count": 54,
-  "updated_at": "2026-11-13T19:48:13.213228Z",
+  "updated_at": "2026-11-14T06:37:03.849192Z",
   "titles": [
     {
       "id": "10003184-turning_point",
@@ -5305,13 +5305,13 @@
       "release_date": null,
       "runtime_minutes": 97,
       "certificate": null,
-      "rating": 7.1,
-      "votes": 161,
-      "tomatometer": 92,
-      "tomatometer_count": 12,
+      "rating": 7.0,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 10,
       "tomatometer_certified": false,
-      "audience_score": 64,
-      "audience_count": 49,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Plagued by an overwhelming urge to shoplift, Ann Sutton (Gene Tierney) is helped out of a tight spot by David Korvo (Jose Ferrer). Unfortunately for Ann, Korvo is a conniving hypnotist who draws her into a web of deception and murder through his mind-altering abilities and frames her for his misdeeds. While Ann's psychiatrist husband, Bill (Richard Conte), believes that his wife didn't commit the crimes, Korvo's devious scheme makes proving her innocence quite difficult.",
       "tagline": "",
@@ -5385,7 +5385,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:48:51.504734Z"
+      "scraped_at": "2026-11-14T06:31:13.154642Z"
     },
     {
       "id": "white_heat",
@@ -5405,12 +5405,12 @@
       "runtime_minutes": 114,
       "certificate": null,
       "rating": 8.8,
-      "votes": 2015,
-      "tomatometer": 94,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 83,
       "tomatometer_certified": true,
-      "audience_score": 93,
-      "audience_count": 626,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Gang leader Cody Jarrett (James Cagney) lives for his mother, planning heists between horrible headaches. During a train robbery that goes wrong, Cody shoots an investigator. Realizing Cody will never be stopped if he knows he's being pursued, authorities plant undercover agent Hank (Edmond O'Brien) in Cody's cell. When his mother dies, a distraught Cody breaks out of jail, bringing Hank along to join his gang. With Hank in communication with the police, Cody plans a payroll heist.",
       "tagline": "",
@@ -5491,7 +5491,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:49:06.648405Z"
+      "scraped_at": "2026-11-14T06:31:27.979745Z"
     },
     {
       "id": "who_killed_alex_odeh",
@@ -5504,18 +5504,18 @@
         "Documentary",
         "Crime"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 84,
-      "certificate": "In Theaters Oct 30",
-      "rating": null,
+      "certificate": "Oct 2026",
+      "rating": 7.8,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 8,
+      "tomatometer_count": 16,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "The assassination of a beloved Palestinian American activist in Southern California ignites a 40-year quest for justice, revealing the roots of a dangerous political movement that thrives today.",
       "tagline": "",
@@ -5587,10 +5587,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Who-Killed-Alex-Odeh/5294549?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:49:48.889106Z"
+      "scraped_at": "2026-11-14T06:32:09.820159Z"
     },
     {
       "id": "wild_horse_nine",
@@ -5605,18 +5610,18 @@
         "Crime",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 118,
       "certificate": "R",
       "rating": 8.2,
       "votes": null,
-      "tomatometer": 93,
-      "tomatometer_count": 100,
+      "tomatometer": null,
+      "tomatometer_count": 248,
       "tomatometer_certified": true,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Shortly before the 1973 Chilean coup, CIA agents Chris (John Malkovich) and Lee (Sam Rockwell) are dispatched from Santiago to Easter island by their bureau chief, MJ (Steve Buscemi). Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students (Mariana di Girolamo and Ailín Salas) threatens to send everyone’s trip to this remote paradise sideways.",
       "tagline": "",
@@ -5664,11 +5669,11 @@
         }
       ],
       "trailer": {
-        "id": "GomdB9Gt8Xep",
-        "title": "Wild Horse Nine: Trailer 2",
-        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/351/175/wildhorsenine_tr2_v2.jpg",
-        "seconds": 71,
-        "src": "https://link.theplatform.com/s/NGweTC/media/GomdB9Gt8Xep?formats=M3U+none"
+        "id": "bpYqqxfc1rgl",
+        "title": "Wild Horse Nine: Teaser",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/366/11/thumb_4B45323F-8234-4628-988B-1959F105C27F.jpg",
+        "seconds": 87,
+        "src": "https://link.theplatform.com/s/NGweTC/media/bpYqqxfc1rgl?formats=M3U+none"
       },
       "directors": [
         {
@@ -5715,10 +5720,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:50:48.646824Z"
+      "scraped_at": "2026-11-14T06:33:09.732155Z"
     },
     {
       "id": "witness_for_the_prosecution",
@@ -5738,12 +5748,12 @@
       "runtime_minutes": 114,
       "certificate": null,
       "rating": 8.9,
-      "votes": 3011,
-      "tomatometer": 100,
-      "tomatometer_count": 42,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 38,
       "tomatometer_certified": true,
-      "audience_score": 95,
-      "audience_count": 739,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The affable Leonard Vole (Tyrone Power) is being tried for the murder of a wealthy woman, and legendary lawyer Sir Wilfrid Robarts (Charles Laughton) has chosen to represent him. Unfortunately, Leonard's alibi depends on the testimony of his callous wife, Christine (Marlene Dietrich) -- who, after the discovery of a legal loophole, makes the shocking decision to appear in court against him. To Sir Wilfrid's surprise, this is only the first in a series of puzzling revelations and reversals.",
       "tagline": "",
@@ -5828,15 +5838,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Witness-for-the-Prosecution/141023?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0B8SW19XF/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:52:38.743429Z"
+      "scraped_at": "2026-11-14T06:34:57.873971Z"
     },
     {
       "id": "woman_on_the_run",
@@ -5854,13 +5860,13 @@
       "release_date": null,
       "runtime_minutes": 77,
       "certificate": null,
-      "rating": 7.3,
-      "votes": 98,
-      "tomatometer": 88,
-      "tomatometer_count": 8,
+      "rating": 7.4,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 78,
-      "audience_count": 31,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After witnessing a murder, Frank Johnson goes on the run to avoid being killed himself. His wife, Eleanor (Ann Sheridan), seems almost apathetic about finding him when questioned by Investigator Harris (Robert Keith), due to a marriage on the rocks. However, after learning that Frank has a grave heart condition, Eleanor recruits reporter Dan Leggett (Dennis O'Keefe) to help track down Frank. Discovering new love for her husband along the way, Eleanor must get to Frank before the killer does.",
       "tagline": "",
@@ -5948,12 +5954,12 @@
         },
         {
           "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0GX9ZVQVH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+          "url": "http://www.amazon.com/gp/product/B0HKFZQGB3/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:53:10.672205Z"
+      "scraped_at": "2026-11-14T06:35:31.595158Z"
     }
   ]
 }

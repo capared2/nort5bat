@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-11-13T19:52:16.609092Z",
+  "updated_at": "2026-11-14T06:37:03.680184Z",
   "titles": [
     {
       "id": "10005047-blue_bird",
@@ -7008,12 +7008,12 @@
       "runtime_minutes": 98,
       "certificate": "PG",
       "rating": 6.2,
-      "votes": 498,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 24,
       "tomatometer_certified": false,
-      "audience_score": 77,
-      "audience_count": 133,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In Sony Pictures Animation's Wish Dragon, Din, a working-class college student with big dreams but small means, and Long, a cynical but all-powerful dragon capable of granting wishes, set off on a hilarious adventure through modern day Shanghai in pursuit of Din's long-lost childhood friend, Lina. Their journey forces them to answer some of life's biggest questions -- because when you can wish for anything, you have to decide what really matters.",
       "tagline": "",
@@ -7089,7 +7089,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:52:09.913054Z"
+      "scraped_at": "2026-11-14T06:34:29.064146Z"
     },
     {
       "id": "wristcutters_a_love_story",
@@ -7109,13 +7109,13 @@
       "release_date": null,
       "runtime_minutes": 92,
       "certificate": "R",
-      "rating": 6.2,
-      "votes": 9628,
-      "tomatometer": 66,
-      "tomatometer_count": 91,
+      "rating": 6.3,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 87,
       "tomatometer_certified": false,
-      "audience_score": 82,
-      "audience_count": 3960,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Despondent after breaking up with his girlfriend, Zia kills himself and wakes up in a bland purgatory populated by other suicides. He takes a job at Kamikaze Pizza and befriends a Russian rocker named Eugene while trying to make the best of a very dull afterlife. Learning that his ex-girlfriend has also killed herself, Zia embarks on a road trip with Eugene to find her, picking up a feisty hitchhiker along the way.",
       "tagline": "",
@@ -7216,11 +7216,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0HNJC28VX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/24167?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:54:18.547798Z"
+      "scraped_at": "2026-11-14T06:36:38.923515Z"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 48,
   "count": 60,
-  "updated_at": "2026-11-13T19:54:18.027418Z",
+  "updated_at": "2026-11-14T06:37:03.004596Z",
   "titles": [
     {
       "id": "1096098-la_cucaracha",
@@ -6106,12 +6106,12 @@
       "runtime_minutes": 88,
       "certificate": null,
       "rating": 6.3,
-      "votes": 445,
-      "tomatometer": 70,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 50,
       "tomatometer_certified": false,
-      "audience_score": 45,
-      "audience_count": 65,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A hard-partying, New York college freshman (Morgan Saylor) tries to get a drug dealer (Brian \"Sene\" Marc) out of jail.",
       "tagline": "",
@@ -6204,13 +6204,17 @@
           "url": "http://www.amazon.com/gp/product/B0FWYY4LR7/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         },
         {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/white-girl--1076004?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/white-girl/umc.cmc.2twefezofx4kuq002p7udvh1r?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:49:05.505519Z"
+      "scraped_at": "2026-11-14T06:31:26.962700Z"
     },
     {
       "id": "whos_driving_doug",
@@ -6228,12 +6232,12 @@
       "runtime_minutes": 99,
       "certificate": null,
       "rating": 3.9,
-      "votes": 65,
-      "tomatometer": 20,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 46,
-      "audience_count": 8,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "To escape from his overbearing mother (Daphne Zuniga), a sheltered student (RJ Mitte) embarks on a spontaneous road trip with his college crush (Paloma Kwiatkowski) and his driver (Ray William Johnson).",
       "tagline": "",
@@ -6319,7 +6323,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:50:07.346557Z"
+      "scraped_at": "2026-11-14T06:32:26.784415Z"
     },
     {
       "id": "woman_in_gold",
@@ -6337,12 +6341,12 @@
       "runtime_minutes": 108,
       "certificate": "PG-13",
       "rating": 6.0,
-      "votes": 6685,
-      "tomatometer": 58,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 151,
       "tomatometer_certified": false,
-      "audience_score": 79,
-      "audience_count": 863,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Sixty years after fleeing Vienna, Maria Altmann, an elderly Jewish woman, attempts to reclaim family possessions that were seized by the Nazis. Among them is a famous portrait of Maria's beloved Aunt Adele: Gustave Klimt's \"Portrait of Adele Bloch-Bauer I.\" With the help of young lawyer Randy Schoenberg, Maria embarks upon a lengthy legal battle to recover this painting and several others, but it will not be easy, for Austria considers them national treasures.",
       "tagline": "",
@@ -6443,7 +6447,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-28T05:53:03.382690Z"
+      "scraped_at": "2026-11-14T06:35:25.000677Z"
     }
   ]
 }
