@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-11-14T06:37:02.625874Z",
+  "updated_at": "2026-11-15T19:02:17.934900Z",
   "titles": [
     {
       "id": "2016_obamas_america",
@@ -20,12 +20,12 @@
       "runtime_minutes": 87,
       "certificate": "PG",
       "rating": 4.5,
-      "votes": 9072,
-      "tomatometer": 27,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 33,
       "tomatometer_certified": false,
-      "audience_score": 73,
-      "audience_count": 2547,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Scholar and author Dinesh D'Souza delves into President Barack Obama's past for clues about America's possible future if Obama wins a second term.",
       "tagline": "",
@@ -118,7 +118,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:10:16.664782Z"
+      "scraped_at": "2026-11-15T18:55:03.713769Z"
     },
     {
       "id": "93queen",
@@ -136,12 +136,12 @@
       "runtime_minutes": 90,
       "certificate": null,
       "rating": 7.5,
-      "votes": 10,
-      "tomatometer": 94,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
-      "audience_score": 90,
-      "audience_count": 4,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Hasidic women create the first all-female volunteer ambulance corps in New York.",
       "tagline": "",
@@ -207,7 +207,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:12:54.665777Z"
+      "scraped_at": "2026-11-15T18:57:39.314736Z"
     },
     {
       "id": "a_billion_lives",
@@ -225,12 +225,12 @@
       "runtime_minutes": 95,
       "certificate": null,
       "rating": 6.0,
-      "votes": 76,
-      "tomatometer": 40,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 97,
-      "audience_count": 25,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The United Nations' World Health Organization projects that a billion people will die prematurely from smoking this century. In the next 20 years, there will be nearly 1.6 billion smokers around the world. This documentary takes a critical look at the history of smoking, and the corruption that's led to the current situation where safer, healthier alternatives are banned or heavily restricted in most countries.",
       "tagline": "",
@@ -287,7 +287,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:13:25.858035Z"
+      "scraped_at": "2026-11-15T18:58:08.600215Z"
     },
     {
       "id": "a_lego_brickumentary",
@@ -305,12 +305,12 @@
       "runtime_minutes": 92,
       "certificate": "G",
       "rating": 5.4,
-      "votes": 335,
-      "tomatometer": 55,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 49,
       "tomatometer_certified": false,
-      "audience_score": 64,
-      "audience_count": 45,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Filmmakers Daniel Junge and Kief Davidson explore the history and worldwide cultural impact of the LEGO universe.",
       "tagline": "",
@@ -386,11 +386,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/A-LEGO-Brickumentary/625419?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GL88VJSM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:15:33.667603Z"
+      "scraped_at": "2026-11-15T19:00:21.429575Z"
     },
     {
       "id": "active_measures",

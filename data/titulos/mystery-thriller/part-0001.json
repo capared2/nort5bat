@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 59,
-  "updated_at": "2026-11-15T06:41:30.160440Z",
+  "updated_at": "2026-11-15T18:56:13.812360Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -278,12 +278,12 @@
       "runtime_minutes": 109,
       "certificate": "R",
       "rating": 6.0,
-      "votes": 33020,
-      "tomatometer": 64,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 187,
       "tomatometer_certified": false,
-      "audience_score": 66,
-      "audience_count": 2973,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "For the past year, DEA agent Bobby Trench and U.S. Navy intelligence officer Marcus Stigman have been working undercover as members of a narcotics syndicate. The twist: Neither man knows that the other is an undercover agent. When their attempt to infiltrate a Mexican drug cartel and recover millions goes haywire, the men are disavowed by their superiors. Trench and Stigman must go on the run lest they wind up in jail or in a grave.",
       "tagline": "",
@@ -380,11 +380,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/2-Guns/461382?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/59160?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:10:58.097629Z"
+      "scraped_at": "2026-11-15T18:55:43.694073Z"
     },
     {
       "id": "all_is_lost_2013",

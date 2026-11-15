@@ -2,7 +2,7 @@
   "genre": "holiday",
   "part": 1,
   "count": 7,
-  "updated_at": "2026-11-10T19:48:55.173072Z",
+  "updated_at": "2026-11-15T19:00:17.664386Z",
   "titles": [
     {
       "id": "a_christmas_prayer_2025",
@@ -50,7 +50,12 @@
         }
       ],
       "trailer": null,
-      "directors": [],
+      "directors": [
+        {
+          "id": "nicholas_humphries",
+          "name": "Nicholas Humphries"
+        }
+      ],
       "writers": [],
       "cast": [
         {
@@ -64,6 +69,24 @@
           "name": "Christopher Russell",
           "character": "",
           "image": "https://resizing.flixster.com/lh6MEn431oVNa8GZJhVvFN4NXVE=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/GNLZZGG002GWYT9.jpg"
+        },
+        {
+          "id": "madeleine_cox",
+          "name": "Madeleine Cox",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "tom_young_2",
+          "name": "Tom Young",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "brenda_gorlick",
+          "name": "Brenda Gorlick",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         }
       ],
       "keywords": [],
@@ -80,7 +103,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-09T22:34:25.441791Z"
+      "scraped_at": "2026-11-15T18:58:33.336003Z"
     },
     {
       "id": "a_christmas_wish_2021",
@@ -177,7 +200,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-09T22:34:29.601912Z"
+      "scraped_at": "2026-11-15T18:58:35.527490Z"
     },
     {
       "id": "family_portrait_2023",

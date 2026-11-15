@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 24,
   "count": 60,
-  "updated_at": "2026-11-15T06:47:33.975553Z",
+  "updated_at": "2026-11-15T18:58:14.743580Z",
   "titles": [
     {
       "id": "0878835",
@@ -503,12 +503,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 4.6,
-      "votes": 3192,
-      "tomatometer": 32,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 128,
       "tomatometer_certified": false,
-      "audience_score": 43,
-      "audience_count": 629,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Under-appreciated and overburdened moms Amy, Kiki and Carla rebel against the challenges and expectations of the Super Bowl for moms: Christmas. As if creating the perfect holiday for their families isn't hard enough, they'll have to do it while hosting and entertaining their own respective mothers when they come to visit.",
       "tagline": "",
@@ -611,8 +611,20 @@
           "url": "https://athome.fandango.com/content/browse/details/A-Bad-Moms-Christmas/880676?cmp=rt_where_to_watch"
         },
         {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Starz",
           "url": "https://www.starz.com/us/en/play/74837?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000273497_02_HDSDR/826c10cf-70a9-3114-9b86-b2df37723030?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         },
         {
           "name": "Paramount+",
@@ -621,7 +633,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:13:16.437411Z"
+      "scraped_at": "2026-11-15T18:57:59.608163Z"
     },
     {
       "id": "after_the_sunset",

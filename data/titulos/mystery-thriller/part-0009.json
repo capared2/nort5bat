@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-11-15T06:47:34.176207Z",
+  "updated_at": "2026-11-15T18:56:13.804431Z",
   "titles": [
     {
       "id": "1065868-fair_game",
@@ -1004,12 +1004,12 @@
       "runtime_minutes": 108,
       "certificate": "PG-13",
       "rating": 4.9,
-      "votes": 92812,
-      "tomatometer": 36,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 155,
       "tomatometer_certified": false,
-      "audience_score": 50,
-      "audience_count": 1175569,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "This sequel focuses on ex-police officer Brian O'Conner (Paul Walker), who relocates from Los Angeles to Miami to start over. Becoming involved in the street-racing scene in his new city, Brian befriends car-savvy Tej (Chris \"Ludacris\" Bridges) and Suki (Devon Aoki), but his competitive streak ends when federal agents apprehend him, and he must enter into a deal with the FBI. Working with new partner Roman Pearce (Tyrese), Brian begins a dangerous mission to take down a powerful drug dealer.",
       "tagline": "",
@@ -1116,11 +1116,19 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/60027713?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/45190?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000165791_02_UHDSDR/ce6c59cc-9e16-370e-9404-b05b2ced6e7a?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:10:56.280536Z"
+      "scraped_at": "2026-11-15T18:55:42.875172Z"
     },
     {
       "id": "afraid_of_the_dark",

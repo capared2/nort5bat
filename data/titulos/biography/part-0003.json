@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-14T22:33:25.684225Z",
+  "updated_at": "2026-11-15T19:02:18.498487Z",
   "titles": [
     {
       "id": "1032970-awakenings",
@@ -153,11 +153,11 @@
       "certificate": null,
       "rating": 8.0,
       "votes": null,
-      "tomatometer": 70,
+      "tomatometer": null,
       "tomatometer_count": 10,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "An aspiring video journalist in her twenties who finds herself already facing self-reckoning. Born in Damascus, Syria, Lina starts to report on the events around her until she is compelled to become a war reporter and, later, the unexpected narrator of her own destiny.",
       "tagline": "",
@@ -206,7 +206,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:12:06.212051Z"
+      "scraped_at": "2026-11-15T18:56:50.446675Z"
     },
     {
       "id": "a_beautiful_day_in_the_neighborhood",
@@ -225,12 +225,12 @@
       "runtime_minutes": 107,
       "certificate": "PG",
       "rating": 8.0,
-      "votes": 11281,
-      "tomatometer": 95,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 380,
       "tomatometer_certified": true,
-      "audience_score": 92,
-      "audience_count": 2619,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Lloyd Vogel is an investigative journalist who receives an assignment to profile Fred Rogers, aka Mr. Rogers. He approaches the interview with skepticism, as he finds it hard to believe that anyone can have such a good nature. But Roger's empathy, kindness and decency soon chips away at Vogel's jaded outlook on life, forcing the reporter to reconcile with his own painful past.",
       "tagline": "",
@@ -333,11 +333,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/A-Beautiful-Day-in-the-Neighborhood/1304654?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000275479_02_HDSDR/e34b1b6f-951a-37fd-b6ad-8e87e03cd17b?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:13:19.249920Z"
+      "scraped_at": "2026-11-15T18:58:01.867401Z"
     },
     {
       "id": "a_photographic_memory",
@@ -356,12 +360,12 @@
       "runtime_minutes": 87,
       "certificate": null,
       "rating": 8.0,
-      "votes": 8,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 4,
+      "audience_count": null,
       "metascore": null,
       "plot": "A daughter attempts to piece together a portrait of her mother, an avant-garde journalist and a woman she never knew. Uncovering the vast archive Sheila Turner-Seed produced, including lost interviews with iconic photographers Henri Cartier-Bresson, Gordon Parks, and Lisette Model, the film explores memory, legacy and stories left untold.",
       "tagline": "",
@@ -433,7 +437,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:16:28.885404Z"
+      "scraped_at": "2026-11-15T19:01:16.804041Z"
     },
     {
       "id": "all_up_in_the_biz",

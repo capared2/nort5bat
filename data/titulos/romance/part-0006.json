@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-11-15T06:41:29.713541Z",
+  "updated_at": "2026-11-15T19:00:17.475003Z",
   "titles": [
     {
       "id": "10005403-the_baxter",
@@ -371,12 +371,12 @@
       "runtime_minutes": 100,
       "certificate": "PG-13",
       "rating": 4.4,
-      "votes": 190,
-      "tomatometer": 17,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 29,
       "tomatometer_certified": false,
-      "audience_score": 87,
-      "audience_count": 74,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A college student falls madly in love with a classmate, while a Cuban exile falls for a beautiful flight attendant.",
       "tagline": "",
@@ -483,7 +483,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:10:58.420914Z"
+      "scraped_at": "2026-11-15T18:55:45.177258Z"
     },
     {
       "id": "a_guy_thing",
@@ -502,12 +502,12 @@
       "runtime_minutes": 101,
       "certificate": "PG-13",
       "rating": 4.3,
-      "votes": 2253,
-      "tomatometer": 25,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 99,
       "tomatometer_certified": false,
-      "audience_score": 35,
-      "audience_count": 780,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Paul Morse (Jason Lee) is a good guy. When his friends throw him a wild bachelor party, he just wants to keep his conscience clean -- which is why he's shocked when he wakes up in bed with a beautiful girl named Becky (Julia Stiles) and can't remember the night before. Desperate to keep his fiancée, Karen (Selma Blair), from finding out what may or may not be the truth, he tells her a teensy lie. Soon his lies are spiraling out of control and his life is a series of comical misunderstandings.",
       "tagline": "",
@@ -604,11 +604,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/A-Guy-Thing/140770?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GX2P8S7F/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:15:03.930402Z"
+      "scraped_at": "2026-11-15T18:59:50.276491Z"
     },
     {
       "id": "alex_and_emma",

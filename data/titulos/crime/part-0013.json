@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-11-15T06:43:30.253443Z",
+  "updated_at": "2026-11-15T19:02:18.604546Z",
   "titles": [
     {
       "id": "1005865-dillinger",
@@ -813,12 +813,12 @@
       "runtime_minutes": 124,
       "certificate": "R",
       "rating": 7.8,
-      "votes": 8691,
-      "tomatometer": 89,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 226,
       "tomatometer_certified": true,
-      "audience_score": 69,
-      "audience_count": 1042,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 1981 New York, a fuel supplier (Oscar Isaac) tries to adhere to his own moral compass amid the rampant violence, corruption and decay that threaten his family and his business.",
       "tagline": "",
@@ -915,11 +915,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/A-Most-Violent-Year/629676?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/80017021?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:16:02.761360Z"
+      "scraped_at": "2026-11-15T19:00:50.378311Z"
     },
     {
       "id": "alpha_dog",

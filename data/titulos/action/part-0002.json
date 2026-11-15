@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-15T06:47:54.462359Z",
+  "updated_at": "2026-11-15T19:02:18.857333Z",
   "titles": [
     {
       "id": "1017321-red_dawn",
@@ -642,12 +642,12 @@
       "runtime_minutes": 94,
       "certificate": "PG",
       "rating": 2.6,
-      "votes": 821,
-      "tomatometer": 0,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 29,
-      "audience_count": 568,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Ninja brothers Colt (Michael J. O'Laskey II), Rocky (Mathew Botuchis) and Tum Tum (Victor Wong) go to an amusement park to get a glimpse of their idol, action star Dave Dragon (Hulk Hogan). But when evil masterminds Medusa (Loni Anderson) and Lothar Zogg (Jim Varney) descend on the park, the boys are thrust into a real-life shoot-'em-up. Now they must use their martial-arts training to defend the park's helpless guests -- getting a little assistance from their longtime hero.",
       "tagline": "",
@@ -728,7 +728,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:11:26.333164Z"
+      "scraped_at": "2026-11-15T18:56:12.667989Z"
     },
     {
       "id": "a_team",
@@ -747,12 +747,12 @@
       "runtime_minutes": 118,
       "certificate": "PG-13",
       "rating": 5.5,
-      "votes": 43666,
-      "tomatometer": 48,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 213,
       "tomatometer_certified": false,
-      "audience_score": 66,
-      "audience_count": 12416,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A man who loves when a plan comes together, Hannibal Smith leads a close-knit team of elite operatives. Framed for a terrible crime, Smith and his men go rogue, using their special talents to clear their names and find the perpetrator. Hot on their trail is Charissa Sosa, who was once involved with a member of Smith's team and has sworn to capture them, no matter what it takes.",
       "tagline": "",
@@ -849,11 +849,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-A-Team-Theatrical/175783?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:48:21.909077Z"
+      "scraped_at": "2026-11-15T19:02:12.581022Z"
     },
     {
       "id": "acts_of_vengeance",
