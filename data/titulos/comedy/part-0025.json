@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 25,
   "count": 60,
-  "updated_at": "2026-11-14T18:17:54.618113Z",
+  "updated_at": "2026-11-15T06:47:33.984349Z",
   "titles": [
     {
       "id": "1006425-easy_money",
@@ -125,12 +125,12 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 6.5,
-      "votes": 1206,
-      "tomatometer": 72,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 32,
       "tomatometer_certified": false,
-      "audience_score": 74,
-      "audience_count": 448,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Unhappy with his overall life, Steven Schoichet (Adrien Brody) decides to pursue his dream to be a professional ventriloquist. His family is neither supportive nor particularly critical. Luckily, Steven finds work through an attractive unemployment counselor (Vera Farmiga). While any potential romance is complicated by Steven's personal baggage -- and friends like Fangora (Milla Jovovich), who can't help giving bad relationship advice -- things start to change, thanks to his devotion to his art.",
       "tagline": "",
@@ -227,11 +227,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Dummy/7455?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/74978?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T05:56:46.259723Z"
+      "scraped_at": "2026-11-15T06:42:33.287640Z"
     },
     {
       "id": "1195103-happy_go_lucky",
@@ -249,12 +253,12 @@
       "runtime_minutes": 118,
       "certificate": "R",
       "rating": 8.0,
-      "votes": 8174,
-      "tomatometer": 93,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 158,
       "tomatometer_certified": true,
-      "audience_score": 67,
-      "audience_count": 3497,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Teacher Poppy Cross (Sally Hawkins) is an eternal optimist who lives with her more cynical friend Zoe (Alexis Zegerman). Deciding she wants to learn to drive, she starts taking lessons from Scott (Eddie Marsan), a tense and downbeat instructor who believes Poppy's levity reflects a lack of seriousness. Although they clash, Poppy is not deterred from her goal. Meanwhile, she starts dating Tim, a social worker who came to her school to help a child.",
       "tagline": "",
@@ -355,7 +359,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T06:00:00.866884Z"
+      "scraped_at": "2026-11-15T06:45:46.835399Z"
     },
     {
       "id": "21_and_over",

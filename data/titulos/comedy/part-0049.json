@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 49,
   "count": 60,
-  "updated_at": "2026-11-14T22:31:23.367924Z",
+  "updated_at": "2026-11-15T06:45:31.635463Z",
   "titles": [
     {
       "id": "1015944-parent_trap",
@@ -262,12 +262,12 @@
       "runtime_minutes": 86,
       "certificate": "PG-13",
       "rating": 6.1,
-      "votes": 3611,
-      "tomatometer": 53,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 162,
       "tomatometer_certified": false,
-      "audience_score": 43,
-      "audience_count": 1814,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The possibility of Oscar gold holds the cast and crew of an independent film in its grip after the performance of its virtually unknown, veteran star (Catherine O'Hara) generates awards buzz. Though the movie in question, \"Home for Purim,\" is impossibly awful, the rumors of future nominations snowball and attract the attention of a distributor who wants to make a few \"minor\" changes.",
       "tagline": "",
@@ -364,11 +364,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/For-Your-Consideration/68981?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HGBQ9ZY3/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T05:58:21.361826Z"
+      "scraped_at": "2026-11-15T06:44:08.156343Z"
     },
     {
       "id": "15_august",

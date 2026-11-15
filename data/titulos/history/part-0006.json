@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 6,
   "count": 26,
-  "updated_at": "2026-11-14T18:17:54.984363Z",
+  "updated_at": "2026-11-15T06:45:31.510740Z",
   "titles": [
     {
       "id": "1011626-king_of_kings",
@@ -131,12 +131,12 @@
       "runtime_minutes": 136,
       "certificate": "R",
       "rating": 8.0,
-      "votes": 585,
-      "tomatometer": 95,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 64,
       "tomatometer_certified": true,
-      "audience_score": 83,
-      "audience_count": 210,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 1944, 14-year-old Hungarian Jew Gyorgy Koves (Marcell Nagy) quits school to look after his family when his father (János Bán) is deported by the Nazis to a labor camp. Shortly afterward, Gyorgy is seized during a police raid and sent to Auschwitz. Lying about his age to prevent himself from being gassed with the other children, Gyorgy learns from veteran prisoner Bandi Citrom (Áron Dimény) how to survive as he is sent from one concentration camp to another.",
       "tagline": "",
@@ -229,15 +229,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0G2HQM8G8/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T05:57:52.444379Z"
+      "scraped_at": "2026-11-15T06:43:39.075900Z"
     },
     {
       "id": "ali",

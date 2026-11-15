@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-11-14T22:37:26.246068Z",
+  "updated_at": "2026-11-15T06:41:29.493402Z",
   "titles": [
     {
       "id": "1077642-nothing_to_lose",
@@ -122,12 +122,12 @@
       "runtime_minutes": 103,
       "certificate": "R",
       "rating": 7.8,
-      "votes": 5749,
-      "tomatometer": 90,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 77,
       "tomatometer_certified": true,
-      "audience_score": 78,
-      "audience_count": 1777,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Grocery store clerk Simon (Desmond Askew) occasionally sells drugs from his cash register at work, so when soap opera actors Adam (Scott Wolf) and Zack (Jay Mohr) come looking for Ecstasy on a quiet Christmas Eve, they are surprised to find Ronna (Sarah Polley) covering his shift. Desperate for money, Ronna decides to become an impromptu drug dealer, unaware that Adam and Zack are secretly working for obsessed narcotics officer Burke (William Fichtner).",
       "tagline": "",
@@ -138,7 +138,7 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/CSZYVtBN_dAZRC_s-TqUvqjplIg=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p22544_i_h10_ad.jpg",
+          "url": "https://resizing.flixster.com/AqaDR9oCg6VpQg6Bk-SAlAN8AOk=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/321/15/thumb_554DA51B-E322-42B8-80C1-EA07751C37EF.jpg",
           "caption": ""
         },
         {
@@ -174,7 +174,13 @@
           "caption": "A scene from the Columbia Picture Go."
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "3QeJl_QyLxkk",
+        "title": "Go: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/321/15/thumb_554DA51B-E322-42B8-80C1-EA07751C37EF.jpg",
+        "seconds": 146,
+        "src": "https://link.theplatform.com/s/NGweTC/media/3QeJl_QyLxkk?formats=M3U+none"
+      },
       "directors": [],
       "writers": [],
       "cast": [
@@ -233,7 +239,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T05:54:00.792379Z"
+      "scraped_at": "2026-11-15T06:39:48.341998Z"
     },
     {
       "id": "about_schmidt",

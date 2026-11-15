@@ -2,7 +2,7 @@
   "genre": "action",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-14T22:37:48.666930Z",
+  "updated_at": "2026-11-15T06:43:31.608498Z",
   "titles": [
     {
       "id": "10000_bc",
@@ -521,12 +521,12 @@
       "runtime_minutes": 106,
       "certificate": "PG-13",
       "rating": 5.5,
-      "votes": 54482,
-      "tomatometer": 56,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 161,
       "tomatometer_certified": false,
-      "audience_score": 74,
-      "audience_count": 28669,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Dominic Toretto enjoys the adrenaline of street car racing and his fans treat him like a rock star. After a blazing encounter with the ruthless Johnny Tran, Dom decides to take Brian, a newcomer to street racing, under his wing. Dom's sister Mia sees something she likes in Brian, too. Trouble is, neither of them realize he's an undercover cop, and Dominic and his rival Johnny Tran are both the prime suspects in a case involving dirty money and big-rig hijacking.",
       "tagline": "",
@@ -633,11 +633,19 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/60020747?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/45204?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000086499_02_UHDHDR/1f29c396-6e36-3d3e-90d1-e2c452e77795?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T05:55:38.889520Z"
+      "scraped_at": "2026-11-15T06:41:24.425744Z"
     },
     {
       "id": "1144274-sahara",
@@ -656,12 +664,12 @@
       "runtime_minutes": 124,
       "certificate": "PG-13",
       "rating": 5.3,
-      "votes": 10438,
-      "tomatometer": 37,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 169,
       "tomatometer_certified": false,
-      "audience_score": 54,
-      "audience_count": 5167,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Seasoned adventurer Dirk Pitt (Matthew McConaughey) sets out for the African desert with his sarcastic companion (Steve Zahn) in search of a ship rumored to have vanished long ago, the main draw being the treasure supposedly hidden within the lost vessel. When the daring duo come across a beautiful scientist (Penélope Cruz) who is juggling an escape from a warlord and a mission to stop the spread of a powerful plague, their desert expedition begins to heat up.",
       "tagline": "",
@@ -766,13 +774,13 @@
           "url": "https://athome.fandango.com/content/browse/details/Sahara/52137?cmp=rt_where_to_watch"
         },
         {
-          "name": "Starz",
-          "url": "https://www.starz.com/us/en/play/57589?cmp=rt_where_to_watch"
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T05:57:34.386960Z"
+      "scraped_at": "2026-11-15T06:43:19.151074Z"
     },
     {
       "id": "13_assassins_2011",

@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-14T22:37:27.185974Z",
+  "updated_at": "2026-11-15T06:47:54.112845Z",
   "titles": [
     {
       "id": "1006717-escape_from_new_york",
@@ -248,12 +248,12 @@
       "runtime_minutes": 131,
       "certificate": "R",
       "rating": 8.0,
-      "votes": 52270,
-      "tomatometer": 88,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 75,
       "tomatometer_certified": true,
-      "audience_score": 88,
-      "audience_count": 14946,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Traveling back in time isn't simple, as James Cole (Bruce Willis) learns the hard way. Imprisoned in the 2030s, James is recruited for a mission that will send him back to the 1990s. Once there, he's supposed to gather information about a nascent plague that's about to exterminate the vast majority of the world's population. But, aside from the manic Jeffrey (Brad Pitt), he gets little in the way of cooperation, not least from medical gatekeepers like Dr. Kathryn Railly (Madeleine Stowe).",
       "tagline": "",
@@ -350,11 +350,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/12-Monkeys/5903?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/12-monkeys/umc.cmc.49nuxpa3uc9ezls951h0ra32r?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T13:09:26.432877Z"
+      "scraped_at": "2026-11-15T06:47:53.840988Z"
     },
     {
       "id": "65",
