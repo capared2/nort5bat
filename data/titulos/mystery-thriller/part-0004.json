@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-15T19:02:18.367693Z",
+  "updated_at": "2026-11-16T06:44:56.209897Z",
   "titles": [
     {
       "id": "10011774-chloe",
@@ -906,12 +906,12 @@
       "runtime_minutes": 101,
       "certificate": "PG-13",
       "rating": 3.6,
-      "votes": 12426,
-      "tomatometer": 11,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 127,
       "tomatometer_certified": false,
-      "audience_score": 47,
-      "audience_count": 1762,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Alex Cross (Tyler Perry) works as a detective/psychologist for the Detroit Police Department along with his lifelong friend, Tommy Kane (Edward Burns), and detective Monica Ashe (Rachel Nichols). Cross' latest case puts him on a collision course with Picasso (Matthew Fox), a cunning serial killer whose ultimate target is multinational industrialist Giles Mercier (Jean Reno). Cross must find a way inside Picasso's head not only to catch the killer but also to stem the violent urges Cross feels.",
       "tagline": "",
@@ -1008,11 +1008,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Alex-Cross/382042?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/50743?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:53:04.655282Z"
+      "scraped_at": "2026-11-16T06:41:09.458867Z"
     },
     {
       "id": "american_carnage",
@@ -1031,12 +1035,12 @@
       "runtime_minutes": 101,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 228,
-      "tomatometer": 57,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 23,
       "tomatometer_certified": false,
-      "audience_score": 66,
-      "audience_count": 28,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After a governor issues an executive order to arrest the children of undocumented immigrants, the newly detained youth are offered an opportunity to have their charges dropped by volunteering to provide care to the elderly. Once inside the eldercare facility, the volunteers discover the governor and the facility's supervisor have cooked up a horrifyingly depraved conspiracy that endangers the young and the old in this twisted thriller-comedy.",
       "tagline": "",
@@ -1143,7 +1147,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:54:43.403819Z"
+      "scraped_at": "2026-11-16T06:44:52.384970Z"
     },
     {
       "id": "assassination_tango",

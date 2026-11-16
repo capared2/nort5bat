@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-15T18:56:13.836606Z",
+  "updated_at": "2026-11-16T06:40:54.743303Z",
   "titles": [
     {
       "id": "1007141-fatal_attraction",
@@ -667,12 +667,12 @@
       "runtime_minutes": 180,
       "certificate": "R",
       "rating": 7.2,
-      "votes": 15822,
-      "tomatometer": 81,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 62,
       "tomatometer_certified": true,
-      "audience_score": 66,
-      "audience_count": 8184,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After making a speech in Moscow vowing to never negotiate with terrorists, President James Marshall boards Air Force One with his family and advisers. When a group of terrorists led by Ivan Korshunov hijacks the flight, the President's principles are put to the test. Feigning escape, ex-soldier Marshall stows away in the aircraft and must race against time to rescue his family and everyone else on board.",
       "tagline": "",
@@ -767,11 +767,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Air-Force-One/12597?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/1171915?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000423557_01/efa01a3a-5450-31e3-b1de-a287c549dfad?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:52:35.363217Z"
+      "scraped_at": "2026-11-16T06:40:39.482547Z"
     },
     {
       "id": "another_stakeout",

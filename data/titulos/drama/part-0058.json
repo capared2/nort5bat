@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 58,
   "count": 60,
-  "updated_at": "2026-11-14T22:35:25.642390Z",
+  "updated_at": "2026-11-16T06:44:56.418042Z",
   "titles": [
     {
       "id": "10002519-breaking_point",
@@ -1941,12 +1941,12 @@
       "runtime_minutes": 111,
       "certificate": null,
       "rating": 6.0,
-      "votes": 58,
-      "tomatometer": 40,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 48,
-      "audience_count": 22,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Ralph Willart (Karl Malden) and his wife Annabell (Angela Lansbury) are constantly at odds over what to do with their son, Berry-Berry (Warren Beatty). While Annabell treats him like a saint, Ralph is more keen on his boy's womanizing ways. Berry-Berry's younger brother Clint (Brandon de Wilde) idolizes him despite what his father says, but when Berry-Berry develops a relationship with family friend Echo O'Brien (Eva Marie Saint), Clint discovers just how shallow his older brother is.",
       "tagline": "",
@@ -2027,7 +2027,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:54:05.511538Z"
+      "scraped_at": "2026-11-16T06:42:10.663768Z"
     },
     {
       "id": "america_america",
@@ -2045,12 +2045,12 @@
       "runtime_minutes": 168,
       "certificate": null,
       "rating": 7.3,
-      "votes": 252,
-      "tomatometer": 75,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 85,
-      "audience_count": 52,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Stavros Topouzoglou is a young Greek man living in an area under Turkish oppression, who wants nothing more than to go to America. Stavros travels to Constantinople, enduring difficulties along the way that lead to the loss of all his family's funds. Rejecting any possibility for money, work or marriage that doesn't involve sailing to America, he defiantly hangs on to the dream, but his extreme determination may cost him his life.",
       "tagline": "",
@@ -2131,11 +2131,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/America-America/111667?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:56:29.595455Z"
+      "scraped_at": "2026-11-16T06:44:34.994812Z"
     },
     {
       "id": "any_number_can_play",

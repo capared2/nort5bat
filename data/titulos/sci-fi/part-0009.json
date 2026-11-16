@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-11-14T22:31:23.119981Z",
+  "updated_at": "2026-11-16T06:44:57.699137Z",
   "titles": [
     {
       "id": "1016397-planet_of_the_apes",
@@ -140,12 +140,12 @@
       "runtime_minutes": 90,
       "certificate": "PG",
       "rating": 5.1,
-      "votes": 447,
-      "tomatometer": 38,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 65,
       "tomatometer_certified": false,
-      "audience_score": 32,
-      "audience_count": 226,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A spaceship crash in 1957 California leads to the escape of the Ghota, a murderous monster bent on destroying all life forms. In order to capture the Ghota, a benevolent alien named Urp takes over the body of an astronomer (Eric McCormack) and enlists the aid of a waitress named Tammy (Jenni Baird). But, unless Urp and Tammy are successful, mankind is doomed.",
       "tagline": "",
@@ -246,7 +246,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:53:46.230589Z"
+      "scraped_at": "2026-11-16T06:41:50.640418Z"
     },
     {
       "id": "altered_states",
@@ -264,12 +264,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 6.9,
-      "votes": 2894,
-      "tomatometer": 88,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 50,
       "tomatometer_certified": true,
-      "audience_score": 71,
-      "audience_count": 887,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Respected scientist and psychology professor Edward Jessup (William Hurt) decides to combine his experiments in sensory deprivation tanks with powerful hallucinogenic drugs, convinced that it may help him unlock different states of consciousness. The experiments are a success at first, but as Jessup continues his work, he begins to experience altered mental and also physical states. As he spends more time in sensory deprivation, his grip on reality begins to slip away.",
       "tagline": "",
@@ -350,11 +350,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Altered-States/9148?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWYXZ1XQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:55:57.336570Z"
+      "scraped_at": "2026-11-16T06:44:04.514682Z"
     },
     {
       "id": "at_the_earths_core",

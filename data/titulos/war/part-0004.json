@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-15T19:02:18.782281Z",
+  "updated_at": "2026-11-16T06:44:57.723259Z",
   "titles": [
     {
       "id": "1065684-braveheart",
@@ -690,12 +690,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 5.3,
-      "votes": 115,
-      "tomatometer": 27,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 34,
-      "audience_count": 19,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Aaron Eckhart (The Dark Knight) and Jonathan Rhys Meyers (Vikings) star in this intense, gritty and action-packed Vietnam War epic. When a small outpost is ambushed, a US Army squad must take the battle below ground on a high-stakes mission in a new type of warfare the likes of which they have never seen.",
       "tagline": "",
@@ -798,11 +798,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Ambush/2268793?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B6DXY1ZZ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:56:26.495846Z"
+      "scraped_at": "2026-11-16T06:44:32.515399Z"
     },
     {
       "id": "american_sniper",

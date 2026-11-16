@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 28,
   "count": 60,
-  "updated_at": "2026-11-15T18:58:14.788164Z",
+  "updated_at": "2026-11-16T06:42:56.108398Z",
   "titles": [
     {
       "id": "1001180-armed_and_dangerous",
@@ -795,12 +795,12 @@
       "runtime_minutes": 86,
       "certificate": "PG-13",
       "rating": 4.9,
-      "votes": 110216,
-      "tomatometer": 48,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 65,
       "tomatometer_certified": false,
-      "audience_score": 57,
-      "audience_count": 1444188,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When the dolphin mascot of Miami's NFL team is abducted, Ace Ventura, a zany private investigator who specializes in finding missing animals, looks into the case. Soon Miami Dolphins players are kidnapped too, including star player Dan Marino, making Ace's sleuth work even more pressing. Working with Dolphins representative Melissa Robinson, Ace closes in on the culprits, but not before many ridiculous misadventures.",
       "tagline": "",
@@ -883,11 +883,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Ace-Ventura-Pet-Detective/9096?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:50:00.976877Z"
+      "scraped_at": "2026-11-16T06:38:06.230306Z"
     },
     {
       "id": "alive_and_kicking",
@@ -906,12 +914,12 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 6.7,
-      "votes": 44,
-      "tomatometer": 83,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 66,
-      "audience_count": 17,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Torino (Jason Flemyng) is a young, self-centered dancer whose world is shattered when his lover Ramon (Anthony Higgins) passes away after a battle with AIDS. At Ramon's funeral, Torino meets Ramon's therapist, Jack (Antony Sher), a quiet, older man who sharply contrasts Torino's outspoken, flamboyant nature. The two very different men form an unlikely and intimate bond as Torino refuses to be treated for his HIV so that he can dance his best playing Ramon's part in an upcoming dance production.",
       "tagline": "",
@@ -987,7 +995,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:53:53.902263Z"
+      "scraped_at": "2026-11-16T06:41:58.518037Z"
     },
     {
       "id": "anniversary_party",

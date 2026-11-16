@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-11-15T06:47:33.940617Z",
+  "updated_at": "2026-11-16T06:38:53.496969Z",
   "titles": [
     {
       "id": "10007947-ten",
@@ -1205,12 +1205,12 @@
       "runtime_minutes": 92,
       "certificate": "PG-13",
       "rating": 3.9,
-      "votes": 44854,
-      "tomatometer": 21,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 29,
       "tomatometer_certified": false,
-      "audience_score": 72,
-      "audience_count": 21882,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Legendary pet detective Ace Ventura returns for another adventure when he's coerced out of retirement while on a soul-searching retreat in the Himalayas. He must now retrieve an endangered white bat from a village located in Africa. The sacred animal was offered up as a wedding dowry from the Wachootoo prince to the Wachati princess, and, if Ace can't track down the culprit behind the kidnapping in time, civil war will break out between the two rival tribes.",
       "tagline": "",
@@ -1295,11 +1295,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Ace-Ventura-When-Nature-Calls/220738?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:50:01.826225Z"
+      "scraped_at": "2026-11-16T06:38:07.099519Z"
     },
     {
       "id": "american_reunion_2012",

@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 15,
   "count": 60,
-  "updated_at": "2026-11-15T18:56:14.436429Z",
+  "updated_at": "2026-11-16T06:38:53.524475Z",
   "titles": [
     {
       "id": "1112617-new_guy",
@@ -392,12 +392,12 @@
       "runtime_minutes": 87,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 1763,
-      "tomatometer": 52,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 56,
       "tomatometer_certified": false,
-      "audience_score": 28,
-      "audience_count": 160,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An attempt to negotiate a truce between his bitterly divorced parents sends a man (Adam Scott) back to his childhood therapist, where he learns he was the subject of her self-help book.",
       "tagline": "",
@@ -494,11 +494,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/ACOD/497960?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:50:04.996919Z"
+      "scraped_at": "2026-11-16T06:38:10.149187Z"
     },
     {
       "id": "be_cool",

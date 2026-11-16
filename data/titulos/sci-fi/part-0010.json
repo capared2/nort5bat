@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-15T18:56:14.999300Z",
+  "updated_at": "2026-11-16T06:40:53.815130Z",
   "titles": [
     {
       "id": "10009598-surrogates",
@@ -1422,12 +1422,12 @@
       "runtime_minutes": 95,
       "certificate": "PG-13",
       "rating": 3.2,
-      "votes": 1982,
-      "tomatometer": 6,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 84,
       "tomatometer_certified": false,
-      "audience_score": 20,
-      "audience_count": 635,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "\"Pluto Nash\" is an action comedy set on the moon in the year 2087, starring Eddie Murphy as the title character, an audacious nightclub owner who finds himself in hot water when he refuses to sell his club to the local mob. The lunar gangsters are helping the mysterious Rex Crater mastermind a plan to take over the moon.",
       "tagline": "",
@@ -1524,11 +1524,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Adventures-of-Pluto-Nash/9706?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWP56CXR/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:51:01.340137Z"
+      "scraped_at": "2026-11-16T06:39:06.149030Z"
     },
     {
       "id": "animalia",

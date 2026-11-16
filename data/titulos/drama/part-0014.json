@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 14,
   "count": 60,
-  "updated_at": "2026-11-15T19:02:17.672706Z",
+  "updated_at": "2026-11-16T06:44:56.493940Z",
   "titles": [
     {
       "id": "1005199-dangerous_liaisons",
@@ -794,12 +794,12 @@
       "runtime_minutes": 88,
       "certificate": "R",
       "rating": 6.3,
-      "votes": 208,
-      "tomatometer": 70,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 23,
       "tomatometer_certified": false,
-      "audience_score": 45,
-      "audience_count": 68,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Pawn shop owner Don (Dennis Franz) discovers that a rare coin he has just sold for next to nothing is actually worth a small fortune, so he enlists his loyal teen employee, Bobby (Sean Nelson), to help him get the item back. Unfortunately, it now sits in another store, and the men will have to stage a holdup in order to retrieve it. Don's loser pal, Teach (Dustin Hoffman), believes he can make the heist work and talks his way into joining the scheme, but Don starts to get nervous about the plan.",
       "tagline": "",
@@ -866,17 +866,13 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0GVQLYXSX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        },
-        {
-          "name": "Apple TV",
-          "url": "https://tv.apple.com/us/movie/-1996/umc.cmc.2p523xn4rkttachl552jyusgu?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/American-Buffalo/140364?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:54:42.559873Z"
+      "scraped_at": "2026-11-16T06:44:51.066734Z"
     },
     {
       "id": "ballad_of_jack_and_rose",

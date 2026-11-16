@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-11-15T18:58:15.513779Z",
+  "updated_at": "2026-11-16T06:44:56.708795Z",
   "titles": [
     {
       "id": "1193303-1193303-trumbo",
@@ -331,12 +331,12 @@
       "runtime_minutes": 94,
       "certificate": null,
       "rating": 7.0,
-      "votes": 1,
-      "tomatometer": 86,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 1,
+      "audience_count": null,
       "metascore": null,
       "plot": "Jerusalem-born trauma expert Ofra Bloch forces herself to confront her personal demons as she investigates the current wave of anti-Semitism sweeping parts of the world.",
       "tagline": "",
@@ -400,11 +400,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Afterward/1328496?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HL759C7Z/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:51:54.325919Z"
+      "scraped_at": "2026-11-16T06:39:59.526115Z"
     },
     {
       "id": "agronomist",
@@ -422,12 +426,12 @@
       "runtime_minutes": 90,
       "certificate": "PG-13",
       "rating": 7.7,
-      "votes": 198,
-      "tomatometer": 94,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 68,
       "tomatometer_certified": true,
-      "audience_score": 88,
-      "audience_count": 62,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Haiti's first independent radio station, Radio Haiti-Inter, represented the thoughts of the common people, and Jean Dominique was the human rights activist and radio host whose voice inspired the spirit of revolution against Haiti's dictatorial regime. This intimate documentary telling Dominique's story includes historical footage of his fight for democracy as well as interviews with Dominique and his wife, Michèle Montas, conducted shortly before his assassination in 2000.",
       "tagline": "",
@@ -485,15 +489,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0FMGHTVS5/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:52:15.445066Z"
+      "scraped_at": "2026-11-16T06:40:20.599348Z"
     },
     {
       "id": "aidas_secrets",
@@ -511,12 +510,12 @@
       "runtime_minutes": 90,
       "certificate": null,
       "rating": 8.0,
-      "votes": 25,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
-      "audience_score": 76,
-      "audience_count": 6,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 1945, Izak was born inside the Bergen-Belsen displaced persons camp and sent for adoption in Israel. Secret details of his birth mother, an unknown brother in Canada and his father's true identity slowly emerge in this investigative, biographical film. The plight of displaced persons comes to the fore when Izak and Shep -- the almost 70-year-old brothers -- finally meet in Canada, then head to a nursing home in Quebec to introduce Shep to his elderly mother, Aida, for the first time.",
       "tagline": "",
@@ -600,7 +599,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:52:23.723032Z"
+      "scraped_at": "2026-11-16T06:40:27.618342Z"
     },
     {
       "id": "america_2018",
@@ -618,12 +617,12 @@
       "runtime_minutes": 76,
       "certificate": null,
       "rating": 8.1,
-      "votes": 4,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Brothers confront the chasm between adolescence and adult reality when they care for their 93-year-old grandmother.",
       "tagline": "",
@@ -680,7 +679,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:56:28.547170Z"
+      "scraped_at": "2026-11-16T06:44:34.070920Z"
     },
     {
       "id": "avalanche_the_1910_great_northern_railway_disaster",

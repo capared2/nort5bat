@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-11-15T19:02:38.845134Z",
+  "updated_at": "2026-11-16T06:42:56.017247Z",
   "titles": [
     {
       "id": "1213684-big_fan",
@@ -410,15 +410,15 @@
       "release_date": null,
       "runtime_minutes": 95,
       "certificate": "R",
-      "rating": null,
+      "rating": 5.7,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": null,
+      "tomatometer_count": 10,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
       "metascore": null,
-      "plot": "",
+      "plot": "A suburban teen (Harrison Gilbertson) becomes a delinquent after surviving the car accident that kills his sister.",
       "tagline": "",
       "poster": "https://resizing.flixster.com/5ZUN_rQe38zNTTh1OvqGFKuzv1Q=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8164843_p_v8_ab.jpg",
       "images": [
@@ -513,7 +513,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:49:57.074748Z"
+      "scraped_at": "2026-11-16T06:38:02.440803Z"
     },
     {
       "id": "all_about_the_benjamins",
@@ -532,12 +532,12 @@
       "runtime_minutes": 98,
       "certificate": "R",
       "rating": 4.5,
-      "votes": 2973,
-      "tomatometer": 30,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 71,
       "tomatometer_certified": false,
-      "audience_score": 76,
-      "audience_count": 750,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Bounty hunter Bucum Jackson (Ice Cube) teams with the small-time con artist, Reggie Wright (Mike Epps), that he is pursuing, in an attempt to locate a missing stash of diamonds and a lottery ticket worth millions of dollars. Bucum and Reggie find themselves in a race to the finish as they embark on an unlikely partnership that should -- when all is said and done -- prove beneficial to them both.",
       "tagline": "",
@@ -634,11 +634,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/All-About-the-Benjamins/27656?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/37949?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:53:57.563426Z"
+      "scraped_at": "2026-11-16T06:42:02.479530Z"
     },
     {
       "id": "amy_2001",

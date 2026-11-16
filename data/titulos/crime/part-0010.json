@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-15T18:58:15.107839Z",
+  "updated_at": "2026-11-16T06:45:17.757722Z",
   "titles": [
     {
       "id": "1023286-were_no_angels",
@@ -1305,12 +1305,12 @@
       "runtime_minutes": 157,
       "certificate": "R",
       "rating": 7.3,
-      "votes": 1014,
-      "tomatometer": 81,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 212,
       "tomatometer_certified": true,
-      "audience_score": 90,
-      "audience_count": 106,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Frank Lucas earns his living as a chauffeur to one of Harlem's leading mobsters. After his boss dies, Frank uses his own ingenuity and strict business code to become one of the inner city's most powerful crime bosses. Veteran cop Richie Roberts senses a change in the mob's power structure and looks for ways to bring his opponent to justice.",
       "tagline": "",
@@ -1322,6 +1322,10 @@
         },
         {
           "url": "https://resizing.flixster.com/fR0gOECVs8ef9y4KNvTnUfi0mi4=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159405_i_h8_ae.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Jg2hFrbNtGAg_5p_XP1XKXKQUz0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159405_v_v11_ap.jpg",
           "caption": ""
         },
         {
@@ -1350,10 +1354,6 @@
         },
         {
           "url": "https://resizing.flixster.com/8_oJrAaiUYjDCucOaPCdCz3xs88=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159405_p_v12_an.jpg",
-          "caption": "American Gangster (2007)"
-        },
-        {
-          "url": "https://resizing.flixster.com/VZvL1eirf6VNqR2_w7qLvXybnVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159405_p_v8_aa.jpg",
           "caption": "American Gangster (2007)"
         }
       ],
@@ -1409,17 +1409,13 @@
           "url": "https://athome.fandango.com/content/browse/details/American-Gangster-Theatrical/130847?cmp=rt_where_to_watch"
         },
         {
-          "name": "Apple TV",
-          "url": "https://tv.apple.com/us/movie/american-gangster/umc.cmc.38xvbpqapyw5yrpq36aq49ox6?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
-        },
-        {
           "name": "Starz",
           "url": "https://www.starz.com/us/en/play/50051?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:55:02.764844Z"
+      "scraped_at": "2026-11-16T06:45:13.090154Z"
     },
     {
       "id": "american_pain",

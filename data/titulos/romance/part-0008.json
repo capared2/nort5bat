@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-15T18:58:15.316018Z",
+  "updated_at": "2026-11-16T06:40:53.677284Z",
   "titles": [
     {
       "id": "10008760-what_happens_in_vegas",
@@ -605,12 +605,12 @@
       "runtime_minutes": 95,
       "certificate": "R",
       "rating": 2.7,
-      "votes": 116,
-      "tomatometer": 0,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 92,
-      "audience_count": 43,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The fourth film of the AFTER franchise finds Tessa and Hardin at a crossroads: Does Tessa continue trying to save him and their relationship, or is it time to save herself? While Hardin remains in London after his mother's wedding and sinks deeper into darkness, Tessa returns to Seattle and endures a tragedy. If they want their love to survive, they'll need to work on themselves first. But will their paths lead them back to each other?",
       "tagline": "",
@@ -707,15 +707,11 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/81397456?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0B637ZBKP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:51:26.413341Z"
+      "scraped_at": "2026-11-16T06:39:31.308484Z"
     },
     {
       "id": "americas_sweethearts",

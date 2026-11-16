@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-11-15T06:45:32.223270Z",
+  "updated_at": "2026-11-16T06:45:17.317439Z",
   "titles": [
     {
       "id": "10012058-prodigal_sons",
@@ -193,12 +193,12 @@
       "runtime_minutes": 100,
       "certificate": "R",
       "rating": 6.7,
-      "votes": 43,
-      "tomatometer": 70,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 30,
       "tomatometer_certified": false,
-      "audience_score": 56,
-      "audience_count": 7,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two art students roam the streets of Warsaw, exploring a city torn between its past and future.",
       "tagline": "",
@@ -270,11 +270,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/All-These-Sleepless-Nights/873573?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HNDZJ1KM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-29T22:55:04.378927Z"
+      "scraped_at": "2026-11-16T06:43:09.991137Z"
     },
     {
       "id": "american_experience_return_with_honor",
@@ -292,12 +296,12 @@
       "runtime_minutes": 101,
       "certificate": null,
       "rating": 8.5,
-      "votes": 19,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 10,
       "tomatometer_certified": false,
-      "audience_score": 79,
-      "audience_count": 1,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The so-called \"Hanoi Hilton\" was far from a luxurious hospice for weary travelers. In truth, it was the American nickname for one of the most infamous POW camps of the Vietnam War. This documentary features interviews with the prisoners who survived incarceration and, in many cases, torture at the Hanoi Hilton and similar camps. Some captives endured nearly a decade of this treatment. Among the interviewees is the former presidential candidate and U.S. senator John McCain.",
       "tagline": "",
@@ -334,7 +338,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:54:55.350335Z"
+      "scraped_at": "2026-11-16T06:45:05.125988Z"
     },
     {
       "id": "anne_frank_remembered",
