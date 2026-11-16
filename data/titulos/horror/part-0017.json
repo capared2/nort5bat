@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-11-15T06:47:34.427475Z",
+  "updated_at": "2026-11-16T22:18:14.628894Z",
   "titles": [
     {
       "id": "1008015-fury",
@@ -925,12 +925,12 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 4.0,
-      "votes": 3436,
-      "tomatometer": 13,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 24,
       "tomatometer_certified": false,
-      "audience_score": 23,
-      "audience_count": 616,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A murderous assailant traps three people (Alice Eve, Josh Peck, Brian Geraghty) in a small kiosk containing an automatic teller machine.",
       "tagline": "",
@@ -1025,10 +1025,6 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0DV8LTZ2S/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        },
-        {
           "name": "AMC+",
           "url": "https://www.amcplus.com/movies/atm--1026789?cmp=rt_where_to_watch"
         },
@@ -1039,7 +1035,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T06:02:38.554072Z"
+      "scraped_at": "2026-11-16T22:17:42.046412Z"
     },
     {
       "id": "azrael",

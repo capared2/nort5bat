@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-16T06:40:54.855522Z",
+  "updated_at": "2026-11-16T22:16:14.317350Z",
   "titles": [
     {
       "id": "10007415-amazing_grace",
@@ -844,12 +844,12 @@
       "runtime_minutes": 145,
       "certificate": "PG",
       "rating": 6.0,
-      "votes": 518,
-      "tomatometer": 42,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 12,
       "tomatometer_certified": false,
-      "audience_score": 82,
-      "audience_count": 182,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "This film adaption of a Broadway play is based on the historical events surrounding the founding of the Church of England. Catherine of Aragon (Irene Papas), empowered wife of King Henry VIII (Richard Burton), has yet to give birth to an heir. King Henry's wandering eyes fall on the devout and nubile Anne Boleyn (Geneviève Bujold), who refuses his sexual advances. Henry eventually convinces Anne to marry him, but to move forward, the king must face a church that believes divorce is a sin.",
       "tagline": "",
@@ -934,7 +934,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:58:17.951849Z"
+      "scraped_at": "2026-11-16T22:13:21.992901Z"
     },
     {
       "id": "apollo_13",
@@ -953,12 +953,12 @@
       "runtime_minutes": 140,
       "certificate": "PG",
       "rating": 8.6,
-      "votes": 25791,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 158,
       "tomatometer_certified": true,
-      "audience_score": 87,
-      "audience_count": 9100,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "This Hollywood drama is based on the events of the Apollo 13 lunar mission, astronauts Jim Lovell (Tom Hanks), Fred Haise (Bill Paxton) and Jack Swigert (Kevin Bacon) find everything going according to plan after leaving Earth's orbit. However, when an oxygen tank explodes, the scheduled moon landing is called off. Subsequent tensions within the crew and numerous technical problems threaten both the astronauts' survival and their safe return to Earth.",
       "tagline": "",
@@ -1061,11 +1061,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Apollo-13/5828?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/apollo-13--1043710?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:59:38.878662Z"
+      "scraped_at": "2026-11-16T22:14:43.106755Z"
     },
     {
       "id": "bigger",

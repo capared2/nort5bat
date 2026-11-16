@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 12,
   "count": 60,
-  "updated_at": "2026-11-16T06:44:57.033800Z",
+  "updated_at": "2026-11-16T22:12:12.789300Z",
   "titles": [
     {
       "id": "1001193-around_the_world_in_80_days",
@@ -1187,12 +1187,12 @@
       "runtime_minutes": 105,
       "certificate": "R",
       "rating": 5.9,
-      "votes": 38095,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 121,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 15490,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After a year apart - attending different schools, meeting different people - the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it's all about sticking together.",
       "tagline": "",
@@ -1289,11 +1289,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/American-Pie-2-Theatrical/5740?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/american-pie-2--1073095?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:55:28.166751Z"
+      "scraped_at": "2026-11-16T22:10:32.419972Z"
     },
     {
       "id": "analyze_this",
@@ -1311,12 +1315,12 @@
       "runtime_minutes": 103,
       "certificate": "R",
       "rating": 7.0,
-      "votes": 8194,
-      "tomatometer": 69,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 102,
       "tomatometer_certified": false,
-      "audience_score": 62,
-      "audience_count": 2404,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When doctors tell a mob boss (Robert De Niro) that he is suffering from anxiety attacks, he seeks the help of Ben, a therapist (Billy Crystal), who is manipulated into treating him, with hysterical results. Just as Ben and his fiancée (Lisa Kudrow) are about to wed, they are faced with a mobster who won't take no for an answer.",
       "tagline": "",
@@ -1423,7 +1427,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:57:00.902503Z"
+      "scraped_at": "2026-11-16T22:12:02.970501Z"
     },
     {
       "id": "baby_doll",

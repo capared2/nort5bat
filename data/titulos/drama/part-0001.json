@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-16T06:42:55.542426Z",
+  "updated_at": "2026-11-16T22:18:15.075534Z",
   "titles": [
     {
       "id": "accidental_tourist",
@@ -227,12 +227,12 @@
       "runtime_minutes": 83,
       "certificate": "PG",
       "rating": 6.5,
-      "votes": 1052,
-      "tomatometer": 56,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 25,
       "tomatometer_certified": false,
-      "audience_score": 75,
-      "audience_count": 256,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When philosophy professor Marion Post (Gena Rowlands) rents an apartment to work on her new book, she soon realizes that she can hear into the next room, which houses a psychiatrist's office. Marion becomes captivated by the sessions of a patient named Hope (Mia Farrow). As Hope talks about her emotional issues, Marion begins to reevaluate her life. She comes to realize that her coldness has shut her off from friends and family, and she has missed a chance for true love.",
       "tagline": "",
@@ -309,11 +309,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Another-Woman/21441?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B09Y6DRZ85/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:58:47.598852Z"
+      "scraped_at": "2026-11-16T22:13:49.780237Z"
     },
     {
       "id": "at_night_comes_wolves",
@@ -331,12 +335,12 @@
       "runtime_minutes": null,
       "certificate": null,
       "rating": 3.0,
-      "votes": 2,
-      "tomatometer": 17,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this unnerving tale about misogyny, fate, and sexism comes a story about a woman who is about to change the world forever. After Leah Shaffer finally leaves her emotionally manipulative husband, she finds a friend in a drifter whom she quickly feels a deep connection with. The drifter introduces Leah to a prodigal chemist, and Leah learns her new friends are all that is left of a doomsday cult that disbanded years earlier. Together, the new trio is about to change the world, but before they can reveal their secrets, they have to tie up loose ends with Leah's husband--and their ex-leader.",
       "tagline": "",
@@ -410,7 +414,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T06:02:22.374496Z"
+      "scraped_at": "2026-11-16T22:17:26.066832Z"
     },
     {
       "id": "atlantis_2019",
@@ -428,12 +432,12 @@
       "runtime_minutes": 106,
       "certificate": null,
       "rating": 7.7,
-      "votes": 25,
-      "tomatometer": 97,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 36,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 5,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A prize-winner at the Venice Film Festival and Ukraine's official selection for the 2021 Academy Awards, Atlantis is a gorgeous and visionary sci-fi drama. Eastern Ukraine, 2025. A desert unsuitable for human habitation. Water is a dear commodity brought by trucks. A Wall is being build-up on the border. Sergiy, a former soldier, is having trouble adapting to his new reality. He meets Katya while on the Black Tulip mission dedicated to exhuming the past. Together, they try to return to some sort of normal life in which they are also allowed to fall in love again.",
       "tagline": "",
@@ -544,7 +548,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T06:02:35.536975Z"
+      "scraped_at": "2026-11-16T22:17:39.049530Z"
     },
     {
       "id": "bantu_mama",

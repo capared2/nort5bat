@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-16T06:42:56.551155Z",
+  "updated_at": "2026-11-16T22:18:15.148082Z",
   "titles": [
     {
       "id": "10004504-ultraviolet",
@@ -645,12 +645,12 @@
       "runtime_minutes": 116,
       "certificate": "PG-13",
       "rating": 4.0,
-      "votes": 14575,
-      "tomatometer": 18,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 224,
       "tomatometer_certified": false,
-      "audience_score": 42,
-      "audience_count": 2368,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A descendant of the mysterious secret society known as the Assassins uses his newfound knowledge and physical skills to battle the power-hungry Templar Order.",
       "tagline": "",
@@ -753,11 +753,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Assassins-Creed/822033?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T06:02:00.371853Z"
+      "scraped_at": "2026-11-16T22:17:03.714081Z"
     },
     {
       "id": "beyond_skyline_2017",

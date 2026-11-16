@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 51,
   "count": 60,
-  "updated_at": "2026-11-16T06:44:56.954814Z",
+  "updated_at": "2026-11-16T22:18:14.764372Z",
   "titles": [
     {
       "id": "100_girls",
@@ -378,7 +378,7 @@
       "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two broke, out-of-work actresses in their sixties hide out on a film set so they can have their dream Christmas.",
       "tagline": "",
@@ -451,11 +451,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Auld-Lang-Syne/3549415?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DC7LH857/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:01:21.387880Z"
+      "scraped_at": "2026-11-16T22:18:13.047815Z"
     },
     {
       "id": "blue_iguana_2018",

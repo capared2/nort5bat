@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-16T06:40:53.677284Z",
+  "updated_at": "2026-11-16T22:12:13.209489Z",
   "titles": [
     {
       "id": "10008760-what_happens_in_vegas",
@@ -730,12 +730,12 @@
       "runtime_minutes": 102,
       "certificate": "PG-13",
       "rating": 5.4,
-      "votes": 6074,
-      "tomatometer": 33,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 144,
       "tomatometer_certified": false,
-      "audience_score": 40,
-      "audience_count": 2001,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "For an awkward, self-conscious girl like Kiki (Julia Roberts), being the personal assistant to a beautiful megastar like Gwen (Catherine Zeta-Jones) isn't easy. But when she dutifully accepts the task of helping Gwen and her estranged husband Eddie (John Cusack) make it through one last public appearance masterminded by legendary press agent Lee Phillips (Billy Crystal), forever devoted Kiki finds that her job is about to get even harder when her and Eddie's relationship takes a romantic turn.",
       "tagline": "",
@@ -838,11 +838,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Americas-Sweethearts/23521?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CV6YWSFF/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T05:56:03.520105Z"
+      "scraped_at": "2026-11-16T22:11:07.639517Z"
     },
     {
       "id": "because_i_said_so",

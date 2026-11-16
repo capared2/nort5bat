@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 29,
   "count": 60,
-  "updated_at": "2026-11-16T06:42:55.646072Z",
+  "updated_at": "2026-11-16T22:18:15.030889Z",
   "titles": [
     {
       "id": "10010972-mammoth",
@@ -586,12 +586,12 @@
       "runtime_minutes": 99,
       "certificate": "R",
       "rating": 3.7,
-      "votes": 13,
-      "tomatometer": 11,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 23,
-      "audience_count": 4,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After 30 years of marriage, Barbara Sawyer (Elizabeth Taylor) is afraid she's losing her husband, Mark (Henry Fonda). The ravishing beauty of her youth has given way to middle-aged homeliness, so she secretly checks into a Swiss clinic and undergoes extensive plastic surgery. While waiting to surprise Mark with her restored face and body, Barbara meets Erich (Helmut Berger), a handsome bachelor, at a posh ski lodge and becomes entranced by his seductive charm.",
       "tagline": "",
@@ -667,7 +667,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T06:01:32.446925Z"
+      "scraped_at": "2026-11-16T22:16:36.408051Z"
     },
     {
       "id": "astronaut_2019",
@@ -685,12 +685,12 @@
       "runtime_minutes": 97,
       "certificate": null,
       "rating": 5.9,
-      "votes": 56,
-      "tomatometer": 67,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 55,
       "tomatometer_certified": false,
-      "audience_score": 62,
-      "audience_count": 13,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A lonely widower lies about his age to enter a lottery for a once-in-a-lifetime chance to travel on the first commercial flight to outer space. When his name gets drawn, he soon finds himself preparing for the ultimate adventure of his dreams.",
       "tagline": "",
@@ -702,6 +702,10 @@
         },
         {
           "url": "https://resizing.flixster.com/OwJxNTlnWAr1Va8oi5kCgL76NNY=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/7/851/thumb_578E750B-125C-4AD3-8B4A-333CEE8920FC.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/GCyQMZeshD7-Nnewq7VnESqh1H0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16947185_v_v12_ac.jpg",
           "caption": ""
         },
         {
@@ -730,10 +734,6 @@
         },
         {
           "url": "https://resizing.flixster.com/G3zPOQ9XxHOVJBoPWA8vptwJbIg=/fit-in/705x460/v2/https://resizing.flixster.com/wzUWUTvA-nw49r1oxRlfJ8j6oJY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU1M2ZiZTc5LWFmZjktNDEwMi1hYThlLTE1MjNiMTcyODI0ZC53ZWJw",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/V9FCuWcbG_G38PcaO4_C69snhFc=/fit-in/705x460/v2/https://resizing.flixster.com/iayBe9jzFVcLEwIC6BMslXUtCZw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RiYWIzMDk2LTI4MmYtNGQwZC1hMmI5LTFiZmVkYjMwNGVhNC53ZWJw",
           "caption": ""
         }
       ],
@@ -797,7 +797,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T06:02:11.557832Z"
+      "scraped_at": "2026-11-16T22:17:14.882832Z"
     },
     {
       "id": "blaze",
