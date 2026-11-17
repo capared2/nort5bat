@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-11-17T08:03:09.355601Z",
+  "updated_at": "2026-11-17T21:05:29.206006Z",
   "titles": [
     {
       "id": "10004288-running_scared",
@@ -1331,12 +1331,12 @@
       "runtime_minutes": 90,
       "certificate": "R",
       "rating": 4.2,
-      "votes": 165,
-      "tomatometer": 13,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 41,
-      "audience_count": 52,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Sexually abused as a young girl, Kate \"Ma\" Barker (Shelley Winters) grows into a violently powerful woman by the 1930s. She lovingly dominates her grown sons, and grooms them into a pack of tough crooks. The boys include the cruel Herman (Don Stroud), who still shares a bed with Ma; Fred (Robert Walden), an ex-con who fell in love with a fellow prisoner; and Lloyd (Robert De Niro), who gets high on whatever's handy. Together they form a deadly, bizarre family of Depression-era bandits.",
       "tagline": "",
@@ -1409,10 +1409,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D3YB9DHF/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:31:17.859666Z"
+      "scraped_at": "2026-11-17T21:05:22.264482Z"
     },
     {
       "id": "bring_me_the_head_of_alfredo_garcia",

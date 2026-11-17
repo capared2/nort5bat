@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 33,
   "count": 60,
-  "updated_at": "2026-11-17T08:01:07.455130Z",
+  "updated_at": "2026-11-17T21:03:27.485857Z",
   "titles": [
     {
       "id": "10006940-silk",
@@ -1040,7 +1040,7 @@
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Arriving at his ancestral home, young Surja becomes increasingly obsessed with a nearby forest. But he might not be prepared for the eerie madness that lurks within.",
       "tagline": "",
@@ -1109,7 +1109,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:26:30.583090Z"
+      "scraped_at": "2026-11-17T21:00:34.162060Z"
     },
     {
       "id": "black_christmas_2019",
@@ -1129,12 +1129,12 @@
       "runtime_minutes": 92,
       "certificate": "PG-13",
       "rating": 4.8,
-      "votes": 1357,
-      "tomatometer": 41,
-      "tomatometer_count": 115,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 114,
       "tomatometer_certified": false,
-      "audience_score": 31,
-      "audience_count": 447,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Hawthorne College is quieting down for the holidays as students travel home to spend time with their families. But as Riley and her sorority sisters prepare to deck the halls with seasonal parties, a mysterious cloaked figure starts to leave a bloody trail throughout the campus. Refusing to become hapless victims, Riley and her friends decide to band together and fight back against the psychotic Christmas killer.",
       "tagline": "",
@@ -1237,11 +1237,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Black-Christmas/1281707?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/74948?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:28:44.458611Z"
+      "scraped_at": "2026-11-17T21:02:50.301212Z"
     },
     {
       "id": "bring_me_a_skin_for_dancing_in",

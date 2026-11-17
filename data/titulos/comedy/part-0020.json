@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 20,
   "count": 60,
-  "updated_at": "2026-11-17T08:07:10.616672Z",
+  "updated_at": "2026-11-17T21:07:50.778347Z",
   "titles": [
     {
       "id": "10012141-kids_are_all_right",
@@ -1113,12 +1113,12 @@
       "runtime_minutes": 94,
       "certificate": "R",
       "rating": 3.1,
-      "votes": 2787,
-      "tomatometer": 6,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 86,
       "tomatometer_certified": false,
-      "audience_score": 36,
-      "audience_count": 1161,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After Nick makes an insensitive remark, his travel agent decides to get some payback by sending him and his best friend, Jerry, on a cruise for gay men. As the true nature of their situation gradually dawns on them, they start to get over their feelings of homophobia and meet potential mates. For Nick, love takes the form of a gorgeous model, Inga, while Jerry develops feelings for dance instructor Gabriella.",
       "tagline": "",
@@ -1214,7 +1214,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:32:24.342597Z"
+      "scraped_at": "2026-11-17T21:06:30.015399Z"
     },
     {
       "id": "booksmart",
@@ -1233,12 +1233,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 8.3,
-      "votes": 4119,
-      "tomatometer": 96,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 385,
       "tomatometer_certified": true,
-      "audience_score": 77,
-      "audience_count": 1235,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Academic overachievers Amy and Molly thought keeping their noses to the grindstone gave them a leg up on their high school peers. But on the eve of graduation, the best friends suddenly realize that they may have missed out on the special moments of their teenage years. Determined to make up for lost time, the girls decide to cram four years of not-to-be missed fun into one night -- a chaotic adventure that no amount of book smarts could prepare them for.",
       "tagline": "",
@@ -1339,13 +1339,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B08YJM2Z7K/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/booksmart/umc.cmc.8lexieogmdprw37s6sbabepv?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T05:50:24.576297Z"
+      "scraped_at": "2026-11-17T21:07:42.996391Z"
     },
     {
       "id": "bottoms",

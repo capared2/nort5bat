@@ -224,80 +224,6 @@
       ]
     },
     {
-      "id": "big_fish_and_begonia",
-      "category": "fantasy",
-      "type": "movie",
-      "title": "Big Fish & Begonia",
-      "original_title": "Big Fish & Begonia",
-      "year": 2018,
-      "genres": [
-        "Fantasy",
-        "Adventure",
-        "Anime"
-      ],
-      "rating": 7.4,
-      "votes": 175,
-      "tomatometer": 94,
-      "audience_score": 70,
-      "runtime_minutes": 105,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/H_Jziy9MVVw8wtfkzlr7BgRt19k=/300x450/v2/https://resizing.flixster.com/AVjVyTz2m_wC60hGqxJ3WcBdJvA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcxYWQ1NDAxLTg5YTItNDRlYi04MjI2LThjNDYxZDhkYzFiYy53ZWJw",
-      "plot": "A 16-year-old girl embarks on a fantastical and dangerous adventure after transforming into a dolphin. When a boy sacrifices himself to save her, she uses magic to bring him back to life -- only to…",
-      "directors": [
-        "Xuan Liang",
-        "Chun Zhang"
-      ]
-    },
-    {
-      "id": "blue_lock_the_movie_episode_nagi",
-      "category": "anime",
-      "type": "movie",
-      "title": "Blue Lock the Movie -Episode Nagi-",
-      "original_title": "Blue Lock the Movie -Episode Nagi-",
-      "year": 2024,
-      "genres": [
-        "Drama",
-        "Anime",
-        "Comedy",
-        "Sports"
-      ],
-      "rating": 5.9,
-      "votes": 134,
-      "tomatometer": 79,
-      "audience_score": 89,
-      "runtime_minutes": 91,
-      "certificate": "PG-13",
-      "poster": "https://resizing.flixster.com/GtLaQGIF04KqbrrmR08wUAHcdGA=/300x450/v2/https://resizing.flixster.com/CAcE4UXq5j61-9X9yumK_kuJC00=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4NDcyZjE5LTM4Y2ItNGNlOC05YjM5LWJjZDI1ODBmNGQ5MS5qcGc=",
-      "plot": "\"That's a hassle.\" That was second-year high schooler Nagi Seishiro's favorite phrase as he lived his dull life. Until Mikage Reo, a classmate who dreamed of winning the World Cup, discovered Nagi's…",
-      "directors": [
-        "Shunsuke Ishikawa"
-      ]
-    },
-    {
-      "id": "blue_giant",
-      "category": "anime",
-      "type": "movie",
-      "title": "Blue Giant",
-      "original_title": "Blue Giant",
-      "year": 2023,
-      "genres": [
-        "Drama",
-        "Music",
-        "Anime"
-      ],
-      "rating": 8.0,
-      "votes": 129,
-      "tomatometer": 100,
-      "audience_score": 95,
-      "runtime_minutes": 120,
-      "certificate": null,
-      "poster": "https://resizing.flixster.com/VJXkvICBQNBq4C94LSXxFJwVNew=/300x450/v2/https://resizing.flixster.com/pj24oQxr4VHWhWii63pFOntwmJ8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhMzUyNjY4LWE5OTgtNDA3OC1iY2UwLTBlNGZlYzJiMmJjZC5qcGc=",
-      "plot": "Dai Miyamoto's life is turned upside down the day he discovers jazz. A former high school basketball player, Dai picks up a saxophone and begins practicing day and night, determined to become one of…",
-      "directors": [
-        "Yuzuru Tachikawa"
-      ]
-    },
-    {
       "id": "cocoon_one_summer_of_girlhood",
       "category": "anime",
       "type": "movie",
@@ -440,6 +366,30 @@
       "plot": "Shohoku's \"speedster\" and point guard, Ryota Miyagi, always plays with brains and lightning speed, running circles around his opponents while feigning composure. Born and raised in Okinawa, Ryota had…",
       "directors": [
         "Takehiko Inoue"
+      ]
+    },
+    {
+      "id": "blue_giant",
+      "category": "anime",
+      "type": "movie",
+      "title": "Blue Giant",
+      "original_title": "Blue Giant",
+      "year": 2023,
+      "genres": [
+        "Drama",
+        "Music",
+        "Anime"
+      ],
+      "rating": 8.0,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 120,
+      "certificate": null,
+      "poster": "https://resizing.flixster.com/VJXkvICBQNBq4C94LSXxFJwVNew=/300x450/v2/https://resizing.flixster.com/pj24oQxr4VHWhWii63pFOntwmJ8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JhMzUyNjY4LWE5OTgtNDA3OC1iY2UwLTBlNGZlYzJiMmJjZC5qcGc=",
+      "plot": "Dai Miyamoto's life is turned upside down the day he discovers jazz. A former high school basketball player, Dai picks up a saxophone and begins practicing day and night, determined to become one of…",
+      "directors": [
+        "Yuzuru Tachikawa"
       ]
     },
     {
@@ -658,6 +608,31 @@
       "plot": "The summer of his high school freshman year, Hodaka runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually…",
       "directors": [
         "Makoto Shinkai"
+      ]
+    },
+    {
+      "id": "big_fish_and_begonia",
+      "category": "fantasy",
+      "type": "movie",
+      "title": "Big Fish & Begonia",
+      "original_title": "Big Fish & Begonia",
+      "year": 2018,
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Anime"
+      ],
+      "rating": 7.4,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 105,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/H_Jziy9MVVw8wtfkzlr7BgRt19k=/300x450/v2/https://resizing.flixster.com/AVjVyTz2m_wC60hGqxJ3WcBdJvA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcxYWQ1NDAxLTg5YTItNDRlYi04MjI2LThjNDYxZDhkYzFiYy53ZWJw",
+      "plot": "A 16-year-old girl embarks on a fantastical and dangerous adventure after transforming into a dolphin. When a boy sacrifices himself to save her, she uses magic to bring him back to life -- only to…",
+      "directors": [
+        "Xuan Liang",
+        "Chun Zhang"
       ]
     },
     {
@@ -880,6 +855,31 @@
       "plot": "A veil abruptly descends over the busy Shibuya area amid the bustling Halloween crowds, trapping countless civilians inside. Satoru Gojo, the strongest jujutsu sorcerer, steps into the chaos. But…",
       "directors": [
         "Shota Goshozono"
+      ]
+    },
+    {
+      "id": "blue_lock_the_movie_episode_nagi",
+      "category": "anime",
+      "type": "movie",
+      "title": "Blue Lock the Movie -Episode Nagi-",
+      "original_title": "Blue Lock the Movie -Episode Nagi-",
+      "year": 2024,
+      "genres": [
+        "Drama",
+        "Anime",
+        "Comedy",
+        "Sports"
+      ],
+      "rating": 5.9,
+      "votes": null,
+      "tomatometer": null,
+      "audience_score": null,
+      "runtime_minutes": 91,
+      "certificate": "PG-13",
+      "poster": "https://resizing.flixster.com/GtLaQGIF04KqbrrmR08wUAHcdGA=/300x450/v2/https://resizing.flixster.com/CAcE4UXq5j61-9X9yumK_kuJC00=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4NDcyZjE5LTM4Y2ItNGNlOC05YjM5LWJjZDI1ODBmNGQ5MS5qcGc=",
+      "plot": "\"That's a hassle.\" That was second-year high schooler Nagi Seishiro's favorite phrase as he lived his dull life. Until Mikage Reo, a classmate who dreamed of winning the World Cup, discovered Nagi's…",
+      "directors": [
+        "Shunsuke Ishikawa"
       ]
     },
     {

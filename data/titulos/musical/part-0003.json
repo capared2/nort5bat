@@ -2,7 +2,7 @@
   "genre": "musical",
   "part": 3,
   "count": 60,
-  "updated_at": "2026-11-17T08:07:11.377293Z",
+  "updated_at": "2026-11-17T21:07:30.568041Z",
   "titles": [
     {
       "id": "1011605-king_and_i",
@@ -1261,12 +1261,12 @@
       "runtime_minutes": 133,
       "certificate": "R",
       "rating": 7.5,
-      "votes": 23489,
-      "tomatometer": 72,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 92,
       "tomatometer_certified": true,
-      "audience_score": 92,
-      "audience_count": 10458,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After his release from prison, Jake (John Belushi) reunites with his brother, Elwood (Dan Aykroyd) -- collectively known as the \"Blues Brothers.\" Jake's first task is to save the orphanage the brothers grew up in from closing, by raising $5,000 to pay back taxes. The two are convinced they can earn the money by getting their old band back together. However, after playing several gigs and making a few enemies, including the police, the brothers face daunting odds to deliver the money on time.",
       "tagline": "",
@@ -1363,11 +1363,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/60036233?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/the-blues-brothers--1055204?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:32:15.298409Z"
+      "scraped_at": "2026-11-17T21:06:21.070496Z"
     },
     {
       "id": "brigadoon",

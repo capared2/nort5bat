@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-11-17T08:05:10.492730Z",
+  "updated_at": "2026-11-17T21:05:28.684810Z",
   "titles": [
     {
       "id": "10011736-suck",
@@ -1724,12 +1724,12 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 3.9,
-      "votes": 128,
-      "tomatometer": 22,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
-      "audience_score": 18,
-      "audience_count": 52,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Nine vacationing college friends play a board game that releases a ghoul.",
       "tagline": "",
@@ -1834,7 +1834,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:29:32.958335Z"
+      "scraped_at": "2026-11-17T21:03:38.265614Z"
     },
     {
       "id": "blink_twice",
@@ -1853,12 +1853,12 @@
       "runtime_minutes": 102,
       "certificate": "R",
       "rating": 6.8,
-      "votes": 1937,
-      "tomatometer": 74,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 234,
       "tomatometer_certified": true,
-      "audience_score": 71,
-      "audience_count": 635,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When tech billionaire Slater King (Channing Tatum) meets cocktail waitress Frida (Naomi Ackie) at his fundraising gala, sparks fly. He invites her to join him and his friends on a dream vacation on his private island. It's paradise. Wild nights blend into sun soaked days and everyone's having a great time. No one wants this trip to end, but as strange things start to happen, Frida begins to question her reality. There is something wrong with this place. She'll have to uncover the truth if she wants to make it out of this party alive.",
       "tagline": "",
@@ -1963,13 +1963,17 @@
           "url": "https://athome.fandango.com/content/browse/details/Blink-Twice/3491992?cmp=rt_where_to_watch"
         },
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0G56SH1PW/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:30:34.837869Z"
+      "scraped_at": "2026-11-17T21:04:38.212917Z"
     },
     {
       "id": "brood",

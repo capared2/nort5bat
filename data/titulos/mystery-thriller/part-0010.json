@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-17T08:05:09.859804Z",
+  "updated_at": "2026-11-17T21:05:28.164230Z",
   "titles": [
     {
       "id": "1017502-revenge",
@@ -1300,12 +1300,12 @@
       "runtime_minutes": 105,
       "certificate": "PG-13",
       "rating": 3.9,
-      "votes": 973,
-      "tomatometer": 11,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 105,
       "tomatometer_certified": false,
-      "audience_score": 82,
-      "audience_count": 686,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Trust, identity, and the danger of unchecked power push a covert operative to the edge in director Mark Williams' intense action thriller BLACKLIGHT. Travis Block (LIAM NEESON) lives and fights in the shadows. A freelance government \"fixer,\" Block is a dangerous man whose assignments have included extracting agents out of deep-cover situations. When Block discovers a shadowy program called Operation Unity is striking down ordinary citizens for reasons known only to Block's boss, FBI chief Robinson (AIDAN QUINN), he enlists the help of a journalist (EMMY RAVER-LAMPMAN), but his past and present collide when his daughter and granddaughter are threatened. Now Block needs to rescue the people he loves and expose the truth for a shot at redemption. Nothing and no one is safe when secrets are hidden in BLACKLIGHT.",
       "tagline": "",
@@ -1412,11 +1412,19 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B09P4FFX9S/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:29:45.570712Z"
+      "scraped_at": "2026-11-17T21:03:51.021409Z"
     },
     {
       "id": "blood_father",
@@ -1435,12 +1443,12 @@
       "runtime_minutes": 88,
       "certificate": "R",
       "rating": 6.6,
-      "votes": 3739,
-      "tomatometer": 89,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 99,
       "tomatometer_certified": true,
-      "audience_score": 63,
-      "audience_count": 449,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "An ex-convict (Mel Gibson) and his estranged daughter (Erin Moriarty) go on the run from her drug-dealing boyfriend (Diego Luna) and his vicious cartel.",
       "tagline": "",
@@ -1547,7 +1555,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:30:52.114858Z"
+      "scraped_at": "2026-11-17T21:04:56.041657Z"
     },
     {
       "id": "brake",

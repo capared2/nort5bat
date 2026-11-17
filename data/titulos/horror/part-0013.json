@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-11-15T19:02:18.706920Z",
+  "updated_at": "2026-11-17T21:01:25.860839Z",
   "titles": [
     {
       "id": "10010785-grace",
@@ -743,12 +743,12 @@
       "runtime_minutes": 93,
       "certificate": "R",
       "rating": 5.2,
-      "votes": 852,
-      "tomatometer": 52,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
-      "audience_score": 39,
-      "audience_count": 353,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When he was young, Howard Phillips (Jason Barry) watched his sister get torn apart by one of Dr. Herbert West's (Jeffrey Combs) reanimated corpses. Phillips, now a doctor, is so eager to learn more about the mad doctor's attempts to bring back the dead that he accepts a position at the prison where West is being held. Phillips delves further into West's gruesome research, which attracts the attention of a local reporter (Elsa Pataky) and the cruel prison warden (Simón Andreu).",
       "tagline": "",
@@ -831,11 +831,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Beyond-Re-Animator/6619?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GRK53TL6/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:25:55.507070Z"
+      "scraped_at": "2026-11-17T20:59:58.578606Z"
     },
     {
       "id": "byzantium_2012",

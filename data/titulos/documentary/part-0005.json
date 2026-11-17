@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-17T08:07:32.124283Z",
+  "updated_at": "2026-11-17T21:05:28.597658Z",
   "titles": [
     {
       "id": "a_brave_heart_the_lizzie_velasquez_story",
@@ -953,12 +953,12 @@
       "runtime_minutes": 115,
       "certificate": "PG-13",
       "rating": 8.7,
-      "votes": 866,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 58,
       "tomatometer_certified": true,
-      "audience_score": 99,
-      "audience_count": 33,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A suspenseful, riveting portrait of the lengths people will go to gain freedom, BEYOND UTOPIA follows various families as they attempt to flee North Korea, one of the most oppressive places on Earth, a land they grew up believing was a paradise. At the film's core is a courageous pastor, a man of God on a mission to help a mother reunite with the child she was forced to leave behind, and a family of five -- including small children and an elderly grandmother -- embarking on a treacherous journey into the hostile mountains of China. Leaving their homeland is fraught with unimaginable danger -- yet these individuals are driven to take the risk. Gripping, thrilling, and never more timely, Madeleine Gavin's award-winning film embeds the viewer with these family members as they attempt their perilous escape, palpably conveying life-or-death stakes. The result is a singular, heart-pounding, and unforgettable experience.",
       "tagline": "",
@@ -1012,7 +1012,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:26:16.615189Z"
+      "scraped_at": "2026-11-17T21:00:19.717783Z"
     },
     {
       "id": "black_art_in_the_absence_of_light",
@@ -1030,12 +1030,12 @@
       "runtime_minutes": null,
       "certificate": null,
       "rating": 6.0,
-      "votes": 8,
-      "tomatometer": 91,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 62,
-      "audience_count": 1,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Inspired by the late David Driskell's landmark 1976 exhibition, \"Two Centuries of Black American Art,\" the documentary Black Art: In the Absence of Light offers an illuminating introduction to the work of some of the foremost Black visual artists working today.",
       "tagline": "",
@@ -1131,7 +1131,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:28:30.841283Z"
+      "scraped_at": "2026-11-17T21:02:36.254471Z"
     },
     {
       "id": "black_mother",
@@ -1149,12 +1149,12 @@
       "runtime_minutes": 77,
       "certificate": null,
       "rating": 8.1,
-      "votes": 14,
-      "tomatometer": 97,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 31,
       "tomatometer_certified": false,
-      "audience_score": 43,
-      "audience_count": 2,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Filmmaker Khalik Allah becomes immersed in Jamaica's neighboring worlds of charismatic holy men and equally charismatic prostitutes.",
       "tagline": "",
@@ -1230,7 +1230,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:29:08.880951Z"
+      "scraped_at": "2026-11-17T21:03:13.076592Z"
     },
     {
       "id": "black_uniform",
@@ -1253,7 +1253,7 @@
       "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "\"Black Uniform\" features the voices of 12 black veterans, serving within the ranges of WWII to present day (including the now 104-year-old Romay Davis, one of the very few surviving members of the only black female battalion sent overseas during World War II, the 6888; and former Congressman Charles Rangel, who received the Purple Heart for his sacrifice during the Korean War), to speak on why they chose to enter the military, and what they've given to their country. This film shares their heartfelt perspectives on what it felt like to be on the proverbial front lines as a black man or woman in the U.S. military -- covering the period when the military was still segregated; addressing whether they voluntarily enlisted for action or were called to duty by a draft; highlighting the nation's shifting views on those who serve; and tackling the unique and additional challenges that women in the military face when they enlist.",
       "tagline": "",
@@ -1271,12 +1271,19 @@
       "trailer": null,
       "directors": [
         {
-          "id": "robert_darwell_2",
+          "id": "undefined",
           "name": "Robert Darwell"
         }
       ],
       "writers": [],
-      "cast": [],
+      "cast": [
+        {
+          "id": "james_mceachin",
+          "name": "James McEachin",
+          "character": "",
+          "image": "https://resizing.flixster.com/ON7AtnzA9a8EqQcMr7vmOdD-3VY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/154599_v9_ba.jpg"
+        }
+      ],
       "keywords": [],
       "countries": [],
       "languages": [],
@@ -1286,7 +1293,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:29:29.961013Z"
+      "scraped_at": "2026-11-17T21:03:35.366098Z"
     },
     {
       "id": "boys_state",

@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 33,
   "count": 60,
-  "updated_at": "2026-11-17T08:07:31.838168Z",
+  "updated_at": "2026-11-17T21:05:29.440734Z",
   "titles": [
     {
       "id": "1003972-checking_out",
@@ -1178,12 +1178,12 @@
       "runtime_minutes": 110,
       "certificate": "R",
       "rating": 3.7,
-      "votes": 576,
-      "tomatometer": 12,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 25,
       "tomatometer_certified": false,
-      "audience_score": 40,
-      "audience_count": 165,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two friends who work for the same Brazilian company, Matthew (Michael Caine) and Victor (Joseph Bologna) decide to take a vacation together without their wives, since both men are having marital difficulties. Each brings his teenage daughter along, and there is trouble when Matthew begins an affair with Victor's daughter, Jennifer (Michelle Johnson). As Victor catches wind of the fling, Matthew tries to keep his involvement a secret, leading to plenty of uncomfortable situations.",
       "tagline": "",
@@ -1268,15 +1268,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Blame-It-on-Rio/140444?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0DHCSQMBL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:30:02.074482Z"
+      "scraped_at": "2026-11-17T21:04:06.989050Z"
     },
     {
       "id": "borat",

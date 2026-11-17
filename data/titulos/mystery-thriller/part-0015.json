@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 15,
   "count": 58,
-  "updated_at": "2026-11-17T08:05:09.841825Z",
+  "updated_at": "2026-11-17T21:05:28.068074Z",
   "titles": [
     {
       "id": "10009469-the_other_man",
@@ -1059,12 +1059,12 @@
       "runtime_minutes": 100,
       "certificate": "R",
       "rating": 5.9,
-      "votes": 3466,
-      "tomatometer": 41,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 148,
       "tomatometer_certified": false,
-      "audience_score": 44,
-      "audience_count": 1328,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "It took Anna (Nicole Kidman) 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph (Danny Huston), and finally moving on. However, on the night of her engagement party, a young boy named Sean (Cameron Bright) turns up, saying he is her dead husband reincarnated. At first, she ignores the child, but his knowledge of her former husband's life is uncanny, leading her to believe that he might be telling the truth.",
       "tagline": "",
@@ -1165,7 +1165,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:28:05.564650Z"
+      "scraped_at": "2026-11-17T21:02:10.052652Z"
     },
     {
       "id": "black_box",
@@ -1183,12 +1183,12 @@
       "runtime_minutes": 100,
       "certificate": null,
       "rating": 6.3,
-      "votes": 419,
-      "tomatometer": 72,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 68,
       "tomatometer_certified": true,
-      "audience_score": 66,
-      "audience_count": 111,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After losing his wife and memory in a car accident, a single father undergoes an agonizing experimental treatment that causes him to question who he really is.",
       "tagline": "",
@@ -1279,7 +1279,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:28:38.274851Z"
+      "scraped_at": "2026-11-17T21:02:43.046689Z"
     },
     {
       "id": "black_warrant",
@@ -1298,12 +1298,12 @@
       "runtime_minutes": 94,
       "certificate": "R",
       "rating": null,
-      "votes": 17,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 4,
       "tomatometer_certified": false,
-      "audience_score": 41,
-      "audience_count": 4,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A semi-retired special ops assassin and a DEA agent cross paths on separate missions to stop a cyber terrorist organization that has built a dangerous machine threatening to attack the power grid and bring catastrophe to the world.",
       "tagline": "",
@@ -1406,11 +1406,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Black-Warrant/2213812?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B78C7L75/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:29:30.871147Z"
+      "scraped_at": "2026-11-17T21:03:36.279692Z"
     },
     {
       "id": "breaking_tradition",
