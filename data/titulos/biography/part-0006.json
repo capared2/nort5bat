@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-11-15T19:00:17.816595Z",
+  "updated_at": "2026-11-17T08:07:11.213832Z",
   "titles": [
     {
       "id": "1148076-no_direction_home_bob_dylan",
@@ -435,12 +435,12 @@
       "runtime_minutes": 88,
       "certificate": null,
       "rating": 5.8,
-      "votes": 59,
-      "tomatometer": 89,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 88,
-      "audience_count": 16,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Filmmaker Cheryl Furjanic chronicles the complex life of Olympic champion Greg Louganis as he re-emerges to return to the diving world and act as a mentor to up-and-coming athletes.",
       "tagline": "",
@@ -510,7 +510,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:02:52.186720Z"
+      "scraped_at": "2026-11-17T08:00:17.704412Z"
     },
     {
       "id": "batkid_begins",
@@ -529,12 +529,12 @@
       "runtime_minutes": 89,
       "certificate": "PG",
       "rating": 7.0,
-      "votes": 446,
-      "tomatometer": 81,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 58,
       "tomatometer_certified": true,
-      "audience_score": 82,
-      "audience_count": 67,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The Make-A-Wish Foundation and the city of San Francisco join forces to grant a five-year-old boy's wish to become Batman for a day, drawing worldwide attention.",
       "tagline": "",
@@ -604,7 +604,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:05:44.325633Z"
+      "scraped_at": "2026-11-17T08:03:11.453112Z"
     },
     {
       "id": "bb_king_the_life_of_riley_2012",
@@ -623,12 +623,12 @@
       "runtime_minutes": 123,
       "certificate": null,
       "rating": 7.0,
-      "votes": 57,
-      "tomatometer": 86,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 86,
-      "audience_count": 8,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The life and music of BB King.",
       "tagline": "",
@@ -702,7 +702,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:06:27.874918Z"
+      "scraped_at": "2026-11-17T08:03:55.202647Z"
     },
     {
       "id": "being_blacker",
@@ -721,12 +721,12 @@
       "runtime_minutes": 90,
       "certificate": null,
       "rating": 8.0,
-      "votes": 2,
-      "tomatometer": 89,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A portrait of the Jamaican-born reggae producer.",
       "tagline": "",
@@ -775,7 +775,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:08:29.131861Z"
+      "scraped_at": "2026-11-17T08:05:58.067237Z"
     },
     {
       "id": "being_evel",
@@ -794,12 +794,12 @@
       "runtime_minutes": 102,
       "certificate": null,
       "rating": 7.1,
-      "votes": 156,
-      "tomatometer": 97,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 39,
       "tomatometer_certified": true,
-      "audience_score": 83,
-      "audience_count": 18,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Filmmaker Daniel Junge examines the life, career and legacy of Evel Knievel, the young man from Montana who stared death in the face to become a legendary daredevil.",
       "tagline": "",
@@ -851,13 +851,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DY8FJNN2/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/being-evel/umc.cmc.1mg11yyk6acflbv8u0tmovtsz?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:08:32.668697Z"
+      "scraped_at": "2026-11-17T08:06:01.095194Z"
     },
     {
       "id": "blood_and_flesh_the_reel_life_and_ghastly_death_of_al_adamson",

@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 17,
   "count": 60,
-  "updated_at": "2026-11-16T22:18:14.628894Z",
+  "updated_at": "2026-11-17T08:05:10.464256Z",
   "titles": [
     {
       "id": "1008015-fury",
@@ -1056,12 +1056,12 @@
       "runtime_minutes": 85,
       "certificate": "R",
       "rating": 6.1,
-      "votes": 74,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 79,
       "tomatometer_certified": false,
-      "audience_score": 59,
-      "audience_count": 27,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In a world in which no one speaks, a mysterious, devout community hunts down a young woman named Azrael (Samara Weaving) who has escaped their imprisonment. Recaptured by its ruthless leaders, she is to be sacrificed to pacify an evil which resides deep within the surrounding wilderness -- but Azrael will stop at nothing to ensure her own freedom and survival. From the seeds of this gritty, relentless parable of sacrifice and salvation, comes an immersive, real-time, action horror tale from the visionary minds of Simon Barrett and E.L. Katz.",
       "tagline": "",
@@ -1180,7 +1180,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:02:17.235830Z"
+      "scraped_at": "2026-11-17T07:59:43.182387Z"
     },
     {
       "id": "beast",
@@ -1200,12 +1200,12 @@
       "runtime_minutes": 107,
       "certificate": "R",
       "rating": 7.3,
-      "votes": 528,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 144,
       "tomatometer_certified": true,
-      "audience_score": 75,
-      "audience_count": 99,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In a small island community, a troubled young woman falls for a mysterious outsider who empowers her to escape her oppressive family. When he comes under suspicion for a series of murders, she defends him at all costs.",
       "tagline": "",
@@ -1308,11 +1308,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Beast/943472?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/73883?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:06:41.859317Z"
+      "scraped_at": "2026-11-17T08:04:09.428127Z"
     },
     {
       "id": "bit",

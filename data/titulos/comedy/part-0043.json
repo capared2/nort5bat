@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 43,
   "count": 60,
-  "updated_at": "2026-11-16T22:18:47.287425Z",
+  "updated_at": "2026-11-17T08:03:08.831123Z",
   "titles": [
     {
       "id": "10009186-skippy",
@@ -793,12 +793,12 @@
       "runtime_minutes": 82,
       "certificate": "PG-13",
       "rating": 7.5,
-      "votes": 3472,
-      "tomatometer": 82,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 33,
       "tomatometer_certified": false,
-      "audience_score": 74,
-      "audience_count": 698,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this early Woody Allen comedy, the director stars as Fielding Mellish, a hapless product-testing New Yorker desperately attempting to impress a young and attractive social activist named Nancy. When Mellish travels to the turbulent country of San Marcos, he falls in with resistance fighters and, before long, becomes drafted as their leader. While Mellish's position of authority wins Nancy over, he has to deal with the many burdens of being a revolutionary leader.",
       "tagline": "",
@@ -883,11 +883,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Bananas/140397?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DKQ7K4NH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:04:35.221181Z"
+      "scraped_at": "2026-11-17T08:02:00.736826Z"
     },
     {
       "id": "breakfast_with_scot",

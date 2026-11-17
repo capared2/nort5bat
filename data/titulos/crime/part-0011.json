@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 11,
   "count": 60,
-  "updated_at": "2026-11-16T22:18:15.249774Z",
+  "updated_at": "2026-11-17T08:01:08.238944Z",
   "titles": [
     {
       "id": "10009526-public_enemies",
@@ -1756,12 +1756,12 @@
       "runtime_minutes": 108,
       "certificate": "R",
       "rating": 7.0,
-      "votes": 2246,
-      "tomatometer": 76,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 276,
       "tomatometer_certified": true,
-      "audience_score": 48,
-      "audience_count": 721,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
       "tagline": "",
@@ -1866,13 +1866,17 @@
           "url": "https://athome.fandango.com/content/browse/details/Babygirl/3820897?cmp=rt_where_to_watch"
         },
         {
-          "name": "HBO Max",
-          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:02:41.095509Z"
+      "scraped_at": "2026-11-17T08:00:05.997813Z"
     },
     {
       "id": "black_caesar",

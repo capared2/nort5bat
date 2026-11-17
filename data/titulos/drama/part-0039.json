@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 39,
   "count": 60,
-  "updated_at": "2026-11-16T22:18:15.005878Z",
+  "updated_at": "2026-11-17T08:07:32.276352Z",
   "titles": [
     {
       "id": "28_hotel_rooms",
@@ -1191,12 +1191,12 @@
       "runtime_minutes": 87,
       "certificate": "TV-14",
       "rating": 5.0,
-      "votes": 59,
-      "tomatometer": 38,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 29,
-      "audience_count": 19,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two youngsters meet on the Venice Boardwalk and embark on a lifelong friendship.",
       "tagline": "",
@@ -1277,15 +1277,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0GYKWTH5V/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:06:42.342977Z"
+      "scraped_at": "2026-11-17T08:04:06.436650Z"
     },
     {
       "id": "betoniyo",
@@ -1303,12 +1298,12 @@
       "runtime_minutes": 96,
       "certificate": null,
       "rating": 8.4,
-      "votes": 42,
-      "tomatometer": 60,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 55,
-      "audience_count": 5,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A 14-year-old Finn learns poor life lessons from his brother before the latter's incarceration.",
       "tagline": "",
@@ -1397,7 +1392,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T22:25:15.143873Z"
+      "scraped_at": "2026-11-17T08:07:24.735710Z"
     },
     {
       "id": "bird_atlas",

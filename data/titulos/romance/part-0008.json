@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-16T22:12:13.209489Z",
+  "updated_at": "2026-11-17T08:05:09.946766Z",
   "titles": [
     {
       "id": "10008760-what_happens_in_vegas",
@@ -865,12 +865,12 @@
       "runtime_minutes": 109,
       "certificate": "PG-13",
       "rating": 3.4,
-      "votes": 40128,
-      "tomatometer": 3,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 152,
       "tomatometer_certified": false,
-      "audience_score": 65,
-      "audience_count": 18244,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Daphne Wilder (Diane Keaton) is the proud mother of three women: Milly (Mandy Moore), Maggie (Lauren Graham) and Mae (Piper Perabo), and her love for her offspring knows no bounds. Because her youngest, always chooses the wrong man, she decides to take action to prevent Milly from repeating the mistakes of the past. Dating disaster ensues when Daphne tries to achieve her goal by placing an online personal ad for Milly.",
       "tagline": "",
@@ -967,11 +967,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Because-I-Said-So/128084?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DGP9659H/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:07:25.670150Z"
+      "scraped_at": "2026-11-17T08:04:52.191921Z"
     },
     {
       "id": "blind_dating",

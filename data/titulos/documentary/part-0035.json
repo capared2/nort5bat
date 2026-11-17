@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-11-15T06:45:32.230008Z",
+  "updated_at": "2026-11-17T08:03:09.034280Z",
   "titles": [
     {
       "id": "11816",
@@ -131,12 +131,12 @@
       "runtime_minutes": 78,
       "certificate": null,
       "rating": 7.5,
-      "votes": 2,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A portrait of the avant-garde filmmaker Barbara Rubin.",
       "tagline": "",
@@ -196,13 +196,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Stream",
-          "url": "https://athome.fandango.com/content/browse/details/Barbara-Rubin-and-the-Exploding-NY-Underground/1657906?cmp=rt_where_to_watch"
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GVC1XYJC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/barbara-rubin-and-the-exploding-ny-underground/umc.cmc.4k2g5yibuu38lr9eq8iwdryol?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:05:01.883766Z"
+      "scraped_at": "2026-11-17T08:02:27.994525Z"
     },
     {
       "id": "beyond_the_mat",

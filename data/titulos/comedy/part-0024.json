@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 24,
   "count": 60,
-  "updated_at": "2026-11-16T22:16:14.021106Z",
+  "updated_at": "2026-11-17T08:03:08.720568Z",
   "titles": [
     {
       "id": "0878835",
@@ -1451,12 +1451,12 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 4.2,
-      "votes": 2876,
-      "tomatometer": 23,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 134,
       "tomatometer_certified": false,
-      "audience_score": 34,
-      "audience_count": 386,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Fueled by cheap whiskey, greed and hatred, Willie Soke (Billy Bob Thornton) teams up with his angry little sidekick, Marcus, to knock off a Chicago charity on Christmas Eve. Along for the ride is chubby and cheery Thurman Merman, a 250-pound ray of sunshine who brings out Willie's sliver of humanity. Mommy issues arise when the pair are joined by Willie's horror story of a mother, Sunny Soke, who raises the bar for the gang's ambitions, while somehow lowering the standards of criminal behavior.",
       "tagline": "",
@@ -1559,11 +1559,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Bad-Santa-2/821927?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H8QH7Y8J/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:03:51.536161Z"
+      "scraped_at": "2026-11-17T08:01:18.830751Z"
     },
     {
       "id": "barry_munday",
@@ -1582,12 +1590,12 @@
       "runtime_minutes": 98,
       "certificate": "R",
       "rating": 5.3,
-      "votes": 499,
-      "tomatometer": 47,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
-      "audience_score": 37,
-      "audience_count": 132,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A slacker (Patrick Wilson) inherits new responsibilities after he impregnates a stranger (Judy Greer).",
       "tagline": "",
@@ -1688,7 +1696,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:05:30.339858Z"
+      "scraped_at": "2026-11-17T08:02:56.057953Z"
     },
     {
       "id": "between_us_2012",

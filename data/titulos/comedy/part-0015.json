@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 15,
   "count": 60,
-  "updated_at": "2026-11-16T06:38:53.524475Z",
+  "updated_at": "2026-11-17T08:05:09.684224Z",
   "titles": [
     {
       "id": "1112617-new_guy",
@@ -520,12 +520,12 @@
       "runtime_minutes": 119,
       "certificate": "PG-13",
       "rating": 4.8,
-      "votes": 7468,
-      "tomatometer": 30,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 162,
       "tomatometer_certified": false,
-      "audience_score": 42,
-      "audience_count": 3933,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Having made the transition from gangster to movie producer, Chili Palmer (John Travolta) is ready for the next big move. Setting his sights on the music industry, Palmer enters a precarious business that has more than just temperamental musicians: Russian mobsters, rival producers and hit men are out to bring him down. From witnessing the murder of his friend (James Woods) to romancing a music executive's widow (Uma Thurman), it seems as though it might all fall apart, but Palmer has his ways.",
       "tagline": "",
@@ -622,11 +622,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Be-Cool/49952?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0BZWFN5NS/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-30T13:06:28.351877Z"
+      "scraped_at": "2026-11-17T08:03:56.432316Z"
     },
     {
       "id": "big_trouble_2002",
