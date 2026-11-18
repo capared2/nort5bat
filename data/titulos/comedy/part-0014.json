@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 14,
   "count": 60,
-  "updated_at": "2026-11-18T07:41:11.203500Z",
+  "updated_at": "2026-11-18T20:38:59.646241Z",
   "titles": [
     {
       "id": "1037024-commitments",
@@ -871,12 +871,12 @@
       "runtime_minutes": 107,
       "certificate": "R",
       "rating": 7.3,
-      "votes": 194,
-      "tomatometer": 91,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 139,
       "tomatometer_certified": true,
-      "audience_score": 73,
-      "audience_count": 33,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Saúl Armendáriz, a gay amateur wrestler from El Paso, rises to international stardom after he creates the character Cassandro, the \"Liberace of Lucha Libre.\" In the process, he upends not just the macho wrestling world, but also his own life.",
       "tagline": "",
@@ -983,7 +983,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:40:25.768319Z"
+      "scraped_at": "2026-11-18T20:37:41.528449Z"
     },
     {
       "id": "cats_and_dogs_the_revenge_of_kitty_galore",
@@ -1003,12 +1003,12 @@
       "runtime_minutes": 82,
       "certificate": "PG",
       "rating": 3.8,
-      "votes": 3805,
-      "tomatometer": 13,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 98,
       "tomatometer_certified": false,
-      "audience_score": 38,
-      "audience_count": 1039,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In the age-old battle between felines and canines, one rogue kitty is stepping up the fight. Kitty Galore, former operative for MEOWS, is executing a diabolical plan against her sworn enemies, the dogs, as well as her cat comrades. In order to save themselves and their humans, both species must unite in an unprecedented alliance to stop Kitty Galore from making the world her scratching post.",
       "tagline": "",
@@ -1074,11 +1074,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Cats-and-Dogs-The-Revenge-of-Kitty-Galore/175227?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CV3TKTMW/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:40:57.341593Z"
+      "scraped_at": "2026-11-18T20:38:13.127040Z"
     },
     {
       "id": "cog",

@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-18T07:43:12.776328Z",
+  "updated_at": "2026-11-18T20:45:04.867468Z",
   "titles": [
     {
       "id": "1061000-rob_roy",
@@ -2057,12 +2057,12 @@
       "runtime_minutes": 136,
       "certificate": "PG-13",
       "rating": 6.1,
-      "votes": 29920,
-      "tomatometer": 62,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 143,
       "tomatometer_certified": false,
-      "audience_score": 85,
-      "audience_count": 10571,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 1999, Ken Carter (Samuel L. Jackson) returns to his old high school in Richmond, California, to get the basketball team into shape. With tough rules and academic discipline, he succeeds in setting the players on a winning streak. But when their grades start to suffer, Carter locks them out of the gym and shuts down their championship season. When he is criticized by the players and their parents, he sticks to his guns, determined that they excel in class as well as on the court.",
       "tagline": "",
@@ -2165,11 +2165,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Coach-Carter/49879?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:47:47.747357Z"
+      "scraped_at": "2026-11-18T20:44:53.879724Z"
     },
     {
       "id": "concussion_2015",

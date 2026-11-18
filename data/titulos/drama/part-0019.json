@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 19,
   "count": 60,
-  "updated_at": "2026-11-17T21:07:30.124907Z",
+  "updated_at": "2026-11-18T20:39:00.401291Z",
   "titles": [
     {
       "id": "10010214-fireproof",
@@ -1220,12 +1220,12 @@
       "runtime_minutes": 110,
       "certificate": null,
       "rating": 8.5,
-      "votes": 3317,
-      "tomatometer": 93,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 45,
       "tomatometer_certified": true,
-      "audience_score": 95,
-      "audience_count": 760,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Bitter former schoolteacher Dora (Fernanda Montenegro) supports herself by taking dictation from illiterate people in Rio de Janeiro who want to write letters to their families and then pocketing their money without ever mailing the envelopes. One day, Josue (Marília Pêra), the 9-year-old son of one of her clients, is left alone when his mother is killed in a bus accident. Reluctantly taking him in, Dora joins the boy on a road trip to find his long-missing father.",
       "tagline": "",
@@ -1308,13 +1308,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FT8L7R1K/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/central-station/umc.cmc.6epprcdlbloyww7h86vxrjc1m?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:41:43.182254Z"
+      "scraped_at": "2026-11-18T20:38:57.084157Z"
     },
     {
       "id": "dancing_at_lughnasa",

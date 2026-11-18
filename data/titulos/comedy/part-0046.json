@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 46,
   "count": 60,
-  "updated_at": "2026-11-18T07:43:35.274238Z",
+  "updated_at": "2026-11-18T20:41:01.233853Z",
   "titles": [
     {
       "id": "1004151-christmas_story",
@@ -2050,12 +2050,12 @@
       "runtime_minutes": 97,
       "certificate": "PG",
       "rating": 4.8,
-      "votes": 43,
-      "tomatometer": 29,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 33,
-      "audience_count": 23,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The retired detective (Peter Ustinov) and his clumsy grandson (Richard Hatch) probe murders in San Francisco's Chinatown.",
       "tagline": "",
@@ -2128,10 +2128,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0F6XG6LMQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:42:34.510983Z"
+      "scraped_at": "2026-11-18T20:39:49.349635Z"
     },
     {
       "id": "committee_kurrollu",

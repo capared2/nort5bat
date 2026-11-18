@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-18T07:41:12.308001Z",
+  "updated_at": "2026-11-18T20:43:03.027112Z",
   "titles": [
     {
       "id": "1162559-bobby",
@@ -1402,12 +1402,12 @@
       "runtime_minutes": 97,
       "certificate": null,
       "rating": 7.2,
-      "votes": 6,
-      "tomatometer": 86,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 22,
       "tomatometer_certified": false,
-      "audience_score": 100,
-      "audience_count": 0,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In the 1950s and ‘60s, an underground network of transgender women and cross-dressing men found refuge at a modest house in the Catskills region of New York. Known as Casa Susanna, the house provided a safe place for them to express their true selves and live for a few days as they had always dreamed—dressed as women without fear of being incarcerated or institutionalized for their self-expression. Told through the memories of those whose visits to the house would change their lives, the film provides a look back at a secret world where the persecuted and frightened found freedom, acceptance and, often, the courage to live their lives out of the shadows.",
       "tagline": "",
@@ -1477,7 +1477,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:40:09.488972Z"
+      "scraped_at": "2026-11-18T20:37:25.691574Z"
     },
     {
       "id": "cezanne_and_i",
@@ -1497,12 +1497,12 @@
       "runtime_minutes": 114,
       "certificate": "R",
       "rating": 5.3,
-      "votes": 27,
-      "tomatometer": 52,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 48,
       "tomatometer_certified": false,
-      "audience_score": 44,
-      "audience_count": 3,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Painter Paul Cézanne (Guillaume Gallienne) develops a strong friendship with writer Émile Zola (Guillaume Canet) in 19th-century France.",
       "tagline": "",
@@ -1597,7 +1597,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:41:49.259956Z"
+      "scraped_at": "2026-11-18T20:39:03.687221Z"
     },
     {
       "id": "chuck",
@@ -1617,12 +1617,12 @@
       "runtime_minutes": 101,
       "certificate": "R",
       "rating": 6.8,
-      "votes": 271,
-      "tomatometer": 82,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 82,
       "tomatometer_certified": true,
-      "audience_score": 64,
-      "audience_count": 41,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "He was the pride of Bayonne, N.J., a man who went 15 rounds in the ring with Muhammad Ali. But before all of that, Chuck Wepner was a liquor salesman and father with a modest prizefighting career whose life changed overnight when, in 1975, he was chosen to take on Ali in a highly publicized title match. It's the beginning of a wild ride through the exhilarating highs and humbling lows of sudden fame, but what happens when your 15 minutes in the spotlight are up?",
       "tagline": "",
@@ -1729,11 +1729,15 @@
         {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/chuck--1026827?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:45:09.926321Z"
+      "scraped_at": "2026-11-18T20:42:18.157163Z"
     },
     {
       "id": "colette_2018",

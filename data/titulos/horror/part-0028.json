@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 28,
   "count": 60,
-  "updated_at": "2026-11-18T07:43:12.059076Z",
+  "updated_at": "2026-11-18T20:45:05.013788Z",
   "titles": [
     {
       "id": "1016035-patrick",
@@ -1103,7 +1103,7 @@
       "tomatometer_count": 1,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "When Otto's derailed on his way to becoming the city's youngest detective, he stays in the police business as a bioremediation specialist cleaning up after a serial killer. With an uncanny knowledge of horror films and his natural-born instincts, Otto, and his pregnant girlfriend Lex, crack the code to where the killer is going to strike next... now they just gotta catch him.",
       "tagline": "",
@@ -1115,10 +1115,6 @@
         },
         {
           "url": "https://resizing.flixster.com/ARgKXvUMWE29e9xaVI71Tgfd7fc=/620x336/v2/https://resizing.flixster.com/zSSbuP029Ea7FjLS4eSTaXHsFVI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M0YTgxYTUwLWE3NzEtNGRjNC1iMWY0LWVjY2NlOTYxMGZkMy5qcGc=",
-          "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/m3n_L8RcZvpJyQSbUQEMZNbZuvo=/fit-in/705x460/v2/https://resizing.flixster.com/odzyqzxLox2zJ82URnFwbtYQWCg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzYmM4MjI0LTU0OGEtNDRhMi04MDFjLTdiZTk4YmU1YTM5MC5qcGc=",
           "caption": ""
         },
         {
@@ -1147,6 +1143,10 @@
         },
         {
           "url": "https://resizing.flixster.com/L27omdK4fdhVdb0KolfsdWzrar0=/fit-in/705x460/v2/https://resizing.flixster.com/XueWXYXQg_bqlZSt6k71dkOoIBo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlMzgzZTBiLTU1NmQtNDNkYS1iOGYxLTgyMGE0MmExMmQxYS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/5hReA6stWh9ciBzstglauO4zjSs=/fit-in/705x460/v2/https://resizing.flixster.com/kFSHJYIz2oRI5JLdZpQxK3pLjBY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkMTZiNDU4LTA3NTctNDY3Zi04YTUzLWRhZjU0MTQzMDE2Yy5qcGc=",
           "caption": ""
         }
       ],
@@ -1196,10 +1196,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Catch-a-Killer/5276240?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:40:40.672670Z"
+      "scraped_at": "2026-11-18T20:37:56.464453Z"
     },
     {
       "id": "chop_chop",
@@ -1218,12 +1223,12 @@
       "runtime_minutes": 81,
       "certificate": null,
       "rating": 4.0,
-      "votes": 2,
-      "tomatometer": 13,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A young couple's quiet evening is shattered when a psychotic serial killer shows up at their door, sending them reeling into a bizarre and violent fight for survival.",
       "tagline": "",
@@ -1330,7 +1335,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:44:39.945596Z"
+      "scraped_at": "2026-11-18T20:41:48.109580Z"
     },
     {
       "id": "chum",
@@ -1348,12 +1353,12 @@
       "runtime_minutes": 69,
       "certificate": null,
       "rating": null,
-      "votes": 1,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "When a mad scientist genetically engineers a shark-human, he unleashes the highly viral monster on the unsuspecting citizens of a nearby small town.",
       "tagline": "",
@@ -1425,7 +1430,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:45:15.938567Z"
+      "scraped_at": "2026-11-18T20:42:24.189786Z"
     },
     {
       "id": "clowntown_2016",
@@ -1444,12 +1449,12 @@
       "runtime_minutes": 86,
       "certificate": null,
       "rating": 2.9,
-      "votes": 83,
-      "tomatometer": 9,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 28,
-      "audience_count": 14,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Some friends get stranded in a seemingly deserted town and find themselves stalked by a gang of violent psychopaths dressed as clowns.",
       "tagline": "",
@@ -1556,7 +1561,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:47:40.642853Z"
+      "scraped_at": "2026-11-18T20:44:46.506956Z"
     },
     {
       "id": "dark_forces",

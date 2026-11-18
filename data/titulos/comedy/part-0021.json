@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 21,
   "count": 60,
-  "updated_at": "2026-11-18T07:43:12.669907Z",
+  "updated_at": "2026-11-18T20:38:59.665345Z",
   "titles": [
     {
       "id": "1006250-dragnet",
@@ -1898,12 +1898,12 @@
       "runtime_minutes": 87,
       "certificate": "PG",
       "rating": 5.6,
-      "votes": 7768,
-      "tomatometer": 51,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 110,
       "tomatometer_certified": false,
-      "audience_score": 32,
-      "audience_count": 7876,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "\"Cats & Dogs\" uncovers the truth about the high-tech, secret war being waged in neighborhoods everywhere that humans aren't even aware of: an eternal struggle between the two great armies of Cats and Dogs. The story follows a Cat plan to destroy a new vaccine that, if developed, would destroy all human allergies to Dogs, and the Dogs' efforts to stop the Cats from executing their plan.",
       "tagline": "",
@@ -1994,11 +1994,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Cats-and-Dogs/9537?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D4H6NVZ4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:40:54.756568Z"
+      "scraped_at": "2026-11-18T20:38:10.909287Z"
     },
     {
       "id": "daddy_day_camp",

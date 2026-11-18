@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-18T07:43:13.125417Z",
+  "updated_at": "2026-11-18T20:41:02.307896Z",
   "titles": [
     {
       "id": "10000_km",
@@ -2811,12 +2811,12 @@
       "runtime_minutes": 88,
       "certificate": "PG-13",
       "rating": 5.3,
-      "votes": 3893,
-      "tomatometer": 29,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 59,
       "tomatometer_certified": false,
-      "audience_score": 58,
-      "audience_count": 1399,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Celebrated author and efficiency expert Frank Allen (Ryan Reynolds) has always lived in step with a well-planned series of lists and timetables. His wife (Emily Mortimer) decides to play a joke on him and sets his clock back 10 minutes, but the consequences are far greater than expected. As Frank's well-ordered existence unravels, he opens up to the randomness of life.",
       "tagline": "",
@@ -2913,11 +2913,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Chaos-Theory/132104?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWYWX4MW/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:42:16.631243Z"
+      "scraped_at": "2026-11-18T20:39:31.953925Z"
     },
     {
       "id": "eagle_vs_shark",

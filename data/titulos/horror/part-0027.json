@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 27,
   "count": 60,
-  "updated_at": "2026-11-17T21:01:25.851082Z",
+  "updated_at": "2026-11-18T20:38:59.884644Z",
   "titles": [
     {
       "id": "a_classic_horror_story",
@@ -757,12 +757,12 @@
       "runtime_minutes": 93,
       "certificate": "PG-13",
       "rating": 5.6,
-      "votes": 2082,
-      "tomatometer": 70,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 27,
       "tomatometer_certified": false,
-      "audience_score": 54,
-      "audience_count": 647,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Stephen King tales follow a cat into a smokers' clinic, onto a penthouse ledge and into a girl's bedroom.",
       "tagline": "",
@@ -843,11 +843,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Cats-Eye/9677?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FTVM2FFM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:40:59.172204Z"
+      "scraped_at": "2026-11-18T20:38:14.494202Z"
     },
     {
       "id": "demonte_colony_2",

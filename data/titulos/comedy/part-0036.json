@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 36,
   "count": 60,
-  "updated_at": "2026-11-18T07:43:12.572896Z",
+  "updated_at": "2026-11-18T20:45:04.302901Z",
   "titles": [
     {
       "id": "1007195-feds",
@@ -1624,12 +1624,12 @@
       "runtime_minutes": 104,
       "certificate": "PG-13",
       "rating": 4.2,
-      "votes": 404,
-      "tomatometer": 11,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 27,
       "tomatometer_certified": false,
-      "audience_score": 37,
-      "audience_count": 123,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Jack Moniker (Robin Williams) is a retired firefighter who teams up with reggae singer Ernest Reed (Jimmy Cliff) to open a tropical island resort. In addition to local eccentrics such as British layabout Anthony Cloyden Hayes (Peter O'Toole), Jack and Ernest are joined by tourists eager to stay at their resort, including the goofy, party-seeking duo of Barry (Eugene Levy) and Barry (Rick Moranis). Unfortunately, whiny customers and greedy land developers threaten to spoil the fun.",
       "tagline": "",
@@ -1706,11 +1706,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Club-Paradise/10560?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FXNHMZG7/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:47:45.078711Z"
+      "scraped_at": "2026-11-18T20:44:50.864417Z"
     },
     {
       "id": "company_man",

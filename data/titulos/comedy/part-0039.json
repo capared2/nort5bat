@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 39,
   "count": 60,
-  "updated_at": "2026-11-18T07:37:07.496830Z",
+  "updated_at": "2026-11-18T20:38:59.618513Z",
   "titles": [
     {
       "id": "1001240-arthur",
@@ -1338,12 +1338,12 @@
       "runtime_minutes": 92,
       "certificate": "PG",
       "rating": 2.8,
-      "votes": 443,
-      "tomatometer": 10,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 20,
       "tomatometer_certified": false,
-      "audience_score": 40,
-      "audience_count": 157,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Buttoned-down company man Daniel Miller (David Paymer), who reluctantly drives the carpool for his children and their friends when his wife is ill, stops to pick up some breakfast -- and some thugs try to carjack him. To the rescue comes Franklin Laszlo (Tom Arnold), the struggling manager of a carnival who had been considering whether to rob a bank, but instead has opted to rob the robbers. Due to complications, Franklin has to take Daniel and the whole van full of kids along for his getaway.",
       "tagline": "",
@@ -1420,15 +1420,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Carpool/9939?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0DJD5QHNQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T12:39:56.802005Z"
+      "scraped_at": "2026-11-18T20:37:12.531842Z"
     },
     {
       "id": "cop_out",
