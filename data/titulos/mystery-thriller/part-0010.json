@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 10,
   "count": 60,
-  "updated_at": "2026-11-17T21:05:28.164230Z",
+  "updated_at": "2026-11-18T07:37:08.004695Z",
   "titles": [
     {
       "id": "1017502-revenge",
@@ -1574,12 +1574,12 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 4.9,
-      "votes": 731,
-      "tomatometer": 48,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 25,
       "tomatometer_certified": false,
-      "audience_score": 40,
-      "audience_count": 182,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A federal agent (Stephen Dorff) is taken captive by terrorists who want to know the location of the U.S. president's secret bunker.",
       "tagline": "",
@@ -1688,7 +1688,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T05:52:02.200395Z"
+      "scraped_at": "2026-11-18T07:36:36.119684Z"
     },
     {
       "id": "braven",
@@ -1707,12 +1707,12 @@
       "runtime_minutes": 94,
       "certificate": "R",
       "rating": 6.0,
-      "votes": 2187,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 30,
       "tomatometer_certified": false,
-      "audience_score": 78,
-      "audience_count": 219,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A logger and his father head to their hunting cabin, hoping for a quiet weekend. Instead, they find themselves in a kill-or-be-killed stand for survival when they encounter a gang of ruthless drug traffickers.",
       "tagline": "",
@@ -1815,15 +1815,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Braven/925121?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0B5VST1PH/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T05:52:19.011188Z"
+      "scraped_at": "2026-11-18T07:36:50.889193Z"
     },
     {
       "id": "catch_a_fire",

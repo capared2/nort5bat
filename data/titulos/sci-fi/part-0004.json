@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 4,
   "count": 59,
-  "updated_at": "2026-11-17T08:05:10.264593Z",
+  "updated_at": "2026-11-18T07:41:12.243214Z",
   "titles": [
     {
       "id": "1108704-planet_of_the_apes",
@@ -546,12 +546,12 @@
       "runtime_minutes": 92,
       "certificate": "R",
       "rating": 3.0,
-      "votes": 965,
-      "tomatometer": 18,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 17,
       "tomatometer_certified": false,
-      "audience_score": 53,
-      "audience_count": 223,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Bruce Willis stars in the action-packed, Sci-fi thriller. Fleeing a devastating plague on Earth, an interstellar ark comes under attack from a new threat; a shape-shifting alien force intent on slaughtering what is left of humanity.",
       "tagline": "",
@@ -658,11 +658,19 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0CWGCJG6C/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T05:52:22.587111Z"
+      "scraped_at": "2026-11-18T07:36:54.059549Z"
     },
     {
       "id": "bumblebee",
@@ -682,12 +690,12 @@
       "runtime_minutes": 114,
       "certificate": "PG-13",
       "rating": 7.0,
-      "votes": 8705,
-      "tomatometer": 91,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 252,
       "tomatometer_certified": true,
-      "audience_score": 75,
-      "audience_count": 2937,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "On the run in the year 1987, Bumblebee the Autobot seeks refuge in a junkyard in a small California beach town. Charlie, on the brink of turning 18 years old and trying to find her place in the world, soon discovers the battle-scarred and broken Bumblebee. When Charlie revives him, she quickly learns that this is no ordinary yellow Volkswagen.",
       "tagline": "",
@@ -792,7 +800,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T05:55:38.989650Z"
+      "scraped_at": "2026-11-18T07:40:13.581705Z"
     },
     {
       "id": "chappie",
