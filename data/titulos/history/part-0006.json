@@ -2,7 +2,7 @@
   "genre": "history",
   "part": 6,
   "count": 26,
-  "updated_at": "2026-11-19T07:39:18.990859Z",
+  "updated_at": "2026-11-19T20:43:59.611437Z",
   "titles": [
     {
       "id": "1011626-king_of_kings",
@@ -996,18 +996,18 @@
         "History",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 160,
-      "certificate": "In Theaters Nov 6",
-      "rating": 7.9,
+      "certificate": "Nov 2026",
+      "rating": 7.7,
       "votes": null,
-      "tomatometer": 100,
-      "tomatometer_count": 12,
+      "tomatometer": null,
+      "tomatometer_count": 19,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "June, 1940. France collapses and signs the armistice. In the midst of the chaos, one man refuses to give up. Alone against the odds, this unknown general flees to London to save what remains of freedom. Without an army, without backing, without hope. But with one irrational conviction -- France, his France, has not laid down arms. Taking the ultimate gamble, he seeks to convince the world that the battle for France is neither over, nor lost. Reality, however, is unyielding and seems determined to prove him wrong. Yet, little by little, resistance fighters, rebellious students and determined soldiers rise up in England, France and Africa to join the cause. Their faith, audacity and thirst for freedom defy what history seemed to have written in advance.",
       "tagline": "",
@@ -1100,10 +1100,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/De-Gaulle-Part-II-Liberty/5354087?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:15:01.468295Z"
+      "scraped_at": "2026-11-19T20:43:37.200167Z"
     },
     {
       "id": "doors",

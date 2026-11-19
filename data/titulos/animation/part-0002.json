@@ -2,7 +2,7 @@
   "genre": "animation",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-18T20:45:25.948549Z",
+  "updated_at": "2026-11-19T20:50:02.183379Z",
   "titles": [
     {
       "id": "10009636-igor",
@@ -842,12 +842,12 @@
       "runtime_minutes": 95,
       "certificate": "PG",
       "rating": 6.8,
-      "votes": 79182,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 199,
       "tomatometer_certified": true,
-      "audience_score": 83,
-      "audience_count": 13204,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Supervillain Gru, a man who delights in all things wicked, hatches a plan to steal the moon. Surrounded by an army of little yellow minions and his impenetrable arsenal of weapons and war machines, Gru prepares to vanquish all who stand in his way. However, nothing in his calculations and groundwork has prepared him for his greatest challenge: three adorable orphan girls who want to make him their dad.",
       "tagline": "",
@@ -921,11 +921,15 @@
         {
           "name": "HBO Max",
           "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000149508_02_UHDHDR/7d9bb702-0fae-3bcb-a52a-50ef623e7251?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:19:02.708005Z"
+      "scraped_at": "2026-11-19T20:47:40.751916Z"
     },
     {
       "id": "diary_of_a_wimpy_kid_2021",
@@ -945,12 +949,12 @@
       "runtime_minutes": 56,
       "certificate": "PG",
       "rating": 5.5,
-      "votes": 311,
-      "tomatometer": 75,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 16,
       "tomatometer_certified": false,
-      "audience_score": 38,
-      "audience_count": 96,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Greg Heffley dreams of becoming famous while surviving middle school with his best friend, Rowley.",
       "tagline": "",
@@ -1024,7 +1028,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:20:14.005913Z"
+      "scraped_at": "2026-11-19T20:48:52.227017Z"
     },
     {
       "id": "early_man",

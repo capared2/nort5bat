@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-19T07:35:17.245956Z",
+  "updated_at": "2026-11-19T20:45:59.960419Z",
   "titles": [
     {
       "id": "1007141-fatal_attraction",
@@ -1750,12 +1750,12 @@
       "runtime_minutes": 105,
       "certificate": "R",
       "rating": 5.2,
-      "votes": 21509,
-      "tomatometer": 42,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 151,
       "tomatometer_certified": false,
-      "audience_score": 60,
-      "audience_count": 9435,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Framed for a murder he did not commit, three-time speedway champ Jensen Ames (Jason Statham) finds himself at Terminal Island, the country's toughest prison, but he gets an unexpected chance at freedom when the warden offers a choice: Compete in the Death Race as a mythical driver called Frankenstein, or rot in a cell forever. Riding in a car equipped with flamethrowers and grenade launchers, Ames must survive a gauntlet of vicious criminals to win his freedom -- or die trying.",
       "tagline": "",
@@ -1852,15 +1852,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Death-Race-Theatrical/142057?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Starz",
-          "url": "https://www.starz.com/us/en/play/50204?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:16:41.920451Z"
+      "scraped_at": "2026-11-19T20:45:20.832415Z"
     },
     {
       "id": "door_mouse",

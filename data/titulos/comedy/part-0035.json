@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 35,
   "count": 60,
-  "updated_at": "2026-11-19T07:39:18.678965Z",
+  "updated_at": "2026-11-19T20:50:01.653209Z",
   "titles": [
     {
       "id": "1029161-my_blue_heaven",
@@ -2956,12 +2956,12 @@
       "runtime_minutes": 110,
       "certificate": "PG-13",
       "rating": 7.6,
-      "votes": 4165,
-      "tomatometer": 95,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 62,
       "tomatometer_certified": true,
-      "audience_score": 72,
-      "audience_count": 998,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Shifty White House chief of staff Bob Alexander hatches a scheme to use a double for the president at a public photo opportunity. Small business owner Dave Kovic (Kline) fits the bill, but after the president suffers a debilitating stroke, opportunist Alexander arranges for Dave to step in full time without even informing the First Lady. It doesn't take long before the press, the nation and the president's wife realize something is different.",
       "tagline": "",
@@ -3046,11 +3046,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Dave/9130?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/dave/umc.cmc.5g1hhn1bnv4it2tfxvjnkcyvw?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0BZXB3KHW/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:14:14.126440Z"
+      "scraped_at": "2026-11-19T20:42:49.668857Z"
     },
     {
       "id": "diggers",
@@ -3069,12 +3077,12 @@
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 6.5,
-      "votes": 708,
-      "tomatometer": 70,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 56,
       "tomatometer_certified": false,
-      "audience_score": 56,
-      "audience_count": 294,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "During the 1970s as corporate fisheries began snatching up water rights around the Hamptons, independent clammers Hunt and his friends could do little else but watch their way of life slip away. While members of the group look for ways to cope, Hunt begins a summer romance with a young vacationer.",
       "tagline": "",
@@ -3179,7 +3187,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:20:42.994216Z"
+      "scraped_at": "2026-11-19T20:49:21.317706Z"
     },
     {
       "id": "ed",

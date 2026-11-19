@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 24,
   "count": 60,
-  "updated_at": "2026-11-19T07:35:16.274106Z",
+  "updated_at": "2026-11-19T20:47:59.935217Z",
   "titles": [
     {
       "id": "10008687-powder_blue",
@@ -1461,12 +1461,12 @@
       "runtime_minutes": 104,
       "certificate": "PG-13",
       "rating": 5.3,
-      "votes": 212,
-      "tomatometer": 31,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 42,
       "tomatometer_certified": false,
-      "audience_score": 62,
-      "audience_count": 25,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In the volatile political and social climate of 2009 Tehran, Afshin Ghaffarian and a group of dancers start a secret dance company in the Iranian desert, far from the prying eyes of the government police. Along with a woman named Elaheh who helps them refine their skills, Afshin and his company use what little Internet they can access to learn moves from banned videos starring legends like Michael Jackson, Gene Kelly and Rudolf Nureyev.",
       "tagline": "",
@@ -1563,15 +1563,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Desert-Dancer/651461?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0FD4N3MJ4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:18:43.788015Z"
+      "scraped_at": "2026-11-19T20:47:22.313742Z"
     },
     {
       "id": "do_you_believe",

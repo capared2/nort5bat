@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-19T07:39:18.503907Z",
+  "updated_at": "2026-11-19T20:43:58.497203Z",
   "titles": [
     {
       "id": "1000617-aliens",
@@ -1687,12 +1687,12 @@
       "runtime_minutes": 77,
       "certificate": "R",
       "rating": 5.1,
-      "votes": 253,
-      "tomatometer": 46,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 90,
       "tomatometer_certified": false,
-      "audience_score": 35,
-      "audience_count": 84,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "At the start of the pandemic, an indulgent and self-deluded livestreaming improv musician abandons L.A. for London, steals her ex-band mate's car, and makes the wrong decision to give a ride to an elderly woman who is not what she seems.",
       "tagline": "",
@@ -1791,15 +1791,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Starz",
-          "url": "https://www.starz.com/us/en/play/74401?cmp=rt_where_to_watch"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:14:00.551007Z"
+      "scraped_at": "2026-11-19T20:42:35.558052Z"
     },
     {
       "id": "daybreakers",
@@ -1819,12 +1814,12 @@
       "runtime_minutes": 98,
       "certificate": "R",
       "rating": 6.2,
-      "votes": 28296,
-      "tomatometer": 69,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 155,
       "tomatometer_certified": false,
-      "audience_score": 49,
-      "audience_count": 9415,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Ten years after a plague turns most of the world's population into vampires, a critical blood shortage causes panic and gruesome mutations among the reanimated. Edward (Ethan Hawke), a vampire hematologist, tries to develop a blood substitute when he meets Lionel (Willem Dafoe) and Audrey (Claudia Karvan), two fugitive humans who claim to have a possible cure. Edward casts his lot with them in the hope of perfecting the cure before it's too late.",
       "tagline": "",
@@ -1929,7 +1924,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:14:45.164776Z"
+      "scraped_at": "2026-11-19T20:43:20.011373Z"
     },
     {
       "id": "doom",

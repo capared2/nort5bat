@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-19T07:39:18.030566Z",
+  "updated_at": "2026-11-19T20:43:58.753870Z",
   "titles": [
     {
       "id": "1003033-brazil",
@@ -2523,12 +2523,12 @@
       "runtime_minutes": 123,
       "certificate": "PG-13",
       "rating": 5.5,
-      "votes": 114474,
-      "tomatometer": 44,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 211,
       "tomatometer_certified": false,
-      "audience_score": 50,
-      "audience_count": 1222828,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "After climatologist Jack Hall is largely ignored by U.N. officials when presenting his environmental concerns, his research proves true when a superstorm develops, setting off catastrophic natural disasters throughout the world; trying to get to his son, Sam, who is trapped in New York with his friend Laura and others, Jack and his crew must travel by foot from Philadelphia, braving the elements, to get to Sam before it's too late.",
       "tagline": "",
@@ -2631,11 +2631,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/The-Day-After-Tomorrow/8887?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/60034574?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T06:14:33.188321Z"
+      "scraped_at": "2026-11-19T20:43:07.944137Z"
     },
     {
       "id": "donnie_darko",
