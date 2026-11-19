@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-16T22:16:13.546136Z",
+  "updated_at": "2026-11-19T07:33:16.578610Z",
   "titles": [
     {
       "id": "1009518-hercules",
@@ -1106,12 +1106,12 @@
       "runtime_minutes": 94,
       "certificate": "PG",
       "rating": 5.0,
-      "votes": 293,
-      "tomatometer": 29,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 70,
       "tomatometer_certified": false,
-      "audience_score": 49,
-      "audience_count": 43,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Eight-year-old Alice and her mischievous brother Peter journey to London to sell a treasured heirloom. Returning home, Alice seeks temporary refuge in a wondrous rabbit hole, while Peter enters a magical realm as leader of the lost boys.",
       "tagline": "",
@@ -1214,15 +1214,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Come-Away/1525157?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0D2V9DZGX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:40:42.551266Z"
+      "scraped_at": "2026-11-19T07:32:05.326653Z"
     },
     {
       "id": "dumbo_2019",

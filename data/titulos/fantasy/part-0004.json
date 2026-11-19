@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-18T20:45:04.764735Z",
+  "updated_at": "2026-11-19T07:33:16.617670Z",
   "titles": [
     {
       "id": "1077027-batman_and_robin",
@@ -1150,12 +1150,12 @@
       "runtime_minutes": 97,
       "certificate": "PG-13",
       "rating": 3.7,
-      "votes": 6642,
-      "tomatometer": 14,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 184,
       "tomatometer_certified": false,
-      "audience_score": 64,
-      "audience_count": 1194,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When a successful New York advertising executive (Will Smith) suffers a great tragedy, he retreats from life. While his concerned friends try desperately to reconnect with him, he seeks answers from the universe by writing letters to Love, Time and Death. When his notes bring unexpected personal responses, he begins to understand how these constants interlock in a life fully lived and how even the deepest loss can reveal moments of meaning and beauty.",
       "tagline": "",
@@ -1262,7 +1262,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:40:17.447374Z"
+      "scraped_at": "2026-11-19T07:31:39.153022Z"
     },
     {
       "id": "colossal",
@@ -1282,12 +1282,12 @@
       "runtime_minutes": 110,
       "certificate": "R",
       "rating": 7.2,
-      "votes": 5556,
-      "tomatometer": 82,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 263,
       "tomatometer_certified": true,
-      "audience_score": 58,
-      "audience_count": 832,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Gloria is an out-of-work party girl who leaves New York and moves back to her hometown after getting kicked out of her apartment by her boyfriend. When news reports surface that a giant creature is destroying Seoul, South Korea, Gloria gradually comes to the realization that she is somehow connected to this far-off phenomenon. As events begin to spiral out of control, she must figure out why her seemingly insignificant existence is having such a colossal effect on the fate of the world.",
       "tagline": "",
@@ -1390,15 +1390,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Colossal/874740?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Paramount+",
-          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:40:33.478452Z"
+      "scraped_at": "2026-11-19T07:31:56.141254Z"
     },
     {
       "id": "conan_the_destroyer",
@@ -1418,12 +1414,12 @@
       "runtime_minutes": 101,
       "certificate": "PG",
       "rating": 4.6,
-      "votes": 5208,
-      "tomatometer": 31,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 26,
       "tomatometer_certified": false,
-      "audience_score": 38,
-      "audience_count": 1544,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In his second cinematic adventure, the mighty warrior Conan (Arnold Schwarzenegger) is tricked into working for the scheming Queen Taramis (Sarah Douglas). Along with finding a mystical horn, Conan and his allies, which include the fierce fighter, Zula (Grace Jones), and the wisecracking sorcerer, Akiro (Mako), must protect the beautiful young Princess Jehnna (Olivia d'Abo). With deception and danger at every turn, Conan has to use all of his power to defeat the evil foes that stand in his way.",
       "tagline": "",
@@ -1504,11 +1500,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Conan-the-Destroyer/4806?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/conan-the-destroyer--1072105?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:41:29.736628Z"
+      "scraped_at": "2026-11-19T07:32:52.211747Z"
     },
     {
       "id": "dragonball",

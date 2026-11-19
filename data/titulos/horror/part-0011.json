@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 11,
   "count": 60,
-  "updated_at": "2026-11-18T07:43:12.068458Z",
+  "updated_at": "2026-11-19T07:35:17.019652Z",
   "titles": [
     {
       "id": "10008606-eye",
@@ -1881,12 +1881,12 @@
       "runtime_minutes": 87,
       "certificate": "R",
       "rating": 6.5,
-      "votes": 7611,
-      "tomatometer": 84,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 212,
       "tomatometer_certified": true,
-      "audience_score": 75,
-      "audience_count": 1442,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "When a massive hurricane hits her Florida town, young Haley ignores the evacuation orders to search for her missing father, Dave. After finding him gravely injured in their family home, the two of them become trapped by the rapidly encroaching floodwaters. With the storm strengthening, Haley and Dave discover an even greater threat than the rising water level -- a relentless attack from a pack of gigantic alligators.",
       "tagline": "",
@@ -1993,15 +1993,11 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/80203186?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Paramount+",
-          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:43:52.777642Z"
+      "scraped_at": "2026-11-19T07:35:16.105001Z"
     },
     {
       "id": "deep_rising",

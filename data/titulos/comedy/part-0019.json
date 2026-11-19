@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 19,
   "count": 60,
-  "updated_at": "2026-11-18T20:38:59.721578Z",
+  "updated_at": "2026-11-19T07:39:18.687955Z",
   "titles": [
     {
       "id": "1007073-fandango",
@@ -1757,12 +1757,12 @@
       "runtime_minutes": 102,
       "certificate": "PG",
       "rating": 3.9,
-      "votes": 1811,
-      "tomatometer": 14,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 14,
       "tomatometer_certified": false,
-      "audience_score": 50,
-      "audience_count": 694,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Bill (James Belushi) is a penniless drifter who scams strangers out of just enough money to feed himself and his partner in crime, an orphan girl known as Curly Sue (Alisan Porter). Bill and Curly Sue target Grey (Kelly Lynch), a yuppie lawyer, but their con takes an unexpected turn when the successful woman begins to like the ramshackle duo. She decides to take the girl in and falls in love with Bill, but there's one problem -- Grey's jealous, conniving boyfriend, Walker (John Getz).",
       "tagline": "",
@@ -1847,11 +1847,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Curly-Sue/9805?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FMDGBC9R/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:46:10.560725Z"
+      "scraped_at": "2026-11-19T07:37:33.100164Z"
     },
     {
       "id": "dead_tired",

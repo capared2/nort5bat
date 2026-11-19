@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 23,
   "count": 55,
-  "updated_at": "2026-11-18T07:39:09.956215Z",
+  "updated_at": "2026-11-19T07:33:16.114458Z",
   "titles": [
     {
       "id": "10003184-turning_point",
@@ -2223,15 +2223,15 @@
       "year": 2026,
       "end_year": null,
       "release_date": null,
-      "runtime_minutes": 90,
+      "runtime_minutes": 106,
       "certificate": null,
       "rating": null,
-      "votes": 4,
+      "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 2,
+      "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 1,
+      "audience_count": null,
       "metascore": null,
       "plot": "After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
       "tagline": "",
@@ -2324,10 +2324,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/82078375?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:14:21.679690Z"
+      "scraped_at": "2026-11-19T07:31:44.004406Z"
     },
     {
       "id": "compulsion",
@@ -2346,12 +2351,12 @@
       "runtime_minutes": 103,
       "certificate": null,
       "rating": 7.6,
-      "votes": 371,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 85,
-      "audience_count": 109,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Sociopathic students Artie Straus (Bradford Dillman) and Judd Steiner (Dean Stockwell) murder a boy in a philosophical exercise to commit the flawless crime. Despite their precautions, one of them inadvertently left a key piece of evidence at the crime scene, and they have been arrested and put on trial. It's up to their nationally famous attorney (Orson Welles) to save these misguided souls from execution. The film is based on the infamous Leopold and Loeb case of 1924.",
       "tagline": "",
@@ -2440,7 +2445,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:41:20.459020Z"
+      "scraped_at": "2026-11-19T07:32:43.258413Z"
     },
     {
       "id": "detective_story_1951",

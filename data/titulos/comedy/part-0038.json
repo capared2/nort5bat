@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 38,
   "count": 60,
-  "updated_at": "2026-11-18T20:43:02.638484Z",
+  "updated_at": "2026-11-19T07:37:17.893599Z",
   "titles": [
     {
       "id": "1000640-all_of_me",
@@ -2145,12 +2145,12 @@
       "runtime_minutes": 97,
       "certificate": "PG-13",
       "rating": 6.9,
-      "votes": 5892,
-      "tomatometer": 87,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 138,
       "tomatometer_certified": true,
-      "audience_score": 60,
-      "audience_count": 3582,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A New York reporter heads to Australia to interview the living legend Mike Dundee (Paul Hogan). When she finally locates him, she is so taken with him that she brings him back with her to New York. In New York, Mike Dundee is amazed by the wonders of the city and the interesting people there.",
       "tagline": "",
@@ -2253,11 +2253,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Crocodile-Dundee/22880?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/crocodile-dundee--1010534?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:44:55.871501Z"
+      "scraped_at": "2026-11-19T07:36:19.773034Z"
     },
     {
       "id": "defendor",

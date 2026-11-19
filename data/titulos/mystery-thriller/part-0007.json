@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-18T20:45:04.583554Z",
+  "updated_at": "2026-11-19T07:35:17.245956Z",
   "titles": [
     {
       "id": "1007141-fatal_attraction",
@@ -1518,12 +1518,12 @@
       "runtime_minutes": 129,
       "certificate": "R",
       "rating": 6.4,
-      "votes": 7572,
-      "tomatometer": 60,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 42,
       "tomatometer_certified": false,
-      "audience_score": 64,
-      "audience_count": 2523,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "New York City cabbie Jerry Fletcher (Mel Gibson) is an expert on paranoid conspiracy theories. He is also infatuated with government lawyer Alice Sutton (Julia Roberts), who permits his attention because he once rescued her from a mugging. However, when Jerry is captured and put through psychotic tests by Dr. Jonas (Patrick Stewart), he realizes there is an actual conspiracy. After escaping, Jerry enlists Alice's help, but she wonders whether he has uncovered a real threat or is just insane.",
       "tagline": "",
@@ -1600,11 +1600,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Conspiracy-Theory/9082?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DJGTV4GP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:42:00.304647Z"
+      "scraped_at": "2026-11-19T07:33:24.181317Z"
     },
     {
       "id": "crank",
@@ -1623,12 +1627,12 @@
       "runtime_minutes": 107,
       "certificate": "R",
       "rating": 6.0,
-      "votes": 44729,
-      "tomatometer": 63,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 100,
       "tomatometer_certified": false,
-      "audience_score": 71,
-      "audience_count": 20822,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Chev Chelios (Jason Statham), a hit man wanting to go straight, lets his latest target slip away, then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
       "tagline": "",
@@ -1727,7 +1731,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:43:45.818794Z"
+      "scraped_at": "2026-11-19T07:35:07.981372Z"
     },
     {
       "id": "death_race",

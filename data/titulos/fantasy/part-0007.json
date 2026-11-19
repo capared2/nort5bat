@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 7,
   "count": 60,
-  "updated_at": "2026-11-18T20:45:04.775015Z",
+  "updated_at": "2026-11-19T07:35:17.650477Z",
   "titles": [
     {
       "id": "0814255",
@@ -1970,12 +1970,12 @@
       "runtime_minutes": 129,
       "certificate": "R",
       "rating": 6.6,
-      "votes": 11601,
-      "tomatometer": 68,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 44,
       "tomatometer_certified": false,
-      "audience_score": 74,
-      "audience_count": 4253,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Orphaned boy Conan (Arnold Schwarzenegger) is enslaved after his village is destroyed by the forces of vicious necromancer Thulsa Doom (James Earl Jones), and is compelled to push \"The Wheel of Pain\" for many years. Once he reaches adulthood, Conan sets off across the prehistoric landscape of the Hyborian Age in search of the man who killed his family and stole his father's sword. With beautiful warrior Valeria (Sandahl Bergman) and archer Subotai (Gerry Lopez), he faces a supernatural evil.",
       "tagline": "",
@@ -2076,11 +2076,15 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/393317?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/conan-the-barbarian--1072101?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:41:27.229682Z"
+      "scraped_at": "2026-11-19T07:32:50.288439Z"
     },
     {
       "id": "corpse_bride",
@@ -2100,12 +2104,12 @@
       "runtime_minutes": 76,
       "certificate": "PG",
       "rating": 7.5,
-      "votes": 59290,
-      "tomatometer": 84,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 199,
       "tomatometer_certified": true,
-      "audience_score": 77,
-      "audience_count": 24315,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Victor (Johnny Depp) and Victoria's (Emily Watson) families have arranged their marriage. Though they like each other, Victor is nervous about the ceremony. While he's in a forest practicing his lines for the wedding, a tree branch becomes a hand that drags him to the land of the dead. It belongs to Emily, who was murdered after eloping with her love and wants to marry Victor. Victor must get back aboveground before Victoria marries the villainous Barkis Bittern (Richard E. Grant).",
       "tagline": "",
@@ -2175,15 +2179,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Tim-Burtons-Corpse-Bride/10931?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "HBO Max",
-          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-10-31T21:42:56.487864Z"
+      "scraped_at": "2026-11-19T07:34:19.995437Z"
     },
     {
       "id": "eragon",
