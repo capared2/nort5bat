@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 15,
   "count": 60,
-  "updated_at": "2026-11-20T07:25:59.527078Z",
+  "updated_at": "2026-11-20T20:34:44.001010Z",
   "titles": [
     {
       "id": "1040322-of_mice_and_men",
@@ -2306,12 +2306,12 @@
       "runtime_minutes": 109,
       "certificate": "PG-13",
       "rating": 6.2,
-      "votes": 210,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
-      "audience_score": 72,
-      "audience_count": 67,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Following the death of the white woman he thought was his mother, a shocked Earl Pilcher Jr. learns he is half black. Shaken to the core by this revelation of decades of lies, an impassioned Pilcher travels to Chicago to find his biological family and meets Roy Murdock, his half-brother. Unfortunately, Murdock refuses to accept the aging Southerner. Desperate for a connection, the grieving Pilcher struggles to convince Murdock to open his mind.",
       "tagline": "",
@@ -2396,11 +2396,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/A-Family-Thing/809701?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GCXR6HYD/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:12:26.728639Z"
+      "scraped_at": "2026-11-20T20:33:02.571365Z"
     },
     {
       "id": "four_good_days",

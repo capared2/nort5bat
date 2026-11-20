@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-19T20:50:01.858503Z",
+  "updated_at": "2026-11-20T20:35:04.975137Z",
   "titles": [
     {
       "id": "10006849-once_in_a_lifetime",
@@ -1469,12 +1469,12 @@
       "runtime_minutes": 140,
       "certificate": "PG-13",
       "rating": 8.0,
-      "votes": 15,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 16,
       "tomatometer_certified": false,
-      "audience_score": 67,
-      "audience_count": 2,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The story of Ranulph Fiennes, considered by many to be the world's greatest living explorer.",
       "tagline": "",
@@ -1536,7 +1536,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:10:35.564207Z"
+      "scraped_at": "2026-11-20T20:31:10.814263Z"
     },
     {
       "id": "faces_places",
@@ -1554,12 +1554,12 @@
       "runtime_minutes": 89,
       "certificate": "PG",
       "rating": 8.9,
-      "votes": 416,
-      "tomatometer": 99,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 143,
       "tomatometer_certified": true,
-      "audience_score": 89,
-      "audience_count": 55,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Director Agnès Varda and photographer and muralist JR journey through rural France and form an unlikely friendship.",
       "tagline": "",
@@ -1633,13 +1633,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GWWMSGKZ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/faces-places-subtitled/umc.cmc.2lzqkktdhjac1vqscbxnfmhnh?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:11:26.795170Z"
+      "scraped_at": "2026-11-20T20:32:01.761213Z"
     },
     {
       "id": "fake_famous",
@@ -1657,12 +1661,12 @@
       "runtime_minutes": 87,
       "certificate": null,
       "rating": 7.3,
-      "votes": 45,
-      "tomatometer": 73,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 15,
       "tomatometer_certified": false,
-      "audience_score": 60,
-      "audience_count": 10,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Fake Famous explores the meaning of fame and influence in the digital age through an innovative social experiment. Following three Los Angeles-based people with relatively small followings, the film explores the attempts made to turn them into famous influencers by purchasing fake followers and bots to “engage” with their social media accounts.\n\nFirst-time director and veteran journalist Nick Bilto and his team kick off the experiment with a casting call in Los Angeles. The young trio he selects — aspiring actress Dominique, fashion designer Chris and real estate assistant Wylie — in return have wildly different experiences as their fake followers grow by the thousands each day. Peeling back the layers to reveal what’s really happening behind the scenes of influencer fame, the film highlights our obsession with the number of likes, followers, and favorites we get and how most of our online world is more fabricated than we realize.",
       "tagline": "",
@@ -1695,7 +1699,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:11:53.185158Z"
+      "scraped_at": "2026-11-20T20:32:27.447114Z"
     },
     {
       "id": "fauci",
@@ -1713,12 +1717,12 @@
       "runtime_minutes": 105,
       "certificate": "PG-13",
       "rating": 6.8,
-      "votes": 2556,
-      "tomatometer": 86,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 42,
       "tomatometer_certified": false,
-      "audience_score": 3,
-      "audience_count": 71,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "With his signature blend of scientific acumen, candor and integrity, Dr. Anthony Fauci became America's most unlikely cultural icon during COVID-19. A world-renowned infectious disease specialist and the longest-serving public health leader in Washington, D.C., he has valiantly overseen the U.S. response to 50 years' worth of epidemics, including HIV/AIDS, SARS and Ebola. FAUCI is an unprecedented portrait of one of our most vital public servants, whose work saved millions while he faced threats from anonymous adversaries. Directed by Emmy winners John Hoffman (The Weight of the Nation, Sleepless in America) and Janet Tobias (Unseen Enemy), the film is executive produced by Academy Award winner Dan Cogan (Icarus) and two-time Academy Award nominee Liz Garbus (What Happened, Miss Simone?, The Farm: Angola, USA). The documentary features insights from President George W. Bush, Bill Gates, Bono, former U.S. Department of Health and Human Services secretary Sylvia Burwell, former national security advisor Susan Rice, National Institutes of Health director Dr. Francis Collins, former Centers for Disease Control and Prevention director Dr. Tom Frieden and key AIDS activists, plus Dr. Fauci's family, friends and former patients.",
       "tagline": "",
@@ -1787,7 +1791,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:13:49.731688Z"
+      "scraped_at": "2026-11-20T20:34:25.193658Z"
     },
     {
       "id": "fed_up_2014",
@@ -1805,12 +1809,12 @@
       "runtime_minutes": 92,
       "certificate": "PG",
       "rating": 7.1,
-      "votes": 2260,
-      "tomatometer": 79,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 68,
       "tomatometer_certified": true,
-      "audience_score": 84,
-      "audience_count": 230,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Filmmaker Stephanie Soechtig and journalist Katie Couric investigate how the American food industry may be responsible for more sickness than previously realized.",
       "tagline": "",
@@ -1893,7 +1897,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:14:15.911803Z"
+      "scraped_at": "2026-11-20T20:34:51.370621Z"
     },
     {
       "id": "for_love_and_life_no_ordinary_campaign",

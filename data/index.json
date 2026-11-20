@@ -1,6 +1,6 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-20T07:30:25.733422Z",
+  "generated_at": "2026-11-20T20:35:06.907196Z",
   "total_titles": 20978,
   "total_genres": 27,
   "genres": [
@@ -607,7 +607,7 @@
     {
       "genre": "documentary",
       "name": "Documentary",
-      "titles": 2621,
+      "titles": 2620,
       "files": [
         {
           "file": "titulos/documentary/part-0001.json",
@@ -755,7 +755,7 @@
         },
         {
           "file": "titulos/documentary/part-0037.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/documentary/part-0038.json",
@@ -1431,7 +1431,7 @@
     {
       "genre": "music",
       "name": "Music",
-      "titles": 340,
+      "titles": 341,
       "files": [
         {
           "file": "titulos/music/part-0001.json",
@@ -1455,10 +1455,10 @@
         },
         {
           "file": "titulos/music/part-0006.json",
-          "count": 40
+          "count": 41
         }
       ],
-      "tagged": 522
+      "tagged": 523
     },
     {
       "genre": "lgbtq",

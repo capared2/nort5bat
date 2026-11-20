@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-19T20:43:59.522079Z",
+  "updated_at": "2026-11-20T20:30:44.035409Z",
   "titles": [
     {
       "id": "10006490",
@@ -1420,12 +1420,12 @@
       "runtime_minutes": 93,
       "certificate": "G",
       "rating": 6.5,
-      "votes": 143,
-      "tomatometer": 20,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
-      "audience_score": 90,
-      "audience_count": 47,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "This documentary captures Elvis Presley on his 1972 American tour and includes rehearsals, interviews, archival television appearances and backstage moments. With Elvis at his most flamboyant, the film features well-known hits and cover songs showcasing his country, gospel and rhythm-and-blues influences. The Elvis entourage, including Colonel Tom Parker, also makes an appearance. This film was Elvis Presley's final motion picture appearance and won a Golden Globe for best documentary.",
       "tagline": "",
@@ -1479,11 +1479,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Elvis-on-Tour/78618?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FMFN38MR/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:06:21.367323Z"
+      "scraped_at": "2026-11-20T20:26:55.247011Z"
     },
     {
       "id": "everybodys_everything",
@@ -1502,12 +1506,12 @@
       "runtime_minutes": 116,
       "certificate": null,
       "rating": 7.4,
-      "votes": 173,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 21,
       "tomatometer_certified": false,
-      "audience_score": 99,
-      "audience_count": 37,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Creating a unique mix of punk, emo and trap, Lil Peep is set to bring a new musical genre to the mainstream when he dies of a drug overdose at just 21 years old.",
       "tagline": "",
@@ -1578,7 +1582,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:09:36.487177Z"
+      "scraped_at": "2026-11-20T20:30:12.015335Z"
     },
     {
       "id": "festival_express",

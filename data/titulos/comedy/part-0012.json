@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 12,
   "count": 60,
-  "updated_at": "2026-11-20T07:25:59.212893Z",
+  "updated_at": "2026-11-20T20:34:44.335782Z",
   "titles": [
     {
       "id": "1001193-around_the_world_in_80_days",
@@ -2757,12 +2757,12 @@
       "runtime_minutes": 89,
       "certificate": "R",
       "rating": 7.0,
-      "votes": 16815,
-      "tomatometer": 79,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 56,
       "tomatometer_certified": true,
-      "audience_score": 80,
-      "audience_count": 5092,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Stacy Hamilton (Jennifer Jason Leigh) is a pretty, but inexperienced, teen interested in dating. Given advice by her uninhibited friend, Linda Barrett (Phoebe Cates), Stacy gets trapped in a love triangle with nice guy Mark Ratner (Brian Backer) and his more assured buddy Mike Damone (Robert Romanus). Meanwhile, Stacy's classmate Jeff Spicoli (Sean Penn), who lives for surfing and being stoned, faces off against Mr. Hand (Ray Walston), a strict teacher who has no time for the slacker's antics.",
       "tagline": "",
@@ -2861,11 +2861,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Fast-Times-at-Ridgemont-High/5878?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/fast-times-at-ridgemont-high--1027668?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:13:17.584158Z"
+      "scraped_at": "2026-11-20T20:33:53.308613Z"
     },
     {
       "id": "get_shorty",

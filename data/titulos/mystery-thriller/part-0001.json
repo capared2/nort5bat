@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 1,
   "count": 59,
-  "updated_at": "2026-11-20T07:28:00.719807Z",
+  "updated_at": "2026-11-20T20:32:43.619408Z",
   "titles": [
     {
       "id": "10009823-sin_nombre",
@@ -1700,12 +1700,12 @@
       "runtime_minutes": 121,
       "certificate": "PG-13",
       "rating": 6.7,
-      "votes": 17542,
-      "tomatometer": 73,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 234,
       "tomatometer_certified": false,
-      "audience_score": 68,
-      "audience_count": 1671,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "On the morning of May 10, 1996, climbers (Jason Clarke, Josh Brolin) from two expeditions start their final ascent toward the summit of Mount Everest, the highest point on Earth. With little warning, a violent storm strikes the mountain, engulfing the adventurers in one of the fiercest blizzards ever encountered by man. Challenged by the harshest conditions imaginable, the teams must endure blistering winds and freezing temperatures in an epic battle to survive against nearly impossible odds.",
       "tagline": "",
@@ -1812,7 +1812,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:09:11.860888Z"
+      "scraped_at": "2026-11-20T20:29:46.572857Z"
     },
     {
       "id": "fall",
@@ -1831,12 +1831,12 @@
       "runtime_minutes": 107,
       "certificate": "PG-13",
       "rating": 6.4,
-      "votes": 529,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 153,
       "tomatometer_certified": true,
-      "audience_score": 79,
-      "audience_count": 268,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "For best friends Becky (Grace Caroline Currey) and Hunter (Virginia Gardner), life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter's expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights in this adrenaline-fueled thriller costarring Jeffrey Dean Morgan.",
       "tagline": "",
@@ -1939,11 +1939,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Fall/2067973?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/68039?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:11:57.550353Z"
+      "scraped_at": "2026-11-20T20:32:33.021306Z"
     },
     {
       "id": "fall_2_deadpoint",
@@ -1962,13 +1966,13 @@
       "release_date": null,
       "runtime_minutes": 98,
       "certificate": "PG-13",
-      "rating": 5.3,
-      "votes": 355,
-      "tomatometer": 52,
-      "tomatometer_count": 61,
+      "rating": 5.2,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 63,
       "tomatometer_certified": false,
-      "audience_score": 63,
-      "audience_count": 89,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
       "tagline": "",
@@ -2073,7 +2077,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:11:58.484828Z"
+      "scraped_at": "2026-11-20T20:32:33.262355Z"
     },
     {
       "id": "glass_onion_a_knives_out_mystery",

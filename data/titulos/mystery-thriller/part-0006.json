@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-11-20T07:30:23.015540Z",
+  "updated_at": "2026-11-20T20:34:44.533820Z",
   "titles": [
     {
       "id": "1046129-fugitive",
@@ -2381,12 +2381,12 @@
       "runtime_minutes": 93,
       "certificate": "PG-13",
       "rating": 3.2,
-      "votes": 386,
-      "tomatometer": 8,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 66,
       "tomatometer_certified": false,
-      "audience_score": 28,
-      "audience_count": 158,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A director, Ian (Rufus Sewell), brings his crew to the Alps to film a group of extreme-sports practitioners for a television commercial. But, over the course of the shoot, the thrill seekers get more than they bargained for when they stumble on the hideout of a Serbian warlord, Pavlov (Klaus Lowitsch), and his terrorist goons. After they unintentionally get the warlord on film, a gnarly chase begins, and they find themselves experiencing a whole new kind of thrill.",
       "tagline": "",
@@ -2487,7 +2487,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:10:52.715485Z"
+      "scraped_at": "2026-11-20T20:31:28.827149Z"
     },
     {
       "id": "falcon_rising",
@@ -2508,12 +2508,12 @@
       "runtime_minutes": 103,
       "certificate": "R",
       "rating": 5.5,
-      "votes": 332,
-      "tomatometer": 43,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
-      "audience_score": 43,
-      "audience_count": 64,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A former Marine (Michael Jai White) travels to Brazil to hunt down the brutal Japanese mobsters who attacked his sister and left her for dead.",
       "tagline": "",
@@ -2614,7 +2614,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:11:56.755690Z"
+      "scraped_at": "2026-11-20T20:32:31.586589Z"
     },
     {
       "id": "fast_five",
@@ -2633,12 +2633,12 @@
       "runtime_minutes": 130,
       "certificate": "PG-13",
       "rating": 6.4,
-      "votes": 58687,
-      "tomatometer": 77,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 205,
       "tomatometer_certified": true,
-      "audience_score": 83,
-      "audience_count": 11880,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Ever since ex-cop Brian O'Conner (Paul Walker) and Mia Toretto (Jordana Brewster) broke her brother Dom (Vin Diesel) out of custody, they've traveled border to border to evade authorities. In Rio de Janeiro, they must do one final job before they can gain their freedom for good. Assembling their elite team of car racers, Brian and Dom know they must confront the corrupt businessman who wants them dead, before the federal agent (Dwayne Johnson) on their trail finds them.",
       "tagline": "",
@@ -2745,11 +2745,19 @@
         {
           "name": "Netflix",
           "url": "https://www.netflix.com/watch/70157102?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/74949?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Peacock",
+          "url": "https://www.peacocktv.com/watch/playback/vod/GMO_00000000114346_02_HDSDR/ec2e5aa4-f7d3-3457-a035-d9de78cd5c9e?cmp=rt_where_to_watch&cid=2401evgnbcrownedi11546&utm_campaign=2401evg&utm_source=rt_rt_st-sv&utm_medium=own_edi_awa_bttn&utm_term=rtsitevisitors&utm_content=wheretowatch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:13:14.438036Z"
+      "scraped_at": "2026-11-20T20:33:51.198397Z"
     },
     {
       "id": "firewall",

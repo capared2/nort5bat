@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 6,
   "count": 60,
-  "updated_at": "2026-11-20T07:25:59.903856Z",
+  "updated_at": "2026-11-20T20:30:43.464009Z",
   "titles": [
     {
       "id": "10007898-slipstream",
@@ -2727,12 +2727,12 @@
       "runtime_minutes": 107,
       "certificate": "R",
       "rating": 4.9,
-      "votes": 47122,
-      "tomatometer": 40,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 86,
       "tomatometer_certified": false,
-      "audience_score": 81,
-      "audience_count": 18140,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In a futuristic world, a regime has eliminated war by suppressing emotions: books, art and music are strictly forbidden and feeling is a crime punishable by death. Cleric John Preston is a top-ranking government agent responsible for destroying those who resist these rules. When he misses a dose of Prozium, a mind-altering drug that hinders emotion, Preston, who has been trained to enforce strict laws of the new regime, suddenly becomes the one capable of overthrowing it.",
       "tagline": "",
@@ -2833,7 +2833,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:07:58.148265Z"
+      "scraped_at": "2026-11-20T20:28:31.381205Z"
     },
     {
       "id": "escape_from_la",
@@ -2854,12 +2854,12 @@
       "runtime_minutes": 101,
       "certificate": "R",
       "rating": 5.6,
-      "votes": 5462,
-      "tomatometer": 45,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 155,
       "tomatometer_certified": false,
-      "audience_score": 39,
-      "audience_count": 1930,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 2013, the United States president was exiling all citizens who don't conform to his hyper-conservative views to Los Angeles, which became an island after a huge earthquake. But, when the president's daughter nabs the detonator to her dad's apocalyptic weapon and sneaks into L.A. to be with the rebel leader she loves, the government taps commando-turned-crook Snake Plissken to retrieve the young woman. And, if he doesn't succeed quickly, he'll be executed.",
       "tagline": "",
@@ -2936,15 +2936,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Escape-from-LA/13542?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Paramount+",
-          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T22:08:20.358138Z"
+      "scraped_at": "2026-11-20T20:28:54.077959Z"
     },
     {
       "id": "flatliners_2017",
