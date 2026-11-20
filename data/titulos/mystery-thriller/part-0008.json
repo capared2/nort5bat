@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-19T20:50:01.401895Z",
+  "updated_at": "2026-11-20T07:23:58.566659Z",
   "titles": [
     {
       "id": "10009493-duchess",
@@ -2604,12 +2604,12 @@
       "runtime_minutes": 110,
       "certificate": "PG-13",
       "rating": 4.4,
-      "votes": 2046,
-      "tomatometer": 24,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 95,
       "tomatometer_certified": false,
-      "audience_score": 37,
-      "audience_count": 607,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Frank Morrison (John Travolta) no longer lives with his ex-wife, Susan (Teri Polo), and 12-year-old son, Danny (Matt O'Leary). Susan and Danny now live with Rick Barnes (Vince Vaughn), Susan's new husband. Danny, who has a reputation for telling lies, has accused his stepfather of committing a murder. But Frank is the only one who believes him. Now the father Danny trusts must protect him from the stepfather he fears.",
       "tagline": "",
@@ -2712,11 +2712,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Domestic-Disturbance/25266?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Paramount+",
+          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:32:11.272049Z"
+      "scraped_at": "2026-11-20T07:23:31.221023Z"
     },
     {
       "id": "force_of_nature_2020",

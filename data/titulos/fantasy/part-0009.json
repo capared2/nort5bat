@@ -2,7 +2,7 @@
   "genre": "fantasy",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-11-18T20:45:26.161844Z",
+  "updated_at": "2026-11-20T07:30:02.876178Z",
   "titles": [
     {
       "id": "10004659-arthur",
@@ -2658,12 +2658,12 @@
       "runtime_minutes": 73,
       "certificate": "G",
       "rating": 6.0,
-      "votes": 1587,
-      "tomatometer": 65,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 62,
       "tomatometer_certified": false,
-      "audience_score": 69,
-      "audience_count": 945,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Scrooge McDuck finds a magic lamp with Huey, Dewey and Louie and their girlfriend, Webby.",
       "tagline": "",
@@ -2745,7 +2745,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:35:52.512497Z"
+      "scraped_at": "2026-11-20T07:27:13.635764Z"
     },
     {
       "id": "elf",
@@ -2766,12 +2766,12 @@
       "runtime_minutes": 97,
       "certificate": "PG",
       "rating": 7.1,
-      "votes": 56919,
-      "tomatometer": 85,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 202,
       "tomatometer_certified": true,
-      "audience_score": 79,
-      "audience_count": 32375,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Buddy (Will Ferrell) was accidentally transported to the North Pole as a toddler and raised to adulthood among Santa's elves. Unable to shake the feeling that he doesn't fit in, the adult Buddy travels to New York, in full elf uniform, in search of his real father. As it happens, this is Walter Hobbs (James Caan), a cynical businessman. After a DNA test proves this, Walter reluctantly attempts to start a relationship with the childlike Buddy with increasingly chaotic results.",
       "tagline": "",
@@ -2874,11 +2874,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Elf/42157?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B09PQMCRGP/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:38:39.164655Z"
+      "scraped_at": "2026-11-20T07:30:00.166513Z"
     },
     {
       "id": "everlasting_spirits",

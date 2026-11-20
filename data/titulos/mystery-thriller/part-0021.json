@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 21,
   "count": 60,
-  "updated_at": "2026-11-19T20:50:01.440392Z",
+  "updated_at": "2026-11-20T07:25:58.976876Z",
   "titles": [
     {
       "id": "10012207-stolen",
@@ -2173,12 +2173,12 @@
       "runtime_minutes": 113,
       "certificate": "R",
       "rating": 4.9,
-      "votes": 3639,
-      "tomatometer": 24,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 111,
       "tomatometer_certified": false,
-      "audience_score": 49,
-      "audience_count": 1136,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Ruthless crook Patrick Koster (Sean Bean) and his partner capture young Jessie Conrad (Skye McCole Bartusiak) and hold her for an unusual ransom. Koster wants Jessie's therapist father, Nathan (Michael Douglas), to somehow coax traumatized teen Elisabeth (Brittany Murphy) into divulging a mysterious code number that will lead the criminals to a hidden jewel worth a fortune. Unfortunately, it may be impossible to convince the delusional Elisabeth to cooperate: she hasn't spoken in 10 years.",
       "tagline": "",
@@ -2275,11 +2275,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Dont-Say-a-Word/7893?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0B6T4561T/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:32:44.791828Z"
+      "scraped_at": "2026-11-20T07:24:04.908846Z"
     },
     {
       "id": "enemy_2013",

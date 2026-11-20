@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-19T20:50:22.033382Z",
+  "updated_at": "2026-11-20T07:28:01.660072Z",
   "titles": [
     {
       "id": "1200731-robocop",
@@ -1626,12 +1626,12 @@
       "runtime_minutes": 85,
       "certificate": "R",
       "rating": 7.0,
-      "votes": 8497,
-      "tomatometer": 81,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 112,
       "tomatometer_certified": true,
-      "audience_score": 78,
-      "audience_count": 3642,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 21st-century Paris, a member (Cyril Raffaelli) of an elite police squad must enter a crime-ridden ghetto to defuse a bomb that has fallen into the hands of Taha (Larbi Naceri), a powerful hoodlum. The cop joins forces with a civilian (David Belle) who must rescue his sister (Dany Verissimo) from the same criminal who holds the bomb.",
       "tagline": "",
@@ -1736,7 +1736,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:30:54.407209Z"
+      "scraped_at": "2026-11-20T07:22:13.944971Z"
     },
     {
       "id": "dune_2021",
@@ -1752,18 +1752,18 @@
         "Fantasy",
         "Drama"
       ],
-      "year": null,
+      "year": 2021,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 155,
       "certificate": "PG-13",
       "rating": 7.7,
-      "votes": 7121,
-      "tomatometer": 83,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 512,
       "tomatometer_certified": true,
-      "audience_score": 90,
-      "audience_count": 3231,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to a dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of a precious resource in existence, only those who can conquer their own fear will survive.",
       "tagline": "",
@@ -1862,10 +1862,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dune/1729967?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:36:10.480074Z"
+      "scraped_at": "2026-11-20T07:27:31.727270Z"
     },
     {
       "id": "dune_part_two",
@@ -1881,18 +1890,18 @@
         "Fantasy",
         "Drama"
       ],
-      "year": null,
+      "year": 2024,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 166,
       "certificate": "PG-13",
       "rating": 8.4,
-      "votes": 7880,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 466,
       "tomatometer_certified": true,
-      "audience_score": 95,
-      "audience_count": 2244,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "\"Dune: Part Two\" will explore the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
       "tagline": "",
@@ -1991,10 +2000,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Dune-Part-Two/3031334?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "HBO Max",
+          "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:36:11.759073Z"
+      "scraped_at": "2026-11-20T07:27:32.547344Z"
     },
     {
       "id": "equals_2016",

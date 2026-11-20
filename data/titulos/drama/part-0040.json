@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 40,
   "count": 60,
-  "updated_at": "2026-11-19T20:50:01.313886Z",
+  "updated_at": "2026-11-20T07:28:01.481341Z",
   "titles": [
     {
       "id": "10006007-the_second_chance",
@@ -2037,12 +2037,12 @@
       "runtime_minutes": 88,
       "certificate": null,
       "rating": 7.2,
-      "votes": 4,
-      "tomatometer": 80,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "As part of his community service, an emotionally scarred screenwriter goes to a small town to mentor juvenile delinquents. He discovers a talent for encouraging his students to express themselves through filmmaking.",
       "tagline": "",
@@ -2145,7 +2145,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:33:34.012781Z"
+      "scraped_at": "2026-11-20T07:24:53.944355Z"
     },
     {
       "id": "drift_2013",
@@ -2163,12 +2163,12 @@
       "runtime_minutes": 113,
       "certificate": "R",
       "rating": 4.5,
-      "votes": 368,
-      "tomatometer": 28,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
-      "audience_score": 57,
-      "audience_count": 62,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two Australian brothers (Myles Pollard, Xavier Samuel) run afoul of conservative townspeople and drug-dealing bikers after they start a business of customized surf wear and surfing equipment.",
       "tagline": "",
@@ -2267,11 +2267,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0D6G85RGT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/74979?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:35:04.566346Z"
+      "scraped_at": "2026-11-20T07:26:26.081452Z"
     },
     {
       "id": "empire_records",

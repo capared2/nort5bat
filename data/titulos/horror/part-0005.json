@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-19T20:45:59.768262Z",
+  "updated_at": "2026-11-20T07:28:00.852985Z",
   "titles": [
     {
       "id": "10011388-blood_the_last_vampire",
@@ -2196,12 +2196,12 @@
       "runtime_minutes": 88,
       "certificate": "R",
       "rating": 7.3,
-      "votes": 19774,
-      "tomatometer": 88,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 244,
       "tomatometer_certified": true,
-      "audience_score": 79,
-      "audience_count": 2317,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Rocky (Jane Levy), Alex and Money are three Detroit thieves who get their kicks by breaking into the houses of wealthy people. Money gets word about a blind veteran who won a major cash settlement following the death of his only child. Figuring he's an easy target, the trio invades the man's secluded home in an abandoned neighborhood. Finding themselves trapped inside, the young intruders must fight for their lives after making a shocking discovery about their supposedly helpless victim.",
       "tagline": "",
@@ -2306,13 +2306,17 @@
           "url": "https://athome.fandango.com/content/browse/details/Dont-Breathe/803831?cmp=rt_where_to_watch"
         },
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0CVQW6BGT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:32:28.728606Z"
+      "scraped_at": "2026-11-20T07:23:47.867773Z"
     },
     {
       "id": "dreamcatcher",
@@ -2331,12 +2335,12 @@
       "runtime_minutes": 131,
       "certificate": "R",
       "rating": 4.9,
-      "votes": 7384,
-      "tomatometer": 27,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 176,
       "tomatometer_certified": false,
-      "audience_score": 36,
-      "audience_count": 3860,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "\"Dreamcatcher\" tells of four young friends who perform a heroic act -- and are changed forever by the uncanny powers they gain in return. Years later the friends, now men, are on a hunting trip in the Maine woods when they are overtaken by a blizzard in which something much more ominous moves. Challenged to stop an alien force, the friends must first prevent the slaughter of innocent civilians by a military vigilante, then overcome a threat to the bond between them.",
       "tagline": "",
@@ -2429,11 +2433,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Dreamcatcher/9882?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0C5BFH5RM/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:34:46.609187Z"
+      "scraped_at": "2026-11-20T07:26:07.939658Z"
     },
     {
       "id": "extinction_2015",

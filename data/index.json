@@ -1,7 +1,7 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-18T20:45:28.917626Z",
-  "total_titles": 20977,
+  "generated_at": "2026-11-20T07:30:25.733422Z",
+  "total_titles": 20978,
   "total_genres": 27,
   "genres": [
     {
@@ -246,7 +246,7 @@
           "count": 46
         }
       ],
-      "tagged": 9437
+      "tagged": 9438
     },
     {
       "genre": "comedy",
@@ -466,7 +466,7 @@
           "count": 56
         }
       ],
-      "tagged": 5418
+      "tagged": 5419
     },
     {
       "genre": "mystery-thriller",
@@ -835,7 +835,7 @@
     {
       "genre": "horror",
       "name": "Horror",
-      "titles": 2122,
+      "titles": 2121,
       "files": [
         {
           "file": "titulos/horror/part-0001.json",
@@ -975,14 +975,14 @@
         },
         {
           "file": "titulos/horror/part-0035.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/horror/part-0036.json",
           "count": 23
         }
       ],
-      "tagged": 2127
+      "tagged": 2126
     },
     {
       "genre": "romance",
@@ -1118,12 +1118,12 @@
           "count": 32
         }
       ],
-      "tagged": 1507
+      "tagged": 1506
     },
     {
       "genre": "crime",
       "name": "Crime",
-      "titles": 1375,
+      "titles": 1376,
       "files": [
         {
           "file": "titulos/crime/part-0001.json",
@@ -1215,10 +1215,10 @@
         },
         {
           "file": "titulos/crime/part-0023.json",
-          "count": 55
+          "count": 56
         }
       ],
-      "tagged": 1432
+      "tagged": 1433
     },
     {
       "genre": "fantasy",
@@ -1283,7 +1283,7 @@
     {
       "genre": "sci-fi",
       "name": "Sci-Fi",
-      "titles": 832,
+      "titles": 833,
       "files": [
         {
           "file": "titulos/sci-fi/part-0001.json",
@@ -1339,7 +1339,7 @@
         },
         {
           "file": "titulos/sci-fi/part-0014.json",
-          "count": 53
+          "count": 54
         }
       ],
       "tagged": 989

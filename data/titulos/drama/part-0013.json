@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 13,
   "count": 60,
-  "updated_at": "2026-11-19T20:47:59.985023Z",
+  "updated_at": "2026-11-20T07:30:01.981205Z",
   "titles": [
     {
       "id": "10006207-enemy_of_the_people",
@@ -2389,12 +2389,12 @@
       "runtime_minutes": 94,
       "certificate": "R",
       "rating": 8.0,
-      "votes": 10522,
-      "tomatometer": 85,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 52,
       "tomatometer_certified": true,
-      "audience_score": 82,
-      "audience_count": 3062,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Wyatt (Peter Fonda) and Billy (Dennis Hopper), two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth. On their journey, they experience bigotry and hatred from the inhabitants of small-town America and also meet with other travelers seeking alternative lifestyles. After a terrifying drug experience in New Orleans, the two travelers wonder if they will ever find a way to live peacefully in America.",
       "tagline": "",
@@ -2489,11 +2489,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Easy-Rider/14867?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/467895?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:37:05.315413Z"
+      "scraped_at": "2026-11-20T07:28:27.187438Z"
     },
     {
       "id": "five_easy_pieces",

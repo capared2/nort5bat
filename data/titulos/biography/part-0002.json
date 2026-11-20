@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-19T20:50:02.146070Z",
+  "updated_at": "2026-11-20T07:28:01.330489Z",
   "titles": [
     {
       "id": "10009632-notorious",
@@ -1229,7 +1229,7 @@
       "tomatometer_count": 4,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A documentary film chronicling the genius songwriter Dory Previn on her journey from classic Hollywood movie lyricist to cult singer-songwriter.",
       "tagline": "",
@@ -1273,7 +1273,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:33:16.951103Z"
+      "scraped_at": "2026-11-20T07:24:36.961983Z"
     },
     {
       "id": "dreamin_wild",
@@ -1293,12 +1293,12 @@
       "runtime_minutes": 110,
       "certificate": "PG",
       "rating": 7.3,
-      "votes": 37,
-      "tomatometer": 90,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 62,
       "tomatometer_certified": true,
-      "audience_score": 65,
-      "audience_count": 19,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Dreamin' Wild, the true story of love and redemption, is about what happened to singer/songwriter Donnie Emerson and his family when the album he and his brother recorded as teens was rediscovered after thirty years of obscurity and was suddenly hailed by music critics as a lost masterpiece. While the album's rediscovery brings hopes of second chances, it also brings long-buried emotions as Donnie, his wife Nancy, brother Joe, and father Don Sr. come to terms with the past and their newly found fame.",
       "tagline": "",
@@ -1401,11 +1401,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Dreamin-Wild/2455517?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0C8XNSZ9D/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:34:53.843969Z"
+      "scraped_at": "2026-11-20T07:26:14.993148Z"
     },
     {
       "id": "ennio",

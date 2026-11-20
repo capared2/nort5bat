@@ -1,8 +1,8 @@
 {
   "genre": "crime",
   "part": 23,
-  "count": 55,
-  "updated_at": "2026-11-19T20:48:00.641955Z",
+  "count": 56,
+  "updated_at": "2026-11-20T07:26:00.242742Z",
   "titles": [
     {
       "id": "10003184-turning_point",
@@ -2637,6 +2637,94 @@
       "scraped_at": "2026-11-01T13:32:17.976124Z"
     },
     {
+      "id": "donga_naa_koduku_2",
+      "url": "https://www.rottentomatoes.com/m/donga_naa_koduku_2",
+      "category": "crime",
+      "type": "movie",
+      "title": "Donga Naa Koduku",
+      "original_title": "Donga Naa Koduku",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 150,
+      "certificate": "Nov 2026",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": null,
+      "metascore": null,
+      "plot": "",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/9pgJRuh8yNjHL3k9VAfBfxWr8-I=/300x450/v2/https://resizing.flixster.com/cl6nW5F20AZrU0xUC4GBNVoOl38=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwYzc3MzcwLWE5YzUtNDk4Yy1hODNhLTA4YTczNjhkOGJjZi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/9pgJRuh8yNjHL3k9VAfBfxWr8-I=/300x450/v2/https://resizing.flixster.com/cl6nW5F20AZrU0xUC4GBNVoOl38=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwYzc3MzcwLWE5YzUtNDk4Yy1hODNhLTA4YTczNjhkOGJjZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/NToqEjgMDbc9aJYfTsw9Okmg8XA=/fit-in/705x460/v2/https://resizing.flixster.com/cl6nW5F20AZrU0xUC4GBNVoOl38=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwYzc3MzcwLWE5YzUtNDk4Yy1hODNhLTA4YTczNjhkOGJjZi5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "sreenu_kambala",
+          "name": "Sreenu Kambala"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "mouli_tanuj_prasanth",
+          "name": "Mouli Tanuj Prasanth",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "sushmitha_shetty",
+          "name": "Sushmitha Shetty",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "rajitha",
+          "name": "Rajitha",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "raghu_babu",
+          "name": "Raghu Babu",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "gundu_sudharshan",
+          "name": "Gundu Sudharshan",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-20T07:23:37.856918Z"
+    },
+    {
       "id": "double_indemnity",
       "url": "https://www.rottentomatoes.com/m/double_indemnity",
       "category": "crime",
@@ -2653,12 +2741,12 @@
       "runtime_minutes": 106,
       "certificate": null,
       "rating": 9.4,
-      "votes": 7843,
-      "tomatometer": 97,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 110,
       "tomatometer_certified": true,
-      "audience_score": 95,
-      "audience_count": 2259,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this classic film noir, insurance salesman Walter Neff (Fred MacMurray) gets roped into a murderous scheme when he falls for the sensual Phyllis Dietrichson (Barbara Stanwyck), who is intent on killing her husband (Tom Powers) and living off the fraudulent accidental death claim. Prompted by the late Mr. Dietrichson's daughter, Lola (Jean Heather), insurance investigator Barton Keyes (Edward G. Robinson) looks into the case, and gradually begins to uncover the sinister truth.",
       "tagline": "",
@@ -2743,7 +2831,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:33:26.602535Z"
+      "scraped_at": "2026-11-20T07:24:45.983846Z"
     },
     {
       "id": "glass_key",

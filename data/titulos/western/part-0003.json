@@ -2,7 +2,7 @@
   "genre": "western",
   "part": 3,
   "count": 51,
-  "updated_at": "2026-11-19T07:37:18.552149Z",
+  "updated_at": "2026-11-20T07:28:01.885335Z",
   "titles": [
     {
       "id": "1012619-lone_ranger",
@@ -1363,12 +1363,12 @@
       "runtime_minutes": 96,
       "certificate": "PG",
       "rating": 6.7,
-      "votes": 53,
-      "tomatometer": 56,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 49,
-      "audience_count": 14,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this take on the gunfight at the O.K. Corral, Doc Holliday (Stacy Keach) travels to Tombstone, Ariz., with prostitute Katie Elder (Faye Dunaway). Although the trip is difficult because Doc is ill with tuberculosis, they eventually reach their destination, where Holliday is reunited with his old friend Marshal Wyatt Earp (Harris Yulin), who has been clashing with the Clanton gang. Tension between Earp and the Clantons rises until their infamous final showdown brings it to a head.",
       "tagline": "",
@@ -1445,11 +1445,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Doc/116753?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GQ2WHX8J/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:31:25.946876Z"
+      "scraped_at": "2026-11-20T07:22:46.087563Z"
     },
     {
       "id": "duck_you_sucker",
@@ -1467,12 +1471,12 @@
       "runtime_minutes": 139,
       "certificate": "PG",
       "rating": 7.4,
-      "votes": 2441,
-      "tomatometer": 92,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 24,
       "tomatometer_certified": false,
-      "audience_score": 83,
-      "audience_count": 728,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "At the beginning of the Mexican Revolution in 1913, greedy bandit Juan Miranda and idealist John H. Mallory, an Irish Republican Army explosives expert on the lam from the British, fall in with a band of revolutionaries plotting to strike a national bank. When it turns out that the government has been using the bank as a hiding place for illegally detained political prisoners, who are freed by the blast, Miranda becomes a revolutionary hero against his will.",
       "tagline": "",
@@ -1553,15 +1557,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/A-Fistful-of-Dynamite-aka-Duck-You-Sucker/140725?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0D8VDTG96/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:35:51.487188Z"
+      "scraped_at": "2026-11-20T07:27:12.659335Z"
     },
     {
       "id": "good_guys_and_the_bad_guys",

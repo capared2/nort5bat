@@ -2,7 +2,7 @@
   "genre": "biography",
   "part": 4,
   "count": 60,
-  "updated_at": "2026-11-19T07:39:18.950713Z",
+  "updated_at": "2026-11-20T07:30:02.354971Z",
   "titles": [
     {
       "id": "a_complete_unknown",
@@ -1059,12 +1059,12 @@
       "runtime_minutes": 97,
       "certificate": null,
       "rating": 5.8,
-      "votes": 155,
-      "tomatometer": 44,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 9,
       "tomatometer_certified": false,
-      "audience_score": 71,
-      "audience_count": 31,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The life and work of movie poster artist Drew Struzan.",
       "tagline": "",
@@ -1161,11 +1161,15 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0GG938FX2/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/drew-the-man-behind-the-poster/umc.cmc.4yygl5nbtn61gxk465dh95c9h?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:35:03.587834Z"
+      "scraped_at": "2026-11-20T07:26:24.894624Z"
     },
     {
       "id": "ego_the_michael_gudinski_story",
@@ -1185,12 +1189,12 @@
       "runtime_minutes": 111,
       "certificate": null,
       "rating": 7.3,
-      "votes": 2,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 7,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A rare insight into how hitmaker and trailblazer Michael Gudinski inspired the soundtrack of a nation and revolutionized the Australian music industry. We follow Gudinski's relentless pursuit of success over five decades as he launches Mushroom Records and the careers of countless artists, promotes legendary international acts, and takes Australian music to the world. Featuring exclusive interviews with some of the world’s most influential artists, extraordinary rare footage, and an electrifying soundtrack, this documentary reveals the man behind the music and the unstoppable force that was Michael Gudinski.",
       "tagline": "",
@@ -1255,7 +1259,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:37:51.816379Z"
+      "scraped_at": "2026-11-20T07:29:14.457218Z"
     },
     {
       "id": "el_cantante",
@@ -1274,12 +1278,12 @@
       "runtime_minutes": 116,
       "certificate": "R",
       "rating": 4.8,
-      "votes": 1756,
-      "tomatometer": 23,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 104,
       "tomatometer_certified": false,
-      "audience_score": 63,
-      "audience_count": 902,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Puerto Rican singer Héctor Lavoe (Marc Anthony) immigrates to the United States and becomes a pioneer of salsa music. In New York, he meets Puchi (Jennifer Lopez), who becomes Héctor's loving but fiery wife. Signing with Jerry Masucci's Fania record label, Lavoe teams up with trumpeter Willie Colón (John Ortiz) to perfect the new musical style. The duo rise to fame, but Lavoe's struggle with drug addiction threatens his life as well as his career.",
       "tagline": "",
@@ -1372,11 +1376,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/El-Cantante/128871?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWYW43Q9/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:38:06.234310Z"
+      "scraped_at": "2026-11-20T07:29:28.215259Z"
     },
     {
       "id": "filthy_gorgeous_the_bob_guccione_story",

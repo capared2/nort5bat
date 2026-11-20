@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 15,
   "count": 60,
-  "updated_at": "2026-11-19T20:43:58.505407Z",
+  "updated_at": "2026-11-20T07:25:59.751302Z",
   "titles": [
     {
       "id": "10012050-final",
@@ -2664,12 +2664,12 @@
       "runtime_minutes": 99,
       "certificate": "R",
       "rating": 3.8,
-      "votes": 4930,
-      "tomatometer": 20,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 66,
       "tomatometer_certified": false,
-      "audience_score": 39,
-      "audience_count": 2146,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Long ago, Abraham Van Helsing (Christopher Plummer) imprisoned the infamous Count Dracula (Gerard Butler) within a vault inside Carfax Abbey. In the present day, Van Helsing relies on Dracula's immortal blood to remain alive. But then thieves break into the vault and steal the vampire's coffin, thinking it contains something valuable. Liberated from his prison, Dracula seizes the opportunity to escape, but Van Helsing sets out to banish him to the crypt once again.",
       "tagline": "",
@@ -2766,15 +2766,11 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Dracula-2000/21918?cmp=rt_where_to_watch"
-        },
-        {
-          "name": "Paramount+",
-          "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:34:14.652483Z"
+      "scraped_at": "2026-11-20T07:25:36.553212Z"
     },
     {
       "id": "evil_dead_ii",

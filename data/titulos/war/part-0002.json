@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 2,
   "count": 59,
-  "updated_at": "2026-11-19T20:46:00.017544Z",
+  "updated_at": "2026-11-20T07:26:00.358395Z",
   "titles": [
     {
       "id": "10007714-situation",
@@ -2263,12 +2263,12 @@
       "runtime_minutes": 148,
       "certificate": "R",
       "rating": 8.2,
-      "votes": 17308,
-      "tomatometer": 90,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 132,
       "tomatometer_certified": true,
-      "audience_score": 94,
-      "audience_count": 5148,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In 1942, young Traudl Junge (Alexandra Maria Lara) lands her dream job -- secretary to Adolf Hitler (Bruno Ganz) at the peak of his power. Three years later, Hitler's empire is now his underground bunker. The real-life Traudl narrates Hitler's final days as he rages against imagined betrayers and barks orders to phantom armies, while his mistress, Eva Braun (Juliane Köhler), clucks over his emotional distance, and other infamous Nazis prepare for the end.",
       "tagline": "",
@@ -2365,11 +2365,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Downfall/51939?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D4MXBHH6/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-01T13:33:51.715589Z"
+      "scraped_at": "2026-11-20T07:25:12.343350Z"
     },
     {
       "id": "enemy_at_the_gates",
