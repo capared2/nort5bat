@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 25,
   "count": 60,
-  "updated_at": "2026-11-20T20:35:04.887927Z",
+  "updated_at": "2026-11-21T07:21:32.609120Z",
   "titles": [
     {
       "id": "10008701-laaga_chunari_mein_daag",
@@ -2693,12 +2693,12 @@
       "runtime_minutes": 90,
       "certificate": "Feb 2026",
       "rating": 6.6,
-      "votes": 30,
-      "tomatometer": 77,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 31,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 18,
+      "audience_count": null,
       "metascore": null,
       "plot": "Lauren, a newly divorced, sober mom, feels like she has a new lease on life after joining her first acting class and starting a fling with her hot, young scene partner. However, when they attend their Gen Z classmate's wedding together, things begin to fall apart, and Lauren finds herself behaving like a drunk 25-year-old bridesmaid. Luckily after a disastrous night she stumbles into a new day and a new beginning.",
       "tagline": "",
@@ -2795,11 +2795,15 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/For-Worse/4827206?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GR6MZDFC/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:18:46.783245Z"
+      "scraped_at": "2026-11-21T07:20:21.974441Z"
     },
     {
       "id": "godard_mon_amour",

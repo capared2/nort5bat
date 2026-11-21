@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 39,
   "count": 60,
-  "updated_at": "2026-11-20T20:28:41.646184Z",
+  "updated_at": "2026-11-21T07:21:31.888498Z",
   "titles": [
     {
       "id": "28_hotel_rooms",
@@ -2160,12 +2160,12 @@
       "runtime_minutes": 74,
       "certificate": null,
       "rating": 7.9,
-      "votes": 7,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 13,
       "tomatometer_certified": false,
-      "audience_score": 57,
-      "audience_count": 2,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "At once an examination of loneliness and the masks we wear to face the world, Andrew Wonder's FERAL tells the story of Yasmine, a young woman living in the tunnels underneath Manhattan, struggling to overcome her past as she meets other city dwellers fending for their own lives.",
       "tagline": "",
@@ -2262,13 +2262,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HMK77JB7/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/feral/umc.cmc.v3ux29xtjz1yrnndizr3qsu7?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:14:05.178122Z"
+      "scraped_at": "2026-11-21T07:15:36.921730Z"
     },
     {
       "id": "fi_and_queen_b",
@@ -2291,7 +2295,7 @@
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A tragedy strikes just when a young man is about to propose to his girlfriend.",
       "tagline": "",
@@ -2360,7 +2364,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:14:19.072522Z"
+      "scraped_at": "2026-11-21T07:15:51.858651Z"
     },
     {
       "id": "for_ellen",
@@ -2378,12 +2382,12 @@
       "runtime_minutes": 93,
       "certificate": null,
       "rating": 6.2,
-      "votes": 274,
-      "tomatometer": 67,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 36,
       "tomatometer_certified": false,
-      "audience_score": 39,
-      "audience_count": 39,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A struggling musician (Paul Dano) tries to pull himself together and fight for shared custody of his young daughter (Shaylena Mandigo).",
       "tagline": "",
@@ -2484,7 +2488,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:18:31.172873Z"
+      "scraped_at": "2026-11-21T07:20:04.881088Z"
     },
     {
       "id": "gabrielle",

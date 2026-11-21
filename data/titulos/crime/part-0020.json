@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 20,
   "count": 60,
-  "updated_at": "2026-11-20T20:30:43.707300Z",
+  "updated_at": "2026-11-21T07:23:33.547316Z",
   "titles": [
     {
       "id": "10002709-undercover_man",
@@ -1835,12 +1835,12 @@
       "runtime_minutes": 119,
       "certificate": null,
       "rating": 7.4,
-      "votes": 347,
-      "tomatometer": 93,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 27,
       "tomatometer_certified": false,
-      "audience_score": 90,
-      "audience_count": 88,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Fresh Kills brings late 1980s Staten Island to vivid life through the lens of Rose Larusso (Emily Bader), an inquisitive young girl who discovers her father (Domenick Lombardozzi) is an emerging mafia kingpin. Rose's growing desire to break free from the path set before her soon threatens her existence and alienates her from her closest allies: her mother Francine (Jennifer Esposito), her sister Connie (Odessa A'zion), and her aunt Christine (Annabella Sciorra).",
       "tagline": "",
@@ -1959,7 +1959,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:21:27.094496Z"
+      "scraped_at": "2026-11-21T07:23:01.637968Z"
     },
     {
       "id": "friends_2_foe",
@@ -1983,9 +1983,9 @@
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
-      "plot": "Two best friends turn to a family member for help in taking on the underground drug world-lies, betrayal, and who knows what comes next.",
+      "plot": "Two best friends turn to a family member for help in taking on the underground drug world — lies, betrayal, and who knows what comes next.",
       "tagline": "",
       "poster": "https://resizing.flixster.com/hM114R0wVdrVGwehIAjgi0vz3Gc=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28319041_v_v7_aa.jpg",
       "images": [
@@ -2040,10 +2040,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HGBYK1JL/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:21:52.837351Z"
+      "scraped_at": "2026-11-21T07:23:26.585120Z"
     },
     {
       "id": "full_clip_for_a_snitch",

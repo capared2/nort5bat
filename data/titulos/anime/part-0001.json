@@ -2,7 +2,7 @@
   "genre": "anime",
   "part": 1,
   "count": 22,
-  "updated_at": "2026-11-18T20:45:26.129166Z",
+  "updated_at": "2026-11-21T07:23:55.359756Z",
   "titles": [
     {
       "id": "100_meters_2025",
@@ -594,12 +594,12 @@
       "runtime_minutes": 91,
       "certificate": "PG",
       "rating": 7.1,
-      "votes": 3602,
-      "tomatometer": 87,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 87,
       "tomatometer_certified": true,
-      "audience_score": 80,
-      "audience_count": 480,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Yokohama teens try to save their school's clubhouse from being demolished.",
       "tagline": "",
@@ -655,10 +655,6 @@
       "gross_worldwide": null,
       "streaming": [
         {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0B65VYSYX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        },
-        {
           "name": "HBO Max",
           "url": "https://www.hbomax.com/?utm_source=rt&utm_medium=affiliate&utm_campaign=subscribe&cmp=rt_where_to_watch"
         },
@@ -669,7 +665,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:02:32.082207Z"
+      "scraped_at": "2026-11-21T07:23:53.768214Z"
     },
     {
       "id": "grave_of_the_fireflies",

@@ -2,7 +2,7 @@
   "genre": "animation",
   "part": 5,
   "count": 21,
-  "updated_at": "2026-11-17T08:05:09.572894Z",
+  "updated_at": "2026-11-21T07:17:30.705764Z",
   "titles": [
     {
       "id": "ash_and_crayons",
@@ -593,18 +593,18 @@
         "Adventure",
         "Animation"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 60,
-      "certificate": "In Theaters Nov 14",
+      "certificate": "Now Playing",
       "rating": null,
       "votes": null,
       "tomatometer": null,
       "tomatometer_count": 0,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "Join Peppa Pig and her family at the cinema for a festive big-screen experience as they celebrate Evie's first Christmas! Share in the excitement of the holidays as the family of five reflect on treasured festive memories. From snowy adventures and holiday plays to decorating the tree, this hour-long cinema experience brings together 7 classic festive-themed Peppa Pig episodes and 4 brand-new songs that little ones can dance and sing along to. Filled with laughter, music and heartwarming moments, this special cinema experience is the perfect family day out during the holiday season. So grab your hats, scarves and gloves and enjoy the holiday magic along with your favorite piggies at the Festive Fun with Peppa Cinema Experience!",
       "tagline": "",
@@ -651,7 +651,13 @@
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "oUUaZGvmYon1",
+        "title": "Festive Fun with Peppa Cinema Experience: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/785/531/thumb_6A9BE084-C6DE-49EB-8AE9-FB7B939AB932.jpg",
+        "seconds": 41,
+        "src": "https://link.theplatform.com/s/NGweTC/media/oUUaZGvmYon1?formats=M3U+none"
+      },
       "directors": [],
       "writers": [],
       "cast": [],
@@ -664,7 +670,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:11:02.234534Z"
+      "scraped_at": "2026-11-21T07:15:43.833537Z"
     },
     {
       "id": "in_waves",

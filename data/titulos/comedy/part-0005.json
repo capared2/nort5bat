@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-20T20:34:44.305590Z",
+  "updated_at": "2026-11-21T07:19:31.360127Z",
   "titles": [
     {
       "id": "action_point",
@@ -1899,12 +1899,12 @@
       "runtime_minutes": 91,
       "certificate": "R",
       "rating": 4.0,
-      "votes": 4883,
-      "tomatometer": 25,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 132,
       "tomatometer_certified": false,
-      "audience_score": 40,
-      "audience_count": 559,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "On the last day before summer vacation, high school teacher Andy Campbell tries his best to keep it together amid senior pranks, a dysfunctional administration and budget cuts that threaten his job. Things go from bad to worse when he crosses Ron Strickland, the school's toughest and most feared teacher. When Strickland gets fired, he challenges Campbell to a fight after school. As news of the showdown spreads like wildfire, poor Andy desperately seeks any way out of his date with certain doom.",
       "tagline": "",
@@ -2009,13 +2009,17 @@
           "url": "https://athome.fandango.com/content/browse/details/Fist-Fight/832488?cmp=rt_where_to_watch"
         },
         {
+          "name": "Starz",
+          "url": "https://www.starz.com/us/en/play/74943?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:16:38.182015Z"
+      "scraped_at": "2026-11-21T07:18:10.919721Z"
     },
     {
       "id": "fun_mom_dinner",

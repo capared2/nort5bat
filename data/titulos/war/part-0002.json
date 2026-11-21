@@ -2,7 +2,7 @@
   "genre": "war",
   "part": 2,
   "count": 59,
-  "updated_at": "2026-11-20T20:28:42.516203Z",
+  "updated_at": "2026-11-21T07:21:32.718125Z",
   "titles": [
     {
       "id": "10007714-situation",
@@ -2528,12 +2528,12 @@
       "runtime_minutes": 142,
       "certificate": "PG-13",
       "rating": 8.0,
-      "votes": 179588,
-      "tomatometer": 75,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 159,
       "tomatometer_certified": true,
-      "audience_score": 95,
-      "audience_count": 92568,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Slow-witted Forrest Gump (Tom Hanks) has never thought of himself as disadvantaged, and thanks to his supportive mother (Sally Field), he leads anything but a restricted life. Whether dominating on the gridiron as a college football star, fighting in Vietnam or captaining a shrimp boat, Forrest inspires people with his childlike optimism. But one person Forrest cares about most may be the most difficult to save -- his childhood love, the sweet but troubled Jenny (Robin Wright).",
       "tagline": "",
@@ -2638,13 +2638,21 @@
           "url": "https://athome.fandango.com/content/browse/details/Forrest-Gump/22436?cmp=rt_where_to_watch"
         },
         {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/forrest-gump/umc.cmc.5ov9f55aw8qvmd5pumhgnwu3e?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        },
+        {
           "name": "Paramount+",
           "url": "https://paramountplus.qflm.net/c/3465016/175360/3065?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "AMC+",
+          "url": "https://www.amcplus.com/movies/forrest-gump--1010507?cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:19:19.464784Z"
+      "scraped_at": "2026-11-21T07:20:53.436268Z"
     },
     {
       "id": "good_kill",

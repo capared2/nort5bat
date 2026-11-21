@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 56,
   "count": 59,
-  "updated_at": "2026-11-20T07:30:01.892063Z",
+  "updated_at": "2026-11-21T07:23:34.083807Z",
   "titles": [
     {
       "id": "10009445-my_brothers_wedding",
@@ -2197,12 +2197,12 @@
       "runtime_minutes": 146,
       "certificate": "Now Playing",
       "rating": 7.8,
-      "votes": 127,
-      "tomatometer": 92,
-      "tomatometer_count": 147,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 165,
       "tomatometer_certified": true,
-      "audience_score": 91,
-      "audience_count": 18,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The Gheorghius, a devout Romanian Norwegian couple, resettle in a village set in a distant fjord where they become close to their neighbors, the Halbergs. Their children bond despite their different education. When adolescent Elia Gheorghiu shows up at school with some bruises on her body, the community asks itself if the traditional education that the Gheorghiu children get from their parents would have anything to do with it.",
       "tagline": "",
@@ -2297,10 +2297,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Fjord/5134913?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:16:56.261659Z"
+      "scraped_at": "2026-11-21T07:18:28.910893Z"
     },
     {
       "id": "flywheel_ignition_of_the_soul",
@@ -2318,12 +2323,12 @@
       "runtime_minutes": 110,
       "certificate": "PG",
       "rating": null,
-      "votes": 50,
+      "votes": null,
       "tomatometer": null,
       "tomatometer_count": 6,
       "tomatometer_certified": false,
-      "audience_score": 92,
-      "audience_count": 21,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Set in Rio de Janeiro, the new film Flywheel: Ignition of the Soul follows Noah Silva, a smooth-talking, used-car salesman whose \"do whatever it takes\" approach to business and life begins to unravel at home and at work. After a series of wake-up calls, Noah is forced to confront the cost of his choices. He begins a difficult and deeply personal journey to restore his integrity while trying to win back the hearts of his wife and son.",
       "tagline": "",
@@ -2430,7 +2435,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:17:59.910343Z"
+      "scraped_at": "2026-11-21T07:19:33.074556Z"
     },
     {
       "id": "foolish-wives",
@@ -2448,12 +2453,12 @@
       "runtime_minutes": 100,
       "certificate": null,
       "rating": 8.9,
-      "votes": 161,
-      "tomatometer": 89,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 19,
       "tomatometer_certified": false,
-      "audience_score": 69,
-      "audience_count": 41,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this silent classic, Sergius Karamzin (Erich von Stroheim) is a con artist who pretends to be a count in order to charm and swindle naïve women for money. He lives in Monte Carlo, Monaco, with his cousins, \"princesses\" Olga (Maude George) and Vera (Mae Busch), who are in on his scams. When Karamzin meets American diplomat Andrew Hughes (Rudolph Christians), the count immediately takes aim at his wife, Helen (Miss DuPont). But Karamzin soon finds he has double-crossed too many women.",
       "tagline": "",
@@ -2538,7 +2543,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:18:20.498051Z"
+      "scraped_at": "2026-11-21T07:19:54.614601Z"
     },
     {
       "id": "fremont",
@@ -2556,12 +2561,12 @@
       "runtime_minutes": 88,
       "certificate": null,
       "rating": 7.5,
-      "votes": 144,
-      "tomatometer": 98,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 87,
       "tomatometer_certified": true,
-      "audience_score": 84,
-      "audience_count": 18,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Donya works for a Chinese fortune cookie factory in San Francisco. Formerly a translator for the U.S. military in Afghanistan, she struggles to put her life back in order. In a moment of sudden revelation, she decides to send out a special message in a cookie.",
       "tagline": "",
@@ -2680,7 +2685,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:21:11.254030Z"
+      "scraped_at": "2026-11-21T07:22:45.533432Z"
     },
     {
       "id": "gabriel_over_the_white_house",

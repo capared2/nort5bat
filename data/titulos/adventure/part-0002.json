@@ -2,7 +2,7 @@
   "genre": "adventure",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-20T20:34:44.810114Z",
+  "updated_at": "2026-11-21T07:23:34.345148Z",
   "titles": [
     {
       "id": "1002306-big_brawl",
@@ -3575,12 +3575,12 @@
       "runtime_minutes": 103,
       "certificate": "PG",
       "rating": 3.0,
-      "votes": 396,
-      "tomatometer": 8,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 12,
       "tomatometer_certified": false,
-      "audience_score": 33,
-      "audience_count": 143,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Two guys (Chuck Norris, Louis Gossett Jr.) and a girl (Melody Anderson) brave jungle hazards to find an Aztec temple filled with gold.",
       "tagline": "",
@@ -3657,10 +3657,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H3WSVSZQ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:16:07.321706Z"
+      "scraped_at": "2026-11-21T07:17:39.861907Z"
     },
     {
       "id": "flicka",
@@ -3680,12 +3685,12 @@
       "runtime_minutes": 95,
       "certificate": "PG",
       "rating": 5.9,
-      "votes": 5526,
-      "tomatometer": 54,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 78,
       "tomatometer_certified": false,
-      "audience_score": 82,
-      "audience_count": 3736,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In modern-day Wyoming, teenager Katy McLaughlin dreams of working on and, one day, taking over her father's ranch. She tames a mustang and names her Flicka, then finds that she and her new equine companion are more alike than she imagined. After her father sells Flicka, Katy schemes to win back the horse by entering a dangerous race.",
       "tagline": "",
@@ -3790,7 +3795,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:17:22.398169Z"
+      "scraped_at": "2026-11-21T07:18:55.987035Z"
     },
     {
       "id": "free_willy_3_the_rescue",
@@ -3809,12 +3814,12 @@
       "runtime_minutes": 86,
       "certificate": "PG",
       "rating": 5.1,
-      "votes": 1359,
-      "tomatometer": 50,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 18,
       "tomatometer_certified": false,
-      "audience_score": 44,
-      "audience_count": 646,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "In the third \"Free Willy\" film, Jesse (Jason James Richter) is 16 and employed aboard a research ship along with his old friend and mentor, Randolph (August Schellenberg). After Jesse meets Max (Vincent Berry), the disapproving son of a whaler hoping to catch Willy the orca for his meat, the two team with oceanographer Drew (Annie Corley) to stop the whalers before they can get to Willy and the rest of his pod, and convince them to give up their cruel and illegal practice.",
       "tagline": "",
@@ -3903,7 +3908,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T06:20:55.992071Z"
+      "scraped_at": "2026-11-21T07:22:30.615463Z"
     },
     {
       "id": "gold_diggers_the_secret_of_bear_mountain",
