@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 43,
   "count": 60,
-  "updated_at": "2026-11-21T07:21:32.379704Z",
+  "updated_at": "2026-11-21T19:25:04.608083Z",
   "titles": [
     {
       "id": "10006485-black_gold",
@@ -2522,12 +2522,12 @@
       "runtime_minutes": 85,
       "certificate": null,
       "rating": 7.0,
-      "votes": 26,
-      "tomatometer": 91,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 11,
       "tomatometer_certified": false,
-      "audience_score": 73,
-      "audience_count": 10,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Birders search for the elusive ivory-billed woodpecker.",
       "tagline": "",
@@ -2589,10 +2589,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/ghost-bird/umc.cmc.4pcaauraghflatyojxfuz8oq2?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:05:33.745817Z"
+      "scraped_at": "2026-11-21T19:24:04.914330Z"
     },
     {
       "id": "hollywood_chinese",

@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 59,
   "count": 46,
-  "updated_at": "2026-11-21T07:21:31.895295Z",
+  "updated_at": "2026-11-21T19:29:27.126574Z",
   "titles": [
     {
       "id": "10007169-pied_piper",
@@ -1930,13 +1930,13 @@
       "release_date": null,
       "runtime_minutes": 114,
       "certificate": "R",
-      "rating": 6.4,
-      "votes": 2,
-      "tomatometer": 69,
-      "tomatometer_count": 55,
+      "rating": 6.6,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 84,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 1,
+      "audience_count": null,
       "metascore": null,
       "plot": "When a police raid shatters her life, concert pianist Lucy (Léa Seydoux) must protect her son and confront how little she knows her husband after he is accused of an unspeakable crime in this tense thriller about trust and survival.",
       "tagline": "",
@@ -2035,10 +2035,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/82946637?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:04:50.385548Z"
+      "scraped_at": "2026-11-21T19:23:21.669576Z"
     },
     {
       "id": "giant_the_play",
@@ -2050,18 +2055,18 @@
       "genres": [
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 136,
-      "certificate": "In Theaters Nov 19",
+      "certificate": "Now Playing",
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 2,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "A world-famous children's author under threat. A battle of wills in the wake of scandal. And one chance to make amends.... It's the summer of 1983, The Witches is about to hit the shelves and Roald Dahl is making last-minute edits. But the outcry at his recent, explicitly antisemitic article won't die down. Across a single afternoon at his family home, and rocked by an unexpectedly explosive confrontation, Dahl is forced to choose: make a public apology or risk his name and reputation. Inspired by real events, GIANT explores with dark humor the difference between considered opinion and dangerous rhetoric offering a complicated portrait of a fiendishly charismatic icon.",
       "tagline": "",
@@ -2163,30 +2168,30 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:11:04.691148Z"
+      "scraped_at": "2026-11-21T19:24:48.684403Z"
     },
     {
       "id": "god_with_us",
       "url": "https://www.rottentomatoes.com/m/god_with_us",
       "category": "drama",
       "type": "movie",
-      "title": "God With Us",
-      "original_title": "God With Us",
+      "title": "God with Us",
+      "original_title": "God with Us",
       "genres": [
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 105,
-      "certificate": "In Theaters Nov 13",
+      "certificate": "Now Playing",
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 1,
+      "tomatometer_count": 4,
       "tomatometer_certified": false,
       "audience_score": null,
-      "audience_count": 0,
+      "audience_count": null,
       "metascore": null,
       "plot": "In this modern-day parable, young couple Mary Anne Thomas (Ashley Olivia Fisher) and Joseph \"Junie\" Love (Aspen Kennedy) find their faith and love tested when Mary miraculously becomes pregnant.",
       "tagline": "",
@@ -2261,10 +2266,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/God-With-Us/5312517?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:10:58.086194Z"
+      "scraped_at": "2026-11-21T19:26:22.723825Z"
     },
     {
       "id": "grapes_of_wrath",
@@ -2282,12 +2292,12 @@
       "runtime_minutes": 129,
       "certificate": null,
       "rating": 9.4,
-      "votes": 4480,
-      "tomatometer": 100,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 46,
       "tomatometer_certified": true,
-      "audience_score": 88,
-      "audience_count": 1129,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "The Joad clan, introduced to the world in John Steinbeck's iconic novel, is looking for a better life in California. After their drought-ridden farm is seized by the bank, the family -- led by just-paroled son Tom -- loads up a truck and heads West. On the road, beset by hardships, the Joads meet dozens of other families making the same trek and holding onto the same dream. Once in California, however, the Joads soon realize that the promised land isn't quite what they hoped.",
       "tagline": "",
@@ -2374,7 +2384,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:10:36.581446Z"
+      "scraped_at": "2026-11-21T19:29:10.810010Z"
     },
     {
       "id": "how_to_divorce_during_the_war",

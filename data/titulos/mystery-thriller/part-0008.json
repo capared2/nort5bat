@@ -2,7 +2,7 @@
   "genre": "mystery-thriller",
   "part": 8,
   "count": 60,
-  "updated_at": "2026-11-21T07:21:32.972731Z",
+  "updated_at": "2026-11-21T19:25:04.959916Z",
   "titles": [
     {
       "id": "10009493-duchess",
@@ -2870,12 +2870,12 @@
       "runtime_minutes": 97,
       "certificate": "R",
       "rating": 4.1,
-      "votes": 456,
-      "tomatometer": 22,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 23,
       "tomatometer_certified": false,
-      "audience_score": 66,
-      "audience_count": 26,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Bruce Willis, Luke Wilson and Devon Sawa star in the chilling story of a savage Hollywood murder set in present day Los Angeles. Jimmy Jayne (Sawa), a reformed ex-con, is the prime suspect who will stop at nothing to prove his innocence. Homicide detectives Freeman (Willis) and Vargas (Wilson) are close on his tail as Jimmy takes on his own investigation, risking his life in the dark underbelly of L.A.",
       "tagline": "",
@@ -2978,11 +2978,19 @@
         {
           "name": "Stream",
           "url": "https://athome.fandango.com/content/browse/details/Gasoline-Alley/1987096?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:04:12.353655Z"
+      "scraped_at": "2026-11-21T19:22:44.012313Z"
     },
     {
       "id": "get_the_girl_2017",
@@ -3002,12 +3010,12 @@
       "runtime_minutes": 87,
       "certificate": "R",
       "rating": 5.8,
-      "votes": 36,
-      "tomatometer": 13,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 8,
       "tomatometer_certified": false,
-      "audience_score": 28,
-      "audience_count": 10,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A wealthy young man is conned into staging a fake kidnapping, allowing him to be seen as a hero and win the affection of a girl he's madly in love with. But when one of the hired kidnappers is accidentally killed during the charade, he's forced to save her life while not revealing that it's been a ruse all along.",
       "tagline": "",
@@ -3118,7 +3126,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-02T16:05:21.568655Z"
+      "scraped_at": "2026-11-21T19:23:52.866128Z"
     },
     {
       "id": "heart_condition",
