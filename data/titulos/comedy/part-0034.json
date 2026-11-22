@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 34,
   "count": 60,
-  "updated_at": "2026-11-22T06:58:09.509222Z",
+  "updated_at": "2026-11-22T19:50:58.502869Z",
   "titles": [
     {
       "id": "10009169-man_in_the_chair",
@@ -3089,12 +3089,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 5.4,
-      "votes": 89,
-      "tomatometer": 25,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 24,
       "tomatometer_certified": false,
-      "audience_score": 47,
-      "audience_count": 16,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A cynical writer and a hopeless romantic hit the road for a cross-country trip.",
       "tagline": "",
@@ -3183,11 +3183,19 @@
         {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0GYPCS5G7/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Disney+",
+          "url": "https://disneyplus.bn5x.net/c/3465016/564546/9358?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Hulu",
+          "url": "https://www.kmtrak.com/SM94M2/3HWS9F7/?uid=233&cmp=rt_where_to_watch"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-03T14:25:17.903478Z"
+      "scraped_at": "2026-11-22T19:48:11.141679Z"
     },
     {
       "id": "horse_girl",
@@ -3206,12 +3214,12 @@
       "runtime_minutes": 104,
       "certificate": "R",
       "rating": 6.3,
-      "votes": 609,
-      "tomatometer": 72,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 57,
       "tomatometer_certified": false,
-      "audience_score": 49,
-      "audience_count": 138,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A woman's surreal dreams affect her perception of reality.",
       "tagline": "",
@@ -3318,7 +3326,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-03T14:25:45.564723Z"
+      "scraped_at": "2026-11-22T19:48:38.063586Z"
     },
     {
       "id": "hotel_new_hampshire",
@@ -3338,12 +3346,12 @@
       "runtime_minutes": 110,
       "certificate": "R",
       "rating": 6.2,
-      "votes": 595,
-      "tomatometer": 71,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 14,
       "tomatometer_certified": false,
-      "audience_score": 50,
-      "audience_count": 160,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Based on the novel by John Irving, this unusual comedic drama follows the exploits of the eccentric hotel-operating Berry family. While there are many strange dynamics between the various members of the Berry clan, arguably the most unconventional is the almost incestuous relationship that young, handsome John (Rob Lowe) has with his pretty sister, Franny (Jodie Foster). As the patriarch, Win (Beau Bridges), tries to keep his family together, unexpected events occur, changing them all forever.",
       "tagline": "",
@@ -3428,7 +3436,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-03T14:26:20.888217Z"
+      "scraped_at": "2026-11-22T19:49:15.699135Z"
     },
     {
       "id": "ill_show_you_mine",

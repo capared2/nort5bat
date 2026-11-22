@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 26,
   "count": 60,
-  "updated_at": "2026-11-22T07:00:10.693715Z",
+  "updated_at": "2026-11-22T19:53:00.299235Z",
   "titles": [
     {
       "id": "a_faithful_man",
@@ -2816,12 +2816,12 @@
       "runtime_minutes": 147,
       "certificate": null,
       "rating": 6.5,
-      "votes": 47,
-      "tomatometer": 77,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 13,
       "tomatometer_certified": false,
-      "audience_score": 66,
-      "audience_count": 17,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "A free-spirited woman is torn between two very different men.",
       "tagline": "",
@@ -2902,13 +2902,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/watch/83192237?cmp=rt_where_to_watch"
+        },
+        {
           "name": "Prime Video",
           "url": "http://www.amazon.com/gp/product/B0H3WQ7BFX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-03T14:28:46.209572Z"
+      "scraped_at": "2026-11-22T19:51:39.944044Z"
     },
     {
       "id": "interlude_in_prague",
