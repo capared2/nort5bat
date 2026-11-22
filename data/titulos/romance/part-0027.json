@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 27,
   "count": 27,
-  "updated_at": "2026-11-21T07:23:55.150910Z",
+  "updated_at": "2026-11-22T07:04:33.981774Z",
   "titles": [
     {
       "id": "a_woman_of_paris_a_drama_of_fate",
@@ -756,10 +756,10 @@
       "release_date": null,
       "runtime_minutes": 107,
       "certificate": null,
-      "rating": 5.7,
+      "rating": 6.1,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 11,
+      "tomatometer_count": 13,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
@@ -869,7 +869,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-21T07:23:54.872681Z"
+      "scraped_at": "2026-11-22T06:57:32.924475Z"
     },
     {
       "id": "ha_chan_shake_your_booty",
@@ -883,18 +883,18 @@
         "Drama",
         "Romance"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 122,
       "certificate": "R",
       "rating": 7.3,
-      "votes": 80,
-      "tomatometer": 91,
+      "votes": null,
+      "tomatometer": null,
       "tomatometer_count": 85,
       "tomatometer_certified": true,
-      "audience_score": 85,
-      "audience_count": 31,
+      "audience_score": null,
+      "audience_count": null,
       "metascore": null,
       "plot": "Haru and Luis love competing in Tokyo's ballroom dance scene, but after tragedy strikes, Haru withdraws into isolation. When friends coax her back to the studio, she develops an infatuation with the new instructor.",
       "tagline": "",
@@ -993,10 +993,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Ha-Chan-Shake-Your-Booty/5337325?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-03T01:03:57.403909Z"
+      "scraped_at": "2026-11-22T06:58:16.345419Z"
     },
     {
       "id": "hello_love_again",
@@ -1097,7 +1102,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-09T22:34:20.590197Z"
+      "scraped_at": "2026-11-22T07:03:27.075753Z"
     },
     {
       "id": "hershey",
@@ -1119,7 +1124,7 @@
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 5,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
@@ -1204,7 +1209,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-09T22:34:09.055285Z"
+      "scraped_at": "2026-11-22T07:04:25.100987Z"
     },
     {
       "id": "in_spite_of_ourselves",
