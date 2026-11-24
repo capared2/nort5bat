@@ -2,7 +2,7 @@
   "genre": "sports",
   "part": 1,
   "count": 39,
-  "updated_at": "2026-11-24T00:03:34.301602Z",
+  "updated_at": "2026-11-24T10:06:49.405983Z",
   "titles": [
     {
       "id": "a_marble_in_the_jar",
@@ -1352,7 +1352,7 @@
         "Drama",
         "Sports"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 105,
@@ -1462,10 +1462,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/last-shot-2026/umc.cmc.7ekt2lea43kqkef41ajzx02d0?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-04T19:55:30.517391Z"
+      "scraped_at": "2026-11-24T10:04:55.549510Z"
     },
     {
       "id": "lubber_pandhu",
