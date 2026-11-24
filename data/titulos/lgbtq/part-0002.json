@@ -2,7 +2,7 @@
   "genre": "lgbtq",
   "part": 2,
   "count": 60,
-  "updated_at": "2026-11-24T10:02:45.149694Z",
+  "updated_at": "2026-11-24T22:38:11.388617Z",
   "titles": [
     {
       "id": "1087747-bent",
@@ -3198,10 +3198,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GDNLSD89/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T06:59:05.203544Z"
+      "scraped_at": "2026-11-24T22:35:12.852401Z"
     },
     {
       "id": "love_free_or_die",
@@ -3278,7 +3283,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T07:01:58.143728Z"
+      "scraped_at": "2026-11-24T22:38:05.032980Z"
     },
     {
       "id": "lovesong_2017",

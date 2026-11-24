@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 56,
   "count": 59,
-  "updated_at": "2026-11-24T00:05:34.384770Z",
+  "updated_at": "2026-11-24T22:38:10.250564Z",
   "titles": [
     {
       "id": "10009445-my_brothers_wedding",
@@ -3353,7 +3353,7 @@
       "genres": [
         "Drama"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 117,
@@ -3368,14 +3368,14 @@
       "metascore": null,
       "plot": "Set on one single day in August 1912 at the family's Connecticut seaside home, the story follows the Tyrone family as it faces the looming dual spectres of Edmund's potentially fatal consumption diagnosis alongside his mother Mary's increasingly fragile and anxious state of mind. The family knows that the situation threatens to return her to the severe morphine addiction that was only recently overcome.",
       "tagline": "",
-      "poster": "https://resizing.flixster.com/QxcdAevNY6Hhg84Jy-n9mgG3qiw=/300x450/v2/https://resizing.flixster.com/VQ6FllmQLuWrPcDp8N0At89SquA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkMDU1MmJjLTdlYjMtNDkwMS1hOTk2LTZhNzNlNzQwYmFkMy5qcGc=",
+      "poster": "https://resizing.flixster.com/VAn89j5NAcIeTs6_Nk95b-KBJb8=/300x450/v2/https://resizing.flixster.com/11WfMhrQIm7gp3stefePCb24-6s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE0N2I1ZWFkLTg0MTQtNGZjYi1iZDQ0LTI5MjM2NGJiYWUxOS5qcGc=",
       "images": [
         {
-          "url": "https://resizing.flixster.com/QxcdAevNY6Hhg84Jy-n9mgG3qiw=/300x450/v2/https://resizing.flixster.com/VQ6FllmQLuWrPcDp8N0At89SquA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkMDU1MmJjLTdlYjMtNDkwMS1hOTk2LTZhNzNlNzQwYmFkMy5qcGc=",
+          "url": "https://resizing.flixster.com/VAn89j5NAcIeTs6_Nk95b-KBJb8=/300x450/v2/https://resizing.flixster.com/11WfMhrQIm7gp3stefePCb24-6s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE0N2I1ZWFkLTg0MTQtNGZjYi1iZDQ0LTI5MjM2NGJiYWUxOS5qcGc=",
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/NDKMyF3QDA1fhQPjmL7gw0yD4_0=/620x336/v2/https://resizing.flixster.com/AkW8ZGJYd5FlnN52TI0GQ9X_t5c=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U0ZGY4ZjQwLWJhMzktNGExNS1iMzI5LTIxNGY5MTUwMzExYy5qcGc=",
+          "url": "https://resizing.flixster.com/Z2OjNS6feifyh9rYLwmspHHgVi8=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/245/339/thumb_EE122FF4-F13D-407B-BEF0-70CD3B0D3567.jpg",
           "caption": ""
         },
         {
@@ -3383,11 +3383,21 @@
           "caption": ""
         },
         {
+          "url": "https://resizing.flixster.com/mNfbudRNoho_J5593BjBfT4oY9Y=/fit-in/705x460/v2/https://resizing.flixster.com/11WfMhrQIm7gp3stefePCb24-6s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE0N2I1ZWFkLTg0MTQtNGZjYi1iZDQ0LTI5MjM2NGJiYWUxOS5qcGc=",
+          "caption": ""
+        },
+        {
           "url": "https://resizing.flixster.com/OsLSGNIc_OHxUnboT_VWM-CfYcE=/fit-in/705x460/v2/https://resizing.flixster.com/VQ6FllmQLuWrPcDp8N0At89SquA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkMDU1MmJjLTdlYjMtNDkwMS1hOTk2LTZhNzNlNzQwYmFkMy5qcGc=",
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "GQZPTcz5GKyu",
+        "title": "Long Day's Journey Into Night: Trailer 1",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/245/339/thumb_EE122FF4-F13D-407B-BEF0-70CD3B0D3567.jpg",
+        "seconds": 129,
+        "src": "https://link.theplatform.com/s/NGweTC/media/GQZPTcz5GKyu?formats=M3U+none"
+      },
       "directors": [
         {
           "id": "jonathan_kent",
@@ -3433,10 +3443,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Long-Days-Journey-into-Night/4858141?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T06:59:26.303023Z"
+      "scraped_at": "2026-11-24T22:35:33.640869Z"
     },
     {
       "id": "lost_weekend",
@@ -3548,7 +3563,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T07:01:06.780829Z"
+      "scraped_at": "2026-11-24T22:37:13.986419Z"
     },
     {
       "id": "mad_bills_to_pay_or_destiny_dile_que_no_soy_malo",

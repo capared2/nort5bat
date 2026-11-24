@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-11-24T10:02:44.237834Z",
+  "updated_at": "2026-11-24T22:38:10.936351Z",
   "titles": [
     {
       "id": "ab_tak_chhappan_2",
@@ -3452,10 +3452,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0H9PGNVJF/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T06:54:25.265380Z"
+      "scraped_at": "2026-11-24T22:30:26.258332Z"
     },
     {
       "id": "looted",
@@ -3581,7 +3586,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T07:00:08.516299Z"
+      "scraped_at": "2026-11-24T22:36:16.269052Z"
     },
     {
       "id": "machine_gun_mccain",

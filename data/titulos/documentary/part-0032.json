@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 32,
   "count": 60,
-  "updated_at": "2026-11-24T10:04:48.270889Z",
+  "updated_at": "2026-11-24T22:36:09.744308Z",
   "titles": [
     {
       "id": "10004275-army_of_one",
@@ -2714,10 +2714,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Llyn-Foulkes-One-Man-Band/798208?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T06:58:50.109015Z"
+      "scraped_at": "2026-11-24T22:34:57.766324Z"
     },
     {
       "id": "mama_africa_2018",

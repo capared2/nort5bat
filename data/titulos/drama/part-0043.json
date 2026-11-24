@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 43,
   "count": 60,
-  "updated_at": "2026-11-24T10:06:49.596586Z",
+  "updated_at": "2026-11-24T22:38:10.365817Z",
   "titles": [
     {
       "id": "10009138-look",
@@ -3606,7 +3606,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T06:57:27.596585Z"
+      "scraped_at": "2026-11-24T22:33:34.878586Z"
     },
     {
       "id": "love_for_sale_2007",
@@ -3722,10 +3722,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HL5NRQ63/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T07:01:56.299407Z"
+      "scraped_at": "2026-11-24T22:38:03.036143Z"
     },
     {
       "id": "mad_world_2016",
