@@ -1,8 +1,8 @@
 {
   "genre": "crime",
   "part": 23,
-  "count": 56,
-  "updated_at": "2026-11-22T19:50:59.218946Z",
+  "count": 57,
+  "updated_at": "2026-11-24T00:06:02.853863Z",
   "titles": [
     {
       "id": "10003184-turning_point",
@@ -3389,7 +3389,7 @@
         "Comedy",
         "Crime"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 175,
@@ -3397,12 +3397,12 @@
       "rating": 6.0,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 14,
+      "tomatometer_count": 16,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
       "metascore": null,
-      "plot": "A retired officer is compeled to return one final time when his family is threatened by a dangerous criminal organization.",
+      "plot": "A retired officer is compelled to return one final time when his family is threatened by a dangerous criminal organization.",
       "tagline": "",
       "poster": "https://resizing.flixster.com/n1QxcoySIT2CEzGfpxptE9RNHlA=/300x450/v2/https://resizing.flixster.com/HC2-8JjCNtPjj4YWlDB1Haw3Obs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVjYjdhOGVhLWI5ZWEtNGIzNS04NzA3LTY2OWZmNzZiMmUwYS5qcGc=",
       "images": [
@@ -3461,10 +3461,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HL7JMQNJ/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-04T06:32:27.880581Z"
+      "scraped_at": "2026-11-23T23:58:28.691738Z"
     },
     {
       "id": "johnny_cool",
@@ -3573,7 +3578,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-04T06:35:20.251839Z"
+      "scraped_at": "2026-11-24T00:01:23.537180Z"
     },
     {
       "id": "josephine",
@@ -3587,15 +3592,15 @@
         "Drama",
         "Mystery & Thriller"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 120,
       "certificate": "R",
-      "rating": 8.7,
+      "rating": 8.6,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 99,
+      "tomatometer_count": 125,
       "tomatometer_certified": true,
       "audience_score": null,
       "audience_count": null,
@@ -3631,14 +3636,6 @@
         {
           "url": "https://resizing.flixster.com/hzKOjh-wBLPlv6CrU77BA1pv_1s=/fit-in/705x460/v2/https://resizing.flixster.com/0DQLXY_W4OgmzfNCCy_2OII6Vfs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2YzM2NmZkLTE0YzMtNGUwMS1iYzliLTY2ZWRlMjc1NDYxZi5qcGc=",
           "caption": ""
-        },
-        {
-          "url": "https://resizing.flixster.com/zHbWDdJt9XOzHxdrKpeNRVQ2SLI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33849236_p_v13_ab.jpg",
-          "caption": "Josephine (2026)"
-        },
-        {
-          "url": "https://resizing.flixster.com/0i1AlrzsyxjQpn2T66aQ6Efphmw=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p33849236_p_v12_ab.jpg",
-          "caption": "Josephine (2026)"
         }
       ],
       "trailer": {
@@ -3696,7 +3693,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-04T06:35:49.966275Z"
+      "scraped_at": "2026-11-24T00:01:52.732785Z"
     },
     {
       "id": "killers_kiss",
@@ -4946,6 +4943,137 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-11-11T06:33:54.714040Z"
+    },
+    {
+      "id": "the_matador",
+      "url": "https://www.rottentomatoes.com/m/the_matador",
+      "category": "crime",
+      "type": "movie",
+      "title": "The Matador",
+      "original_title": "The Matador",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery & Thriller",
+        "Crime"
+      ],
+      "year": 2006,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": null,
+      "certificate": "R",
+      "rating": 6.9,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 151,
+      "tomatometer_certified": true,
+      "audience_score": null,
+      "audience_count": null,
+      "metascore": null,
+      "plot": "Salesman Danny Wright (Greg Kinnear) is working through his shaky marriage and the untimely death of his child when he bumps into the similarly dispirited Julian Noble (Pierce Brosnan) in a Mexican dive bar. After they develop an unusual but meaningful bond, the brash Julian reveals that he is a contract killer, which doesn't bother Danny. Months later, a desperate Julian shows up at Danny's home and asks for a life-changing favor that truly puts their friendship to the test.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/rBGz8vpYzfTGCul3cKK1_G28MvU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90519_p_v8_ak.jpg",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/rBGz8vpYzfTGCul3cKK1_G28MvU=/300x450/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90519_p_v8_ak.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/WQE6t9KV166JJKARyKfzIQVIslU=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90519_i_h10_ab.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BZLgkGQ5dzdCnTpnvzbB1N1lp4M=/fit-in/705x460/v2/https://resizing.flixster.com/fWncQOnQOpSLswtjhBveFDDj-1w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk4YzFiMmEyLTRhODktNDU1Mi05YTNmLTQyOWJlY2IwMWRjNi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/pQZLm4sJdGqQ7rJ43OLX3Q3Aupw=/fit-in/705x460/v2/https://resizing.flixster.com/zGxYLXJ-rftLUyWL1UXryRWyN_Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5Mjc3Mzc0LTVlMGMtNGM3Yi05NDM2LWQ0M2JiYTIzODFhYi53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Cydt73PXlTG4U6v6JdtzD-kAeTc=/fit-in/705x460/v2/https://resizing.flixster.com/osohVs-GTmGGO3w85J6o1qw_J_w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3NWY4NTczLTQ4Y2MtNDZhYS1iM2E1LTRkYmY0MDQ4N2UzMy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/lM9bky-5PopMkJFaYPlJXYlb-nM=/fit-in/705x460/v2/https://resizing.flixster.com/0R46xGaBTUVviLedMHuQRGS04ZY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NlZGRiZTA2LTI3MmItNGQyMS05NDIyLWQ4ZWZhZjVhMzliYS53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/Zx9qoYw5yRToKtXfL0EnzKz2YVg=/fit-in/705x460/v2/https://resizing.flixster.com/RMnjPMlmqtElcFgYBL_NnTVWFQY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk3N2U1MGIwLWQ4OTgtNDYzMS1iODFhLTBmNjE2ZGNmMTQxMC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/GeyKzJDZp_WzlZ3C75hQfpHBWkQ=/fit-in/705x460/v2/https://resizing.flixster.com/BjN8AIwM3Sdqd2i-MqlFJ09atHc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM1NmJhYTM5LWM1ZGQtNGFhZS05ZGViLTI4NThhYTYxOTU5OC53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/sVXyUZM7CvaIyvx8bT3Tcr9GL98=/fit-in/705x460/v2/https://resizing.flixster.com/2azt7GsiD2fIMK6OgBUmn2pq3bU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q2ZDJiYzk2LWJmYjMtNGE0Mi1iMTM3LTQ1ZWFhYWJhMDVhMy53ZWJw",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/62gwcAq7xEuq984Hb2I969ENQ3Q=/fit-in/705x460/v2/https://resizing.flixster.com/PsHvZ169EjVYhCuk5Z0bjIXlVkA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ5ODViMTA0LWY3NDgtNGJkNS1iZjM5LTlhZjYwZWY2YmYzNy53ZWJw",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "richard_shepard",
+          "name": "Richard Shepard"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "pierce_brosnan",
+          "name": "Pierce Brosnan",
+          "character": "",
+          "image": "https://resizing.flixster.com/puxxRbFl4uDIcTJMzXTN_RwKDcY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/212_v9_bd.jpg"
+        },
+        {
+          "id": "greg_kinnear",
+          "name": "Greg Kinnear",
+          "character": "",
+          "image": "https://resizing.flixster.com/9zcaLpBlmZxHPf7Xq0M9XNTNQOk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/68312_v9_bc.jpg"
+        },
+        {
+          "id": "hope_davis",
+          "name": "Hope Davis",
+          "character": "",
+          "image": "https://resizing.flixster.com/5qvpnrF-1InnaSrOtQ0APRk-3fY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/75716_v9_bc.jpg"
+        },
+        {
+          "id": "philip_baker_hall",
+          "name": "Philip Baker Hall",
+          "character": "",
+          "image": "https://resizing.flixster.com/SoOb1gc6JTduAG4E3O84GLddqWY=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73552_v9_ba.jpg"
+        },
+        {
+          "id": "dylan_baker",
+          "name": "Dylan Baker",
+          "character": "",
+          "image": "https://resizing.flixster.com/nM_7KnHal1CuZT_Gw1ImZQGEhIk=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/77210_v9_bb.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/The-Matador/60975?cmp=rt_where_to_watch"
+        },
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GW76DLVK/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-24T00:06:02.664808Z"
     },
     {
       "id": "the_only_living_pickpocket_in_new_york",

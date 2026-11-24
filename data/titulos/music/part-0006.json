@@ -1,8 +1,8 @@
 {
   "genre": "music",
   "part": 6,
-  "count": 41,
-  "updated_at": "2026-11-22T07:04:13.560514Z",
+  "count": 42,
+  "updated_at": "2026-11-24T00:06:03.128884Z",
   "titles": [
     {
       "id": "1215016-anita_oday_the_life_of_a_jazz_singer",
@@ -1433,7 +1433,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-04T06:36:20.645481Z"
+      "scraped_at": "2026-11-24T00:02:24.107466Z"
     },
     {
       "id": "let_it_be",
@@ -3296,6 +3296,98 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-11-11T19:40:27.444783Z"
+    },
+    {
+      "id": "the_metropolitan_opera_the_magic_flute",
+      "url": "https://www.rottentomatoes.com/m/the_metropolitan_opera_the_magic_flute",
+      "category": "music",
+      "type": "movie",
+      "title": "The Metropolitan Opera: The Magic Flute",
+      "original_title": "The Metropolitan Opera: The Magic Flute",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 116,
+      "certificate": "In Theaters Dec 5",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": null,
+      "metascore": null,
+      "plot": "The Met made history in December 2006 when it presented its first Live in HD transmission to cinemas worldwide: the abridged English-language version of Mozart's The Magic Flute. Julie Taymor's whimsical production features a winning ensemble--including tenor Matthew Polenzani, baritone Nathan Gunn, and bass René Pape--and returns to select movie theaters for a special encore presentation during the holiday season.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/aRTgKUE6erJ1JBumE2E5nzFF8lw=/300x450/v2/https://resizing.flixster.com/GyfncZxDIdie5FpJ90jtmh6Z6Zs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5MWRlYTEwLTM0N2YtNDQ5OC04NjM2LTQ4MWY1Mzg0MjNhZi5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/aRTgKUE6erJ1JBumE2E5nzFF8lw=/300x450/v2/https://resizing.flixster.com/GyfncZxDIdie5FpJ90jtmh6Z6Zs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5MWRlYTEwLTM0N2YtNDQ5OC04NjM2LTQ4MWY1Mzg0MjNhZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/rYRXEuVBZu5oDMCTtAmQiBFHwKw=/fit-in/705x460/v2/https://resizing.flixster.com/GyfncZxDIdie5FpJ90jtmh6Z6Zs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI5MWRlYTEwLTM0N2YtNDQ5OC04NjM2LTQ4MWY1Mzg0MjNhZi5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/cCVDCkYDdbbxNToDpBu5i35IaUE=/fit-in/705x460/v2/https://resizing.flixster.com/E_Zm-TglVt0FvOOzcYBwO5nOmf8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUyOTg0YmVkLWE0Y2MtNGNkNS1hMzE4LTQyODk3Y2E5YmEzZS5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "julie_taymor",
+          "name": "Julie Taymor"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "ying_huang",
+          "name": "Ying Huang",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "erika_miklosa",
+          "name": "Erika Miklósa",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "matthew_polenzani",
+          "name": "Matthew Polenzani",
+          "character": "",
+          "image": "https://resizing.flixster.com/-GjY7h4YKJAnl06Qm9hHvIoseAw=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/255267_v9_bb.jpg"
+        },
+        {
+          "id": "nathan_gunn",
+          "name": "Nathan Gunn",
+          "character": "",
+          "image": "https://resizing.flixster.com/p0Fth0UnTeA87e1HyZbHrArsVLU=/120x150/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/534415_v9_aa.jpg"
+        },
+        {
+          "id": "greg_fedderly",
+          "name": "Greg Fedderly",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-24T00:06:01.533665Z"
     },
     {
       "id": "tomorrow_x_together_world_tour_act_tomorrow",

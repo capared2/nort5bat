@@ -1,8 +1,8 @@
 {
   "genre": "musical",
   "part": 4,
-  "count": 53,
-  "updated_at": "2026-11-23T07:47:12.898116Z",
+  "count": 54,
+  "updated_at": "2026-11-24T00:06:03.115832Z",
   "titles": [
     {
       "id": "1077332-pippi_longstocking",
@@ -2561,7 +2561,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-04T06:33:52.977584Z"
+      "scraped_at": "2026-11-23T23:59:52.608761Z"
     },
     {
       "id": "kabhi_alvida_naa_kehna",
@@ -2675,7 +2675,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-04T06:38:11.583896Z"
+      "scraped_at": "2026-11-24T00:04:15.826670Z"
     },
     {
       "id": "mambo_kings",
@@ -5251,6 +5251,94 @@
       "similar": [],
       "source": "rottentomatoes.com",
       "scraped_at": "2026-11-11T19:41:19.326573Z"
+    },
+    {
+      "id": "the_metropolitan_opera_samson_et_dalila",
+      "url": "https://www.rottentomatoes.com/m/the_metropolitan_opera_samson_et_dalila",
+      "category": "musical",
+      "type": "movie",
+      "title": "The Metropolitan Opera: Samson et Dalila",
+      "original_title": "The Metropolitan Opera: Samson et Dalila",
+      "genres": [
+        "Drama",
+        "Musical"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 234,
+      "certificate": "In Theaters Dec 5",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": null,
+      "metascore": null,
+      "plot": "Sacred, scandalous, and irresistibly alluring, Saint-Saëns's spectacular take on the biblical hero of legendary strength and the seductive Philistine whose beauty overpowers him returns in the Met's larger-than-life production. Featuring a massive orchestra and chorus and some of opera's most spellbinding tunes, this masterpiece of French grand opera is a feast for the eyes and ears. Giacomo Sagripanti conducts an electrifying cast led by the formidable star pairing of mezzo-soprano Aigul Akhmetshina and tenor Clay Hilley, transmitted live to cinemas worldwide.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/QhAZytglg4bgSuiZKHxj53zY44I=/300x450/v2/https://resizing.flixster.com/anBmZ1VF7cVJfz9p0HvtYIS7y7k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JiYzA0MmM1LTI0N2EtNGUyYi1iMmQxLThmZGFiOTc4M2EzYy5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/QhAZytglg4bgSuiZKHxj53zY44I=/300x450/v2/https://resizing.flixster.com/anBmZ1VF7cVJfz9p0HvtYIS7y7k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JiYzA0MmM1LTI0N2EtNGUyYi1iMmQxLThmZGFiOTc4M2EzYy5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/_3uzXIMMYNsvBKtzIdhFe-6lk9Y=/fit-in/705x460/v2/https://resizing.flixster.com/anBmZ1VF7cVJfz9p0HvtYIS7y7k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JiYzA0MmM1LTI0N2EtNGUyYi1iMmQxLThmZGFiOTc4M2EzYy5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "darko_tresnjak",
+          "name": "Darko Tresnjak"
+        }
+      ],
+      "writers": [],
+      "cast": [
+        {
+          "id": "aigul_akhmetshina",
+          "name": "Aigul Akhmetshina",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "clay_hilley",
+          "name": "Clay Hilley",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "quinn_kelsey",
+          "name": "Quinn Kelsey",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "alfred_walker",
+          "name": "Alfred Walker",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        },
+        {
+          "id": "morris_robinson",
+          "name": "Morris Robinson",
+          "character": "",
+          "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
+        }
+      ],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-24T00:05:59.493569Z"
     },
     {
       "id": "the_three_caballeros",
