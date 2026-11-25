@@ -2,7 +2,7 @@
   "genre": "romance",
   "part": 19,
   "count": 60,
-  "updated_at": "2026-11-25T08:50:00.912701Z",
+  "updated_at": "2026-11-25T21:49:14.346898Z",
   "titles": [
     {
       "id": "10",
@@ -4900,10 +4900,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HKJGHB1G/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T06:53:45.250552Z"
+      "scraped_at": "2026-11-25T21:45:28.428070Z"
     },
     {
       "id": "miami_rhapsody",
@@ -5008,7 +5013,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T06:56:29.389604Z"
+      "scraped_at": "2026-11-25T21:48:11.991449Z"
     },
     {
       "id": "not_suitable_for_children",
