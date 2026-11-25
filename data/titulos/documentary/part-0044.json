@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 44,
   "count": 44,
-  "updated_at": "2026-11-24T22:38:10.623917Z",
+  "updated_at": "2026-11-25T08:45:58.142374Z",
   "titles": [
     {
       "id": "14th",
@@ -1655,10 +1655,10 @@
       "release_date": null,
       "runtime_minutes": 89,
       "certificate": null,
-      "rating": null,
+      "rating": 7.1,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": null,
+      "tomatometer_count": 20,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
@@ -1766,7 +1766,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:03:38.009893Z"
+      "scraped_at": "2026-11-25T08:45:41.937356Z"
     },
     {
       "id": "making_marie_antoinette",
@@ -1778,7 +1778,7 @@
       "genres": [
         "Documentary"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 86,
@@ -1786,8 +1786,8 @@
       "rating": 8.0,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 35,
-      "tomatometer_certified": false,
+      "tomatometer_count": 41,
+      "tomatometer_certified": true,
       "audience_score": null,
       "audience_count": null,
       "metascore": null,
@@ -1804,7 +1804,35 @@
           "caption": ""
         },
         {
+          "url": "https://resizing.flixster.com/F2K079Ftzxk-jrT0QTdMf6I35qo=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34426906_i_h9_ab.jpg",
+          "caption": "Making Marie Antoinette (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/IG4qPaAkPwFGXtcB8OAeZtLJQvk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34426906_i_v9_ab.jpg",
+          "caption": "Making Marie Antoinette (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/PrLF4yds9n9G2XpBjj98ch3w2II=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34426906_i_v8_ab.jpg",
+          "caption": "Making Marie Antoinette (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/1QoocAt3q4NRGzV6jCqJInvdAVA=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34426906_i_h10_ab.jpg",
+          "caption": "Making Marie Antoinette (2026)"
+        },
+        {
           "url": "https://resizing.flixster.com/_GxZyJ8IiirpneLhM-oeCuSDXeQ=/fit-in/705x460/v2/https://resizing.flixster.com/WZbSeu77nP0mRzvPjXHc4Gm7fmo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IwOTFkOWViLTFmZjItNGQ2OC1iNzg1LTJiYzk3OTlhMzEwMS5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/K-lBDqcnfeUL6jGdoBbPQeb4My4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34426906_p_v8_aa.jpg",
+          "caption": "Making Marie Antoinette (2026)"
+        },
+        {
+          "url": "https://resizing.flixster.com/lgFt1dRdpZs5zMhzG588VqjWFfM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34426906_v_h9_aa.jpg",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/vfz8raTgRT8R7m1fLUULJA0N-P4=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p34426906_v_v9_aa.jpg",
           "caption": ""
         }
       ],
@@ -1829,10 +1857,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Stream",
+          "url": "https://athome.fandango.com/content/browse/details/Making-Marie-Antoinette/5276350?cmp=rt_where_to_watch"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:03:42.710907Z"
+      "scraped_at": "2026-11-25T08:45:46.728964Z"
     },
     {
       "id": "megadoc",

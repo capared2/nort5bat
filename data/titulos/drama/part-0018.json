@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 18,
   "count": 60,
-  "updated_at": "2026-11-24T22:34:08.117892Z",
+  "updated_at": "2026-11-25T08:43:55.933540Z",
   "titles": [
     {
       "id": "10002635-bridge_of_san_luis_rey",
@@ -3973,10 +3973,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0FWJ57M68/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:00:20.864426Z"
+      "scraped_at": "2026-11-25T08:42:25.463427Z"
     },
     {
       "id": "mia_madre",

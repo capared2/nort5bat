@@ -2,7 +2,7 @@
   "genre": "horror",
   "part": 23,
   "count": 60,
-  "updated_at": "2026-11-24T22:32:07.401947Z",
+  "updated_at": "2026-11-25T08:47:59.044564Z",
   "titles": [
     {
       "id": "1001428-awakening",
@@ -3226,7 +3226,7 @@
       "genres": [
         "Horror"
       ],
-      "year": null,
+      "year": 2025,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 108,
@@ -3298,7 +3298,7 @@
       "writers": [],
       "cast": [
         {
-          "id": "undefined",
+          "id": "caitlin_acken_taylor_2",
           "name": "Caitlin Acken Taylor",
           "character": "",
           "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
@@ -3310,7 +3310,7 @@
           "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
         },
         {
-          "id": "undefined",
+          "id": "jo_barnes",
           "name": "Jo Barnes",
           "character": "",
           "image": "https://resizing.flixster.com/4cVv9MTcdKmVak6KwbsssaRFnFg=/120x150/v2/https://images.fandango.com/cms/assets/b0cefeb0-b6a8-11ed-81d8-51a487a38835--poster-default-thumbnail.jpg"
@@ -3328,10 +3328,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/lucid/umc.cmc.3fsycl13gkhqjr39nxlo38jvd?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:00:43.416302Z"
+      "scraped_at": "2026-11-25T08:42:47.405408Z"
     },
     {
       "id": "madres_2021",
@@ -3455,7 +3460,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:02:42.734416Z"
+      "scraped_at": "2026-11-25T08:44:46.896180Z"
     },
     {
       "id": "mama_bear",
@@ -3559,7 +3564,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:04:05.968898Z"
+      "scraped_at": "2026-11-25T08:46:10.725034Z"
     },
     {
       "id": "migraine_2024",

@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 5,
   "count": 60,
-  "updated_at": "2026-11-24T22:38:11.355421Z",
+  "updated_at": "2026-11-25T08:50:22.619719Z",
   "titles": [
     {
       "id": "10006490",
@@ -2790,7 +2790,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:01:27.370011Z"
+      "scraped_at": "2026-11-25T08:43:31.374153Z"
     },
     {
       "id": "marley",
@@ -2895,7 +2895,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:06:35.058591Z"
+      "scraped_at": "2026-11-25T08:48:36.433601Z"
     },
     {
       "id": "matangimayamia",
@@ -2987,10 +2987,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0G1V2C586/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:07:46.874030Z"
+      "scraped_at": "2026-11-25T08:49:47.516908Z"
     },
     {
       "id": "max_richters_sleep",
@@ -3088,7 +3093,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:08:18.852054Z"
+      "scraped_at": "2026-11-25T08:50:19.718507Z"
     },
     {
       "id": "milford_graves_full_mantis",

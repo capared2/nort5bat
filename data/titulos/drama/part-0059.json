@@ -2,7 +2,7 @@
   "genre": "drama",
   "part": 59,
   "count": 45,
-  "updated_at": "2026-11-24T22:34:08.315818Z",
+  "updated_at": "2026-11-25T08:47:58.907616Z",
   "titles": [
     {
       "id": "10007169-pied_piper",
@@ -2972,15 +2972,15 @@
         "Documentary",
         "Drama"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 91,
       "certificate": "Oct 2026",
-      "rating": 7.9,
+      "rating": 7.7,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 14,
+      "tomatometer_count": 19,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
@@ -3013,10 +3013,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HHYM6Z47/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/manhood/umc.cmc.609ihsbxgs0nw0lqxpl3xw49j?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:05:18.474308Z"
+      "scraped_at": "2026-11-25T08:47:21.059912Z"
     },
     {
       "id": "minotaur_2026",

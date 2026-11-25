@@ -2,7 +2,7 @@
   "genre": "sci-fi",
   "part": 12,
   "count": 60,
-  "updated_at": "2026-11-24T22:38:10.434409Z",
+  "updated_at": "2026-11-25T08:50:01.124480Z",
   "titles": [
     {
       "id": "12-to-the-moon",
@@ -3738,15 +3738,10 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [
-        {
-          "name": "Prime Video",
-          "url": "http://www.amazon.com/gp/product/B0H4TF1Y7Q/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
-        }
-      ],
+      "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:01:41.268775Z"
+      "scraped_at": "2026-11-25T08:43:45.399261Z"
     },
     {
       "id": "mars_needs_women",
@@ -3763,10 +3758,10 @@
       "release_date": null,
       "runtime_minutes": 82,
       "certificate": null,
-      "rating": null,
+      "rating": 2.9,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": null,
+      "tomatometer_count": 8,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
@@ -3858,7 +3853,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:06:55.926714Z"
+      "scraped_at": "2026-11-25T08:48:57.344123Z"
     },
     {
       "id": "megaforce",

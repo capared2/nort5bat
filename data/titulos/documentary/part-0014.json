@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 14,
   "count": 60,
-  "updated_at": "2026-11-24T22:38:10.586975Z",
+  "updated_at": "2026-11-25T08:47:59.288254Z",
   "titles": [
     {
       "id": "20_feet_from_stardom",
@@ -2938,10 +2938,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HKB8B8NT/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:05:38.937161Z"
+      "scraped_at": "2026-11-25T08:47:41.084707Z"
     },
     {
       "id": "merchants_of_doubt",

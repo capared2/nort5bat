@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 53,
   "count": 57,
-  "updated_at": "2026-11-24T00:06:02.772866Z",
+  "updated_at": "2026-11-25T08:45:57.848101Z",
   "titles": [
     {
       "id": "a_dogs_perfect_christmas",
@@ -2376,15 +2376,15 @@
         "Drama",
         "Sports"
       ],
-      "year": null,
+      "year": 2026,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 110,
       "certificate": "R",
-      "rating": null,
+      "rating": 3.5,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 0,
+      "tomatometer_count": 54,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
@@ -2486,10 +2486,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0G6MYKBR4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-05T20:02:17.213211Z"
+      "scraped_at": "2026-11-25T08:44:21.573061Z"
     },
     {
       "id": "mayday_2026",
