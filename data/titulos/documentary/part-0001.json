@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 1,
   "count": 60,
-  "updated_at": "2026-11-25T08:49:59.581635Z",
+  "updated_at": "2026-11-26T21:46:14.420394Z",
   "titles": [
     {
       "id": "a_beautiful_planet",
@@ -3639,7 +3639,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-07T06:08:32.766760Z"
+      "scraped_at": "2026-11-26T21:42:47.493057Z"
     },
     {
       "id": "one_child_nation",
@@ -3734,10 +3734,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0HH5JK3HX/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-07T06:11:34.425779Z"
+      "scraped_at": "2026-11-26T21:45:49.026870Z"
     },
     {
       "id": "operation_varsity_blues_the_college_admissions_scandal",
