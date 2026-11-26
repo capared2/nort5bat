@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 9,
   "count": 59,
-  "updated_at": "2026-11-25T21:51:14.585800Z",
+  "updated_at": "2026-11-26T08:34:38.583657Z",
   "titles": [
     {
       "id": "10012039-lottery_ticket",
@@ -4208,7 +4208,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:28:39.716862Z"
+      "scraped_at": "2026-11-26T08:27:42.608610Z"
     },
     {
       "id": "my_little_sisters_wedding",
@@ -4306,7 +4306,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:32:22.003927Z"
+      "scraped_at": "2026-11-26T08:31:22.929776Z"
     },
     {
       "id": "my_redneck_neighbor_chapter_2",
@@ -4386,10 +4386,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0CVN9L4D2/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:32:47.235694Z"
+      "scraped_at": "2026-11-26T08:31:47.682869Z"
     },
     {
       "id": "national_lampoons_vacation",
@@ -4494,7 +4499,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:34:23.883065Z"
+      "scraped_at": "2026-11-26T08:33:23.388253Z"
     },
     {
       "id": "perfect_score",

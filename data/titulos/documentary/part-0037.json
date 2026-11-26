@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 37,
   "count": 59,
-  "updated_at": "2026-11-25T21:53:15.622213Z",
+  "updated_at": "2026-11-26T08:32:36.419183Z",
   "titles": [
     {
       "id": "10004617-letter",
@@ -2562,10 +2562,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/music-from-the-big-house/umc.cmc.3l1ybxveig5jk8md064z9vojd?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:30:44.193411Z"
+      "scraped_at": "2026-11-26T08:29:46.079802Z"
     },
     {
       "id": "my_octopus_teacher",
@@ -2658,7 +2663,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:32:36.989206Z"
+      "scraped_at": "2026-11-26T08:31:36.514625Z"
     },
     {
       "id": "next_goal_wins",

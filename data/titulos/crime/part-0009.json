@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 9,
   "count": 60,
-  "updated_at": "2026-11-25T21:53:16.537572Z",
+  "updated_at": "2026-11-26T08:34:37.857782Z",
   "titles": [
     {
       "id": "10004288-running_scared",
@@ -4094,7 +4094,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:30:15.458705Z"
+      "scraped_at": "2026-11-26T08:29:17.023367Z"
     },
     {
       "id": "murphys_law",
@@ -4194,13 +4194,17 @@
       "gross_worldwide": null,
       "streaming": [
         {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DZ3KX437/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
           "name": "Apple TV",
           "url": "https://tv.apple.com/us/movie/murphys-law/umc.cmc.2t0n1rymtoa47xc92ofc1amdd?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
         }
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:30:33.998195Z"
+      "scraped_at": "2026-11-26T08:29:36.172308Z"
     },
     {
       "id": "narc",
@@ -4219,10 +4223,10 @@
       "release_date": null,
       "runtime_minutes": 105,
       "certificate": "R",
-      "rating": 7.4,
+      "rating": 7.3,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 152,
+      "tomatometer_count": 153,
       "tomatometer_certified": true,
       "audience_score": null,
       "audience_count": null,
@@ -4275,7 +4279,7 @@
       "trailer": null,
       "directors": [
         {
-          "id": null,
+          "id": "joe_carnahan",
           "name": "Joe Carnahan"
         }
       ],
@@ -4326,7 +4330,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-06T19:33:56.079794Z"
+      "scraped_at": "2026-11-26T08:32:57.340217Z"
     },
     {
       "id": "no_good_deed",
