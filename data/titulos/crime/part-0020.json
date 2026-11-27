@@ -2,7 +2,7 @@
   "genre": "crime",
   "part": 20,
   "count": 60,
-  "updated_at": "2026-11-26T21:40:10.979294Z",
+  "updated_at": "2026-11-27T08:45:06.524117Z",
   "titles": [
     {
       "id": "10002709-undercover_man",
@@ -3559,7 +3559,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-07T13:11:19.353750Z"
+      "scraped_at": "2026-11-27T08:43:14.662569Z"
     },
     {
       "id": "out_of_spite",
@@ -3652,10 +3652,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D8G8S7P4/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-07T13:11:23.361057Z"
+      "scraped_at": "2026-11-27T08:43:17.666805Z"
     },
     {
       "id": "pani",
@@ -3777,7 +3782,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-07T13:13:04.444665Z"
+      "scraped_at": "2026-11-27T08:44:57.888360Z"
     },
     {
       "id": "pimpinero_blood_and_oil",

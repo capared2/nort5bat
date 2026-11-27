@@ -1,13 +1,13 @@
 {
   "source": "rottentomatoes.com",
-  "generated_at": "2026-11-26T21:46:38.117543Z",
+  "generated_at": "2026-11-27T08:49:32.790817Z",
   "total_titles": 20991,
   "total_genres": 27,
   "genres": [
     {
       "genre": "drama",
       "name": "Drama",
-      "titles": 3524,
+      "titles": 3523,
       "files": [
         {
           "file": "titulos/drama/part-0001.json",
@@ -35,7 +35,7 @@
         },
         {
           "file": "titulos/drama/part-0007.json",
-          "count": 60
+          "count": 59
         },
         {
           "file": "titulos/drama/part-0008.json",
@@ -987,7 +987,7 @@
     {
       "genre": "romance",
       "name": "Romance",
-      "titles": 1589,
+      "titles": 1590,
       "files": [
         {
           "file": "titulos/romance/part-0001.json",
@@ -1095,10 +1095,10 @@
         },
         {
           "file": "titulos/romance/part-0027.json",
-          "count": 29
+          "count": 30
         }
       ],
-      "tagged": 1862
+      "tagged": 1863
     },
     {
       "genre": "adventure",

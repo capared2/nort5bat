@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 22,
   "count": 60,
-  "updated_at": "2026-11-26T21:46:14.405631Z",
+  "updated_at": "2026-11-27T08:43:05.500757Z",
   "titles": [
     {
       "id": "2016_obamas_america",
@@ -3188,10 +3188,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GLS4G455/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-07T13:10:51.852914Z"
+      "scraped_at": "2026-11-27T08:42:48.363457Z"
     },
     {
       "id": "salvador_allende",
