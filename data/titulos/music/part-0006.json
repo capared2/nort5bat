@@ -2,7 +2,7 @@
   "genre": "music",
   "part": 6,
   "count": 42,
-  "updated_at": "2026-11-27T08:45:07.455259Z",
+  "updated_at": "2026-11-27T21:30:31.563198Z",
   "titles": [
     {
       "id": "1215016-anita_oday_the_life_of_a_jazz_singer",
@@ -2419,11 +2419,21 @@
           "caption": ""
         },
         {
+          "url": "https://resizing.flixster.com/jRo0221yJFVxQA6EuDBiiGsHQHs=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/288/807/thumb_0347839E-E6F5-4B91-B4BB-C9484778D8DE.jpg",
+          "caption": ""
+        },
+        {
           "url": "https://resizing.flixster.com/VkmuztUPN9nv157FWDrgx1gstYo=/fit-in/705x460/v2/https://resizing.flixster.com/TEJstzFGO90bCnoBcB_IGahHXn8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM5NmIyYjQyLTFiNDAtNDYxOC1iYzVjLWRkY2QyMGEyZDY0YS5qcGc=",
           "caption": ""
         }
       ],
-      "trailer": null,
+      "trailer": {
+        "id": "BKy_LvoEJ4tm",
+        "title": "Prince: 3121 Las Vegas Live: Official Trailer",
+        "thumbnail": "https://statcdn.fandango.com/MPX/image/NBCU_Fandango/288/807/thumb_0347839E-E6F5-4B91-B4BB-C9484778D8DE.jpg",
+        "seconds": 107,
+        "src": "https://link.theplatform.com/s/NGweTC/media/BKy_LvoEJ4tm?formats=M3U+none"
+      },
       "directors": [],
       "writers": [],
       "cast": [],
@@ -2436,7 +2446,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-11T06:39:52.533204Z"
+      "scraped_at": "2026-11-27T21:27:28.617406Z"
     },
     {
       "id": "queen_budapest",
@@ -2524,10 +2534,19 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0GWKS8QPY/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        },
+        {
+          "name": "Apple TV",
+          "url": "https://tv.apple.com/us/movie/queen-budapest/umc.cmc.meqq5735hcuo6ojt4uw6h33z?action=play&cmp=rt_where_to_watch&itsct=RT&itscg=30200&at=10l9IP"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-07T22:02:30.286203Z"
+      "scraped_at": "2026-11-27T21:30:13.405651Z"
     },
     {
       "id": "queen_hungarian_rhapsody_live_in_budapest_86",
