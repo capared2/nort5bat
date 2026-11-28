@@ -2,7 +2,7 @@
   "genre": "documentary",
   "part": 11,
   "count": 60,
-  "updated_at": "2026-11-27T21:26:29.928573Z",
+  "updated_at": "2026-11-28T08:00:59.652784Z",
   "titles": [
     {
       "id": "76_days",
@@ -3243,7 +3243,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-08T06:08:29.430454Z"
+      "scraped_at": "2026-11-28T07:55:22.929975Z"
     },
     {
       "id": "reclaiming_our_humanity",
@@ -3304,10 +3304,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0DBFS58F8/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-08T06:10:50.444021Z"
+      "scraped_at": "2026-11-28T07:57:46.923306Z"
     },
     {
       "id": "rejoice_and_shout",
@@ -3400,7 +3405,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-08T06:12:06.839087Z"
+      "scraped_at": "2026-11-28T07:59:04.677666Z"
     },
     {
       "id": "s_he_is_still_her_e_the_official_genesis_p_orridge_documentary",

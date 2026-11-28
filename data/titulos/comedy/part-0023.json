@@ -2,7 +2,7 @@
   "genre": "comedy",
   "part": 23,
   "count": 60,
-  "updated_at": "2026-11-27T21:26:29.822856Z",
+  "updated_at": "2026-11-28T08:03:00.288231Z",
   "titles": [
     {
       "id": "10008678-wild_child",
@@ -4974,10 +4974,15 @@
       "companies": [],
       "budget": null,
       "gross_worldwide": null,
-      "streaming": [],
+      "streaming": [
+        {
+          "name": "Prime Video",
+          "url": "http://www.amazon.com/gp/product/B0D9PDHS1P/ref=pv_ag_gcf?cmp=rt_where_to_watch&tag=rottetomao-20"
+        }
+      ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-08T06:09:42.565692Z"
+      "scraped_at": "2026-11-28T07:56:36.740603Z"
     },
     {
       "id": "road_hard",
@@ -5095,7 +5100,7 @@
       ],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-08T06:15:37.850699Z"
+      "scraped_at": "2026-11-28T08:02:34.196135Z"
     },
     {
       "id": "soapdish",

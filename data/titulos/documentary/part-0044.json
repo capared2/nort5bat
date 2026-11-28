@@ -1,8 +1,8 @@
 {
   "genre": "documentary",
   "part": 44,
-  "count": 44,
-  "updated_at": "2026-11-27T21:26:29.942257Z",
+  "count": 45,
+  "updated_at": "2026-11-28T08:03:00.929149Z",
   "titles": [
     {
       "id": "14th",
@@ -2368,15 +2368,15 @@
       "genres": [
         "Documentary"
       ],
-      "year": null,
+      "year": 1986,
       "end_year": null,
       "release_date": null,
       "runtime_minutes": 95,
-      "certificate": "In Theaters Nov 20",
+      "certificate": null,
       "rating": null,
       "votes": null,
       "tomatometer": null,
-      "tomatometer_count": 1,
+      "tomatometer_count": 2,
       "tomatometer_certified": false,
       "audience_score": null,
       "audience_count": null,
@@ -2394,12 +2394,12 @@
           "caption": ""
         },
         {
-          "url": "https://resizing.flixster.com/2Vo9f5UXOpixdluQ93kQNjRs61w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p96563_i_h10_ab.jpg",
-          "caption": "Rate It X (1986)"
-        },
-        {
           "url": "https://resizing.flixster.com/An7LuqvleI7idwijtjrW3oep-r4=/fit-in/705x460/v2/https://resizing.flixster.com/0UOfYPHAn17yFyya_meQYtkVBlw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVmMzBkNWViLTZiOGMtNGZjNi05YzM3LTM4YmMzZjdlMGE3OC5qcGc=",
           "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/2Vo9f5UXOpixdluQ93kQNjRs61w=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p96563_i_h10_ab.jpg",
+          "caption": "Rate It X (1986)"
         }
       ],
       "trailer": null,
@@ -2424,7 +2424,7 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-13T06:59:21.258237Z"
+      "scraped_at": "2026-11-28T07:56:43.726333Z"
     },
     {
       "id": "rich_hill",
@@ -2541,7 +2541,63 @@
       "streaming": [],
       "similar": [],
       "source": "rottentomatoes.com",
-      "scraped_at": "2026-11-08T06:14:11.840195Z"
+      "scraped_at": "2026-11-28T08:01:09.112843Z"
+    },
+    {
+      "id": "robert_richardson_the_white_devil",
+      "url": "https://www.rottentomatoes.com/m/robert_richardson_the_white_devil",
+      "category": "documentary",
+      "type": "movie",
+      "title": "Robert Richardson: The White Devil",
+      "original_title": "Robert Richardson: The White Devil",
+      "genres": [
+        "Documentary"
+      ],
+      "year": null,
+      "end_year": null,
+      "release_date": null,
+      "runtime_minutes": 105,
+      "certificate": "Nov 2026",
+      "rating": null,
+      "votes": null,
+      "tomatometer": null,
+      "tomatometer_count": 0,
+      "tomatometer_certified": false,
+      "audience_score": null,
+      "audience_count": null,
+      "metascore": null,
+      "plot": "What started as a student exercise and master's degree project soon evolved into a creative partnership and personal friendship between Jana Hojdová, a former cinematography student at Prague's FAMU, and distinguished cinematographer Robert Richardson.",
+      "tagline": "",
+      "poster": "https://resizing.flixster.com/I4wbnG2-jfecu55bMzSNXlXcTA4=/300x450/v2/https://resizing.flixster.com/zrhi4fMfQvWiW738yt6fdtVzdEA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYxZGI3YmJlLWE0YjgtNGE5YS1hNWI1LTBiNjczYTk4ZTRjNC5qcGc=",
+      "images": [
+        {
+          "url": "https://resizing.flixster.com/I4wbnG2-jfecu55bMzSNXlXcTA4=/300x450/v2/https://resizing.flixster.com/zrhi4fMfQvWiW738yt6fdtVzdEA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYxZGI3YmJlLWE0YjgtNGE5YS1hNWI1LTBiNjczYTk4ZTRjNC5qcGc=",
+          "caption": ""
+        },
+        {
+          "url": "https://resizing.flixster.com/BlLQVK6Fve3n-jAnlVInTLOfk8U=/fit-in/705x460/v2/https://resizing.flixster.com/zrhi4fMfQvWiW738yt6fdtVzdEA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzYxZGI3YmJlLWE0YjgtNGE5YS1hNWI1LTBiNjczYTk4ZTRjNC5qcGc=",
+          "caption": ""
+        }
+      ],
+      "trailer": null,
+      "directors": [
+        {
+          "id": "jana_hojdova",
+          "name": "Jana Hojdová"
+        }
+      ],
+      "writers": [],
+      "cast": [],
+      "keywords": [],
+      "countries": [],
+      "languages": [],
+      "companies": [],
+      "budget": null,
+      "gross_worldwide": null,
+      "streaming": [],
+      "similar": [],
+      "source": "rottentomatoes.com",
+      "scraped_at": "2026-11-28T08:02:55.172164Z"
     },
     {
       "id": "saint-misbehavin-the-wavy-gravy-movie",
